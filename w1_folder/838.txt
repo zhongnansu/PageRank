@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Material flow accounting - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Material_flow_accounting","wgTitle":"Material flow accounting","wgCurRevisionId":841218885,"wgRevisionId":841218885,"wgArticleId":11438515,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from January 2018","Articles with permanently dead external links","Resource economics","Industrial ecology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Material_flow_accounting","wgRelevantArticleId":11438515,"wgRequestId":"W8GNGwpAIEIAAFpvfhoAAAAA","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q17146151","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Material_flow_accounting" rel="alternate"/>
+<link href="/w/index.php?title=Material_flow_accounting&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Material_flow_accounting&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Material_flow_accounting" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Material_flow_accounting rootpage-Material_flow_accounting skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Material flow accounting</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Material flow accounting</b> (<b>MFA</b>) is the study of material flows on a national or regional scale. It is therefore sometimes also referred to as regional, national or economy-wide <a href="/wiki/Material_flow_analysis" title="Material flow analysis">material flow analysis</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Introduction"><span class="tocnumber">1</span> <span class="toctext">Introduction</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Scope_and_Indicators"><span class="tocnumber">2</span> <span class="toctext">Scope and Indicators</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Introduction">Introduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_accounting&amp;action=edit&amp;section=1" title="Edit section: Introduction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Material flow accounting provides economy-wide data on material use. Through international standardization, this data has become reliable and comparable across countries.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>  Increasingly, the data are also being made available in medium- to long-term time series allowing for the analysis of past trends as well as potential future developments. Material flow accounts provide information on the material inputs into, the changes in material stock within, and the material outputs in the form of exports to other economies or discharges to the environment of an economy. Material flow accounting can be used in national planning, especially for scarce resources, and also allows for forecasting. The method can be used to assess environmental burdens associated with the economic activities of a nation and to determine how material intensive an economy is.
+</p>
+<blockquote>
+<p>The principle concept underlying MFA is a simple model of this interrelation between the economy and the environment, in which the economy is an embedded subsystem of the environment. Similar to living beings, this subsystem is dependent on a constant throughput of materials and energy. Raw materials, water and air are extracted from the natural system as inputs, transformed into products and finally re-transferred to the natural system as outputs (waste and emissions). In order to highlight the similarity to natural metabolic processes, the terms “industrial” or “societal” metabolism have been introduced.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+</blockquote>
+<p>In MFA studies for a region or on a national level the flows of materials between the natural environment and the economy are analyzed and quantified on a physical level. The focus may be on individual substances (e.g. Cadmium flows), specific materials, or bulk material flows (e.g. steel and steel scrap flows within an economy).
+Researchers in this field are organized in the Socio-Economic Metabolism (SEM) section<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> of the International Society for Industrial Ecology (ISIE).<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p><p>Statistics related to material flow accounting are usually compiled by national statistical offices, using economic, agricultural and trade statistics measuring the exchange of material between different products available in an economy.
+</p><p><a class="image" href="/wiki/File:Material_Flow_Accounting_Scheme.png"><img alt="Material Flow Accounting Scheme.png" data-file-height="381" data-file-width="757" height="381" src="//upload.wikimedia.org/wikipedia/commons/1/19/Material_Flow_Accounting_Scheme.png" width="757"/></a>
+</p>
+<h2><span class="mw-headline" id="Scope_and_Indicators">Scope and Indicators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_accounting&amp;action=edit&amp;section=2" title="Edit section: Scope and Indicators">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Aside from calculating the <b>net additions to stock (NAS)</b> as a balancing item, flows within the economy are not considered (advances are currently being made in the field of <a href="/wiki/Dynamic_stock_modelling" title="Dynamic stock modelling">dynamic stock modelling</a>). MFA covers all solid, gaseous, and liquid materials, mobilized by humans or by their livestock, with the exception of bulk water and air. The unit of measurement is most commonly (metric) tonnes per year (t/a). Flows are distinguished by whether they are extracted domestically (<b>domestic extraction, DE</b>) or are trade flows (<b>imports or exports</b>). Materials are most commonly grouped according to four main material categories: biomass, fossil energy carriers, metals, and non-metallic minerals. The former category may be further differentiated by type of use into industrial and construction minerals. It is very important to note that MFA seeks to provide a complete picture of an economy’s material use so that materials are included in these accounts irrespective of whether or not they have direct market value. The most prominent non-market flows covered by MFA are grazed biomass and used crop residues as well as waste rock extracted during mining activities. In 2010, these material flows accounted for 21% of global extraction.
+The data collected in MFA is used to calculate several different standardized indicators:
+<b>Direct Material Input (DMI)</b> is a measure of the total material inputs into an economy and is calculated as the sum of domestic extraction (DE) and imports.
+The <b>Physical Trade Balance (PTB)</b> is a measure of net-imports and is calculated as the difference between imports and exports. Reflecting that material and money flow in opposite directions during trade, this is a contrast to the monetary trade balance which calculates net-exports.
+<b>Domestic Material Consumption (DMC)</b> is a measure of apparent consumption and calculated from domestic extraction plus imports minus exports (or DE plus PTB).
+Economy-wide MFA is a satellite system to the system of national accounts and provides a rich empirical database for analytical studies. More information on how the statistics are collected, under what legal framework and how they are defined is available on <a href="/wiki/Economy-wide_material_flow_accounts" title="Economy-wide material flow accounts">Economy-wide material flow accounts</a>.
+</p><p>In addition, the following indicators are may be used in material flow accounting:
+</p>
+<ul><li><b>Total Material Requirement (TMR)</b> includes the domestic extraction of resources (minerals, fossil fuels, biomass), the indirect flows caused by and associated with the domestic extraction (called "Hidden Flows") and the imports.</li>
+<li><b>Hidden Flows</b> are materials that are extracted or moved, but do not enter the economy. According to OECD, the "displacement of environmental assets without absorption into the economic sphere",<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> such as overburden from mining operations.</li>
+<li><b>Domestic Processed Output (DPO)</b> is defined by the OECD as "the total mass of materials which have been used in the national economy, before flowing into the environment. These flows occur at the processing, manufacturing, use, and final disposal stages of the economic production-consumption chain."<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></li>
+<li><b>Total Domestic Output (TDO)</b> includes the domestic processed output (DPO) plus the hidden flows associated with the domestic production.</li>
+<li><b>Raw Material Consumption (RMC)</b> includes the raw materials that are embodied in traded products (e.g. metal ores from which metals have been extracted). RMC does not include hidden flows.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> RMC is most commonly calculated via <a href="/wiki/Environmentally_extended_input-output_analysis" title="Environmentally extended input-output analysis">environmentally extended input-output analysis</a>.</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_accounting&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Emblem-money.svg"><img alt="icon" class="noviewer" data-file-height="48" data-file-width="48" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/28px-Emblem-money.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/42px-Emblem-money.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/56px-Emblem-money.svg.png 2x" width="28"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Business_and_economics" title="Portal:Business and economics">Business and economics portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="icon" class="noviewer thumbborder" data-file-height="4000" data-file-width="6000" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/32px-Earth_Day_Flag.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/64px-Earth_Day_Flag.png 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Ecology" title="Portal:Ecology">Ecology portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="616" data-file-width="616" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_sociology.svg/28px-Logo_sociology.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_sociology.svg/42px-Logo_sociology.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_sociology.svg/56px-Logo_sociology.svg.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Sociology" title="Portal:Sociology">Sociology portal</a></span></li></ul></div>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Anthropogenic_metabolism" title="Anthropogenic metabolism">Anthropogenic metabolism</a></li>
+<li><a href="/wiki/Dynamic_stock_modelling" title="Dynamic stock modelling">Dynamic stock modelling</a></li>
+<li><a class="mw-redirect" href="/wiki/Economy-Wide_Material_Flow_Accounts" title="Economy-Wide Material Flow Accounts">Economy-Wide Material Flow Accounts</a></li>
+<li><a href="/wiki/Environmentally_extended_input-output_analysis" title="Environmentally extended input-output analysis">Environmentally extended input-output analysis</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Industrial_metabolism" title="Industrial metabolism">Industrial metabolism</a></li>
+<li><a class="mw-redirect" href="/wiki/Input-output_analysis" title="Input-output analysis">Input Output Analysis</a></li>
+<li><a href="/wiki/Material_criticality" title="Material criticality">Material criticality</a></li>
+<li><a href="/wiki/Material_flow_analysis" title="Material flow analysis">Material flow analysis</a></li>
+<li><a href="/wiki/Social_metabolism" title="Social metabolism">Social metabolism</a></li>
+<li><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">Urban metabolism</a></li></ul></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_accounting&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Fischer-Kowalski, M., Krausmann, F., Giljum, S., Lutter, S., Mayer, A., Bringezu, S., Moriguchi, Y., Schütz, H., Schandl, H., Weisz, H., 2011. Methodology and Indicators of Economy-wide Material Flow Accounting. J. Ind. Ecol. 15, 855–876. <a class="external free" href="http://www.pik-potsdam.de/members/weisz/recent-publications-1/JIEMFAStateoftheart2011.pdf" rel="nofollow">http://www.pik-potsdam.de/members/weisz/recent-publications-1/JIEMFAStateoftheart2011.pdf</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Eurostat, 2012. Economy-wide Material Flow Accounts (EW-MFA) - Compilation Guide 2012. Eurostat, Luxembourg. <a class="external free" href="http://epp.eurostat.ec.europa.eu/portal/page/portal/environmental_accounts/documents/Economy-wide%20material%20flow%20accounts%20compilation%20guide%20%20-.pdf" rel="nofollow">http://epp.eurostat.ec.europa.eu/portal/page/portal/environmental_accounts/documents/Economy-wide%20material%20flow%20accounts%20compilation%20guide%20%20-.pdf</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since January 2018">permanent dead link</span></a></i>]</span></sup></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Definition taken from <a class="external free" href="http://www.materialflows.net" rel="nofollow">http://www.materialflows.net</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external free" href="http://isie-sem.blogspot.co.at/" rel="nofollow">http://isie-sem.blogspot.co.at/</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.is4ie.org/" rel="nofollow">http://www.is4ie.org/</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">OECD Glossary <a class="external free" href="http://stats.oecd.org/glossary/detail.asp?ID=6472" rel="nofollow">http://stats.oecd.org/glossary/detail.asp?ID=6472</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">OECD Glossary <a class="external free" href="http://stats.oecd.org/glossary/detail.asp?ID=6403" rel="nofollow">http://stats.oecd.org/glossary/detail.asp?ID=6403</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.materialflows.net/background/accounting/indicators-on-the-economy-wide-level/" rel="nofollow">http://www.materialflows.net/background/accounting/indicators-on-the-economy-wide-level/</a></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Material_flow_accounting&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.liaise-kit.eu/ia-methods/economy-wide-accounts" rel="nofollow">LIAISE KIT: Economy-wide accounts</a></li>
+<li><a class="external text" href="http://www.sustainablescale.org/ConceptualFramework/UnderstandingScale/MeasuringScale/MaterialFlowAnalysis.aspx" rel="nofollow">The Sustainable Scale Project</a></li>
+<li><a class="external text" href="http://scp.eionet.europa.eu/themes/mfa" rel="nofollow">European Topic Centre on Sustainable Consumption and Production</a></li>
+<li><a class="external text" href="http://www.csiro.au/AsiaPacificMaterialFlows" rel="nofollow">CSIRO and UNEP Material Flow and Resource Productivity Database for Asia and the Pacific</a></li>
+<li><a class="external text" href="http://www.umweltgesamtrechnung.at/ms/ugr/ugr_en/ugr_physicalaccounts/ugr_materialflowaccounts/" rel="nofollow">Material Flow Accounts (environmental accounting)</a></li></ul>
+<div aria-labelledby="Industrial_ecology" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background:#7FBF7F;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Industrial_Ecology" title="Template:Industrial Ecology"><abbr style="background:#7FBF7F;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Industrial_Ecology" title="Template talk:Industrial Ecology"><abbr style="background:#7FBF7F;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Industrial_Ecology&amp;action=edit"><abbr style="background:#7FBF7F;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Industrial_ecology" style="font-size:114%;margin:0 4em"><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></div></th></tr><tr><th class="navbox-group" scope="row" style="background:#7FBF7F;;width:1%">Tools</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agent-based_model" title="Agent-based model">Agent-based model</a></li>
+<li><a href="/wiki/Cost%E2%80%93benefit_analysis" title="Cost–benefit analysis">Cost–benefit analysis</a></li>
+<li><a href="/wiki/DPSIR" title="DPSIR">DPSIR</a></li>
+<li><a href="/wiki/Ecolabel" title="Ecolabel">Ecolabel</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">Environmental impact assessment</a></li>
+<li><a href="/wiki/Environmental_management_system" title="Environmental management system">Environmental management system</a></li>
+<li><a href="/wiki/EIOLCA" title="EIOLCA">Economic Input-Output Life Cycle Assessment</a></li>
+<li><a class="mw-redirect" href="/wiki/Full_cost_accounting" title="Full cost accounting">Full cost accounting</a></li>
+<li><a class="mw-redirect" href="/wiki/Input-output_model" title="Input-output model">Input-output model</a></li>
+<li><a href="/wiki/Integrated_chain_management" title="Integrated chain management">Integrated chain management</a></li>
+<li><a href="/wiki/ISO_14000" title="ISO 14000">ISO 14000</a></li>
+<li><a href="/wiki/Life-cycle_assessment" title="Life-cycle assessment">Life-cycle assessment</a></li>
+<li><a href="/wiki/Material_flow_analysis" title="Material flow analysis">Material flow analysis</a></li>
+<li><a href="/wiki/MET_Matrix" title="MET Matrix">MET Matrix</a></li>
+<li><a href="/wiki/Stakeholder_analysis" title="Stakeholder analysis">Stakeholder analysis</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background:#7FBF7F;;width:1%">Concepts</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Circular_economy" title="Circular economy">Circular economy</a></li>
+<li><a class="mw-redirect" href="/wiki/Cradle_to_Cradle_Design" title="Cradle to Cradle Design">Cradle to cradle</a></li>
+<li><a href="/wiki/Dematerialization_(products)" title="Dematerialization (products)">Dematerialization</a></li>
+<li><a href="/wiki/Eco-efficiency" title="Eco-efficiency">Eco-efficiency</a></li>
+<li><a href="/wiki/Eco-industrial_development" title="Eco-industrial development">Eco-industrial development</a></li>
+<li><a href="/wiki/Eco-industrial_park" title="Eco-industrial park">Eco-industrial park</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Exergy" title="Exergy">Exergy</a></li>
+<li><a href="/wiki/Extended_producer_responsibility" title="Extended producer responsibility">Extended producer responsibility</a></li>
+<li><a href="/wiki/Industrial_metabolism" title="Industrial metabolism">Industrial metabolism</a></li>
+<li><a href="/wiki/Industrial_symbiosis" title="Industrial symbiosis">Industrial symbiosis</a></li>
+<li><a href="/wiki/Pollution_prevention" title="Pollution prevention">Pollution prevention</a></li>
+<li><a href="/wiki/Life-cycle_assessment" title="Life-cycle assessment">Life-cycle assessment</a></li>
+<li><a href="/wiki/Polluter_pays_principle" title="Polluter pays principle">Polluter pays principle</a></li>
+<li><a href="/wiki/Precautionary_principle" title="Precautionary principle">Precautionary principle</a></li>
+<li><a href="/wiki/Rebound_effect_(conservation)" title="Rebound effect (conservation)">Rebound effect</a></li>
+<li><a href="/wiki/Waste_hierarchy" title="Waste hierarchy">Waste hierarchy</a></li>
+<li><a href="/wiki/Waste_minimisation" title="Waste minimisation">Waste minimisation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background:#7FBF7F;;width:1%">Related fields</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cleaner_production" title="Cleaner production">Cleaner production</a></li>
+<li><a class="mw-redirect" href="/wiki/Design_to_the_Environment" title="Design to the Environment">Design for environment</a></li>
+<li><a href="/wiki/Earth_systems_engineering_and_management" title="Earth systems engineering and management">Earth systems engineering and management</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Green_chemistry" title="Green chemistry">Green chemistry</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">Urban metabolism</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1330
+Cached time: 20181010212202
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.100 seconds
+Real time usage: 0.144 seconds
+Preprocessor visited node count: 406/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17176/2097152 bytes
+Template argument size: 2303/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3791/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.028/10.000 seconds
+Lua memory usage: 1.52 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   94.215      1 -total
+ 39.47%   37.189      1 Template:Dead_link
+ 33.55%   31.606      1 Template:Fix
+ 30.06%   28.324      2 Template:Category_handler
+ 24.78%   23.346      1 Template:Portal
+ 16.12%   15.191      1 Template:Columns-list
+ 13.86%   13.055      1 Template:Industrial_Ecology
+ 12.39%   11.674      1 Template:Div_col
+ 11.45%   10.783      1 Template:Navbox
+  4.44%    4.184      1 Template:Column-width
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11438515-0!canonical and timestamp 20181010212201 and revision id 841218885
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Material_flow_accounting&amp;oldid=841218885">https://en.wikipedia.org/w/index.php?title=Material_flow_accounting&amp;oldid=841218885</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Resource_economics" title="Category:Resource economics">Resource economics</a></li><li><a href="/wiki/Category:Industrial_ecology" title="Category:Industrial ecology">Industrial ecology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_January_2018" title="Category:Articles with dead external links from January 2018">Articles with dead external links from January 2018</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Material+flow+accounting" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Material+flow+accounting" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Material_flow_accounting" title="View the content page [c]">Article</a></span></li><li class="new" id="ca-talk"><span><a accesskey="t" href="/w/index.php?title=Talk:Material_flow_accounting&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Material_flow_accounting">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Material_flow_accounting&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Material_flow_accounting&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Material_flow_accounting" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Material_flow_accounting" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Material_flow_accounting&amp;oldid=841218885" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Material_flow_accounting&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q17146151" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Material_flow_accounting&amp;id=841218885" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Material+flow+accounting">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Material+flow+accounting&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Material_flow_accounting&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q17146151#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 14 May 2018, at 17:09<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Material_flow_accounting&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.100","walltime":"0.144","ppvisitednodes":{"value":406,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17176,"limit":2097152},"templateargumentsize":{"value":2303,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3791,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   94.215      1 -total"," 39.47%   37.189      1 Template:Dead_link"," 33.55%   31.606      1 Template:Fix"," 30.06%   28.324      2 Template:Category_handler"," 24.78%   23.346      1 Template:Portal"," 16.12%   15.191      1 Template:Columns-list"," 13.86%   13.055      1 Template:Industrial_Ecology"," 12.39%   11.674      1 Template:Div_col"," 11.45%   10.783      1 Template:Navbox","  4.44%    4.184      1 Template:Column-width"]},"scribunto":{"limitreport-timeusage":{"value":"0.028","limit":"10.000"},"limitreport-memusage":{"value":1591782,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20181010212202","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1329"});});</script>
+</body>
+</html>

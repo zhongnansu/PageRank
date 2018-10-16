@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Lipophilicity - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lipophilicity","wgTitle":"Lipophilicity","wgCurRevisionId":852124786,"wgRevisionId":852124786,"wgArticleId":596745,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Chemical properties"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lipophilicity","wgRelevantArticleId":596745,"wgRequestId":"W8InAQpAADkAAG23vawAAABN","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q898401","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lipophilicity" rel="alternate"/>
+<link href="/w/index.php?title=Lipophilicity&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Lipophilicity&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Lipophilicity" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Lipophilicity rootpage-Lipophilicity skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Lipophilicity</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Lipophilicity</b> (from <a href="/wiki/Greek_language" title="Greek language">Greek</a> λίπος "fat" and <a class="extiw" href="https://en.wiktionary.org/wiki/%CF%86%CE%AF%CE%BB%CE%BF%CF%82" title="wikt:φίλος">φίλος</a> "friendly"), refers to the ability of a <a href="/wiki/Chemical_compound" title="Chemical compound">chemical compound</a> to dissolve in <a href="/wiki/Fat" title="Fat">fats</a>, <a href="/wiki/Oil" title="Oil">oils</a>, <a href="/wiki/Lipid" title="Lipid">lipids</a>, and <a class="mw-redirect" href="/wiki/Non-polar_solvent" title="Non-polar solvent">non-polar solvents</a> such as <a href="/wiki/Hexane" title="Hexane">hexane</a> or <a href="/wiki/Toluene" title="Toluene">toluene</a>. Such non-polar solvents are themselves lipophilic (translated as "fat-loving" or "fat-liking"<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-Johnson1999_2-0"><a href="#cite_note-Johnson1999-2">[2]</a></sup>), and the axiom that "like dissolves like" generally holds true. Thus lipophilic substances tend to dissolve in other lipophilic substances, but <a class="mw-redirect" href="/wiki/Hydrophilic" title="Hydrophilic">hydrophilic</a> ("water-loving") substances tend to dissolve in water and other hydrophilic substances.
+</p><p>Lipophilicity, hydrophobicity, and non-polarity may describe the same tendency towards participation in the <a href="/wiki/London_dispersion_force" title="London dispersion force">London dispersion force</a>, as the terms are often used interchangeably. However, the terms "lipophilic" and "<a class="mw-redirect" href="/wiki/Hydrophobicity" title="Hydrophobicity">hydrophobic</a>" are not synonymous, as can be seen with <a href="/wiki/Silicone" title="Silicone">silicones</a> and <a class="mw-redirect" href="/wiki/Fluorocarbons" title="Fluorocarbons">fluorocarbons</a>, which are hydrophobic but not lipophilic.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Chemical_bonding"><span class="tocnumber">1</span> <span class="toctext">Chemical bonding</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Surfactants"><span class="tocnumber">2</span> <span class="toctext">Surfactants</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Chemical_bonding">Chemical bonding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lipophilicity&amp;action=edit&amp;section=1" title="Edit section: Chemical bonding">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lipophilic substances interact within themselves and with other substances through the <a href="/wiki/London_dispersion_force" title="London dispersion force">London dispersion force</a>. They have little to no capacity to form <a href="/wiki/Hydrogen_bond" title="Hydrogen bond">hydrogen bonds</a>. When a molecule of a lipophilic substance is enveloped by water, surrounding water molecules enter into an "ice-like" structure the greater part of its molecular surface, the <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamically</a> unfavourable event that drives oily substances out of water. Being "driven out of water" is the quality of a substance referred to as hydrophobe (water-"avoiding" or "water-fearing"). Thus lipophilic substances tend to be water-insoluble. They invariably have large o/w (octanol/water) <a href="/wiki/Partition_coefficient" title="Partition coefficient">partition coefficients</a>.
+</p>
+<h2><span class="mw-headline" id="Surfactants">Surfactants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lipophilicity&amp;action=edit&amp;section=2" title="Edit section: Surfactants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Hydrocarbon" title="Hydrocarbon">Hydrocarbon</a>-based <a class="mw-redirect" href="/wiki/Surfactants" title="Surfactants">surfactants</a> are compounds that are <a class="mw-redirect" href="/wiki/Amphiphilic" title="Amphiphilic">amphiphilic</a> (or amphipathic), having a hydrophilic, water interactive "end", referred to as their "head group", and a lipophilic "end", usually a long chain hydrocarbon fragment, referred to as their "tail". They congregate at low energy surfaces, including the air-water interface (lowering <a href="/wiki/Surface_tension" title="Surface tension">surface tension</a>) and the surfaces of the water-immiscible droplets found in oil/water <a class="mw-redirect" href="/wiki/Emulsions" title="Emulsions">emulsions</a> (lowering interfacial tension). At these surfaces they naturally orient themselves with their head groups in water and their tails either sticking up and largely out of water (as at the air-water interface) or dissolved in the water-immiscible phase that the water is in contact with (e.g. as the emulsified oil droplet). In both these configurations the head groups strongly interact with water while the tails avoid all contact with water. Surfactant molecules also aggregate in water as <a class="mw-redirect" href="/wiki/Micelles" title="Micelles">micelles</a> with their head groups sticking out and their tails bunched together. <a class="mw-redirect" href="/wiki/Micelles" title="Micelles">Micelles</a> draw oily substances into their hydrophobic cores, explaining the basic action of soaps and detergents used for personal cleanliness and for laundering clothes. Micelles are also biologically important for the transport of fatty substances in the small intestine surface in the first step that leads to the absorption of the components of fats (largely fatty acids and 2-monoglycerides).
+</p><p>Cell membranes are bilayer structures principally formed from <a class="mw-redirect" href="/wiki/Phospholipids" title="Phospholipids">phospholipids</a>, molecules which have a highly water interactive, ionic <a href="/wiki/Phosphate" title="Phosphate">phosphate</a> head groups attached to two long alkyl tails.
+</p><p>By contrast, <a href="/wiki/Fluorosurfactant" title="Fluorosurfactant">fluorosurfactants</a> are not amphiphilic or <a class="mw-redirect" href="/wiki/Detergents" title="Detergents">detergents</a> because fluorocarbons are not lipophilic.
+</p><p><a href="/wiki/Oxybenzone" title="Oxybenzone">Oxybenzone</a>, a common cosmetic ingredient often used in sunscreens, is particularly penetrative because it is not very  lipophilic.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Anywhere from 0.4% to 8.7% of oxybenzone can be absorbed after one topical sunscreen application, as measured in urine excretions.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lipophilicity&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Lipophobicity" title="Lipophobicity">Lipophobicity</a></li>
+<li><a href="/wiki/Lipophilic_bacteria" title="Lipophilic bacteria">Lipophilic bacteria</a></li>
+<li><a href="/wiki/Microemulsion" title="Microemulsion">Microemulsion</a></li>
+<li><a href="/wiki/ITIES" title="ITIES">ITIES</a></li>
+<li><a href="/wiki/Ionic_partition_diagram" title="Ionic partition diagram">Ionic partition diagram</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lipophilicity&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="mw-redirect" href="/wiki/Compendium_of_Chemical_Terminology" title="Compendium of Chemical Terminology">Compendium of Chemical Terminology</a>, <a class="external text" href="http://goldbook.iupac.org/L03572.html" rel="nofollow">lipophilic</a>, accessed 15 Jan 2007.</span>
+</li>
+<li id="cite_note-Johnson1999-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Johnson1999_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Alyn William Johnson (1999). <a class="external text" href="https://books.google.com/books?id=0X4cQus2gz8C&amp;pg=PA283" rel="nofollow"><i>Invitation to Organic Chemistry</i></a>. Jones &amp; Bartlett Learning. p. 283. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7637-0432-2" title="Special:BookSources/978-0-7637-0432-2">978-0-7637-0432-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Invitation+to+Organic+Chemistry&amp;rft.pages=283&amp;rft.pub=Jones+%26+Bartlett+Learning&amp;rft.date=1999&amp;rft.isbn=978-0-7637-0432-2&amp;rft.au=Alyn+William+Johnson&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D0X4cQus2gz8C%26pg%3DPA283&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALipophilicity"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Hanson KM, Gratton E, Bardeen CJ. 2006. Sunscreen enhancement of UV-induced reactive oxygen species in the skin. Free Radical Biology &amp; Medicine 41(8): 1205-1212</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">H. Gonzalez, H., Farbrot, A., Larko. O., and Wennberg, A. M. (2006), Percutaneous absorption of the sunscreen benzophenone-3 after repeated whole-body applications, with and without ultraviolet irradiation. British Journal of Dermatology, 154:337-340.</span>
+</li>
+</ol></div>
+<div aria-labelledby="Articles_related_to_solutions" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Chemical_solutions" title="Template:Chemical solutions"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Chemical_solutions" title="Template talk:Chemical solutions"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chemical_solutions&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Articles_related_to_solutions" style="font-size:114%;margin:0 4em">Articles related to <a href="/wiki/Solution" title="Solution">solutions</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Solution" title="Solution">Solution</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ideal_solution" title="Ideal solution">Ideal solution</a></li>
+<li><a href="/wiki/Aqueous_solution" title="Aqueous solution">Aqueous solution</a></li>
+<li><a href="/wiki/Solid_solution" title="Solid solution">Solid solution</a></li>
+<li><a href="/wiki/Buffer_solution" title="Buffer solution">Buffer solution</a></li>
+<li><a href="/wiki/Flory%E2%80%93Huggins_solution_theory" title="Flory–Huggins solution theory">Flory–Huggins</a></li>
+<li><a href="/wiki/Mixture" title="Mixture">Mixture</a></li>
+<li><a href="/wiki/Suspension_(chemistry)" title="Suspension (chemistry)">Suspension</a></li>
+<li><a href="/wiki/Colloid" title="Colloid">Colloid</a></li>
+<li><a href="/wiki/Phase_diagram" title="Phase diagram">Phase diagram</a></li>
+<li><a href="/wiki/Eutectic_system" title="Eutectic system">Eutectic point</a></li>
+<li><a href="/wiki/Alloy" title="Alloy">Alloy</a></li>
+<li><a href="/wiki/Saturation_(chemistry)" title="Saturation (chemistry)">Saturation</a></li>
+<li><a href="/wiki/Supersaturation" title="Supersaturation">Supersaturation</a></li>
+<li><a href="/wiki/Serial_dilution" title="Serial dilution">Serial dilution</a></li>
+<li><a href="/wiki/Dilution_(equation)" title="Dilution (equation)">Dilution (equation)</a></li>
+<li><a href="/wiki/Apparent_molar_property" title="Apparent molar property">Apparent molar property</a></li>
+<li><a href="/wiki/Miscibility_gap" title="Miscibility gap">Miscibility gap</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Concentration" title="Concentration">Concentration</a><br/>and related quantities</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Molar_concentration" title="Molar concentration">Molar concentration</a></li>
+<li><a href="/wiki/Mass_concentration_(chemistry)" title="Mass concentration (chemistry)">Mass concentration</a></li>
+<li><a href="/wiki/Number_density" title="Number density">Number concentration</a></li>
+<li><a href="/wiki/Volume_fraction" title="Volume fraction">Volume concentration</a></li>
+<li><a href="/wiki/Equivalent_concentration" title="Equivalent concentration">Normality</a></li>
+<li><a class="mw-redirect mw-disambig" href="/wiki/Percentage_solution_(disambiguation)" title="Percentage solution (disambiguation)">Percentage solution</a></li>
+<li><a href="/wiki/Molality" title="Molality">Molality</a></li>
+<li><a href="/wiki/Mole_fraction" title="Mole fraction">Mole fraction</a></li>
+<li><a href="/wiki/Mass_fraction_(chemistry)" title="Mass fraction (chemistry)">Mass fraction</a></li>
+<li><a href="/wiki/Natural_abundance" title="Natural abundance">Isotopic abundance</a></li>
+<li><a href="/wiki/Mixing_ratio" title="Mixing ratio">Mixing ratio</a></li>
+<li><a href="/wiki/Ternary_plot" title="Ternary plot">Ternary plot</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Solubility" title="Solubility">Solubility</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Solubility_equilibrium" title="Solubility equilibrium">Solubility equilibrium</a></li>
+<li><a href="/wiki/Total_dissolved_solids" title="Total dissolved solids">Total dissolved solids</a></li>
+<li><a href="/wiki/Solvation" title="Solvation">Solvation</a></li>
+<li><a href="/wiki/Solvation_shell" title="Solvation shell">Solvation shell</a></li>
+<li><a href="/wiki/Enthalpy_change_of_solution" title="Enthalpy change of solution">Enthalpy of solution</a></li>
+<li><a href="/wiki/Lattice_energy" title="Lattice energy">Lattice energy</a></li>
+<li><a href="/wiki/Raoult%27s_law" title="Raoult's law">Raoult's law</a></li>
+<li><a href="/wiki/Henry%27s_law" title="Henry's law">Henry's law</a></li>
+<li><a href="/wiki/Solubility_table" title="Solubility table">Solubility table (data)</a></li>
+<li><a href="/wiki/Solubility_chart" title="Solubility chart">Solubility chart</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Solvent" title="Solvent">Solvent</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>(<a href="/wiki/Category:Solvents" title="Category:Solvents">Category</a>)</li>
+<li><a href="/wiki/Acid_dissociation_constant" title="Acid dissociation constant">Acid dissociation constant</a></li>
+<li><a href="/wiki/Protic_solvent" title="Protic solvent">Protic solvent</a></li>
+<li><a href="/wiki/Inorganic_nonaqueous_solvent" title="Inorganic nonaqueous solvent">Inorganic nonaqueous solvent</a></li>
+<li><a href="/wiki/Solvation" title="Solvation">Solvation</a></li>
+<li><a href="/wiki/List_of_boiling_and_freezing_information_of_solvents" title="List of boiling and freezing information of solvents">List of boiling and freezing information of solvents</a></li>
+<li><a href="/wiki/Partition_coefficient" title="Partition coefficient">Partition coefficient</a></li>
+<li><a href="/wiki/Chemical_polarity" title="Chemical polarity">Polarity</a></li>
+<li><a href="/wiki/Hydrophobe" title="Hydrophobe">Hydrophobe</a></li>
+<li><a href="/wiki/Hydrophile" title="Hydrophile">Hydrophile</a></li>
+<li><a class="mw-selflink selflink">Lipophilic</a></li>
+<li><a href="/wiki/Amphiphile" title="Amphiphile">Amphiphile</a></li>
+<li><a href="/wiki/Lyonium_ion" title="Lyonium ion">Lyonium ion</a></li>
+<li><a href="/wiki/Lyate_ion" title="Lyate ion">Lyate ion</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1277
+Cached time: 20181010143147
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.116 seconds
+Real time usage: 0.264 seconds
+Preprocessor visited node count: 166/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12909/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3995/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.057/10.000 seconds
+Lua memory usage: 1.4 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  138.305      1 -total
+ 74.03%  102.392      1 Template:Cite_book
+ 23.56%   32.583      1 Template:Chemical_solutions
+ 20.33%   28.116      1 Template:Navbox
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:596745-0!canonical and timestamp 20181010143146 and revision id 852124786
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lipophilicity&amp;oldid=852124786">https://en.wikipedia.org/w/index.php?title=Lipophilicity&amp;oldid=852124786</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chemical_properties" title="Category:Chemical properties">Chemical properties</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lipophilicity" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Lipophilicity" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Lipophilicity" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Lipophilicity" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Lipophilicity">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Lipophilicity&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Lipophilicity&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Lipophilicity" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Lipophilicity" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Lipophilicity&amp;oldid=852124786" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Lipophilicity&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q898401" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lipophilicity&amp;id=852124786" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lipophilicity">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Lipophilicity&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Lipophilicity&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D8%A8_%D9%84%D9%84%D8%AF%D9%87%D9%86" hreflang="ar" lang="ar" title="محب للدهن – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Lipofilnost" hreflang="bs" lang="bs" title="Lipofilnost – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Lipof%C3%ADlia" hreflang="ca" lang="ca" title="Lipofília – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Lipofilie" hreflang="cs" lang="cs" title="Lipofilie – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Lipofil" hreflang="da" lang="da" title="Lipofil – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Lipophilie" hreflang="de" lang="de" title="Lipophilie – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Lip%C3%B3filo" hreflang="es" lang="es" title="Lipófilo – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%86%D8%B1%D8%A8%DB%8C%E2%80%8C%D8%AF%D9%88%D8%B3%D8%AA" hreflang="fa" lang="fa" title="چربی‌دوست – Persian">فارسی</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%B8%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A5%87%E0%A4%B9%E0%A5%80" hreflang="hi" lang="hi" title="वसास्नेही – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Liposolubilit%C3%A0" hreflang="it" lang="it" title="Liposolubilità – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9C%D7%99%D7%A4%D7%95%D7%A4%D7%99%D7%9C%D7%99%D7%95%D7%AA" hreflang="he" lang="he" title="ליפופיליות – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Lipofiel" hreflang="nl" lang="nl" title="Lipofiel – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%A6%AA%E6%B2%B9%E6%80%A7" hreflang="ja" lang="ja" title="親油性 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Lipofile_stoffer" hreflang="no" lang="no" title="Lipofile stoffer – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Lipofilowo%C5%9B%C4%87" hreflang="pl" lang="pl" title="Lipofilowość – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Lipofilicidade" hreflang="pt" lang="pt" title="Lipofilicidade – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BF%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C" hreflang="ru" lang="ru" title="Липофильность – Russian">Русский</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Lipofilnost" hreflang="sr" lang="sr" title="Lipofilnost – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Rasvaliukoisuus" hreflang="fi" lang="fi" title="Rasvaliukoisuus – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Fettl%C3%B6slig" hreflang="sv" lang="sv" title="Fettlöslig – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D0%BF%D0%BE%D1%84%D1%96%D0%BB%D1%8C%D0%BD%D1%96%D1%81%D1%82%D1%8C" hreflang="uk" lang="uk" title="Ліпофільність – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%A6%AA%E8%84%82%E6%80%A7" hreflang="zh" lang="zh" title="親脂性 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q898401#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 26 July 2018, at 20:03<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Lipophilicity&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.264","ppvisitednodes":{"value":166,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12909,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3995,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  138.305      1 -total"," 74.03%  102.392      1 Template:Cite_book"," 23.56%   32.583      1 Template:Chemical_solutions"," 20.33%   28.116      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.057","limit":"10.000"},"limitreport-memusage":{"value":1467241,"limit":52428800}},"cachereport":{"origin":"mw1277","timestamp":"20181010143147","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":87,"wgHostname":"mw1262"});});</script>
+</body>
+</html>

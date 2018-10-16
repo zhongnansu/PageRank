@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Earth Overshoot Day - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Earth_Overshoot_Day","wgTitle":"Earth Overshoot Day","wgCurRevisionId":855611680,"wgRevisionId":855611680,"wgArticleId":22682173,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Explicit use of et al.","Official website different in Wikidata and Wikipedia","Environmental awareness days","Human ecology","Environmental impact assessment","Environmental indices","August observances","September observances","October observances"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Earth_Overshoot_Day","wgRelevantArticleId":22682173,"wgRequestId":"W7scswrAMGEAAFCAXigAAAAQ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q2582303","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Earth_Overshoot_Day_graph.svg/1200px-Earth_Overshoot_Day_graph.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Earth_Overshoot_Day" rel="alternate"/>
+<link href="/w/index.php?title=Earth_Overshoot_Day&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Earth_Overshoot_Day&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Earth_Overshoot_Day" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Earth_Overshoot_Day rootpage-Earth_Overshoot_Day skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Earth Overshoot Day</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="wikitable infobox" style="border:none;background:none;">
+<caption>Date of EOD on the release year
+</caption>
+<tbody><tr>
+<th>Year</th>
+<th>Overshoot Date
+</th>
+<td rowspan="9" style="border:none;background:none;">
+</td>
+<th>Year</th>
+<th>Overshoot Date
+</th></tr>
+<tr>
+<td>1987</td>
+<td>December 19
+</td>
+<td>2013</td>
+<td>August 20
+</td></tr>
+<tr>
+<td>1990</td>
+<td>December 7
+</td>
+<td>2014</td>
+<td>August 19
+</td></tr>
+<tr>
+<td>1995</td>
+<td>November 21
+</td>
+<td>2015</td>
+<td>August 13
+</td></tr>
+<tr>
+<td>2000</td>
+<td>November 1
+</td>
+<td>2016</td>
+<td>August 8
+</td></tr>
+<tr>
+<td>2005</td>
+<td>October 20
+</td>
+<td>2017</td>
+<td>August 2
+</td></tr>
+<tr>
+<td>2010</td>
+<td>August 21
+</td>
+<td>2018</td>
+<td>August 1
+</td></tr>
+<tr>
+<td>2011</td>
+<td>August 27
+</td>
+<td><i>2019</i></td>
+<td>
+</td></tr>
+<tr>
+<td>2012</td>
+<td>August 22
+</td>
+<td><i>2020</i></td>
+<td>
+</td></tr></tbody></table>
+<p><b>Earth Overshoot Day</b> (<b>EOD</b>), previously known as <b>Ecological Debt Day</b> (<b>EDD</b>), is the calculated illustrative calendar date on which humanity’s <a href="/wiki/Resource_consumption" title="Resource consumption">resource consumption</a> for the year exceeds <a href="/wiki/Earth" title="Earth">Earth</a>’s capacity to regenerate those resources that year. Earth Overshoot Day is calculated by dividing the world <a href="/wiki/Biocapacity" title="Biocapacity">biocapacity</a> (the amount of <a href="/wiki/Natural_resource" title="Natural resource">natural resources</a> generated by Earth that year), by the world <a href="/wiki/Ecological_footprint" title="Ecological footprint">ecological footprint</a> (humanity's <a href="/wiki/Consumption_(economics)" title="Consumption (economics)">consumption</a> of Earth’s natural resources for that year), and multiplying by 365, the number of days in one <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian common calendar</a> year:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ({\text{World Biocapacity}}/{\text{World Ecological Footprint}})\times 365}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>World Biocapacity</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>World Ecological Footprint</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+<mo>×<!-- × --></mo>
+<mn>365</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ({\text{World Biocapacity}}/{\text{World Ecological Footprint}})\times 365}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle ({\text{World Biocapacity}}/{\text{World Ecological Footprint}})\times 365}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/73e3a75c228dca2386a41fa2ccd95b38197e80ed" style="vertical-align: -0.838ex; width:55.795ex; height:2.843ex;"/></span><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \,={\text{Earth Overshoot Day}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mspace width="thinmathspace"></mspace>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Earth Overshoot Day</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \,={\text{Earth Overshoot Day}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \,={\text{Earth Overshoot Day}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/36d2febfb0b6b1cea34e5e20cec13f2dddefa264" style="vertical-align: -0.671ex; width:24.439ex; height:2.509ex;"/></span></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Earth_Overshoot_Day_graph.svg"><img alt="" class="thumbimage" data-file-height="512" data-file-width="512" height="250" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Earth_Overshoot_Day_graph.svg/250px-Earth_Overshoot_Day_graph.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Earth_Overshoot_Day_graph.svg/375px-Earth_Overshoot_Day_graph.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Earth_Overshoot_Day_graph.svg/500px-Earth_Overshoot_Day_graph.svg.png 2x" width="250"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Earth_Overshoot_Day_graph.svg" title="Enlarge"></a></div>Progression of the dates of Earth Overshoot Day with equivalent number of Earths</div></div></div>
+<p>When viewed through an <a href="/wiki/Economy" title="Economy">economic</a> perspective, EOD represents the day in which humanity enters an ecological <a href="/wiki/Deficit_spending" title="Deficit spending">deficit spending</a>. In <a href="/wiki/Ecology" title="Ecology">ecology</a> the term Earth Overshoot Day illustrates the level by which human population <a href="/wiki/Overshoot_(population)" title="Overshoot (population)">overshoots</a> its environment. In 2018, Earth Overshoot Day is on August 1.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p><p>Earth Overshoot Day is calculated by <a href="/wiki/Global_Footprint_Network" title="Global Footprint Network">Global Footprint Network</a> and is a campaign supported by dozens of other nonprofit organizations.<sup class="reference" id="cite_ref-EOD_2-0"><a href="#cite_note-EOD-2">[2]</a></sup> Information about Global Footprint Network's calculations<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> and national Ecological Footprints<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> are available online.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Criticism"><span class="tocnumber">2</span> <span class="toctext">Criticism</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Notes"><span class="tocnumber">4.1</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Further_reading"><span class="tocnumber">4.2</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_Overshoot_Day&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:Human_welfare_and_ecological_footprint_sustainability.jpg"><img alt="" class="thumbimage" data-file-height="522" data-file-width="850" height="246" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Human_welfare_and_ecological_footprint_sustainability.jpg/400px-Human_welfare_and_ecological_footprint_sustainability.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Human_welfare_and_ecological_footprint_sustainability.jpg/600px-Human_welfare_and_ecological_footprint_sustainability.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Human_welfare_and_ecological_footprint_sustainability.jpg/800px-Human_welfare_and_ecological_footprint_sustainability.jpg 2x" width="400"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Human_welfare_and_ecological_footprint_sustainability.jpg" title="Enlarge"></a></div>The correlation between the development of a country using <a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a> and its natural resource consumption<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></div></div></div>
+<p><a href="/wiki/Andrew_Simms" title="Andrew Simms">Andrew Simms</a> of UK <a href="/wiki/Think_tank" title="Think tank">think tank</a> <a href="/wiki/New_Economics_Foundation" title="New Economics Foundation">New Economics Foundation</a> originally developed the concept of Earth Overshoot Day. <a href="/wiki/Global_Footprint_Network" title="Global Footprint Network">Global Footprint Network</a>, a partner organization of New Economics Foundation, launches a campaign every year for Earth Overshoot Day to raise awareness of Earth’s limited resources. Global Footprint Network measures humanity’s demand for and supply of natural resources and ecological services. Global Footprint Network estimates that in less than eight months, we demand more <a href="/wiki/Renewable_resource" title="Renewable resource">renewable resources</a> and <a href="/wiki/Carbon_sequestration" title="Carbon sequestration">CO<sub>2</sub> sequestration</a> than what the planet can provide for an entire year.<sup class="reference" id="cite_ref-EOD_2-1"><a href="#cite_note-EOD-2">[2]</a></sup>
+</p><p>Throughout most of history, humanity has used nature’s resources to build cities and roads, to provide food and create products, and to <a class="mw-redirect" href="/wiki/CO2_emissions" title="CO2 emissions">release carbon dioxide</a> at a rate that was well within Earth’s budget. But by the early 1970s, that critical threshold had been crossed: Human consumption began outstripping what the planet could reproduce. According to <a href="/wiki/Global_Footprint_Network" title="Global Footprint Network">Global Footprint Network</a>’s calculations, our demand for renewable ecological resources and the services they provide is now equivalent to that of more than 1.5 Earths. The data shows us on track to require the resources of two planets well before mid-2000-century.
+</p><p>Advocates for Earth Overshoot Day note that the costs of <a href="/wiki/Resource_depletion" title="Resource depletion">ecological overspending</a> are becoming more evident over time. <a href="/wiki/Climate_change" title="Climate change">Climate change</a> — a result of <a class="mw-redirect" href="/wiki/Greenhouse_gases" title="Greenhouse gases">greenhouse gases</a> being emitted faster than they can be absorbed by forests and oceans — is the most obvious result and widespread effects. Other cited effects include: <a href="/wiki/Deforestation" title="Deforestation">shrinking forests</a>, <a class="mw-redirect" href="/wiki/Species_loss" title="Species loss">species loss</a>, fisheries collapse, higher commodity prices and <a class="mw-redirect" href="/wiki/Civil_unrest" title="Civil unrest">civil unrest</a>.<sup class="reference" id="cite_ref-EOD_2-2"><a href="#cite_note-EOD-2">[2]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Criticism">Criticism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_Overshoot_Day&amp;action=edit&amp;section=2" title="Edit section: Criticism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Breakthrough_Institute" title="Breakthrough Institute">Breakthrough Institute</a> regards the idea of Earth Overshoot Day and how many Earths we consume as "a nice publicity stunt".<sup class="reference" id="cite_ref-:0_6-0"><a href="#cite_note-:0-6">[6]</a></sup> According to <a href="/wiki/United_Nations" title="United Nations">United Nations</a> data, forests and fisheries are, as a whole, regenerating faster than they are depleted (but admitting that "the surplus might be more a reflection of poor UN fisheries data than healthy fisheries"), while cropland and pasture use is equal to what is available.<sup class="reference" id="cite_ref-:0_6-1"><a href="#cite_note-:0-6">[6]</a></sup> Hence, Earth Overshoot Day does a poor job at measuring water and land mismanagement (e.g., <a href="/wiki/Soil_erosion" title="Soil erosion">soil erosion</a>) and only highlights the excess of carbon dioxide that humanity releases above what the ecosystem can absorb. In other words, the additional equivalent number of Earths that humanity requires is equivalent to land area that, if filled with carbon sinks like forests, would balance carbon dioxide emissions.
+</p><p>Global Footprint Network points out that the ecological footprint makes apparent the gap between human demand and regeneration. Essentially, the sum of all demands competing for the planet's regeneration are now exceeding what the planet renews. While the accounting can be improved, and more details added, in its current applications to countries, the accounts typically underestimate human demand as not all aspects are measured (there are gaps in UN data). They also overestimate biocapacity because it is ambiguous to determine how much of current yields is enabled by reduced future yield (for instance as in the case of overuse of groundwater, or erosion). Therefore current accounts underplay the overall ecological deficit or overshoot at the global level. This is discussed in more detail in two chapters of the Routledge Handbook of Sustainability Indicators (Wackernagel et al. 2018 a and b).<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p><p>Therefore, ecological footprint accounts are metrics that merely define minimal conditions for sustainability. They do not cover all material aspects of sustainability, just a basic, minimal condition for living within the regenerative capacity of the planet’s ecosystems.
+</p><p>In response to the Breakthrough Institute Report, Mathis Wackernagel, founder and president of the Global Footprint Network, also points out that depletion of crop land, for instance, could be included in the Ecological Footprint accounts informing Earth Overshoot Day. But such improvements would "require data sets that do not exist within the UN data set". And such improvements would show an even larger global overshoot. Similarly, the apparent fishery surplus "might be more a reflection of poor UN fisheries data than healthy fisheries".<sup class="reference" id="cite_ref-:0_6-2"><a href="#cite_note-:0-6">[6]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_Overshoot_Day&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Overshoot_(population)" title="Overshoot (population)">Overshoot (population)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_Overshoot_Day&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_Overshoot_Day&amp;action=edit&amp;section=5" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.overshootday.org/newsroom/past-earth-overshoot-days/" rel="nofollow">"Past Earth Overshoot Days"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-08-06</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Past+Earth+Overshoot+Days&amp;rft_id=https%3A%2F%2Fwww.overshootday.org%2Fnewsroom%2Fpast-earth-overshoot-days%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+Overshoot+Day"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-EOD-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-EOD_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EOD_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-EOD_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.overshootday.org/about-earth-overshoot-day/" rel="nofollow">"About Earth Overshoot Day"</a>. Global Footprint Network<span class="reference-accessdate">. Retrieved <span class="nowrap">July 15,</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+Earth+Overshoot+Day&amp;rft.pub=Global+Footprint+Network&amp;rft_id=https%3A%2F%2Fwww.overshootday.org%2Fabout-earth-overshoot-day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+Overshoot+Day"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.footprintnetwork.org/resources/data/" rel="nofollow">"Ecological Footprint: data and accounting methodology"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ecological+Footprint%3A+data+and+accounting+methodology&amp;rft_id=https%3A%2F%2Fwww.footprintnetwork.org%2Fresources%2Fdata%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+Overshoot+Day"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://data.footprintnetwork.org" rel="nofollow">"Biocapacity and Ecological Footprint: open data platform"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Biocapacity+and+Ecological+Footprint%3A+open+data+platform&amp;rft_id=http%3A%2F%2Fdata.footprintnetwork.org&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+Overshoot+Day"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.footprintnetwork.org/our-work/sustainable-development/" rel="nofollow">"Sustainable Development: Sustainable development is successful only when it improves citizens' well-being without degrading the environment"</a>. Global Footprint Network.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sustainable+Development%3A+Sustainable+development+is+successful+only+when+it+improves+citizens%27+well-being+without+degrading+the+environment.&amp;rft.pub=Global+Footprint+Network&amp;rft_id=http%3A%2F%2Fwww.footprintnetwork.org%2Four-work%2Fsustainable-development%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+Overshoot+Day"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-:0-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Pearce, Fred. <a class="external text" href="https://www.newscientist.com/article/mg22029445-000-admit-it-we-cant-measure-our-ecological-footprint/" rel="nofollow">"Admit it: we can't measure our ecological footprint"</a>. <i>New Scientist</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 August</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=New+Scientist&amp;rft.atitle=Admit+it%3A+we+can%E2%80%99t+measure+our+ecological+footprint&amp;rft.aulast=Pearce&amp;rft.aufirst=Fred&amp;rft_id=https%3A%2F%2Fwww.newscientist.com%2Farticle%2Fmg22029445-000-admit-it-we-cant-measure-our-ecological-footprint%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+Overshoot+Day"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Wackernagel, Mathis;  et al. <a class="external text" href="https://www.routledgehandbooks.com" rel="nofollow">"Handbook of Sustainability Indicators -- Chapter 16 - Ecological Footprint: Principles &amp; Chapter 33 - Ecological Footprint: Criticisms and applications"</a>. <i>Routledge 2018</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 July</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Routledge+2018&amp;rft.atitle=Handbook+of+Sustainability+Indicators+--+Chapter+16+-+Ecological+Footprint%3A+Principles+%26+Chapter+33+-+Ecological+Footprint%3A+Criticisms+and+applications&amp;rft.aulast=Wackernagel&amp;rft.aufirst=Mathis&amp;rft_id=https%3A%2F%2Fwww.routledgehandbooks.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+Overshoot+Day"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>) </span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h3><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_Overshoot_Day&amp;action=edit&amp;section=6" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Catton, William R. Jr. (1980). "Overshoot: The Ecological Basis of Revolutionary Change". Urbana: University of Illinois Press. <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-252-00818-9" title="Special:BookSources/0-252-00818-9">0-252-00818-9</a>.</li>
+<li><cite class="citation journal">Daily, Gretchen C.; Matson, Pamela A. (2008). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2474530" rel="nofollow">"Ecosystem services: From theory to implementation"</a>. <i>Proceedings of the National Academy of Sciences</i>. <b>105</b>: 9455–9456. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1073%2Fpnas.0804960105" rel="nofollow">10.1073/pnas.0804960105</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2474530" rel="nofollow">2474530</a></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences&amp;rft.atitle=Ecosystem+services%3A+From+theory+to+implementation&amp;rft.volume=105&amp;rft.pages=9455-9456&amp;rft.date=2008&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2474530&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.0804960105&amp;rft.aulast=Daily&amp;rft.aufirst=Gretchen+C.&amp;rft.au=Matson%2C+Pamela+A.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2474530&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+Overshoot+Day"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">Easterling, William E. (2007). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2148356" rel="nofollow">"Climate change and the adequacy of food and timber in the 21st century"</a>. <i>Proceedings of the National Academy of Sciences</i>. <b>104</b> (50): 19679. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1073%2Fpnas.0710388104" rel="nofollow">10.1073/pnas.0710388104</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2148356" rel="nofollow">2148356</a></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences&amp;rft.atitle=Climate+change+and+the+adequacy+of+food+and+timber+in+the+21st+century&amp;rft.volume=104&amp;rft.issue=50&amp;rft.pages=19679&amp;rft.date=2007&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2148356&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.0710388104&amp;rft.aulast=Easterling&amp;rft.aufirst=William+E.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2148356&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+Overshoot+Day"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book">Friedman, Thomas (2008). <i>Hot, Flat, and Crowded</i>. New York: Farrar, Straus, and Giroux. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-374-16685-4" title="Special:BookSources/0-374-16685-4">0-374-16685-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Hot%2C+Flat%2C+and+Crowded&amp;rft.place=New+York&amp;rft.pub=Farrar%2C+Straus%2C+and+Giroux&amp;rft.date=2008&amp;rft.isbn=0-374-16685-4&amp;rft.aulast=Friedman&amp;rft.aufirst=Thomas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+Overshoot+Day"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book">Khanna, Parag (2008). <i>The Second World</i>. New York: Random House. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/81-7036-406-X" title="Special:BookSources/81-7036-406-X">81-7036-406-X</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Second+World&amp;rft.place=New+York&amp;rft.pub=Random+House&amp;rft.date=2008&amp;rft.isbn=81-7036-406-X&amp;rft.aulast=Khanna&amp;rft.aufirst=Parag&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+Overshoot+Day"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation web"><a class="external text" href="http://www.euractiv.com/section/sustainable-dev/news/wwf-human-consumption-is-outpacing-earth-s-capacity/" rel="nofollow">"WWF: human consumption is outpacing earth's capacity"</a>. <i>EurActiv.com</i>. October 26, 2004.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=EurActiv.com&amp;rft.atitle=WWF%3A+human+consumption+is+outpacing+earth%27s+capacity&amp;rft.date=2004-10-26&amp;rft_id=http%3A%2F%2Fwww.euractiv.com%2Fsection%2Fsustainable-dev%2Fnews%2Fwwf-human-consumption-is-outpacing-earth-s-capacity%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+Overshoot+Day"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li>Wackernagel, Mathis; Niels B. Schulz, Diana Deumling, Alejandro C. Linares, Martin Jenkins, Valerie Kapos, Chad Monfreda, Jonathan Loh, Norman Myers, Richard Norgaard, and Jorgen Randers (2002). "Tracking the ecological overshoot of the human economy". Proceedings of the National Academy of Sciences 99 (14): 9266–9271. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1073%2Fpnas.142033699" rel="nofollow">10.1073/pnas.142033699</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <a class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC123129/" rel="nofollow">123129</a>. <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12089326" rel="nofollow">12089326</a>.</li>
+<li>Wackernagel, M., A. Galli, L. Hanscom, D. Lin, L. Mailhes, T. Drummond (2018), CHAPTER 16: Ecological Footprint Accounts: Principles” p244-264, in Simon Bell and Stephen Morse (Editors) 2018. Routledge Handbook of Sustainability Indictors, Routledge International Handbooks. Routledge, <a class="external free" href="https://www.routledgehandbooks.com/doi/10.4324/9781315561103-16" rel="nofollow">https://www.routledgehandbooks.com/doi/10.4324/9781315561103-16</a></li>
+<li>Wackernagel, M., A. Galli, L. Hanscom, D. Lin, L. Mailhes, T. Drummond (2018), CHAPTER 33: Ecological Footprint Accounts: Criticisms and Applications” p521-539 in Simon Bell and Stephen Morse (Editors) 2018. Routledge Handbook of Sustainability Indictors, Routledge International Handbooks. Routledge, <a class="external free" href="https://www.routledgehandbooks.com/doi/10.4324/9781315561103-33" rel="nofollow">https://www.routledgehandbooks.com/doi/10.4324/9781315561103-33</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Earth_Overshoot_Day&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a class="external text" href="http://www.overshootday.org/" rel="nofollow">Earth Overshoot Day official website</a></span></span></li>
+<li><span class="official-website"><span class="url"><a class="external text" href="http://www.footprintnetwork.org/en/index.php/GFN/" rel="nofollow">Global Footprint Network official website</a></span></span></li>
+<li><a class="external text" href="http://data.footprintnetwork.org" rel="nofollow">Ecological Footprint Explorer Open Data Platform</a></li>
+<li><cite class="citation web">Damassa, Tom (October 26, 2006). <a class="external text" href="https://web.archive.org/web/20061109232824/http://earthtrends.wri.org/updates/node/96" rel="nofollow">"Human Consumption Pushing Ecosystems to the Brink"</a>. EarthTrends Environmental Information. Archived from <a class="external text" href="http://earthtrends.wri.org/updates/node/96" rel="nofollow">the original</a> on 2006-11-09.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Human+Consumption+Pushing+Ecosystems+to+the+Brink&amp;rft.pub=EarthTrends+Environmental+Information&amp;rft.date=2006-10-26&amp;rft.aulast=Damassa&amp;rft.aufirst=Tom&amp;rft_id=http%3A%2F%2Fearthtrends.wri.org%2Fupdates%2Fnode%2F96&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+Overshoot+Day"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation web">Futehally, Ilmas. <a class="external text" href="http://www.strategicforesight.com/inner-articles.php?id=44" rel="nofollow">"Living Beyond Our Means"</a>. Strategic Foresight Group.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Living+Beyond+Our+Means&amp;rft.pub=Strategic+Foresight+Group&amp;rft.aulast=Futehally&amp;rft.aufirst=Ilmas&amp;rft_id=http%3A%2F%2Fwww.strategicforesight.com%2Finner-articles.php%3Fid%3D44&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEarth+Overshoot+Day"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<div aria-labelledby="Natural_resources" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Natural_resources" title="Template:Natural resources"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Natural_resources" title="Template talk:Natural resources"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Natural_resources&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Natural_resources" style="font-size:114%;margin:0 4em"><a href="/wiki/Natural_resource" title="Natural resource">Natural resources</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">Air</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;"><a href="/wiki/Air_pollution" title="Air pollution">Pollution / quality</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/National_Ambient_Air_Quality_Standards" title="National Ambient Air Quality Standards">Ambient standards <span style="font-size:90%;">(USA)</span></a></li>
+<li><a href="/wiki/Air_quality_index" title="Air quality index">Index</a></li>
+<li><a href="/wiki/Indoor_air_quality" title="Indoor air quality">Indoor</a>
+<ul><li><a href="/wiki/Indoor_air_pollution_in_developing_nations" title="Indoor air pollution in developing nations">developing nations</a></li></ul></li>
+<li><a href="/wiki/Air_quality_law" title="Air quality law">Law</a>
+<ul><li><a href="/wiki/Clean_Air_Act_(United_States)" title="Clean Air Act (United States)">Clean Air Act <span style="font-size:90%;">(USA)</span></a></li></ul></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;">Emissions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Airshed" title="Airshed">Airshed</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Trading</a></li>
+<li><a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">Deforestation (REDD)</a></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Carson_Fall_Mt_Kinabalu.jpg" title="Carson Falls on Mount Kinabalu, Borneo"><img alt="Carson Falls on Mount Kinabalu, Borneo" data-file-height="3456" data-file-width="2592" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/100px-Carson_Fall_Mt_Kinabalu.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/150px-Carson_Fall_Mt_Kinabalu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carson_Fall_Mt_Kinabalu.jpg/200px-Carson_Fall_Mt_Kinabalu.jpg 2x" width="100"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Energy" title="Energy">Energy</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Energy_law" title="Energy law">Law</a></li>
+<li><a class="mw-redirect" href="/wiki/Energy_resources" title="Energy resources">Resources</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuels</a> (<a href="/wiki/Peak_oil" title="Peak oil">peak oil</a>)</li>
+<li><a href="/wiki/Geothermal_energy" title="Geothermal energy">Geothermal</a></li>
+<li><a href="/wiki/Hydropower" title="Hydropower">Hydro</a>
+<ul><li><a href="/wiki/Tidal_power" title="Tidal power">tidal</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">wave</a></li></ul></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar</a>
+<ul><li><a href="/wiki/Sunlight" title="Sunlight">sunlight</a></li>
+<li><a href="/wiki/Shade_(shadow)" title="Shade (shadow)">shade</a></li></ul></li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Land" title="Land">Land</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arable_land" title="Arable land">Arable</a>
+<ul><li><a href="/wiki/Peak_farmland" title="Peak farmland">peak farmland</a></li></ul></li>
+<li><a href="/wiki/Land_degradation" title="Land degradation">Degradation</a></li>
+<li><a href="/wiki/Land_law" title="Land law">Law</a>
+<ul><li><a href="/wiki/Property_law" title="Property law">property</a></li></ul></li>
+<li><a href="/wiki/Land_management" title="Land management">Management</a>
+<ul><li><a href="/wiki/Habitat_conservation" title="Habitat conservation">habitat conservation</a></li></ul></li>
+<li><a href="/wiki/Mineral" title="Mineral">Minerals</a>
+<ul><li><a href="/wiki/Mining" title="Mining">mining</a>
+<ul><li><a href="/wiki/Mining_law" title="Mining law">law</a></li>
+<li><a href="/wiki/Sand_mining" title="Sand mining">sand</a></li></ul></li>
+<li><a href="/wiki/Peak_minerals" title="Peak minerals">peak</a></li>
+<li><a href="/wiki/Mineral_rights" title="Mineral rights">rights</a></li></ul></li>
+<li><a href="/wiki/Soil" title="Soil">Soil</a>
+<ul><li><a href="/wiki/Soil_conservation" title="Soil conservation">conservation</a></li>
+<li><a href="/wiki/Soil_fertility" title="Soil fertility">fertility</a></li>
+<li><a href="/wiki/Soil_health" title="Soil health">health</a></li>
+<li><a href="/wiki/Soil_resilience" title="Soil resilience">resilience</a></li></ul></li>
+<li><a href="/wiki/Land_use" title="Land use">Use</a>
+<ul><li><a href="/wiki/Land-use_planning" title="Land-use planning">planning</a></li>
+<li><a href="/wiki/Open_space_reserve" title="Open space reserve">reserve</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Life" title="Life">Life</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></li>
+<li><a href="/wiki/Bioprospecting" title="Bioprospecting">Bioprospecting</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a class="mw-redirect" href="/wiki/Bushfood" title="Bushfood">Bushfood</a></li>
+<li><a href="/wiki/Bushmeat" title="Bushmeat">Bushmeat</a></li>
+<li><a href="/wiki/Fishery" title="Fishery">Fisheries</a>
+<ul><li><a href="/wiki/Fisheries_law" title="Fisheries law">law</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">management</a></li></ul></li>
+<li><a href="/wiki/Food" title="Food">Food</a></li>
+<li><a href="/wiki/Forest" title="Forest">Forests</a>
+<ul><li><a href="/wiki/Forest_genetic_resources" title="Forest genetic resources">genetic resources</a></li>
+<li><a href="/wiki/Forestry_law" title="Forestry law">law</a></li>
+<li><a href="/wiki/Forest_management" title="Forest management">management</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Game_(food)" title="Game (food)">Game</a>
+<ul><li><a href="/wiki/Game_law" title="Game law">law</a></li></ul></li>
+<li><a href="/wiki/Gene_bank" title="Gene bank">Gene bank</a></li>
+<li><a href="/wiki/List_of_plants_used_in_herbalism" title="List of plants used in herbalism">Herbalist plants</a></li>
+<li><a href="/wiki/Marine_conservation" title="Marine conservation">Marine conservation</a></li>
+<li><a href="/wiki/Non-timber_forest_product" title="Non-timber forest product">Non-timber forest products</a></li>
+<li><a href="/wiki/Rangeland" title="Rangeland">Rangeland</a></li>
+<li><a href="/wiki/Seed_bank" title="Seed bank">Seed bank</a></li>
+<li><a href="/wiki/Wildlife" title="Wildlife">Wildlife</a>
+<ul><li><a href="/wiki/Wildlife_conservation" title="Wildlife conservation">conservation</a></li>
+<li><a href="/wiki/Wildlife_management" title="Wildlife management">management</a></li></ul></li>
+<li><a href="/wiki/Wood" title="Wood">Wood</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Water" title="Water">Water</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;">Types / location</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aquifer" title="Aquifer">Aquifer</a>
+<ul><li><a href="/wiki/Aquifer_storage_and_recovery" title="Aquifer storage and recovery">storage and recovery</a></li></ul></li>
+<li><a href="/wiki/Drinking_water" title="Drinking water">Drinking</a></li>
+<li><a href="/wiki/Fresh_water" title="Fresh water">Fresh</a></li>
+<li><a href="/wiki/Groundwater" title="Groundwater">Groundwater</a>
+<ul><li><a href="/wiki/Groundwater_pollution" title="Groundwater pollution">pollution</a></li>
+<li><a href="/wiki/Groundwater_recharge" title="Groundwater recharge">recharge</a></li>
+<li><a href="/wiki/Groundwater_remediation" title="Groundwater remediation">remediation</a></li></ul></li>
+<li><a href="/wiki/Hydrosphere" title="Hydrosphere">Hydrosphere</a></li>
+<li><a href="/wiki/Ice" title="Ice">Ice</a>
+<ul><li><a href="/wiki/Iceberg" title="Iceberg">bergs</a></li>
+<li><a href="/wiki/Glacier" title="Glacier">glacial</a></li>
+<li><a href="/wiki/Polar_ice_cap" title="Polar ice cap">polar</a></li></ul></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation</a></li>
+<li><a href="/wiki/Rain" title="Rain">Rain</a>
+<ul><li><a href="/wiki/Rainwater_harvesting" title="Rainwater harvesting">harvesting</a></li></ul></li>
+<li><a href="/wiki/Stormwater" title="Stormwater">Stormwater</a></li>
+<li><a href="/wiki/Surface_water" title="Surface water">Surface water</a></li>
+<li><a href="/wiki/Wastewater" title="Wastewater">Wastewater</a>
+<ul><li><a href="/wiki/Reclaimed_water" title="Reclaimed water">reclaimed</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;">Aspects</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Flood" title="Flood">Floods</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_law" title="Water law">Law</a></li>
+<li><a href="/wiki/Leaching_(agriculture)" title="Leaching (agriculture)">Leaching</a></li>
+<li><a href="/wiki/Sanitation" title="Sanitation">Sanitation</a></li>
+<li><a href="/wiki/Water_conflict" title="Water conflict">Conflict</a></li>
+<li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a href="/wiki/Peak_water" title="Peak water">Peak water</a></li>
+<li><a href="/wiki/Water_pollution" title="Water pollution">Pollution</a></li>
+<li><a href="/wiki/Water_privatization" title="Water privatization">Privatization</a></li>
+<li><a href="/wiki/Water_quality" title="Water quality">Quality</a></li>
+<li><a href="/wiki/Water_right" title="Water right">Right</a></li>
+<li><a href="/wiki/Water_resources" title="Water resources">Resources</a>
+<ul><li><a href="/wiki/Water_resource_management" title="Water resource management">management</a></li>
+<li><a href="/wiki/Water_resource_policy" title="Water resource policy">policy</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Commons" title="Commons">Commons</a>
+<ul><li><a href="/wiki/Enclosure" title="Enclosure">enclosure</a></li>
+<li><a href="/wiki/Global_commons" title="Global commons">global</a></li>
+<li><a href="/wiki/Common_land" title="Common land">land</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">tragedy of</a></li></ul></li>
+<li><a href="/wiki/Natural_resource_economics" title="Natural resource economics">Economics</a>
+<ul><li><a href="/wiki/Ecological_economics" title="Ecological economics">ecological</a></li>
+<li><a href="/wiki/Land_(economics)" title="Land (economics)">land</a></li></ul></li>
+<li><a href="/wiki/Ecosystem_services" title="Ecosystem services">Ecosystem services</a></li>
+<li><a href="/wiki/Exploitation_of_natural_resources" title="Exploitation of natural resources">Exploitation</a>
+<ul><li><a href="/wiki/Overexploitation" title="Overexploitation">overexploitation</a></li>
+<li><a class="mw-selflink selflink">Earth Overshoot Day</a></li></ul></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Management</a>
+<ul><li><a href="/wiki/Adaptive_management" title="Adaptive management">adaptive</a></li></ul></li>
+<li><a href="/wiki/Natural_capital" title="Natural capital">Natural capital</a>
+<ul><li><a href="/wiki/Natural_capital_accounting" title="Natural capital accounting">accounting</a></li></ul></li>
+<li><a href="/wiki/Nature_reserve" title="Nature reserve">Nature reserve</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+<li><a href="/wiki/Wilderness" title="Wilderness">Wilderness</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.0em;font-weight:normal;"><a href="/wiki/Resource" title="Resource">Resource</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Common-pool_resource" title="Common-pool resource">Common-pool</a></li>
+<li><a href="/wiki/Conflict_resource" title="Conflict resource">Conflict <span style="font-size:90%;">(perpetuation)</span></a></li>
+<li><a href="/wiki/Resource_curse" title="Resource curse">Curse</a></li>
+<li><a href="/wiki/Resource_depletion" title="Resource depletion">Depletion</a></li>
+<li><a class="mw-redirect" href="/wiki/Resource_extraction" title="Resource extraction">Extraction</a></li>
+<li><a href="/wiki/Resource_nationalism" title="Resource nationalism">Nationalism</a></li>
+<li><a href="/wiki/Renewable_resource" title="Renewable resource">Renewable</a> / <a href="/wiki/Non-renewable_resource" title="Non-renewable resource">Non-renewable</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a class="mw-redirect" href="/wiki/Wikipedia:Portal" title="Wikipedia:Portal">Portals</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Portal:Agriculture_and_agronomy" title="Portal:Agriculture and agronomy">Agriculture and agronomy</a></li>
+<li><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></li>
+<li><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment</a></li>
+<li><a href="/wiki/Portal:Fishing" title="Portal:Fishing">Fishing</a></li>
+<li><a href="/wiki/Portal:Forestry" title="Portal:Forestry">Forestry</a></li>
+<li><a href="/wiki/Portal:Mining" title="Portal:Mining">Mining</a></li>
+<li><a href="/wiki/Portal:Water" title="Portal:Water">Water</a></li>
+<li><a href="/wiki/Portal:Wetlands" title="Portal:Wetlands">Wetlands</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="font-weight:bold;"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Natural_resources" title="Category:Natural resources">Category</a>
+<ul><li><span style="font-weight:normal;"><a href="/wiki/Category:Natural_resources_agencies" title="Category:Natural resources agencies">agencies</a></span></li>
+<li><span style="font-weight:normal;"><a href="/wiki/Category:Natural_resources_law" title="Category:Natural resources law">law</a></span></li>
+<li><span style="font-weight:normal;"><a href="/wiki/Category:Natural_resource_management" title="Category:Natural resource management">management</a></span></li>
+<li><span style="font-weight:normal;"><a href="/wiki/Category:Natural_resources_ministries" title="Category:Natural resources ministries">ministries</a></span></li>
+<li><span style="font-weight:normal;"><a href="/wiki/Category:Natural_resources_organizations" title="Category:Natural resources organizations">organizations</a></span></li></ul></li>
+<li><span style="font-weight:normal;"><a href="/wiki/List_of_colleges_of_natural_resources" title="List of colleges of natural resources">Colleges</a></span></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Natural_resources" title="commons:Category:Natural resources">Natural resources</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Sustainability" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sustainability" title="Template:Sustainability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sustainability" title="Template talk:Sustainability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sustainability&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Sustainability" style="font-size:114%;margin:0 4em"><a href="/wiki/Sustainability" title="Sustainability">Sustainability</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Sustainability#Principles_and_concepts" title="Sustainability">Principles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a></li>
+<li><a href="/wiki/Earth_system_governance" title="Earth system governance">Earth system governance</a></li>
+<li><a href="/wiki/Ecological_modernization" title="Ecological modernization">Ecological modernization</a></li>
+<li><a href="/wiki/Environmental_governance" title="Environmental governance">Environmental governance</a></li>
+<li><a href="/wiki/Environmentalism" title="Environmentalism">Environmentalism</a></li>
+<li><a href="/wiki/Global_catastrophic_risk" title="Global catastrophic risk">Global catastrophic risk</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Social_sustainability" title="Social sustainability">Social sustainability</a></li>
+<li><a href="/wiki/Stewardship" title="Stewardship">Stewardship</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Consumption_(economics)" title="Consumption (economics)">Consumption</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropization" title="Anthropization">Anthropization</a></li>
+<li><a href="/wiki/Anti-consumerism" title="Anti-consumerism">Anti-consumerism</a></li>
+<li><a class="mw-selflink selflink">Earth Overshoot Day</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical</a></li>
+<li><a class="mw-redirect" href="/wiki/Over-consumption" title="Over-consumption">Over-consumption</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+<li><a href="/wiki/Sustainability_advertising" title="Sustainability advertising">Sustainability advertising</a></li>
+<li><a href="/wiki/Sustainability_brand" title="Sustainability brand">Sustainability brand</a></li>
+<li><a href="/wiki/Sustainability_marketing_myopia" title="Sustainability marketing myopia">Sustainability marketing myopia</a></li>
+<li><a href="/wiki/Sustainable_consumption" title="Sustainable consumption">Sustainable</a></li>
+<li><a href="/wiki/Sustainability_and_systemic_change_resistance" title="Sustainability and systemic change resistance">Systemic change resistance</a></li>
+<li><a href="/wiki/Tragedy_of_the_commons" title="Tragedy of the commons">Tragedy of the commons</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Population" title="Population">Population</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a class="mw-redirect" href="/wiki/Human_population_control" title="Human population control">Control</a></li>
+<li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Overpopulation</a></li>
+<li><a href="/wiki/Zero_population_growth" title="Zero population growth">Zero growth</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Technology</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate</a></li>
+<li><a href="/wiki/Environmental_technology" title="Environmental technology">Environmental</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biosecurity" title="Biosecurity">Biosecurity</a></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Deep_ecology" title="Deep ecology">Deep ecology</a></li>
+<li><a href="/wiki/Endangered_species" title="Endangered species">Endangered species</a></li>
+<li><a href="/wiki/Holocene_extinction" title="Holocene extinction">Holocene extinction</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate change mitigation</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Conservation</a></li>
+<li><a href="/wiki/Energy_descent" title="Energy descent">Descent</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficiency</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a class="mw-redirect" href="/wiki/Fossil-fuel_phase-out" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+<li><a href="/wiki/Peak_oil" title="Peak oil">Peak oil</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable</a></li>
+<li><a href="/wiki/Energy_poverty" title="Energy poverty">Energy poverty</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Food</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Forest_gardening" title="Forest gardening">Forest gardening</a></li>
+<li><a href="/wiki/Local_food" title="Local food">Local</a></li>
+<li><a href="/wiki/Permaculture" title="Permaculture">Permaculture</a></li>
+<li><a href="/wiki/Food_security" title="Food security">Security</a></li>
+<li><a href="/wiki/Sustainable_agriculture" title="Sustainable agriculture">Sustainable agriculture</a></li>
+<li><a href="/wiki/Sustainable_fishery" title="Sustainable fishery">Sustainable fishery</a></li>
+<li><a href="/wiki/Urban_horticulture" title="Urban horticulture">Urban horticulture</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Water</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Water_conservation" title="Water conservation">Conservation</a></li>
+<li><a class="mw-redirect" href="/wiki/Water_crisis" title="Water crisis">Crisis</a></li>
+<li><a href="/wiki/Water_efficiency" title="Water efficiency">Efficiency</a></li>
+<li><a href="/wiki/Water_footprint" title="Water footprint">Footprint</a></li>
+<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">Reclaimed</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Accountability</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/Sustainability_measurement" title="Sustainability measurement">Sustainability measurement</a></li>
+<li><a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">Sustainability metrics and indices</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li>
+<li><a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">Standards and certification</a></li>
+<li><a href="/wiki/Sustainable_yield" title="Sustainable yield">Sustainable yield</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Applications</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainable_advertising" title="Sustainable advertising">Advertising</a></li>
+<li><a href="/wiki/Sustainable_architecture" title="Sustainable architecture">Architecture</a></li>
+<li><a href="/wiki/Sustainable_art" title="Sustainable art">Art</a></li>
+<li><a href="/wiki/Sustainable_business" title="Sustainable business">Business</a></li>
+<li><a href="/wiki/Sustainable_city" title="Sustainable city">City</a></li>
+<li><a href="/wiki/North_American_collegiate_sustainability_programs" title="North American collegiate sustainability programs">College programs</a></li>
+<li><a href="/wiki/Sustainable_community" title="Sustainable community">Community</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Design</a></li>
+<li><a href="/wiki/Ecovillage" title="Ecovillage">Ecovillage</a></li>
+<li><a class="mw-redirect" href="/wiki/Education_for_Sustainable_Development" title="Education for Sustainable Development">Education for Sustainable Development</a></li>
+<li><a href="/wiki/Sustainable_fashion" title="Sustainable fashion">Fashion</a></li>
+<li><a href="/wiki/Sustainable_gardening" title="Sustainable gardening">Gardening</a></li>
+<li><a href="/wiki/Geopark" title="Geopark">Geopark</a></li>
+<li><a href="/wiki/Green_marketing" title="Green marketing">Green marketing</a></li>
+<li><a href="/wiki/Sustainable_industries" title="Sustainable industries">Industries</a></li>
+<li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Landscape architecture</a></li>
+<li><a href="/wiki/Sustainable_living" title="Sustainable living">Living</a></li>
+<li><a href="/wiki/Low-impact_development_(UK)" title="Low-impact development (UK)">Low-impact development</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_market" title="Sustainable market">Sustainable market</a></li>
+<li><a href="/wiki/Sustainability_organizations" title="Sustainability organizations">Organizations</a></li>
+<li><a href="/wiki/Sustainable_packaging" title="Sustainable packaging">Packaging</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainability_practices_in_organizations" title="Sustainability practices in organizations">Practices</a></li>
+<li><a href="/wiki/Sustainable_procurement" title="Sustainable procurement">Procurement</a></li>
+<li><a href="/wiki/Sustainable_tourism" title="Sustainable tourism">Tourism</a></li>
+<li><a href="/wiki/Sustainable_transport" title="Sustainable transport">Transport</a></li>
+<li><a class="mw-redirect" href="/wiki/Sustainable_urban_drainage_systems" title="Sustainable urban drainage systems">Urban drainage systems</a></li>
+<li><a href="/wiki/Sustainable_urban_infrastructure" title="Sustainable urban infrastructure">Urban infrastructure</a></li>
+<li><a href="/wiki/New_Urbanism" title="New Urbanism">Urbanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Management</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sustainability_and_environmental_management" title="Sustainability and environmental management">Environmental</a></li>
+<li><a href="/wiki/Fisheries_management" title="Fisheries management">Fisheries</a></li>
+<li><a href="/wiki/Sustainable_forest_management" title="Sustainable forest management">Forest</a></li>
+<li><a href="/wiki/Sustainable_materials_management" title="Sustainable materials management">Materials</a></li>
+<li><a href="/wiki/Natural_resource_management" title="Natural resource management">Natural resource</a></li>
+<li><a href="/wiki/Planetary_management" title="Planetary management">Planetary</a></li>
+<li><a href="/wiki/Waste_management" title="Waste management">Waste</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Agreements</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/United_Nations_Conference_on_the_Human_Environment" title="United Nations Conference on the Human Environment"><span class="wrap">UN Conference on the Human Environment (Stockholm 1972)</span></a></li>
+<li><a href="/wiki/Brundtland_Commission" title="Brundtland Commission">Brundtlandt Commission Report (1983)</a></li>
+<li><a href="/wiki/Our_Common_Future" title="Our Common Future"><i>Our Common Future</i> (1987)</a></li>
+<li><a href="/wiki/Earth_Summit" title="Earth Summit">Earth Summit (1992)</a></li>
+<li><a href="/wiki/Rio_Declaration_on_Environment_and_Development" title="Rio Declaration on Environment and Development">Rio Declaration on Environment and Development</a></li>
+<li><a href="/wiki/Agenda_21" title="Agenda 21">Agenda 21 (1992)</a></li>
+<li><a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity (1992)</a></li>
+<li><a href="/wiki/International_Conference_on_Population_and_Development" title="International Conference on Population and Development">ICPD Programme of Action (1994)</a></li>
+<li><a href="/wiki/Earth_Charter" title="Earth Charter">Earth Charter</a></li>
+<li><a href="/wiki/Lisbon_Principles" title="Lisbon Principles">Lisbon Principles</a></li>
+<li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">UN Millennium Declaration (2000)</a></li>
+<li><a href="/wiki/Earth_Summit_2002" title="Earth Summit 2002">Earth Summit 2002</a> (Rio+10, Johannesburg)</li>
+<li><a href="/wiki/United_Nations_Conference_on_Sustainable_Development" title="United Nations Conference on Sustainable Development">United Nations Conference on Sustainable Development</a> (Rio+20, 2012)</li>
+<li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Sustainability" title="Category:Sustainability">Category</a></li>
+<li><a href="/wiki/Category:Sustainability_lists" title="Category:Sustainability lists">Lists</a></li>
+<li><a href="/wiki/Outline_of_sustainability" title="Outline of sustainability">Outline</a></li>
+<li><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Portal</a></li>
+<li><a href="/wiki/Sustainability_science" title="Sustainability science">Science</a></li>
+<li><a href="/wiki/Sustainability_studies" title="Sustainability studies">Studies</a></li>
+<li><a href="/wiki/List_of_environmental_degrees" title="List of environmental degrees">Degrees</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Global_catastrophic_risks" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Global_catastrophic_risks" title="Template:Global catastrophic risks"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Global_catastrophic_risks" title="Template talk:Global catastrophic risks"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Global_catastrophic_risks&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Global_catastrophic_risks" style="font-size:114%;margin:0 4em"><a href="/wiki/Global_catastrophic_risk" title="Global catastrophic risk">Global catastrophic risks</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Future_of_the_Earth&amp;#10;*_Ultimate_fate_of_the_universe">
+<ul><li><a href="/wiki/Future_of_Earth" title="Future of Earth">Future of the Earth</a></li>
+<li><a href="/wiki/Ultimate_fate_of_the_universe" title="Ultimate fate of the universe">Ultimate fate of the universe</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Technological</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Grey_goo" title="Grey goo">Grey goo</a></li>
+<li><a href="/wiki/Kinetic_bombardment" title="Kinetic bombardment">Kinetic bombardment</a></li>
+<li><a href="/wiki/Mutual_assured_destruction" title="Mutual assured destruction">Mutual assured destruction</a>
+<ul><li><a href="/wiki/Dead_Hand" title="Dead Hand">Dead Hand</a></li>
+<li><a href="/wiki/Doomsday_device" title="Doomsday device">Doomsday device</a></li></ul></li>
+<li><a href="/wiki/Synthetic_intelligence" title="Synthetic intelligence">Synthetic intelligence</a> / <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial intelligence</a>
+<ul><li><a href="/wiki/Existential_risk_from_artificial_general_intelligence" title="Existential risk from artificial general intelligence">Existential risk from artificial intelligence</a></li>
+<li><a href="/wiki/AI_takeover" title="AI takeover">AI takeover</a></li></ul></li>
+<li><a href="/wiki/Technological_singularity" title="Technological singularity">Technological singularity</a></li>
+<li><a href="/wiki/Transhumanism" title="Transhumanism">Transhumanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Sociological</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Malthusian_catastrophe" title="Malthusian catastrophe">Malthusian catastrophe</a></li>
+<li><a href="/wiki/New_World_Order_(conspiracy_theory)" title="New World Order (conspiracy theory)">New World Order (conspiracy theory)</a></li>
+<li><a href="/wiki/Nuclear_holocaust" title="Nuclear holocaust">Nuclear holocaust</a>
+<ul><li><a href="/wiki/Nuclear_winter" title="Nuclear winter">winter</a></li>
+<li><a href="/wiki/Nuclear_famine" title="Nuclear famine">famine</a></li>
+<li><a href="/wiki/Cobalt_bomb" title="Cobalt bomb">cobalt</a></li></ul></li>
+<li><a href="/wiki/Societal_collapse" title="Societal collapse">Societal collapse</a></li>
+<li><a href="/wiki/World_War_III" title="World War III">World War III</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ecological</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Climate_change" title="Climate change">Climate change</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Extinction_risk_from_global_warming" title="Extinction risk from global warming">Extinction risk from global warming</a>
+<ul><li><a href="/wiki/Runaway_climate_change" title="Runaway climate change">Runaway climate change</a></li></ul></li>
+<li><a href="/wiki/Global_terrestrial_stilling" title="Global terrestrial stilling">Global terrestrial stilling</a></li>
+<li><a href="/wiki/Ice_age" title="Ice age">Ice age</a></li>
+<li><a href="/wiki/Ecocide" title="Ecocide">Ecocide</a></li>
+<li><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Human impact on the environment</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Cascade_effect_(ecology)" title="Cascade effect (ecology)">Cascade effect</a><br/></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-selflink selflink">Earth Overshoot Day</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Overexploitation" title="Overexploitation">Overexploitation</a></li>
+<li><a href="/wiki/Overpopulation" title="Overpopulation">Overpopulation</a>
+<ul><li><a href="/wiki/Human_overpopulation" title="Human overpopulation">Human overpopulation</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Biological</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Extinction" title="Extinction">Extinction</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Extinction_event" title="Extinction event">Extinction event</a></li>
+<li><a href="/wiki/Human_extinction" title="Human extinction">Human extinction</a></li>
+<li><a href="/wiki/Genetic_erosion" title="Genetic erosion">Genetic erosion</a></li>
+<li><a href="/wiki/Genetic_pollution" title="Genetic pollution">Genetic pollution</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Others</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dysgenics" title="Dysgenics">Dysgenics</a></li>
+<li><a href="/wiki/Pandemic" title="Pandemic">Pandemic</a>
+<ul><li><a href="/wiki/Biological_agent" title="Biological agent">Biological agent</a></li></ul></li>
+<li><a href="/wiki/Transhumanism" title="Transhumanism">Transhumanism</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Physical</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Big_Crunch" title="Big Crunch">Big Crunch</a></li>
+<li><a href="/wiki/Big_Rip" title="Big Rip">Big Rip</a></li>
+<li><a href="/wiki/Coronal_mass_ejection" title="Coronal mass ejection">Coronal mass ejection</a></li>
+<li><a href="/wiki/Gamma-ray_burst" title="Gamma-ray burst">Gamma-ray burst</a></li>
+<li><a href="/wiki/Hypercane" title="Hypercane">Hypercane</a></li>
+<li><a href="/wiki/Impact_event" title="Impact event">Impact event</a>
+<ul><li><a href="/wiki/Asteroid_impact_avoidance" title="Asteroid impact avoidance">Asteroid impact avoidance</a></li>
+<li><a href="/wiki/Potentially_hazardous_object" title="Potentially hazardous object">Potentially hazardous object</a></li></ul></li>
+<li><a href="/wiki/Rogue_planet" title="Rogue planet">Rogue planet</a></li>
+<li><a href="/wiki/Solar_flare" title="Solar flare">Solar flare</a></li>
+<li><a href="/wiki/Supervolcano" title="Supervolcano">Supervolcano</a>
+<ul><li><a href="/wiki/Volcanic_winter" title="Volcanic winter">winter</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Mythological</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Eschatology" title="Eschatology">Eschatology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Buddhist_eschatology" title="Buddhist eschatology">Buddhist</a></li>
+<li><a href="/wiki/Hindu_eschatology" title="Hindu eschatology">Hindu</a></li>
+<li><a href="/wiki/Last_Judgment" title="Last Judgment">Last Judgment</a>
+<ul><li><a href="/wiki/Christian_eschatology" title="Christian eschatology">Christian</a>
+<ul><li><a href="/wiki/Book_of_Revelation" title="Book of Revelation">Book of Revelation</a></li></ul></li>
+<li><a href="/wiki/Islamic_eschatology" title="Islamic eschatology">Islamic</a></li>
+<li><a href="/wiki/Jewish_eschatology" title="Jewish eschatology">Jewish</a></li></ul></li>
+<li><a href="/wiki/Ragnar%C3%B6k" title="Ragnarök">Norse</a></li>
+<li><a href="/wiki/Frashokereti" title="Frashokereti">Zoroastrian</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Others</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2011_end_times_prediction" title="2011 end times prediction">2011 end times prediction</a></li>
+<li><a href="/wiki/2012_phenomenon" title="2012 phenomenon">2012 phenomenon</a></li>
+<li><a href="/wiki/Apocalypse" title="Apocalypse">Apocalypse</a></li>
+<li><a href="/wiki/Armageddon" title="Armageddon">Armageddon</a></li>
+<li><a href="/wiki/Blood_moon_prophecy" title="Blood moon prophecy">Blood moon prophecy</a></li>
+<li><a href="/wiki/Doomsday_Clock" title="Doomsday Clock">Doomsday Clock</a></li>
+<li><a href="/wiki/End_time" title="End time">End time</a></li>
+<li><a href="/wiki/List_of_dates_predicted_for_apocalyptic_events" title="List of dates predicted for apocalyptic events">List of dates predicted for apocalyptic events</a></li>
+<li><a href="/wiki/Nibiru_cataclysm" title="Nibiru cataclysm">Nibiru cataclysm</a></li>
+<li><a href="/wiki/Rapture" title="Rapture">Rapture</a></li>
+<li><a href="/wiki/Revelation_12_sign_prophecy" title="Revelation 12 sign prophecy">Revelation 12 sign prophecy</a></li>
+<li><a href="/wiki/Third_Temple" title="Third Temple">Third Temple</a></li>
+<li><a href="/wiki/Year_2000_problem" title="Year 2000 problem">Year 2000 problem</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Fictional</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alien_invasion" title="Alien invasion">Alien invasion</a></li>
+<li><a href="/wiki/Apocalyptic_and_post-apocalyptic_fiction" title="Apocalyptic and post-apocalyptic fiction">Apocalyptic and post-apocalyptic fiction</a>
+<ul><li><a href="/wiki/List_of_apocalyptic_and_post-apocalyptic_fiction" title="List of apocalyptic and post-apocalyptic fiction">List of apocalyptic and post-apocalyptic fiction</a></li>
+<li><a href="/wiki/List_of_apocalyptic_films" title="List of apocalyptic films">List of apocalyptic films</a></li></ul></li>
+<li><a href="/wiki/Disaster_film" title="Disaster film">Disaster films</a>
+<ul><li><a href="/wiki/List_of_disaster_films" title="List of disaster films">List of disaster films</a></li></ul></li>
+<li><a href="/wiki/List_of_fictional_doomsday_devices" title="List of fictional doomsday devices">List of fictional doomsday devices</a></li>
+<li><a href="/wiki/Zombie_apocalypse" title="Zombie apocalypse">Zombie apocalypse</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> Categories
+<ul><li><a href="/wiki/Category:Apocalypticism" title="Category:Apocalypticism">Apocalypticism</a></li>
+<li><a href="/wiki/Category:Future_problems" title="Category:Future problems">Future problems</a></li>
+<li><a href="/wiki/Category:Hazards" title="Category:Hazards">Hazards</a></li>
+<li><a href="/wiki/Category:Risk_analysis" title="Category:Risk analysis">Risk analysis</a></li>
+<li><a href="/wiki/Category:Doomsday_scenarios" title="Category:Doomsday scenarios">Doomsday scenarios</a></li></ul></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2193
+Cached time: 20181003135949
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.424 seconds
+Real time usage: 0.688 seconds
+Preprocessor visited node count: 1479/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 119123/2097152 bytes
+Template argument size: 1142/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 32411/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.176/10.000 seconds
+Lua memory usage: 3.9 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  320.097      1 -total
+ 36.13%  115.648      1 Template:Reflist
+ 34.29%  109.775     10 Template:Cite_web
+ 24.32%   77.832      9 Template:Navbox
+ 14.44%   46.232      2 Template:Cite_journal
+ 13.22%   42.310      1 Template:Natural_resources
+  9.82%   31.443      1 Template:ISBN
+  5.10%   16.320      2 Template:Catalog_lookup_link
+  4.93%   15.789      1 Template:Doomsday
+  4.48%   14.351      2 Template:Cite_book
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:22682173-0!canonical!math=5 and timestamp 20181003135949 and revision id 855611680
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Earth_Overshoot_Day&amp;oldid=855611680">https://en.wikipedia.org/w/index.php?title=Earth_Overshoot_Day&amp;oldid=855611680</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Environmental_awareness_days" title="Category:Environmental awareness days">Environmental awareness days</a></li><li><a href="/wiki/Category:Human_ecology" title="Category:Human ecology">Human ecology</a></li><li><a href="/wiki/Category:Environmental_impact_assessment" title="Category:Environmental impact assessment">Environmental impact assessment</a></li><li><a href="/wiki/Category:Environmental_indices" title="Category:Environmental indices">Environmental indices</a></li><li><a href="/wiki/Category:August_observances" title="Category:August observances">August observances</a></li><li><a href="/wiki/Category:September_observances" title="Category:September observances">September observances</a></li><li><a href="/wiki/Category:October_observances" title="Category:October observances">October observances</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Earth+Overshoot+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Earth+Overshoot+Day" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Earth_Overshoot_Day" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Earth_Overshoot_Day" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Earth_Overshoot_Day">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Earth_Overshoot_Day&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Earth_Overshoot_Day&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Earth_Overshoot_Day" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Earth_Overshoot_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Earth_Overshoot_Day&amp;oldid=855611680" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Earth_Overshoot_Day&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2582303" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Earth_Overshoot_Day&amp;id=855611680" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Earth+Overshoot+Day">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Earth+Overshoot+Day&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Earth_Overshoot_Day&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Earth_Overshoot_Day" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Dia_de_l%27Exc%C3%A9s_de_la_Terra" hreflang="ca" lang="ca" title="Dia de l'Excés de la Terra – Catalan">Català</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Earth_Overshoot_Day" hreflang="da" lang="da" title="Earth Overshoot Day – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Earth_Overshoot_Day" hreflang="de" lang="de" title="Earth Overshoot Day – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Earth_Overshoot_Day" hreflang="es" lang="es" title="Earth Overshoot Day – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Jour_du_d%C3%A9passement" hreflang="fr" lang="fr" title="Jour du dépassement – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A7%80%EA%B5%AC_%EC%83%9D%ED%83%9C%EC%9A%A9%EB%9F%89_%EC%B4%88%EA%B3%BC%EC%9D%98_%EB%82%A0" hreflang="ko" lang="ko" title="지구 생태용량 초과의 날 – Korean">한국어</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Hari_Melampaui_Batas" hreflang="id" lang="id" title="Hari Melampaui Batas – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Earth_Overshoot_Day" hreflang="it" lang="it" title="Earth Overshoot Day – Italian">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Earth_Overshoot_Day" hreflang="nl" lang="nl" title="Earth Overshoot Day – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Dzie%C5%84_D%C5%82ugu_Ekologicznego" hreflang="pl" lang="pl" title="Dzień Długu Ekologicznego – Polish">Polski</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B4%D0%BE%D0%BB%D0%B3%D0%B0" hreflang="ru" lang="ru" title="Всемирный день экологического долга – Russian">Русский</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Ekovelkap%C3%A4iv%C3%A4" hreflang="fi" lang="fi" title="Ekovelkapäivä – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Den_ekologiska_skuldens_dag" hreflang="sv" lang="sv" title="Den ekologiska skuldens dag – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%87%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B1%D0%BE%D1%80%D0%B3%D1%83" hreflang="uk" lang="uk" title="День екологічного боргу – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%94%9F%E6%85%8B%E8%B2%A0%E5%82%B5%E6%97%A5" hreflang="zh" lang="zh" title="生態負債日 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2582303#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 19 August 2018, at 15:42<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Earth_Overshoot_Day&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.424","walltime":"0.688","ppvisitednodes":{"value":1479,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":119123,"limit":2097152},"templateargumentsize":{"value":1142,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":32411,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  320.097      1 -total"," 36.13%  115.648      1 Template:Reflist"," 34.29%  109.775     10 Template:Cite_web"," 24.32%   77.832      9 Template:Navbox"," 14.44%   46.232      2 Template:Cite_journal"," 13.22%   42.310      1 Template:Natural_resources","  9.82%   31.443      1 Template:ISBN","  5.10%   16.320      2 Template:Catalog_lookup_link","  4.93%   15.789      1 Template:Doomsday","  4.48%   14.351      2 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.176","limit":"10.000"},"limitreport-memusage":{"value":4089829,"limit":52428800}},"cachereport":{"origin":"mw2193","timestamp":"20181003135949","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw2275"});});</script>
+</body>
+</html>

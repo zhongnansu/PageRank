@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Electrophile - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Electrophile","wgTitle":"Electrophile","wgCurRevisionId":844196373,"wgRevisionId":844196373,"wgArticleId":467832,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from June 2017","Physical organic chemistry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Electrophile","wgRelevantArticleId":467832,"wgRequestId":"W7l-lQrAAEQAAG96BO0AAABU","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q908086","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Electrophile" rel="alternate"/>
+<link href="/w/index.php?title=Electrophile&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Electrophile&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Electrophile" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Electrophile rootpage-Electrophile skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Electrophile</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>In organic 
+<a href="/wiki/Chemistry" title="Chemistry">chemistry</a>, an <b>electrophile</b> is a <a href="/wiki/Reagent" title="Reagent">reagent</a> attracted to <a href="/wiki/Electron" title="Electron">electrons</a>. Electrophiles are positively charged or neutral species <b>having vacant orbitals</b> that are attracted to an electron rich centre. It participates in a chemical reaction by accepting an <a href="/wiki/Electron_pair" title="Electron pair">electron pair</a> in order to <a href="/wiki/Chemical_bond" title="Chemical bond">bond</a> to a <a href="/wiki/Nucleophile" title="Nucleophile">nucleophile</a>. Because electrophiles accept electrons, they are <a class="mw-redirect" href="/wiki/Lewis_acid" title="Lewis acid">Lewis acids</a> (see <a class="mw-redirect" href="/wiki/Acid-base_reaction_theories" title="Acid-base reaction theories">acid-base reaction theories</a>). Most electrophiles are positively <a href="/wiki/Electric_charge" title="Electric charge">charged</a>, have an atom that carries a partial positive charge, or have an atom that does not have an octet of electrons.
+</p><p>The electrophiles are attacked by the most electron-populated part of one <a href="/wiki/Nucleophile" title="Nucleophile">nucleophile</a>. The electrophiles frequently seen in the <a href="/wiki/Organic_synthesis" title="Organic synthesis">organic syntheses</a> are <a class="mw-redirect" href="/wiki/Cations" title="Cations">cations</a> such as <a href="/wiki/Hydrogen_ion" title="Hydrogen ion">H<sup>+</sup></a> and <a href="/wiki/Nitrosonium" title="Nitrosonium">NO<sup>+</sup></a>, polarized neutral molecules such as <a href="/wiki/Hydrogen_chloride" title="Hydrogen chloride">HCl</a>, <a class="mw-redirect" href="/wiki/Alkyl_halide" title="Alkyl halide">alkyl halides</a>, <a href="/wiki/Acyl_halide" title="Acyl halide">acyl halides</a>, and <a class="mw-redirect" href="/wiki/Carbonyl_compound" title="Carbonyl compound">carbonyl compounds</a>, polarizable neutral molecules such as <a href="/wiki/Chlorine" title="Chlorine">Cl<sub>2</sub></a> and <a href="/wiki/Bromine" title="Bromine">Br<sub>2</sub></a>, <a href="/wiki/Oxidizing_agent" title="Oxidizing agent">oxidizing agents</a> such as organic <a class="mw-redirect" href="/wiki/Peracid" title="Peracid">peracids</a>, chemical species that do not satisfy the <a href="/wiki/Octet_rule" title="Octet rule">octet rule</a> such as <a href="/wiki/Carbene" title="Carbene">carbenes</a> and <a href="/wiki/Radical_(chemistry)" title="Radical (chemistry)">radicals</a>, and some Lewis acids such as <a href="/wiki/Borane" title="Borane">BH<sub>3</sub></a>  and <a href="/wiki/Diisobutylaluminium_hydride" title="Diisobutylaluminium hydride">DIBAL</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Organic_chemistry"><span class="tocnumber">1</span> <span class="toctext">Organic chemistry</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Addition_of_halogens"><span class="tocnumber">1.1</span> <span class="toctext">Addition of halogens</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Addition_of_hydrogen_halides"><span class="tocnumber">1.2</span> <span class="toctext">Addition of hydrogen halides</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Hydration"><span class="tocnumber">1.3</span> <span class="toctext">Hydration</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Chiral_derivatives"><span class="tocnumber">1.4</span> <span class="toctext">Chiral derivatives</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Electrophilicity_scale"><span class="tocnumber">2</span> <span class="toctext">Electrophilicity scale</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Superelectrophiles"><span class="tocnumber">3</span> <span class="toctext">Superelectrophiles</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Tetraalkylstannanes"><span class="tocnumber">4</span> <span class="toctext">Tetraalkylstannanes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Organic_chemistry">Organic chemistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electrophile&amp;action=edit&amp;section=1" title="Edit section: Organic chemistry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Addition_of_halogens">Addition of halogens</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electrophile&amp;action=edit&amp;section=2" title="Edit section: Addition of halogens">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These occur between alkenes and electrophiles, often halogens as in <a href="/wiki/Halogen_addition_reaction" title="Halogen addition reaction">halogen addition reactions</a>. Common reactions include use of bromine water to <a href="/wiki/Titration" title="Titration">titrate</a> against a sample to deduce the number of double bonds present. For example, <a class="mw-redirect" href="/wiki/Ethene" title="Ethene">ethene</a> + <a href="/wiki/Bromine" title="Bromine">bromine</a> → <a href="/wiki/1,2-Dibromoethane" title="1,2-Dibromoethane">1,2-dibromoethane</a>:
+</p>
+<dl><dd>C<sub>2</sub>H<sub>4</sub> + Br<sub>2</sub> → BrCH<sub>2</sub>CH<sub>2</sub>Br</dd></dl>
+<p>This takes the form of 3 main steps shown below;<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p>
+<dl><dd><a class="image" href="/wiki/File:Electrophilic_addition_of_Br2.png"><img alt="Electrophilic addition of Br2.png" data-file-height="325" data-file-width="1241" height="107" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Electrophilic_addition_of_Br2.png/410px-Electrophilic_addition_of_Br2.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Electrophilic_addition_of_Br2.png/615px-Electrophilic_addition_of_Br2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Electrophilic_addition_of_Br2.png/820px-Electrophilic_addition_of_Br2.png 2x" width="410"/></a></dd></dl>
+<ol><li><b>Forming of a π-complex</b>
+<dl><dd>The electrophilic Br-Br molecule interacts with electron-rich alkene molecule to form a <a class="mw-redirect" href="/wiki/Pi-complex" title="Pi-complex">π-complex</a> <b>1</b>.</dd></dl></li>
+<li><b>Forming of a three-membered bromonium ion</b>
+<dl><dd>The alkene is working as an electron donor and bromine as an electrophile. The three-membered <a class="mw-redirect" href="/wiki/Bromonium_ion" title="Bromonium ion">bromonium ion</a> <b>2</b> consisted of two carbon atoms and a bromine atom forms with a release of Br<sup>−</sup>.</dd></dl></li>
+<li><b>Attacking of bromide ion</b>
+<dl><dd>The bromonium ion is opened by the attack of Br<sup>−</sup> from the back side. This yields the <a href="/wiki/Vicinal_(chemistry)" title="Vicinal (chemistry)">vicinal</a> dibromide with an <a class="mw-redirect" href="/wiki/Antiperiplanar" title="Antiperiplanar">antiperiplanar</a> configuration. When other nucleophiles such as water or alcohol are existing, these may attack <b>2</b> to give an alcohol or an ether.</dd></dl></li></ol>
+<p>This process is called <b>Ad<sub>E</sub>2 mechanism</b>. <a href="/wiki/Iodine" title="Iodine">Iodine</a> (I<sub>2</sub>), <a href="/wiki/Chlorine" title="Chlorine">chlorine</a> (Cl<sub>2</sub>), <a class="mw-redirect" href="/wiki/Sulfenyl" title="Sulfenyl">sulfenyl</a> ion (RS<sup>+</sup>), <a href="/wiki/Mercury_(element)" title="Mercury (element)">mercury</a> cation (Hg<sup>2+</sup>), and <a href="/wiki/Dichlorocarbene" title="Dichlorocarbene">dichlorocarbene</a> (:CCl<sub>2</sub>) also react through similar pathways. The direct conversion of <b>1</b> to <b>3</b> will appear when the Br<sup>−</sup> is large excess in the reaction medium. A β-bromo <a href="/wiki/Carbenium_ion" title="Carbenium ion">carbenium ion</a> intermediate may be predominant instead of <b>3</b> if the alkene has a cation-stabilizing substituent like phenyl group. There is an example of the isolation of the bromonium ion <b>2</b>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Addition_of_hydrogen_halides">Addition of hydrogen halides</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electrophile&amp;action=edit&amp;section=3" title="Edit section: Addition of hydrogen halides">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Hydrogen halides such as hydrogen chloride (HCl) adds to alkenes to give alkyl halides in <a href="/wiki/Hydrohalogenation" title="Hydrohalogenation">hydrohalogenation</a>. For example, the reaction of HCl with ethylene furnishes chloroethane. The reaction proceeds with a cation intermediate, being different from the above halogen addition. An example is shown below:
+</p>
+<dl><dd><a class="image" href="/wiki/File:Electrophilic_addition_of_HCl.png"><img alt="Electrophilic addition of HCl.png" data-file-height="265" data-file-width="1186" height="87" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Electrophilic_addition_of_HCl.png/390px-Electrophilic_addition_of_HCl.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Electrophilic_addition_of_HCl.png/585px-Electrophilic_addition_of_HCl.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Electrophilic_addition_of_HCl.png/780px-Electrophilic_addition_of_HCl.png 2x" width="390"/></a></dd></dl>
+<ol><li>Proton (H<sup>+</sup>) adds (by working as an electrophile) to one of the carbon atoms on the alkene to form cation <b>1</b>.</li>
+<li>Chloride ion (Cl<sup>−</sup>) combines with the cation <b>1</b> to form the adducts <b>2</b> and <b>3</b>.</li></ol>
+<p>In this manner, the <a href="/wiki/Stereoselectivity" title="Stereoselectivity">stereoselectivity</a> of the product, that is, from which side Cl<sup>−</sup> will attack relies on the types of alkenes applied and conditions of the reaction. At least, which of the two carbon atoms will be attacked by H<sup>+</sup> is usually decided by <a href="/wiki/Markovnikov%27s_rule" title="Markovnikov's rule">Markovnikov's rule</a>. Thus, H<sup>+</sup> attacks the carbon atom that carries fewer substituents so as the more stabilized carbocation (with the more stabilizing substituents) will form.
+</p><p>This process is called <b>A-S<sub>E</sub>2 mechanism</b>. <a href="/wiki/Hydrogen_fluoride" title="Hydrogen fluoride">Hydrogen fluoride</a> (HF) and hydrogen iodide (HI) react with alkenes in a similar manner, and Markovnikov-type products will be given. Hydrogen bromide (HBr) also takes this pathway, but sometimes a radical process competes and a mixture of isomers may form.
+</p>
+<h3><span class="mw-headline" id="Hydration">Hydration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electrophile&amp;action=edit&amp;section=4" title="Edit section: Hydration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>One of the more complex <a href="/wiki/Hydration_reaction" title="Hydration reaction">hydration reactions</a> utilises <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">sulfuric acid</a> as a <a class="mw-redirect" href="/wiki/Catalyst" title="Catalyst">catalyst</a>. This reaction occurs in a similar way to the addition reaction but has an extra step in which the OSO<sub>3</sub>H group is replaced by an OH group, forming an alcohol:
+</p>
+<dl><dd>C<sub>2</sub>H<sub>4</sub> + H<sub>2</sub>O → C<sub>2</sub>H<sub>5</sub>OH</dd></dl>
+<p>As can be seen, the H<sub>2</sub>SO<sub>4</sub> does take part in the overall reaction, however it remains unchanged so is classified as a catalyst.
+</p><p>This is the reaction in more detail:
+</p>
+<dl><dd><a class="image" href="/wiki/File:Electrophilic_reaction_of_sulfuric_acid_with_ethene.png"><img alt="Electrophilic reaction of sulfuric acid with ethene.png" data-file-height="435" data-file-width="1761" height="143" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Electrophilic_reaction_of_sulfuric_acid_with_ethene.png/580px-Electrophilic_reaction_of_sulfuric_acid_with_ethene.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Electrophilic_reaction_of_sulfuric_acid_with_ethene.png/870px-Electrophilic_reaction_of_sulfuric_acid_with_ethene.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Electrophilic_reaction_of_sulfuric_acid_with_ethene.png/1160px-Electrophilic_reaction_of_sulfuric_acid_with_ethene.png 2x" width="580"/></a></dd></dl>
+<ol><li>The H–OSO<sub>3</sub>H molecule has a δ+ charge on the initial H atom. This is attracted to and reacts with the double bond in the same way as before.</li>
+<li>The remaining (negatively charged) <sup>−</sup>OSO<sub>3</sub>H ion then attaches to the <a href="/wiki/Carbocation" title="Carbocation">carbocation</a>, forming ethyl hydrogensulphate (upper way on the above scheme).</li>
+<li>When water (H<sub>2</sub>O) is added and the mixture heated, ethanol (C<sub>2</sub>H<sub>5</sub>OH) is produced. The "spare" hydrogen atom from the water goes into "replacing" the "lost" hydrogen and, thus, reproduces sulfuric acid. Another pathway in which water molecule combines directly to the intermediate carbocation (lower way) is also possible. This pathway become predominant when aqueous sulfuric acid is used.</li></ol>
+<p>Overall, this process adds a molecule of water to a molecule of ethene.
+</p><p>This is an important reaction in industry, as it produces <a href="/wiki/Ethanol" title="Ethanol">ethanol</a>, whose purposes include fuels and starting material for other chemicals.
+</p>
+<h3><span class="mw-headline" id="Chiral_derivatives">Chiral derivatives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electrophile&amp;action=edit&amp;section=5" title="Edit section: Chiral derivatives">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Many electrophiles are <a href="/wiki/Chirality_(chemistry)" title="Chirality (chemistry)">chiral and optically stable</a>.  Typically chiral electrophiles are also optically pure.
+</p><p>One such <a href="/wiki/Reagent" title="Reagent">reagent</a> is the <a href="/wiki/Fructose" title="Fructose">fructose</a>-derived organocatalyst used in the <a href="/wiki/Shi_epoxidation" title="Shi epoxidation">Shi epoxidation</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> The catalyst can accomplish highly enantioselective epoxidations of <a href="/wiki/Cis%E2%80%93trans_isomerism" title="Cis–trans isomerism"><i>trans</i></a>-disubstituted and trisubstituted <a href="/wiki/Alkene" title="Alkene">alkenes</a>. The Shi catalyst, a <a href="/wiki/Ketone" title="Ketone">ketone</a>, is oxidized by stoichiometric <a class="mw-redirect" href="/wiki/Oxone" title="Oxone">oxone</a> to the active <a href="/wiki/Dioxirane" title="Dioxirane">dioxirane</a> form before proceeding in the catalytic cycle.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:344px;"><a class="image" href="/wiki/File:18_fig._1.png"><img alt="" class="thumbimage" data-file-height="161" data-file-width="413" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/18_fig._1.png/342px-18_fig._1.png" srcset="//upload.wikimedia.org/wikipedia/commons/2/27/18_fig._1.png 1.5x" width="342"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:18_fig._1.png" title="Enlarge"></a></div>Use of a chiral oxaziridine for asymmetric synthesis.</div></div></div>
+<p><a href="/wiki/Oxaziridine" title="Oxaziridine">Oxaziridines</a> such as chiral <a class="mw-redirect" href="/wiki/Davis_oxaziridine" title="Davis oxaziridine">N-sulfonyloxaziridines</a> effect enantioselective ketone alpha oxidation en route to the AB-ring segments of various <a href="/wiki/Natural_product" title="Natural product">natural products</a>, including γ-rhodomycionone and α-citromycinone.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>Polymer-bound chiral <a href="/wiki/Selenium" title="Selenium">selenium</a> electrophiles effect asymmetric selenenylation reactions.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> The reagents are aryl selenenyl bromides, and they were first developed for solution phase chemistry and then modified for solid phase bead attachment via an aryloxy moiety. The solid-phase reagents were applied toward the selenenylation of various alkenes with good enantioselectivities. The products can be cleaved from the solid support using <a class="mw-redirect" href="/wiki/Organotin" title="Organotin">organotin</a> hydride reducing agents. Solid-supported reagents offers advantages over solution phase chemistry due to the ease of workup and purification.
+</p>
+<h2><span class="mw-headline" id="Electrophilicity_scale">Electrophilicity scale</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electrophile&amp;action=edit&amp;section=6" title="Edit section: Electrophilicity scale">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table align="right" class="wikitable">
+<caption>Electrophilicity index
+</caption>
+<tbody><tr>
+<td><a href="/wiki/Fluorine" title="Fluorine">Fluorine</a></td>
+<td>3.86
+</td></tr>
+<tr>
+<td><a href="/wiki/Chlorine" title="Chlorine">Chlorine</a></td>
+<td>3.67
+</td></tr>
+<tr>
+<td><a href="/wiki/Bromine" title="Bromine">Bromine</a></td>
+<td>3.40
+</td></tr>
+<tr>
+<td><a href="/wiki/Iodine" title="Iodine">Iodine</a></td>
+<td>3.09
+</td></tr>
+<tr>
+<td><a href="/wiki/Hypochlorite" title="Hypochlorite">Hypochlorite</a></td>
+<td>2.52
+</td></tr>
+<tr>
+<td><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">Sulfur dioxide</a></td>
+<td>2.01
+</td></tr>
+<tr>
+<td><a href="/wiki/Carbon_disulfide" title="Carbon disulfide">Carbon disulfide</a></td>
+<td>1.64
+</td></tr>
+<tr>
+<td><a href="/wiki/Benzene" title="Benzene">Benzene</a></td>
+<td>1.45
+</td></tr>
+<tr>
+<td><a href="/wiki/Sodium" title="Sodium">Sodium</a></td>
+<td>0.88
+</td></tr>
+<tr>
+<td colspan="2">Some selected values <sup class="reference" id="cite_ref-Parr_6-0"><a href="#cite_note-Parr-6">[6]</a></sup> (no dimensions)
+</td></tr></tbody></table>
+<p>Several methods exist to rank electrophiles in order of reactivity<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> and one of them is devised by <a href="/wiki/Robert_Parr" title="Robert Parr">Robert Parr</a><sup class="reference" id="cite_ref-Parr_6-1"><a href="#cite_note-Parr-6">[6]</a></sup> with the <b>electrophilicity index</b> <a href="/wiki/Omega" title="Omega">ω</a> given as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \omega ={\frac {\chi ^{2}}{2\eta }}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ω<!-- ω --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>χ<!-- χ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<mn>2</mn>
+<mi>η<!-- η --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \omega ={\frac {\chi ^{2}}{2\eta }}\,}</annotation>
+</semantics>
+</math></span><img alt="\omega ={\frac  {\chi ^{2}}{2\eta }}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f176182896a7fbec6636fa15c2272db52e2444c6" style="vertical-align: -2.338ex; width:8.277ex; height:6.176ex;"/></span></dd></dl>
+<p>with <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \chi \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>χ<!-- χ --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \chi \,}</annotation>
+</semantics>
+</math></span><img alt="\chi \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/20ccded05dc5366a538db649e7cb6648c02896f9" style="vertical-align: -0.671ex; width:1.842ex; height:2.009ex;"/></span> the <a href="/wiki/Electronegativity" title="Electronegativity">electronegativity</a> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \eta \,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>η<!-- η --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \eta \,}</annotation>
+</semantics>
+</math></span><img alt="\eta \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/41724238aa62aeef8fd437347731c787721cfd04" style="vertical-align: -0.838ex; width:1.557ex; height:2.176ex;"/></span> <a class="mw-redirect" href="/wiki/Chemical_hardness" title="Chemical hardness">chemical hardness</a>. This equation is related to the classical equation for <a href="/wiki/Electric_power" title="Electric power">electrical power</a>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P={\frac {V^{2}}{R}}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>R</mi>
+</mfrac>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P={\frac {V^{2}}{R}}\,}</annotation>
+</semantics>
+</math></span><img alt="P={\frac  {V^{2}}{R}}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eab4de97b68a30fd5abc84fdf7020f4c2bed736c" style="vertical-align: -2.005ex; width:9.038ex; height:5.843ex;"/></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle R\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>R</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle R\,}</annotation>
+</semantics>
+</math></span><img alt="R\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/293563891196765d2d51e0dd54e1ae1000ba9def" style="vertical-align: -0.338ex; width:2.151ex; height:2.176ex;"/></span> is the <a class="mw-redirect" href="/wiki/Electrical_resistance" title="Electrical resistance">resistance</a> (<a href="/wiki/Ohm" title="Ohm">Ohm</a> or Ω) and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V\,}</annotation>
+</semantics>
+</math></span><img alt="V\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f7ee72790178407e3a145dec860bb78a56672b10" style="vertical-align: -0.338ex; width:2.174ex; height:2.176ex;"/></span> is <a href="/wiki/Voltage" title="Voltage">voltage</a>. In this sense the electrophilicity index is a kind of electrophilic power. Correlations have been found between electrophilicity of various chemical compounds and reaction rates in biochemical systems and such phenomena as allergic contact dermititis.
+</p><p>An electrophilicity index also exists for <a class="mw-redirect" href="/wiki/Free_radical" title="Free radical">free radicals</a>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Strongly electrophilic radicals such as the halogens react with electron-rich reaction sites, and strongly nucleophilic radicals such as the 2-hydroxypropyl-2-yl and <a class="mw-redirect" href="/wiki/Tert-butyl" title="Tert-butyl">tert-butyl</a> radical react with a preference for electron-poor reaction sites.
+</p>
+<h2><span class="mw-headline" id="Superelectrophiles">Superelectrophiles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electrophile&amp;action=edit&amp;section=7" title="Edit section: Superelectrophiles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Superelectrophiles</b> are defined as cationic electrophilic reagents with greatly enhanced reactivities in the presence of <a href="/wiki/Superacid" title="Superacid">superacids</a>. These compounds were first described by <a class="mw-redirect" href="/wiki/George_A._Olah" title="George A. Olah">George A. Olah</a>.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> Superelectrophiles form as a doubly electron deficient superelectrophile by protosolvation of a cationic electrophile. As observed by Olah, a mixture of <a href="/wiki/Acetic_acid" title="Acetic acid">acetic acid</a> and <a href="/wiki/Boron_trifluoride" title="Boron trifluoride">boron trifluoride</a> is able to remove a hydride ion from <a href="/wiki/Isobutane" title="Isobutane">isobutane</a> when combined with <a href="/wiki/Hydrofluoric_acid" title="Hydrofluoric acid">hydrofluoric acid</a> via the formation of a <a href="/wiki/Superacid" title="Superacid">superacid</a> from BF<sub>3</sub> and HF. The responsible <a href="/wiki/Reactive_intermediate" title="Reactive intermediate">reactive intermediate</a> is the CH<sub>3</sub>CO<sub>2</sub>H<sub>3</sub> dication. Likewise, <a href="/wiki/Methane" title="Methane">methane</a> can be nitrated to <a href="/wiki/Nitromethane" title="Nitromethane">nitromethane</a> with <a href="/wiki/Nitronium_tetrafluoroborate" title="Nitronium tetrafluoroborate">nitronium tetrafluoroborate</a> NO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>BF<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span> only in presence of a strong acid like <a href="/wiki/Fluorosulfuric_acid" title="Fluorosulfuric acid">fluorosulfuric acid</a>.
+</p><p>In <b>gitionic</b> (<b>gitonic</b>) superelectrophiles, charged centers are separated by no more than one atom, for example, the protonitronium ion O=N<sup>+</sup>=O<sup>+</sup>—H (a protonated <a href="/wiki/Nitronium_ion" title="Nitronium ion">nitronium ion</a>).  And, in <b>distonic</b> superelectrophiles, they are separated by 2 or more atoms, for example, in the fluorination reagent <a href="/wiki/Selectfluor" title="Selectfluor">F-TEDA-BF<sub>4</sub></a>.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Tetraalkylstannanes">Tetraalkylstannanes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electrophile&amp;action=edit&amp;section=8" title="Edit section: Tetraalkylstannanes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A method was uncovered by Dale E. O'Dell and associates for effecting intramolecular conjugate addition to α-enones of unactiviated carbon nucleophiles which proceeds through the mediation of novel alkyltin(IV) chemistry.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2017)">citation needed</span></a></i>]</sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electrophile&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Nucleophile" title="Nucleophile">Nucleophile</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Electrophile&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lenoir, D.; Chiappe, C. (2003). "What is the Nature of the First-Formed Intermediates in the Electrophilic Halogenation of Alkenes, Alkynes, and Allenes?". <i><a href="/wiki/Chemistry:_A_European_Journal" title="Chemistry: A European Journal">Chem. Eur. J.</a></i> <b>9</b> (5): 1036–1044. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fchem.200390097" rel="nofollow">10.1002/chem.200390097</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chem.+Eur.+J.&amp;rft.atitle=What+is+the+Nature+of+the+First-Formed+Intermediates+in+the+Electrophilic+Halogenation+of+Alkenes%2C+Alkynes%2C+and+Allenes%3F&amp;rft.volume=9&amp;rft.issue=5&amp;rft.pages=1036-1044&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1002%2Fchem.200390097&amp;rft.aulast=Lenoir&amp;rft.aufirst=D.&amp;rft.au=Chiappe%2C+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrophile"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Brown, R. S. (1997). "Investigation of the Early Steps in Electrophilic Bromination through the Study of the Reaction with Sterically Encumbered Olefins". <i><a href="/wiki/Accounts_of_Chemical_Research" title="Accounts of Chemical Research">Acc. Chem. Res.</a></i> <b>30</b> (3): 131–137. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Far960088e" rel="nofollow">10.1021/ar960088e</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Acc.+Chem.+Res.&amp;rft.atitle=Investigation+of+the+Early+Steps+in+Electrophilic+Bromination+through+the+Study+of+the+Reaction+with+Sterically+Encumbered+Olefins&amp;rft.volume=30&amp;rft.issue=3&amp;rft.pages=131-137&amp;rft.date=1997&amp;rft_id=info%3Adoi%2F10.1021%2Far960088e&amp;rft.aulast=Brown&amp;rft.aufirst=R.+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrophile"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wang, Z.; Tu, Y.; Frohn, M.; Zhang, J.; Shi, Y. (1997). "An Efficient Catalytic Asymmetric Epoxidation Method". <i><a href="/wiki/Journal_of_the_American_Chemical_Society" title="Journal of the American Chemical Society">J. Am. Chem. Soc.</a></i> <b>119</b> (46): 11224–11235. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fja972272g" rel="nofollow">10.1021/ja972272g</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.atitle=An+Efficient+Catalytic+Asymmetric+Epoxidation+Method&amp;rft.volume=119&amp;rft.issue=46&amp;rft.pages=11224-11235&amp;rft.date=1997&amp;rft_id=info%3Adoi%2F10.1021%2Fja972272g&amp;rft.aulast=Wang&amp;rft.aufirst=Z.&amp;rft.au=Tu%2C+Y.&amp;rft.au=Frohn%2C+M.&amp;rft.au=Zhang%2C+J.&amp;rft.au=Shi%2C+Y.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrophile"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Davis, F. A.; Kumar, A.; Chen, B. C. (1991). "Chemistry of oxaziridines. 16. A short, highly enantioselective synthesis of the AB-ring segments of γ-rhodomycionone and α-citromycinone using (+)-[(8,8-dimethoxycamphoryl)sulfonyl]oxaziridine". <i><a href="/wiki/Journal_of_Organic_Chemistry" title="Journal of Organic Chemistry">J. Org. Chem.</a></i> <b>56</b> (3): 1143–1145. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fjo00003a042" rel="nofollow">10.1021/jo00003a042</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Org.+Chem.&amp;rft.atitle=Chemistry+of+oxaziridines.+16.+A+short%2C+highly+enantioselective+synthesis+of+the+AB-ring+segments+of+%CE%B3-rhodomycionone+and+%CE%B1-citromycinone+using+%28%2B%29-%5B%288%2C8-dimethoxycamphoryl%29sulfonyl%5Doxaziridine&amp;rft.volume=56&amp;rft.issue=3&amp;rft.pages=1143-1145&amp;rft.date=1991&amp;rft_id=info%3Adoi%2F10.1021%2Fjo00003a042&amp;rft.aulast=Davis&amp;rft.aufirst=F.+A.&amp;rft.au=Kumar%2C+A.&amp;rft.au=Chen%2C+B.+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrophile"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Uehlin, L.; Wirth, T. (2001). "Novel Polymer-Bound Chiral Selenium Electrophiles". <i>Org. Lett</i>. <b>3</b> (18): 2931–2933. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fol0164435" rel="nofollow">10.1021/ol0164435</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Org.+Lett.&amp;rft.atitle=Novel+Polymer-Bound+Chiral+Selenium+Electrophiles&amp;rft.volume=3&amp;rft.issue=18&amp;rft.pages=2931-2933&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1021%2Fol0164435&amp;rft.aulast=Uehlin&amp;rft.aufirst=L.&amp;rft.au=Wirth%2C+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrophile"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Parr-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Parr_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Parr_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Parr, R. G.; Szentpaly, L. v.; Liu, S. (1999). "Electrophilicity Index". <i><a class="mw-redirect" href="/wiki/J._Am._Chem._Soc." title="J. Am. Chem. Soc.">J. Am. Chem. Soc.</a></i> <b>121</b> (9): 1922–1924. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fja983494x" rel="nofollow">10.1021/ja983494x</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.atitle=Electrophilicity+Index&amp;rft.volume=121&amp;rft.issue=9&amp;rft.pages=1922-1924&amp;rft.date=1999&amp;rft_id=info%3Adoi%2F10.1021%2Fja983494x&amp;rft.aulast=Parr&amp;rft.aufirst=R.+G.&amp;rft.au=Szentpaly%2C+L.+v.&amp;rft.au=Liu%2C+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrophile"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Chattaraj, P. K.; Sarkar, U.; Roy, D. R. (2006). "Electrophilicity Index". <i><a class="mw-redirect" href="/wiki/Chem._Rev." title="Chem. Rev.">Chem. Rev.</a></i> <b>106</b> (6): 2065–2091. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fcr040109f" rel="nofollow">10.1021/cr040109f</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chem.+Rev.&amp;rft.atitle=Electrophilicity+Index&amp;rft.volume=106&amp;rft.issue=6&amp;rft.pages=2065-2091&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1021%2Fcr040109f&amp;rft.aulast=Chattaraj&amp;rft.aufirst=P.+K.&amp;rft.au=Sarkar%2C+U.&amp;rft.au=Roy%2C+D.+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrophile"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">De Vleeschouwer, Freija; Speybroeck, Veronique Van; Waroquier, Michel; Geerlings, Paul; De Proft, Frank (2007). "Electrophilicity and Nucleophilicity Index for Radicals". <i>Org. Lett</i>. <b>9</b> (14): 2721–2724. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fol071038k" rel="nofollow">10.1021/ol071038k</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Org.+Lett.&amp;rft.atitle=Electrophilicity+and+Nucleophilicity+Index+for+Radicals&amp;rft.volume=9&amp;rft.issue=14&amp;rft.pages=2721-2724&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1021%2Fol071038k&amp;rft.aulast=De+Vleeschouwer&amp;rft.aufirst=Freija&amp;rft.au=Speybroeck%2C+Veronique+Van&amp;rft.au=Waroquier%2C+Michel&amp;rft.au=Geerlings%2C+Paul&amp;rft.au=De+Proft%2C+Frank&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrophile"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Olah, George A.; Germain, Alain; Lin, Henry C.; Forsyth, David A. (1975). "Electrophilic reactions at single bonds. XVIII. Indication of protosolvated de facto substituting agents in the reactions of alkanes with acetylium and nitronium ions in superacidic media". <i><a href="/wiki/Journal_of_the_American_Chemical_Society" title="Journal of the American Chemical Society">J. Am. Chem. Soc.</a></i> <b>97</b> (10): 2928–2929. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fja00843a067" rel="nofollow">10.1021/ja00843a067</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.atitle=Electrophilic+reactions+at+single+bonds.+XVIII.+Indication+of+protosolvated+de+facto+substituting+agents+in+the+reactions+of+alkanes+with+acetylium+and+nitronium+ions+in+superacidic+media&amp;rft.volume=97&amp;rft.issue=10&amp;rft.pages=2928-2929&amp;rft.date=1975&amp;rft_id=info%3Adoi%2F10.1021%2Fja00843a067&amp;rft.aulast=Olah&amp;rft.aufirst=George+A.&amp;rft.au=Germain%2C+Alain&amp;rft.au=Lin%2C+Henry+C.&amp;rft.au=Forsyth%2C+David+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrophile"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Solingapuram Sai, Kiran Kumar; Gilbert, Thomas M.; Klumpp, Douglas A. (2007). "Knorr Cyclizations and Distonic Superelectrophiles". <i><a href="/wiki/Journal_of_Organic_Chemistry" title="Journal of Organic Chemistry">J. Org. Chem.</a></i> <b>72</b> (25): 9761–9764. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fjo7013092" rel="nofollow">10.1021/jo7013092</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Org.+Chem.&amp;rft.atitle=Knorr+Cyclizations+and+Distonic+Superelectrophiles&amp;rft.volume=72&amp;rft.issue=25&amp;rft.pages=9761-9764&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1021%2Fjo7013092&amp;rft.aulast=Solingapuram+Sai&amp;rft.aufirst=Kiran+Kumar&amp;rft.au=Gilbert%2C+Thomas+M.&amp;rft.au=Klumpp%2C+Douglas+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AElectrophile"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Parsed by mw2273
+Cached time: 20180929134141
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.244 seconds
+Real time usage: 0.434 seconds
+Preprocessor visited node count: 874/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 21360/2097152 bytes
+Template argument size: 570/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 27601/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.136/10.000 seconds
+Lua memory usage: 4.24 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  230.433      1 -total
+ 70.49%  162.426      1 Template:Reflist
+ 58.71%  135.285     10 Template:Cite_journal
+ 20.23%   46.609      1 Template:Citation_needed
+ 17.80%   41.008      1 Template:Fix
+ 12.12%   27.933      2 Template:Category_handler
+  8.83%   20.358      2 Template:Su
+  4.35%   10.027      1 Template:Delink
+  1.65%    3.794      1 Template:Column-width
+  1.56%    3.605      1 Template:Main_other
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:467832-0!canonical!math=5 and timestamp 20180929134140 and revision id 844196373
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Electrophile&amp;oldid=844196373">https://en.wikipedia.org/w/index.php?title=Electrophile&amp;oldid=844196373</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Physical_organic_chemistry" title="Category:Physical organic chemistry">Physical organic chemistry</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2017" title="Category:Articles with unsourced statements from June 2017">Articles with unsourced statements from June 2017</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Electrophile" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Electrophile" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Electrophile" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Electrophile" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Electrophile">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Electrophile&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Electrophile&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Electrophile" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Electrophile" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Electrophile&amp;oldid=844196373" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Electrophile&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q908086" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Electrophile&amp;id=844196373" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Electrophile">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Electrophile&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Electrophile&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D8%A8_%D9%84%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86" hreflang="ar" lang="ar" title="محب للإلكترون – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Elektrofil" hreflang="bs" lang="bs" title="Elektrofil – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Electr%C3%B2fil" hreflang="ca" lang="ca" title="Electròfil – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Elektrofil" hreflang="cs" lang="cs" title="Elektrofil – Czech">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Electroffil" hreflang="cy" lang="cy" title="Electroffil – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Elektrophilie" hreflang="de" lang="de" title="Elektrophilie – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Elektrofiil" hreflang="et" lang="et" title="Elektrofiil – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Electr%C3%B3filo" hreflang="es" lang="es" title="Electrófilo – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88%D9%86%E2%80%8C%D8%AF%D9%88%D8%B3%D8%AA" hreflang="fa" lang="fa" title="الکترون‌دوست – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89lectrophile" hreflang="fr" lang="fr" title="Électrophile – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Leictrif%C3%ADl" hreflang="ga" lang="ga" title="Leictrifíl – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Electr%C3%B3filo" hreflang="gl" lang="gl" title="Electrófilo – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%B9%9C%EC%A0%84%EC%9E%90%EC%B2%B4" hreflang="ko" lang="ko" title="친전자체 – Korean">한국어</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Elektrofil" hreflang="id" lang="id" title="Elektrofil – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Elettrofilo" hreflang="it" lang="it" title="Elettrofilo – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%A7%D7%98%D7%A8%D7%95%D7%A4%D7%99%D7%9C" hreflang="he" lang="he" title="אלקטרופיל – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Elektrofil" hreflang="hu" lang="hu" title="Elektrofil – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%87%E0%B4%B2%E0%B4%95%E0%B5%8D%E0%B4%9F%E0%B5%8D%E0%B4%B0%E0%B5%8B%E0%B4%AB%E0%B5%88%E0%B5%BD" hreflang="ml" lang="ml" title="ഇലക്ട്രോഫൈൽ – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Elektrofiel" hreflang="nl" lang="nl" title="Elektrofiel – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%B1%82%E9%9B%BB%E5%AD%90%E5%89%A4" hreflang="ja" lang="ja" title="求電子剤 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Elektrofil" hreflang="pl" lang="pl" title="Elektrofil – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Eletr%C3%B3filo" hreflang="pt" lang="pt" title="Eletrófilo – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Electrofil" hreflang="ro" lang="ro" title="Electrofil – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%84%D0%B8%D0%BB" hreflang="ru" lang="ru" title="Электрофил – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Electrophile" hreflang="simple" lang="simple" title="Electrophile – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Elektrofil" hreflang="sk" lang="sk" title="Elektrofil – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Elektrofil" hreflang="sl" lang="sl" title="Elektrofil – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Elektrofil" hreflang="sr" lang="sr" title="Elektrofil – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Elektrofil" hreflang="sh" lang="sh" title="Elektrofil – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Elektrofiili" hreflang="fi" lang="fi" title="Elektrofiili – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Elektrofil" hreflang="sv" lang="sv" title="Elektrofil – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Elektrofil" hreflang="tr" lang="tr" title="Elektrofil – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%84%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D1%80%D0%B5%D0%B0%D0%B3%D0%B5%D0%BD%D1%82" hreflang="uk" lang="uk" title="Електрофільний реагент – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E4%BA%B2%E7%94%B5%E4%BD%93" hreflang="zh" lang="zh" title="亲电体 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q908086#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 3 June 2018, at 08:41<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Electrophile&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.244","walltime":"0.434","ppvisitednodes":{"value":874,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":21360,"limit":2097152},"templateargumentsize":{"value":570,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":27601,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  230.433      1 -total"," 70.49%  162.426      1 Template:Reflist"," 58.71%  135.285     10 Template:Cite_journal"," 20.23%   46.609      1 Template:Citation_needed"," 17.80%   41.008      1 Template:Fix"," 12.12%   27.933      2 Template:Category_handler","  8.83%   20.358      2 Template:Su","  4.35%   10.027      1 Template:Delink","  1.65%    3.794      1 Template:Column-width","  1.56%    3.605      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.136","limit":"10.000"},"limitreport-memusage":{"value":4441833,"limit":52428800}},"cachereport":{"origin":"mw2273","timestamp":"20180929134141","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw2242"});});</script>
+</body>
+</html>

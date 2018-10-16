@@ -1,0 +1,2316 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Mole fraction - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mole_fraction","wgTitle":"Mole fraction","wgCurRevisionId":852670292,"wgRevisionId":852670292,"wgArticleId":20306,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Chemical properties","Dimensionless numbers of chemistry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mole_fraction","wgRelevantArticleId":20306,"wgRequestId":"W7QWswrAADsAAIlD9pIAAAAH","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q125264","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.23" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mole_fraction" rel="alternate"/>
+<link href="/w/index.php?title=Mole_fraction&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Mole_fraction&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Mole_fraction" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mole_fraction rootpage-Mole_fraction skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Mole fraction</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>In <a href="/wiki/Chemistry" title="Chemistry">chemistry</a>, the <b>mole fraction</b> or <b>molar fraction</b> (<i><b>x<sub>i</sub></b></i>) is defined as the <a href="/wiki/Amount_of_substance" title="Amount of substance">amount</a> of a constituent (expressed in <a href="/wiki/Mole_(unit)" title="Mole (unit)">moles</a>), <i>n<sub>i</sub></i>, divided by the total amount of all constituents in a mixture (also expressed in moles), <i>n</i><sub>tot</sub>:<sup class="reference" id="cite_ref-goldbook_1-0"><a href="#cite_note-goldbook-1">[1]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x_{i}={\frac {n_{i}}{n_{\mathrm {tot} }}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">t</mi>
+<mi mathvariant="normal">o</mi>
+<mi mathvariant="normal">t</mi>
+</mrow>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x_{i}={\frac {n_{i}}{n_{\mathrm {tot} }}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x_{i}={\frac {n_{i}}{n_{\mathrm {tot} }}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8b3236da8eb29e98deaf523522b979eaa7dae61c" style="vertical-align: -2.171ex; width:9.792ex; height:5.009ex;"/></span></dd></dl>
+<p>The sum of all the mole fractions is equal to 1:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \sum _{i=1}^{N}n_{i}=n_{\mathrm {tot} };\;\sum _{i=1}^{N}x_{i}=1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">t</mi>
+<mi mathvariant="normal">o</mi>
+<mi mathvariant="normal">t</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>;</mo>
+<mspace width="thickmathspace"></mspace>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \sum _{i=1}^{N}n_{i}=n_{\mathrm {tot} };\;\sum _{i=1}^{N}x_{i}=1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \sum _{i=1}^{N}n_{i}=n_{\mathrm {tot} };\;\sum _{i=1}^{N}x_{i}=1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e2d51df425f432832a2356ef4af31174013b7808" style="vertical-align: -3.005ex; width:24.575ex; height:7.343ex;"/></span></dd></dl>
+<p>The same concept expressed with a <a class="mw-redirect" href="/wiki/Denominator" title="Denominator">denominator</a> of 100 is the <b>mole percent</b> or <b>molar percentage</b> or <b>molar proportion</b> (<b>mol%</b>).
+</p><p>The mole fraction is also called the <b>amount fraction</b>.<sup class="reference" id="cite_ref-goldbook_1-1"><a href="#cite_note-goldbook-1">[1]</a></sup> It is identical to the <b>number fraction</b>, which is defined as the number of <a href="/wiki/Molecule" title="Molecule">molecules</a> of a constituent <i>N<sub>i</sub></i> divided by the total number of all molecules <i>N</i><sub>tot</sub>. The mole fraction is sometimes denoted by the lowercase <a href="/wiki/Greek_alphabet" title="Greek alphabet">Greek</a> letter <i>χ</i> (<a href="/wiki/Chi_(letter)" title="Chi (letter)">chi</a>) instead of a <a href="/wiki/Latin_alphabet" title="Latin alphabet">Roman</a> <i>x</i>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> For mixtures of gases, <a class="mw-redirect" href="/wiki/IUPAC" title="IUPAC">IUPAC</a> recommends the letter <i>y</i>.<sup class="reference" id="cite_ref-goldbook_1-2"><a href="#cite_note-goldbook-1">[1]</a></sup>
+</p><p>The <a href="/wiki/National_Institute_of_Standards_and_Technology" title="National Institute of Standards and Technology">National Institute of Standards and Technology</a> of the United States prefers the term <b>amount-of-substance fraction</b> over mole fraction because it does not contain the name of the <a class="mw-redirect" href="/wiki/Unit_(measurement)" title="Unit (measurement)">unit</a> mole.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>Whereas mole fraction is a ratio of moles to moles, <a href="/wiki/Molar_concentration" title="Molar concentration">molar concentration</a> is a quotient of moles to volume.
+</p><p>The mole fraction is one way of expressing the composition of a mixture with a <a href="/wiki/Dimensionless_quantity" title="Dimensionless quantity">dimensionless quantity</a>; <a href="/wiki/Mass_fraction_(chemistry)" title="Mass fraction (chemistry)">mass fraction</a> (percentage by weight, wt%) and <a href="/wiki/Volume_fraction" title="Volume fraction">volume fraction</a> (<a class="mw-redirect" href="/wiki/Volume_percent" title="Volume percent">percentage by volume</a>, vol%) are others.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Properties"><span class="tocnumber">1</span> <span class="toctext">Properties</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Related_quantities"><span class="tocnumber">2</span> <span class="toctext">Related quantities</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Mass_fraction"><span class="tocnumber">2.1</span> <span class="toctext">Mass fraction</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Molar_mixing_ratio"><span class="tocnumber">2.2</span> <span class="toctext">Molar mixing ratio</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Mixing_binary_mixtures_with_a_common_component_to_form_ternary_mixtures"><span class="tocnumber">2.2.1</span> <span class="toctext">Mixing binary mixtures with a common component to form ternary mixtures</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#Mole_percentage"><span class="tocnumber">2.3</span> <span class="toctext">Mole percentage</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Mass_concentration"><span class="tocnumber">2.4</span> <span class="toctext">Mass concentration</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Molar_concentration"><span class="tocnumber">2.5</span> <span class="toctext">Molar concentration</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Mass_and_molar_mass"><span class="tocnumber">2.6</span> <span class="toctext">Mass and molar mass</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Spatial_variation_and_gradient"><span class="tocnumber">3</span> <span class="toctext">Spatial variation and gradient</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Properties">Properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mole_fraction&amp;action=edit&amp;section=1" title="Edit section: Properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mole fraction is used very frequently in the construction of <a href="/wiki/Phase_diagram" title="Phase diagram">phase diagrams</a>. It has a number of advantages:
+</p>
+<ul><li>it is not temperature dependent (such as <a href="/wiki/Molar_concentration" title="Molar concentration">molar concentration</a>) and does not require knowledge of the densities of the phase(s) involved</li>
+<li>a mixture of known mole fraction can be prepared by weighing off the appropriate masses of the constituents</li>
+<li>the measure is <i>symmetric</i>: in the mole fractions <i>x</i> = 0.1 and <i>x</i> = 0.9, the roles of 'solvent' and 'solute' are reversed.</li>
+<li>In a mixture of <a href="/wiki/Ideal_gas" title="Ideal gas">ideal gases</a>, the mole fraction can be expressed as the ratio of <a href="/wiki/Partial_pressure" title="Partial pressure">partial pressure</a> to total <a href="/wiki/Pressure" title="Pressure">pressure</a> of the mixture</li>
+<li>In a ternary mixture one can express mole fractions of a component as functions of other components mole fraction and binary mole ratios:</li></ul>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x_{1}={\frac {1-x_{2}}{1+{\frac {x_{3}}{x_{1}}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x_{1}={\frac {1-x_{2}}{1+{\frac {x_{3}}{x_{1}}}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x_{1}={\frac {1-x_{2}}{1+{\frac {x_{3}}{x_{1}}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a5d9667473bbc24d75a9831b1dff56aa60f7a665" style="vertical-align: -3.505ex; width:12.929ex; height:6.843ex;"/></span>
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x_{3}={\frac {1-x_{2}}{1+{\frac {x_{1}}{x_{3}}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x_{3}={\frac {1-x_{2}}{1+{\frac {x_{1}}{x_{3}}}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x_{3}={\frac {1-x_{2}}{1+{\frac {x_{1}}{x_{3}}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/12912ec8b14f67d0b2c235ac1d70d221d493600e" style="vertical-align: -3.505ex; width:12.929ex; height:6.843ex;"/></span>
+</p><p>Differential quotients can be formed at constant ratios like those above:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left({\frac {\partial x_{1}}{\partial x_{2}}}\right)_{\frac {x_{1}}{x_{3}}}=-{\frac {x_{1}}{1-x_{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {\partial x_{1}}{\partial x_{2}}}\right)_{\frac {x_{1}}{x_{3}}}=-{\frac {x_{1}}{1-x_{2}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \left({\frac {\partial x_{1}}{\partial x_{2}}}\right)_{\frac {x_{1}}{x_{3}}}=-{\frac {x_{1}}{1-x_{2}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1aa6cfe2498039615af7bc1d1f4c0868fd1e2523" style="vertical-align: -3.671ex; width:22.721ex; height:7.343ex;"/></span>
+</p><p>or 
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left({\frac {\partial x_{3}}{\partial x_{2}}}\right)_{\frac {x_{1}}{x_{3}}}=-{\frac {x_{3}}{1-x_{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {\partial x_{3}}{\partial x_{2}}}\right)_{\frac {x_{1}}{x_{3}}}=-{\frac {x_{3}}{1-x_{2}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \left({\frac {\partial x_{3}}{\partial x_{2}}}\right)_{\frac {x_{1}}{x_{3}}}=-{\frac {x_{3}}{1-x_{2}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2f80017f349a83ecff20ab6917f8cd87839264d6" style="vertical-align: -3.671ex; width:22.721ex; height:7.343ex;"/></span>
+</p><p>Ratios X, Y, Z of mole fractions can be written for ternary and multicomponent systems:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle X={\frac {x_{3}}{x_{1}+x_{3}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>X</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+<mrow>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle X={\frac {x_{3}}{x_{1}+x_{3}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle X={\frac {x_{3}}{x_{1}+x_{3}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/05da45a8ef57850d97307793368acaa57020d7b7" style="vertical-align: -2.171ex; width:13.523ex; height:5.009ex;"/></span>
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Y={\frac {x_{3}}{x_{2}+x_{3}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>Y</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+<mrow>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Y={\frac {x_{3}}{x_{2}+x_{3}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle Y={\frac {x_{3}}{x_{2}+x_{3}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8851328a4b3b3191389240d37ac7a0b90e297cef" style="vertical-align: -2.171ex; width:13.316ex; height:5.009ex;"/></span>
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle Z={\frac {x_{2}}{x_{1}+x_{2}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>Z</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mrow>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Z={\frac {x_{2}}{x_{1}+x_{2}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle Z={\frac {x_{2}}{x_{1}+x_{2}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/13ba1adb4399c1d97c726a1b2fd67d64cdc8efc5" style="vertical-align: -2.171ex; width:13.223ex; height:5.009ex;"/></span>
+</p><p>These can be used for solving pde like:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left({\frac {\partial \mu _{2}}{\partial n_{1}}}\right)_{n_{2},n_{3}}=\left({\frac {\partial \mu _{1}}{\partial n_{2}}}\right)_{n_{1},n_{3}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {\partial \mu _{2}}{\partial n_{1}}}\right)_{n_{2},n_{3}}=\left({\frac {\partial \mu _{1}}{\partial n_{2}}}\right)_{n_{1},n_{3}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \left({\frac {\partial \mu _{2}}{\partial n_{1}}}\right)_{n_{2},n_{3}}=\left({\frac {\partial \mu _{1}}{\partial n_{2}}}\right)_{n_{1},n_{3}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f265c67b2afae40abf726a25d07cfcd725c1747c" style="vertical-align: -2.838ex; width:27.811ex; height:6.509ex;"/></span>
+</p><p>or 
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left({\frac {\partial \mu _{2}}{\partial n_{1}}}\right)_{n_{2},n_{3},n_{4}...,n_{i}}=\left({\frac {\partial \mu _{1}}{\partial n_{2}}}\right)_{n_{1},n_{3},n_{4}...,n_{i}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msub>
+<mo>.</mo>
+<mo>.</mo>
+<mo>.</mo>
+<mo>,</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msub>
+<mo>.</mo>
+<mo>.</mo>
+<mo>.</mo>
+<mo>,</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {\partial \mu _{2}}{\partial n_{1}}}\right)_{n_{2},n_{3},n_{4}...,n_{i}}=\left({\frac {\partial \mu _{1}}{\partial n_{2}}}\right)_{n_{1},n_{3},n_{4}...,n_{i}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \left({\frac {\partial \mu _{2}}{\partial n_{1}}}\right)_{n_{2},n_{3},n_{4}...,n_{i}}=\left({\frac {\partial \mu _{1}}{\partial n_{2}}}\right)_{n_{1},n_{3},n_{4}...,n_{i}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dc9104db1fe44736a4d418bd8fd02f818e7c9e03" style="vertical-align: -2.838ex; width:39.243ex; height:6.509ex;"/></span>
+</p><p>This equality can be rearranged to have differential quotient of mole amounts or fractions on one side.
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left({\frac {\partial \mu _{2}}{\partial \mu _{1}}}\right)_{n_{2},n_{3}}=-\left({\frac {\partial n_{1}}{\partial n_{2}}}\right)_{\mu _{1},n_{3}}=-\left({\frac {\partial x_{1}}{\partial x_{2}}}\right)_{\mu _{1},n_{3}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {\partial \mu _{2}}{\partial \mu _{1}}}\right)_{n_{2},n_{3}}=-\left({\frac {\partial n_{1}}{\partial n_{2}}}\right)_{\mu _{1},n_{3}}=-\left({\frac {\partial x_{1}}{\partial x_{2}}}\right)_{\mu _{1},n_{3}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \left({\frac {\partial \mu _{2}}{\partial \mu _{1}}}\right)_{n_{2},n_{3}}=-\left({\frac {\partial n_{1}}{\partial n_{2}}}\right)_{\mu _{1},n_{3}}=-\left({\frac {\partial x_{1}}{\partial x_{2}}}\right)_{\mu _{1},n_{3}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0ad86f40d155b7b91782112c0b50ea8163e636e8" style="vertical-align: -3.005ex; width:46.814ex; height:6.676ex;"/></span>
+</p><p>or 
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left({\frac {\partial \mu _{2}}{\partial \mu _{1}}}\right)_{n_{2},n_{3},n_{4},...n_{i}}=-\left({\frac {\partial n_{1}}{\partial n_{2}}}\right)_{\mu _{1},n_{2},n_{4}...,n_{i}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mo>.</mo>
+<mo>.</mo>
+<mo>.</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msub>
+<mo>.</mo>
+<mo>.</mo>
+<mo>.</mo>
+<mo>,</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {\partial \mu _{2}}{\partial \mu _{1}}}\right)_{n_{2},n_{3},n_{4},...n_{i}}=-\left({\frac {\partial n_{1}}{\partial n_{2}}}\right)_{\mu _{1},n_{2},n_{4}...,n_{i}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \left({\frac {\partial \mu _{2}}{\partial \mu _{1}}}\right)_{n_{2},n_{3},n_{4},...n_{i}}=-\left({\frac {\partial n_{1}}{\partial n_{2}}}\right)_{\mu _{1},n_{2},n_{4}...,n_{i}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/79cfd24c9419478ba5507daf0a5bee4a443792f9" style="vertical-align: -3.005ex; width:41.049ex; height:6.676ex;"/></span>
+</p><p>Mole amounts can be eliminated by forming ratios:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left({\frac {\partial n_{1}}{\partial n_{2}}}\right)_{n_{3}}=\left({\frac {\partial {\frac {n_{1}}{n_{3}}}}{\partial {\frac {n_{2}}{n_{3}}}}}\right)_{n_{3}}=\left({\frac {\partial {\frac {x_{1}}{x_{3}}}}{\partial {\frac {x_{2}}{x_{3}}}}}\right)_{n_{3}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {\partial n_{1}}{\partial n_{2}}}\right)_{n_{3}}=\left({\frac {\partial {\frac {n_{1}}{n_{3}}}}{\partial {\frac {n_{2}}{n_{3}}}}}\right)_{n_{3}}=\left({\frac {\partial {\frac {x_{1}}{x_{3}}}}{\partial {\frac {x_{2}}{x_{3}}}}}\right)_{n_{3}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \left({\frac {\partial n_{1}}{\partial n_{2}}}\right)_{n_{3}}=\left({\frac {\partial {\frac {n_{1}}{n_{3}}}}{\partial {\frac {n_{2}}{n_{3}}}}}\right)_{n_{3}}=\left({\frac {\partial {\frac {x_{1}}{x_{3}}}}{\partial {\frac {x_{2}}{x_{3}}}}}\right)_{n_{3}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ebadd462397e07805e7e193b98f65a1619adb241" style="vertical-align: -4.005ex; width:38.075ex; height:8.676ex;"/></span>
+</p><p>Thus the ratio of chemical potentials becomes:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left({\frac {\partial \mu _{2}}{\partial \mu _{1}}}\right)_{\frac {n_{2}}{n_{3}}}=-\left({\frac {\partial {\frac {x_{1}}{x_{3}}}}{\partial {\frac {x_{2}}{x_{3}}}}}\right)_{\mu _{1}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {\partial \mu _{2}}{\partial \mu _{1}}}\right)_{\frac {n_{2}}{n_{3}}}=-\left({\frac {\partial {\frac {x_{1}}{x_{3}}}}{\partial {\frac {x_{2}}{x_{3}}}}}\right)_{\mu _{1}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \left({\frac {\partial \mu _{2}}{\partial \mu _{1}}}\right)_{\frac {n_{2}}{n_{3}}}=-\left({\frac {\partial {\frac {x_{1}}{x_{3}}}}{\partial {\frac {x_{2}}{x_{3}}}}}\right)_{\mu _{1}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cc887937de5a9214cd2dfcb7f03bb55487cf10a1" style="vertical-align: -4.005ex; width:26.492ex; height:8.676ex;"/></span>
+</p><p>Similarly the ratio for the multicomponents system becomes
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left({\frac {\partial \mu _{2}}{\partial \mu _{1}}}\right)_{{\frac {n_{2}}{n_{3}}},{\frac {n_{3}}{n_{4}}},...{\frac {n_{i-1}}{n_{i}}}}=-\left({\frac {\partial {\frac {x_{1}}{x_{3}}}}{\partial {\frac {x_{2}}{x_{3}}}}}\right)_{\mu _{1},{\frac {n_{3}}{n_{4}}},...{\frac {n_{i-1}}{n_{i}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>,</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>,</mo>
+<mo>.</mo>
+<mo>.</mo>
+<mo>.</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>,</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>,</mo>
+<mo>.</mo>
+<mo>.</mo>
+<mo>.</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {\partial \mu _{2}}{\partial \mu _{1}}}\right)_{{\frac {n_{2}}{n_{3}}},{\frac {n_{3}}{n_{4}}},...{\frac {n_{i-1}}{n_{i}}}}=-\left({\frac {\partial {\frac {x_{1}}{x_{3}}}}{\partial {\frac {x_{2}}{x_{3}}}}}\right)_{\mu _{1},{\frac {n_{3}}{n_{4}}},...{\frac {n_{i-1}}{n_{i}}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \left({\frac {\partial \mu _{2}}{\partial \mu _{1}}}\right)_{{\frac {n_{2}}{n_{3}}},{\frac {n_{3}}{n_{4}}},...{\frac {n_{i-1}}{n_{i}}}}=-\left({\frac {\partial {\frac {x_{1}}{x_{3}}}}{\partial {\frac {x_{2}}{x_{3}}}}}\right)_{\mu _{1},{\frac {n_{3}}{n_{4}}},...{\frac {n_{i-1}}{n_{i}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/65611bd392de89fd56189283d0b14e8d2eafba6e" style="vertical-align: -4.671ex; width:43.813ex; height:9.343ex;"/></span>
+</p>
+<h2><span class="mw-headline" id="Related_quantities">Related quantities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mole_fraction&amp;action=edit&amp;section=2" title="Edit section: Related quantities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Mass_fraction">Mass fraction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mole_fraction&amp;action=edit&amp;section=3" title="Edit section: Mass fraction">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Mass_fraction_(chemistry)" title="Mass fraction (chemistry)">mass fraction</a> <i>w<sub>i</sub></i> can be calculated using the formula
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle w_{i}=x_{i}\cdot {\frac {M_{i}}{M}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>w</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mi>M</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle w_{i}=x_{i}\cdot {\frac {M_{i}}{M}}}</annotation>
+</semantics>
+</math></span><img alt="w_{i}=x_{i}\cdot {\frac {M_{i}}{M}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f2cebb6a6ea3585e050dc31c380dd91d479ae0be" style="vertical-align: -1.838ex; width:13.261ex; height:5.176ex;"/></span></dd></dl>
+<p>where <i>M<sub>i</sub></i> is the molar mass of the component <i>i</i> and <i>M</i> is the average <a href="/wiki/Molar_mass" title="Molar mass">molar mass</a> of the mixture.
+</p><p>Replacing the expression of the molar mass:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle w_{i}=x_{i}\cdot {\frac {M_{i}}{\sum _{i}x_{i}M_{i}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>w</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mrow>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</munder>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle w_{i}=x_{i}\cdot {\frac {M_{i}}{\sum _{i}x_{i}M_{i}}}}</annotation>
+</semantics>
+</math></span><img alt="w_{i}=x_{i}\cdot {\frac {M_{i}}{\sum _{i}x_{i}M_{i}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5559afc22dae1ad18c3694d7070fc53351599771" style="vertical-align: -2.671ex; width:19.031ex; height:6.009ex;"/></span></dd></dl>
+<h3><span class="mw-headline" id="Molar_mixing_ratio">Molar mixing ratio</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mole_fraction&amp;action=edit&amp;section=4" title="Edit section: Molar mixing ratio">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The mixing of two pure components can be expressed introducing the amount or molar <a href="/wiki/Mixing_ratio" title="Mixing ratio">mixing ratio</a> of them <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle r_{n}={\frac {n_{2}}{n_{1}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle r_{n}={\frac {n_{2}}{n_{1}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle r_{n}={\frac {n_{2}}{n_{1}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/821d9a4b3bf67541d5546e9e131f24352251aee0" style="vertical-align: -2.171ex; width:8.651ex; height:5.009ex;"/></span>. Then the mole fractions of the components will be:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x_{1}={\frac {1}{1+r_{n}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<msub>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x_{1}={\frac {1}{1+r_{n}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x_{1}={\frac {1}{1+r_{n}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cd19d371972677a13378bca9028f365a2d603557" style="vertical-align: -2.171ex; width:12.588ex; height:5.509ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x_{2}={\frac {r_{n}}{1+r_{n}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<msub>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x_{2}={\frac {r_{n}}{1+r_{n}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x_{2}={\frac {r_{n}}{1+r_{n}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/445b63ffbdf61a758cc9de2a08cf8d88133b866f" style="vertical-align: -2.171ex; width:12.588ex; height:5.009ex;"/></span></dd></dl>
+<p>The amount ratio equals the ratio of mole fractions of components:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {n_{2}}{n_{1}}}={\frac {x_{2}}{x_{1}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {n_{2}}{n_{1}}}={\frac {x_{2}}{x_{1}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {n_{2}}{n_{1}}}={\frac {x_{2}}{x_{1}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/169d04a4f0acefcce7ef8de50d803faf8c47fc8f" style="vertical-align: -2.171ex; width:9.604ex; height:5.009ex;"/></span></dd></dl>
+<p>due to division of both numerator and denominator by the sum of molar amounts of components. This property has consequences for representations of <a href="/wiki/Phase_diagram" title="Phase diagram">phase diagrams</a> using, for instance, <a href="/wiki/Ternary_plot" title="Ternary plot">ternary plots</a>.
+</p>
+<h4><span class="mw-headline" id="Mixing_binary_mixtures_with_a_common_component_to_form_ternary_mixtures">Mixing binary mixtures with a common component to form ternary mixtures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mole_fraction&amp;action=edit&amp;section=5" title="Edit section: Mixing binary mixtures with a common component to form ternary mixtures">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Mixing binary mixtures with a common component gives a ternary mixture with certain mixing ratios between the three components. These mixing ratios from the ternary and the corresponding mole fractions of the ternary mixture x<sub>1(123)</sub>, x<sub>2(123)</sub>, x<sub>3(123)</sub> can be expressed as a function of several mixing ratios involved, the mixing ratios between the components of the binary mixtures and the mixing ratio of the binary mixtures to form the ternary one.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x_{1(123)}={\frac {n_{(12)}x_{1(12)}+n_{13}x_{1(13)}}{n_{(12)}+n_{(13)}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mo stretchy="false">(</mo>
+<mn>123</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mn>12</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+</msub>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mo stretchy="false">(</mo>
+<mn>12</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>13</mn>
+</mrow>
+</msub>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mo stretchy="false">(</mo>
+<mn>13</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mn>12</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mn>13</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x_{1(123)}={\frac {n_{(12)}x_{1(12)}+n_{13}x_{1(13)}}{n_{(12)}+n_{(13)}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x_{1(123)}={\frac {n_{(12)}x_{1(12)}+n_{13}x_{1(13)}}{n_{(12)}+n_{(13)}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/883de982d0b3d9fcd720524c6b1503b30dcf1b22" style="vertical-align: -2.671ex; width:31.34ex; height:6.343ex;"/></span></dd></dl>
+<h3><span class="mw-headline" id="Mole_percentage">Mole percentage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mole_fraction&amp;action=edit&amp;section=6" title="Edit section: Mole percentage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Multiplying mole fraction by 100 gives the mole percentage, also referred as amount/amount percent (abbreviated as n/n%).
+</p>
+<h3><span class="mw-headline" id="Mass_concentration">Mass concentration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mole_fraction&amp;action=edit&amp;section=7" title="Edit section: Mass concentration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The conversion to and from <a href="/wiki/Mass_concentration_(chemistry)" title="Mass concentration (chemistry)">mass concentration</a> <i>ρ<sub>i</sub></i> is given by:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x_{i}={\frac {\rho _{i}}{\rho }}\cdot {\frac {M}{M_{i}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>M</mi>
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x_{i}={\frac {\rho _{i}}{\rho }}\cdot {\frac {M}{M_{i}}}}</annotation>
+</semantics>
+</math></span><img alt="x_{i}={\frac {\rho _{i}}{\rho }}\cdot {\frac {M}{M_{i}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9f9929ff4d600b2d289203e2896c3cd320518cd7" style="vertical-align: -2.338ex; width:13.635ex; height:5.676ex;"/></span></dd></dl>
+<p>where <i>M</i> is the average molar mass of the mixture.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \rho _{i}=x_{i}\rho \cdot {\frac {M_{i}}{M}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mi>ρ<!-- ρ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mi>M</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \rho _{i}=x_{i}\rho \cdot {\frac {M_{i}}{M}}}</annotation>
+</semantics>
+</math></span><img alt="\rho _{i}=x_{i}\rho \cdot {\frac {M_{i}}{M}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e9e8d75a91b126831830beb73d558d74cb23bc30" style="vertical-align: -1.838ex; width:14ex; height:5.176ex;"/></span></dd></dl>
+<h3><span class="mw-headline" id="Molar_concentration">Molar concentration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mole_fraction&amp;action=edit&amp;section=8" title="Edit section: Molar concentration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The conversion to <a href="/wiki/Molar_concentration" title="Molar concentration">molar concentration</a> <i>c<sub>i</sub></i> is given by:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c_{i}={\frac {x_{i}\cdot \rho }{M}}=x_{i}c}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>ρ<!-- ρ --></mi>
+</mrow>
+<mi>M</mi>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mi>c</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{i}={\frac {x_{i}\cdot \rho }{M}}=x_{i}c}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c_{i}={\frac {x_{i}\cdot \rho }{M}}=x_{i}c}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c5a7b581c11962015b9be293cc4c3fb8399bbca9" style="vertical-align: -1.838ex; width:16.986ex; height:4.843ex;"/></span></dd></dl>
+<p>or
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c_{i}={\frac {x_{i}\cdot \rho }{\sum _{i}x_{i}M_{i}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>ρ<!-- ρ --></mi>
+</mrow>
+<mrow>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</munder>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{i}={\frac {x_{i}\cdot \rho }{\sum _{i}x_{i}M_{i}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c_{i}={\frac {x_{i}\cdot \rho }{\sum _{i}x_{i}M_{i}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7647b570adb6f5f99e2954f4f009311d5a2a2456" style="vertical-align: -2.671ex; width:14.565ex; height:5.676ex;"/></span></dd></dl>
+<p>where <i>M</i> is the average molar mass of the solution, <i>c</i> is the total molar concentration and <i>ρ</i> is the <a href="/wiki/Density" title="Density">density</a> of the solution.
+</p>
+<h3><span class="mw-headline" id="Mass_and_molar_mass">Mass and molar mass</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mole_fraction&amp;action=edit&amp;section=9" title="Edit section: Mass and molar mass">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The mole fraction can be calculated from the <a href="/wiki/Mass" title="Mass">masses</a> <i>m<sub>i</sub></i> and <a href="/wiki/Molar_mass" title="Molar mass">molar masses</a> <i>M<sub>i</sub></i> of the components:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x_{i}={\frac {\frac {m_{i}}{M_{i}}}{\sum _{i}{\frac {m_{i}}{M_{i}}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mfrac>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mfrac>
+<mrow>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</munder>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x_{i}={\frac {\frac {m_{i}}{M_{i}}}{\sum _{i}{\frac {m_{i}}{M_{i}}}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x_{i}={\frac {\frac {m_{i}}{M_{i}}}{\sum _{i}{\frac {m_{i}}{M_{i}}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/03b95a395cd63a1379673b55985b7a262417d0e0" style="vertical-align: -3.671ex; width:12.759ex; height:8.509ex;"/></span></dd></dl>
+<h2><span class="mw-headline" id="Spatial_variation_and_gradient">Spatial variation and gradient</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mole_fraction&amp;action=edit&amp;section=10" title="Edit section: Spatial variation and gradient">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In a <a class="mw-redirect" href="/wiki/Inhomogeneous" title="Inhomogeneous">spatially non-uniform</a> mixture, the mole fraction <a href="/wiki/Gradient" title="Gradient">gradient</a> triggers the phenomenon of <a href="/wiki/Diffusion" title="Diffusion">diffusion</a>.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mole_fraction&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-goldbook-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-goldbook_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-goldbook_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-goldbook_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">IUPAC</a>, <i><a class="mw-redirect" href="/wiki/Compendium_of_Chemical_Terminology" title="Compendium of Chemical Terminology">Compendium of Chemical Terminology</a></i>, 2nd ed. (the "Gold Book") (1997). Online corrected version:  (2006–) "<a class="external text" href="http://goldbook.iupac.org/A00296.html" rel="nofollow">amount fraction</a>".</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Zumdahl, Steven S. (2008). <i>Chemistry</i> (8th ed.). Cengage Learning. p. 201. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-547-12532-1" title="Special:BookSources/0-547-12532-1">0-547-12532-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chemistry&amp;rft.pages=201&amp;rft.edition=8th&amp;rft.pub=Cengage+Learning&amp;rft.date=2008&amp;rft.isbn=0-547-12532-1&amp;rft.aulast=Zumdahl&amp;rft.aufirst=Steven+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMole+fraction"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Rickard, James N.; Spencer, George M.; Bodner, Lyman H. (2010). <i>Chemistry: Structure and Dynamics</i> (5th ed.). Hoboken, N.J.: Wiley. p. 357. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-470-58711-9" title="Special:BookSources/978-0-470-58711-9">978-0-470-58711-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chemistry%3A+Structure+and+Dynamics&amp;rft.place=Hoboken%2C+N.J.&amp;rft.pages=357&amp;rft.edition=5th&amp;rft.pub=Wiley&amp;rft.date=2010&amp;rft.isbn=978-0-470-58711-9&amp;rft.aulast=Rickard&amp;rft.aufirst=James+N.&amp;rft.au=Spencer%2C+George+M.&amp;rft.au=Bodner%2C+Lyman+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMole+fraction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Thompson, A.; Taylor, B. N. <a class="external text" href="https://www.nist.gov/pml/pubs/sp811/index.cfm" rel="nofollow">"The NIST Guide for the use of the International System of Units"</a>. National Institute of Standards and Technology<span class="reference-accessdate">. Retrieved <span class="nowrap">5 July</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+NIST+Guide+for+the+use+of+the+International+System+of+Units&amp;rft.pub=National+Institute+of+Standards+and+Technology&amp;rft.aulast=Thompson&amp;rft.aufirst=A.&amp;rft.au=Taylor%2C+B.+N.&amp;rft_id=https%3A%2F%2Fwww.nist.gov%2Fpml%2Fpubs%2Fsp811%2Findex.cfm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMole+fraction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<div aria-labelledby="Mole_concepts" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Mole_concepts" title="Template:Mole concepts"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Mole_concepts" title="Template talk:Mole concepts"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Mole_concepts&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Mole_concepts" style="font-size:114%;margin:0 4em"><a href="/wiki/Mole_(unit)" title="Mole (unit)">Mole</a> concepts</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Physical quantities</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mass_concentration_(chemistry)" title="Mass concentration (chemistry)">Mass concentration</a></li>
+<li><a href="/wiki/Molar_concentration" title="Molar concentration">Molar concentration</a></li>
+<li><a href="/wiki/Molality" title="Molality">Molality</a></li>
+<li><a href="/wiki/Mass" title="Mass">Mass</a></li>
+<li><a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">Volume</a></li>
+<li><a href="/wiki/Density" title="Density">Density</a></li>
+<li><a class="mw-selflink selflink">Mole fraction</a></li>
+<li><a href="/wiki/Mass_fraction_(chemistry)" title="Mass fraction (chemistry)">Mass fraction</a></li>
+<li><a href="/wiki/Amount_of_substance" title="Amount of substance">Amount of substance</a></li>
+<li><a href="/wiki/Molar_mass" title="Molar mass">Molar mass</a></li>
+<li><a href="/wiki/Atomic_mass" title="Atomic mass">Atomic mass</a></li>
+<li><a href="/wiki/Particle_number" title="Particle number">Particle number</a></li>
+<li><a href="/wiki/Avogadro_constant" title="Avogadro constant">Avogadro constant</a></li>
+<li><a href="/wiki/Pressure" title="Pressure">Pressure</a></li>
+<li><a class="mw-redirect" href="/wiki/Kelvin_temperature" title="Kelvin temperature">Kelvin temperature</a></li>
+<li><a href="/wiki/Gas_constant" title="Gas constant">Gas constant</a></li>
+<li><a href="/wiki/Molar_volume" title="Molar volume">Molar volume</a></li>
+<li><a href="/wiki/Specific_volume" title="Specific volume">Specific volume</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Laws</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Charles%27s_law" title="Charles's law">Charles's law</a></li>
+<li><a href="/wiki/Boyle%27s_law" title="Boyle's law">Boyle's law</a></li>
+<li><a href="/wiki/Gay-Lussac%27s_law" title="Gay-Lussac's law">Gay-Lussac's law</a></li>
+<li><a href="/wiki/Combined_gas_law" title="Combined gas law">Combined gas law</a></li>
+<li><a href="/wiki/Ideal_gas_law" title="Ideal gas law">Ideal gas law</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Articles_related_to_solutions" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Chemical_solutions" title="Template:Chemical solutions"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Chemical_solutions" title="Template talk:Chemical solutions"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chemical_solutions&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Articles_related_to_solutions" style="font-size:114%;margin:0 4em">Articles related to <a href="/wiki/Solution" title="Solution">solutions</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Solution" title="Solution">Solution</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ideal_solution" title="Ideal solution">Ideal solution</a></li>
+<li><a href="/wiki/Aqueous_solution" title="Aqueous solution">Aqueous solution</a></li>
+<li><a href="/wiki/Solid_solution" title="Solid solution">Solid solution</a></li>
+<li><a href="/wiki/Buffer_solution" title="Buffer solution">Buffer solution</a></li>
+<li><a href="/wiki/Flory%E2%80%93Huggins_solution_theory" title="Flory–Huggins solution theory">Flory–Huggins</a></li>
+<li><a href="/wiki/Mixture" title="Mixture">Mixture</a></li>
+<li><a href="/wiki/Suspension_(chemistry)" title="Suspension (chemistry)">Suspension</a></li>
+<li><a href="/wiki/Colloid" title="Colloid">Colloid</a></li>
+<li><a href="/wiki/Phase_diagram" title="Phase diagram">Phase diagram</a></li>
+<li><a href="/wiki/Eutectic_system" title="Eutectic system">Eutectic point</a></li>
+<li><a href="/wiki/Alloy" title="Alloy">Alloy</a></li>
+<li><a href="/wiki/Saturation_(chemistry)" title="Saturation (chemistry)">Saturation</a></li>
+<li><a href="/wiki/Supersaturation" title="Supersaturation">Supersaturation</a></li>
+<li><a href="/wiki/Serial_dilution" title="Serial dilution">Serial dilution</a></li>
+<li><a href="/wiki/Dilution_(equation)" title="Dilution (equation)">Dilution (equation)</a></li>
+<li><a href="/wiki/Apparent_molar_property" title="Apparent molar property">Apparent molar property</a></li>
+<li><a href="/wiki/Miscibility_gap" title="Miscibility gap">Miscibility gap</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Concentration" title="Concentration">Concentration</a><br/>and related quantities</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Molar_concentration" title="Molar concentration">Molar concentration</a></li>
+<li><a href="/wiki/Mass_concentration_(chemistry)" title="Mass concentration (chemistry)">Mass concentration</a></li>
+<li><a href="/wiki/Number_density" title="Number density">Number concentration</a></li>
+<li><a href="/wiki/Volume_fraction" title="Volume fraction">Volume concentration</a></li>
+<li><a href="/wiki/Equivalent_concentration" title="Equivalent concentration">Normality</a></li>
+<li><a class="mw-redirect mw-disambig" href="/wiki/Percentage_solution_(disambiguation)" title="Percentage solution (disambiguation)">Percentage solution</a></li>
+<li><a href="/wiki/Molality" title="Molality">Molality</a></li>
+<li><a class="mw-selflink selflink">Mole fraction</a></li>
+<li><a href="/wiki/Mass_fraction_(chemistry)" title="Mass fraction (chemistry)">Mass fraction</a></li>
+<li><a href="/wiki/Natural_abundance" title="Natural abundance">Isotopic abundance</a></li>
+<li><a href="/wiki/Mixing_ratio" title="Mixing ratio">Mixing ratio</a></li>
+<li><a href="/wiki/Ternary_plot" title="Ternary plot">Ternary plot</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Solubility" title="Solubility">Solubility</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Solubility_equilibrium" title="Solubility equilibrium">Solubility equilibrium</a></li>
+<li><a href="/wiki/Total_dissolved_solids" title="Total dissolved solids">Total dissolved solids</a></li>
+<li><a href="/wiki/Solvation" title="Solvation">Solvation</a></li>
+<li><a href="/wiki/Solvation_shell" title="Solvation shell">Solvation shell</a></li>
+<li><a href="/wiki/Enthalpy_change_of_solution" title="Enthalpy change of solution">Enthalpy of solution</a></li>
+<li><a href="/wiki/Lattice_energy" title="Lattice energy">Lattice energy</a></li>
+<li><a href="/wiki/Raoult%27s_law" title="Raoult's law">Raoult's law</a></li>
+<li><a href="/wiki/Henry%27s_law" title="Henry's law">Henry's law</a></li>
+<li><a href="/wiki/Solubility_table" title="Solubility table">Solubility table (data)</a></li>
+<li><a href="/wiki/Solubility_chart" title="Solubility chart">Solubility chart</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Solvent" title="Solvent">Solvent</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>(<a href="/wiki/Category:Solvents" title="Category:Solvents">Category</a>)</li>
+<li><a href="/wiki/Acid_dissociation_constant" title="Acid dissociation constant">Acid dissociation constant</a></li>
+<li><a href="/wiki/Protic_solvent" title="Protic solvent">Protic solvent</a></li>
+<li><a href="/wiki/Inorganic_nonaqueous_solvent" title="Inorganic nonaqueous solvent">Inorganic nonaqueous solvent</a></li>
+<li><a href="/wiki/Solvation" title="Solvation">Solvation</a></li>
+<li><a href="/wiki/List_of_boiling_and_freezing_information_of_solvents" title="List of boiling and freezing information of solvents">List of boiling and freezing information of solvents</a></li>
+<li><a href="/wiki/Partition_coefficient" title="Partition coefficient">Partition coefficient</a></li>
+<li><a href="/wiki/Chemical_polarity" title="Chemical polarity">Polarity</a></li>
+<li><a href="/wiki/Hydrophobe" title="Hydrophobe">Hydrophobe</a></li>
+<li><a href="/wiki/Hydrophile" title="Hydrophile">Hydrophile</a></li>
+<li><a href="/wiki/Lipophilicity" title="Lipophilicity">Lipophilic</a></li>
+<li><a href="/wiki/Amphiphile" title="Amphiphile">Amphiphile</a></li>
+<li><a href="/wiki/Lyonium_ion" title="Lyonium ion">Lyonium ion</a></li>
+<li><a href="/wiki/Lyate_ion" title="Lyate ion">Lyate ion</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2231
+Cached time: 20180929134939
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.204 seconds
+Real time usage: 0.405 seconds
+Preprocessor visited node count: 518/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 22833/2097152 bytes
+Template argument size: 98/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 9618/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.079/10.000 seconds
+Lua memory usage: 2.22 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  137.141      1 -total
+ 84.57%  115.985      1 Template:Reflist
+ 66.32%   90.957      2 Template:Cite_book
+ 11.80%   16.187      2 Template:Navbox
+ 10.60%   14.541      1 Template:Mole_concepts
+  5.61%    7.693      1 Template:Cite_web
+  4.71%    6.458      1 Template:Chemical_solutions
+  1.79%    2.460      1 Template:Main_other
+  1.75%    2.403      1 Template:GoldBookRef
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:20306-0!canonical!math=5 and timestamp 20180929134939 and revision id 852670292
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mole_fraction&amp;oldid=852670292">https://en.wikipedia.org/w/index.php?title=Mole_fraction&amp;oldid=852670292</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chemical_properties" title="Category:Chemical properties">Chemical properties</a></li><li><a href="/wiki/Category:Dimensionless_numbers_of_chemistry" title="Category:Dimensionless numbers of chemistry">Dimensionless numbers of chemistry</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mole+fraction" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Mole+fraction" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Mole_fraction" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Mole_fraction" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Mole_fraction">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Mole_fraction&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Mole_fraction&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Mole_fraction" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Mole_fraction" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Mole_fraction&amp;oldid=852670292" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Mole_fraction&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q125264" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mole_fraction&amp;id=852670292" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mole+fraction">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Mole+fraction&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Mole_fraction&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%83%D8%B3%D8%B1_%D9%85%D9%88%D9%84%D9%8A" hreflang="ar" lang="ar" title="كسر مولي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Fracci%C3%B3_molar" hreflang="ca" lang="ca" title="Fracció molar – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Stoffmengenanteil" hreflang="de" lang="de" title="Stoffmengenanteil – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Moolimurd" hreflang="et" lang="et" title="Moolimurd – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%93%CF%81%CE%B1%CE%BC%CE%BC%CE%BF%CE%BC%CE%BF%CF%81%CE%B9%CE%B1%CE%BA%CF%8C_%CE%BA%CE%BB%CE%AC%CF%83%CE%BC%CE%B1" hreflang="el" lang="el" title="Γραμμομοριακό κλάσμα – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Fracci%C3%B3n_molar" hreflang="es" lang="es" title="Fracción molar – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%A9%D8%B3%D8%B1_%D9%85%D9%88%D9%84%DB%8C" hreflang="fa" lang="fa" title="کسر مولی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Fraction_molaire" hreflang="fr" lang="fr" title="Fraction molaire – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%AA%B0%EB%B6%84%EC%9C%A8" hreflang="ko" lang="ko" title="몰분율 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%A3%E0%A5%81-%E0%A4%85%E0%A4%82%E0%A4%B6" hreflang="hi" lang="hi" title="अणु-अंश – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Fraksi_mol" hreflang="id" lang="id" title="Fraksi mol – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Frazione_molare" hreflang="it" lang="it" title="Frazione molare – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Rap%C3%B2_mol%C3%A8" hreflang="ht" lang="ht" title="Rapò molè – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%AE%E0%B5%8B%E0%B5%BE%E0%B4%AB%E0%B5%8D%E0%B4%B0%E0%B4%BE%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B5%BB" hreflang="ml" lang="ml" title="മോൾഫ്രാക്ഷൻ – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Molfractie" hreflang="nl" lang="nl" title="Molfractie – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/U%C5%82amek_molowy" hreflang="pl" lang="pl" title="Ułamek molowy – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Fra%C3%A7%C3%A3o_molar" hreflang="pt" lang="pt" title="Fração molar – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Frac%C8%9Bie_molar%C4%83" hreflang="ro" lang="ro" title="Fracție molară – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F" hreflang="ru" lang="ru" title="Мольная доля – Russian">Русский</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Molski_dele%C5%BE" hreflang="sl" lang="sl" title="Molski delež – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Mooliosuus" hreflang="fi" lang="fi" title="Mooliosuus – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%8B%E0%AE%B2%E0%AF%8D_%E0%AE%AA%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="மோல் பின்னம் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D0%B0_%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B0" hreflang="uk" lang="uk" title="Молярна частка – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%91%A9%E5%B0%94%E5%88%86%E6%95%B0" hreflang="zh" lang="zh" title="摩尔分数 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q125264#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 30 July 2018, at 15:43<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Mole_fraction&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.204","walltime":"0.405","ppvisitednodes":{"value":518,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":22833,"limit":2097152},"templateargumentsize":{"value":98,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9618,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  137.141      1 -total"," 84.57%  115.985      1 Template:Reflist"," 66.32%   90.957      2 Template:Cite_book"," 11.80%   16.187      2 Template:Navbox"," 10.60%   14.541      1 Template:Mole_concepts","  5.61%    7.693      1 Template:Cite_web","  4.71%    6.458      1 Template:Chemical_solutions","  1.79%    2.460      1 Template:Main_other","  1.75%    2.403      1 Template:GoldBookRef"]},"scribunto":{"limitreport-timeusage":{"value":"0.079","limit":"10.000"},"limitreport-memusage":{"value":2324402,"limit":52428800}},"cachereport":{"origin":"mw2231","timestamp":"20180929134939","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw2233"});});</script>
+</body>
+</html>

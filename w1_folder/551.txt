@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Kilo- - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Kilo-","wgTitle":"Kilo-","wgCurRevisionId":862448592,"wgRevisionId":862448592,"wgArticleId":16839,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Articles containing Greek-language text","SI prefixes","1000 (number)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Kilo-","wgRelevantArticleId":16839,"wgRequestId":"W7lbFwrAADoAACzNSnEAAAED","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q107428","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Kilo-" rel="alternate"/>
+<link href="/w/index.php?title=Kilo-&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Kilo-&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Kilo-" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Kilo- rootpage-Kilo- skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Kilo-</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-redirect mw-disambig" href="/wiki/Kilo_(disambiguation)" title="Kilo (disambiguation)">Kilo (disambiguation)</a>.</div>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/kilo-" title="wiktionary:kilo-">kilo-</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<p><b>Kilo</b> is a <a class="mw-redirect" href="/wiki/Decimal_prefix" title="Decimal prefix">decimal</a> <a href="/wiki/Metric_prefix" title="Metric prefix">unit prefix</a> in the <a href="/wiki/Metric_system" title="Metric system">metric system</a> denoting multiplication by one <a class="mw-redirect" href="/wiki/Thousand" title="Thousand">thousand</a> (10<sup>3</sup>). It is used in the <a href="/wiki/International_System_of_Units" title="International System of Units">International System of Units</a> where it has the unit symbol <b>k</b>, in lower case.
+</p><p>The prefix <i>kilo</i> is derived from the <a href="/wiki/Greek_language" title="Greek language">Greek</a> word <span lang="el" title="Greek language text">χίλιοι</span> (<i lang="el-Latn" title="Greek language text">chilioi</i>), meaning "thousand". It was originally adopted by <a href="/wiki/Antoine_Lavoisier" title="Antoine Lavoisier">Antoine Lavoisier</a>'s research group in 1795, and introduced into the metric system in France with its establishment in 1799.
+</p><p>In 19th century English it was sometimes spelled chilio, in line with a <a href="/wiki/Linguistic_purism" title="Linguistic purism">puristic</a> opinion by <a href="/wiki/Thomas_Young_(scientist)" title="Thomas Young (scientist)">Thomas Young</a><sup class="reference" id="cite_ref-Brewster_1832_1-0"><a href="#cite_note-Brewster_1832-1">[1]</a></sup><sup class="reference" id="cite_ref-Dingler_1823_2-0"><a href="#cite_note-Dingler_1823-2">[2]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Examples"><span class="tocnumber">1</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#kilobyte"><span class="tocnumber">2</span> <span class="toctext">kilobyte</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Exponentiation"><span class="tocnumber">3</span> <span class="toctext">Exponentiation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kilo-&amp;action=edit&amp;section=1" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>one <a href="/wiki/Kilogram" title="Kilogram">kilogram</a> (kg) is 1000 <a href="/wiki/Gram" title="Gram">grams</a></li>
+<li>one <a href="/wiki/Kilometre" title="Kilometre">kilometre</a> (km) is 1000 <a href="/wiki/Metre" title="Metre">metres</a></li>
+<li>one <a class="mw-redirect" href="/wiki/Kilojoule" title="Kilojoule">kilojoule</a> (kJ) is 1000 <a href="/wiki/Joule" title="Joule">joules</a></li>
+<li>one kilolitre (kL) is 1000 <a href="/wiki/Litre" title="Litre">litres</a></li>
+<li>one kilobaud (kBd) is 1000 <a href="/wiki/Baud" title="Baud">baud</a></li>
+<li>one kilohertz (kHz) is 1000 <a href="/wiki/Hertz" title="Hertz">hertz</a></li>
+<li>one <a href="/wiki/Kilobit" title="Kilobit">kilobit</a> (kb) is 1000 <a href="/wiki/Bit" title="Bit">bits</a></li>
+<li>one <a href="/wiki/Kilobyte" title="Kilobyte">kilobyte</a> (kB) is 1000 <a href="/wiki/Byte" title="Byte">bytes</a></li>
+<li>one kiloohm is (kΩ) is 1000 <a href="/wiki/Ohm" title="Ohm">ohms</a></li></ul>
+<h2><span class="mw-headline" id="kilobyte">kilobyte</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kilo-&amp;action=edit&amp;section=2" title="Edit section: kilobyte">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For the kilobyte, a second definition has been in common use in some fields of <a href="/wiki/Computer_science" title="Computer science">computer science</a> and information technology. It uses <i>kilobyte</i> to mean 2<sup>10</sup> bytes (= 1024 bytes), because of the <a href="/wiki/Mathematical_coincidence#Concerning_base_2" title="Mathematical coincidence">mathematical coincidence</a> that 2<sup>10</sup> is approximately 10<sup>3</sup>. The reason for this application is that digital hardware and architectures natively use <a class="mw-redirect" href="/wiki/Base_2" title="Base 2">base 2</a> exponentiation, and not <a class="mw-redirect" href="/wiki/Base_10" title="Base 10">decimal</a> systems. <a href="/wiki/JEDEC_memory_standards" title="JEDEC memory standards">JEDEC memory standards</a> still permit this definition, but acknowledge the correct SI usage.
+</p><p>NIST comments on the confusion caused by these contrasting definitions: "Faced with this reality, the <i>IEEE Standards Board</i> decided that IEEE standards will use the conventional, internationally adopted, definitions of the SI prefixes", instead of kilo for 1024.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>  To address this conflict, a new set of <a href="/wiki/Binary_prefix" title="Binary prefix">binary prefixes</a> has been introduced, which is based on powers of 2. Therefore, 1024 bytes are defined as one <a href="/wiki/Kibibyte" title="Kibibyte">kibibyte</a> (1 KiB).
+</p>
+<h2><span class="mw-headline" id="Exponentiation">Exponentiation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kilo-&amp;action=edit&amp;section=3" title="Edit section: Exponentiation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When units occur in <a href="/wiki/Exponentiation" title="Exponentiation">exponentiation</a>, such as in square and cubic forms, any multiplier prefix is considered part of the unit, and thus included in the exponentiation.
+</p>
+<ul><li>1 km<sup>2</sup> means one square kilometre or the area of a <a class="mw-redirect" href="/wiki/Square_(geometry)" title="Square (geometry)">square</a> that measures 1000 m on each side or 10<sup>6</sup> m<sup>2</sup> (as opposed to 1000 square meters, which is the area of a square that measures 31.6 m on each side).</li>
+<li>1 km<sup>3</sup> means one cubic kilometre or the volume of a <a href="/wiki/Cube" title="Cube">cube</a> that measures 1000 m on each side or 10<sup>9</sup> m<sup>3</sup> (as opposed to 1000 cubic meters, which is the volume of a cube that measures 10 m on each side).</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kilo-&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Milli-" title="Milli-">milli-</a> (inverse of kilo- prefix, denoting a factor of 1/1000)</li>
+<li><a class="mw-redirect" href="/wiki/Kibi-" title="Kibi-">kibi-</a> (binary prefix, denoting a factor of 1024)</li>
+<li><a href="/wiki/RKM_code" title="RKM code">RKM code</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kilo-&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Brewster_1832-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Brewster_1832_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Brewster, David (1832). <a class="external text" href="https://books.google.com/books?id=17RGAQAAIAAJ&amp;pg=PA572&amp;lpg=PA572" rel="nofollow"><i>The Edinburgh Encyclopaedia</i></a>. <b>12</b> (1st American ed.). Joseph and Edward Parker<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Edinburgh+Encyclopaedia&amp;rft.edition=1st+American&amp;rft.pub=Joseph+and+Edward+Parker&amp;rft.date=1832&amp;rft.aulast=Brewster&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D17RGAQAAIAAJ%26pg%3DPA572%26lpg%3DPA572&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKilo-"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Dingler_1823-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Dingler_1823_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Dingler, Johann Gottfried (1823). <a class="external text" href="https://books.google.com/books?id=wF3zAAAAMAAJ&amp;pg=PA500&amp;lpg=PA500" rel="nofollow"><i>Polytechnisches Journal</i></a> (in German). <b>11</b>. Stuttgart, Germany: J.W. Gotta'schen Buchhandlung<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Polytechnisches+Journal&amp;rft.place=Stuttgart%2C+Germany&amp;rft.pub=J.W.+Gotta%27schen+Buchhandlung&amp;rft.date=1823&amp;rft.aulast=Dingler&amp;rft.aufirst=Johann+Gottfried&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DwF3zAAAAMAAJ%26pg%3DPA500%26lpg%3DPA500&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKilo-"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external text" href="http://physics.nist.gov/cuu/Units/binary.html" rel="nofollow">Definition of binary prefixes at NIST</a></span>
+</li>
+</ol></div></div>
+<table class="wikitable" style="padding: 0; text-align: center; width: 0">
+<tbody><tr>
+<th colspan="2" style="background:#ccf;"><div style="text-align:center; position:relative; white-space:nowrap;"><a class="mw-redirect" href="/wiki/SI_prefix" title="SI prefix">SI prefixes</a><div class="plainlinks hlist navbar mini" style="position:absolute; right:0; top:0; margin:0 5px;"><ul><li class="nv-view"><a href="/wiki/Template:SI_prefixes_(infobox)" title="Template:SI prefixes (infobox)"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:SI_prefixes_(infobox)" title="Template talk:SI prefixes (infobox)"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:SI_prefixes_(infobox)&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></div>
+</th></tr>
+<tr>
+<td>
+<table style="border: 1px #aaa solid">
+<tbody><tr>
+<th colspan="2" style="background:#edf; text-align: center">Prefix
+</th>
+<th rowspan="2" style="background:#edf; text-align: center">Base 1000
+</th>
+<th rowspan="2" style="background:#edf; text-align: center">Base 10
+</th>
+<th rowspan="2" style="background:#edf; text-align: center"><a href="/wiki/Decimal" title="Decimal">Decimal</a>
+</th>
+<th colspan="2" style="background:#edf; text-align: center">English word
+</th>
+<th rowspan="2" style="background:#edf; text-align: center">Adoption<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[nb 1]</a></sup>
+</th></tr>
+<tr>
+<th style="background:#edf; text-align: center">Name
+</th>
+<th style="background:#edf; text-align: center">Symbol
+</th>
+<th style="background:#edf; text-align: center"><a class="mw-redirect" href="/wiki/Short_scale" title="Short scale">Short scale</a>
+</th>
+<th style="background:#edf; text-align: center"><a class="mw-redirect" href="/wiki/Long_scale" title="Long scale">Long scale</a>
+</th></tr>
+<tr>
+<td><a href="/wiki/Yotta-" title="Yotta-">yotta</a>
+</td>
+<td style="text-align:center;">Y
+</td>
+<td style="text-align:left;"> 1000<sup>8</sup>
+</td>
+<td style="text-align:left;"> <a href="/wiki/Orders_of_magnitude_(numbers)#1024" title="Orders of magnitude (numbers)">10<sup>24</sup></a>
+</td>
+<td style="text-align:right;"><span style="white-space:nowrap">1<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span></span>
+</td>
+<td style="text-align:center;"> septillion
+</td>
+<td style="text-align:center;"> quadrillion
+</td>
+<td>1991
+</td></tr>
+<tr>
+<td><a href="/wiki/Zetta-" title="Zetta-">zetta</a>
+</td>
+<td style="text-align:center;">Z
+</td>
+<td style="text-align:left;"> 1000<sup>7</sup>
+</td>
+<td style="text-align:left;"> <a href="/wiki/Orders_of_magnitude_(numbers)#1021" title="Orders of magnitude (numbers)">10<sup>21</sup></a>
+</td>
+<td style="text-align:right;"><span style="white-space:nowrap">1<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span></span>
+</td>
+<td style="text-align:center;"> sextillion
+</td>
+<td style="text-align:center;"> trilliard
+</td>
+<td>1991
+</td></tr>
+<tr>
+<td><a href="/wiki/Exa-" title="Exa-">exa</a>
+</td>
+<td style="text-align:center;">E
+</td>
+<td style="text-align:left;"> 1000<sup>6</sup>
+</td>
+<td style="text-align:left;"> <a href="/wiki/Orders_of_magnitude_(numbers)#1018" title="Orders of magnitude (numbers)">10<sup>18</sup></a>
+</td>
+<td style="text-align:right;"><span style="white-space:nowrap">1<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span></span>
+</td>
+<td style="text-align:center;"> quintillion
+</td>
+<td style="text-align:center;"> trillion
+</td>
+<td>1975
+</td></tr>
+<tr>
+<td><a href="/wiki/Peta-" title="Peta-">peta</a>
+</td>
+<td style="text-align:center;">P
+</td>
+<td style="text-align:left;"> 1000<sup>5</sup>
+</td>
+<td style="text-align:left;"> <a href="/wiki/Orders_of_magnitude_(numbers)#1015" title="Orders of magnitude (numbers)">10<sup>15</sup></a>
+</td>
+<td style="text-align:right;"><span style="white-space:nowrap">1<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span></span>
+</td>
+<td style="text-align:center;"> quadrillion
+</td>
+<td style="text-align:center;"> billiard
+</td>
+<td>1975
+</td></tr>
+<tr>
+<td><a href="/wiki/Tera-" title="Tera-">tera</a>
+</td>
+<td style="text-align:center;">T
+</td>
+<td style="text-align:left;"> 1000<sup>4</sup>
+</td>
+<td style="text-align:left;"> <a href="/wiki/Orders_of_magnitude_(numbers)#1012" title="Orders of magnitude (numbers)">10<sup>12</sup></a>
+</td>
+<td style="text-align:right;"><span style="white-space:nowrap">1<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span></span>
+</td>
+<td style="text-align:center;"> trillion
+</td>
+<td style="text-align:center;"> billion
+</td>
+<td>1960
+</td></tr>
+<tr>
+<td><a href="/wiki/Giga-" title="Giga-">giga</a>
+</td>
+<td style="text-align:center;">G
+</td>
+<td style="text-align:left;"> 1000<sup>3</sup>
+</td>
+<td style="text-align:left;"> <a class="mw-redirect" href="/wiki/1000000000_(number)" title="1000000000 (number)">10<sup>9</sup></a>
+</td>
+<td style="text-align:right;"><span style="white-space:nowrap">1<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span></span>
+</td>
+<td style="text-align:center;"> billion
+</td>
+<td style="text-align:center;"> milliard
+</td>
+<td>1960
+</td></tr>
+<tr>
+<td><a href="/wiki/Mega-" title="Mega-">mega</a>
+</td>
+<td style="text-align:center;">M
+</td>
+<td style="text-align:left;"> 1000<sup>2</sup>
+</td>
+<td style="text-align:left;"> <a class="mw-redirect" href="/wiki/1000000_(number)" title="1000000 (number)">10<sup>6</sup></a>
+</td>
+<td style="text-align:right;"><span style="white-space:nowrap">1<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span></span>
+</td>
+<td colspan="2" style="text-align:center;"> million
+</td>
+<td>1873
+</td></tr>
+<tr>
+<td><a class="mw-selflink selflink">kilo</a>
+</td>
+<td style="text-align:center;">k
+</td>
+<td style="text-align:left;"> 1000<sup>1</sup>
+</td>
+<td style="text-align:left;"> <a href="/wiki/1000_(number)" title="1000 (number)">10<sup>3</sup></a>
+</td>
+<td style="text-align:right;"><span style="white-space:nowrap">1<span style="margin-left:0.25em">000</span></span>
+</td>
+<td colspan="2" style="text-align:center;"> thousand
+</td>
+<td>1795
+</td></tr>
+<tr style="background-color:#FFF">
+<td><a href="/wiki/Hecto-" title="Hecto-">hecto</a>
+</td>
+<td style="text-align:center;">h
+</td>
+<td style="text-align:left;"> 1000<sup>2/3</sup>
+</td>
+<td style="text-align:left;"> <a href="/wiki/100_(number)" title="100 (number)">10<sup>2</sup></a>
+</td>
+<td style="text-align:right;">100
+</td>
+<td colspan="2" style="text-align:center;"> hundred
+</td>
+<td>1795
+</td></tr>
+<tr style="background-color:#FFF">
+<td><a href="/wiki/Deca-" title="Deca-">deca</a>
+</td>
+<td style="text-align:center;">da
+</td>
+<td style="text-align:left;"> 1000<sup>1/3</sup>
+</td>
+<td style="text-align:left;"> <a class="mw-redirect" href="/wiki/10_(number)" title="10 (number)">10<sup>1</sup></a>
+</td>
+<td style="text-align:right;">10
+</td>
+<td colspan="2" style="text-align:center;"> ten
+</td>
+<td>1795
+</td></tr>
+<tr style="background-color:#EEE">
+<td colspan="2">
+</td>
+<td style="text-align:left;"> 1000<sup>0</sup>
+</td>
+<td style="text-align:left;"> <a class="mw-redirect" href="/wiki/1_(number)" title="1 (number)">10<sup>0</sup></a>
+</td>
+<td style="text-align:center;">1
+</td>
+<td colspan="2" style="text-align:center;"> one
+</td>
+<td>–
+</td></tr>
+<tr style="background-color:#FFF">
+<td><a href="/wiki/Deci-" title="Deci-">deci</a>
+</td>
+<td style="text-align:center;">d
+</td>
+<td style="text-align:left;"> 1000<sup>−1/3</sup>
+</td>
+<td style="text-align:left;"> <a href="/wiki/Orders_of_magnitude_(numbers)#10.E2.88.921" title="Orders of magnitude (numbers)">10<sup>−1</sup></a>
+</td>
+<td style="text-align:left;">0.1
+</td>
+<td colspan="2" style="text-align:center;"> tenth
+</td>
+<td>1795
+</td></tr>
+<tr style="background-color:#FFF">
+<td><a href="/wiki/Centi-" title="Centi-">centi</a>
+</td>
+<td style="text-align:center;">c
+</td>
+<td style="text-align:left;"> 1000<sup>−2/3</sup> 
+</td>
+<td style="text-align:left;"> <a href="/wiki/Orders_of_magnitude_(numbers)#10.E2.88.922" title="Orders of magnitude (numbers)">10<sup>−2</sup></a>
+</td>
+<td style="text-align:left;">0.01
+</td>
+<td colspan="2" style="text-align:center;"> hundredth
+</td>
+<td>1795
+</td></tr>
+<tr>
+<td><a href="/wiki/Milli-" title="Milli-">milli</a>
+</td>
+<td style="text-align:center;">m
+</td>
+<td style="text-align:left;"> 1000<sup>−1</sup>
+</td>
+<td style="text-align:left;"> <a href="/wiki/Orders_of_magnitude_(numbers)#10.E2.88.923" title="Orders of magnitude (numbers)">10<sup>−3</sup></a>
+</td>
+<td style="text-align:left;">0.001
+</td>
+<td colspan="2" style="text-align:center;"> thousandth
+</td>
+<td>1795
+</td></tr>
+<tr>
+<td><a href="/wiki/Micro-" title="Micro-">micro</a>
+</td>
+<td style="text-align:center;">µ
+</td>
+<td style="text-align:left;"> 1000<sup>−2</sup>
+</td>
+<td style="text-align:left;"> <a href="/wiki/Orders_of_magnitude_(numbers)#10.E2.88.926" title="Orders of magnitude (numbers)">10<sup>−6</sup></a>
+</td>
+<td style="text-align:left;"><span style="white-space:nowrap">0.000<span style="margin-left:0.25em">001</span></span>
+</td>
+<td colspan="2" style="text-align:center;"> millionth
+</td>
+<td>1873
+</td></tr>
+<tr>
+<td><a href="/wiki/Nano-" title="Nano-">nano</a>
+</td>
+<td style="text-align:center;">n
+</td>
+<td style="text-align:left;"> 1000<sup>−3</sup>
+</td>
+<td style="text-align:left;"> <a href="/wiki/Orders_of_magnitude_(numbers)#10.E2.88.929" title="Orders of magnitude (numbers)">10<sup>−9</sup></a>
+</td>
+<td style="text-align:left;"><span style="white-space:nowrap">0.000<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">001</span></span>
+</td>
+<td style="text-align:center;"> billionth
+</td>
+<td style="text-align:center;"> milliardth
+</td>
+<td>1960
+</td></tr>
+<tr>
+<td><a href="/wiki/Pico-" title="Pico-">pico</a>
+</td>
+<td style="text-align:center;">p
+</td>
+<td style="text-align:left;"> 1000<sup>−4</sup>
+</td>
+<td style="text-align:left;"> <a href="/wiki/Orders_of_magnitude_(numbers)#10.E2.88.9212" title="Orders of magnitude (numbers)">10<sup>−12</sup></a>
+</td>
+<td style="text-align:left;"><span style="white-space:nowrap">0.000<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">001</span></span>
+</td>
+<td style="text-align:center;"> trillionth
+</td>
+<td style="text-align:center;"> billionth
+</td>
+<td>1960
+</td></tr>
+<tr>
+<td><a href="/wiki/Femto-" title="Femto-">femto</a>
+</td>
+<td style="text-align:center;">f
+</td>
+<td style="text-align:left;"> 1000<sup>−5</sup>
+</td>
+<td style="text-align:left;"> <a href="/wiki/Orders_of_magnitude_(numbers)#10.E2.88.9215" title="Orders of magnitude (numbers)">10<sup>−15</sup></a>
+</td>
+<td style="text-align:left;"><span style="white-space:nowrap">0.000<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">001</span></span>
+</td>
+<td style="text-align:center;"> quadrillionth
+</td>
+<td style="text-align:center;"> billiardth
+</td>
+<td>1964
+</td></tr>
+<tr>
+<td><a href="/wiki/Atto-" title="Atto-">atto</a>
+</td>
+<td style="text-align:center;">a
+</td>
+<td style="text-align:left;"> 1000<sup>−6</sup>
+</td>
+<td style="text-align:left;"> <a href="/wiki/Orders_of_magnitude_(numbers)#10.E2.88.9218" title="Orders of magnitude (numbers)">10<sup>−18</sup></a>
+</td>
+<td style="text-align:left;"><span style="white-space:nowrap">0.000<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">001</span></span>
+</td>
+<td style="text-align:center;"> quintillionth
+</td>
+<td style="text-align:center;"> trillionth
+</td>
+<td>1964
+</td></tr>
+<tr>
+<td><a href="/wiki/Zepto-" title="Zepto-">zepto</a>
+</td>
+<td style="text-align:center;">z
+</td>
+<td style="text-align:left;"> 1000<sup>−7</sup>
+</td>
+<td style="text-align:left;"> <a href="/wiki/Orders_of_magnitude_(numbers)#10.E2.88.9221" title="Orders of magnitude (numbers)">10<sup>−21</sup></a>
+</td>
+<td style="text-align:left;"><span style="white-space:nowrap">0.000<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">001</span></span>
+</td>
+<td style="text-align:center;"> sextillionth
+</td>
+<td style="text-align:center;"> trilliardth
+</td>
+<td>1991
+</td></tr>
+<tr>
+<td><a href="/wiki/Yocto-" title="Yocto-">yocto</a>
+</td>
+<td style="text-align:center;">y
+</td>
+<td style="text-align:left;"> 1000<sup>−8</sup>
+</td>
+<td style="text-align:left;"> <a href="/wiki/Orders_of_magnitude_(numbers)#10.E2.88.9224" title="Orders of magnitude (numbers)">10<sup>−24</sup></a> 
+</td>
+<td style="text-align:left;"><span style="white-space:nowrap">0.000<span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">000</span><span style="margin-left:0.25em">001</span></span>
+</td>
+<td style="text-align:center;"> septillionth
+</td>
+<td style="text-align:center;"> quadrillionth
+</td>
+<td>1991
+</td></tr>
+<tr>
+<td colspan="8" style="font-size:small;background:#EEE">
+</td></tr></tbody></table>
+</td></tr></tbody></table><div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Prefixes adopted before 1960 already existed before SI. 1873 was the introduction of the <a href="/wiki/Centimetre%E2%80%93gram%E2%80%93second_system_of_units" title="Centimetre–gram–second system of units">CGS system</a>.</span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Parsed by mw2163
+Cached time: 20181004124838
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.320 seconds
+Real time usage: 0.368 seconds
+Preprocessor visited node count: 582/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 25620/2097152 bytes
+Template argument size: 214/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6223/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.195/10.000 seconds
+Lua memory usage: 11.36 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  294.870      1 -total
+ 46.74%  137.814      2 Template:Lang
+ 24.56%   72.416      1 Template:Reflist
+ 20.68%   60.981      2 Template:Cite_book
+ 13.98%   41.216      1 Template:SI_prefixes_(infobox)
+  9.48%   27.966     15 Template:Gaps
+  8.64%   25.474      1 Template:Other_uses
+  4.74%   13.969      1 Template:Wiktionary
+  3.68%   10.858      1 Template:Sister_project
+  2.66%    7.856      1 Template:Side_box
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:16839-0!canonical and timestamp 20181004124838 and revision id 862448592
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Kilo-&amp;oldid=862448592">https://en.wikipedia.org/w/index.php?title=Kilo-&amp;oldid=862448592</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:SI_prefixes" title="Category:SI prefixes">SI prefixes</a></li><li><a href="/wiki/Category:1000_(number)" title="Category:1000 (number)">1000 (number)</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Articles_containing_Greek-language_text" title="Category:Articles containing Greek-language text">Articles containing Greek-language text</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Kilo-" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Kilo-" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Kilo-" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Kilo-" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Kilo-">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Kilo-&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Kilo-&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Kilo-" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Kilo-" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Kilo-&amp;oldid=862448592" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Kilo-&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q107428" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Kilo-&amp;id=862448592" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Kilo-">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Kilo-&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Kilo-&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Kilo" hreflang="af" lang="af" title="Kilo – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%83%D9%8A%D9%84%D9%88" hreflang="ar" lang="ar" title="كيلو – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Kilo" hreflang="az" lang="az" title="Kilo – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BB%D0%BE-" hreflang="bg" lang="bg" title="Кило- – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Kilo" hreflang="br" lang="br" title="Kilo – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Kilo-" hreflang="ca" lang="ca" title="Kilo- – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Kilo" hreflang="cs" lang="cs" title="Kilo – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Kilo-" hreflang="da" lang="da" title="Kilo- – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Kilo_(Pr%C3%A4fix)" hreflang="de" lang="de" title="Kilo (Präfix) – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Kilo-" hreflang="et" lang="et" title="Kilo- – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Kilo_(prefijo)" hreflang="es" lang="es" title="Kilo (prefijo) – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Kilo" hreflang="eu" lang="eu" title="Kilo – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%A9%DB%8C%D9%84%D9%88" hreflang="fa" lang="fa" title="کیلو – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Kilo" hreflang="fr" lang="fr" title="Kilo – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Quilo-" hreflang="gl" lang="gl" title="Quilo- – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%82%AC%EB%A1%9C" hreflang="ko" lang="ko" title="킬로 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%BF%D5%AB%D5%AC%D5%B8" hreflang="hy" lang="hy" title="Կիլո – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%B0-" hreflang="hi" lang="hi" title="सहस्र- – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Kilo-" hreflang="id" lang="id" title="Kilo- – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Chilo_(prefisso)" hreflang="it" lang="it" title="Chilo (prefisso) – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%AA%D7%97%D7%99%D7%9C%D7%99%D7%95%D7%AA_%D7%91%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA_%D7%94%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA_%D7%94%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%AA#קילו" hreflang="he" lang="he" title="תחיליות במערכת היחידות הבינלאומית – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%98%E1%83%9A%E1%83%9D..." hreflang="ka" lang="ka" title="კილო... – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BB%D0%BE-" hreflang="kk" lang="kk" title="Кило- – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ku"><a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/K%C3%AElo" hreflang="ku" lang="ku" title="Kîlo – Kurdish">Kurdî</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BB%D0%BE..." hreflang="ky" lang="ky" title="Кило... – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Kilo-" hreflang="lt" lang="lt" title="Kilo- – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-ln"><a class="interlanguage-link-target" href="https://ln.wikipedia.org/wiki/Kilo" hreflang="ln" lang="ln" title="Kilo – Lingala">Lingála</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B4%BF%E0%B4%B2%E0%B5%8B-" hreflang="ml" lang="ml" title="കിലോ- – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Kilo_(SI-prefix)" hreflang="nl" lang="nl" title="Kilo (SI-prefix) – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AD" hreflang="ja" lang="ja" title="キロ – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Kilo" hreflang="no" lang="no" title="Kilo – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Kilo" hreflang="nn" lang="nn" title="Kilo – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-km"><a class="interlanguage-link-target" href="https://km.wikipedia.org/wiki/%E1%9E%82%E1%9E%B8%E1%9E%A1%E1%9E%BC" hreflang="km" lang="km" title="គីឡូ – Khmer">ភាសាខ្មែរ</a></li><li class="interlanguage-link interwiki-nds"><a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Kilo" hreflang="nds" lang="nds" title="Kilo – Low German">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Kilo" hreflang="pl" lang="pl" title="Kilo – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Quilo" hreflang="pt" lang="pt" title="Quilo – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ksh"><a class="interlanguage-link-target" href="https://ksh.wikipedia.org/wiki/Kilo" hreflang="ksh" lang="ksh" title="Kilo – Colognian">Ripoarisch</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BB%D0%BE-" hreflang="ru" lang="ru" title="Кило- – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Kilo-" hreflang="sco" lang="sco" title="Kilo- – Scots">Scots</a></li><li class="interlanguage-link interwiki-scn"><a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Chilu_(prifissu)" hreflang="scn" lang="scn" title="Chilu (prifissu) – Sicilian">Sicilianu</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Kilo" hreflang="sk" lang="sk" title="Kilo – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Kilo" hreflang="sl" lang="sl" title="Kilo – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%DA%A9%DB%8C%D9%84%DB%86-" hreflang="ckb" lang="ckb" title="کیلۆ- – Central Kurdish">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BB%D0%BE" hreflang="sr" lang="sr" title="Кило – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kilo" hreflang="fi" lang="fi" title="Kilo – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Kilo" hreflang="sv" lang="sv" title="Kilo – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-te"><a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%95%E0%B0%BF%E0%B0%B2%E0%B1%8B-" hreflang="te" lang="te" title="కిలో- – Telugu">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B4%E0%B9%82%E0%B8%A5" hreflang="th" lang="th" title="กิโล – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Kilo-" hreflang="tr" lang="tr" title="Kilo- – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9A%D1%96%D0%BB%D0%BE-" hreflang="uk" lang="uk" title="Кіло- – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%DA%A9%D9%84%D9%88" hreflang="ur" lang="ur" title="کلو – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Kil%C3%B4" hreflang="vi" lang="vi" title="Kilô – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%8D%83_(%E5%89%8D%E7%B6%B4)" hreflang="zh" lang="zh" title="千 (前綴) – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q107428#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 4 October 2018, at 12:48<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Kilo-&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.320","walltime":"0.368","ppvisitednodes":{"value":582,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":25620,"limit":2097152},"templateargumentsize":{"value":214,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6223,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  294.870      1 -total"," 46.74%  137.814      2 Template:Lang"," 24.56%   72.416      1 Template:Reflist"," 20.68%   60.981      2 Template:Cite_book"," 13.98%   41.216      1 Template:SI_prefixes_(infobox)","  9.48%   27.966     15 Template:Gaps","  8.64%   25.474      1 Template:Other_uses","  4.74%   13.969      1 Template:Wiktionary","  3.68%   10.858      1 Template:Sister_project","  2.66%    7.856      1 Template:Side_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.195","limit":"10.000"},"limitreport-memusage":{"value":11916860,"limit":52428800}},"cachereport":{"origin":"mw2163","timestamp":"20181004124838","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw2232"});});</script>
+</body>
+</html>

@@ -1,0 +1,927 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Methyl radical - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Methyl_radical","wgTitle":"Methyl radical","wgCurRevisionId":847013659,"wgRevisionId":847013659,"wgArticleId":89221,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Uses authors parameter","Articles without InChI source","Articles without KEGG source","Articles containing unverified chemical infoboxes","Chembox image size set","Astrochemistry","Free radicals","Oil refining"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Methyl_radical","wgRelevantArticleId":89221,"wgRequestId":"W7fzTArAADYAAIeOpmcAAAAB","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q6823951","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/2/26/Radical_metilo--methyl_radical.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Methyl_radical" rel="alternate"/>
+<link href="/w/index.php?title=Methyl_radical&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Methyl_radical&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Methyl_radical" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Methyl_radical rootpage-Methyl_radical skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Methyl radical</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox bordered" style="border-collapse:collapse; width:22em; text-align:left; ;">
+<caption style="text-align:center;">Methyl radical
+</caption>
+<tbody><tr>
+<td colspan="2" style="text-align:center; padding:2px;"><a class="image" href="/wiki/File:Radical_metilo--methyl_radical.png"><img alt="Radical metilo--methyl radical.png" data-file-height="98" data-file-width="113" height="105" src="//upload.wikimedia.org/wikipedia/commons/2/26/Radical_metilo--methyl_radical.png" width="121"/></a>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Names
+</th></tr>
+<tr>
+<td colspan="2" style="text-align:left;"><a href="/wiki/Chemical_nomenclature" title="Chemical nomenclature">IUPAC name</a>
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">Methyl</div>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:left;"><a href="/wiki/Chemical_nomenclature#Systematic_name" title="Chemical nomenclature">Systematic IUPAC name</a>
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;"><div style="padding:0.1em 0;line-height:1.2em;">λ<sup>3</sup>-Methyl</div></div>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:left;">Other names
+<div style="max-width:22em; word-wrap:break-word; padding-left:1.7em;">Hydrogen carbide(-III)<br/>
+Methyl radical</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Identifiers
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/CAS_Registry_Number" title="CAS Registry Number">CAS Number</a></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.commonchemistry.org"><a class="external text" href="http://www.commonchemistry.org/ChemicalDetail.aspx?ref=2229-07-4" rel="nofollow">2229-07-4</a></span><sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;">3D model (<a class="mw-redirect" href="/wiki/JSmol" title="JSmol">JSmol</a>)</div>
+</td>
+<td><div class="plainlist"><ul><li><span title="chemapps.stolaf.edu (3D interactive model)"><a class="external text" href="https://chemapps.stolaf.edu/jmol/jmol.php?model=%5BCH3%5D" rel="nofollow">Interactive image</a></span></li></ul></div>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Beilstein_database" title="Beilstein database">Beilstein Reference</a></div>
+</td>
+<td>1696831
+</td></tr>
+<tr>
+<td><a href="/wiki/ChEBI" title="ChEBI">ChEBI</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.ebi.ac.uk"><a class="external text" href="https://www.ebi.ac.uk/chebi/searchId.do?chebiId=29309" rel="nofollow">CHEBI:29309</a></span></li></ul></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/ChemSpider" title="ChemSpider">ChemSpider</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="www.chemspider.com"><a class="external text" href="http://www.chemspider.com/Chemical-Structure.2299212.html" rel="nofollow">2299212</a></span><sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Gmelin_database" title="Gmelin database">Gmelin Reference</a></div>
+</td>
+<td>57
+</td></tr>
+<tr>
+<td><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a>
+</td>
+<td><span title="www.nlm.nih.gov"><a class="external text" href="//www.nlm.nih.gov/cgi/mesh/2014/MB_cgi?mode=&amp;term=Methyl+radical" rel="nofollow">Methyl+radical</a></span>
+</td></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/PubChem" title="PubChem">PubChem</a> <abbr title="Compound ID">CID</abbr></div>
+</td>
+<td><div class="plainlist"><ul><li><span title="pubchem.ncbi.nlm.nih.gov"><a class="external text" href="https://pubchem.ncbi.nlm.nih.gov/compound/3034819" rel="nofollow">3034819</a></span></li></ul></div>
+</td></tr>
+<tr>
+<td><a href="/wiki/Unique_Ingredient_Identifier" title="Unique Ingredient Identifier">UNII</a>
+</td>
+<td><div class="plainlist"><ul><li><span title="fdasis.nlm.nih.gov"><a class="external text" href="https://fdasis.nlm.nih.gov/srs/srsdirect.jsp?regno=S19006ZD7R" rel="nofollow">S19006ZD7R</a></span><sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></li></ul></div>
+</td></tr>
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">InChI</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.5em; text-align:left;"><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">InChI=1S/CH3/h1H3<sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></div><div style="word-wrap:break-word; text-indent:-1.5em; font-size:11px; line-height:120%;">Key: WCYWZMWISLQXQU-UHFFFAOYSA-N<sup> <img alt="☑" data-file-height="600" data-file-width="600" height="7" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x" width="7"/><span style="display:none">Y</span></sup></div></div></li></ul>
+</div>
+</td></tr>
+<tr>
+<td colspan="2"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; text-align:left; font-weight:normal; background:transparent;"><a href="/wiki/Simplified_molecular-input_line-entry_system" title="Simplified molecular-input line-entry system">SMILES</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; word-break:break-all; font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"><div style="border-top:1px solid #ccc; padding:0.2em 0 0.2em 1.6em; word-wrap:break-word; text-indent:-1.5em; text-align:left; font-size:11px; line-height:120%;">[CH3]</div></li></ul>
+</div>
+</td></tr>
+<tr>
+<th colspan="2" style="background: #f8eaba; text-align: center;">Properties
+</th></tr>
+<tr>
+<td><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formula</a></div>
+</td>
+<td><span title="Carbon">C</span><span title="Hydrogen">H</span><sub>3</sub>
+</td></tr>
+<tr>
+<td><a href="/wiki/Molar_mass" title="Molar mass">Molar mass</a>
+</td>
+<td>15.04 g·mol<sup>−1</sup>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:left; background:#f8eaba;"><div style="margin:0 auto; text-align:left;"><div style="padding:0.1em 0;line-height:1.2em;">Except where otherwise noted, data are given for materials in their <a href="/wiki/Standard_state" title="Standard state">standard state</a> (at 25 °C [77 °F], 100 kPa).</div></div>
+</td></tr>
+<tr style="background:#f8eaba; border-top:2px solid transparent;">
+<td colspan="2" style="text-align:center;"><a href="/wiki/Wikipedia:Chemical_infobox#References" title="Wikipedia:Chemical infobox">Infobox references</a>
+</td></tr>
+<tr style="background:#f8eaba;">
+<td style="width:40%; max-height:1px; border-top:2px solid transparent; border-right:1px solid transparent;">
+</td>
+<td style="width:60%; max-height:1px; border-top:2px solid transparent; border-left:1px solid transparent;">
+</td></tr>
+</tbody></table>
+<p><b>Methyl</b> (also systematically named <b>trihydridocarbon</b>) is an <a href="/wiki/Organic_compound" title="Organic compound">organic compound</a> with the <a href="/wiki/Chemical_formula" title="Chemical formula">chemical formula</a> <span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">•</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span> (also written as <span class="chemf nowrap">[CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>]</span><sup>•</sup>). It is a metastable colourless gas, which is mainly produced <i>in situ</i> as a precursor to other hydrocarbons in the petroleum cracking industry. It can act as either a strong <a class="mw-redirect" href="/wiki/Oxidant" title="Oxidant">oxidant</a> or a strong <a class="mw-redirect" href="/wiki/Reductant" title="Reductant">reductant</a>, and is quite corrosive to metals.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Chemical_properties"><span class="tocnumber">1</span> <span class="toctext">Chemical properties</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Redox_behaviour"><span class="tocnumber">1.1</span> <span class="toctext">Redox behaviour</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Structure"><span class="tocnumber">1.2</span> <span class="toctext">Structure</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Chemical_reactions"><span class="tocnumber">1.3</span> <span class="toctext">Chemical reactions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Production"><span class="tocnumber">2</span> <span class="toctext">Production</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Biosynthesis"><span class="tocnumber">2.1</span> <span class="toctext">Biosynthesis</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Acetone_photolysis"><span class="tocnumber">2.2</span> <span class="toctext">Acetone photolysis</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Halomethane_photolysis"><span class="tocnumber">2.3</span> <span class="toctext">Halomethane photolysis</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Methane_oxidation"><span class="tocnumber">2.4</span> <span class="toctext">Methane oxidation</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Azomethane_pyrolysis"><span class="tocnumber">2.5</span> <span class="toctext">Azomethane pyrolysis</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#In_the_interstellar_medium"><span class="tocnumber">3</span> <span class="toctext">In the interstellar medium</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Chemical_properties">Chemical properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methyl_radical&amp;action=edit&amp;section=1" title="Edit section: Chemical properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Its first ionization potential (yielding the <a href="/wiki/Methenium" title="Methenium">methenium</a> ion, <span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>) is <span class="nowrap"><span class="sortkey" style="display:none">6982157606101026190♠</span>9.837<span style="margin-left:0.3em;margin-right:0.15em;">±</span>0.005 <a href="/wiki/Electronvolt" title="Electronvolt">eV</a></span>.<sup class="reference" id="cite_ref-Golob_1-0"><a href="#cite_note-Golob-1">[1]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Redox_behaviour">Redox behaviour</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methyl_radical&amp;action=edit&amp;section=2" title="Edit section: Redox behaviour">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The carbon centre in methyl can bond with electron-donating molecules by reacting:
+</p>
+<dl><dd><span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span><sup>•</sup> + R· → <span class="chemf nowrap">RCH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span></dd></dl>
+<p>Because of the capture of the nucleophile (R·), methyl has oxidising character. Methyl is a strong oxidant with organic chemicals. However, it is equally a strong reductant with chemicals such as water. It does not form aqueous solutions, as it reduces water to produce <a href="/wiki/Methanol" title="Methanol">methanol</a> and elemental hydrogen:
+</p>
+<dl><dd>2 <span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span><sup>•</sup> + 2 <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span> → 2 <span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>OH</span> + <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></dd></dl>
+<h3><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methyl_radical&amp;action=edit&amp;section=3" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Molecular_geometry" title="Molecular geometry">molecular geometry</a> of the methyl radical is quasi-<a href="/wiki/Trigonal_planar_molecular_geometry" title="Trigonal planar molecular geometry">trigonal planar</a>, although the energy cost of distortion to a <a href="/wiki/Trigonal_pyramidal_molecular_geometry" title="Trigonal pyramidal molecular geometry">pyramidal geometry</a> is small. Substitution of hydrogen atoms by more electronegative substituents leads to radicals with a pyramidal geometry, such as the  <a href="/wiki/Trifluoromethyl" title="Trifluoromethyl">trifluoromethyl</a> radical, CF<sub>3</sub>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Chemical_reactions">Chemical reactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methyl_radical&amp;action=edit&amp;section=4" title="Edit section: Chemical reactions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Methyl undergoes the typical chemical reactions of a radical. Below approximately 1,100 °C (2,010 °F), it rapidly dimerises to form <a href="/wiki/Ethane" title="Ethane">ethane</a>. Upon treatment with an alcohol, it converts to <a href="/wiki/Methane" title="Methane">methane</a> and either an alkoxy or hydroxyalkyl. Reduction of methyl gives methane. When heated above, at most, 1,400 °C (2,550 °F), methyl decomposes to produce <a class="mw-redirect" href="/wiki/Methylidyne" title="Methylidyne">methylidyne</a> and elemental hydrogen, or to produce <a class="mw-redirect" href="/wiki/Methylene_radical" title="Methylene radical">methylene</a> and atomic hydrogen:
+</p>
+<dl><dd><span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">•</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span> → CH<sup>•</sup> + <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></dd>
+<dd><span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">•</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span> → <span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> + H<sup>•</sup></dd></dl>
+<p>Methyl is very corrosive to metals, forming methylated metal compounds:
+</p>
+<dl><dd>M + <i>n</i> <span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">•</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span> → M(CH<sub>3</sub>)<sub><i>n</i></sub></dd></dl>
+<h2><span class="mw-headline" id="Production">Production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methyl_radical&amp;action=edit&amp;section=5" title="Edit section: Production">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Biosynthesis">Biosynthesis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methyl_radical&amp;action=edit&amp;section=6" title="Edit section: Biosynthesis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Some <a href="/wiki/Radical_SAM" title="Radical SAM">radical SAM</a> enzymes generate methyl radicals by reduction of S-adenosylmethionine.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Acetone_photolysis">Acetone photolysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methyl_radical&amp;action=edit&amp;section=7" title="Edit section: Acetone photolysis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It can be produced by the ultraviolet photodissociation of <a href="/wiki/Acetone" title="Acetone">acetone</a> vapour at 193 nm:<sup class="reference" id="cite_ref-Hall1991_4-0"><a href="#cite_note-Hall1991-4">[4]</a></sup>
+</p>
+<dl><dd><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span>O</span> → CO + 2 <span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">•</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span></dd></dl>
+<h3><span class="mw-headline" id="Halomethane_photolysis">Halomethane photolysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methyl_radical&amp;action=edit&amp;section=8" title="Edit section: Halomethane photolysis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is also produced by the ultraviolet dissociation of <a href="/wiki/Halomethane" title="Halomethane">halomethanes</a>:
+</p>
+<dl><dd><span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>X</span> → X<sup>•</sup> + <span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">•</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span></dd></dl>
+<h3><span class="mw-headline" id="Methane_oxidation">Methane oxidation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methyl_radical&amp;action=edit&amp;section=9" title="Edit section: Methane oxidation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/Atmospheric_methane#Removal_processes" title="Atmospheric methane">Atmospheric methane § Removal processes</a></div>
+<p>It can also be produced by the reaction of <a href="/wiki/Methane" title="Methane">methane</a> with the <a href="/wiki/Hydroxyl_radical" title="Hydroxyl radical">hydroxyl radical</a>: 
+</p>
+<dl><dd>OH<sup>•</sup> + CH<sub>4</sub> → CH<sub>3</sub><sup>•</sup> + H<sub>2</sub>O</dd></dl>
+<p>This process begins the major removal mechanism of methane from the atmosphere.  The reaction occurs in the <a href="/wiki/Troposphere" title="Troposphere">troposphere</a> or <a href="/wiki/Stratosphere" title="Stratosphere">stratosphere</a>. In addition to being the largest known sink for atmospheric methane, this reaction is one of the most important sources of water vapor in the upper atmosphere.
+</p><p>This reaction in the <a href="/wiki/Troposphere" title="Troposphere">troposphere</a> gives a methane lifetime of 9.6 years. Two more minor sinks are soil sinks (160 year lifetime) and stratospheric loss by reaction with <b>·</b>OH, <b>·</b>Cl and <b>·</b>O<sup>1</sup>D in the stratosphere (120 year lifetime), giving a net lifetime of 8.4 years.<sup class="reference" id="cite_ref-Trace_Gases_5-0"><a href="#cite_note-Trace_Gases-5">[5]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Azomethane_pyrolysis">Azomethane pyrolysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methyl_radical&amp;action=edit&amp;section=10" title="Edit section: Azomethane pyrolysis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Methyl radicals can also be obtained by <a href="/wiki/Pyrolysis" title="Pyrolysis">pyrolysis</a> of <a href="/wiki/Azo_compound#Alkyl_azo_compounds" title="Azo compound">azomethane</a>, CH<sub>3</sub>-N=N-CH<sub>3</sub>, in a low-pressure system.
+</p>
+<h2><span class="mw-headline" id="In_the_interstellar_medium">In the interstellar medium</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methyl_radical&amp;action=edit&amp;section=11" title="Edit section: In the interstellar medium">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Methyl was discovered in <a href="/wiki/Interstellar_medium" title="Interstellar medium">interstellar medium</a> in 2000 by a team led by Helmut Feuchtgruber who detected it using the <a href="/wiki/Infrared_Space_Observatory" title="Infrared Space Observatory">Infrared Space Observatory</a>. It was first detected in molecular clouds toward the centre of the Milky Way.<sup class="reference" id="cite_ref-ESA2000_6-0"><a href="#cite_note-ESA2000-6">[6]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methyl_radical&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Golob-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Golob_1-0">^</a></b></span> <span class="reference-text">
+  L. Golob, N. Jonathan, A. Morris, M. Okuda, K.J. Ross (1972), "The first ionization potential of the methyl radical as determined by photoelectron spectroscopy". Journal of Electron Spectroscopy and Related Phenomena, volume 1, issue 5, pages 506-508 <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1016%2F0368-2048%2872%2980022-7" rel="nofollow">10.1016/0368-2048(72)80022-7</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Anslyn E.V. and Dougherty D.A., <i>Modern Physical Organic Chemistry</i> (University Science Books, 2006), p.57</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ribbe, M. W.; Hu, Y.; Hodgson, K. O.; Hedman, B., (2014). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3999185" rel="nofollow">"Biosynthesis of Nitrogenase Metalloclusters"</a>. <i>Chemical Reviews</i>. <b>114</b>: 4063–4080. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fcr400463x" rel="nofollow">10.1021/cr400463x</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3999185" rel="nofollow">3999185</a></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemical+Reviews&amp;rft.atitle=Biosynthesis+of+Nitrogenase+Metalloclusters&amp;rft.volume=114&amp;rft.pages=4063-4080&amp;rft.date=2014&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3999185&amp;rft_id=info%3Adoi%2F10.1021%2Fcr400463x&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3999185&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethyl+radical"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>) </span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Hall1991-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hall1991_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hall, G. E.; Vanden Bout, D.; Sears, Trevor J. (1991). "Photodissociation of acetone at 193 nm: Rotational- and vibrational-state distributions of methyl fragments by diode laser absorption/gain spectroscopy". <i>The Journal of Chemical Physics</i>. <a class="mw-redirect" href="/wiki/AIP_Publishing" title="AIP Publishing">AIP Publishing</a>. <b>94</b> (6): 4182. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1991JChPh..94.4182H" rel="nofollow">1991JChPh..94.4182H</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1063%2F1.460741" rel="nofollow">10.1063/1.460741</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Chemical+Physics&amp;rft.atitle=Photodissociation+of+acetone+at+193+nm%3A+Rotational-+and+vibrational-state+distributions+of+methyl+fragments+by+diode+laser+absorption%2Fgain+spectroscopy&amp;rft.volume=94&amp;rft.issue=6&amp;rft.pages=4182&amp;rft.date=1991&amp;rft_id=info%3Adoi%2F10.1063%2F1.460741&amp;rft_id=info%3Abibcode%2F1991JChPh..94.4182H&amp;rft.aulast=Hall&amp;rft.aufirst=G.+E.&amp;rft.au=Vanden+Bout%2C+D.&amp;rft.au=Sears%2C+Trevor+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethyl+radical"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Trace_Gases-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Trace_Gases_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.grida.no/climate/ipcc_tar/wg1/134.htm#4211" rel="nofollow">"Trace Gases: Current Observations, Trends, and Budgets"</a>. <i>Climate Change 2001, IPCC Third Assessment Report</i>. IPCC/United Nations Environment Programme.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Climate+Change+2001%2C+IPCC+Third+Assessment+Report&amp;rft.atitle=Trace+Gases%3A+Current+Observations%2C+Trends%2C+and+Budgets&amp;rft_id=http%3A%2F%2Fwww.grida.no%2Fclimate%2Fipcc_tar%2Fwg1%2F134.htm%234211&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethyl+radical"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-ESA2000-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-ESA2000_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://sci.esa.int/science-e/www/object/index.cfm?fobjectid=21831" rel="nofollow">"ISO detects a new molecule in interstellar space"</a>. <i>Science &amp; Technology</i>. <a href="/wiki/European_Space_Agency" title="European Space Agency">European Space Agency</a><span class="reference-accessdate">. Retrieved <span class="nowrap">17 June</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Science+%26+Technology&amp;rft.atitle=ISO+detects+a+new+molecule+in+interstellar+space&amp;rft_id=http%3A%2F%2Fsci.esa.int%2Fscience-e%2Fwww%2Fobject%2Findex.cfm%3Ffobjectid%3D21831&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethyl+radical"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<div aria-labelledby="Molecules_detected_in_outer_space" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Molecules_detected_in_outer_space" title="Template:Molecules detected in outer space"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Molecules_detected_in_outer_space" title="Template talk:Molecules detected in outer space"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Molecules_detected_in_outer_space&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Molecules_detected_in_outer_space" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules" title="List of interstellar and circumstellar molecules">Molecules detected in outer space</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Molecule" title="Molecule">Molecules</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Diatomic_molecule" title="Diatomic molecule">Diatomic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_monochloride" title="Aluminium monochloride">Aluminium monochloride</a></li>
+<li><a href="/wiki/Aluminium_monofluoride" title="Aluminium monofluoride">Aluminium monofluoride</a></li>
+<li><a href="/wiki/Aluminium(II)_oxide" title="Aluminium(II) oxide">Aluminium monoxide</a></li>
+<li><a href="/wiki/Argonium" title="Argonium">Argonium</a></li>
+<li><a href="/wiki/Carbon_monophosphide" title="Carbon monophosphide">Carbon monophosphide</a></li>
+<li><a href="/wiki/Carbon_monosulfide" title="Carbon monosulfide">Carbon monosulfide</a></li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a></li>
+<li><a href="/wiki/Silicon_carbide" title="Silicon carbide">Carborundum</a></li>
+<li><a href="/wiki/Cyanogen" title="Cyanogen">Cyanogen</a> radical</li>
+<li><a href="/wiki/Diatomic_carbon" title="Diatomic carbon">Diatomic carbon</a></li>
+<li><a class="new" href="/w/index.php?title=Fluoromethylidynium&amp;action=edit&amp;redlink=1" title="Fluoromethylidynium (page does not exist)">Fluoromethylidynium</a></li>
+<li><a href="/wiki/Hydrogen_chloride" title="Hydrogen chloride">Hydrogen chloride</a></li>
+<li><a href="/wiki/Hydrogen_fluoride" title="Hydrogen fluoride">Hydrogen fluoride</a></li>
+<li><a href="/wiki/Hydrogen" title="Hydrogen">Hydrogen</a> (molecular)</li>
+<li><a href="/wiki/Hydroxyl_radical" title="Hydroxyl radical">Hydroxyl radical</a></li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">Iron(II) oxide</a></li>
+<li><a class="new" href="/w/index.php?title=Magnesium_monohydride_cation&amp;action=edit&amp;redlink=1" title="Magnesium monohydride cation (page does not exist)">Magnesium monohydride cation</a></li>
+<li><a href="/wiki/Methylidyne_radical" title="Methylidyne radical">Methylidyne radical</a></li>
+<li><a href="/wiki/Nitric_oxide" title="Nitric oxide">Nitric oxide</a></li>
+<li><a href="/wiki/Nitrogen" title="Nitrogen">Nitrogen</a> (molecular)</li>
+<li><a class="mw-redirect" href="/wiki/Interstellar_nitrogen_monohydride" title="Interstellar nitrogen monohydride">Nitrogen monohydride</a></li>
+<li><a class="mw-redirect" href="/wiki/Mononitrogen_monosulfide" title="Mononitrogen monosulfide">Nitrogen sulfide</a></li>
+<li><a href="/wiki/Oxygen" title="Oxygen">Oxygen</a> (molecular)</li>
+<li><a class="new" href="/w/index.php?title=Phosphorus_monoxide&amp;action=edit&amp;redlink=1" title="Phosphorus monoxide (page does not exist)">Phosphorus monoxide</a></li>
+<li><a href="/wiki/Phosphorus_mononitride" title="Phosphorus mononitride">Phosphorus mononitride</a></li>
+<li><a href="/wiki/Potassium_chloride" title="Potassium chloride">Potassium chloride</a></li>
+<li><a href="/wiki/Silicon_carbide" title="Silicon carbide">Silicon carbide</a></li>
+<li><a href="/wiki/Silicon_nitride#Production" title="Silicon nitride">Silicon mononitride</a></li>
+<li><a href="/wiki/Sulfanyl" title="Sulfanyl">Silicon monoxide</a></li>
+<li><a href="/wiki/Silicon_monosulfide" title="Silicon monosulfide">Silicon monosulfide</a></li>
+<li><a href="/wiki/Sodium_chloride" title="Sodium chloride">Sodium chloride</a></li>
+<li><a href="/wiki/Sodium_iodide" title="Sodium iodide">Sodium iodide</a></li>
+<li><a href="/wiki/Sulfanyl" title="Sulfanyl">Sulfur monohydride</a></li>
+<li><a href="/wiki/Sulfur_monoxide" title="Sulfur monoxide">Sulfur monoxide</a></li>
+<li><a href="/wiki/Titanium_oxide" title="Titanium oxide">Titanium oxide</a></li></ul>
+</div></td><td class="navbox-image" rowspan="9" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/Nitrous_oxide" title="Nitrous oxide"><img alt="Nitrous-oxide-3D-balls.png" data-file-height="441" data-file-width="1100" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nitrous-oxide-3D-balls.png/60px-Nitrous-oxide-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nitrous-oxide-3D-balls.png/90px-Nitrous-oxide-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nitrous-oxide-3D-balls.png/120px-Nitrous-oxide-3D-balls.png 2x" width="60"/></a> <br/><br/><br/><br/> <a href="/wiki/Ethanol" title="Ethanol"><img alt="Ethanol-3D-balls.png" data-file-height="754" data-file-width="1100" height="41" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ethanol-3D-balls.png/60px-Ethanol-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ethanol-3D-balls.png/90px-Ethanol-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ethanol-3D-balls.png/120px-Ethanol-3D-balls.png 2x" width="60"/></a> <br/><br/><br/><br/> <a href="/wiki/Buckminsterfullerene" title="Buckminsterfullerene"><img alt="Buckminsterfullerene-perspective-3D-balls.png" data-file-height="1100" data-file-width="1056" height="63" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Buckminsterfullerene-perspective-3D-balls.png/60px-Buckminsterfullerene-perspective-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Buckminsterfullerene-perspective-3D-balls.png/90px-Buckminsterfullerene-perspective-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Buckminsterfullerene-perspective-3D-balls.png/120px-Buckminsterfullerene-perspective-3D-balls.png 2x" width="60"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Triatomic_molecule" title="Triatomic molecule">Triatomic</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_hydroxide" title="Aluminium hydroxide">Aluminium hydroxide</a></li>
+<li><a class="new" href="/w/index.php?title=Aluminium_isocyanide&amp;action=edit&amp;redlink=1" title="Aluminium isocyanide (page does not exist)">Aluminium isocyanide</a></li>
+<li><a href="/wiki/Amino_radical" title="Amino radical">Amino radical</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></li>
+<li><a href="/wiki/Carbonyl_sulfide" title="Carbonyl sulfide">Carbonyl sulfide</a></li>
+<li><a class="new" href="/w/index.php?title=CCP_radical&amp;action=edit&amp;redlink=1" title="CCP radical (page does not exist)">CCP radical</a></li>
+<li><a href="/wiki/Halonium_ion" title="Halonium ion">Chloronium</a></li>
+<li><a href="/wiki/Diazenylium" title="Diazenylium">Diazenylium</a></li>
+<li><a href="/wiki/Dicarbon_monoxide" title="Dicarbon monoxide">Dicarbon monoxide</a></li>
+<li><a class="new" href="/w/index.php?title=Disilicon_carbide&amp;action=edit&amp;redlink=1" title="Disilicon carbide (page does not exist)">Disilicon carbide</a></li>
+<li><a href="/wiki/Ethynyl_radical" title="Ethynyl radical">Ethynyl radical</a></li>
+<li><a class="new" href="/w/index.php?title=Formyl_radical&amp;action=edit&amp;redlink=1" title="Formyl radical (page does not exist)">Formyl radical</a></li>
+<li><a href="/wiki/Hydrogen_cyanide" title="Hydrogen cyanide">Hydrogen cyanide</a> (HCN)</li>
+<li><a href="/wiki/Hydrogen_isocyanide" title="Hydrogen isocyanide">Hydrogen isocyanide</a> (HNC)</li>
+<li><a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">Hydrogen sulfide</a></li>
+<li><a href="/wiki/Hydroperoxyl" title="Hydroperoxyl">Hydroperoxyl</a></li>
+<li><a class="new" href="/w/index.php?title=Iron_cyanide&amp;action=edit&amp;redlink=1" title="Iron cyanide (page does not exist)">Iron cyanide</a></li>
+<li><a class="new" href="/w/index.php?title=Isoformyl&amp;action=edit&amp;redlink=1" title="Isoformyl (page does not exist)">Isoformyl</a></li>
+<li><a class="new" href="/w/index.php?title=Magnesium_cyanide&amp;action=edit&amp;redlink=1" title="Magnesium cyanide (page does not exist)">Magnesium cyanide</a></li>
+<li><a class="new" href="/w/index.php?title=Magnesium_isocyanide&amp;action=edit&amp;redlink=1" title="Magnesium isocyanide (page does not exist)">Magnesium isocyanide</a></li>
+<li><a href="/wiki/Methylene_(compound)" title="Methylene (compound)">Methylene radical</a></li>
+<li><a href="/wiki/Diazenylium" title="Diazenylium">N<sub>2</sub>H<sup>+</sup></a></li>
+<li><a href="/wiki/Nitrous_oxide" title="Nitrous oxide">Nitrous oxide</a></li>
+<li><a href="/wiki/Nitroxyl" title="Nitroxyl">Nitroxyl</a></li>
+<li><a href="/wiki/Ozone" title="Ozone">Ozone</a></li>
+<li><a href="/wiki/Methylidynephosphane" title="Methylidynephosphane">Phosphaethyne</a></li>
+<li><a href="/wiki/Potassium_cyanide" title="Potassium cyanide">Potassium cyanide</a></li>
+<li><a href="/wiki/Trihydrogen_cation" title="Trihydrogen cation">Protonated molecular hydrogen</a></li>
+<li><a href="/wiki/Sodium_cyanide" title="Sodium cyanide">Sodium cyanide</a></li>
+<li><a href="/wiki/Sodium_hydroxide" title="Sodium hydroxide">Sodium hydroxide</a></li>
+<li><a class="new" href="/w/index.php?title=Silicon_carbonitride&amp;action=edit&amp;redlink=1" title="Silicon carbonitride (page does not exist)">Silicon carbonitride</a></li>
+<li><a class="new" href="/w/index.php?title=C-Silicon_dicarbide&amp;action=edit&amp;redlink=1" title="C-Silicon dicarbide (page does not exist)">c-Silicon dicarbide</a></li>
+<li><a class="new" href="/w/index.php?title=SiNC&amp;action=edit&amp;redlink=1" title="SiNC (page does not exist)">SiNC</a></li>
+<li><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">Sulfur dioxide</a></li>
+<li><a class="new" href="/w/index.php?title=Thioformyl&amp;action=edit&amp;redlink=1" title="Thioformyl (page does not exist)">Thioformyl</a></li>
+<li><a href="/wiki/Thioxoethenylidene" title="Thioxoethenylidene">Thioxoethenylidene</a></li>
+<li><a href="/wiki/Titanium_dioxide" title="Titanium dioxide">Titanium dioxide</a></li>
+<li><a href="/wiki/Tricarbon" title="Tricarbon">Tricarbon</a></li>
+<li><a href="/wiki/Water" title="Water">Water</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Four<br/>atoms</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetylene" title="Acetylene">Acetylene</a></li>
+<li><a href="/wiki/Ammonia" title="Ammonia">Ammonia</a></li>
+<li><a href="/wiki/Isocyanic_acid" title="Isocyanic acid">Cyanic acid</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Cyanoethynyl</a></li>
+<li><a class="new" href="/w/index.php?title=Cyclopropynylidyne&amp;action=edit&amp;redlink=1" title="Cyclopropynylidyne (page does not exist)">Cyclopropynylidyne</a></li>
+<li><a href="/wiki/Formaldehyde" title="Formaldehyde">Formaldehyde</a></li>
+<li><a href="/wiki/Fulminic_acid" title="Fulminic acid">Fulminic acid</a></li>
+<li><a class="new" href="/w/index.php?title=HCCN&amp;action=edit&amp;redlink=1" title="HCCN (page does not exist)">HCCN</a></li>
+<li><a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">Hydrogen peroxide</a></li>
+<li><a class="new" href="/w/index.php?title=Hydromagnesium_isocyanide&amp;action=edit&amp;redlink=1" title="Hydromagnesium isocyanide (page does not exist)">Hydromagnesium isocyanide</a></li>
+<li><a href="/wiki/Isocyanic_acid" title="Isocyanic acid">Isocyanic acid</a></li>
+<li><a href="/wiki/Thiocyanic_acid" title="Thiocyanic acid">Isothiocyanic acid</a></li>
+<li><a class="new" href="/w/index.php?title=Ketenyl&amp;action=edit&amp;redlink=1" title="Ketenyl (page does not exist)">Ketenyl</a></li>
+<li><a class="new" href="/w/index.php?title=Methylene_amidogen&amp;action=edit&amp;redlink=1" title="Methylene amidogen (page does not exist)">Methylene amidogen</a></li>
+<li><a class="mw-selflink selflink">Methyl radical</a></li>
+<li><a href="/wiki/Propynylidyne" title="Propynylidyne">Propynylidyne</a></li>
+<li><a class="mw-redirect" href="/wiki/Protonate" title="Protonate">Protonated</a> <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a></li>
+<li><a class="mw-redirect" href="/wiki/Protonate" title="Protonate">Protonated</a> <a href="/wiki/Hydrogen_cyanide" title="Hydrogen cyanide">hydrogen cyanide</a></li>
+<li><a class="new" href="/w/index.php?title=Silicon_tricarbide&amp;action=edit&amp;redlink=1" title="Silicon tricarbide (page does not exist)">Silicon tricarbide</a></li>
+<li><a href="/wiki/1,3,5-Trithiane" title="1,3,5-Trithiane">Thioformaldehyde</a></li>
+<li><a href="/wiki/Tricarbon_monoxide" title="Tricarbon monoxide">Tricarbon monoxide</a></li>
+<li><a class="mw-redirect" href="/wiki/Tricarbon_sulfide" title="Tricarbon sulfide">Tricarbon sulfide</a></li>
+<li><a href="/wiki/Thiocyanic_acid" title="Thiocyanic acid">Thiocyanic acid</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Five<br/>atoms</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ammonium" title="Ammonium">Ammonium</a> ion</li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Butadiynyl</a></li>
+<li><a href="/wiki/Carbodiimide" title="Carbodiimide">Carbodiimide</a></li>
+<li><a href="/wiki/Cyanamide" title="Cyanamide">Cyanamide</a></li>
+<li><a href="/wiki/Cyanoacetylene" title="Cyanoacetylene">Cyanoacetylene</a></li>
+<li><a class="new" href="/w/index.php?title=Cyanoformaldehyde&amp;action=edit&amp;redlink=1" title="Cyanoformaldehyde (page does not exist)">Cyanoformaldehyde</a></li>
+<li><a href="/wiki/Cyanomethyl" title="Cyanomethyl">Cyanomethyl</a></li>
+<li><a href="/wiki/Cyclopropenylidene" title="Cyclopropenylidene">Cyclopropenylidene</a></li>
+<li><a href="/wiki/Formic_acid" title="Formic acid">Formic acid</a></li>
+<li><a class="new" href="/w/index.php?title=Isocyanoacetylene&amp;action=edit&amp;redlink=1" title="Isocyanoacetylene (page does not exist)">Isocyanoacetylene</a></li>
+<li><a href="/wiki/Ketene" title="Ketene">Ketene</a></li>
+<li><a href="/wiki/Methane" title="Methane">Methane</a></li>
+<li><a class="mw-redirect" href="/wiki/Methoxy" title="Methoxy">Methoxy radical</a></li>
+<li><a class="new" href="/w/index.php?title=Methylenimine&amp;action=edit&amp;redlink=1" title="Methylenimine (page does not exist)">Methylenimine</a></li>
+<li><a class="new" href="/w/index.php?title=Propadienylidene&amp;action=edit&amp;redlink=1" title="Propadienylidene (page does not exist)">Propadienylidene</a></li>
+<li><a class="mw-redirect" href="/wiki/Protonate" title="Protonate">Protonated</a> <a href="/wiki/Formaldehyde" title="Formaldehyde">formaldehyde</a></li>
+<li><a class="new" href="/w/index.php?title=Protonated_formaldehyde&amp;action=edit&amp;redlink=1" title="Protonated formaldehyde (page does not exist)">Protonated formaldehyde</a></li>
+<li><a href="/wiki/Silane" title="Silane">Silane</a></li>
+<li><a href="/wiki/Graphene#Silicon_carbide" title="Graphene">Silicon-carbide cluster</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Six<br/>atoms</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetonitrile" title="Acetonitrile">Acetonitrile</a></li>
+<li><a class="new" href="/w/index.php?title=Cyanobutadiynyl_radical&amp;action=edit&amp;redlink=1" title="Cyanobutadiynyl radical (page does not exist)">Cyanobutadiynyl radical</a></li>
+<li><a class="new" href="/w/index.php?title=E-Cyanomethanimine&amp;action=edit&amp;redlink=1" title="E-Cyanomethanimine (page does not exist)">E-Cyanomethanimine</a></li>
+<li><a href="/wiki/Cyclopropenone" title="Cyclopropenone">Cyclopropenone</a></li>
+<li><a href="/wiki/Diacetylene" title="Diacetylene">Diacetylene</a></li>
+<li><a href="/wiki/Ethylene" title="Ethylene">Ethylene</a></li>
+<li><a href="/wiki/Formamide" title="Formamide">Formamide</a></li>
+<li><a class="new" href="/w/index.php?title=HC4N&amp;action=edit&amp;redlink=1" title="HC4N (page does not exist)">HC<sub>4</sub>N</a></li>
+<li><a href="/wiki/Ketenimine" title="Ketenimine">Ketenimine</a></li>
+<li><a href="/wiki/Methanethiol" title="Methanethiol">Methanethiol</a></li>
+<li><a href="/wiki/Methanol" title="Methanol">Methanol</a></li>
+<li><a href="/wiki/Methyl_isocyanide" title="Methyl isocyanide">Methyl isocyanide</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Pentynylidyne</a></li>
+<li><a href="/wiki/Propynal" title="Propynal">Propynal</a></li>
+<li><a class="mw-redirect" href="/wiki/Protonate" title="Protonate">Protonated</a> <a href="/wiki/Cyanoacetylene" title="Cyanoacetylene">cyanoacetylene</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Seven<br/>atoms</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetaldehyde" title="Acetaldehyde">Acetaldehyde</a></li>
+<li><a href="/wiki/Acrylonitrile" title="Acrylonitrile">Acrylonitrile</a>
+<ul><li><a class="mw-redirect" href="/wiki/Vinyl_cyanide" title="Vinyl cyanide">Vinyl cyanide</a></li></ul></li>
+<li><a href="/wiki/Cyanopolyyne" title="Cyanopolyyne">Cyanodiacetylene</a></li>
+<li><a href="/wiki/Ethylene_oxide" title="Ethylene oxide">Ethylene oxide</a></li>
+<li><a href="/wiki/Hexatriynyl_radical" title="Hexatriynyl radical">Hexatriynyl radical</a></li>
+<li><a href="/wiki/Propyne" title="Propyne">Methylacetylene</a></li>
+<li><a href="/wiki/Methylamine" title="Methylamine">Methylamine</a></li>
+<li><a href="/wiki/Methyl_isocyanate" title="Methyl isocyanate">Methyl isocyanate</a></li>
+<li><a href="/wiki/Vinyl_alcohol" title="Vinyl alcohol">Vinyl alcohol</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Eight<br/>atoms</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetic_acid" title="Acetic acid">Acetic acid</a></li>
+<li><a href="/wiki/Aminoacetonitrile" title="Aminoacetonitrile">Aminoacetonitrile</a></li>
+<li><a class="new" href="/w/index.php?title=Cyanoallene&amp;action=edit&amp;redlink=1" title="Cyanoallene (page does not exist)">Cyanoallene</a></li>
+<li><a href="/wiki/Ethanimine" title="Ethanimine">Ethanimine</a></li>
+<li><a href="/wiki/Glycolaldehyde" title="Glycolaldehyde">Glycolaldehyde</a></li>
+<li><a class="new" href="/w/index.php?title=Heptatrienyl_radical&amp;action=edit&amp;redlink=1" title="Heptatrienyl radical (page does not exist)">Heptatrienyl radical</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Hexapentaenylidene</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Methylcyanoacetylene</a></li>
+<li><a href="/wiki/Methyl_formate" title="Methyl formate">Methyl formate</a></li>
+<li><a href="/wiki/Acrolein" title="Acrolein">Propenal</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Nine<br/>atoms</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetamide" title="Acetamide">Acetamide</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Cyanohexatriyne</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Cyanotriacetylene</a></li>
+<li><a href="/wiki/Dimethyl_ether" title="Dimethyl ether">Dimethyl ether</a></li>
+<li><a href="/wiki/Ethanol" title="Ethanol">Ethanol</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Methyldiacetylene</a></li>
+<li><a href="/wiki/Octatetraynyl_radical" title="Octatetraynyl radical">Octatetraynyl radical</a></li>
+<li><a href="/wiki/Propene" title="Propene">Propene</a></li>
+<li><a href="/wiki/Propionitrile" title="Propionitrile">Propionitrile</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Ten<br/>atoms<br/>or more</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetone" title="Acetone">Acetone</a></li>
+<li><a href="/wiki/Benzene" title="Benzene">Benzene</a></li>
+<li><a href="/wiki/Benzonitrile" title="Benzonitrile">Benzonitrile</a></li>
+<li><a href="/wiki/Buckminsterfullerene" title="Buckminsterfullerene">Buckminsterfullerene</a> (C<sub>60</sub> fullerene, buckyball)</li>
+<li><a href="/wiki/C70_fullerene" title="C70 fullerene">C<sub>70</sub> fullerene</a></li>
+<li><a href="/wiki/Cyanopolyyne" title="Cyanopolyyne">Cyanodecapentayne</a></li>
+<li><a href="/wiki/Cyanopolyyne" title="Cyanopolyyne">Cyanopentaacetylene</a></li>
+<li><a href="/wiki/Cyanopolyyne" title="Cyanopolyyne">Cyanotetra-acetylene</a></li>
+<li><a href="/wiki/Ethylene_glycol" title="Ethylene glycol">Ethylene glycol</a></li>
+<li><a href="/wiki/Ethyl_formate" title="Ethyl formate">Ethyl formate</a></li>
+<li><a href="/wiki/Methyl_acetate" title="Methyl acetate">Methyl acetate</a></li>
+<li><a href="/wiki/Cyanopolyyne" title="Cyanopolyyne">Methyl-cyano-diacetylene</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Methyltriacetylene</a></li>
+<li><a href="/wiki/Propionaldehyde" title="Propionaldehyde">Propanal</a></li>
+<li><a href="/wiki/Butyronitrile" title="Butyronitrile">n-Propyl cyanide</a></li>
+<li><a href="/wiki/Pyrimidine" title="Pyrimidine">Pyrimidine</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Deuterium" title="Deuterium">Deuterated</a><br/>molecules</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ammonia" title="Ammonia">Ammonia</a></li>
+<li><a href="/wiki/Ammonium" title="Ammonium">Ammonium</a> ion</li>
+<li><a href="/wiki/Formaldehyde" title="Formaldehyde">Formaldehyde</a></li>
+<li><a href="/wiki/Interstellar_formaldehyde#Interstellar_reactions" title="Interstellar formaldehyde">Formyl radical</a></li>
+<li><a href="/wiki/Heavy_water" title="Heavy water">Heavy water</a></li>
+<li><a href="/wiki/Hydrogen_cyanide" title="Hydrogen cyanide">Hydrogen cyanide</a></li>
+<li><a href="/wiki/Hydrogen_deuteride" title="Hydrogen deuteride">Hydrogen deuteride</a></li>
+<li><a href="/wiki/Hydrogen_isocyanide" title="Hydrogen isocyanide">Hydrogen isocyanide</a></li>
+<li><a href="/wiki/Propyne" title="Propyne">Methylacetylene</a></li>
+<li><a class="new" href="/w/index.php?title=N2D%2B&amp;action=edit&amp;redlink=1" title="N2D+ (page does not exist)">N<sub>2</sub>D<sup>+</sup></a></li>
+<li><a href="/wiki/Trihydrogen_cation" title="Trihydrogen cation">Trihydrogen cation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Unconfirmed</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthracene" title="Anthracene">Anthracene</a></li>
+<li><a href="/wiki/Dihydroxyacetone" title="Dihydroxyacetone">Dihydroxyacetone</a></li>
+<li><a href="/wiki/Methoxyethane" title="Methoxyethane">Ethyl methyl ether</a></li>
+<li><a href="/wiki/Glycine" title="Glycine">Glycine</a></li>
+<li><a href="/wiki/Graphene" title="Graphene">Graphene</a></li>
+<li><a class="new" href="/w/index.php?title=H2NCO%2B&amp;action=edit&amp;redlink=1" title="H2NCO+ (page does not exist)">H<sub>2</sub>NCO<sup>+</sup></a></li>
+<li><a href="/wiki/Carbon" title="Carbon">Linear C<sub>5</sub></a></li>
+<li><a href="/wiki/Naphthalene" title="Naphthalene">Naphthalene cation</a></li>
+<li><a href="/wiki/Phosphine" title="Phosphine">Phosphine</a></li>
+<li><a href="/wiki/Pyrene" title="Pyrene">Pyrene</a></li>
+<li><a class="mw-redirect" href="/wiki/Silylidine" title="Silylidine">Silylidine</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#See_also" title="List of interstellar and circumstellar molecules">Related</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abiogenesis" title="Abiogenesis">Abiogenesis</a></li>
+<li><a href="/wiki/Astrobiology" title="Astrobiology">Astrobiology</a></li>
+<li><a href="/wiki/Astrochemistry" title="Astrochemistry">Astrochemistry</a></li>
+<li><a href="/wiki/Atomic_and_molecular_astrophysics" title="Atomic and molecular astrophysics">Atomic and molecular astrophysics</a></li>
+<li><a href="/wiki/Chemical_formula" title="Chemical formula">Chemical formula</a></li>
+<li><a href="/wiki/Circumstellar_envelope" title="Circumstellar envelope">Circumstellar envelope</a></li>
+<li><a href="/wiki/Cosmic_dust" title="Cosmic dust">Cosmic dust</a></li>
+<li><a href="/wiki/Cosmic_ray" title="Cosmic ray">Cosmic ray</a></li>
+<li><a href="/wiki/Cosmochemistry" title="Cosmochemistry">Cosmochemistry</a></li>
+<li><a class="mw-redirect" href="/wiki/Diffuse_interstellar_band" title="Diffuse interstellar band">Diffuse interstellar band</a></li>
+<li><a href="/wiki/Earliest_known_life_forms" title="Earliest known life forms">Earliest known life forms</a></li>
+<li><a href="/wiki/Extraterrestrial_life" title="Extraterrestrial life">Extraterrestrial life</a></li>
+<li><a href="/wiki/Extraterrestrial_liquid_water" title="Extraterrestrial liquid water">Extraterrestrial liquid water</a></li>
+<li><a href="/wiki/Forbidden_mechanism" title="Forbidden mechanism">Forbidden mechanism</a></li>
+<li><a href="/wiki/Helium_hydride_ion" title="Helium hydride ion">Helium hydride ion</a></li>
+<li><a href="/wiki/Homochirality" title="Homochirality">Homochirality</a></li>
+<li><a href="/wiki/Intergalactic_dust" title="Intergalactic dust">Intergalactic dust</a></li>
+<li><a href="/wiki/Interplanetary_medium" title="Interplanetary medium">Interplanetary medium</a></li>
+<li><a href="/wiki/Interstellar_medium" title="Interstellar medium">Interstellar medium</a></li>
+<li><a href="/wiki/Photodissociation_region" title="Photodissociation region">Photodissociation region</a></li>
+<li><a class="mw-redirect" href="/wiki/Iron%E2%80%93sulfur_world_theory" title="Iron–sulfur world theory">Iron–sulfur world theory</a></li>
+<li><a href="/wiki/Kerogen" title="Kerogen">Kerogen</a></li>
+<li><a href="/wiki/Molecules_in_stars" title="Molecules in stars">Molecules in stars</a></li>
+<li><a href="/wiki/Nexus_for_Exoplanet_System_Science" title="Nexus for Exoplanet System Science">Nexus for Exoplanet System Science</a></li>
+<li><a href="/wiki/Organic_compound" title="Organic compound">Organic compound</a></li>
+<li><a href="/wiki/Outer_space" title="Outer space">Outer space</a></li>
+<li><a href="/wiki/PAH_world_hypothesis" title="PAH world hypothesis">PAH world hypothesis</a></li>
+<li><a href="/wiki/Panspermia" title="Panspermia">Panspermia</a></li>
+<li><a href="/wiki/Polycyclic_aromatic_hydrocarbon" title="Polycyclic aromatic hydrocarbon">Polycyclic aromatic hydrocarbon</a> (PAH)</li>
+<li><a class="mw-redirect" href="/wiki/RNA_world_hypothesis" title="RNA world hypothesis">RNA world hypothesis</a></li>
+<li><a href="/wiki/Spectroscopy" title="Spectroscopy">Spectroscopy</a></li>
+<li><a href="/wiki/Tholin" title="Tholin">Tholin</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="font-weight: bold;"><div>
+<ul><li><b><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Astrochemistry" title="Category:Astrochemistry">Category:Astrochemistry</a></b></li>
+<li><b><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Astrobiology" title="Portal:Astrobiology">Portal:Astrobiology</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Binary_compounds_of_hydrogen" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Hydrides_by_group" title="Template:Hydrides by group"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Hydrides_by_group" title="Template talk:Hydrides by group"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hydrides_by_group&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Binary_compounds_of_hydrogen" style="font-size:114%;margin:0 4em"><a href="/wiki/Binary_compounds_of_hydrogen" title="Binary compounds of hydrogen">Binary compounds of hydrogen</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Alkali_metal_hydride" title="Alkali metal hydride">Alkali metal hydrides</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lithium_hydride" title="Lithium hydride">LiH</a></li>
+<li><a href="/wiki/Sodium_hydride" title="Sodium hydride">NaH</a></li>
+<li><a href="/wiki/Potassium_hydride" title="Potassium hydride">KH</a></li>
+<li><a href="/wiki/Rubidium_hydride" title="Rubidium hydride">RbH</a></li>
+<li><a href="/wiki/Caesium_hydride" title="Caesium hydride">CsH</a></li></ul>
+</div></td><td class="navbox-image" rowspan="10" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Lithium-hydride-3D-vdW.png"><img alt="Lithium-hydride-3D-vdW.png" data-file-height="1052" data-file-width="1100" height="96" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lithium-hydride-3D-vdW.png/100px-Lithium-hydride-3D-vdW.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lithium-hydride-3D-vdW.png/150px-Lithium-hydride-3D-vdW.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lithium-hydride-3D-vdW.png/200px-Lithium-hydride-3D-vdW.png 2x" width="100"/></a><br/>Lithium hydride, LiH<br/>ionic metal hydride<br/><br/><a class="image" href="/wiki/File:Beryllium-hydride-molecule-IR-3D-balls.png"><img alt="Beryllium-hydride-molecule-IR-3D-balls.png" data-file-height="343" data-file-width="1100" height="31" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Beryllium-hydride-molecule-IR-3D-balls.png/100px-Beryllium-hydride-molecule-IR-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Beryllium-hydride-molecule-IR-3D-balls.png/150px-Beryllium-hydride-molecule-IR-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Beryllium-hydride-molecule-IR-3D-balls.png/200px-Beryllium-hydride-molecule-IR-3D-balls.png 2x" width="100"/></a><a class="image" href="/wiki/File:Beryllium-hydride-3D-balls.png"><img alt="Beryllium-hydride-3D-balls.png" data-file-height="610" data-file-width="1000" height="61" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Beryllium-hydride-3D-balls.png/100px-Beryllium-hydride-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Beryllium-hydride-3D-balls.png/150px-Beryllium-hydride-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Beryllium-hydride-3D-balls.png/200px-Beryllium-hydride-3D-balls.png 2x" width="100"/></a><br/>Beryllium hydride<br/>Left (gas phase): BeH<sub>2</sub><br/>covalent metal hydride<br/>Right: (BeH<sub>2</sub>)<sub><i>n</i></sub> (solid phase)<br/>polymeric metal hydride<br/><br/><a class="image" href="/wiki/File:Borane-3D-balls.png"><img alt="Borane-3D-balls.png" data-file-height="921" data-file-width="1100" height="84" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Borane-3D-balls.png/100px-Borane-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Borane-3D-balls.png/150px-Borane-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Borane-3D-balls.png/200px-Borane-3D-balls.png 2x" width="100"/></a><a class="image" href="/wiki/File:Diborane-3D-balls-A.png"><img alt="Diborane-3D-balls-A.png" data-file-height="723" data-file-width="1100" height="66" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Diborane-3D-balls-A.png/100px-Diborane-3D-balls-A.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Diborane-3D-balls-A.png/150px-Diborane-3D-balls-A.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Diborane-3D-balls-A.png/200px-Diborane-3D-balls-A.png 2x" width="100"/></a><br/>Borane and diborane<br/>Left: BH<sub>3</sub> (special conditions), covalent metalloid hydride<br/>Right: B<sub>2</sub>H<sub>6</sub> (standard conditions), dimeric metalloid hydride<br/><br/><a class="image" href="/wiki/File:Methane-3D-balls.png"><img alt="Methane-3D-balls.png" data-file-height="1100" data-file-width="1091" height="101" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Methane-3D-balls.png/100px-Methane-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Methane-3D-balls.png/150px-Methane-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Methane-3D-balls.png/200px-Methane-3D-balls.png 2x" width="100"/></a><br/>Methane, CH<sub>4</sub><br/>covalent nonmetal hydride<br/><br/><a class="image" href="/wiki/File:Ammonia-3D-balls.png"><img alt="Ammonia-3D-balls.png" data-file-height="724" data-file-width="1100" height="66" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ammonia-3D-balls.png/100px-Ammonia-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ammonia-3D-balls.png/150px-Ammonia-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ammonia-3D-balls.png/200px-Ammonia-3D-balls.png 2x" width="100"/></a><br/>Ammonia, NH<sub>3</sub><br/>covalent nonmetal hydride<br/><br/><a class="image" href="/wiki/File:Water-3D-balls.png"><img alt="Water-3D-balls.png" data-file-height="747" data-file-width="1100" height="68" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Water-3D-balls.png/100px-Water-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Water-3D-balls.png/150px-Water-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Water-3D-balls.png/200px-Water-3D-balls.png 2x" width="100"/></a><br/>Water, H<sub>2</sub>O<br/>covalent nonmetal hydride<br/><br/><a class="image" href="/wiki/File:Hydrogen-fluoride-3D-balls.png"><img alt="Hydrogen-fluoride-3D-balls.png" data-file-height="506" data-file-width="1100" height="46" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hydrogen-fluoride-3D-balls.png/100px-Hydrogen-fluoride-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hydrogen-fluoride-3D-balls.png/150px-Hydrogen-fluoride-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hydrogen-fluoride-3D-balls.png/200px-Hydrogen-fluoride-3D-balls.png 2x" width="100"/></a><br/>Hydrogen fluoride, HF<br/>covalent nonmetal hydride</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Alkaline_earth_hydride" title="Alkaline earth hydride">Alkaline earth hydrides</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Monohydrides" scope="row" style="width:1%">Monohydrides</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Beryllium_monohydride" title="Beryllium monohydride">BeH</a></li>
+<li><a href="/wiki/Magnesium_monohydride" title="Magnesium monohydride">MgH</a></li>
+<li><a href="/wiki/Calcium_monohydride" title="Calcium monohydride">CaH</a></li>
+<li><a class="new" href="/w/index.php?title=Strontium_monohydride&amp;action=edit&amp;redlink=1" title="Strontium monohydride (page does not exist)">SrH</a></li>
+<li><a class="new" href="/w/index.php?title=Barium_monohydride&amp;action=edit&amp;redlink=1" title="Barium monohydride (page does not exist)">BaH</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Dihydrides" scope="row" style="width:1%">Dihydrides</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Beryllium_hydride" title="Beryllium hydride">BeH<sub>2</sub></a></li>
+<li><a href="/wiki/Magnesium_hydride" title="Magnesium hydride">MgH<sub>2</sub></a></li>
+<li><a href="/wiki/Calcium_hydride" title="Calcium hydride">CaH<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Strontium_hydride&amp;action=edit&amp;redlink=1" title="Strontium hydride (page does not exist)">SrH<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Barium_hydride&amp;action=edit&amp;redlink=1" title="Barium hydride (page does not exist)">BaH<sub>2</sub></a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Group_13_hydride" title="Group 13 hydride">Group 13 hydrides</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Boranes" scope="row" style="width:1%"><a href="/wiki/Boranes" title="Boranes">Boranes</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Borane" title="Borane">BH<sub>3</sub></a></li>
+<li><a href="/wiki/Diborane" title="Diborane">B<sub>2</sub>H<sub>6</sub></a></li>
+<li><a href="/wiki/Diborane(2)" title="Diborane(2)">B<sub>2</sub>H<sub>2</sub></a></li>
+<li><a href="/wiki/Diborane(4)" title="Diborane(4)">B<sub>2</sub>H<sub>4</sub></a></li>
+<li><a href="/wiki/Tetraborane" title="Tetraborane">B<sub>4</sub>H<sub>10</sub></a></li>
+<li><a href="/wiki/Pentaborane" title="Pentaborane">B<sub>5</sub>H<sub>9</sub></a></li>
+<li><a href="/wiki/Pentaborane(11)" title="Pentaborane(11)">B<sub>5</sub>H<sub>11</sub></a></li>
+<li><a href="/wiki/Hexaborane(10)" title="Hexaborane(10)">B<sub>6</sub>H<sub>10</sub></a></li>
+<li><a href="/wiki/Hexaborane(12)" title="Hexaborane(12)">B<sub>6</sub>H<sub>12</sub></a></li>
+<li><a href="/wiki/Decaborane" title="Decaborane">B<sub>10</sub>H<sub>14</sub></a></li>
+<li><a href="/wiki/Octadecaborane" title="Octadecaborane">B<sub>18</sub>H<sub>22</sub></a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Alanes" scope="row" style="width:1%">Alanes</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_hydride" title="Aluminium hydride">AlH<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Dialane&amp;action=edit&amp;redlink=1" title="Dialane (page does not exist)">Al<sub>2</sub>H<sub>6</sub></a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Gallanes" scope="row" style="width:1%">Gallanes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gallane" title="Gallane">GaH<sub>3</sub></a></li>
+<li><a href="/wiki/Digallane" title="Digallane">Ga<sub>2</sub>H<sub>6</sub></a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Indiganes" scope="row" style="width:1%">Indiganes</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Indium_trihydride" title="Indium trihydride">InH<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Diindigane&amp;action=edit&amp;redlink=1" title="Diindigane (page does not exist)">In<sub>2</sub>H<sub>6</sub></a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Thallanes" scope="row" style="width:1%">Thallanes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Thallium_hydride" title="Thallium hydride">TlH<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Dithallane&amp;action=edit&amp;redlink=1" title="Dithallane (page does not exist)">Tl<sub>2</sub>H<sub>6</sub></a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Group_14_hydride" title="Group 14 hydride">Group 14 hydrides</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Linear_alkanes" scope="row" style="width:1%">Linear <a href="/wiki/Alkane" title="Alkane">alkanes</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Methane" title="Methane">CH<sub>4</sub></a></li>
+<li><a href="/wiki/Ethane" title="Ethane">C<sub>2</sub>H<sub>6</sub></a></li>
+<li><a href="/wiki/Propane" title="Propane">C<sub>3</sub>H<sub>8</sub></a></li>
+<li><a href="/wiki/Butane" title="Butane">C<sub>4</sub>H<sub>10</sub></a></li>
+<li><a href="/wiki/Pentane" title="Pentane">C<sub>5</sub>H<sub>12</sub></a></li>
+<li><a href="/wiki/Hexane" title="Hexane">C<sub>6</sub>H<sub>14</sub></a></li>
+<li><a href="/wiki/Heptane" title="Heptane">C<sub>7</sub>H<sub>16</sub></a></li>
+<li><a href="/wiki/Octane" title="Octane">C<sub>8</sub>H<sub>18</sub></a></li>
+<li><a href="/wiki/Nonane" title="Nonane">C<sub>9</sub>H<sub>20</sub></a></li>
+<li><a href="/wiki/Decane" title="Decane">C<sub>10</sub>H<sub>22</sub></a></li>
+<li><a href="/wiki/List_of_straight-chain_alkanes" title="List of straight-chain alkanes">more...</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Linear_alkenes" scope="row" style="width:1%">Linear <a href="/wiki/Alkene" title="Alkene">alkenes</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ethylene" title="Ethylene">C<sub>2</sub>H<sub>4</sub></a></li>
+<li><a href="/wiki/Propene" title="Propene">C<sub>3</sub>H<sub>6</sub></a></li>
+<li><a href="/wiki/1-Butene" title="1-Butene">C<sub>4</sub>H<sub>8</sub></a></li>
+<li><a href="/wiki/Pentene" title="Pentene">C<sub>5</sub>H<sub>10</sub></a></li>
+<li><a href="/wiki/1-Hexene" title="1-Hexene">C<sub>6</sub>H<sub>12</sub></a></li>
+<li><a href="/wiki/Heptene" title="Heptene">C<sub>7</sub>H<sub>14</sub></a></li>
+<li><a href="/wiki/1-Octene" title="1-Octene">C<sub>8</sub>H<sub>16</sub></a></li>
+<li><a href="/wiki/Nonene" title="Nonene">C<sub>9</sub>H<sub>18</sub></a></li>
+<li><a href="/wiki/Decene" title="Decene">C<sub>10</sub>H<sub>20</sub></a></li>
+<li><a href="/wiki/Alkene" title="Alkene">more...</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Linear_alkynes" scope="row" style="width:1%">Linear <a href="/wiki/Alkyne" title="Alkyne">alkynes</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetylene" title="Acetylene">C<sub>2</sub>H<sub>2</sub></a></li>
+<li><a href="/wiki/Propyne" title="Propyne">C<sub>3</sub>H<sub>4</sub></a></li>
+<li><a href="/wiki/1-Butyne" title="1-Butyne">C<sub>4</sub>H<sub>6</sub></a></li>
+<li><a href="/wiki/1-Pentyne" title="1-Pentyne">C<sub>5</sub>H<sub>8</sub></a></li>
+<li><a class="new" href="/w/index.php?title=1-Hexyne&amp;action=edit&amp;redlink=1" title="1-Hexyne (page does not exist)">C<sub>6</sub>H<sub>10</sub></a></li>
+<li><a class="new" href="/w/index.php?title=1-Heptyne&amp;action=edit&amp;redlink=1" title="1-Heptyne (page does not exist)">C<sub>7</sub>H<sub>12</sub></a></li>
+<li><a class="new" href="/w/index.php?title=1-Octyne&amp;action=edit&amp;redlink=1" title="1-Octyne (page does not exist)">C<sub>8</sub>H<sub>14</sub></a></li>
+<li><a class="new" href="/w/index.php?title=1-Nonyne&amp;action=edit&amp;redlink=1" title="1-Nonyne (page does not exist)">C<sub>9</sub>H<sub>16</sub></a></li>
+<li><a href="/wiki/1-Decyne" title="1-Decyne">C<sub>10</sub>H<sub>18</sub></a></li>
+<li><a href="/wiki/Alkyne" title="Alkyne">more...</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Silanes" scope="row" style="width:1%"><a href="/wiki/Silanes" title="Silanes">Silanes</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Silane" title="Silane">SiH<sub>4</sub></a></li>
+<li><a href="/wiki/Disilane" title="Disilane">Si<sub>2</sub>H<sub>6</sub></a></li>
+<li><a href="/wiki/Trisilane" title="Trisilane">Si<sub>3</sub>H<sub>8</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Tetrasilane" title="Tetrasilane">Si<sub>4</sub>H<sub>10</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Pentasilane" title="Pentasilane">Si<sub>5</sub>H<sub>12</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Hexasilane&amp;action=edit&amp;redlink=1" title="Hexasilane (page does not exist)">Si<sub>6</sub>H<sub>14</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Heptasilane&amp;action=edit&amp;redlink=1" title="Heptasilane (page does not exist)">Si<sub>7</sub>H<sub>16</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Octasilane&amp;action=edit&amp;redlink=1" title="Octasilane (page does not exist)">Si<sub>8</sub>H<sub>18</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Nonasilane&amp;action=edit&amp;redlink=1" title="Nonasilane (page does not exist)">Si<sub>9</sub>H<sub>20</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Decasilane&amp;action=edit&amp;redlink=1" title="Decasilane (page does not exist)">Si<sub>10</sub>H<sub>22</sub></a></li>
+<li><a href="/wiki/Silanes" title="Silanes">more...</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Silenes" scope="row" style="width:1%"><a href="/wiki/Silenes" title="Silenes">Silenes</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Disilene" title="Disilene">Si<sub>2</sub>H<sub>4</sub></a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Silynes" scope="row" style="width:1%">Silynes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Disilyne" title="Disilyne">Si<sub>2</sub>H<sub>2</sub></a></li>
+<li><a href="/wiki/Silicon_monohydride" title="Silicon monohydride">SiH</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Germanes" scope="row" style="width:1%">Germanes</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Germane" title="Germane">GeH<sub>4</sub></a></li>
+<li><a href="/wiki/Digermane" title="Digermane">Ge<sub>2</sub>H<sub>6</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Trigermane&amp;action=edit&amp;redlink=1" title="Trigermane (page does not exist)">Ge<sub>3</sub>H<sub>8</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Tetragermane&amp;action=edit&amp;redlink=1" title="Tetragermane (page does not exist)">Ge<sub>4</sub>H<sub>10</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Pentagermane&amp;action=edit&amp;redlink=1" title="Pentagermane (page does not exist)">Ge<sub>5</sub>H<sub>12</sub></a></li></ul>
+</div></td></tr></tbody></table><div></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Stannanes" scope="row" style="width:1%">Stannanes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Stannane" title="Stannane">SnH<sub>4</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Distannane&amp;action=edit&amp;redlink=1" title="Distannane (page does not exist)">Sn<sub>2</sub>H<sub>6</sub></a></li></ul>
+</div></td></tr></tbody></table><div></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Plumbanes" scope="row" style="width:1%">Plumbanes</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Plumbane" title="Plumbane">PbH<sub>4</sub></a></li></ul>
+</div></td></tr></tbody></table><div>
+<ul><li><a href="/wiki/Methylidyne_radical" title="Methylidyne radical">CH</a></li>
+<li><a href="/wiki/Methylene_(compound)" title="Methylene (compound)">CH<sub>2</sub></a></li>
+<li><a class="mw-selflink selflink">CH<sub>3</sub></a></li>
+<li><a href="/wiki/Ethynyl_radical" title="Ethynyl radical">C<sub>2</sub>H</a></li>
+<li><a href="/wiki/Cycloalkane" title="Cycloalkane">Cycloalkanes</a></li>
+<li><a href="/wiki/Cycloalkene" title="Cycloalkene">Cycloalkenes</a></li>
+<li><a class="mw-redirect" href="/wiki/Annulenes" title="Annulenes">Annulenes</a></li>
+<li><a href="/wiki/Hydrocarbon" title="Hydrocarbon">Many more</a></li></ul></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Group_15_hydride" title="Group 15 hydride">Pnictogen hydrides</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Azanes" scope="row" style="width:1%"><a href="/wiki/Azane" title="Azane">Azanes</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><a href="/wiki/Ammonia" title="Ammonia">NH<sub>3</sub></a></li>
+<li><a href="/wiki/Hydrazine" title="Hydrazine">N<sub>2</sub>H<sub>4</sub></a></li>
+<li><a href="/wiki/Triazane" title="Triazane">N<sub>3</sub>H<sub>5</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Tetrazane&amp;action=edit&amp;redlink=1" title="Tetrazane (page does not exist)">N<sub>4</sub>H<sub>6</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Pentazane&amp;action=edit&amp;redlink=1" title="Pentazane (page does not exist)">N<sub>5</sub>H<sub>7</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Hexazane&amp;action=edit&amp;redlink=1" title="Hexazane (page does not exist)">N<sub>6</sub>H<sub>8</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Heptazane&amp;action=edit&amp;redlink=1" title="Heptazane (page does not exist)">N<sub>7</sub>H<sub>9</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Octazane&amp;action=edit&amp;redlink=1" title="Octazane (page does not exist)">N<sub>8</sub>H<sub>10</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Nonazane&amp;action=edit&amp;redlink=1" title="Nonazane (page does not exist)">N<sub>9</sub>H<sub>11</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Decazane&amp;action=edit&amp;redlink=1" title="Decazane (page does not exist)">N<sub>10</sub>H<sub>12</sub></a></li>
+<li><a href="/wiki/Azane" title="Azane">more...</a></li>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Azenes" scope="row" style="width:1%"><a href="/wiki/Azo_compound" title="Azo compound">Azenes</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Diazene" title="Diazene">N<sub>2</sub>H<sub>2</sub></a></li>
+<li><a href="/wiki/Triazene" title="Triazene">N<sub>3</sub>H<sub>3</sub></a></li>
+<li><a href="/wiki/Tetrazene" title="Tetrazene">N<sub>4</sub>H<sub>4</sub></a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Phosphanes" scope="row" style="width:1%">Phosphanes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Phosphine" title="Phosphine">PH<sub>3</sub></a></li>
+<li><a href="/wiki/Diphosphane" title="Diphosphane">P<sub>2</sub>H<sub>4</sub></a></li>
+<li><a href="/wiki/Triphosphane" title="Triphosphane">P<sub>3</sub>H<sub>5</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Tetraphosphane&amp;action=edit&amp;redlink=1" title="Tetraphosphane (page does not exist)">P<sub>4</sub>H<sub>6</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Pentaphosphane&amp;action=edit&amp;redlink=1" title="Pentaphosphane (page does not exist)">P<sub>5</sub>H<sub>7</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Hexaphosphane&amp;action=edit&amp;redlink=1" title="Hexaphosphane (page does not exist)">P<sub>6</sub>H<sub>8</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Heptaphosphane&amp;action=edit&amp;redlink=1" title="Heptaphosphane (page does not exist)">P<sub>7</sub>H<sub>9</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Octaphosphane&amp;action=edit&amp;redlink=1" title="Octaphosphane (page does not exist)">P<sub>8</sub>H<sub>10</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Nonaphosphane&amp;action=edit&amp;redlink=1" title="Nonaphosphane (page does not exist)">P<sub>9</sub>H<sub>11</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Decaphosphane&amp;action=edit&amp;redlink=1" title="Decaphosphane (page does not exist)">P<sub>10</sub>H<sub>12</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Phosphanes&amp;action=edit&amp;redlink=1" title="Phosphanes (page does not exist)">more...</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Phosphenes" scope="row" style="width:1%"><a href="/wiki/Diphosphenes" title="Diphosphenes">Phosphenes</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Diphosphene" title="Diphosphene">P<sub>2</sub>H<sub>2</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Triphosphene" title="Triphosphene">P<sub>3</sub>H<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Tetraphosphene&amp;action=edit&amp;redlink=1" title="Tetraphosphene (page does not exist)">P<sub>4</sub>H<sub>4</sub></a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Arsanes" scope="row" style="width:1%">Arsanes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arsine" title="Arsine">AsH<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Diarsane&amp;action=edit&amp;redlink=1" title="Diarsane (page does not exist)">As<sub>2</sub>H<sub>4</sub></a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Stibanes" scope="row" style="width:1%">Stibanes</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Stibine" title="Stibine">SbH<sub>3</sub></a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Bismuthanes" scope="row" style="width:1%">Bismuthanes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bismuthine" title="Bismuthine">BiH<sub>3</sub></a></li></ul>
+</div></td></tr></tbody></table><div>
+<ul><li><a href="/wiki/Hydrazoic_acid" title="Hydrazoic acid">HN<sub>3</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Nitrogen_monohydride" title="Nitrogen monohydride">NH</a>
+<ul><li><a href="/wiki/Imidogen" title="Imidogen">radical</a></li></ul></li></ul></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Group_16_hydride" title="Group 16 hydride">Hydrogen chalcogenides</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Polyoxidanes" scope="row" style="width:1%"><a href="/wiki/Hydrogen_polyoxide" title="Hydrogen polyoxide">Polyoxidanes</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><a href="/wiki/Properties_of_water" title="Properties of water">H<sub>2</sub>O</a></li>
+<li><a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">H<sub>2</sub>O<sub>2</sub></a></li>
+<li><a href="/wiki/Trioxidane" title="Trioxidane">H<sub>2</sub>O<sub>3</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Hydrogen_tetroxide" title="Hydrogen tetroxide">H<sub>2</sub>O<sub>4</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Hydrogen_pentoxide" title="Hydrogen pentoxide">H<sub>2</sub>O<sub>5</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Hydrogen_hexoxide" title="Hydrogen hexoxide">H<sub>2</sub>O<sub>6</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Hydrogen_heptoxide" title="Hydrogen heptoxide">H<sub>2</sub>O<sub>7</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Hydrogen_octoxide" title="Hydrogen octoxide">H<sub>2</sub>O<sub>8</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Hydrogen_nonoxide" title="Hydrogen nonoxide">H<sub>2</sub>O<sub>9</sub></a></li>
+<li><a class="mw-redirect" href="/wiki/Hydrogen_decoxide" title="Hydrogen decoxide">H<sub>2</sub>O<sub>10</sub></a></li>
+<li><a href="/wiki/Hydrogen_polyoxide" title="Hydrogen polyoxide">more...</a></li>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Polysulfanes" scope="row" style="width:1%"><a href="/wiki/Polysulfane" title="Polysulfane">Polysulfanes</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">H<sub>2</sub>S</a></li>
+<li><a href="/wiki/Hydrogen_disulfide" title="Hydrogen disulfide">H<sub>2</sub>S<sub>2</sub></a></li>
+<li><a href="/wiki/Trisulfane" title="Trisulfane">H<sub>2</sub>S<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Hydrogen_tetrasulfide&amp;action=edit&amp;redlink=1" title="Hydrogen tetrasulfide (page does not exist)">H<sub>2</sub>S<sub>4</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Hydrogen_pentasulfide&amp;action=edit&amp;redlink=1" title="Hydrogen pentasulfide (page does not exist)">H<sub>2</sub>S<sub>5</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Hydrogen_hexasulfide&amp;action=edit&amp;redlink=1" title="Hydrogen hexasulfide (page does not exist)">H<sub>2</sub>S<sub>6</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Hydrogen_heptasulfide&amp;action=edit&amp;redlink=1" title="Hydrogen heptasulfide (page does not exist)">H<sub>2</sub>S<sub>7</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Hydrogen_octasulfide&amp;action=edit&amp;redlink=1" title="Hydrogen octasulfide (page does not exist)">H<sub>2</sub>S<sub>8</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Hydrogen_nonasulfide&amp;action=edit&amp;redlink=1" title="Hydrogen nonasulfide (page does not exist)">H<sub>2</sub>S<sub>9</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Hydrogen_decasulfide&amp;action=edit&amp;redlink=1" title="Hydrogen decasulfide (page does not exist)">H<sub>2</sub>S<sub>10</sub></a></li>
+<li><a href="/wiki/Polysulfane" title="Polysulfane">more...</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Selanes" scope="row" style="width:1%">Selanes</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hydrogen_selenide" title="Hydrogen selenide">H<sub>2</sub>Se</a></li>
+<li><a class="new" href="/w/index.php?title=Hydrogen_diselenide&amp;action=edit&amp;redlink=1" title="Hydrogen diselenide (page does not exist)">H<sub>2</sub>Se<sub>2</sub></a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Tellanes" scope="row" style="width:1%">Tellanes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hydrogen_telluride" title="Hydrogen telluride">H<sub>2</sub>Te</a></li>
+<li><a href="/wiki/Hydrogen_ditelluride" title="Hydrogen ditelluride">H<sub>2</sub>Te<sub>2</sub></a></li></ul>
+</div></td></tr></tbody></table><div>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" id="Polanes" scope="row" style="width:1%">Polanes</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Polonium_hydride" title="Polonium hydride">PoH<sub>2</sub></a></li></ul>
+</div></td></tr></tbody></table><div>
+<ul><li><a href="/wiki/Hydroxyl_radical" title="Hydroxyl radical">HO</a></li>
+<li><a href="/wiki/Hydroperoxyl" title="Hydroperoxyl">HO<sub>2</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Hydrogen_ozonide&amp;action=edit&amp;redlink=1" title="Hydrogen ozonide (page does not exist)">HO<sub>3</sub></a></li>
+<li><a class="new" href="/w/index.php?title=Oxywater&amp;action=edit&amp;redlink=1" title="Oxywater (page does not exist)">H<sub>2</sub>O<sup>+</sup>–O<sup>–</sup></a></li>
+<li><a href="/wiki/Thiosulfoxide" title="Thiosulfoxide">H<sub>2</sub>S=S</a></li>
+<li><a href="/wiki/Thiosulfurous_acid" title="Thiosulfurous acid">(HS)<sub>2</sub>S+–S–</a></li>
+<li><a href="/wiki/Sulfanyl" title="Sulfanyl">HS</a></li>
+<li><a href="/wiki/Semiheavy_water" title="Semiheavy water">HDO</a></li>
+<li><a href="/wiki/Heavy_water" title="Heavy water">D<sub>2</sub>O</a></li>
+<li><a href="/wiki/Tritiated_water" title="Tritiated water">T<sub>2</sub>O</a></li></ul></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Group_17_hydride" title="Group 17 hydride">Hydrogen halides</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><a href="/wiki/Hydrogen_fluoride" title="Hydrogen fluoride">HF</a></li>
+<li><a href="/wiki/Hydrogen_chloride" title="Hydrogen chloride">HCl</a></li>
+<li><a href="/wiki/Hydrogen_bromide" title="Hydrogen bromide">HBr</a></li>
+<li><a href="/wiki/Hydrogen_iodide" title="Hydrogen iodide">HI</a></li>
+<li><a href="/wiki/Hydrogen_astatide" title="Hydrogen astatide">HAt</a></li>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Transition metal hydrides</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Scandium_hydride" title="Scandium hydride">ScH<sub>2</sub></a></li>
+<li><a href="/wiki/Yttrium_hydride" title="Yttrium hydride">YH<sub>2</sub></a></li>
+<li>YH<sub>3</sub></li>
+<li><a href="/wiki/Titanium_hydride" title="Titanium hydride">TiH<sub>2</sub></a></li>
+<li><a href="/wiki/Zirconium_hydride" title="Zirconium hydride">ZrH<sub>2</sub></a></li>
+<li>HfH<sub>2</sub></li>
+<li>VH</li>
+<li>VH<sub>2</sub></li>
+<li>NbH</li>
+<li>NbH<sub>2</sub></li>
+<li>TaH</li>
+<li><a href="/wiki/Chromium(I)_hydride" title="Chromium(I) hydride">CrH</a></li>
+<li><a href="/wiki/Chromium(II)_hydride" title="Chromium(II) hydride">CrH<sub>2</sub></a></li>
+<li><a href="/wiki/Chromium_hydride" title="Chromium hydride">CrH<sub>x</sub></a></li>
+<li>NiH</li>
+<li><a href="/wiki/Palladium_hydride" title="Palladium hydride">PdH<sub><i>x</i></sub> (<i>x</i> &lt; 1)</a></li>
+<li><a href="/wiki/Iron(I)_hydride" title="Iron(I) hydride">FeH</a></li>
+<li><a class="mw-redirect" href="/wiki/Iron_dihydride" title="Iron dihydride">FeH<sub>2</sub></a></li>
+<li><a href="/wiki/Iron_pentahydride" title="Iron pentahydride">FeH<sub>5</sub></a></li>
+<li><a href="/wiki/Copper_hydride" title="Copper hydride">CuH</a></li>
+<li><a href="/wiki/Zinc_hydride" title="Zinc hydride">ZnH<sub>2</sub></a></li>
+<li><a href="/wiki/Cadmium_hydride" title="Cadmium hydride">CdH<sub>2</sub></a></li>
+<li><a href="/wiki/Mercury(II)_hydride" title="Mercury(II) hydride">HgH<sub>2</sub></a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Lanthanide hydrides</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>LaH<sub>2</sub></li>
+<li>LaH<sub>3</sub></li>
+<li>CeH<sub>2</sub></li>
+<li>CeH<sub>3</sub></li>
+<li>PrH<sub>2</sub></li>
+<li>PrH<sub>3</sub></li>
+<li>NdH<sub>2</sub></li>
+<li>NdH<sub>3</sub></li>
+<li>SmH<sub>2</sub></li>
+<li>SmH<sub>3</sub></li>
+<li>EuH<sub>2</sub></li>
+<li>GdH<sub>2</sub></li>
+<li>GdH<sub>3</sub></li>
+<li>TbH<sub>2</sub></li>
+<li>TbH<sub>3</sub></li>
+<li>DyH<sub>2</sub></li>
+<li>DyH<sub>3</sub></li>
+<li>HoH<sub>2</sub></li>
+<li>HoH<sub>3</sub></li>
+<li>ErH<sub>2</sub></li>
+<li>ErH<sub>3</sub></li>
+<li>TmH<sub>2</sub></li>
+<li>TmH<sub>3</sub></li>
+<li>YbH<sub>2</sub></li>
+<li>YbH<sub>2.5</sub></li>
+<li>LuH<sub>2</sub></li>
+<li>LuH<sub>3</sub></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Actinide hydrides</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>AcH<sub>2</sub></li>
+<li>ThH<sub>2</sub></li>
+<li>Th<sub>4</sub>H<sub>15</sub></li>
+<li>PaH<sub>3</sub></li>
+<li>UH<sub>3</sub></li>
+<li>NpH<sub>2</sub></li>
+<li>NpH<sub>3</sub></li>
+<li>PuH<sub>2</sub></li>
+<li>PuH<sub>3</sub></li>
+<li>AmH<sub>2</sub></li>
+<li>AmH<sub>3</sub></li>
+<li>CmH<sub>2</sub></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2158
+Cached time: 20181001192403
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.940 seconds
+Real time usage: 1.098 seconds
+Preprocessor visited node count: 8514/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 282875/2097152 bytes
+Template argument size: 19074/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 12430/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.345/10.000 seconds
+Lua memory usage: 7.88 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  822.211      1 -total
+ 51.74%  425.411      1 Template:Chembox
+ 32.23%  264.982      1 Template:Chembox_Identifiers
+ 20.49%  168.491     31 Template:Navbox
+ 20.26%  166.580      3 Template:Chembox_headerbar
+ 19.94%  163.947      9 Template:Trim
+ 16.83%  138.382      1 Template:Reflist
+ 11.98%   98.527      2 Template:Cite_journal
+ 11.87%   97.634      5 Template:Main_other
+ 10.64%   87.500      1 Template:Chembox_Properties
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:89221-0!canonical and timestamp 20181001192402 and revision id 847013659
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Methyl_radical&amp;oldid=847013659">https://en.wikipedia.org/w/index.php?title=Methyl_radical&amp;oldid=847013659</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Astrochemistry" title="Category:Astrochemistry">Astrochemistry</a></li><li><a href="/wiki/Category:Free_radicals" title="Category:Free radicals">Free radicals</a></li><li><a href="/wiki/Category:Oil_refining" title="Category:Oil refining">Oil refining</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li><li><a href="/wiki/Category:Articles_without_InChI_source" title="Category:Articles without InChI source">Articles without InChI source</a></li><li><a href="/wiki/Category:Articles_without_KEGG_source" title="Category:Articles without KEGG source">Articles without KEGG source</a></li><li><a href="/wiki/Category:Articles_containing_unverified_chemical_infoboxes" title="Category:Articles containing unverified chemical infoboxes">Articles containing unverified chemical infoboxes</a></li><li><a href="/wiki/Category:Chembox_image_size_set" title="Category:Chembox image size set">Chembox image size set</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Methyl+radical" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Methyl+radical" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Methyl_radical" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Methyl_radical" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Methyl_radical">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Methyl_radical&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Methyl_radical&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Methyl_radical" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Methyl_radical" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Methyl_radical&amp;oldid=847013659" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Methyl_radical&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6823951" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Methyl_radical&amp;id=847013659" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Methyl+radical">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Methyl+radical&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Methyl_radical&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-azb"><a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/%D8%B1%D8%A7%D8%AF%DB%8C%DA%A9%D8%A7%D9%84_%D9%85%D8%AA%DB%8C%D9%84" hreflang="azb" lang="azb" title="رادیکال متیل – South Azerbaijani">تۆرکجه</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D8%AF%DB%8C%DA%A9%D8%A7%D9%84_%D9%85%D8%AA%DB%8C%D9%84" hreflang="fa" lang="fa" title="رادیکال متیل – Persian">فارسی</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Metil_radikal" hreflang="sr" lang="sr" title="Metil radikal – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Metil_radikal" hreflang="sh" lang="sh" title="Metil radikal – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6823951#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 22 June 2018, at 09:22<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Methyl_radical&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.940","walltime":"1.098","ppvisitednodes":{"value":8514,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":282875,"limit":2097152},"templateargumentsize":{"value":19074,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":12430,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  822.211      1 -total"," 51.74%  425.411      1 Template:Chembox"," 32.23%  264.982      1 Template:Chembox_Identifiers"," 20.49%  168.491     31 Template:Navbox"," 20.26%  166.580      3 Template:Chembox_headerbar"," 19.94%  163.947      9 Template:Trim"," 16.83%  138.382      1 Template:Reflist"," 11.98%   98.527      2 Template:Cite_journal"," 11.87%   97.634      5 Template:Main_other"," 10.64%   87.500      1 Template:Chembox_Properties"]},"scribunto":{"limitreport-timeusage":{"value":"0.345","limit":"10.000"},"limitreport-memusage":{"value":8263510,"limit":52428800}},"cachereport":{"origin":"mw2158","timestamp":"20181001192403","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw2229"});});</script>
+</body>
+</html>

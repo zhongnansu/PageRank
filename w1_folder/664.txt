@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Methanogen - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Methanogen","wgTitle":"Methanogen","wgCurRevisionId":862171906,"wgRevisionId":862171906,"wgArticleId":563456,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Archived copy as title","CS1 maint: Explicit use of et al.","Anaerobic digestion","Methane","Archaea biology","Environmental microbiology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Methanogen","wgRelevantArticleId":563456,"wgRequestId":"W8C8wApAICgAAHPNcJQAAADQ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1169785","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Methanogen" rel="alternate"/>
+<link href="/w/index.php?title=Methanogen&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Methanogen&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Methanogen" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Methanogen rootpage-Methanogen skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Methanogen</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">Not to be confused with <a class="mw-redirect" href="/wiki/Methanotrophs" title="Methanotrophs">methanotrophs</a>.</div>
+<p><b>Methanogens</b> are microorganisms that produce <a href="/wiki/Methane" title="Methane">methane</a> as a <a class="mw-redirect" href="/wiki/Metabolic" title="Metabolic">metabolic</a> byproduct in <a href="/wiki/Hypoxia_(environmental)" title="Hypoxia (environmental)">anoxic</a> conditions. They are prokaryotic and belong to the domain of <a href="/wiki/Archaea" title="Archaea">archaea</a>. They are common in <a href="/wiki/Wetland" title="Wetland">wetlands</a>, where they are responsible for <a href="/wiki/Marsh_gas" title="Marsh gas">marsh gas</a>, and in the digestive tracts of animals such as <a href="/wiki/Ruminant" title="Ruminant">ruminants</a> and <a href="/wiki/Human" title="Human">humans</a>, where they are responsible for the methane content of <a class="mw-redirect" href="/wiki/Belching" title="Belching">belching</a> in ruminants and <a href="/wiki/Flatulence" title="Flatulence">flatulence</a> in humans.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> In <a class="mw-redirect" href="/wiki/Marine_(ocean)" title="Marine (ocean)">marine</a> <a href="/wiki/Sediment" title="Sediment">sediments</a> the biological production of methane, also termed <a href="/wiki/Methanogenesis" title="Methanogenesis">methanogenesis</a>, is generally confined to where <a href="/wiki/Sulfate" title="Sulfate">sulfates</a> are depleted, below the top layers.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> Moreover, the methanogenic archaea populations play an indispensable role in anaerobic wastewater treatments.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Others are <a href="/wiki/Extremophile" title="Extremophile">extremophiles</a>, found in environments such as <a href="/wiki/Hot_spring" title="Hot spring">hot springs</a> and submarine <a class="mw-redirect" href="/wiki/Hydrothermal_vents" title="Hydrothermal vents">hydrothermal vents</a> as well as in the "solid" rock of the Earth's crust, kilometers below the surface.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Physical_description"><span class="tocnumber">1</span> <span class="toctext">Physical description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Extreme_living_areas"><span class="tocnumber">2</span> <span class="toctext">Extreme living areas</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Comparative_genomics_and_molecular_signatures"><span class="tocnumber">3</span> <span class="toctext">Comparative genomics and molecular signatures</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Metabolism"><span class="tocnumber">4</span> <span class="toctext">Metabolism</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Methane_production"><span class="tocnumber">4.1</span> <span class="toctext">Methane production</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Wastewater_treatment"><span class="tocnumber">4.2</span> <span class="toctext">Wastewater treatment</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Strains"><span class="tocnumber">5</span> <span class="toctext">Strains</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Physical_description">Physical description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanogen&amp;action=edit&amp;section=1" title="Edit section: Physical description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Methanogens are coccoid (spherical shaped) or bacilli (rod shaped). There are over 50 described species of methanogens, which do not form a <a class="mw-redirect" href="/wiki/Monophyletic" title="Monophyletic">monophyletic</a> group, although all methanogens belong to <a href="/wiki/Archaea" title="Archaea">Archaea</a>.  They are mostly <a href="/wiki/Anaerobic_organism" title="Anaerobic organism">anaerobic organisms</a> that cannot function under aerobic conditions, but recently a species (<i><a href="/wiki/Candidatus" title="Candidatus">Candidatus</a> <a class="new" href="/w/index.php?title=Methanothrix_paradoxum&amp;action=edit&amp;redlink=1" title="Methanothrix paradoxum (page does not exist)">Methanothrix paradoxum</a></i>) has been identified that can function in anoxic microsites within aerobic environments. They are very sensitive to the presence of <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> even at trace level. Usually, they cannot sustain oxygen stress for a prolonged time. However, <i><a href="/wiki/Methanosarcina_barkeri" title="Methanosarcina barkeri">Methanosarcina barkeri</a></i> is exceptional in possessing a <a href="/wiki/Superoxide_dismutase" title="Superoxide dismutase">superoxide dismutase</a> (SOD) <a href="/wiki/Enzyme" title="Enzyme">enzyme</a>, and may survive longer than the others in the presence of O<sub>2</sub>.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> Some methanogens, called <a href="/wiki/Hydrogenotroph" title="Hydrogenotroph">hydrogenotrophic</a>, use <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> (CO<sub>2</sub>) as a source of carbon, and <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> as a <a href="/wiki/Reducing_agent" title="Reducing agent">reducing agent</a>.
+</p><p>The reduction of <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> into <a href="/wiki/Methane" title="Methane">methane</a> in the presence of <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> can be expressed as follows:
+</p>
+<dl><dd>CO<sub>2</sub> + 4 H<sub>2</sub> → CH<sub>4</sub> + 2H<sub>2</sub>O</dd></dl>
+<p>Some of the CO<sub>2</sub> is reacted with the hydrogen to produce methane, which creates an <a href="/wiki/Electrochemical_gradient" title="Electrochemical gradient">electrochemical gradient</a> across cell membrane, used to generate <a href="/wiki/Adenosine_triphosphate" title="Adenosine triphosphate">ATP</a> through <a href="/wiki/Chemiosmosis" title="Chemiosmosis">chemiosmosis</a>. In contrast, <a href="/wiki/Plant" title="Plant">plants</a> and <a href="/wiki/Algae" title="Algae">algae</a> use water as their <a href="/wiki/Reducing_agent" title="Reducing agent">reducing agent</a>.
+</p><p>Methanogens lack <a href="/wiki/Peptidoglycan" title="Peptidoglycan">peptidoglycan</a>, a polymer that is found in the <a href="/wiki/Cell_wall" title="Cell wall">cell walls</a> of the <a href="/wiki/Bacteria" title="Bacteria">Bacteria</a> but not in those of Archaea. Some methanogens have a cell wall that is composed of <a href="/wiki/Pseudopeptidoglycan" title="Pseudopeptidoglycan">pseudopeptidoglycan</a>. Other methanogens do not, but have at least one <a href="/wiki/Paracrystalline" title="Paracrystalline">paracrystalline</a> array (S-layer) made up of <a href="/wiki/Protein" title="Protein">proteins</a> that fit together like a <a href="/wiki/Jigsaw_puzzle" title="Jigsaw puzzle">jigsaw puzzle</a>.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Extreme_living_areas">Extreme living areas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanogen&amp;action=edit&amp;section=2" title="Edit section: Extreme living areas">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Methanogens play the vital ecological role in <a href="/wiki/Hypoxia_(environmental)" title="Hypoxia (environmental)">anaerobic environments</a> of removing excess hydrogen and fermentation products that have been produced by other forms of <a href="/wiki/Anaerobic_respiration" title="Anaerobic respiration">anaerobic respiration</a>. Methanogens typically thrive in environments in which all <a href="/wiki/Electron_acceptor" title="Electron acceptor">electron acceptors</a> other than CO<sub>2</sub> (such as <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>, <a href="/wiki/Nitrate" title="Nitrate">nitrate</a>,  ferric<a href="/wiki/Iron" title="Iron">iron</a> (Fe(III)), and <a href="/wiki/Sulfate" title="Sulfate">sulfate</a>) have been depleted.  In deep <a href="/wiki/Basalt" title="Basalt">basaltic</a> rocks near the <a class="mw-redirect" href="/wiki/Mid_ocean_ridge" title="Mid ocean ridge">mid ocean ridges</a>, they can obtain their <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> from the <a href="/wiki/Serpentinite#Serpentinite_reactions" title="Serpentinite">serpentinisation</a> reaction of <a href="/wiki/Olivine" title="Olivine">olivine</a> as observed in the <a class="mw-redirect" href="/wiki/Lost_City_(hydrothermal_field)" title="Lost City (hydrothermal field)">hydrothermal field of Lost City</a>.
+</p><p>The thermal breakdown of water and water <a href="/wiki/Radiolysis" title="Radiolysis">radiolysis</a> are other possible sources of hydrogen.
+</p><p>Methanogens are key agents of remineralization of <a class="mw-redirect" href="/wiki/Organic_carbon" title="Organic carbon">organic carbon</a> in <a href="/wiki/Continental_margin" title="Continental margin">continental margin</a> sediments and other aquatic sediments with high rates of sedimentation and high sediment organic matter.  Under the correct conditions of pressure and temperature, biogenic methane can accumulate in massive deposits of <a href="/wiki/Methane_clathrate" title="Methane clathrate">methane clathrates</a>,<sup class="reference" id="cite_ref-Kvenvolden_1995_7-0"><a href="#cite_note-Kvenvolden_1995-7">[7]</a></sup> which account for a significant fraction of organic carbon in continental margin sediments and represent a key reservoir of a potent greenhouse gas.<sup class="reference" id="cite_ref-Milkov_2004_8-0"><a href="#cite_note-Milkov_2004-8">[8]</a></sup>
+</p><p>Methanogens have been found in several extreme environments on Earth – buried under kilometres of ice in <a href="/wiki/Greenland" title="Greenland">Greenland</a> and living in hot, dry desert soil. They are known to be the most common archaebacteria in deep subterranean habitats. Live microbes making methane were found in a glacial ice core sample retrieved from about three kilometres under Greenland by researchers from the <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a>. They also found a constant metabolism able to repair macromolecular damage, at temperatures of 145 to –40 °C.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</p><p>Another study<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> has also discovered methanogens in a harsh environment on Earth. Researchers studied dozens of soil and vapour samples from five different desert environments in <a href="/wiki/Utah" title="Utah">Utah</a>, <a href="/wiki/Idaho" title="Idaho">Idaho</a> and <a href="/wiki/California" title="California">California</a> in the <a href="/wiki/United_States" title="United States">United States</a>, and in <a href="/wiki/Canada" title="Canada">Canada</a> and <a href="/wiki/Chile" title="Chile">Chile</a>. Of these, five soil samples and three vapour samples from the vicinity of the <a href="/wiki/Mars_Desert_Research_Station" title="Mars Desert Research Station">Mars Desert Research Station</a> in Utah were found to have signs of viable methanogens.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p><p>Some scientists have proposed that the presence of methane in the <a href="/wiki/Mars" title="Mars">Martian</a> atmosphere may be indicative of native methanogens on that planet.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</p><p>Closely related to the methanogens are the anaerobic methane oxidizers, which utilize methane as a substrate in conjunction with the reduction of sulfate and nitrate.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> Most methanogens are <a class="mw-redirect" href="/wiki/Autotrophic" title="Autotrophic">autotrophic</a> producers, but those that <a class="mw-redirect" href="/wiki/Oxidize" title="Oxidize">oxidize</a> CH<sub>3</sub>COO<sup>−</sup> are classed as <a href="/wiki/Chemotroph" title="Chemotroph">chemotroph</a> instead.
+</p>
+<h2><span class="mw-headline" id="Comparative_genomics_and_molecular_signatures">Comparative genomics and molecular signatures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanogen&amp;action=edit&amp;section=3" title="Edit section: Comparative genomics and molecular signatures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Comparative genomic analysis has led to the identification of 31 signature proteins which are specific for the methanogens (also known as <i>Methanoarchaeota</i>). Most of these proteins are related to methanogenesis, and they could serve as potential molecular markers for the methanogens.<sup class="reference" id="cite_ref-Gupta_14-0"><a href="#cite_note-Gupta-14">[14]</a></sup> Additionally, 10 proteins found in all methanogens which are shared by <i><a href="/wiki/Archaeoglobus" title="Archaeoglobus">Archaeoglobus</a></i>, suggest that these two groups are related.<sup class="reference" id="cite_ref-Gupta_14-1"><a href="#cite_note-Gupta-14">[14]</a></sup> In phylogenetic trees, the methanogens are not monophyletic and they are generally split into three clades.<sup class="reference" id="cite_ref-Gupta_14-2"><a href="#cite_note-Gupta-14">[14]</a></sup><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> Hence, the unique shared presence of large numbers of proteins by all methanogens could be due to lateral gene transfers.<sup class="reference" id="cite_ref-Gupta_14-3"><a href="#cite_note-Gupta-14">[14]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Metabolism">Metabolism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanogen&amp;action=edit&amp;section=4" title="Edit section: Metabolism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Methane_production">Methane production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanogen&amp;action=edit&amp;section=5" title="Edit section: Methane production">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Methanogens are known to produce methane from substrates such as H<sub>2</sub>/CO<sub>2</sub>, acetate, formate, methanol and methylamines in a process called <a href="/wiki/Methanogenesis" title="Methanogenesis">methanogenesis</a>.<sup class="reference" id="cite_ref-:6_16-0"><a href="#cite_note-:6-16">[16]</a></sup> Different methanogenic reactions are catalyzed by unique sets of <a href="/wiki/Enzyme" title="Enzyme">enzymes</a> and <a class="mw-redirect" href="/wiki/Coenzymes" title="Coenzymes">coenzymes</a>. While reaction mechanism and energetics vary between one reaction and another, all of these reactions contribute to net positive energy production by creating ion <a class="mw-redirect" href="/wiki/Concentration_gradient" title="Concentration gradient">concentration gradients</a> that are used to drive ATP synthesis.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> The overall reaction for H<sub>2</sub>/CO<sub>2</sub> methanogenesis is:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {CO2 + 4 H2 -&gt; CH4 + 2 H2O}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>CO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<mn>4</mn>
+<mspace width="thinmathspace"></mspace>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<msubsup>
+<mtext>CH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>O</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {CO2 + 4 H2 -&gt; CH4 + 2 H2O}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {CO2 + 4 H2 -&gt; CH4 + 2 H2O}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cc5fa92a0de1cbf766dc0f557efc21ec361e4ec8" style="vertical-align: -1.005ex; width:30.294ex; height:2.843ex;"/></span> (∆G˚’ = -134 kJ/mol CH<sub>4</sub>)</dd></dl>
+<p>Well-studied organisms that produce methane via H2/CO<sub>2</sub> methanogenesis include <i>Methanosarcina barkeri</i>, <i>Methanobacterium thermoautotrophicum</i>, and <i>Methanobacterium wolfei</i>.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup><sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup><sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> These organism are typically found in anaerobic environments.<sup class="reference" id="cite_ref-:6_16-1"><a href="#cite_note-:6-16">[16]</a></sup>
+</p><p>In the earliest stage of H<sub>2</sub>/CO<sub>2</sub> methanogenesis, CO<sub>2</sub> binds to <a href="/wiki/Methylfuran" title="Methylfuran">methylfuran</a> (MF) and is reduced to formyl-MF. This <a href="/wiki/Endergonic_reaction" title="Endergonic reaction">endergonic</a> reductive process (∆G˚’= +16 kJ/mol) is dependent on the availability of H<sub>2</sub> and is catalyzed by the enzyme formyl-MF dehydrogenase.<sup class="reference" id="cite_ref-:6_16-2"><a href="#cite_note-:6-16">[16]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {CO2 + H2 + MF -&gt; HCO-MF + H2O}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>CO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<mtext>MF</mtext>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mtext>HCO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>MF</mtext>
+<mo>+</mo>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>O</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {CO2 + H2 + MF -&gt; HCO-MF + H2O}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {CO2 + H2 + MF -&gt; HCO-MF + H2O}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a150f901be60a7b7174e541d4685e9eb138929f6" style="vertical-align: -1.005ex; width:39.895ex; height:2.843ex;"/></span></dd></dl>
+<p>The formyl constituent of formyl-MF is then transferred to the coenzyme <a href="/wiki/Tetrahydromethanopterin" title="Tetrahydromethanopterin">tetrahydromethanopterin</a> (H4MPT) and is catalyzed by a soluble enzyme known as <a class="mw-redirect" href="/wiki/Formyltransferase" title="Formyltransferase">formyl transferase</a>.  This results in the formation of formyl-H4MPT.<sup class="reference" id="cite_ref-:6_16-3"><a href="#cite_note-:6-16">[16]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {HCO-MF + H4MPT -&gt; HCO-H4MPT + MF}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HCO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>MF</mtext>
+<mo>+</mo>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>MPT</mtext>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mtext>HCO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>MPT</mtext>
+<mo>+</mo>
+<mtext>MF</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {HCO-MF + H4MPT -&gt; HCO-H4MPT + MF}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {HCO-MF + H4MPT -&gt; HCO-H4MPT + MF}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/516c64426a2c951d096190f2b7d979d2478608c4" style="vertical-align: -1.005ex; width:48.528ex; height:2.843ex;"/></span></dd></dl>
+<p>Formyl-H4MPT is subsequently reduced to methenyl-H4MPT. Methenyl-H4MPT then undergoes a one-step hydrolysis followed by a two-step reduction to methyl-H4MPT. The two-step reversible reduction is assisted by <a href="/wiki/Coenzyme_F420" title="Coenzyme F420">coenzyme F<sub>420</sub></a> whose hydride acceptor spontaneously oxidizes.<sup class="reference" id="cite_ref-:6_16-4"><a href="#cite_note-:6-16">[16]</a></sup> Once oxidized, F<sub>420</sub>’s electron supply is replenished by accepting electrons from H<sub>2</sub>. This step is catalyzed by methylene H4MPT dehydrogenase.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {HCO-H4MPT + H+ -&gt; CH-H4MPT+ + H2O}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HCO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>MPT</mtext>
+<mo>+</mo>
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mtext>CH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<msup>
+<mtext>MPT</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mo>+</mo>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>O</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {HCO-H4MPT + H+ -&gt; CH-H4MPT+ + H2O}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {HCO-H4MPT + H+ -&gt; CH-H4MPT+ + H2O}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/558117b84de5601cb3feca84798ee6eeef6e376e" style="vertical-align: -1.005ex; width:48.792ex; height:3.176ex;"/></span> (Formyl-H4MPT reduction)</dd></dl>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {CH-H4MPT+ + F420H2 -&gt; CH2=H4MPT + F420 + H+}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<msup>
+<mtext>MPT</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mo>+</mo>
+<msubsup>
+<mtext>F</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>420</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<msubsup>
+<mtext>CH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>=</mo>
+</mrow>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>MPT</mtext>
+<mo>+</mo>
+<msubsup>
+<mtext>F</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>420</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {CH-H4MPT+ + F420H2 -&gt; CH2=H4MPT + F420 + H+}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {CH-H4MPT+ + F420H2 -&gt; CH2=H4MPT + F420 + H+}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b5163d97e48599db691d0cc0296ad55cf7d00b9c" style="vertical-align: -1.005ex; width:57.502ex; height:3.176ex;"/></span>(Methenyl-H4MPT hydrolysis)</dd></dl>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {CH2=H4MPT + H2 -&gt; CH3-H4MPT + H+}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>CH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>=</mo>
+</mrow>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>MPT</mtext>
+<mo>+</mo>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<msubsup>
+<mtext>CH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>MPT</mtext>
+<mo>+</mo>
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {CH2=H4MPT + H2 -&gt; CH3-H4MPT + H+}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {CH2=H4MPT + H2 -&gt; CH3-H4MPT + H+}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/26a80ce2fae462462188e6211031242b71991bb1" style="vertical-align: -1.005ex; width:45.773ex; height:3.176ex;"/></span>(H4MPT reduction)</dd></dl>
+<p>Next, the methyl group of methyl-M4MPT is transferred to coenzyme M via a methyltransferase-catalyzed reaction.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup><sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {CH3-H4MPT + HS-CoM -&gt; CH3-S-CoM + H4MPT}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>CH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>MPT</mtext>
+<mo>+</mo>
+<mtext>HS</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>CoM</mtext>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<msubsup>
+<mtext>CH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>S</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>CoM</mtext>
+<mo>+</mo>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>MPT</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {CH3-H4MPT + HS-CoM -&gt; CH3-S-CoM + H4MPT}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {CH3-H4MPT + HS-CoM -&gt; CH3-S-CoM + H4MPT}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6608608b499bcbe9205f3d3c6f2982848811f511" style="vertical-align: -1.005ex; width:57.61ex; height:2.843ex;"/></span></dd></dl>
+<p>The final step of H<sub>2</sub>/CO<sub>2</sub> methanogenic involves <a class="mw-redirect" href="/wiki/Methyl-coenzyme_M_reductase" title="Methyl-coenzyme M reductase">methyl-coenzyme M reductase</a> and two coenzymes: N-7 mercaptoheptanoylthreonine phosphate (HS-HTP) and coenzyme <a href="/wiki/Cofactor_F430" title="Cofactor F430">F<sub>430</sub></a>. HS-HTP donates electrons to methyl-coenzyme M allowing the formation of methane and mixed disulfide of HS-CoM.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup> F<sub>430</sub>, on the other hand, serves as a prosthetic group to the reductase. H<sub>2</sub> donates electrons to the mixed disulfide of HS-CoM and regenerates coenzyme M.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {CH3-S-CoM + HS-HTP -&gt; CH4 + CoM-S-S-HTP}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>CH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>S</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>CoM</mtext>
+<mo>+</mo>
+<mtext>HS</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>HTP</mtext>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<msubsup>
+<mtext>CH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<mtext>CoM</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>S</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>S</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>HTP</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {CH3-S-CoM + HS-HTP -&gt; CH4 + CoM-S-S-HTP}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {CH3-S-CoM + HS-HTP -&gt; CH4 + CoM-S-S-HTP}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1ae8d1916803e617ae12013bde2bb4ea0a292fa1" style="vertical-align: -1.005ex; width:57.441ex; height:2.843ex;"/></span> (Formation of methane)</dd></dl>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {CoM-S-S-HTP + H2 -&gt; HS-CoM + HS-HTP}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CoM</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>S</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>S</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>HTP</mtext>
+<mo>+</mo>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mtext>HS</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>CoM</mtext>
+<mo>+</mo>
+<mtext>HS</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>HTP</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {CoM-S-S-HTP + H2 -&gt; HS-CoM + HS-HTP}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {CoM-S-S-HTP + H2 -&gt; HS-CoM + HS-HTP}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ab3f9c6c5ad6948438e849399a60c43fe6a95c9a" style="vertical-align: -1.005ex; width:51.222ex; height:2.843ex;"/></span> (Regeneration of coenzyme M)</dd></dl>
+<h3><span class="mw-headline" id="Wastewater_treatment">Wastewater treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanogen&amp;action=edit&amp;section=6" title="Edit section: Wastewater treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Methanogens are widely used in anaerobic digestors to treat wastewater as well as aqueous organic pollutants. Industries have selected methanogens for their ability to perform <a class="mw-redirect" href="/wiki/Biomethanation" title="Biomethanation">biomethanation</a> during wastewater decomposition thereby rendering the process sustainable and cost-effective.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup>
+</p><p>Bio-decomposition in the anaerobic digester involves a four-staged cooperative action performed by different microorganisms.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup> The first stage is the hydrolysis of insoluble polymerized organic matter by anaerobes such as Streptococcus and Enterobacterium.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup> In the second stage, acidogens breakdown dissolved organic pollutants in wastewater to <a class="mw-redirect" href="/wiki/Fatty_acids" title="Fatty acids">fatty acids</a>. In the third stage, acetogens convert fatty acids to <a class="mw-redirect" href="/wiki/Acetates" title="Acetates">acetates</a>. In the final stage, methanogens metabolize acetates to gaseous <a href="/wiki/Methane" title="Methane">methane</a>. The byproduct methane leaves the aqueous layer and serves as an energy source to power wastewater-processing within the digestor, thus generating a self-sustaining mechanism.<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup>
+</p><p>Methanogens also effectively decrease the concentration of organic matter in wastewater run-off and minimizes <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gas</a> emissions.<sup class="reference" id="cite_ref-doi_10.1016/j.procbio.2010.05.017_30-0"><a href="#cite_note-doi_10.1016/j.procbio.2010.05.017-30">[30]</a></sup> For instance, agricultural wastewater, highly rich in organic material, has been a major cause of aquatic ecosystem degradation. The chemical imbalances can lead to severe ramifications such as <a href="/wiki/Eutrophication" title="Eutrophication">eutrophication</a>. Through anaerobic digestion, the purification of wastewater can prevent unexpected blooms in water systems as well as trap <a href="/wiki/Methanogenesis" title="Methanogenesis">methanogenesis</a> within digesters. This allocates biomethane for energy production and prevents a potent greenhouse gas, methane, from being released into the atmosphere.
+</p><p>The organic components of wastewater vary vastly. Chemical structures of the organic matter select for specific methanogens to perform anaerobic digestion. An example is the members of <a href="/wiki/Methanosaeta" title="Methanosaeta">Methanosaeta</a> genus dominate the digestion of palm oil mill effluent (POME) and brewery waste.<sup class="reference" id="cite_ref-doi_10.1016/j.procbio.2010.05.017_30-1"><a href="#cite_note-doi_10.1016/j.procbio.2010.05.017-30">[30]</a></sup> Modernizing wastewater treatment systems to incorporate higher diversity of microorganisms to decrease organic content in treatment is under active research in the field of microbiological and chemical engineering.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup> Current new generations of Staged Multi-Phase Anaerobic reactors and Upflow Sludge Bed reactor systems are designed to have innovated features to counter high loading wastewater input, extreme temperature conditions, and possible inhibitory compounds.<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Strains">Strains</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanogen&amp;action=edit&amp;section=7" title="Edit section: Strains">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i><a class="mw-redirect" href="/wiki/Methanobacterium_bryantii" title="Methanobacterium bryantii">Methanobacterium bryantii</a></i></li>
+<li><i><a class="new" href="/w/index.php?title=Methanobacterium_formicum&amp;action=edit&amp;redlink=1" title="Methanobacterium formicum (page does not exist)">Methanobacterium formicum</a></i></li>
+<li><i><a class="new" href="/w/index.php?title=Methanobrevibacter_arboriphilicus&amp;action=edit&amp;redlink=1" title="Methanobrevibacter arboriphilicus (page does not exist)">Methanobrevibacter arboriphilicus</a></i></li>
+<li><i><a href="/wiki/Methanobrevibacter_gottschalkii" title="Methanobrevibacter gottschalkii">Methanobrevibacter gottschalkii</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Methanobrevibacter_ruminantium" title="Methanobrevibacter ruminantium">Methanobrevibacter ruminantium</a></i></li>
+<li><i><a href="/wiki/Methanobrevibacter_smithii" title="Methanobrevibacter smithii">Methanobrevibacter smithii</a></i></li>
+<li><i><a class="new" href="/w/index.php?title=Methanococcus_chunghsingensis&amp;action=edit&amp;redlink=1" title="Methanococcus chunghsingensis (page does not exist)">Methanococcus chunghsingensis</a></i></li>
+<li><i><a class="new" href="/w/index.php?title=Methanococcus_burtonii&amp;action=edit&amp;redlink=1" title="Methanococcus burtonii (page does not exist)">Methanococcus burtonii</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Methanococcus_aeolicus" title="Methanococcus aeolicus">Methanococcus aeolicus</a></i></li>
+<li><i><a class="new" href="/w/index.php?title=Methanococcus_deltae&amp;action=edit&amp;redlink=1" title="Methanococcus deltae (page does not exist)">Methanococcus deltae</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Methanococcus_jannaschii" title="Methanococcus jannaschii">Methanococcus jannaschii</a></i></li>
+<li><i><a href="/wiki/Methanococcus_maripaludis" title="Methanococcus maripaludis">Methanococcus maripaludis</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Methanococcus_vannielii" title="Methanococcus vannielii">Methanococcus vannielii</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Methanocorpusculum_labreanum" title="Methanocorpusculum labreanum">Methanocorpusculum labreanum</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Methanoculleus_bourgensis" title="Methanoculleus bourgensis">Methanoculleus bourgensis</a></i> (<i>Methanogenium olentangyi</i> &amp; <i>Methanogenium bourgense</i>)</li>
+<li><i><a class="mw-redirect" href="/wiki/Methanoculleus_marisnigri" title="Methanoculleus marisnigri">Methanoculleus marisnigri</a></i></li>
+<li><i><a class="new" href="/w/index.php?title=Methanoflorens_stordalenmirensis&amp;action=edit&amp;redlink=1" title="Methanoflorens stordalenmirensis (page does not exist)">Methanoflorens stordalenmirensis</a></i><sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup></li>
+<li><i><a class="mw-redirect" href="/wiki/Methanofollis_liminatans" title="Methanofollis liminatans">Methanofollis liminatans</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Methanogenium_cariaci" title="Methanogenium cariaci">Methanogenium cariaci</a></i></li>
+<li><i><a href="/wiki/Methanogenium_frigidum" title="Methanogenium frigidum">Methanogenium frigidum</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Methanogenium_organophilum" title="Methanogenium organophilum">Methanogenium organophilum</a></i></li>
+<li><i><a class="new" href="/w/index.php?title=Methanogenium_wolfei&amp;action=edit&amp;redlink=1" title="Methanogenium wolfei (page does not exist)">Methanogenium wolfei</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Methanomicrobium_mobile" title="Methanomicrobium mobile">Methanomicrobium mobile</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Methanopyrus_kandleri" title="Methanopyrus kandleri">Methanopyrus kandleri</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Methanoregula_boonei" title="Methanoregula boonei">Methanoregula boonei</a></i></li>
+<li><i><a href="/wiki/Methanosaeta_concilii" title="Methanosaeta concilii">Methanosaeta concilii</a></i></li>
+<li><i><a class="new" href="/w/index.php?title=Methanosaeta_thermophila&amp;action=edit&amp;redlink=1" title="Methanosaeta thermophila (page does not exist)">Methanosaeta thermophila</a></i></li>
+<li><i><a href="/wiki/Methanosarcina_acetivorans" title="Methanosarcina acetivorans">Methanosarcina acetivorans</a></i></li>
+<li><i><a href="/wiki/Methanosarcina_barkeri" title="Methanosarcina barkeri">Methanosarcina barkeri</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Methanosarcina_mazei" title="Methanosarcina mazei">Methanosarcina mazei</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Methanosphaera_stadtmanae" title="Methanosphaera stadtmanae">Methanosphaera stadtmanae</a></i></li>
+<li><i><a class="new" href="/w/index.php?title=Methanospirillium_hungatei&amp;action=edit&amp;redlink=1" title="Methanospirillium hungatei (page does not exist)">Methanospirillium hungatei</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/Methanothermobacter_defluvii" title="Methanothermobacter defluvii">Methanothermobacter defluvii</a></i> (<i>Methanobacterium defluvii</i>)</li>
+<li><i><a class="mw-redirect" href="/wiki/Methanothermobacter_thermautotrophicus" title="Methanothermobacter thermautotrophicus">Methanothermobacter thermautotrophicus</a></i> (<i>Methanobacterium thermoautotrophicum</i>)</li>
+<li><i><a class="mw-redirect" href="/wiki/Methanothermobacter_thermoflexus" title="Methanothermobacter thermoflexus">Methanothermobacter thermoflexus</a></i> (<i>Methanobacterium thermoflexum</i>)</li>
+<li><i><a class="new" href="/w/index.php?title=Methanothermobacter_wolfei&amp;action=edit&amp;redlink=1" title="Methanothermobacter wolfei (page does not exist)">Methanothermobacter wolfei</a></i> (<i>Methanobacterium wolfei</i>)</li>
+<li><i><a class="new" href="/w/index.php?title=Methanothrix_sochngenii&amp;action=edit&amp;redlink=1" title="Methanothrix sochngenii (page does not exist)">Methanothrix sochngenii</a></i></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanogen&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Extremophile" title="Extremophile">Extremophile</a></li>
+<li><a href="/wiki/Methane_clathrate" title="Methane clathrate">Methane clathrate</a></li>
+<li><a href="/wiki/Methanopyrus" title="Methanopyrus">Methanopyrus</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanogen&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">
+<cite class="citation book">Joseph W. Lengeler (1999). <i>Biology of the Prokaryotes</i>. Stuttgart: Thieme. p. 796. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-632-05357-7" title="Special:BookSources/0-632-05357-7">0-632-05357-7</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Biology+of+the+Prokaryotes&amp;rft.place=Stuttgart&amp;rft.pages=796&amp;rft.pub=Thieme&amp;rft.date=1999&amp;rft.isbn=0-632-05357-7&amp;rft.au=Joseph+W.+Lengeler&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">J.K. Kristjansson;  et al. (1982). "Different Ks values for hydrogen of methanogenic bacteria and sulfate-reducing bacteria: an explanation for the apparent inhibition of methanogenesis by sulfate". <i>Arch. Microbiol</i>. <b>131</b> (3): 278–282. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2FBF00405893" rel="nofollow">10.1007/BF00405893</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Arch.+Microbiol.&amp;rft.atitle=Different+Ks+values+for+hydrogen+of+methanogenic+bacteria+and+sulfate-reducing+bacteria%3A+an+explanation+for+the+apparent+inhibition+of+methanogenesis+by+sulfate&amp;rft.volume=131&amp;rft.issue=3&amp;rft.pages=278-282&amp;rft.date=1982&amp;rft_id=info%3Adoi%2F10.1007%2FBF00405893&amp;rft.au=J.K.+Kristjansson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tabatabaei, Meisam; Rahim, Raha Abdul; Abdullah, Norhani; Wright, André-Denis G.; Shirai, Yoshihito; Sakai, Kenji; Sulaiman, Alawi; Hassan, Mohd Ali (2010). "Importance of the methanogenic archaea populations in anaerobic wastewater treatments". <i>Process Biochemistry</i>. <b>45</b> (8): 1214–1225. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.procbio.2010.05.017" rel="nofollow">10.1016/j.procbio.2010.05.017</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Process+Biochemistry&amp;rft.atitle=Importance+of+the+methanogenic+archaea+populations+in+anaerobic+wastewater+treatments&amp;rft.volume=45&amp;rft.issue=8&amp;rft.pages=1214-1225&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1016%2Fj.procbio.2010.05.017&amp;rft.aulast=Tabatabaei&amp;rft.aufirst=Meisam&amp;rft.au=Rahim%2C+Raha+Abdul&amp;rft.au=Abdullah%2C+Norhani&amp;rft.au=Wright%2C+Andr%C3%A9-Denis+G.&amp;rft.au=Shirai%2C+Yoshihito&amp;rft.au=Sakai%2C+Kenji&amp;rft.au=Sulaiman%2C+Alawi&amp;rft.au=Hassan%2C+Mohd+Ali&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Peters V; Conrad R (1995). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1388429" rel="nofollow">"Methanogenic and other strictly anaerobic bacteria in desert soil and other oxic sois"</a>. <i>Applied and Environmental Microbiology</i>. <b>61</b> (4): 1673–1676. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1388429" rel="nofollow">1388429</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16535011" rel="nofollow">16535011</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Applied+and+Environmental+Microbiology&amp;rft.atitle=Methanogenic+and+other+strictly+anaerobic+bacteria+in+desert+soil+and+other+oxic+sois&amp;rft.volume=61&amp;rft.issue=4&amp;rft.pages=1673-1676&amp;rft.date=1995&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1388429&amp;rft_id=info%3Apmid%2F16535011&amp;rft.au=Peters+V&amp;rft.au=Conrad+R&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1388429&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20090327135553/http://spacecenter.uark.edu/JillJabstract.doc" rel="nofollow">"Archived copy"</a>. Archived from <a class="external text" href="http://spacecenter.uark.edu/JillJabstract.doc" rel="nofollow">the original</a> on 2009-03-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-20</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fspacecenter.uark.edu%2FJillJabstract.doc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Archived copy as title (<a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">link</a>) </span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Boone, David R. (2015). <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/9781118960608.gbm00495/abstract" rel="nofollow"><i>Bergey's Manual of Systematics of Archaea and Bacteria</i></a>. John Wiley &amp; Sons, Ltd. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2F9781118960608.gbm00495%2Ffull" rel="nofollow">10.1002/9781118960608.gbm00495/full</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9781118960608" title="Special:BookSources/9781118960608">9781118960608</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Bergey%27s+Manual+of+Systematics+of+Archaea+and+Bacteria&amp;rft.pub=John+Wiley+%26+Sons%2C+Ltd&amp;rft.date=2015&amp;rft_id=info%3Adoi%2F10.1002%2F9781118960608.gbm00495%2Ffull&amp;rft.isbn=9781118960608&amp;rft.aulast=Boone&amp;rft.aufirst=David+R.&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2F9781118960608.gbm00495%2Fabstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Kvenvolden_1995-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kvenvolden_1995_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kvenvolden, K. (1995). "A review of the geochemistry of methane in natural gas hydrate". <i>Organic Geochemistry</i>. <b>23</b> (11–12): 997–1008. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0146-6380%2896%2900002-2" rel="nofollow">10.1016/0146-6380(96)00002-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Organic+Geochemistry&amp;rft.atitle=A+review+of+the+geochemistry+of+methane+in+natural+gas+hydrate&amp;rft.volume=23&amp;rft.issue=11%E2%80%9312&amp;rft.pages=997-1008&amp;rft.date=1995&amp;rft_id=info%3Adoi%2F10.1016%2F0146-6380%2896%2900002-2&amp;rft.aulast=Kvenvolden&amp;rft.aufirst=K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Milkov_2004-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Milkov_2004_8-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Milkov, Alexei V (2004). "Global estimates of hydrate-bound gas in marine sediments: how much is really out there?". <i>Earth-Science Reviews</i>. <b>66</b> (3–4): 183–197. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2004ESRv...66..183M" rel="nofollow">2004ESRv...66..183M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.earscirev.2003.11.002" rel="nofollow">10.1016/j.earscirev.2003.11.002</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Earth-Science+Reviews&amp;rft.atitle=Global+estimates+of+hydrate-bound+gas+in+marine+sediments%3A+how+much+is+really+out+there%3F&amp;rft.volume=66&amp;rft.issue=3%E2%80%934&amp;rft.pages=183-197&amp;rft.date=2004&amp;rft_id=info%3Adoi%2F10.1016%2Fj.earscirev.2003.11.002&amp;rft_id=info%3Abibcode%2F2004ESRv...66..183M&amp;rft.aulast=Milkov&amp;rft.aufirst=Alexei+V&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tung, H. C.; Bramall, N. E.; Price, P. B. (2005). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1308353" rel="nofollow">"Microbial origin of excess methane in glacial ice and implications for life on Mars"</a>. <i>Proceedings of the National Academy of Sciences</i>. <b>102</b> (51): 18292. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2005PNAS..10218292T" rel="nofollow">2005PNAS..10218292T</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1073%2Fpnas.0507601102" rel="nofollow">10.1073/pnas.0507601102</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1308353" rel="nofollow">1308353</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16339015" rel="nofollow">16339015</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences&amp;rft.atitle=Microbial+origin+of+excess+methane+in+glacial+ice+and+implications+for+life+on+Mars&amp;rft.volume=102&amp;rft.issue=51&amp;rft.pages=18292&amp;rft.date=2005&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1308353&amp;rft_id=info%3Apmid%2F16339015&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.0507601102&amp;rft_id=info%3Abibcode%2F2005PNAS..10218292T&amp;rft.aulast=Tung&amp;rft.aufirst=H.+C.&amp;rft.au=Bramall%2C+N.+E.&amp;rft.au=Price%2C+P.+B.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1308353&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Icarus (vol. 178, p. 277)cs:Methanogen</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.newscientistspace.com/article/dn8428-extreme-bugs-back-idea-of-life-on-mars.html" rel="nofollow">Extreme bugs back idea of life on Mars</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.space.com/scienceastronomy/051220_science_tuesday.html" rel="nofollow">"Crater Critters: Where Mars Microbes Might Lurk"</a>. <i>Space.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 December</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Space.com&amp;rft.atitle=Crater+Critters%3A+Where+Mars+Microbes+Might+Lurk&amp;rft_id=http%3A%2F%2Fwww.space.com%2Fscienceastronomy%2F051220_science_tuesday.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Thauer, R. K. &amp; Shima, S. (2006). "Biogeochemistry: Methane and microbes". <i>Nature</i>. <b>440</b> (7086): 878–879. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2006Natur.440..878T" rel="nofollow">2006Natur.440..878T</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2F440878a" rel="nofollow">10.1038/440878a</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16612369" rel="nofollow">16612369</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Biogeochemistry%3A+Methane+and+microbes&amp;rft.volume=440&amp;rft.issue=7086&amp;rft.pages=878-879&amp;rft.date=2006&amp;rft_id=info%3Apmid%2F16612369&amp;rft_id=info%3Adoi%2F10.1038%2F440878a&amp;rft_id=info%3Abibcode%2F2006Natur.440..878T&amp;rft.au=Thauer%2C+R.+K.&amp;rft.au=Shima%2C+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Gupta-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gupta_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gupta_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Gupta_14-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Gupta_14-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Gao B; Gupta RS (2007). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1852104" rel="nofollow">"Phylogenomic analysis of proteins that are distinctive of Archaea and its main subgroups and the origin of methanogenesis"</a>. <i>BMC Genomics</i>. <b>8</b>: 86. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1186%2F1471-2164-8-86" rel="nofollow">10.1186/1471-2164-8-86</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1852104" rel="nofollow">1852104</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17394648" rel="nofollow">17394648</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BMC+Genomics&amp;rft.atitle=Phylogenomic+analysis+of+proteins+that+are+distinctive+of+Archaea+and+its+main+subgroups+and+the+origin+of+methanogenesis&amp;rft.volume=8&amp;rft.pages=86&amp;rft.date=2007&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1852104&amp;rft_id=info%3Apmid%2F17394648&amp;rft_id=info%3Adoi%2F10.1186%2F1471-2164-8-86&amp;rft.au=Gao+B&amp;rft.au=Gupta+RS&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1852104&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gribaldo S; Brochier-Armanet C (2006). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1578729" rel="nofollow">"The origin and evolution of Archaea: a state of the art"</a>. <i>Philos Trans R Soc Lond B Biol Sci</i>. <b>361</b> (1470): 1007–1022. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1098%2Frstb.2006.1841" rel="nofollow">10.1098/rstb.2006.1841</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1578729" rel="nofollow">1578729</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16754611" rel="nofollow">16754611</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Philos+Trans+R+Soc+Lond+B+Biol+Sci&amp;rft.atitle=The+origin+and+evolution+of+Archaea%3A+a+state+of+the+art&amp;rft.volume=361&amp;rft.issue=1470&amp;rft.pages=1007-1022&amp;rft.date=2006&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1578729&amp;rft_id=info%3Apmid%2F16754611&amp;rft_id=info%3Adoi%2F10.1098%2Frstb.2006.1841&amp;rft.au=Gribaldo+S&amp;rft.au=Brochier-Armanet+C&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1578729&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-:6-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-:6_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:6_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:6_16-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:6_16-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:6_16-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Blaut, M. (1994). "Metabolism of methanogens". <i>Antonie van Leeuwenhoek</i>. <b>66</b> (1–3): 187–208. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2Fbf00871639" rel="nofollow">10.1007/bf00871639</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0003-6072" rel="nofollow">0003-6072</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/7747931" rel="nofollow">7747931</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Antonie+van+Leeuwenhoek&amp;rft.atitle=Metabolism+of+methanogens&amp;rft.volume=66&amp;rft.issue=1%E2%80%933&amp;rft.pages=187-208&amp;rft.date=1994&amp;rft.issn=0003-6072&amp;rft_id=info%3Apmid%2F7747931&amp;rft_id=info%3Adoi%2F10.1007%2Fbf00871639&amp;rft.aulast=Blaut&amp;rft.aufirst=M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dybas, M; Konisky, J (1992). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC206501" rel="nofollow">"Energy transduction in the methanogen Methanococcus voltae is based on a sodium current"</a>. <i>J Bacteriol</i>. <b>174</b> (17): 5575–5583. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1128%2Fjb.174.17.5575-5583.1992" rel="nofollow">10.1128/jb.174.17.5575-5583.1992</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC206501" rel="nofollow">206501</a></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J+Bacteriol&amp;rft.atitle=Energy+transduction+in+the+methanogen+Methanococcus+voltae+is+based+on+a+sodium+current.&amp;rft.volume=174&amp;rft.issue=17&amp;rft.pages=5575-5583&amp;rft.date=1992&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC206501&amp;rft_id=info%3Adoi%2F10.1128%2Fjb.174.17.5575-5583.1992&amp;rft.aulast=Dybas&amp;rft.aufirst=M&amp;rft.au=Konisky%2C+J&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC206501&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Karrasch, M.; Börner, G.; Enssle, M.; Thauer, R. K. (1990-12-12). "The molybdoenzyme formylmethanofuran dehydrogenase from Methanosarcina barkeri contains a pterin cofactor". <i>European Journal of Biochemistry</i>. <b>194</b> (2): 367–372. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1111%2Fj.1432-1033.1990.tb15627.x" rel="nofollow">10.1111/j.1432-1033.1990.tb15627.x</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0014-2956" rel="nofollow">0014-2956</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/2125267" rel="nofollow">2125267</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=European+Journal+of+Biochemistry&amp;rft.atitle=The+molybdoenzyme+formylmethanofuran+dehydrogenase+from+Methanosarcina+barkeri+contains+a+pterin+cofactor&amp;rft.volume=194&amp;rft.issue=2&amp;rft.pages=367-372&amp;rft.date=1990-12-12&amp;rft.issn=0014-2956&amp;rft_id=info%3Apmid%2F2125267&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1432-1033.1990.tb15627.x&amp;rft.aulast=Karrasch&amp;rft.aufirst=M.&amp;rft.au=B%C3%B6rner%2C+G.&amp;rft.au=Enssle%2C+M.&amp;rft.au=Thauer%2C+R.+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">Börner, G.; Karrasch, M.; Thauer, R. K. (1991-09-23). "Molybdopterin adenine dinucleotide and molybdopterin hypoxanthine dinucleotide in formylmethanofuran dehydrogenase from Methanobacterium thermoautotrophicum (Marburg)". <i>FEBS Letters</i>. <b>290</b> (1–2): 31–34. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0014-5793%2891%2981218-w" rel="nofollow">10.1016/0014-5793(91)81218-w</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0014-5793" rel="nofollow">0014-5793</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/1915887" rel="nofollow">1915887</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=FEBS+Letters&amp;rft.atitle=Molybdopterin+adenine+dinucleotide+and+molybdopterin+hypoxanthine+dinucleotide+in+formylmethanofuran+dehydrogenase+from+Methanobacterium+thermoautotrophicum+%28Marburg%29&amp;rft.volume=290&amp;rft.issue=1%E2%80%932&amp;rft.pages=31-34&amp;rft.date=1991-09-23&amp;rft.issn=0014-5793&amp;rft_id=info%3Apmid%2F1915887&amp;rft_id=info%3Adoi%2F10.1016%2F0014-5793%2891%2981218-w&amp;rft.aulast=B%C3%B6rner&amp;rft.aufirst=G.&amp;rft.au=Karrasch%2C+M.&amp;rft.au=Thauer%2C+R.+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal">Schmitz, Ruth A.; Albracht, Simon P. J.; Thauer, Rudolf K. (1992-11-01). <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1432-1033.1992.tb17376.x/abstract" rel="nofollow">"A molybdenum and a tungsten isoenzyme of formylmethanofuran dehydrogenase in the thermophilic archaeon Methanobacterium wolfei"</a>. <i>European Journal of Biochemistry</i>. <b>209</b> (3): 1013–1018. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1111%2Fj.1432-1033.1992.tb17376.x" rel="nofollow">10.1111/j.1432-1033.1992.tb17376.x</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1432-1033" rel="nofollow">1432-1033</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=European+Journal+of+Biochemistry&amp;rft.atitle=A+molybdenum+and+a+tungsten+isoenzyme+of+formylmethanofuran+dehydrogenase+in+the+thermophilic+archaeon+Methanobacterium+wolfei&amp;rft.volume=209&amp;rft.issue=3&amp;rft.pages=1013-1018&amp;rft.date=1992-11-01&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1432-1033.1992.tb17376.x&amp;rft.issn=1432-1033&amp;rft.aulast=Schmitz&amp;rft.aufirst=Ruth+A.&amp;rft.au=Albracht%2C+Simon+P.+J.&amp;rft.au=Thauer%2C+Rudolf+K.&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1111%2Fj.1432-1033.1992.tb17376.x%2Fabstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zirngibl, C (February 1990). "N5,N10-Methylenetetrahydromethanopterin dehydrogenase from Methanobacterium thermoautotrophicum has hydrogenase activity". <i>Laboratorium fir Mikrobiologie</i>. <b>261</b> (1): 112–116. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0014-5793%2890%2980649-4" rel="nofollow">10.1016/0014-5793(90)80649-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Laboratorium+fir+Mikrobiologie&amp;rft.atitle=N5%2CN10-Methylenetetrahydromethanopterin+dehydrogenase+from+Methanobacterium+thermoautotrophicum+has+hydrogenase+activity&amp;rft.volume=261&amp;rft.issue=1&amp;rft.pages=112-116&amp;rft.date=1990-02&amp;rft_id=info%3Adoi%2F10.1016%2F0014-5793%2890%2980649-4&amp;rft.aulast=Zirngibl&amp;rft.aufirst=C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation journal">te Brömmelstroet, B. W.; Geerts, W. J.; Keltjens, J. T.; van der Drift, C.; Vogels, G. D. (1991-09-20). "Purification and properties of 5,10-methylenetetrahydromethanopterin dehydrogenase and 5,10-methylenetetrahydromethanopterin reductase, two coenzyme F420-dependent enzymes, from Methanosarcina barkeri". <i>Biochimica et Biophysica Acta</i>. <b>1079</b> (3): 293–302. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0167-4838%2891%2990072-8" rel="nofollow">10.1016/0167-4838(91)90072-8</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0006-3002" rel="nofollow">0006-3002</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/1911853" rel="nofollow">1911853</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biochimica+et+Biophysica+Acta&amp;rft.atitle=Purification+and+properties+of+5%2C10-methylenetetrahydromethanopterin+dehydrogenase+and+5%2C10-methylenetetrahydromethanopterin+reductase%2C+two+coenzyme+F420-dependent+enzymes%2C+from+Methanosarcina+barkeri&amp;rft.volume=1079&amp;rft.issue=3&amp;rft.pages=293-302&amp;rft.date=1991-09-20&amp;rft.issn=0006-3002&amp;rft_id=info%3Apmid%2F1911853&amp;rft_id=info%3Adoi%2F10.1016%2F0167-4838%2891%2990072-8&amp;rft.aulast=te+Br%C3%B6mmelstroet&amp;rft.aufirst=B.+W.&amp;rft.au=Geerts%2C+W.+J.&amp;rft.au=Keltjens%2C+J.+T.&amp;rft.au=van+der+Drift%2C+C.&amp;rft.au=Vogels%2C+G.+D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kengen, Servé W. M.; Mosterd, Judith J.; Nelissen, Rob L. H.; Keltjens, Jan T.; Drift, Chris van der; Vogels, Godfried D. (1988-08-01). <a class="external text" href="https://link.springer.com/article/10.1007/BF00408315" rel="nofollow">"Reductive activation of the methyl-tetrahydromethanopterin: coenzyme M methyltransferase from Methanobacterium thermoautotrophicum strain ΔH"</a>. <i>Archives of Microbiology</i>. <b>150</b> (4): 405–412. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2FBF00408315" rel="nofollow">10.1007/BF00408315</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0302-8933" rel="nofollow">0302-8933</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Archives+of+Microbiology&amp;rft.atitle=Reductive+activation+of+the+methyl-tetrahydromethanopterin%3A+coenzyme+M+methyltransferase+from+Methanobacterium+thermoautotrophicum+strain+%CE%94H&amp;rft.volume=150&amp;rft.issue=4&amp;rft.pages=405-412&amp;rft.date=1988-08-01&amp;rft_id=info%3Adoi%2F10.1007%2FBF00408315&amp;rft.issn=0302-8933&amp;rft.aulast=Kengen&amp;rft.aufirst=Serv%C3%A9+W.+M.&amp;rft.au=Mosterd%2C+Judith+J.&amp;rft.au=Nelissen%2C+Rob+L.+H.&amp;rft.au=Keltjens%2C+Jan+T.&amp;rft.au=Drift%2C+Chris+van+der&amp;rft.au=Vogels%2C+Godfried+D.&amp;rft_id=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2FBF00408315&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bobik, T. A.; Olson, K. D.; Noll, K. M.; Wolfe, R. S. (1987-12-16). "Evidence that the heterodisulfide of coenzyme M and 7-mercaptoheptanoylthreonine phosphate is a product of the methylreductase reaction in Methanobacterium". <i>Biochemical and Biophysical Research Communications</i>. <b>149</b> (2): 455–460. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0006-291x%2887%2990389-5" rel="nofollow">10.1016/0006-291x(87)90389-5</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0006-291X" rel="nofollow">0006-291X</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/3122735" rel="nofollow">3122735</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biochemical+and+Biophysical+Research+Communications&amp;rft.atitle=Evidence+that+the+heterodisulfide+of+coenzyme+M+and+7-mercaptoheptanoylthreonine+phosphate+is+a+product+of+the+methylreductase+reaction+in+Methanobacterium&amp;rft.volume=149&amp;rft.issue=2&amp;rft.pages=455-460&amp;rft.date=1987-12-16&amp;rft.issn=0006-291X&amp;rft_id=info%3Apmid%2F3122735&amp;rft_id=info%3Adoi%2F10.1016%2F0006-291x%2887%2990389-5&amp;rft.aulast=Bobik&amp;rft.aufirst=T.+A.&amp;rft.au=Olson%2C+K.+D.&amp;rft.au=Noll%2C+K.+M.&amp;rft.au=Wolfe%2C+R.+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ellermann, J.; Hedderich, R.; Böcher, R.; Thauer, R. K. (1988-03-15). "The final step in methane formation. Investigations with highly purified methyl-CoM reductase (component C) from Methanobacterium thermoautotrophicum (strain Marburg)". <i>European Journal of Biochemistry</i>. <b>172</b> (3): 669–677. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1111%2Fj.1432-1033.1988.tb13941.x" rel="nofollow">10.1111/j.1432-1033.1988.tb13941.x</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0014-2956" rel="nofollow">0014-2956</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/3350018" rel="nofollow">3350018</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=European+Journal+of+Biochemistry&amp;rft.atitle=The+final+step+in+methane+formation.+Investigations+with+highly+purified+methyl-CoM+reductase+%28component+C%29+from+Methanobacterium+thermoautotrophicum+%28strain+Marburg%29&amp;rft.volume=172&amp;rft.issue=3&amp;rft.pages=669-677&amp;rft.date=1988-03-15&amp;rft.issn=0014-2956&amp;rft_id=info%3Apmid%2F3350018&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1432-1033.1988.tb13941.x&amp;rft.aulast=Ellermann&amp;rft.aufirst=J.&amp;rft.au=Hedderich%2C+R.&amp;rft.au=B%C3%B6cher%2C+R.&amp;rft.au=Thauer%2C+R.+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Appels, Lise; et.al. (2008). "Principles and potential of the anaerobic digestion of waste-activated sludge" Progress in Energy and Combustion Science. 34 (6): 755 -781. doi: 10.1016/j.pecs.2008.06.002</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Christensen, Thomas H; et.al. (2010). "Anaerobic Digestion: Process" Solid Waste Technology &amp; Management, Volume 1 &amp; 2. doi: 10.1002/9780470666883.ch372</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Shah, Fayyaz Ali, et. al. (2014). “Microbial Ecology of Anaerobic Digesters: The Key Players of Anaerobiosis” ScientificWorldJournal. 3852369 (1). doi:10.1155/2014/183752</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lettinga, G (1995). "Anaerobic Digestion and Wastewater Treatment Systems". <i>Antonie van Leeuwenhoek</i>. <b>67</b> (1): 3–28. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2Fbf00872193" rel="nofollow">10.1007/bf00872193</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/7741528" rel="nofollow">7741528</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Antonie+van+Leeuwenhoek&amp;rft.atitle=Anaerobic+Digestion+and+Wastewater+Treatment+Systems&amp;rft.volume=67&amp;rft.issue=1&amp;rft.pages=3-28&amp;rft.date=1995&amp;rft_id=info%3Adoi%2F10.1007%2Fbf00872193&amp;rft_id=info%3Apmid%2F7741528&amp;rft.aulast=Lettinga&amp;rft.aufirst=G&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-doi_10.1016/j.procbio.2010.05.017-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-doi_10.1016/j.procbio.2010.05.017_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-doi_10.1016/j.procbio.2010.05.017_30-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Tabatabaei, Meisa;  et al. (2010). <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S1359511310001984" rel="nofollow">"Importance of the methanogenic archaea populations in anaerobic wastewater treatments"</a>. <i>Process Biochemistry</i>. <b>45</b> (8): 1214–1225. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.procbio.2010.05.017" rel="nofollow">10.1016/j.procbio.2010.05.017</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Process+Biochemistry&amp;rft.atitle=Importance+of+the+methanogenic+archaea+populations+in+anaerobic+wastewater+treatments&amp;rft.volume=45&amp;rft.issue=8&amp;rft.pages=1214-1225&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1016%2Fj.procbio.2010.05.017&amp;rft.aulast=Tabatabaei&amp;rft.aufirst=Meisa&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1359511310001984&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>) </span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Marihiro, Takashi., Sekiguchi, Yuji. (2007). "Microbial communities in anaerobic digestion processes for waste and wastewater treatment: a microbiological update" Current Opinion in Biotechnology. 18 (3): 273-278. doi: 10.1016/j.copbio.2007.04.003</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">Lettinga, G; et.al. (1997). "Advanced anaerobic wastewater treatment in the near future" Water Science and Technology. 35 (10): 5 -12. <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0273122397002229" rel="nofollow">doi: 10.1016/S0273-1223(97)00222-9</a></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mondav, Rhiannon; Woodcroft, Ben J.; Kim, Eun-Hae; McCalley, Carmody K.; Hodgkins, Suzanne B.; Crill, Patrick M.; Chanton, Jeffrey; Hurst, Gregory B.; Verberkmoes, Nathan C.; Saleska, Scott R.; Hugenholtz, Philip; Rich, Virginia I.; Tyson, Gene W. (2014). "Discovery of a novel methanogen prevalent in thawing permafrost". <i>Nature Communications</i>. <b>5</b>: 3212. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2014NatCo...5E3212M" rel="nofollow">2014NatCo...5E3212M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fncomms4212" rel="nofollow">10.1038/ncomms4212</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24526077" rel="nofollow">24526077</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature+Communications&amp;rft.atitle=Discovery+of+a+novel+methanogen+prevalent+in+thawing+permafrost&amp;rft.volume=5&amp;rft.pages=3212&amp;rft.date=2014&amp;rft_id=info%3Apmid%2F24526077&amp;rft_id=info%3Adoi%2F10.1038%2Fncomms4212&amp;rft_id=info%3Abibcode%2F2014NatCo...5E3212M&amp;rft.aulast=Mondav&amp;rft.aufirst=Rhiannon&amp;rft.au=Woodcroft%2C+Ben+J.&amp;rft.au=Kim%2C+Eun-Hae&amp;rft.au=McCalley%2C+Carmody+K.&amp;rft.au=Hodgkins%2C+Suzanne+B.&amp;rft.au=Crill%2C+Patrick+M.&amp;rft.au=Chanton%2C+Jeffrey&amp;rft.au=Hurst%2C+Gregory+B.&amp;rft.au=Verberkmoes%2C+Nathan+C.&amp;rft.au=Saleska%2C+Scott+R.&amp;rft.au=Hugenholtz%2C+Philip&amp;rft.au=Rich%2C+Virginia+I.&amp;rft.au=Tyson%2C+Gene+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanogen"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<div aria-labelledby="Extremophiles" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Extremophiles" title="Template:Extremophiles"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Extremophiles" title="Template talk:Extremophiles"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Extremophiles&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Extremophiles" style="font-size:114%;margin:0 4em"><a href="/wiki/Extremophile" title="Extremophile">Extremophiles</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align:center;line-height:1.2em;">Types</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acidophile" title="Acidophile">Acidophile</a></li>
+<li><a href="/wiki/Alkaliphile" title="Alkaliphile">Alkaliphile</a></li>
+<li><a href="/wiki/Capnophile" title="Capnophile">Capnophile</a></li>
+<li><a href="/wiki/Cryozoa" title="Cryozoa">Cryozoa</a></li>
+<li><a href="/wiki/Endolith" title="Endolith">Endolith</a></li>
+<li><a href="/wiki/Halophile" title="Halophile">Halophile</a></li>
+<li><a href="/wiki/Hypolith" title="Hypolith">Hypolith</a></li>
+<li><a href="/wiki/Lipophilic_bacteria" title="Lipophilic bacteria">Lipophile</a></li>
+<li><a href="/wiki/Lithoautotroph" title="Lithoautotroph">Lithoautotroph</a></li>
+<li><a href="/wiki/Lithophile" title="Lithophile">Lithophile</a></li>
+<li><a class="mw-selflink selflink">Methanogen</a></li>
+<li><a href="/wiki/Metallotolerant" title="Metallotolerant">Metallotolerant</a></li>
+<li><a href="/wiki/Oligotroph" title="Oligotroph">Oligotroph</a></li>
+<li><a href="/wiki/Osmophile" title="Osmophile">Osmophile</a></li>
+<li><a href="/wiki/Piezophile" title="Piezophile">Piezophile</a></li>
+<li><a class="mw-redirect" href="/wiki/Polyextremophile" title="Polyextremophile">Polyextremophile</a></li>
+<li><a href="/wiki/Psammophile" title="Psammophile">Psammophile</a></li>
+<li><a href="/wiki/Psychrophile" title="Psychrophile">Psychrophile</a></li>
+<li><a href="/wiki/Radioresistance" title="Radioresistance">Radioresistant</a></li>
+<li><a href="/wiki/Thermophile" title="Thermophile">Thermophile</a> / <a href="/wiki/Hyperthermophile" title="Hyperthermophile">Hyperthermophile</a></li>
+<li><a href="/wiki/Thermoacidophile" title="Thermoacidophile">Thermoacidophile</a></li>
+<li><a href="/wiki/Xerophile" title="Xerophile">Xerophile</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align:center;line-height:1.2em;">Notable<br/>extremophiles</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Bacteria" title="Bacteria">Bacteria</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Chloroflexus_aurantiacus" title="Chloroflexus aurantiacus">Chloroflexus aurantiacus</a></i></li>
+<li><i><a href="/wiki/Deinococcus_radiodurans" title="Deinococcus radiodurans">Deinococcus radiodurans</a></i></li>
+<li><a href="/wiki/Deinococcus%E2%80%93Thermus" title="Deinococcus–Thermus">Deinococcus–Thermus</a></li>
+<li><a href="/wiki/Snottite" title="Snottite">Snottite</a></li>
+<li><i><a href="/wiki/Thermus_aquaticus" title="Thermus aquaticus">Thermus aquaticus</a></i></li>
+<li><i><a href="/wiki/Thermus_thermophilus" title="Thermus thermophilus">Thermus thermophilus</a></i></li>
+<li><i><a href="/wiki/Spirochaeta_americana" title="Spirochaeta americana">Spirochaeta americana</a></i></li>
+<li><a href="/wiki/GFAJ-1" title="GFAJ-1">GFAJ-1</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Archaea" title="Archaea">Archaea</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Pyrococcus_furiosus" title="Pyrococcus furiosus">Pyrococcus furiosus</a></i></li>
+<li><a href="/wiki/Strain_121" title="Strain 121">Strain 121</a></li>
+<li><i><a href="/wiki/Pyrolobus_fumarii" title="Pyrolobus fumarii">Pyrolobus fumarii</a></i></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Eukaryota" title="Eukaryota">Eukaryota</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Cyanidioschyzon_merolae" title="Cyanidioschyzon merolae">Cyanidioschyzon merolae</a></i></li>
+<li><i><a href="/wiki/Galdieria_sulphuraria" title="Galdieria sulphuraria">Galdieria sulphuraria</a></i></li>
+<li><i><a href="/wiki/Paralvinella_sulfincola" title="Paralvinella sulfincola">Paralvinella sulfincola</a></i></li>
+<li><i><a href="/wiki/Halicephalobus_mephisto" title="Halicephalobus mephisto">Halicephalobus mephisto</a></i></li>
+<li><a href="/wiki/Alvinella_pompejana" title="Alvinella pompejana">Pompeii worm</a></li>
+<li><i><a href="/wiki/Tardigrade" title="Tardigrade">Tardigrada</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;text-align:center;line-height:1.2em;">Related articles</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abiogenic_petroleum_origin" title="Abiogenic petroleum origin">Abiogenic petroleum origin</a></li>
+<li><a href="/wiki/Acidithiobacillales" title="Acidithiobacillales">Acidithiobacillales</a></li>
+<li><a href="/wiki/Acidobacteria" title="Acidobacteria">Acidobacteria</a></li>
+<li><a href="/wiki/Acidophiles_in_acid_mine_drainage" title="Acidophiles in acid mine drainage">Acidophiles in acid mine drainage</a></li>
+<li><a href="/wiki/Archaeoglobaceae" title="Archaeoglobaceae">Archaeoglobaceae</a></li>
+<li><a href="/wiki/Berkeley_Pit" title="Berkeley Pit">Berkeley Pit</a></li>
+<li><a href="/wiki/Blood_Falls" title="Blood Falls">Blood Falls</a></li>
+<li><a href="/wiki/Crenarchaeota" title="Crenarchaeota">Crenarchaeota</a></li>
+<li><a href="/wiki/Grylloblattidae" title="Grylloblattidae">Grylloblattidae</a></li>
+<li><a class="mw-redirect" href="/wiki/Halobacteria" title="Halobacteria">Halobacteria</a></li>
+<li><i><a href="/wiki/Halobacterium" title="Halobacterium">Halobacterium</a></i></li>
+<li><i><a href="/wiki/Helaeomyia_petrolei" title="Helaeomyia petrolei">Helaeomyia petrolei</a></i></li>
+<li><a href="/wiki/Hydrothermal_vent" title="Hydrothermal vent">Hydrothermal vent</a></li>
+<li><i><a href="/wiki/Methanopyrus" title="Methanopyrus">Methanopyrus</a></i></li>
+<li><a href="/wiki/Movile_Cave" title="Movile Cave">Movile Cave</a></li>
+<li><a href="/wiki/Radiotrophic_fungus" title="Radiotrophic fungus">Radiotrophic fungus</a></li>
+<li><a href="/wiki/Rio_Tinto_(river)" title="Rio Tinto (river)">Rio Tinto</a></li>
+<li><a href="/wiki/Taq_polymerase" title="Taq polymerase"><i>Taq</i> polymerase</a></li>
+<li><a href="/wiki/Thermostability" title="Thermostability">Thermostability</a></li>
+<li><a href="/wiki/Thermotogae" title="Thermotogae">Thermotogae</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1305
+Cached time: 20181012145419
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.508 seconds
+Real time usage: 0.864 seconds
+Preprocessor visited node count: 1751/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 74615/2097152 bytes
+Template argument size: 137/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 83705/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.271/10.000 seconds
+Lua memory usage: 3.63 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  425.940      1 -total
+ 80.33%  342.143      1 Template:Reflist
+ 48.16%  205.115     22 Template:Cite_journal
+ 18.93%   80.651      2 Template:Cite_book
+  7.37%   31.386      1 Template:Distinguish
+  3.68%   15.685      1 Template:Extremophile
+  3.30%   14.045      2 Template:Navbox
+  2.32%    9.888      2 Template:Cite_web
+  0.42%    1.781      1 Template:Main_other
+  0.39%    1.649      1 Template:Column-width
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:563456-0!canonical!math=5 and timestamp 20181012145419 and revision id 862171906
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Methanogen&amp;oldid=862171906">https://en.wikipedia.org/w/index.php?title=Methanogen&amp;oldid=862171906</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Anaerobic_digestion" title="Category:Anaerobic digestion">Anaerobic digestion</a></li><li><a href="/wiki/Category:Methane" title="Category:Methane">Methane</a></li><li><a href="/wiki/Category:Archaea_biology" title="Category:Archaea biology">Archaea biology</a></li><li><a href="/wiki/Category:Environmental_microbiology" title="Category:Environmental microbiology">Environmental microbiology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">CS1 maint: Archived copy as title</a></li><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Methanogen" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Methanogen" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Methanogen" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Methanogen" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Methanogen">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Methanogen&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Methanogen&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Methanogen" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Methanogen" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Methanogen&amp;oldid=862171906" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Methanogen&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1169785" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Methanogen&amp;id=862171906" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Methanogen">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Methanogen&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Methanogen&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D9%88%D9%84%D8%AF_%D8%A7%D9%84%D9%85%D9%8A%D8%AB%D8%A7%D9%86" hreflang="ar" lang="ar" title="مولد الميثان – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Metanogen" hreflang="ca" lang="ca" title="Metanogen – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Metanogen" hreflang="cs" lang="cs" title="Metanogen – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Methanbildner" hreflang="de" lang="de" title="Methanbildner – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Metaanibakterid" hreflang="et" lang="et" title="Metaanibakterid – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Arquea_metan%C3%B3gena" hreflang="es" lang="es" title="Arquea metanógena – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D8%AA%D8%A7%D9%86%D9%88%DA%98%D9%86" hreflang="fa" lang="fa" title="متانوژن – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/M%C3%A9tabolisme_m%C3%A9thanog%C3%A8ne" hreflang="fr" lang="fr" title="Métabolisme méthanogène – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Arquea_metan%C3%B3xena" hreflang="gl" lang="gl" title="Arquea metanóxena – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%A9%94%ED%85%8C%EC%9D%B8_%EC%84%B8%EA%B7%A0" hreflang="ko" lang="ko" title="메테인 세균 – Korean">한국어</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Metanogen" hreflang="id" lang="id" title="Metanogen – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Metanog%C3%A9nek" hreflang="hu" lang="hu" title="Metanogének – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%AE%E0%B5%86%E0%B4%A5%E0%B4%BE%E0%B4%A8%E0%B5%8A%E0%B4%9C%E0%B5%86%E0%B5%BB" hreflang="ml" lang="ml" title="മെഥാനൊജെൻ – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%83%B3%E8%8F%8C" hreflang="ja" lang="ja" title="メタン菌 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Metanogen" hreflang="no" lang="no" title="Metanogen – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Metanogeny" hreflang="pl" lang="pl" title="Metanogeny – Polish">Polski</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%BD%D0%BE%D0%B3%D0%B5%D0%BD%D1%8B" hreflang="ru" lang="ru" title="Метаногены – Russian">Русский</a></li><li class="interlanguage-link interwiki-scn"><a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Metan%C3%B2ggini" hreflang="scn" lang="scn" title="Metanòggini – Sicilian">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Methanogen" hreflang="simple" lang="simple" title="Methanogen – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Metanogen" hreflang="sr" lang="sr" title="Metanogen – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Metanogeeni" hreflang="fi" lang="fi" title="Metanogeeni – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AE%BE%E0%AE%A3%E0%AE%B5%E0%AE%B3%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF" hreflang="ta" lang="ta" title="சாணவளியாக்கி – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B9%82%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%99" hreflang="th" lang="th" title="เมทาโนเจน – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Metanojenler" hreflang="tr" lang="tr" title="Metanojenler – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%BD%D0%BE%D0%B3%D0%B5%D0%BD%D0%B8" hreflang="uk" lang="uk" title="Метаногени – Ukrainian">Українська</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1169785#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 2 October 2018, at 16:40<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Methanogen&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.508","walltime":"0.864","ppvisitednodes":{"value":1751,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":74615,"limit":2097152},"templateargumentsize":{"value":137,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":83705,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  425.940      1 -total"," 80.33%  342.143      1 Template:Reflist"," 48.16%  205.115     22 Template:Cite_journal"," 18.93%   80.651      2 Template:Cite_book","  7.37%   31.386      1 Template:Distinguish","  3.68%   15.685      1 Template:Extremophile","  3.30%   14.045      2 Template:Navbox","  2.32%    9.888      2 Template:Cite_web","  0.42%    1.781      1 Template:Main_other","  0.39%    1.649      1 Template:Column-width"]},"scribunto":{"limitreport-timeusage":{"value":"0.271","limit":"10.000"},"limitreport-memusage":{"value":3804668,"limit":52428800}},"cachereport":{"origin":"mw1305","timestamp":"20181012145419","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1319"});});</script>
+</body>
+</html>

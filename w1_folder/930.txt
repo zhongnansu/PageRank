@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Eddy covariance - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Eddy_covariance","wgTitle":"Eddy covariance","wgCurRevisionId":863285880,"wgRevisionId":863285880,"wgArticleId":3547877,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Wikipedia external links cleanup from October 2018","Wikipedia spam cleanup from October 2018","Articles needing additional references from July 2018","All articles needing additional references","Covariance and correlation","Boundary layer meteorology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Eddy_covariance","wgRelevantArticleId":3547877,"wgRequestId":"W74g-QpAME0AADH9Wk4AAAAK","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5336709","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Eddy_Covariance_IRGA_Sonic.jpg/1200px-Eddy_Covariance_IRGA_Sonic.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Eddy_covariance" rel="alternate"/>
+<link href="/w/index.php?title=Eddy_covariance&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Eddy_covariance&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Eddy_covariance" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Eddy_covariance rootpage-Eddy_covariance skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Eddy covariance</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-external_links" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This article's <b>use of <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a> may not follow Wikipedia's policies or guidelines</b>.<span class="hide-when-compact"> Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Eddy_covariance&amp;action=edit">improve this article</a> by removing <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_mirror_or_a_repository_of_links,_images,_or_media_files" title="Wikipedia:What Wikipedia is not">excessive</a> or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">inappropriate</a> external links, and converting useful links where appropriate into <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">footnote references</a>.</span> <small><i>(October 2018)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Eddy_covariance&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(July 2018)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Eddy_Covariance_IRGA_Sonic.jpg"><img alt="" class="thumbimage" data-file-height="2272" data-file-width="1704" height="267" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Eddy_Covariance_IRGA_Sonic.jpg/200px-Eddy_Covariance_IRGA_Sonic.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Eddy_Covariance_IRGA_Sonic.jpg/300px-Eddy_Covariance_IRGA_Sonic.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Eddy_Covariance_IRGA_Sonic.jpg/400px-Eddy_Covariance_IRGA_Sonic.jpg 2x" width="200"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Eddy_Covariance_IRGA_Sonic.jpg" title="Enlarge"></a></div>Eddy covariance system consisting of an ultrasonic anemometer and infrared gas analyser (IRGA).</div></div></div>
+<p>The <b>eddy covariance</b> (also known as <b>eddy correlation</b> and <b>eddy flux</b>) technique is a key atmospheric measurement technique to measure and calculate vertical turbulent fluxes within <a href="/wiki/Planetary_boundary_layer" title="Planetary boundary layer">atmospheric boundary layers</a>. The method analyzes high-frequency <a href="/wiki/Wind" title="Wind">wind</a> and <a href="/wiki/Scalar_(physics)" title="Scalar (physics)">scalar</a> atmospheric data series, and yields values of <a href="/wiki/Flux" title="Flux">fluxes</a> of these properties. It is a <a href="/wiki/Statistics" title="Statistics">statistical</a> method used in <a href="/wiki/Meteorology" title="Meteorology">meteorology</a> and other applications (micrometeorology, oceanography, hydrology, agricultural sciences, industrial and regulatory applications, etc.) to determine exchange rates of trace gases over natural ecosystems and agricultural fields, and to quantify gas emissions rates from other land and water areas. It is frequently used to estimate <a href="/wiki/Momentum" title="Momentum">momentum</a>, <a href="/wiki/Heat_flux" title="Heat flux">heat</a>, water vapour, carbon dioxide and methane fluxes.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p><p>The technique is also used extensively for verification and tuning of <a class="mw-redirect" href="/wiki/Global_climate_model" title="Global climate model">global climate models</a>, mesoscale and weather models, complex biogeochemical and ecological models, and remote sensing estimates from satellites and aircraft. The technique is mathematically complex, and requires significant care in setting up and processing data. To date, there is no uniform terminology or a single methodology for the Eddy Covariance technique, but much effort is being made by flux measurement networks (e.g., <a href="/wiki/FluxNet" title="FluxNet">FluxNet</a>, <a class="external text" href="http://ameriflux.lbl.gov/" rel="nofollow">Ameriflux</a>, <a class="external text" href="http://www.icos-infrastructure.eu/" rel="nofollow">ICOS</a>, <a class="external text" href="http://www.carboeurope.org/" rel="nofollow">CarboEurope</a>, <a class="external text" href="http://fluxnet.ccrp.ec.gc.ca/e_about.htm" rel="nofollow">Fluxnet Canada</a>, <a class="external text" href="http://www.ozflux.org.au/" rel="nofollow">OzFlux</a>, <a class="external text" href="http://www.neoninc.org/" rel="nofollow">NEON</a>, and <a class="external text" href="http://www.ileaps.org/" rel="nofollow">iLEAPS</a>) to unify the various approaches.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Eddycorrelationsystem.jpg"><img alt="" class="thumbimage" data-file-height="400" data-file-width="601" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eddycorrelationsystem.jpg/200px-Eddycorrelationsystem.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eddycorrelationsystem.jpg/300px-Eddycorrelationsystem.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eddycorrelationsystem.jpg/400px-Eddycorrelationsystem.jpg 2x" width="200"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Eddycorrelationsystem.jpg" title="Enlarge"></a></div>An eddy correlation instrument measuring oxygen fluxes in benthic environments.</div></div></div>
+<p>The technique has additionally proven applicable under water to the <a href="/wiki/Benthic_zone" title="Benthic zone">benthic zone</a> for measuring oxygen fluxes between seafloor and overlying water.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> In these environments, the technique is generally known as the eddy correlation technique, or just eddy correlation. Oxygen fluxes are extracted from raw measurements largely following the same principles as used in the atmosphere, and they are typically used as a proxy for carbon exchange, which is important for local and global carbon budgets. For most benthic ecosystems, eddy correlation is the most accurate technique for measuring <i>in-situ</i> fluxes. The technique's development and its applications under water remains a fruitful area of research.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#General_principles"><span class="tocnumber">1</span> <span class="toctext">General principles</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Mathematical_foundation"><span class="tocnumber">2</span> <span class="toctext">Mathematical foundation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Major_assumptions"><span class="tocnumber">3</span> <span class="toctext">Major assumptions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Eddy_covariance_processing_software"><span class="tocnumber">4</span> <span class="toctext">Eddy covariance  processing software</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Summary"><span class="tocnumber">5</span> <span class="toctext">Summary</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Uses_of_eddy_covariance_method"><span class="tocnumber">6</span> <span class="toctext">Uses of eddy covariance method</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Related_methods"><span class="tocnumber">7</span> <span class="toctext">Related methods</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Eddy_accumulation"><span class="tocnumber">7.1</span> <span class="toctext">Eddy accumulation</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#True_eddy_accumulation"><span class="tocnumber">7.1.1</span> <span class="toctext">True eddy accumulation</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Relaxed_eddy_accumulation"><span class="tocnumber">7.1.2</span> <span class="toctext">Relaxed eddy accumulation</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Further_reading"><span class="tocnumber">10</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="General_principles">General principles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eddy_covariance&amp;action=edit&amp;section=1" title="Edit section: General principles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Representation of the air flow in the atmospheric boundary layer</b>
+</p><p>Air flow can be imagined as a horizontal flow of numerous rotating eddies, that is, turbulent vortices of various sizes, with each eddy having horizontal and vertical components. The situation looks chaotic, but vertical movement of the components can be measured from the tower.
+</p>
+<div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Py%C3%B6rrekovarianssi-tekniikan_kaaviokuva.jpg"><img alt="Pyörrekovarianssi-tekniikan kaaviokuva.jpg" data-file-height="292" data-file-width="600" height="292" src="//upload.wikimedia.org/wikipedia/commons/6/65/Py%C3%B6rrekovarianssi-tekniikan_kaaviokuva.jpg" width="600"/></a></div></div><center><sup>[4]</sup></center><center><sup>[4]</sup></center>
+<p><b>Physical meaning of the eddy covariance method</b>
+</p><p>At one physical point on the tower, at Time1, Eddy1 moves parcel of air c1 down at the speed w1. Then, at Time2, Eddy2 moves parcel c2 up at the speed w2. Each parcel has gas concentration, pressure, temperature, and humidity. If these factors, along with the speed are known, we can determine the flux. For example, if one knew how many molecules of water went down with eddies at Time 1, and how many molecules went up with eddies at Time2, at the same point, one could calculate the vertical flux of water at this point over this time. 
+So, vertical flux can be presented as a covariance of the vertical wind velocity and the concentration of the entity of interest.
+</p>
+<div class="center"><div class="floatnone"><a class="image" href="/wiki/File:EddyCovariance_diagram_2.jpg"><img alt="EddyCovariance diagram 2.jpg" data-file-height="205" data-file-width="600" height="205" src="//upload.wikimedia.org/wikipedia/commons/5/5f/EddyCovariance_diagram_2.jpg" width="600"/></a></div></div><center><sup>[4]</sup></center><center><sup>[4]</sup></center>
+<h2><span class="mw-headline" id="Mathematical_foundation">Mathematical foundation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eddy_covariance&amp;action=edit&amp;section=2" title="Edit section: Mathematical foundation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In mathematical terms, "eddy flux" is computed as a <a href="/wiki/Covariance" title="Covariance">covariance</a> between instantaneous deviation in vertical wind speed (w') from the mean value (w-overbar) and instantaneous deviation in gas concentration, mixing ratio (s'), from its mean value (s-overbar), multiplied by mean air density (ρa). Several mathematical operations and assumptions, including Reynolds decomposition, are involved in getting from physically complete equations of the turbulent flow to practical equations for computing "eddy flux", as shown below.
+</p>
+<div class="center"><div class="floatnone"><a class="image" href="/wiki/File:EddyCovariance_equations_part_1.jpg"><img alt="EddyCovariance equations part 1.jpg" data-file-height="385" data-file-width="600" height="385" src="//upload.wikimedia.org/wikipedia/en/5/59/EddyCovariance_equations_part_1.jpg" width="600"/></a></div></div>
+<div class="center"><div class="floatnone"><a class="image" href="/wiki/File:EddyCovariance_equations_part_2.jpg"><img alt="EddyCovariance equations part 2.jpg" data-file-height="336" data-file-width="600" height="336" src="//upload.wikimedia.org/wikipedia/en/8/81/EddyCovariance_equations_part_2.jpg" width="600"/></a></div></div><center><sup>[4]</sup></center><center><sup>[4]</sup></center>
+<h2><span class="mw-headline" id="Major_assumptions">Major assumptions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eddy_covariance&amp;action=edit&amp;section=3" title="Edit section: Major assumptions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Measurements at a point can represent an upwind area</li>
+<li>Measurements are done inside the boundary layer of interest</li>
+<li>Fetch/<a href="/wiki/Flux_footprint" title="Flux footprint">flux footprint</a> is adequate – fluxes are measured only at area of interest</li>
+<li>Flux is fully turbulent – most of the net vertical transfer is done by eddies</li>
+<li>Terrain is horizontal and uniformed: average of fluctuations is zero; density fluctuations negligible; flow convergence &amp; divergence negligible</li>
+<li>Instruments can detect very small changes at high frequency, ranging from minimum of 5 Hz and to 40 Hz for tower-based measurements</li></ul>
+<h2><span class="mw-headline" id="Eddy_covariance_processing_software">Eddy covariance  processing software</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eddy_covariance&amp;action=edit&amp;section=4" title="Edit section: Eddy covariance processing software">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Currently (2011) there are many software programs <sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+to process eddy covariance data and derive quantities such as heat, momentum, and gas fluxes. The programs range significantly in complexity, flexibility, number of allowed instruments and variables, help system and user support. Some programs are <a href="/wiki/Open-source_software" title="Open-source software">open-source software</a>, while others are <a class="mw-redirect" href="/wiki/Closed-source" title="Closed-source">closed-source</a> or <a href="/wiki/Proprietary_software" title="Proprietary software">proprietary</a>.
+</p><p>Examples include free fully supported and <a class="external text" href="https://www.licor.com/env/help/eddypro/topics_eddypro/EddyPro_Home.html" rel="nofollow">documented</a> open-source software such as <a class="external text" href="http://www.licor.com/env/products/eddy_covariance/software.html" rel="nofollow">EddyPro</a>; free unsupported open-source programs such as <a class="external text" href="http://gaia.agraria.unitus.it/eco2s" rel="nofollow">ECO<sub>2</sub>S</a> and <a class="external text" href="https://web.archive.org/web/20080821152535/http://www.met.wau.nl/" rel="nofollow">ECpack</a>; free closed-source packages such as <a class="external text" href="https://www.geos.ed.ac.uk/homes/jbm/micromet/EdiRe/" rel="nofollow">EdiRe</a>, <a class="external text" href="https://epub.uni-bayreuth.de/342/" rel="nofollow">TK3</a>, <a class="external text" href="http://www.climatexchange.nl/projects/alteddy/index.htm" rel="nofollow">Alteddy</a>, and <a class="external text" href="https://www.bgc-jena.mpg.de/www/uploads/Publications/TechnicalReports/tech_report10.pdf" rel="nofollow">EddySoft</a>. Eddy covariance processing algorithms can also be implemented in commercial software such as <a class="mw-redirect" href="/wiki/Matlab" title="Matlab">Matlab</a> or the free <a href="/wiki/Open-source_software" title="Open-source software">open-source software</a> <a href="/wiki/R_(programming_language)" title="R (programming language)">R</a>.
+</p>
+<h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eddy_covariance&amp;action=edit&amp;section=5" title="Edit section: Summary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In summation, the 3D wind and another variable (usually gas concentration, temperature or momentum) are decomposed into <a href="/wiki/Average" title="Average">mean</a> and fluctuating components.  The covariance is calculated between the fluctuating component of the vertical wind and the fluctuating component of gas concentration. The measured flux is proportional to the covariance.
+</p><p>The area from which the detected eddies originate is described probabilistically and called a <a href="/wiki/Flux_footprint" title="Flux footprint">flux footprint</a>. The flux footprint area is dynamic in size and shape, changing with wind direction, thermal stability and measurements height, and has a gradual border.
+</p><p>The effect of sensor separation, finite sampling length, sonic path averaging, as well as other instrumental limitations, affect frequency response of the measurement system and may need a co-spectral correction, especially noticeable with closed-path instruments and at low heights below 1 to 1.5 m.
+</p>
+<h2><span class="mw-headline" id="Uses_of_eddy_covariance_method">Uses of eddy covariance method</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eddy_covariance&amp;action=edit&amp;section=6" title="Edit section: Uses of eddy covariance method">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Common uses:
+</p>
+<ul><li><a class="mw-redirect" href="/wiki/Greenhouse_gas_emissions" title="Greenhouse gas emissions">Greenhouse gas emissions</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a> emission monitoring</li>
+<li><a href="/wiki/Methane_emissions" title="Methane emissions">Methane emissions</a> monitoring</li>
+<li>Water loss, <a href="/wiki/Evapotranspiration" title="Evapotranspiration">evapotranspiration</a></li>
+<li>Instantaneous water use efficiency</li>
+<li>Instantaneous radiation use efficiency</li></ul>
+<p>Novel uses:
+</p>
+<ul><li>Precision <a href="/wiki/Irrigation" title="Irrigation">irrigation</a>, precision agriculture</li>
+<li><a class="mw-redirect" href="/wiki/Carbon_Sequestration" title="Carbon Sequestration">Carbon Sequestration</a> and Capture monitoring</li>
+<li><a href="/wiki/Landfill" title="Landfill">Landfill</a> gas emissions into the atmosphere</li>
+<li>Emissions of gases displaced by <a href="/wiki/Hydraulic_fracturing" title="Hydraulic fracturing">hydraulic fracturing</a> into the atmosphere</li>
+<li>Gas leak detection and location</li>
+<li>Methane emission from permafrost regions</li>
+<li>Biogenic VOCs emission</li>
+<li><a class="new" href="/w/index.php?title=Reactive_trace_gas&amp;action=edit&amp;redlink=1" title="Reactive trace gas (page does not exist)">Reactive trace gas</a> exchange flux measurement</li></ul>
+<h2><span class="mw-headline" id="Related_methods">Related methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eddy_covariance&amp;action=edit&amp;section=7" title="Edit section: Related methods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Eddy_accumulation">Eddy accumulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eddy_covariance&amp;action=edit&amp;section=8" title="Edit section: Eddy accumulation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="True_eddy_accumulation">True eddy accumulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eddy_covariance&amp;action=edit&amp;section=9" title="Edit section: True eddy accumulation">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The true eddy accumulation technique can be used to measure fluxes of trace gases for which there are no fast enough analysers available, thus where the eddy covariance technique is unsuitable. The basic idea is that upwards moving air parcels (updrafts) and downwards moving air parcels (downdrafts) are sampled proportionally to their velocity into separate reservoirs. A slow response gas analyser can then be used to quantify the average gas concentrations in both updraft and downdraft reservoirs.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup><sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Relaxed_eddy_accumulation">Relaxed eddy accumulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eddy_covariance&amp;action=edit&amp;section=10" title="Edit section: Relaxed eddy accumulation">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The main difference between the true and the relaxed eddy accumulation technique is that the latter samples air with a constant flow rate that is not proportional to the vertical wind speed.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup><sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup><sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eddy_covariance&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Eddy_(fluid_dynamics)" title="Eddy (fluid dynamics)">Eddy (fluid dynamics)</a></li>
+<li><a href="/wiki/Ecosystem_respiration" title="Ecosystem respiration">Ecosystem respiration</a></li>
+<li><a href="/wiki/Evaporation" title="Evaporation">Evaporation</a></li>
+<li><a href="/wiki/Evapotranspiration" title="Evapotranspiration">Evapotranspiration</a></li>
+<li><a class="mw-redirect" href="/wiki/Greenhouse_gas_emissions" title="Greenhouse gas emissions">Greenhouse gas emissions</a></li>
+<li><a href="/wiki/Heat_flux" title="Heat flux">Heat flux</a></li>
+<li><a href="/wiki/FluxNet" title="FluxNet">FluxNet</a></li>
+<li><a class="mw-redirect" href="/wiki/Latent_heat_flux" title="Latent heat flux">Latent heat flux</a></li>
+<li><a href="/wiki/Transpiration" title="Transpiration">Transpiration</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eddy_covariance&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Baldocchi, D., B. Hicks, and T. Meyers. 1988. Measuring biosphere-atmosphere exchanges of biologically related gases with micrometeorological methods. Ecology 69, 1331-1340</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Verma, S.B.: 1990, Micrometeorological methods for measuring surface fluxes of mass and energy, Remote Sensing Reviews 5(1): 99-115</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Lee, X., W. Massman, and B. Law. 2004. Handbook of Micrometeorology. Kluwer Academic Publishers, The Netherlands, 250 pp.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Burba, G., 2013. Eddy Covariance Method for Scientific, Industrial, Agricultural and Regulatory Applications: a Field Book on Measuring Ecosystem Gas Exchange and Areal Emission Rates. LI-COR Biosciences, Lincoln, USA, 331 pp.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Aubinet, M., T. Vesala, D. Papale (Eds.), 2012. Eddy Covariance: A Practical Guide to Measurement and Data Analysis. Springer Atmospheric Sciences, Springer Verlag, 438 pp.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Berg, P., H. Røy, F. Janssen, V. Meyer, B. B. Jørgensen, M. Hüttel, and D. de Beer. 2003. Oxygen uptake by aquatic sediments measured with a novel non-invasive eddy correlation technique. Marine Ecology Progress Series. 261:75-83.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">University of Virginia. <a class="external text" href="http://faculty.virginia.edu/berg/" rel="nofollow">Aquatic Eddy Covariance Research Lab</a>. Retrieved: 22 June 2015.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">The Florida State University. <a class="external text" href="http://myweb.fsu.edu/mhuettel/Projects/NSF_Eddy.html" rel="nofollow">Eddy Correlation - Further Development and Studies of Flow and Light driven dynamics of Benthic Oxygen Exchange</a>. Retrieved: 22 June 2015.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Leibniz-Institute of Freshwater Ecology and Inland Fisheries. <a class="external text" href="http://dfmcginnis.com/EddyCorrelation.html" rel="nofollow">Eddy Correlation in Natural Waters</a>. Retrieved: 22 June 2015.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Max Planck Institute for Marine Microbiology. <a class="external text" href="http://www.mpi-bremen.de/en/Eddy_Correlation_System.html" rel="nofollow">Eddy Correlation System (ECS)</a>. Retrieved: 22 June 2015.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Centre for Coastal Biogeochemistry Research. <a class="external text" href="http://www.scu.edu.au/coastal-biogeochemistry/index.php/49/" rel="nofollow">Eddy Correlation</a>. Retrieved: 22 June 2015.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">M. Mauder, T. Foken, R. Clement, J. A. Elbers, W. Eugster, T. Grunwald, B. Heusinkveld, and O. Kolle. 2007. Quality control of CarboEurope flux data – Part II: Inter-comparison of eddy-covariance software, Biogeosciences Discuss., 4, 4067–4099</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">R. E. Speer, K. A. Peterson, T. G. Ellestad, J. L. Durham (1985). <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1029/JD090iD01p02119/full" rel="nofollow">"Test of a prototype eddy accumulator for measuring atmospheric vertical fluxes of water vapor and particulate sulfate"</a>. <i>Journal of Geophysical Research</i>. <b>90</b>: 2119.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geophysical+Research&amp;rft.atitle=Test+of+a+prototype+eddy+accumulator+for+measuring+atmospheric+vertical+fluxes+of+water+vapor+and+particulate+sulfate&amp;rft.volume=90&amp;rft.pages=2119&amp;rft.date=1985&amp;rft.au=R.+E.+Speer%2C+K.+A.+Peterson%2C+T.+G.+Ellestad%2C+J.+L.+Durham&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1029%2FJD090iD01p02119%2Ffull&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEddy+covariance"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>) </span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Siebicke, Lukas. "True eddy accumulation and eddy covariance methods and instruments intercomparison for fluxes of CO2, CH4 and H2O above the Hainich Forest". <i>19th EGU General Assembly, EGU2017</i>: 18076. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2017EGUGA..1918076S" rel="nofollow">2017EGUGA..1918076S</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=19th+EGU+General+Assembly%2C+EGU2017&amp;rft.atitle=True+eddy+accumulation+and+eddy+covariance+methods+and+instruments+intercomparison+for+fluxes+of+CO2%2C+CH4+and+H2O+above+the+Hainich+Forest&amp;rft.pages=18076&amp;rft_id=info%3Abibcode%2F2017EGUGA..1918076S&amp;rft.aulast=Siebicke&amp;rft.aufirst=Lukas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEddy+covariance"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Businger, Joost A.; Oncley, Steven P.; Businger, Joost A.; Oncley, Steven P. (1990-04-01). <a class="external text" href="http://journals.ametsoc.org/doi/abs/10.1175/1520-0426%281990%29007%3C0349%3AFMWCS%3E2.0.CO%3B2" rel="nofollow">"Flux Measurement with Conditional Sampling"</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0426%281990%29007%253C0349%3Afmwcs%253E2.0.co%3B2" rel="nofollow">10.1175/1520-0426(1990)007%3C0349:fmwcs%3E2.0.co;2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Flux+Measurement+with+Conditional+Sampling&amp;rft.date=1990-04-01&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0426%281990%29007%253C0349%3Afmwcs%253E2.0.co%3B2&amp;rft.aulast=Businger&amp;rft.aufirst=Joost+A.&amp;rft.au=Oncley%2C+Steven+P.&amp;rft.au=Businger%2C+Joost+A.&amp;rft.au=Oncley%2C+Steven+P.&amp;rft_id=http%3A%2F%2Fjournals.ametsoc.org%2Fdoi%2Fabs%2F10.1175%2F1520-0426%25281990%2529007%253C0349%253AFMWCS%253E2.0.CO%253B2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEddy+covariance"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Osterwalder, S.; Fritsche, J.; Alewell, C.; Schmutz, M.; Nilsson, M. B.; Jocher, G.; Sommar, J.; Rinne, J.; Bishop, K. (2016-02-15). <a class="external text" href="https://www.atmos-meas-tech.net/9/509/2016/" rel="nofollow">"A dual-inlet, single detector relaxed eddy accumulation system for long-term measurement of mercury flux"</a>. <i>Atmos. Meas. Tech</i>. <b>9</b> (2): 509–524. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2016AMT.....9..509O" rel="nofollow">2016AMT.....9..509O</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.5194%2Famt-9-509-2016" rel="nofollow">10.5194/amt-9-509-2016</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1867-8548" rel="nofollow">1867-8548</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Atmos.+Meas.+Tech.&amp;rft.atitle=A+dual-inlet%2C+single+detector+relaxed+eddy+accumulation+system+for+long-term+measurement+of+mercury+flux&amp;rft.volume=9&amp;rft.issue=2&amp;rft.pages=509-524&amp;rft.date=2016-02-15&amp;rft.issn=1867-8548&amp;rft_id=info%3Adoi%2F10.5194%2Famt-9-509-2016&amp;rft_id=info%3Abibcode%2F2016AMT.....9..509O&amp;rft.aulast=Osterwalder&amp;rft.aufirst=S.&amp;rft.au=Fritsche%2C+J.&amp;rft.au=Alewell%2C+C.&amp;rft.au=Schmutz%2C+M.&amp;rft.au=Nilsson%2C+M.+B.&amp;rft.au=Jocher%2C+G.&amp;rft.au=Sommar%2C+J.&amp;rft.au=Rinne%2C+J.&amp;rft.au=Bishop%2C+K.&amp;rft_id=https%3A%2F%2Fwww.atmos-meas-tech.net%2F9%2F509%2F2016%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEddy+covariance"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jonas Sommar, Wei Zhu, Lihai Shang, Xinbin Feng, Che-Jin Lin (2013). <a class="external text" href="https://www.tandfonline.com/doi/full/10.3402/tellusb.v65i0.19940" rel="nofollow">"A whole-air relaxed eddy accumulation measurement system for sampling vertical vapour exchange of elemental mercury"</a>. <i>Tellus B: Chemical and Physical Meteorology</i>. <b>65</b>: 19940.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Tellus+B%3A+Chemical+and+Physical+Meteorology&amp;rft.atitle=A+whole-air+relaxed+eddy+accumulation+measurement+system+for+sampling+vertical+vapour+exchange+of+elemental+mercury&amp;rft.volume=65&amp;rft.pages=19940&amp;rft.date=2013&amp;rft.au=Jonas+Sommar%2C+Wei+Zhu%2C+Lihai+Shang%2C+Xinbin+Feng%2C+Che-Jin+Lin&amp;rft_id=https%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Ffull%2F10.3402%2Ftellusb.v65i0.19940&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEddy+covariance"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>) </span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eddy_covariance&amp;action=edit&amp;section=13" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Burba, G., 2013. <a class="external text" href="http://www.licor.com/env/products/eddy_covariance/ec_book.html" rel="nofollow">Eddy Covariance Method for Scientific, Industrial, Agricultural and Regulatory Applications: a Field Book on Measuring Ecosystem Gas Exchange and Areal Emission Rates.</a> LI-COR Biosciences, Lincoln, USA, 331 pp.</li>
+<li>Aubinet, M., T. Vesala, D. Papale (Eds.), 2012. <a class="external text" href="https://www.springer.com/earth+sciences+and+geography/atmospheric+sciences/book/978-94-007-2350-4" rel="nofollow">Eddy Covariance: A Practical Guide to Measurement and Data Analysis.</a> Springer Atmospheric Sciences, Springer Verlag, 438 pp.</li>
+<li>Foken, T., 2008. Micrometeorology, Springer-Verlag, Berlin, Germany, 308 pp.</li>
+<li>Lee, X., W. Massman, and B. Law, 2004. Handbook of Micrometeorology. Kluwer Academic Publishers, The Netherlands, 250 pp.</li>
+<li>Rosenberg, N. J., B. L. Blad, and S. B. Verma, 1983. Microclimate: The Biological Environment, Wiley-Interscience, 580 pp.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eddy_covariance&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.licor.com/env/products/eddy_covariance/ec_book.html" rel="nofollow">The Eddy Covariance Method Textbook</a></li>
+<li><a class="external text" href="http://www.biogeosciences.net/5/451/2008/bg-5-451-2008.pdf" rel="nofollow">Inter-comparison of Eddy Covariance Software</a></li>
+<li><a class="external text" href="http://www.google.com/search?q=eddy+covariance&amp;btnG=Search+Books&amp;tbm=bks&amp;tbo=1" rel="nofollow">Textbooks on Eddy Covariance from Google Books</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1242
+Cached time: 20181010155541
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.448 seconds
+Real time usage: 0.512 seconds
+Preprocessor visited node count: 624/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 20384/2097152 bytes
+Template argument size: 105/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 20168/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.245/10.000 seconds
+Lua memory usage: 2.66 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  381.652      1 -total
+ 72.22%  275.631      1 Template:Reflist
+ 62.51%  238.558      5 Template:Cite_journal
+ 20.24%   77.228      1 Template:External_links
+ 13.31%   50.785      2 Template:Ambox
+  3.29%   12.575      1 Template:Refimprove
+  0.74%    2.833      1 Template:Main_other
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3547877-0!canonical and timestamp 20181010155541 and revision id 863285880
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Eddy_covariance&amp;oldid=863285880">https://en.wikipedia.org/w/index.php?title=Eddy_covariance&amp;oldid=863285880</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Covariance_and_correlation" title="Category:Covariance and correlation">Covariance and correlation</a></li><li><a href="/wiki/Category:Boundary_layer_meteorology" title="Category:Boundary layer meteorology">Boundary layer meteorology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Wikipedia_external_links_cleanup_from_October_2018" title="Category:Wikipedia external links cleanup from October 2018">Wikipedia external links cleanup from October 2018</a></li><li><a href="/wiki/Category:Wikipedia_spam_cleanup_from_October_2018" title="Category:Wikipedia spam cleanup from October 2018">Wikipedia spam cleanup from October 2018</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_July_2018" title="Category:Articles needing additional references from July 2018">Articles needing additional references from July 2018</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Eddy+covariance" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Eddy+covariance" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Eddy_covariance" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Eddy_covariance" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Eddy_covariance">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Eddy_covariance&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Eddy_covariance&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Eddy_covariance" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Eddy_covariance" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Eddy_covariance&amp;oldid=863285880" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Eddy_covariance&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5336709" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Eddy_covariance&amp;id=863285880" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Eddy+covariance">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Eddy+covariance&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Eddy_covariance&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Eddy_covariance" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Turbulentse_kovariatsiooni_meetod" hreflang="et" lang="et" title="Turbulentse kovariatsiooni meetod – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Covariance_des_turbulences" hreflang="fr" lang="fr" title="Covariance des turbulences – French">Français</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Eddy-kovarians-metoden" hreflang="no" lang="no" title="Eddy-kovarians-metoden – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Covari%C3%A2ncia_de_v%C3%B3rtices_turbulentos" hreflang="pt" lang="pt" title="Covariância de vórtices turbulentos – Portuguese">Português</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5336709#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 9 October 2018, at 20:42<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Eddy_covariance&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.448","walltime":"0.512","ppvisitednodes":{"value":624,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":20384,"limit":2097152},"templateargumentsize":{"value":105,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":20168,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  381.652      1 -total"," 72.22%  275.631      1 Template:Reflist"," 62.51%  238.558      5 Template:Cite_journal"," 20.24%   77.228      1 Template:External_links"," 13.31%   50.785      2 Template:Ambox","  3.29%   12.575      1 Template:Refimprove","  0.74%    2.833      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.245","limit":"10.000"},"limitreport-memusage":{"value":2786297,"limit":52428800}},"cachereport":{"origin":"mw1242","timestamp":"20181010155541","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":657,"wgHostname":"mw1242"});});</script>
+</body>
+</html>

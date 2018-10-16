@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Coal liquefaction - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Coal_liquefaction","wgTitle":"Coal liquefaction","wgCurRevisionId":845945153,"wgRevisionId":845945153,"wgArticleId":1978817,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles lacking reliable references","Articles lacking reliable references from August 2014","All articles with minor POV problems","Articles with minor POV problems from August 2014","Official website different in Wikidata and Wikipedia","Wikipedia articles with NDL identifiers","Coal","Synthetic fuel technologies","Pyrolysis","German inventions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Coal_liquefaction","wgRelevantArticleId":1978817,"wgRequestId":"W73wiwrAADIAAIla9ewAAAAL","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q221979","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Coal_liquefaction" rel="alternate"/>
+<link href="/w/index.php?title=Coal_liquefaction&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Coal_liquefaction&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Coal_liquefaction" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Coal_liquefaction rootpage-Coal_liquefaction skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Coal liquefaction</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Coal liquefaction</b> is a process of converting <a href="/wiki/Coal" title="Coal">coal</a> into liquid hydrocarbons: <a href="/wiki/Liquid_fuel" title="Liquid fuel">liquid fuels</a> and <a href="/wiki/Petrochemical" title="Petrochemical">petrochemicals</a>. This process is often known as "Coal to X", where X can be many different hydrocarbon-based products. However, the most common process chain is "Coal to Liquid Fuels" (CTL).
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Historical_background"><span class="tocnumber">1</span> <span class="toctext">Historical background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Methods"><span class="tocnumber">2</span> <span class="toctext">Methods</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Pyrolysis_and_carbonization_processes"><span class="tocnumber">2.1</span> <span class="toctext">Pyrolysis and carbonization processes</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Hydrogenation_processes"><span class="tocnumber">2.2</span> <span class="toctext">Hydrogenation processes</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Indirect_conversion_processes"><span class="tocnumber">2.3</span> <span class="toctext">Indirect conversion processes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Environmental_considerations"><span class="tocnumber">3</span> <span class="toctext">Environmental considerations</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Research_and_development_of_coal_liquefaction"><span class="tocnumber">4</span> <span class="toctext">Research and development of coal liquefaction</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Coal_liquefaction_plants_and_projects"><span class="tocnumber">5</span> <span class="toctext">Coal liquefaction plants and projects</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#World_(Non-U.S.)_Coal_to_Liquid_Fuels_Projects"><span class="tocnumber">5.1</span> <span class="toctext">World (Non-U.S.) Coal to Liquid Fuels Projects</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#U.S._Coal_to_Liquid_Fuels_Projects"><span class="tocnumber">5.2</span> <span class="toctext">U.S. Coal to Liquid Fuels Projects</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Historical_background">Historical background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coal_liquefaction&amp;action=edit&amp;section=1" title="Edit section: Historical background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Coal liquefaction is an old technique that originally was developed at the beginning of the 20th century.<sup class="reference" id="cite_ref-Hook&amp;Aleklett_1-0"><a href="#cite_note-Hook&amp;Aleklett-1">[1]</a></sup> The best known CTL process is <a class="mw-redirect" href="/wiki/Fischer-Tropsch" title="Fischer-Tropsch">Fischer-Tropsch</a> (FT) synthesis, named after the inventors <a href="/wiki/Franz_Joseph_Emil_Fischer" title="Franz Joseph Emil Fischer">Franz Fischer</a> and <a href="/wiki/Hans_Tropsch" title="Hans Tropsch">Hans Tropsch</a> from the Kaiser Wilhelm Institute in the 1920s.<sup class="reference" id="cite_ref-Davis&amp;Occelli_2-0"><a href="#cite_note-Davis&amp;Occelli-2">[2]</a></sup>  The FT synthesis is the basis for indirect coal liquefaction (ICL) technology. <a href="/wiki/Friedrich_Bergius" title="Friedrich Bergius">Friedrich Bergius</a>, also a German chemist, invented direct coal liquefaction (DCL) as a way to convert lignite into synthetic oil in 1913.
+</p><p>Coal liquefaction became an integral part of the German industry and helped to fuel its military during <a href="/wiki/World_War_II" title="World War II">World War II</a>. Coal liquefaction was an important part of <a href="/wiki/Adolf_Hitler" title="Adolf Hitler">Adolf Hitler</a>'s four-year plan of 1936.<sup class="reference" id="cite_ref-Stranges_3-0"><a href="#cite_note-Stranges-3">[3]</a></sup> In the mid 1930s, companies like <a href="/wiki/IG_Farben" title="IG Farben">IG Farben</a> and Ruhrchemie initiated industrial production of synthetic fuels derived from coal. This led to the construction of twelve DCL plants using hydrogenation and nine ICL plants using Fischer-Tropsch synthesis by the end of World War II. In total, CTL provided 92% of Germany’s air fuel and over 50% of its petroleum supply in the 1940s.<sup class="reference" id="cite_ref-Hook&amp;Aleklett_1-1"><a href="#cite_note-Hook&amp;Aleklett-1">[1]</a></sup> The DCL and ICL plants effectively complemented each other rather than competed. The reason for this is that coal hydrogenation yields high quality gasoline for aviation and motors, while FT synthesis chiefly produced high quality diesel, lubrication oil, and waxes together with some smaller amounts of lower quality motor gasoline. The DCL plants were also more developed as <a href="/wiki/Lignite" title="Lignite">lignite</a> - the only coal available in many parts of Germany - worked better with hydrogenation than with FT synthesis. After the war, Germany had to abandon its synthetic fuel production as it was prohibited by the <a class="mw-redirect" href="/wiki/Potsdam_conference" title="Potsdam conference">Potsdam conference</a> in 1945.<sup class="reference" id="cite_ref-Stranges_3-1"><a href="#cite_note-Stranges-3">[3]</a></sup>
+</p><p>South Africa developed its own CTL technology in the 1950s. The South African Coal, Oil and Gas Corporation (<a href="/wiki/Sasol" title="Sasol">Sasol</a>) was founded in 1950 as part of industrialization process that the South African government considered essential for continued economic development and autonomy.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> However, South Africa had no domestic oil reserves and this made the country very vulnerable to disruption of supplies coming from outside, albeit for different reasons at different times. Sasol was a successful way to protect the country’s balance of payment against the increasing dependence on foreign oil. For years its principal product was synthetic fuel and this business enjoyed significant government protection in South Africa during the <a href="/wiki/Apartheid" title="Apartheid">apartheid</a> years for its contribution to domestic <a href="/wiki/Energy_security" title="Energy security">energy security</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> Although it was generally much more expensive to produce oil from coal than from natural petroleum, the political as well as economic importance of achieving as much independence as possible in this sphere was sufficient to overcome any objections. Early attempts to attract private capital, foreign or domestic, were unsuccessful, and it was only with state support that the coal liquefaction could start. CTL continued to play a vital part in South Africa's national economy, providing around 30% of its domestic fuel demand. The <a href="/wiki/Democratization" title="Democratization">democratization</a> in the 1990s has made Sasol search for products that could prove more competitive in the global marketplace, and as of the new millennium Sasol is focusing primarily on its petrochemical business, as well as on efforts to convert natural gas into crude oil (<a href="/wiki/Gas_to_liquids" title="Gas to liquids">GTL</a>) usings its expertise in <a class="mw-redirect" href="/wiki/Fischer-Tropsch_synthesis" title="Fischer-Tropsch synthesis">Fischer-Tropsch synthesis</a>.
+</p><p>CTL technologies have steadily improved since the Second World War. Technical development has resulted in a variety of systems capable of handling a wide array of coal types. However, only a few enterprises based on generating liquid fuels from coal have been undertaken, most of them based on ICL-technology. The most successful one is the South African company <a href="/wiki/Sasol" title="Sasol">Sasol</a>. CTL also received new interest in the early-2000s as a possible mitigation option for reducing oil dependence as rising oil prices and concerns over <a href="/wiki/Peak_oil" title="Peak oil">peak oil</a> made planners rethink existing supply chains for liquid fuels.
+</p>
+<h2><span class="mw-headline" id="Methods">Methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coal_liquefaction&amp;action=edit&amp;section=2" title="Edit section: Methods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Specific liquefaction technologies generally fall into two categories: direct (DCL) and indirect liquefaction (ICL) processes. Direct processes are based on approaches such as <a href="/wiki/Carbonization" title="Carbonization">carbonization</a>, <a href="/wiki/Pyrolysis" title="Pyrolysis">pyrolysis</a> and <a href="/wiki/Hydrogenation" title="Hydrogenation">hydrogenation</a>.<sup class="reference" id="cite_ref-handbook2_6-0"><a href="#cite_note-handbook2-6">[6]</a></sup>
+</p><p>Indirect liquefaction processes generally involve gasification of coal to a mixture of <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a> and <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a>, often known as synthetic gas or simply <a href="/wiki/Syngas" title="Syngas">syngas</a>, and then using a suitable process such as <a href="/wiki/Fischer%E2%80%93Tropsch_process" title="Fischer–Tropsch process">Fischer–Tropsch process</a> to convert the syngas mixture into liquid hydrocarbons.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p><p>In contrast, direct liquefaction processes convert coal into liquids directly without having to rely on intermediate steps by breaking down the organic structure of coal with application of solvents or catalysts in a high pressure and temperature environment.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Since liquid hydrocarbons generally have a higher hydrogen-carbon molar ratio than coals, either hydrogenation or carbon-rejection processes must be employed in both ICL and DCL technologies.
+</p><p>At industrial scales (i.e. thousands of barrels/day) a coal liquefaction plant typically requires multibillion-dollar capital investments.<sup class="reference" id="cite_ref-hook_9-0"><a href="#cite_note-hook-9">[9]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Pyrolysis_and_carbonization_processes">Pyrolysis and carbonization processes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coal_liquefaction&amp;action=edit&amp;section=3" title="Edit section: Pyrolysis and carbonization processes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A number of carbonization processes exist. The carbonization conversion typically occurs through <a href="/wiki/Pyrolysis" title="Pyrolysis">pyrolysis</a> or <a href="/wiki/Destructive_distillation" title="Destructive distillation">destructive distillation</a>. It produces condensable <a href="/wiki/Coal_tar" title="Coal tar">coal tar</a>, oil and water vapor, non-condensable <a class="mw-redirect" href="/wiki/Synthetic_gas" title="Synthetic gas">synthetic gas</a>, and a solid residue-<a href="/wiki/Char" title="Char">char</a>.
+</p><p>One typical example of carbonization is the <a href="/wiki/Karrick_process" title="Karrick process">Karrick process</a>. In this low-temperature <a href="/wiki/Carbonization" title="Carbonization">carbonization</a> process, coal is heated at 680 °F (360 °C) to 1,380 °F (750 °C) in the absence of air. These temperatures optimize the production of coal tars richer in lighter hydrocarbons than normal coal tar. However, any produced liquids are mostly a by-product and the main product is semi-coke - a solid and smokeless fuel.<sup class="reference" id="cite_ref-Hook&amp;Aleklett_1-2"><a href="#cite_note-Hook&amp;Aleklett-1">[1]</a></sup>
+</p><p>The COED Process, developed by <a href="/wiki/FMC_Corporation" title="FMC Corporation">FMC Corporation</a>, uses a <a href="/wiki/Fluidized_bed" title="Fluidized bed">fluidized bed</a> for processing, in combination with increasing temperature, through four stages of pyrolysis. Heat is transferred by hot gases produced by combustion of part of the produced char. A modification of this process, the COGAS Process, involves the addition of gasification of char.<sup class="reference" id="cite_ref-lee3_10-0"><a href="#cite_note-lee3-10">[10]</a></sup> The TOSCOAL Process, an analogue to the <a href="/wiki/TOSCO_II_process" title="TOSCO II process">TOSCO II oil shale retorting process</a> and <a class="mw-redirect" href="/wiki/Lurgi-Ruhrgas_process" title="Lurgi-Ruhrgas process">Lurgi-Ruhrgas process</a>, which is also used for the <a href="/wiki/Shale_oil_extraction" title="Shale oil extraction">shale oil extraction</a>, uses hot recycled solids for the heat transfer.<sup class="reference" id="cite_ref-lee3_10-1"><a href="#cite_note-lee3-10">[10]</a></sup>
+</p><p>Liquid yields of pyrolysis and Karrick processes are generally too low for practical use for synthetic liquid fuel production.<sup class="reference" id="cite_ref-Ekinci2002_11-0"><a href="#cite_note-Ekinci2002-11">[11]</a></sup> Furthermore, the resulting liquids are generally of low quality and require further treatment before they can be usable as motor fuels. Resulting coal tars and oils from pyrolysis are then further processed by <a class="mw-redirect" href="/wiki/Hydrotreating" title="Hydrotreating">hydrotreating</a> to remove <a href="/wiki/Sulfur" title="Sulfur">sulfur</a> and <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a> species, after which they are finally processed into liquid fuels.<sup class="reference" id="cite_ref-lee3_10-2"><a href="#cite_note-lee3-10">[10]</a></sup>
+</p><p>In summary, there is little possibility that this process will yield economically viable volumes of liquid fuel.<sup class="reference" id="cite_ref-hook_9-1"><a href="#cite_note-hook-9">[9]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Hydrogenation_processes">Hydrogenation processes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coal_liquefaction&amp;action=edit&amp;section=4" title="Edit section: Hydrogenation processes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a class="image" href="/wiki/File:Bergius.jpg"><img alt="" class="thumbimage" data-file-height="396" data-file-width="280" height="240" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bergius.jpg/170px-Bergius.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bergius.jpg/255px-Bergius.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/b/bc/Bergius.jpg 2x" width="170"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Bergius.jpg" title="Enlarge"></a></div><a href="/wiki/Friedrich_Bergius" title="Friedrich Bergius">Friedrich Bergius</a></div></div></div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Bergius_process" title="Bergius process">Bergius process</a></div>
+<p>One of the main methods of direct conversion of coal to liquids by hydrogenation process is the <a href="/wiki/Bergius_process" title="Bergius process">Bergius process</a>, developed by Friedrich Bergius in 1913. In this process, dry coal is mixed with heavy oil recycled from the process. A <a class="mw-redirect" href="/wiki/Catalyst" title="Catalyst">catalyst</a> is typically added to the mixture. The reaction occurs at between 400 °C (752 °F) to 500 °C (932 °F) and 20 to 70 <a href="/wiki/Pascal_(unit)" title="Pascal (unit)">MPa</a> <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> pressure. The reaction can be summarized as follows:<sup class="reference" id="cite_ref-handbook2_6-1"><a href="#cite_note-handbook2-6">[6]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n{\ce {C}}+(n+1){\ce {H2 -&gt; C}}{}_{n}{\ce {H}}_{2n+2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>C</mtext>
+</mrow>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>+</mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mtext>C</mtext>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mi>n</mi>
+<mo>+</mo>
+<mn>2</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n{\ce {C}}+(n+1){\ce {H2 -&gt; C}}{}_{n}{\ce {H}}_{2n+2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle n{\ce {C}}+(n+1){\ce {H2 -&gt; C}}{}_{n}{\ce {H}}_{2n+2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d1834d40bcca383d6f806ddbdf5879c2608a515" style="vertical-align: -1.005ex; width:29.794ex; height:3.009ex;"/></span></dd></dl>
+<p>After <a href="/wiki/World_War_I" title="World War I">World War I</a> several plants based on this technology were built in Germany; these plants were extensively used during <a href="/wiki/World_War_II" title="World War II">World War II</a> to supply Germany with fuel and lubricants.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> The Kohleoel Process, developed in Germany by <a class="mw-redirect" href="/wiki/RAG_Aktiengesellschaft" title="RAG Aktiengesellschaft">Ruhrkohle</a> and <a href="/wiki/VEBA" title="VEBA">VEBA</a>, was used in the demonstration plant with the capacity of 200 ton of <a href="/wiki/Lignite" title="Lignite">lignite</a> per day, built in <a href="/wiki/Bottrop" title="Bottrop">Bottrop</a>, Germany. This plant operated from 1981 to 1987. In this process, coal is mixed with a recycle solvent and iron catalyst. After preheating and pressurizing, H<sub>2</sub> is added. The process takes place in a tubular reactor at the pressure of 300 bar and at the temperature of 470 °C (880 °F).<sup class="reference" id="cite_ref-dti_13-0"><a href="#cite_note-dti-13">[13]</a></sup>  This process was also explored by <a class="mw-redirect" href="/wiki/SASOL" title="SASOL">SASOL</a> in South Africa.
+</p><p>In 1970-1980s, Japanese companies <a href="/wiki/JFE_Holdings" title="JFE Holdings">Nippon Kokan</a>, <a href="/wiki/Sumitomo_Metal_Industries" title="Sumitomo Metal Industries">Sumitomo Metal Industries</a> and <a href="/wiki/Mitsubishi_Heavy_Industries" title="Mitsubishi Heavy Industries">Mitsubishi Heavy Industries</a> developed the NEDOL process. In this process, coal is mixed with a recycled solvent and a synthetic iron-based catalyst; after preheating, H<sub>2</sub> is added. The reaction takes place in a tubular reactor at a temperature between 430 °C (810 °F) and 465 °C (870 °F) at the pressure 150-200 bar.  The produced oil has low quality and requires intensive upgrading.<sup class="reference" id="cite_ref-dti_13-1"><a href="#cite_note-dti-13">[13]</a></sup>  H-Coal process, developed by Hydrocarbon Research, Inc., in 1963, mixes pulverized coal with recycled liquids, hydrogen and catalyst in the ebullated bed reactor. Advantages of this process are that dissolution and oil upgrading are taking place in the single reactor, products have high H/C ratio, and a fast reaction time, while the main disadvantages are high gas yield (this is basically a thermal cracking process), high hydrogen consumption, and limitation of oil usage only as a boiler oil because of impurities.<sup class="reference" id="cite_ref-lee3_10-3"><a href="#cite_note-lee3-10">[10]</a></sup>
+</p><p>The SRC-I and SRC-II (Solvent Refined Coal) processes were developed by <a href="/wiki/Gulf_Oil" title="Gulf Oil">Gulf Oil</a> and implemented as pilot plants in the United States in the 1960s and 1970s.<sup class="reference" id="cite_ref-dti_13-2"><a href="#cite_note-dti-13">[13]</a></sup>
+</p><p>The Nuclear Utility Services Corporation developed hydrogenation process which was patented by Wilburn C. Schroeder in 1976. The process involved dried, pulverized coal mixed with roughly 1wt% <a href="/wiki/Molybdenum" title="Molybdenum">molybdenum</a> catalysts.<sup class="reference" id="cite_ref-handbook2_6-2"><a href="#cite_note-handbook2-6">[6]</a></sup>  Hydrogenation occurred by use of high temperature and pressure <a href="/wiki/Syngas" title="Syngas">synthesis gas</a> produced in a separate gasifier. The process ultimately yielded a synthetic crude product, <a href="/wiki/Naphtha" title="Naphtha">Naphtha</a>, a limited amount of C<sub>3</sub>/C<sub>4</sub> gas, light-medium weight liquids (C<sub>5</sub>-C<sub>10</sub>) suitable for use as fuels, small amounts of NH<sub>3</sub> and significant amounts of CO<sub>2</sub>.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>  Other single-stage hydrogenation processes are the Exxon Donor Solvent Process, the Imhausen High-pressure Process, and the Conoco Zinc Chloride Process.<sup class="reference" id="cite_ref-dti_13-3"><a href="#cite_note-dti-13">[13]</a></sup>
+</p><p>There are also a number of two-stage direct liquefaction processes; however, after the 1980s only the Catalytic Two-stage Liquefaction Process, modified from the H-Coal Process; the Liquid Solvent Extraction Process by <a href="/wiki/British_Coal" title="British Coal">British Coal</a>; and the Brown Coal Liquefaction Process of Japan have been developed.<sup class="reference" id="cite_ref-dti_13-4"><a href="#cite_note-dti-13">[13]</a></sup>
+</p><p><a href="/wiki/Shenhua_Group" title="Shenhua Group">Shenhua</a>, a Chinese coal mining company, decided in 2002 to build a direct liquefaction plant in Erdos, Inner Mongolia (<a href="/wiki/Erdos_CTL" title="Erdos CTL">Erdos CTL</a>), with barrel capacity of 20 thousand barrels per day (3.2<span style="margin-left:0.2em">×<span style="margin-left:0.1em">10</span></span><s style="display:none">^</s><sup>3</sup> m<sup>3</sup>/d) of liquid products including diesel oil, liquefied petroleum gas (LPG) and naphtha (petroleum ether). First tests were implemented at the end of 2008. A second and longer test campaign was started in October 2009. In 2011, Shenhua Group reported that the direct liquefaction plant had been in continuous and stable operations since November 2010, and that Shenhua had made 800 million yuan ($125.1 million) in earnings before taxes in the first six months of 2011 on the project.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</p><p>Chevron Corporation developed a process invented by Joel W. Rosenthal called the Chevron Coal Liquefaction Process (CCLP).<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>  It is unique due the close-coupling of the non-catalytic dissolver and the catalytic <a class="new" href="/w/index.php?title=Hydroprocessing&amp;action=edit&amp;redlink=1" title="Hydroprocessing (page does not exist)">hydroprocessing</a> unit.  The oil produced had properties that were unique when compared to other coal oils;  it was lighter and had far fewer heteroatom impurities.  The process was scaled-up to the 6 ton per day level, but not proven commercially.
+</p>
+<h3><span class="mw-headline" id="Indirect_conversion_processes">Indirect conversion processes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coal_liquefaction&amp;action=edit&amp;section=5" title="Edit section: Indirect conversion processes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a class="mw-redirect" href="/wiki/Fischer-Tropsch_process" title="Fischer-Tropsch process">Fischer-Tropsch process</a> and <a href="/wiki/Gas_to_liquids" title="Gas to liquids">Gas to liquids</a></div>
+<p>Indirect coal liquefaction (ICL) processes operate in two stages. In the first stage, coal is converted into <a href="/wiki/Syngas" title="Syngas">syngas</a> (a purified mixture of CO and H<sub>2</sub> gas). In the second stage, the syngas is converted into light hydrocarbons using one of three main processes: Fischer-Tropsch synthesis, <a href="/wiki/Methanol" title="Methanol">Methanol</a> synthesis with subsequent conversion to <a href="/wiki/Gasoline" title="Gasoline">gasoline</a> or <a class="mw-redirect" href="/wiki/Petrochemicals" title="Petrochemicals">petrochemicals</a>, and <a href="/wiki/Methanation" title="Methanation">methanation</a>. Fischer-Tropsch is the oldest of the ICL processes.
+</p><p>In methanol synthesis processes <a href="/wiki/Syngas" title="Syngas">syngas</a> is converted to <a href="/wiki/Methanol" title="Methanol">methanol</a>, which is subsequently polymerized into <a class="mw-redirect" href="/wiki/Alkanes" title="Alkanes">alkanes</a> over a <a href="/wiki/Zeolite" title="Zeolite">zeolite</a> catalyst. This process, under the moniker MTG (MTG for "Methanol To Gasoline"), was developed by <a href="/wiki/Mobil" title="Mobil">Mobil</a> in the early 1970s, and is being tested at a demonstration plant by <a href="/wiki/Jincheng_Anthracite_Mining_Group" title="Jincheng Anthracite Mining Group">Jincheng Anthracite Mining Group</a> (JAMG) in Shanxi, China. Based on this methanol synthesis, China has also developed a strong <a class="external text" href="http://worldctx.com/documentation/coal-to-chemicals/" rel="nofollow">coal-to-chemicals</a> industry, with outputs such as <a class="mw-redirect" href="/wiki/Olefins" title="Olefins">olefins</a>, <a href="/wiki/Ethylene_glycol" title="Ethylene glycol">MEG</a>, <a href="/wiki/Dimethyl_ether" title="Dimethyl ether">DME</a> and <a class="mw-redirect" href="/wiki/Aromatic" title="Aromatic">aromatics</a>.
+</p><p><a href="/wiki/Methanation" title="Methanation">Methanation</a> reaction converts syngas to substitute <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a> (SNG). The Great Plains Gasification Plant in Beulah, North Dakota is a coal-to-SNG facility producing 160 million cubic feet per day of SNG, and has been in operation since 1984.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> Several <a class="external text" href="http://worldctx.com/documentation/coal-to-sng/" rel="nofollow">coal-to-SNG</a> plants are in operation or in project in China, South Korea and India.
+</p><p>The above instances of commercial plants based on indirect coal liquefaction processes, as well as many others not listed here including those in planning stages and under construction, are tabulated in the Gasification Technologies Council's World Gasification Database.<sup class="reference" id="cite_ref-GTC_18-0"><a href="#cite_note-GTC-18">[18]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Environmental_considerations">Environmental considerations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coal_liquefaction&amp;action=edit&amp;section=6" title="Edit section: Environmental considerations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Environmental_impact_of_the_coal_industry" title="Environmental impact of the coal industry">Environmental impact of the coal industry</a></div>
+<p>Typically coal liquefaction processes are associated with significant CO<sub>2</sub> emissions from the gasification process or as well as from generation of necessary process heat and electricity inputs to the liquefaction reactors,<sup class="reference" id="cite_ref-hook_9-2"><a href="#cite_note-hook-9">[9]</a></sup> thus releasing <a class="mw-redirect" href="/wiki/Greenhouse_gases" title="Greenhouse gases">greenhouse gases</a> that can contribute to <a class="mw-redirect" href="/wiki/Anthropogenic_global_warming" title="Anthropogenic global warming">anthropogenic global warming</a>. Especially if coal liquefaction is conducted without any <a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">carbon capture and storage</a> technologies.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> There are technically feasible low-emission configurations of CTL plants.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>
+</p><p>High water consumption in water-gas shift or methane steam reforming reactions is another adverse environmental effect.<sup class="reference" id="cite_ref-hook_9-3"><a href="#cite_note-hook-9">[9]</a></sup>
+</p><p>Pyrolysis of coal produces <a class="mw-redirect" href="/wiki/Polycyclic_aromatic_hydrocarbons" title="Polycyclic aromatic hydrocarbons">polycyclic aromatic hydrocarbons</a>, which are known <a href="/wiki/Carcinogen" title="Carcinogen">carcinogens</a>.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> On the other hand, synthetic fuels produced by indirect coal liquefaction processes tend to be 'cleaner' than naturally occurring crudes, as heteroatom (e.g. sulfur) compounds are not synthesized or are excluded from the final product.
+</p><p>CO<sub>2</sub> emission control at <a href="/wiki/Erdos_CTL" title="Erdos CTL">Erdos CTL</a>, an Inner Mongolian plant with a <a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">carbon capture and storage</a> demonstration project, involves injecting CO<sub>2</sub> into the saline aquifer of Erdos Basin, at a rate of 100,000 tonnes per year.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup><sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">[<i><a class="mw-redirect" href="/wiki/Wikipedia:Independent_sources" title="Wikipedia:Independent sources"><span title="This claim needs a reference to a independent, third-party source. (August 2014)">third-party source needed</span></a></i>]</sup> As of late October 2013, an accumulated amount of 154,000 tonnes of CO<sub>2</sub>  had been injected since 2010, which reached or exceeded the design value.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup><sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">[<i><a class="mw-redirect" href="/wiki/Wikipedia:Independent_sources" title="Wikipedia:Independent sources"><span title="This claim needs a reference to a independent, third-party source. (August 2014)">third-party source needed</span></a></i>]</sup>
+</p><p>Ultimately, coal liquefaction-derived fuels will be judged relative to targets established for low-<a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gas</a> emissions fuels.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a class="mw-redirect" href="/wiki/Wikipedia:Manual_of_Style_(words_to_watch)#Editorializing" title="Wikipedia:Manual of Style (words to watch)"><span title="A statement that draws an independent conclusion. (August 2014)">editorializing</span></a></i>]</sup> For example, in the United States, the <a class="mw-redirect" href="/wiki/Renewable_Fuel_Standard" title="Renewable Fuel Standard">Renewable Fuel Standard</a> and <a href="/wiki/Low-carbon_fuel_standard" title="Low-carbon fuel standard">Low-carbon fuel standard</a> such as enacted in the State of California reflect an increasing demand for low carbon-footprint fuels. Also, legislation in the United States has restricted the military's use of alternative liquid fuels to only those demonstrated to have life-cycle GHG emissions less than or equal to those of their conventional petroleum-based equivalent, as required by Section 526 of the Energy Independence and Security Act (EISA) of 2007.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Research_and_development_of_coal_liquefaction">Research and development of coal liquefaction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coal_liquefaction&amp;action=edit&amp;section=7" title="Edit section: Research and development of coal liquefaction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The United States military has an active program to promote alternative fuels use,<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup> and utilizing vast domestic U.S. coal reserves to produce fuels through coal liquefaction would have obvious economic and security advantages. But with their higher carbon footprint, fuels from coal liquefaction face the significant challenge of reducing life-cycle GHG emissions to competitive levels, which demands continued research and development of liquefaction technology to increase efficiency and reduce emissions. A number of avenues of research &amp; development will need to be pursued, including:
+</p>
+<ul><li><a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">Carbon capture and storage</a> including <a href="/wiki/Enhanced_oil_recovery" title="Enhanced oil recovery">enhanced oil recovery</a> and developmental CCS methods to offset emissions from both synthesis and utilization of liquid fuels from coal,</li>
+<li>Coal/biomass/natural gas feedstock blends for coal liquefaction: Utilizing carbon-neutral biomass and hydrogen-rich natural gas as co-feeds in coal liquefaction processes has significant potential for bringing fuel products' life-cycle GHG emissions into competitive ranges,</li>
+<li>Hydrogen from renewables: the hydrogen demand of coal liquefaction processes might be supplied through renewable energy sources including wind, solar, and biomass, significantly reducing the emissions associated with traditional methods of hydrogen synthesis (such as steam methane reforming or char gasification), and</li>
+<li>Process improvements such as intensification of the Fischer-Tropsch process, hybrid liquefaction processes, and more efficient <a href="/wiki/Air_separation" title="Air separation">air separation</a> technologies needed for production of oxygen (e.g. ceramic membrane-based oxygen separation).</li></ul>
+<p>Since 2014, the U.S. Department of Energy and the Department of Defense have been collaborating on supporting new research and development in the area of coal liquefaction to produce military-specification liquid fuels, with an emphasis on jet fuel, which would be both cost-effective and in accordance with EISA Section 526.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup> Projects underway in this area are described under the U.S. Department of Energy National Energy Technology Laboratory's <a class="external text" href="http://www.netl.doe.gov/research/coal/energy-systems/fuels/coal-and-biomass-to-liquids/advanced-fuels-synthesis-index/" rel="nofollow">Advanced Fuels Synthesis R&amp;D area in the Coal and Coal-Biomass to Liquids Program</a>.
+</p><p>Every year, a researcher or developer in coal conversion is rewarded by the industry in receiving the <a class="external text" href="http://worldctx.com/world-ctx-award/" rel="nofollow">World Carbon To X Award</a>. The 2016 Award recipient is Mr. Jona Pillay, Executive director for Gasification &amp; CTL, Jindal Steel &amp; Power Ltd (India). The 2017 Award recipient is Dr. Yao Min, Deputy General Manager of Shenhua Ningxia Coal Group (China).<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup>
+</p><p>In terms of commercial development, coal conversion is experiencing a strong acceleration.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup> Geographically, most active projects and recently commissioned operations are located in Asia, mainly in China, while U.S. projects have been delayed or canceled due to the development of shale gas and shale oil.
+</p>
+<h2><span class="mw-headline" id="Coal_liquefaction_plants_and_projects">Coal liquefaction plants and projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coal_liquefaction&amp;action=edit&amp;section=8" title="Edit section: Coal liquefaction plants and projects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="World_.28Non-U.S..29_Coal_to_Liquid_Fuels_Projects"></span><span class="mw-headline" id="World_(Non-U.S.)_Coal_to_Liquid_Fuels_Projects">World (Non-U.S.) Coal to Liquid Fuels Projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coal_liquefaction&amp;action=edit&amp;section=9" title="Edit section: World (Non-U.S.) Coal to Liquid Fuels Projects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table border="1" class="wikitable sortable">
+<caption>World (Non-U.S.) Coal to Liquid Fuels Projects<sup class="reference" id="cite_ref-GTC_18-1"><a href="#cite_note-GTC-18">[18]</a></sup><sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup>
+</caption>
+<tbody><tr>
+<th>Project</th>
+<th>Developer</th>
+<th>Locations</th>
+<th>Type</th>
+<th>Products</th>
+<th>Start of Operations
+</th></tr>
+<tr>
+<td>Sasol Synfuels II (West) &amp; Sasol Synfuels III (East)
+</td>
+<td>Sasol (Pty) Ltd.
+</td>
+<td>Secunda, South Africa
+</td>
+<td>CTL
+</td>
+<td>160,000 BPD; primary products gasoline and light olefins (alkenes)
+</td>
+<td>1977(II)/1983(III)
+</td></tr>
+<tr>
+<td>Shenhua Direct Coal Liquefaction Plant
+</td>
+<td>Shenhua Group
+</td>
+<td>Erdos, Inner Mongolia, China
+</td>
+<td>CTL (direct liquefaction)
+</td>
+<td>20,000 BPD; primary products diesel fuel, liquefied petroleum gas, naphtha
+</td>
+<td>2008
+</td></tr>
+<tr>
+<td>Yitai CTL Plant
+</td>
+<td>Yitai Coal Oil Manufacturing Co., Ltd.
+</td>
+<td>Ordos, Zhungeer, China
+</td>
+<td>CTL
+</td>
+<td>160,000 mt/a Fischer-Tropsch liquids
+</td>
+<td>2009
+</td></tr>
+<tr>
+<td>Jincheng MTG Plant
+</td>
+<td>Jincheng Anthracite Mining Co., Ltd.
+</td>
+<td>Jincheng, China
+</td>
+<td>CTL
+</td>
+<td>300,000 t/a methanol from MTG process
+</td>
+<td>2009
+</td></tr>
+<tr>
+<td>Sasol Synfuels
+</td>
+<td>Sasol (Pty) Ltd.
+</td>
+<td>Secunda, South Africa
+</td>
+<td>CTL
+</td>
+<td>3,960,000 (Nm<sup>3</sup>/d) syngas capacity; Fischer-Tropsch liquids
+</td>
+<td>2011
+</td></tr>
+<tr>
+<td>Shanxi Lu'an CTL Plant
+</td>
+<td>Shanxi Lu'an Co. Ltd.
+</td>
+<td>Lu'an, China
+</td>
+<td>CTL
+</td>
+<td>160,000 mt/a Fischer-Tropsch liquids
+</td>
+<td>2014
+</td></tr>
+<tr>
+<td>ICM Coal to Liquids Plant
+</td>
+<td>Industrial Corporation of Mongolia LLC (ICM)
+</td>
+<td>Tugrug Nuur, Mongolia
+</td>
+<td>CTL
+</td>
+<td>13,200,000 (Nm<sup>3</sup>/d) syngas capacity; gasoline
+</td>
+<td>2015
+</td></tr>
+<tr>
+<td>Yitai Yili CTL Plant
+</td>
+<td>Yitai Yili Energy Co.
+</td>
+<td>Yili, China
+</td>
+<td>CTL
+</td>
+<td>30,000 BPD Fischer-Tropsch liquids
+</td>
+<td>2015
+</td></tr>
+<tr>
+<td>Yitai Ordos CTL Plant Phase II
+</td>
+<td>Yitai
+</td>
+<td>Ordos, Zhungeer-Dalu, China
+</td>
+<td>CTL
+</td>
+<td>46,000 BPD Fischer-Tropsch liquids
+</td>
+<td>2016
+</td></tr>
+<tr>
+<td>Yitai Ürümqi CTL Plant
+</td>
+<td>Yitai
+</td>
+<td>Guanquanbao, Urunqi, China
+</td>
+<td>CTL
+</td>
+<td>46,000 BPD Fischer-Tropsch liquids
+</td>
+<td>2016
+</td></tr>
+<tr>
+<td>Shenhua Ningxia CTL Project
+</td>
+<td>Shenhua Group Corporation Ltd
+</td>
+<td>China, Yinchuan, Ningxia
+</td>
+<td>CTL
+</td>
+<td>4 million tonnes/year of diesel &amp; naphtha
+</td>
+<td>2016
+</td></tr>
+<tr>
+<td>Celanese Coal/Ethanol Project
+</td>
+<td>Celanese Corporation – PT Pertamina Joint Venture
+</td>
+<td>Indonesia, Kalimantan or Sumatra
+</td>
+<td>CTL
+</td>
+<td>1.1 million tons of coal/year to produce ethanol
+</td>
+<td>2016
+</td></tr>
+<tr>
+<td>Clean Carbon Industries
+</td>
+<td>Clean Carbon Industries
+</td>
+<td>Mozambique, Tete province
+</td>
+<td>Coal waste-to-liquids
+</td>
+<td>65,000 BPD fuel
+</td>
+<td>2020
+</td></tr>
+<tr>
+<td>Arckaringa Project
+</td>
+<td>Altona Energy
+</td>
+<td>Australia, South
+</td>
+<td>CTL
+</td>
+<td>30,000 BPD Phase I 45,000 BPD + 840 MW Phase II
+</td>
+<td>TBD
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="U.S._Coal_to_Liquid_Fuels_Projects">U.S. Coal to Liquid Fuels Projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coal_liquefaction&amp;action=edit&amp;section=10" title="Edit section: U.S. Coal to Liquid Fuels Projects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table border="1" class="wikitable sortable">
+<caption>U.S. Coal to Liquid Fuels Projects<sup class="reference" id="cite_ref-GTC_18-2"><a href="#cite_note-GTC-18">[18]</a></sup><sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup>
+</caption>
+<tbody><tr>
+<th>Project</th>
+<th>Developer</th>
+<th>Locations</th>
+<th>Type</th>
+<th>Products</th>
+<th>Status
+</th></tr>
+<tr>
+<td>Adams Fork Energy - TransGas WV CTL
+</td>
+<td>TransGas Development Systems (TGDS)
+</td>
+<td>Mingo County, West Virginia
+</td>
+<td>CTL
+</td>
+<td>7,500 TPD of coal to 18,000 BPD gasoline and 300 BPD LPG
+</td>
+<td>Operations 2016 or later
+</td></tr>
+<tr>
+<td>American Lignite Energy (aka Coal Creek Project)
+</td>
+<td>American Lignite Energy LLC (North American Coal, Headwaters Energy Services)
+</td>
+<td>MacLean County, North Dakota
+</td>
+<td>CTL
+</td>
+<td>11.5 million TPY lignite coal to 32,000 BPD of undefined fuel
+</td>
+<td>Delayed/Cancelled
+</td></tr>
+<tr>
+<td>Belwood Coal-to-Liquids Project (Natchez)
+</td>
+<td>Rentech
+</td>
+<td>Natchez, Mississippi
+</td>
+<td>CTL
+</td>
+<td>Petcoke to up to 30,000 BPD ultra-clean diesel
+</td>
+<td>Delayed/Cancelled
+</td></tr>
+<tr>
+<td>CleanTech Energy Project
+</td>
+<td>USA Synthetic Fuel Corp. (USASF)
+</td>
+<td>Wyoming
+</td>
+<td>Synthetic crude
+</td>
+<td>30.6 mm bbls/year of synthetic crude (or 182 billion cubic feet per year)
+</td>
+<td>Planning/financing not secured
+</td></tr>
+<tr>
+<td>Cook Inlet Coal-to Liquids Project (aka Beluga CTL)
+</td>
+<td>AIDEA and Alaska Natural Resources to Liquids
+</td>
+<td>Cook Inlet, Alaska
+</td>
+<td>CTL
+</td>
+<td>16 million TPY coal to 80,000 BPD of diesel and naphtha; CO<sub>2</sub> for EOR; 380 MW electrical generation
+</td>
+<td>Delayed/Cancelled
+</td></tr>
+<tr>
+<td>Decatur Gasification Plant
+</td>
+<td>Secure Energy
+</td>
+<td>Decatur, Illinois
+</td>
+<td>CTL
+</td>
+<td>1.5 million TPY of high-sulfur IL coal generating 10,200 barrels per day of high quality gasoline
+</td>
+<td>Delayed/Cancelled
+</td></tr>
+<tr>
+<td>East Dubuque Plant
+</td>
+<td>Rentech Energy Midwest Corporation (REMC)
+</td>
+<td>East Dubuque, Illinois
+</td>
+<td>CTL, polygeneration
+</td>
+<td>1,000 tpd ammonia; 2,000 BPD clean fuels and chemicals
+</td>
+<td>Delayed/Cancelled
+</td></tr>
+<tr>
+<td>FEDC Healy CTL
+</td>
+<td>Fairbanks Economic Development Corp. (FEDC)
+</td>
+<td>Fairbanks, Alaska
+</td>
+<td>CTL/GTL
+</td>
+<td>4.2-11.4 million TPY Healy-mined coal; ~40k BPD liquid fuels; 110MW
+</td>
+<td>Planning
+</td></tr>
+<tr>
+<td>Freedom Energy Diesel CTL
+</td>
+<td>Freedom Energy Diesel LLC
+</td>
+<td>Morristown, Tennessee
+</td>
+<td>GTL
+</td>
+<td>Undetermined
+</td>
+<td>Delayed/Cancelled
+</td></tr>
+<tr>
+<td>Future Fuels Kentucky CTL
+</td>
+<td>Future Fuels, Kentucky River Properties
+</td>
+<td>Perry County, Kentucky
+</td>
+<td>CTL
+</td>
+<td>Not specified. Coal to methanol and other chemicals (over 100 million tons of coal supply)
+</td>
+<td>Active
+</td></tr>
+<tr>
+<td>Hunton "Green Refinery" CTL
+</td>
+<td>Hunton Energy
+</td>
+<td>Freeport, Texas
+</td>
+<td>CTL
+</td>
+<td>Bitumen crude oil to 340,000 BPD jet and diesel fuel
+</td>
+<td>Delayed/Cancelled
+</td></tr>
+<tr>
+<td>Illinois Clean Fuels Project
+</td>
+<td>American Clean Coal Fuels
+</td>
+<td>Coles County, Illinois
+</td>
+<td>CTL
+</td>
+<td>4.3 million TPY coal/biomass to 400 million GPY diesel and jet fuel
+</td>
+<td>Delayed/Cancelled
+</td></tr>
+<tr>
+<td>Lima Energy Project
+</td>
+<td>USA Synthetic Fuel Corp. (USASF)
+</td>
+<td>Lima, Ohio
+</td>
+<td>IGCC/SNG/H<sub>2</sub>, polygeneration
+</td>
+<td>Three Phases: 1) 2.7 million barrels of oil equivalent (BOE), 2) expand to 5.3 million BOE (3) expand to 8.0 million BOE (47 billion cf/y), 516 MW
+</td>
+<td>Active
+</td></tr>
+<tr>
+<td>Many Stars CTL
+</td>
+<td>Australian-American Energy Co. (Terra Nova Minerals or Great Western Energy), Crow Nation
+</td>
+<td>Big Horn County, Montana
+</td>
+<td>CTL
+</td>
+<td>First phase: 8,000 BPD liquids
+</td>
+<td>Active (no new information since 2011)
+</td></tr>
+<tr>
+<td>Medicine Bow Fuel and Power Project
+</td>
+<td>DKRW Advanced Fuels
+</td>
+<td>Carbon County, Wyoming
+</td>
+<td>CTL
+</td>
+<td>3 million TPY coal to 11,700 BPD of gasoline
+</td>
+<td>Delayed/Cancelled
+</td></tr>
+<tr>
+<td>NABFG Weirton CTL
+</td>
+<td>North American Biofuels Group
+</td>
+<td>Weirton, West Virginia
+</td>
+<td>CTL
+</td>
+<td>Undetermined
+</td>
+<td>Delayed/Cancelled
+</td></tr>
+<tr>
+<td>Rentech Energy Midwest Facility
+</td>
+<td>Rentech Energy Midwest Corporation (REMC)
+</td>
+<td>East Dubuque, Illinois
+</td>
+<td>CTL
+</td>
+<td>1,250 BPD diesel
+</td>
+<td>Delayed/Cancelled
+</td></tr>
+<tr>
+<td>Rentech/Peabody Joint Development Agreement (JDA)
+</td>
+<td>Rentech/Peabody Coal
+</td>
+<td>Kentucky
+</td>
+<td>CTL
+</td>
+<td>10,000 and 30,000 BPD
+</td>
+<td>Delayed/Cancelled
+</td></tr>
+<tr>
+<td>Rentech/Peabody Minemouth
+</td>
+<td>Rentech/Peabody Coal
+</td>
+<td>Montana
+</td>
+<td>CTL
+</td>
+<td>10,000 and 30,000 BPD
+</td>
+<td>Delayed/Cancelled
+</td></tr>
+<tr>
+<td>Secure Energy CTL (aka MidAmericaC2L
+</td>
+<td>MidAmericaC2L /Siemens
+</td>
+<td>McCracken County, Kentucky
+</td>
+<td>CTL
+</td>
+<td>10,200 BPD gasoline
+</td>
+<td>Active (no new information since 2011)
+</td></tr>
+<tr>
+<td>Tyonek Coal-to-Liquids (formerly Alaska Accelergy CTL Project)
+</td>
+<td>Accelergy, Tyonek Native Corporation (TNC)
+</td>
+<td>Cook Inlet, Alaska
+</td>
+<td>CBTL
+</td>
+<td>Undefined amount of coal/biomass to 60,000 BPD jet fuel/gasoline/diesel and 200-400 MW electricity
+</td>
+<td>Planning
+</td></tr>
+<tr>
+<td>US Fuel CTL
+</td>
+<td>US Fuel Corporation
+</td>
+<td>Perry County/Muhlenberg County, Kentucky
+</td>
+<td>CTL
+</td>
+<td>300 tons of coal into 525 BPD liquid fuels including diesel and jet fuel
+</td>
+<td>Active
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coal_liquefaction&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Crystal_energy.svg"><img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Wind-turbine-icon.svg"><img alt="icon" class="noviewer" data-file-height="128" data-file-width="128" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" width="28"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Biomass_to_liquid" title="Biomass to liquid">Biomass to liquid</a></li>
+<li><a href="/wiki/Synthetic_Liquid_Fuels_Program" title="Synthetic Liquid Fuels Program">Synthetic Liquid Fuels Program</a></li>
+<li><a href="/wiki/Unconventional_oil" title="Unconventional oil">Unconventional oil</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coal_liquefaction&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Hook&amp;Aleklett-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hook&amp;Aleklett_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hook&amp;Aleklett_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Hook&amp;Aleklett_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Höök, Mikael; Aleklett, Kjell (2010). "A review on coal to liquid fuels and its coal consumption". <i><a href="/wiki/International_Journal_of_Energy_Research" title="International Journal of Energy Research">International Journal of Energy Research</a></i>. <b>34</b> (10): 848–864. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fer.1596" rel="nofollow">10.1002/er.1596</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Energy+Research&amp;rft.atitle=A+review+on+coal+to+liquid+fuels+and+its+coal+consumption&amp;rft.volume=34&amp;rft.issue=10&amp;rft.pages=848-864&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1002%2Fer.1596&amp;rft.aulast=H%C3%B6%C3%B6k&amp;rft.aufirst=Mikael&amp;rft.au=Aleklett%2C+Kjell&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Davis&amp;Occelli-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Davis&amp;Occelli_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Davis, B.H; Occelli, M.L (2006). <i>Fischer-Tropsch Synthesis</i>. Elsevier. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780080466750" title="Special:BookSources/9780080466750">9780080466750</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fischer-Tropsch+Synthesis&amp;rft.pub=Elsevier&amp;rft.date=2006&amp;rft.isbn=9780080466750&amp;rft.aulast=Davis&amp;rft.aufirst=B.H&amp;rft.au=Occelli%2C+M.L&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Stranges-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Stranges_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Stranges_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Stranges, A.N. <a class="external text" href="https://doi.org/10.1007/978-94-015-9377-9" rel="nofollow"><i>Germany’s synthetic fuel industry, 1927–1945</i></a>. Dordrecht: Springer. pp. 147–216. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-94-015-9377-9" title="Special:BookSources/978-94-015-9377-9">978-94-015-9377-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Germany%E2%80%99s+synthetic+fuel+industry%2C+1927%E2%80%931945&amp;rft.place=Dordrecht&amp;rft.pages=147-216&amp;rft.pub=Springer&amp;rft.isbn=978-94-015-9377-9&amp;rft.aulast=Stranges&amp;rft.aufirst=A.N.&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.1007%2F978-94-015-9377-9&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Sasol. <a class="external text" href="http://www.sasol.com/about-sasol/company-profile/historical-milestones" rel="nofollow">"Historical Milestones"</a>. <i>Sasol Company Profile</i>. Sasol<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-10-05</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Sasol+Company+Profile&amp;rft.atitle=Historical+Milestones&amp;rft.au=Sasol&amp;rft_id=http%3A%2F%2Fwww.sasol.com%2Fabout-sasol%2Fcompany-profile%2Fhistorical-milestones&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Spalding-Fecher, R.; Williams, A.; van Horen, C. (2000). "Energy and environment in South Africa: charting a course to sustainability". <i>Energy for Sustainable Development</i>. <b>4</b> (4): 8–17. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0973-0826%2808%2960259-8" rel="nofollow">10.1016/S0973-0826(08)60259-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Energy+for+Sustainable+Development&amp;rft.atitle=Energy+and+environment+in+South+Africa%3A+charting+a+course+to+sustainability&amp;rft.volume=4&amp;rft.issue=4&amp;rft.pages=8-17&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1016%2FS0973-0826%2808%2960259-8&amp;rft.aulast=Spalding-Fecher&amp;rft.aufirst=R.&amp;rft.au=Williams%2C+A.&amp;rft.au=van+Horen%2C+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-handbook2-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-handbook2_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-handbook2_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-handbook2_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Speight, James G. (2008). <a class="external text" href="https://books.google.com/books?id=E3pgqnGgHjIC&amp;pg=PA9" rel="nofollow"><i>Synthetic Fuels Handbook: Properties, Process, and Performance</i></a>. <a class="mw-redirect" href="/wiki/McGraw-Hill" title="McGraw-Hill">McGraw-Hill Professional</a>. pp. 9–10. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-07-149023-8" title="Special:BookSources/978-0-07-149023-8">978-0-07-149023-8</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-06-03</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Synthetic+Fuels+Handbook%3A+Properties%2C+Process%2C+and+Performance&amp;rft.pages=9-10&amp;rft.pub=McGraw-Hill+Professional&amp;rft.date=2008&amp;rft.isbn=978-0-07-149023-8&amp;rft.aulast=Speight&amp;rft.aufirst=James+G.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DE3pgqnGgHjIC%26pg%3DPA9&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.netl.doe.gov/research/Coal/energy-systems/gasification/gasifipedia/indirect-liquefaction" rel="nofollow">"Indirect Liquefaction Processes"</a>. National Energy Technology Laboratory<span class="reference-accessdate">. Retrieved <span class="nowrap">24 June</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Indirect+Liquefaction+Processes&amp;rft.pub=National+Energy+Technology+Laboratory&amp;rft_id=http%3A%2F%2Fwww.netl.doe.gov%2Fresearch%2FCoal%2Fenergy-systems%2Fgasification%2Fgasifipedia%2Findirect-liquefaction&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.netl.doe.gov/research/Coal/energy-systems/gasification/gasifipedia/direct-liquefaction" rel="nofollow">"Direct Liquefaction Processes"</a>. National Energy Technology Laboratory<span class="reference-accessdate">. Retrieved <span class="nowrap">24 June</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Direct+Liquefaction+Processes&amp;rft.pub=National+Energy+Technology+Laboratory&amp;rft_id=http%3A%2F%2Fwww.netl.doe.gov%2Fresearch%2FCoal%2Fenergy-systems%2Fgasification%2Fgasifipedia%2Fdirect-liquefaction&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-hook-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-hook_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hook_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hook_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-hook_9-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Höök, Mikael; Fantazzini, Dean; Angelantoni, André; Snowden, Simon (2013). <a class="external text" href="http://uu.diva-portal.org/smash/record.jsf?pid=diva2:670680" rel="nofollow">"Hydrocarbon liquefaction: viability as a peak oil mitigation strategy"</a>. <i>Philosophical Transactions of the Royal Society A</i>. <b>372</b> (2006). <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1098%2Frsta.2012.0319" rel="nofollow">10.1098/rsta.2012.0319</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24298075" rel="nofollow">24298075</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-06-03</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Philosophical+Transactions+of+the+Royal+Society+A&amp;rft.atitle=Hydrocarbon+liquefaction%3A+viability+as+a+peak+oil+mitigation+strategy&amp;rft.volume=372&amp;rft.issue=2006&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1098%2Frsta.2012.0319&amp;rft_id=info%3Apmid%2F24298075&amp;rft.aulast=H%C3%B6%C3%B6k&amp;rft.aufirst=Mikael&amp;rft.au=Fantazzini%2C+Dean&amp;rft.au=Angelantoni%2C+Andr%C3%A9&amp;rft.au=Snowden%2C+Simon&amp;rft_id=http%3A%2F%2Fuu.diva-portal.org%2Fsmash%2Frecord.jsf%3Fpid%3Ddiva2%3A670680&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-lee3-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-lee3_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lee3_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-lee3_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-lee3_10-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Lee, Sunggyu (1996). <a class="external text" href="https://books.google.com/books?id=GBnEDJZase8C&amp;pg=PA166" rel="nofollow"><i>Alternative fuels</i></a>. <a href="/wiki/CRC_Press" title="CRC Press">CRC Press</a>. pp. 166–198. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-56032-361-7" title="Special:BookSources/978-1-56032-361-7">978-1-56032-361-7</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-06-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Alternative+fuels&amp;rft.pages=166-198&amp;rft.pub=CRC+Press&amp;rft.date=1996&amp;rft.isbn=978-1-56032-361-7&amp;rft.aulast=Lee&amp;rft.aufirst=Sunggyu&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DGBnEDJZase8C%26pg%3DPA166&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Ekinci2002-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ekinci2002_11-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ekinci, E.; Yardim, Y.; Razvigorova, M.; Minkova, V.; Goranova, M.; Petrov, N.; Budinova, T. (2002). "Characterization of liquid products from pyrolysis of subbituminous coal". <i>Fuel Processing Technology</i>. 77-78: 309–315. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0378-3820%2802%2900056-5" rel="nofollow">10.1016/S0378-3820(02)00056-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Fuel+Processing+Technology&amp;rft.atitle=Characterization+of+liquid+products+from+pyrolysis+of+subbituminous+coal&amp;rft.volume=77-78&amp;rft.pages=309-315&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1016%2FS0378-3820%2802%2900056-5&amp;rft.aulast=Ekinci&amp;rft.aufirst=E.&amp;rft.au=Yardim%2C+Y.&amp;rft.au=Razvigorova%2C+M.&amp;rft.au=Minkova%2C+V.&amp;rft.au=Goranova%2C+M.&amp;rft.au=Petrov%2C+N.&amp;rft.au=Budinova%2C+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">
+<cite class="citation journal">Stranges, Anthony N. (1984). "Friedrich Bergius and the Rise of the German Synthetic Fuel Industry". <i>Isis</i>. <a href="/wiki/University_of_Chicago_Press" title="University of Chicago Press">University of Chicago Press</a>. <b>75</b> (4): 643–667. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1086%2F353647" rel="nofollow">10.1086/353647</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="//www.jstor.org/stable/232411" rel="nofollow">232411</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Isis&amp;rft.atitle=Friedrich+Bergius+and+the+Rise+of+the+German+Synthetic+Fuel+Industry&amp;rft.volume=75&amp;rft.issue=4&amp;rft.pages=643-667&amp;rft.date=1984&amp;rft_id=info%3Adoi%2F10.1086%2F353647&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F232411&amp;rft.aulast=Stranges&amp;rft.aufirst=Anthony+N.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-dti-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-dti_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dti_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-dti_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-dti_13-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-dti_13-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">The SRC-I pilot plant operated at Fort Lewis Wash in the 1970s but was not able to overcome lack of solvent balance problems (continual imports of solvent containing polynuclear aromatics were necessary). A SRC-I demonstration plant was scheduled to be built at Newman, KY but was cancelled in 1981. Based on 1913 work by Bergius it had been noted that certain minerals in coal ash had a mild catalytic activity, and this led to design work on a SRC-II demonstration plant to be built at Morgantown, WV. This too was cancelled in 1981. It appeared based on the work done so far to be desirable to separate the coal-dissolution and catalytic-hydrogenation functions to obtain a greater yield of <a href="/wiki/Synthetic_crude" title="Synthetic crude">synthetic crude</a> oil; this was accomplished in a small+scale pilot plant at Wilsonville, AL during 1981-85. The plant also included a critical-solvent deasher to recover a maximum amount of usable liquid product. In a commercial plant, the deasher underflow containing unreacted carbonaceous matter would be gasified to provide hydrogen to drive the process. This program ended in 1985 and the plant was scrapped.
+<cite class="citation journal">Cleaner Coal Technology Programme (October 1999). <a class="external text" href="http://webarchive.nationalarchives.gov.uk/20090609003228/http://www.berr.gov.uk/files/file18326.pdf" rel="nofollow">"Technology Status Report 010: Coal Liquefaction"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/Department_of_Trade_and_Industry_(United_Kingdom)" title="Department of Trade and Industry (United Kingdom)">Department of Trade and Industry</a>. Archived from <a class="external text" href="http://www.berr.gov.uk/files/file18326.pdf" rel="nofollow">the original</a> <span class="cs1-format">(PDF)</span> on 2009-06-09<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-10-23</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Technology+Status+Report+010%3A+Coal+Liquefaction&amp;rft.date=1999-10&amp;rft.au=Cleaner+Coal+Technology+Programme&amp;rft_id=http%3A%2F%2Fwww.berr.gov.uk%2Ffiles%2Ffile18326.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">
+<cite class="citation journal">Lowe, Phillip A.; Schroeder, Wilburn C.; Liccardi, Anthony L. (1976). "Technical Economies, Synfuels and Coal Energy Symposium, Solid-Phase Catalytic Coal Liquefaction Process". <a class="mw-redirect" href="/wiki/American_Society_of_Mechanical_Engineers" title="American Society of Mechanical Engineers">American Society of Mechanical Engineers</a>: 35.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Technical+Economies%2C+Synfuels+and+Coal+Energy+Symposium%2C+Solid-Phase+Catalytic+Coal+Liquefaction+Process&amp;rft.pages=35&amp;rft.date=1976&amp;rft.au=Lowe%2C+Phillip+A.&amp;rft.au=Schroeder%2C+Wilburn+C.&amp;rft.au=Liccardi%2C+Anthony+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.americanfuelscoalition.com/2011/09/08/dcl-profitable/" rel="nofollow">"China Shenhua coal-to-liquids project profitable"</a>. American Fuels Coalition. September 8, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">24 June</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=China+Shenhua+coal-to-liquids+project+profitable&amp;rft.pub=American+Fuels+Coalition&amp;rft.date=2011-09-08&amp;rft_id=http%3A%2F%2Fwww.americanfuelscoalition.com%2F2011%2F09%2F08%2Fdcl-profitable%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6V3B-498V3WM-NF&amp;_user=10&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_sort=d&amp;_docanchor=&amp;view=c&amp;_searchStrId=1150740715&amp;_rerunOrigin=google&amp;_acct=C000050221&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=afee10931b4d338de0b3dc439f1bb82f" rel="nofollow">Rosenthal, et al., 1982. The Chevron coal liquefaction process (CCLP). Fuel 61 (10): 1045-1050.</a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.netl.doe.gov/research/Coal/energy-systems/gasification/gasifipedia/great-plains" rel="nofollow">"Great Plains Synfuels Plant"</a>. National Energy Technology Laboratory<span class="reference-accessdate">. Retrieved <span class="nowrap">24 June</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Great+Plains+Synfuels+Plant&amp;rft.pub=National+Energy+Technology+Laboratory&amp;rft_id=http%3A%2F%2Fwww.netl.doe.gov%2Fresearch%2FCoal%2Fenergy-systems%2Fgasification%2Fgasifipedia%2Fgreat-plains&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-GTC-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-GTC_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GTC_18-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-GTC_18-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.gasification.org/database1/search.aspx" rel="nofollow">"Gasification Technologies Council Resource Center World Gasification Database"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">24 June</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gasification+Technologies+Council+Resource+Center+World+Gasification+Database&amp;rft_id=http%3A%2F%2Fwww.gasification.org%2Fdatabase1%2Fsearch.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tarka, Thomas J.; Wimer, John G.; Balash, Peter C.; Skone, Timothy J.; Kern, Kenneth C.; Vargas, Maria C.; Morreale, Bryan D.; White III, Charles W.; Gray, David (2009). <a class="external text" href="http://www.netl.doe.gov/energy-analyses/pubs/CBTL%20Final%20Report.pdf" rel="nofollow">"Affordable Low Carbon Diesel from Domestic Coal and Biomass"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">United States Department of Energy</a>, <a href="/wiki/National_Energy_Technology_Laboratory" title="National Energy Technology Laboratory">National Energy Technology Laboratory</a>: 21.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Affordable+Low+Carbon+Diesel+from+Domestic+Coal+and+Biomass&amp;rft.pages=21&amp;rft.date=2009&amp;rft.au=Tarka%2C+Thomas+J.&amp;rft.au=Wimer%2C+John+G.&amp;rft.au=Balash%2C+Peter+C.&amp;rft.au=Skone%2C+Timothy+J.&amp;rft.au=Kern%2C+Kenneth+C.&amp;rft.au=Vargas%2C+Maria+C.&amp;rft.au=Morreale%2C+Bryan+D.&amp;rft.au=White+III%2C+Charles+W.&amp;rft.au=Gray%2C+David&amp;rft_id=http%3A%2F%2Fwww.netl.doe.gov%2Fenergy-analyses%2Fpubs%2FCBTL%2520Final%2520Report.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mantripragada, H.; Rubin, E. (2011). "Techno-economic evaluation of coal-to-liquids (CTL) plants with carbon capture and sequestration". <i>Energy Policy</i>. <b>39</b> (5): 2808–2816. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.enpol.2011.02.053" rel="nofollow">10.1016/j.enpol.2011.02.053</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Energy+Policy&amp;rft.atitle=Techno-economic+evaluation+of+coal-to-liquids+%28CTL%29+plants+with+carbon+capture+and+sequestration&amp;rft.volume=39&amp;rft.issue=5&amp;rft.pages=2808-2816&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.1016%2Fj.enpol.2011.02.053&amp;rft.aulast=Mantripragada&amp;rft.aufirst=H.&amp;rft.au=Rubin%2C+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Takao Kaneko, Frank Derbyshire, Eiichiro Makino, David Gray, Masaaki Tamura and Kejian Li "Coal Liquefaction" in Ullmann's Encyclopedia of Industrial Chemistry, 2012, Wiley-VCH, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1002%2F14356007.a07_197.pub2" rel="nofollow">10.1002/14356007.a07_197.pub2</a></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.netl.doe.gov/File%20Library/events/2012/co2%20capture%20meeting/Z-Ye-Shenhua-Group-Demonstration-Project.pdf" rel="nofollow">"The Progress of the CCS Demonstration Project in the Shenhua Group"</a> <span class="cs1-format">(PDF)</span>. China Shenhua Coal to Liquid &amp; Chemical Engineering Company. July 9, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">24 June</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Progress+of+the+CCS+Demonstration+Project+in+the+Shenhua+Group&amp;rft.pub=China+Shenhua+Coal+to+Liquid+%26+Chemical+Engineering+Company&amp;rft.date=2012-07-09&amp;rft_id=http%3A%2F%2Fwww.netl.doe.gov%2FFile%2520Library%2Fevents%2F2012%2Fco2%2520capture%2520meeting%2FZ-Ye-Shenhua-Group-Demonstration-Project.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web">Wu Xiuzhang (January 7, 2014). <a class="external text" href="http://cornerstonemag.net/shenhua-groups-carbon-capture-and-storage-demonstration/" rel="nofollow">"Shenhua Group's Carbon Capture and Storage Demonstration"</a>. Cornerstone Magazine<span class="reference-accessdate">. Retrieved <span class="nowrap">24 June</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Shenhua+Group%E2%80%99s+Carbon+Capture+and+Storage+Demonstration&amp;rft.pub=Cornerstone+Magazine&amp;rft.date=2014-01-07&amp;rft.au=Wu+Xiuzhang&amp;rft_id=http%3A%2F%2Fcornerstonemag.net%2Fshenhua-groups-carbon-capture-and-storage-demonstration%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.gpo.gov/fdsys/pkg/PLAW-110publ140/pdf/PLAW-110publ140.pdf" rel="nofollow">"Pub.L. 110-140"</a> <span class="cs1-format">(PDF)</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pub.L.+110-140&amp;rft_id=http%3A%2F%2Fwww.gpo.gov%2Ffdsys%2Fpkg%2FPLAW-110publ140%2Fpdf%2FPLAW-110publ140.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation journal">T., Bartis, James; Lawrence, Van Bibber, (2011-01-01). <a class="external text" href="http://www.rand.org/pubs/monographs/MG969.html" rel="nofollow">"Alternative Fuels for Military Applications"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Alternative+Fuels+for+Military+Applications&amp;rft.date=2011-01-01&amp;rft.aulast=T.&amp;rft.aufirst=Bartis%2C+James&amp;rft.au=Lawrence%2C+Van+Bibber%2C&amp;rft_id=http%3A%2F%2Fwww.rand.org%2Fpubs%2Fmonographs%2FMG969.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.fbo.gov/index?s=opportunity&amp;mode=form&amp;id=311b4a9d03c16d2fdffc9c1ca6714a83&amp;tab=core&amp;_cview=1" rel="nofollow">"Greenhouse Gas Emissions Reductions Research and Development Leading to Cost-Competitive Coal-to-Liquids (CTL) Based Jet Fuel Production Solicitation Number: DE-FOA-0000981"</a>. January 31, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">30 June</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Greenhouse+Gas+Emissions+Reductions+Research+and+Development+Leading+to+Cost-Competitive+Coal-to-Liquids+%28CTL%29+Based+Jet+Fuel+Production+Solicitation+Number%3A+DE-FOA-0000981&amp;rft.date=2014-01-31&amp;rft_id=https%3A%2F%2Fwww.fbo.gov%2Findex%3Fs%3Dopportunity%26mode%3Dform%26id%3D311b4a9d03c16d2fdffc9c1ca6714a83%26tab%3Dcore%26_cview%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a class="external text" href="http://worldctx.com/award-world-ctx" rel="nofollow">Homepage of Carbon to X</a></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Serge Perineau <a class="external text" href="http://cornerstonemag.net/coal-conversion-to-higher-value-hydrocarbons-a-tangible-acceleration/" rel="nofollow">« Coal Conversion to Higher Value Hydrocarbons: A Tangible Acceleration»</a>, <i>Cornerstone Magazine</i>, 11 October 2013.</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.netl.doe.gov/File%20Library/Research/Coal/energy%20systems/gasification/worldwide%20database/World-non-US-Gasification-Database.xlsx" rel="nofollow">"World (Non-U.S.) Proposed Gasification Plant Database"</a>. National Energy Technology Laboratory. June 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">30 June</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=World+%28Non-U.S.%29+Proposed+Gasification+Plant+Database&amp;rft.pub=National+Energy+Technology+Laboratory&amp;rft.date=2014-06&amp;rft_id=http%3A%2F%2Fwww.netl.doe.gov%2FFile%2520Library%2FResearch%2FCoal%2Fenergy%2520systems%2Fgasification%2Fworldwide%2520database%2FWorld-non-US-Gasification-Database.xlsx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.netl.doe.gov/File%20Library/Research/Coal/energy%20systems/gasification/worldwide%20database/US-Gasification-Database.xlsx" rel="nofollow">"U.S. Proposed Gasification Plant Database"</a>. National Energy Technology Laboratory. June 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">30 June</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=U.S.+Proposed+Gasification+Plant+Database&amp;rft.pub=National+Energy+Technology+Laboratory&amp;rft.date=2014-06&amp;rft_id=http%3A%2F%2Fwww.netl.doe.gov%2FFile%2520Library%2FResearch%2FCoal%2Fenergy%2520systems%2Fgasification%2Fworldwide%2520database%2FUS-Gasification-Database.xlsx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACoal+liquefaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Coal_liquefaction&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a class="external text" href="http://www.netl.doe.gov/research/Coal/energy-systems/gasification/gasifipedia/direct-liquefaction" rel="nofollow">Direct Liquefaction Processes, NETL official website</a></span></span></li>
+<li><span class="official-website"><span class="url"><a class="external text" href="http://www.netl.doe.gov/research/Coal/energy-systems/gasification/gasifipedia/indirect-liquefaction" rel="nofollow">Indirect Liquefaction Processes, NETL official website</a></span></span></li>
+<li><span class="official-website"><span class="url"><a class="external text" href="http://www.netl.doe.gov/research/coal/energy-systems/fuels/coal-and-biomass-to-liquids/" rel="nofollow">Coal and Coal-Biomass to Liquids Program, NETL official website</a></span></span></li>
+<li><a class="external text" href="https://web.archive.org/web/20140819083523/http://www.iea-coal.org.uk/documents/82184/7171/Review-of-worldwide-coal-to-liquids-R%2C-D%26D-activities-and-the-need-for-further-initiatives-within-Europe" rel="nofollow">Research Programme of the Research Fund for Coal and Steel</a> REVIEW OF WORLDWIDE COAL TO LIQUIDS R, D&amp;D ACTIVITIES AND THE NEED FOR FURTHER INITIATIVES WITHIN EUROPE (2.9MB), 52pp, 2009</li>
+<li><span class="official-website"><span class="url"><a class="external text" href="http://worldctx.com/documentation/coal-to-liquid-fuels/" rel="nofollow">Coal To Liquids on World Coal-To-X official website</a></span></span></li></ul>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q221979&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q221979&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q221979" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00570583" rel="nofollow">00570583</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2242
+Cached time: 20181010111727
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.516 seconds
+Real time usage: 0.706 seconds
+Preprocessor visited node count: 2081/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 58974/2097152 bytes
+Template argument size: 2318/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 76381/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.288/10.000 seconds
+Lua memory usage: 7.45 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  502.691      1 -total
+ 56.67%  284.862      1 Template:Reflist
+ 27.85%  139.980     10 Template:Cite_journal
+ 13.90%   69.865     12 Template:Cite_web
+ 11.13%   55.950      8 Template:Convert
+  9.91%   49.813      2 Template:Third-party-inline
+  9.44%   47.449      3 Template:Fix
+  5.12%   25.716      4 Template:Official_website
+  4.60%   23.133      3 Template:Category_handler
+  4.26%   21.391      1 Template:Authority_control
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1978817-0!canonical!math=5 and timestamp 20181010111727 and revision id 845945153
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Coal_liquefaction&amp;oldid=845945153">https://en.wikipedia.org/w/index.php?title=Coal_liquefaction&amp;oldid=845945153</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Coal" title="Category:Coal">Coal</a></li><li><a href="/wiki/Category:Synthetic_fuel_technologies" title="Category:Synthetic fuel technologies">Synthetic fuel technologies</a></li><li><a href="/wiki/Category:Pyrolysis" title="Category:Pyrolysis">Pyrolysis</a></li><li><a href="/wiki/Category:German_inventions" title="Category:German inventions">German inventions</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_August_2014" title="Category:Articles lacking reliable references from August 2014">Articles lacking reliable references from August 2014</a></li><li><a href="/wiki/Category:All_articles_with_minor_POV_problems" title="Category:All articles with minor POV problems">All articles with minor POV problems</a></li><li><a href="/wiki/Category:Articles_with_minor_POV_problems_from_August_2014" title="Category:Articles with minor POV problems from August 2014">Articles with minor POV problems from August 2014</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Coal+liquefaction" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Coal+liquefaction" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Coal_liquefaction" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Coal_liquefaction" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Coal_liquefaction">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Coal_liquefaction&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Coal_liquefaction&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Coal_liquefaction" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Coal_liquefaction" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Coal_liquefaction&amp;oldid=845945153" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Coal_liquefaction&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q221979" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Coal_liquefaction&amp;id=845945153" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Coal+liquefaction">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Coal+liquefaction&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Coal_liquefaction&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Kohleverfl%C3%BCssigung" hreflang="de" lang="de" title="Kohleverflüssigung – German">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Liqu%C3%A9faction_du_charbon" hreflang="fr" lang="fr" title="Liquéfaction du charbon – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%84%9D%ED%83%84%EC%95%A1%ED%99%94%EC%97%B0%EB%A3%8C" hreflang="ko" lang="ko" title="석탄액화연료 – Korean">한국어</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Liquefazione_del_carbone" hreflang="it" lang="it" title="Liquefazione del carbone – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%9F%B3%E7%82%AD%E6%B6%B2%E5%8C%96" hreflang="ja" lang="ja" title="石炭液化 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Benzyna_syntetyczna" hreflang="pl" lang="pl" title="Benzyna syntetyczna – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Carv%C3%A3o_liquefeito" hreflang="pt" lang="pt" title="Carvão liquefeito – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/CTL_(%D1%85%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" hreflang="ru" lang="ru" title="CTL (химическая технология) – Russian">Русский</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%97%D1%80%D1%96%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B2%D1%83%D0%B3%D1%96%D0%BB%D0%BB%D1%8F" hreflang="uk" lang="uk" title="Зрідження вугілля – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%85%A4%E6%B6%B2%E5%8C%96" hreflang="zh" lang="zh" title="煤液化 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q221979#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 15 June 2018, at 06:19<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Coal_liquefaction&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.516","walltime":"0.706","ppvisitednodes":{"value":2081,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":58974,"limit":2097152},"templateargumentsize":{"value":2318,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":76381,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  502.691      1 -total"," 56.67%  284.862      1 Template:Reflist"," 27.85%  139.980     10 Template:Cite_journal"," 13.90%   69.865     12 Template:Cite_web"," 11.13%   55.950      8 Template:Convert","  9.91%   49.813      2 Template:Third-party-inline","  9.44%   47.449      3 Template:Fix","  5.12%   25.716      4 Template:Official_website","  4.60%   23.133      3 Template:Category_handler","  4.26%   21.391      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.288","limit":"10.000"},"limitreport-memusage":{"value":7808095,"limit":52428800}},"cachereport":{"origin":"mw2242","timestamp":"20181010111727","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":75,"wgHostname":"mw2225"});});</script>
+</body>
+</html>

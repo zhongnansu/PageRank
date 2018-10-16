@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Absorption (chemistry) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Absorption_(chemistry)","wgTitle":"Absorption (chemistry)","wgCurRevisionId":861164162,"wgRevisionId":861164162,"wgArticleId":1383986,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Physical chemistry","Gases","Gas technologies"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Absorption_(chemistry)","wgRelevantArticleId":1383986,"wgRequestId":"W8IIEApAICgAAJYz1I0AAABD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q332828","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Absorber.svg/1200px-Absorber.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Absorption_(chemistry)" rel="alternate"/>
+<link href="/w/index.php?title=Absorption_(chemistry)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Absorption_(chemistry)&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Absorption_(chemistry)" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Absorption_chemistry rootpage-Absorption_chemistry skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Absorption (chemistry)</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">Not to be confused with <a href="/wiki/Adsorption" title="Adsorption">Adsorption</a>.</div><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-redirect mw-disambig" href="/wiki/Absorption_(disambiguation)" title="Absorption (disambiguation)">Absorption (disambiguation)</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Absorber.svg"><img alt="" class="thumbimage" data-file-height="1052" data-file-width="744" height="353" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Absorber.svg/250px-Absorber.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Absorber.svg/375px-Absorber.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Absorber.svg/500px-Absorber.svg.png 2x" width="250"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Absorber.svg" title="Enlarge"></a></div>Laboratory absorber. <b>1a)</b>: CO<sub>2</sub> inlet; <b>1b)</b>: H<sub>2</sub>O inlet; <b>2)</b>: outlet <b>3)</b>: absorption column; <b>4)</b>: packing.</div></div></div>
+<p>In <a href="/wiki/Chemistry" title="Chemistry">chemistry</a>, <b>absorption</b> is a physical or chemical <a href="/wiki/Phenomenon" title="Phenomenon">phenomenon</a> or a <a class="mw-redirect" href="/wiki/Process_(science)" title="Process (science)">process</a> in which <a href="/wiki/Atom" title="Atom">atoms</a>, <a class="mw-redirect" href="/wiki/Molecules" title="Molecules">molecules</a> or <a href="/wiki/Ion" title="Ion">ions</a> enter some bulk phase – <a href="/wiki/Liquid" title="Liquid">liquid</a> or <a href="/wiki/Solid" title="Solid">solid</a> material. This is a different process from <a href="/wiki/Adsorption" title="Adsorption">adsorption</a>, since molecules undergoing absorption are taken up by the volume, not by the surface (as in the case for adsorption). A more general term is <i><a href="/wiki/Sorption" title="Sorption">sorption</a></i>, which covers absorption, <a href="/wiki/Adsorption" title="Adsorption">adsorption</a>, and <a href="/wiki/Ion_exchange" title="Ion exchange">ion exchange</a>. Absorption is a condition in which something takes in another substance.<sup class="reference" id="cite_ref-Organic-chemistry_1-0"><a href="#cite_note-Organic-chemistry-1">[1]</a></sup>
+</p><p>In many processes important in technology, the chemical absorption is used in place of the physical process, e.g., absorption of carbon dioxide by sodium hydroxide – such acid-base processes do not follow the Nernst partition law.
+</p><p>For some examples of this effect, see <a class="mw-redirect" href="/wiki/Liquid-liquid_extraction" title="Liquid-liquid extraction">liquid-liquid extraction</a>. It is possible to extract from one <a href="/wiki/Liquid" title="Liquid">liquid</a> phase to another a <a href="/wiki/Solution" title="Solution">solute</a> without a chemical reaction. Examples of such solutes are <a class="mw-redirect" href="/wiki/Noble_gases" title="Noble gases">noble gases</a> and <a href="/wiki/Osmium_tetroxide" title="Osmium tetroxide">osmium tetroxide</a>.<sup class="reference" id="cite_ref-Organic-chemistry_1-1"><a href="#cite_note-Organic-chemistry-1">[1]</a></sup>
+</p><p>The process of absorption means that a substance captures and transforms energy. The absorbent distributes the material it captures throughout whole and adsorbent only distributes it through the surface.
+</p><p>The process of gas or liquid which penetrate into the body of adsorbent is commonly known as absorption.
+</p>
+<div class="quotebox pullquote floatright" style=";"><style data-mw-deduplicate="TemplateStyles:r856303512">.mw-parser-output .quotebox{background-color:#F9F9F9;border:1px solid #aaa;box-sizing:border-box;padding:10px;font-size:88%}.mw-parser-output .quotebox.floatleft{margin:0.5em 1.4em 0.8em 0}.mw-parser-output .quotebox.floatright{margin:0.5em 0 0.8em 1.4em}.mw-parser-output .quotebox.centered{margin:0.5em auto 0.8em auto}.mw-parser-output .quotebox.floatleft p,.mw-parser-output .quotebox.floatright p{font-style:inherit}.mw-parser-output .quotebox-title{background-color:#F9F9F9;text-align:center;font-size:larger;font-weight:bold}.mw-parser-output .quotebox-quote.quoted:before{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" “ ";vertical-align:-45%;line-height:0}.mw-parser-output .quotebox-quote.quoted:after{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" ” ";line-height:0}.mw-parser-output .quotebox .left-aligned{text-align:left}.mw-parser-output .quotebox .right-aligned{text-align:right}.mw-parser-output .quotebox .center-aligned{text-align:center}.mw-parser-output .quotebox cite{display:block;font-style:normal}@media screen and (max-width:360px){.mw-parser-output .quotebox{min-width:100%;margin:0 0 0.8em!important;float:none!important}}</style>
+<div class="quotebox-title" style=""><a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">IUPAC</a> definition</div>
+<div class="quotebox-quote left-aligned" style=""><b>Absorption: The process of one material (absorbate) being retained by another (absorbent); this may be the physical solution of a gas, liquid, or solid in a liquid, attachment of molecules of a gas, vapour, liquid, or dissolved substance to a solid surface by physical forces, etc. In spectrophotometry, absorption of light at characteristic wavelengths or bands of wavelengths is used to identify the chemical nature of molecules, atoms or ions and to measure the concentrations of these species.</b></div>
+</div>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Equation"><span class="tocnumber">1</span> <span class="toctext">Equation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Types_of_absorption"><span class="tocnumber">2</span> <span class="toctext">Types of absorption</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Chemical_absorption"><span class="tocnumber">2.1</span> <span class="toctext">Chemical absorption</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Physical_absorption"><span class="tocnumber">2.2</span> <span class="toctext">Physical absorption</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Water_in_a_solid"><span class="tocnumber">2.2.1</span> <span class="toctext">Water in a solid</span></a>
+<ul>
+<li class="toclevel-4 tocsection-6"><a href="#Moisture_regain"><span class="tocnumber">2.2.1.1</span> <span class="toctext">Moisture regain</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Equation">Equation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Absorption_(chemistry)&amp;action=edit&amp;section=1" title="Edit section: Equation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>If absorption is a physical process not accompanied by any other physical or chemical process, it usually follows the <b><a href="/wiki/Distribution_law" title="Distribution law">Nernst distribution law</a></b>: 
+</p>
+<dl><dd>"the ratio of concentrations of some solute species in two bulk phases when it is equilibrium and in contact is constant for a given solute and bulk phases":
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {[x]_{1}}{[x]_{2}}}={\text{constant}}=K_{N(x,12)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">[</mo>
+<mi>x</mi>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mo stretchy="false">[</mo>
+<mi>x</mi>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>constant</mtext>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>,</mo>
+<mn>12</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {[x]_{1}}{[x]_{2}}}={\text{constant}}=K_{N(x,12)}}</annotation>
+</semantics>
+</math></span><img alt="\frac{[x]_{1}}{[x]_{2}} = \text{constant} = K_{N(x,12)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e0ec1ce71d0ce27734b33e4d1dfae04be91ecf13" style="vertical-align: -2.671ex; width:27.364ex; height:6.509ex;"/></span></dd></dl></dd></dl>
+<p>The value of constant K<sub>N</sub> depends on temperature and is called <b><a href="/wiki/Partition_coefficient" title="Partition coefficient">partition coefficient</a></b>. This equation is valid if concentrations are not too large and if the species "x" does not change its form in any of the two phases "1" or "2". If such molecule undergoes association or <a href="/wiki/Dissociation_(chemistry)" title="Dissociation (chemistry)">dissociation</a> then this equation still describes the equilibrium between "x" in both phases, but only for the same form – concentrations of all remaining forms must be calculated by taking into account all the other equilibria.<sup class="reference" id="cite_ref-Organic-chemistry_1-2"><a href="#cite_note-Organic-chemistry-1">[1]</a></sup>
+</p><p>In the case of gas absorption, one may calculate its concentration by using, e.g., the <a href="/wiki/Ideal_gas_law" title="Ideal gas law">Ideal gas law</a>, c = p/RT. In alternative fashion, one may use <a href="/wiki/Partial_pressure" title="Partial pressure">partial pressures</a> instead of concentrations.
+</p>
+<h2><span class="mw-headline" id="Types_of_absorption">Types of absorption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Absorption_(chemistry)&amp;action=edit&amp;section=2" title="Edit section: Types of absorption">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Absorption is a process that may be chemical (reactive) or physical (non-reactive). 
+</p>
+<h3><span class="mw-headline" id="Chemical_absorption">Chemical absorption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Absorption_(chemistry)&amp;action=edit&amp;section=3" title="Edit section: Chemical absorption">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Chemical absorption or reactive absorption is a chemical reaction between the absorbed and the absorbing substances. Sometimes it combines with physical absorption. This type of absorption depends upon the <a href="/wiki/Stoichiometry" title="Stoichiometry">stoichiometry</a> of the reaction and the concentration of its reactants.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Physical_absorption">Physical absorption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Absorption_(chemistry)&amp;action=edit&amp;section=4" title="Edit section: Physical absorption">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Water_in_a_solid">Water in a solid</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Absorption_(chemistry)&amp;action=edit&amp;section=5" title="Edit section: Water in a solid">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Hydrophile" title="Hydrophile">Hydrophilic</a> solids, which includes many solids of biological origin, can readily absorb water.  <a href="/wiki/Chemical_polarity" title="Chemical polarity">Polar</a> interactions between water and the molecules of the solid favour partition of the water into the solid, which can allow significant absorption of water vapour even in relatively low humidity.  
+</p>
+<h5><span class="mw-headline" id="Moisture_regain">Moisture regain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Absorption_(chemistry)&amp;action=edit&amp;section=6" title="Edit section: Moisture regain">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>A plant fibre (or other hydrophilic material) that has been exposed to the atmosphere will usually contain some water even if it feels dry.  The water can be driven off by heating in an oven, leading to a measurable decrease in weight, which will gradually be regained if the fibre is returned to a 'normal' atmosphere.  This effect is important in the textile industry, where the proportion of a material's weight made up by water is called the <i>moisture regain</i>. <sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Absorption_(chemistry)&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Organic-chemistry-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Organic-chemistry_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Organic-chemistry_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Organic-chemistry_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">
+<cite class="citation book">McMurry, John (2003). <i>Fundamentals of Organic Chemistry</i> (Fifth ed.). Agnus McDonald. p. 409. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-534-39573-2" title="Special:BookSources/0-534-39573-2">0-534-39573-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fundamentals+of+Organic+Chemistry&amp;rft.pages=409&amp;rft.edition=Fifth&amp;rft.pub=Agnus+McDonald&amp;rft.date=2003&amp;rft.isbn=0-534-39573-2&amp;rft.aulast=McMurry&amp;rft.aufirst=John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbsorption+%28chemistry%29"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Leiviskä, Tiina; Gehör, Seppo; Eijärvi, Erkki; Sarpola, Arja; Tanskanen, Juha (10 April 2012). "Characteristics and potential applications of coarse clay fractions from Puolanka, Finland". <i>Central European Journal of Engineering</i>. <b>2</b> (2): 239–247. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2012CEJE....2..239L" rel="nofollow">2012CEJE....2..239L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.2478%2Fs13531-011-0067-9" rel="nofollow">10.2478/s13531-011-0067-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Central+European+Journal+of+Engineering&amp;rft.atitle=Characteristics+and+potential+applications+of+coarse+clay+fractions+from+Puolanka%2C+Finland&amp;rft.volume=2&amp;rft.issue=2&amp;rft.pages=239-247&amp;rft.date=2012-04-10&amp;rft_id=info%3Adoi%2F10.2478%2Fs13531-011-0067-9&amp;rft_id=info%3Abibcode%2F2012CEJE....2..239L&amp;rft.aulast=Leivisk%C3%A4&amp;rft.aufirst=Tiina&amp;rft.au=Geh%C3%B6r%2C+Seppo&amp;rft.au=Eij%C3%A4rvi%2C+Erkki&amp;rft.au=Sarpola%2C+Arja&amp;rft.au=Tanskanen%2C+Juha&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbsorption+%28chemistry%29"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://cameo.mfa.org/wiki/Moisture_regain" rel="nofollow">"Moisture regain - CAMEO"</a>. <i>cameo.mfa.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-09-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=cameo.mfa.org&amp;rft.atitle=Moisture+regain+-+CAMEO&amp;rft_id=http%3A%2F%2Fcameo.mfa.org%2Fwiki%2FMoisture_regain&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbsorption+%28chemistry%29"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Parsed by mw1244
+Cached time: 20181010152125
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.212 seconds
+Real time usage: 0.486 seconds
+Preprocessor visited node count: 342/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 7013/2097152 bytes
+Template argument size: 743/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 9893/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.098/10.000 seconds
+Lua memory usage: 2.3 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  281.352      1 -total
+ 66.80%  187.951      1 Template:Reflist
+ 32.11%   90.348      1 Template:Cite_book
+ 20.32%   57.179      1 Template:Cite_journal
+ 16.35%   46.013      1 Template:Distinguish
+ 12.93%   36.371      1 Template:Quote_box
+  4.40%   12.378      1 Template:Column-width
+  3.00%    8.427      1 Template:Cite_web
+  1.95%    5.483      1 Template:Other_uses
+  0.98%    2.764      1 Template:Main_other
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1383986-0!canonical!math=5 and timestamp 20181010152125 and revision id 861164162
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Absorption_(chemistry)&amp;oldid=861164162">https://en.wikipedia.org/w/index.php?title=Absorption_(chemistry)&amp;oldid=861164162</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Physical_chemistry" title="Category:Physical chemistry">Physical chemistry</a></li><li><a href="/wiki/Category:Gases" title="Category:Gases">Gases</a></li><li><a href="/wiki/Category:Gas_technologies" title="Category:Gas technologies">Gas technologies</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Absorption+%28chemistry%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Absorption+%28chemistry%29" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Absorption_(chemistry)" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Absorption_(chemistry)" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Absorption_(chemistry)">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Absorption_(chemistry)&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Absorption_(chemistry)&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Absorption_(chemistry)" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Absorption_(chemistry)" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Absorption_(chemistry)&amp;oldid=861164162" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Absorption_(chemistry)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q332828" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Absorption_%28chemistry%29&amp;id=861164162" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Absorption+%28chemistry%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Absorption+%28chemistry%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Absorption_(chemistry)&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%85%D8%AA%D8%B5%D8%A7%D8%B5_(%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1)" hreflang="ar" lang="ar" title="امتصاص (كيمياء) – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Absorbsiya" hreflang="az" lang="az" title="Absorbsiya – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%90%D0%B1%D1%81%D0%BE%D1%80%D0%B1%D1%86%D1%8B%D1%8F" hreflang="be" lang="be" title="Абсорбцыя – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%90%D0%B1%D1%81%D0%BE%D1%80%D0%B1%D1%86%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Абсорбция – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Apsorpcija_(hemija)" hreflang="bs" lang="bs" title="Apsorpcija (hemija) – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Absorci%C3%B3_(qu%C3%ADmica)" hreflang="ca" lang="ca" title="Absorció (química) – Catalan">Català</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Absorption" hreflang="da" lang="da" title="Absorption – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Absorption_(Chemie)" hreflang="de" lang="de" title="Absorption (Chemie) – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Absorptsioon_(keemia)" hreflang="et" lang="et" title="Absorptsioon (keemia) – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A0%CF%81%CE%BF%CF%83%CF%81%CF%8C%CF%86%CE%B7%CF%83%CE%B7" hreflang="el" lang="el" title="Προσρόφηση – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Absorci%C3%B3n_(qu%C3%ADmica)" hreflang="es" lang="es" title="Absorción (química) – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Sorbo" hreflang="eo" lang="eo" title="Sorbo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AC%D8%B0%D8%A8_(%D8%B4%DB%8C%D9%85%DB%8C)" hreflang="fa" lang="fa" title="جذب (شیمی) – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Absorption_(physique)" hreflang="fr" lang="fr" title="Absorption (physique) – French">Français</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B1%D5%A2%D5%BD%D5%B8%D6%80%D5%A2%D5%B8%D6%82%D5%B4" hreflang="hy" lang="hy" title="Աբսորբում – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%B5%E0%A4%B6%E0%A5%8B%E0%A4%B7%E0%A4%A3_(%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0)" hreflang="hi" lang="hi" title="अवशोषण (रसायनशास्त्र) – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Absorpsi_(kimia)" hreflang="id" lang="id" title="Absorpsi (kimia) – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Absorbimento" hreflang="it" lang="it" title="Absorbimento – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%91%E1%83%A1%E1%83%9D%E1%83%A0%E1%83%91%E1%83%AA%E1%83%98%E1%83%90" hreflang="ka" lang="ka" title="აბსორბცია – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%90%D0%B1%D1%81%D0%BE%D1%80%D0%B1%D1%86%D0%B8%D1%8F" hreflang="kk" lang="kk" title="Абсорбция – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%90%D0%B1%D1%81%D0%BE%D1%80%D0%B1%D1%86%D0%B8%D1%8F" hreflang="ky" lang="ky" title="Абсорбция – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Absorbcija" hreflang="lt" lang="lt" title="Absorbcija – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Abszorpci%C3%B3_(k%C3%A9mia)" hreflang="hu" lang="hu" title="Abszorpció (kémia) – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%B5%E0%B4%B6%E0%B5%8B%E0%B4%B7%E0%B4%A3%E0%B4%82" hreflang="ml" lang="ml" title="അവശോഷണം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Penyerapan_(kimia)" hreflang="ms" lang="ms" title="Penyerapan (kimia) – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Absorptie_(fysische_chemie)" hreflang="nl" lang="nl" title="Absorptie (fysische chemie) – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%90%B8%E5%8F%8E_(%E5%8C%96%E5%AD%A6)" hreflang="ja" lang="ja" title="吸収 (化学) – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Kjemisk_absorpsjon" hreflang="no" lang="no" title="Kjemisk absorpsjon – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Kjemisk_absorpsjon" hreflang="nn" lang="nn" title="Kjemisk absorpsjon – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Absorbsiya" hreflang="uz" lang="uz" title="Absorbsiya – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Absorpcja_(chemia_fizyczna)" hreflang="pl" lang="pl" title="Absorpcja (chemia fizyczna) – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Absor%C3%A7%C3%A3o_(qu%C3%ADmica)" hreflang="pt" lang="pt" title="Absorção (química) – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Absorb%C8%9Bie_(chimie)" hreflang="ro" lang="ro" title="Absorbție (chimie) – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D1%81%D0%BE%D1%80%D0%B1%D1%86%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Абсорбция – Russian">Русский</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Absorpcia_(ch%C3%A9mia)" hreflang="sk" lang="sk" title="Absorpcia (chémia) – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Absorpcija" hreflang="sl" lang="sl" title="Absorpcija – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Absorptio_(kemia)" hreflang="fi" lang="fi" title="Absorptio (kemia) – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Absorption" hreflang="sv" lang="sv" title="Absorption – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B9%E0%B8%94%E0%B8%8B%E0%B8%B6%E0%B8%A1" hreflang="th" lang="th" title="การดูดซึม – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/%D0%90%D0%B1%D1%81%D0%BE%D1%80%D0%B1%D1%81%D0%B8%D1%8F" hreflang="tg" lang="tg" title="Абсорбсия – Tajik">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tk"><a class="interlanguage-link-target" href="https://tk.wikipedia.org/wiki/Absorbsi%C3%BDa" hreflang="tk" lang="tk" title="Absorbsiýa – Turkmen">Türkmençe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%90%D0%B1%D1%81%D0%BE%D1%80%D0%B1%D1%86%D1%96%D1%8F" hreflang="uk" lang="uk" title="Абсорбція – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/H%E1%BA%A5p_th%E1%BB%A5" hreflang="vi" lang="vi" title="Hấp thụ – Vietnamese">Tiếng Việt</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q332828#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 25 September 2018, at 15:12<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Absorption_(chemistry)&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.212","walltime":"0.486","ppvisitednodes":{"value":342,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":7013,"limit":2097152},"templateargumentsize":{"value":743,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9893,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  281.352      1 -total"," 66.80%  187.951      1 Template:Reflist"," 32.11%   90.348      1 Template:Cite_book"," 20.32%   57.179      1 Template:Cite_journal"," 16.35%   46.013      1 Template:Distinguish"," 12.93%   36.371      1 Template:Quote_box","  4.40%   12.378      1 Template:Column-width","  3.00%    8.427      1 Template:Cite_web","  1.95%    5.483      1 Template:Other_uses","  0.98%    2.764      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.098","limit":"10.000"},"limitreport-memusage":{"value":2414533,"limit":52428800}},"cachereport":{"origin":"mw1244","timestamp":"20181010152125","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1319"});});</script>
+</body>
+</html>

@@ -1,0 +1,1869 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Active laser medium - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Active_laser_medium","wgTitle":"Active laser medium","wgCurRevisionId":851695207,"wgRevisionId":851695207,"wgArticleId":40692,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from March 2014","Laser gain media","Laser science"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Active_laser_medium","wgRelevantArticleId":40692,"wgRequestId":"W8Iu2wpAMFQAAKSjxAkAAACM","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1806565","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Active_laser_medium" rel="alternate"/>
+<link href="/w/index.php?title=Active_laser_medium&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Active_laser_medium&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Active_laser_medium" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Active_laser_medium rootpage-Active_laser_medium skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Active laser medium</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>The <b>active laser medium</b> (also called <b>gain medium</b> or <b>lasing medium</b>) is the source of optical <a href="/wiki/Gain_(laser)" title="Gain (laser)">gain</a> within a <a href="/wiki/Laser" title="Laser">laser</a>.  The gain results from the <a href="/wiki/Stimulated_emission" title="Stimulated emission">stimulated emission</a> of electronic or molecular transitions to a lower energy state from a higher energy state
+previously populated by a <a href="/wiki/Laser_pumping" title="Laser pumping">pump source</a>.
+</p><p>Examples of active laser media include:
+</p>
+<ul><li>Certain <a href="/wiki/Crystal" title="Crystal">crystals</a>, typically doped with <a class="mw-redirect" href="/wiki/Rare_earth_element" title="Rare earth element">rare-earth</a> <a href="/wiki/Ion" title="Ion">ions</a> (e.g. <a href="/wiki/Neodymium" title="Neodymium">neodymium</a>, <a href="/wiki/Ytterbium" title="Ytterbium">ytterbium</a>, or <a href="/wiki/Erbium" title="Erbium">erbium</a>) or <a href="/wiki/Transition_metal" title="Transition metal">transition metal</a> ions (<a href="/wiki/Titanium" title="Titanium">titanium</a> or <a href="/wiki/Chromium" title="Chromium">chromium</a>); most often <a href="/wiki/Yttrium_aluminium_garnet" title="Yttrium aluminium garnet">yttrium aluminium garnet</a> (<a href="/wiki/Yttrium" title="Yttrium">Y</a><sub>3</sub><a href="/wiki/Aluminium" title="Aluminium">Al</a><sub>5</sub><a href="/wiki/Oxygen" title="Oxygen">O</a><sub>12</sub>), <a href="/wiki/Yttrium_orthovanadate" title="Yttrium orthovanadate">yttrium orthovanadate</a> (YVO<sub>4</sub>), or <a href="/wiki/Sapphire" title="Sapphire">sapphire</a> (Al<sub>2</sub>O<sub>3</sub>);<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> and not often <a href="/wiki/Caesium_cadmium_bromide" title="Caesium cadmium bromide">Caesium cadmium bromide</a> (<a href="/wiki/Caesium" title="Caesium">Cs</a><a href="/wiki/Cadmium" title="Cadmium">Cd</a><a href="/wiki/Bromine" title="Bromine">Br</a><sub>3</sub>)</li>
+<li><a href="/wiki/Glass" title="Glass">Glasses</a>, e.g. silicate or phosphate glasses, doped with laser-active ions;<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></li>
+<li><a href="/wiki/Gas" title="Gas">Gases</a>, e.g. mixtures of <a href="/wiki/Helium" title="Helium">helium</a> and <a href="/wiki/Neon" title="Neon">neon</a> (HeNe), <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a>, <a href="/wiki/Argon" title="Argon">argon</a>, <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a>, <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>, or metal vapors;<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></li>
+<li><a href="/wiki/Semiconductor" title="Semiconductor">Semiconductors</a>, e.g. <a href="/wiki/Gallium_arsenide" title="Gallium arsenide">gallium arsenide</a> (GaAs), <a href="/wiki/Indium_gallium_arsenide" title="Indium gallium arsenide">indium gallium arsenide</a> (InGaAs), or <a href="/wiki/Gallium_nitride" title="Gallium nitride">gallium nitride</a> (GaN).<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></li>
+<li>Liquids, in the form of dye solutions as used in <a class="mw-redirect" href="/wiki/Dye_lasers" title="Dye lasers">dye lasers</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></li></ul>
+<p>In order to fire a laser, the active gain medium must be in a nonthermal energy distribution known as a <a href="/wiki/Population_inversion" title="Population inversion">population inversion</a>.  The preparation of this state requires an external energy source and is known as <a href="/wiki/Laser_pumping" title="Laser pumping">laser pumping</a>.  Pumping may be achieved with electrical currents (e.g. semiconductors, or gases via <a href="/wiki/Glow_discharge" title="Glow discharge">high-voltage discharges</a>) or with light, generated by <a class="mw-redirect" href="/wiki/Discharge_lamp" title="Discharge lamp">discharge lamps</a> or by other lasers (<a class="mw-redirect" href="/wiki/Semiconductor_laser" title="Semiconductor laser">semiconductor lasers</a>).  More exotic gain media can be pumped by <a class="mw-redirect" href="/wiki/Chemical_reactions" title="Chemical reactions">chemical reactions</a>, <a href="/wiki/Nuclear_fission" title="Nuclear fission">nuclear fission</a>,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2014)">citation needed</span></a></i>]</sup> or with high-energy <a class="mw-redirect" href="/wiki/Electron_beam" title="Electron beam">electron beams</a>.<sup class="reference" id="cite_ref-rp_7-0"><a href="#cite_note-rp-7">[7]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Example_of_a_model_of_gain_medium"><span class="tocnumber">1</span> <span class="toctext">Example of a model of gain medium</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Cross-sections"><span class="tocnumber">1.1</span> <span class="toctext">Cross-sections</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Steady-state_solution"><span class="tocnumber">1.2</span> <span class="toctext">Steady-state solution</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Identities"><span class="tocnumber">1.3</span> <span class="toctext">Identities</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Efficiency_of_the_gain_medium"><span class="tocnumber">1.4</span> <span class="toctext">Efficiency of the gain medium</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References_and_notes"><span class="tocnumber">3</span> <span class="toctext">References and notes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Example_of_a_model_of_gain_medium">Example of a model of gain medium</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Active_laser_medium&amp;action=edit&amp;section=1" title="Edit section: Example of a model of gain medium">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:LaserLevels1.png"><img alt="" class="thumbimage" data-file-height="1000" data-file-width="660" height="303" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/LaserLevels1.png/200px-LaserLevels1.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/LaserLevels1.png/300px-LaserLevels1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/LaserLevels1.png/400px-LaserLevels1.png 2x" width="200"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:LaserLevels1.png" title="Enlarge"></a></div>Fig.1. Simplified scheme of levels a gain medium</div></div></div>
+<p>An universal model valid for all laser types does not exist.<sup class="reference" id="cite_ref-siegman_8-0"><a href="#cite_note-siegman-8">[8]</a></sup> 
+The simplest model includes two systems of sub-levels: upper and lower.  Within each sub-level system, the fast transitions ensure that thermal equilibrium is reached quickly, leading to the <a href="/wiki/Maxwell%E2%80%93Boltzmann_statistics" title="Maxwell–Boltzmann statistics">Maxwell–Boltzmann statistics</a> of excitations among sub-levels in each system <i>(fig.1)</i>.  The upper level is assumed to be <a class="mw-redirect" href="/wiki/Metastable" title="Metastable">metastable</a>. Also, gain and refractive index are assumed independent of a particular way of excitation.
+</p><p>For good performance of the gain medium, the separation between sub-levels should be larger than working temperature; then, at pump frequency <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~\omega _{\rm {p}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~\omega _{\rm {p}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle ~\omega _{\rm {p}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5724e1a75782dd0931cb355b543cb016c16abf70" style="vertical-align: -1.005ex; width:3.173ex; height:2.343ex;"/></span>, the absorption dominates.
+</p><p>In the case of <a href="/wiki/Amplifier" title="Amplifier">amplification</a> of optical signals, the lasing frequency is called <i>signal frequency.</i> However, the same term is used even in the laser <a class="mw-redirect" href="/wiki/Oscillators" title="Oscillators">oscillators</a>, when amplified radiation is used to transfer energy rather than information.  The model below seems to work well for most optically-pumped <a href="/wiki/Solid-state_laser" title="Solid-state laser">solid-state lasers</a>.
+</p>
+<h3><span class="mw-headline" id="Cross-sections">Cross-sections</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Active_laser_medium&amp;action=edit&amp;section=2" title="Edit section: Cross-sections">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The simple medium can be characterized with <a href="/wiki/Cross_section_(physics)" title="Cross section (physics)">effective cross-sections</a> of <a href="/wiki/Absorption_(electromagnetic_radiation)" title="Absorption (electromagnetic radiation)">absorption</a> and <a class="mw-redirect" href="/wiki/Emission_(electromagnetic_radiation)" title="Emission (electromagnetic radiation)">emission</a> at frequencies <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~\omega _{\rm {p}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~\omega _{\rm {p}}~}</annotation>
+</semantics>
+</math></span><img alt="~\omega_{\rm p}~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c250f350e3fe773ee23626e7c867ab1ab7f875b5" style="vertical-align: -1.005ex; width:3.753ex; height:2.343ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~\omega _{\rm {s}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~\omega _{\rm {s}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle ~\omega _{\rm {s}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/08a87b7cba000498021cdb9c7b02b9e8b96280a2" style="vertical-align: -0.671ex; width:2.907ex; height:2.009ex;"/></span>.
+</p>
+<ul><li>Have <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~N~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mi>N</mi>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~N~}</annotation>
+</semantics>
+</math></span><img alt="~N~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c9025f4623f468c4be704a2634cffd698a87fd21" style="vertical-align: -0.338ex; width:3.225ex; height:2.176ex;"/></span> be concentration of active centers in the solid-state lasers.</li>
+<li>Have <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~N_{1}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~N_{1}~}</annotation>
+</semantics>
+</math></span><img alt="~N_1~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ced1b64ed75ac77eb001268ff886f9cea725ca28" style="vertical-align: -0.671ex; width:4.082ex; height:2.509ex;"/></span> be concentration of active centers in the ground state.</li>
+<li>Have <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~N_{2}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~N_{2}~}</annotation>
+</semantics>
+</math></span><img alt="~N_2~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5249423a9d73dc7c3541d938a873ec60479fa127" style="vertical-align: -0.671ex; width:4.082ex; height:2.509ex;"/></span> be concentration of excited centers.</li>
+<li>Have <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~N_{1}+N_{2}=N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~N_{1}+N_{2}=N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle ~N_{1}+N_{2}=N}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ed265ebd924fa0874737cffe240779282561fc55" style="vertical-align: -0.671ex; width:14.424ex; height:2.509ex;"/></span>.</li></ul>
+<p>The relative concentrations can be defined as <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~n_{1}=N_{1}/N~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>N</mi>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~n_{1}=N_{1}/N~}</annotation>
+</semantics>
+</math></span><img alt="~n_1=N_1/N~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5bf317f20d01a3e86f6e6418b182d38d6a032d12" style="vertical-align: -0.838ex; width:12.855ex; height:2.843ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~n_{2}=N_{2}/N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~n_{2}=N_{2}/N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle ~n_{2}=N_{2}/N}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/38f3a073b3afc83d65cbc88af098bf1dd80e75bc" style="vertical-align: -0.838ex; width:12.275ex; height:2.843ex;"/></span>.
+</p><p>The rate of transitions of an active center from ground state to the excited state can be expressed with <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~W_{\rm {u}}={\frac {I_{\rm {p}}\sigma _{\rm {ap}}}{\hbar \omega _{\rm {p}}}}+{\frac {I_{\rm {s}}\sigma _{\rm {as}}}{\hbar \omega _{\rm {s}}}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">u</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi class="MJX-variant">ℏ<!-- ℏ --></mi>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi class="MJX-variant">ℏ<!-- ℏ --></mi>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~W_{\rm {u}}={\frac {I_{\rm {p}}\sigma _{\rm {ap}}}{\hbar \omega _{\rm {p}}}}+{\frac {I_{\rm {s}}\sigma _{\rm {as}}}{\hbar \omega _{\rm {s}}}}~}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle ~W_{\rm {u}}={\frac {I_{\rm {p}}\sigma _{\rm {ap}}}{\hbar \omega _{\rm {p}}}}+{\frac {I_{\rm {s}}\sigma _{\rm {as}}}{\hbar \omega _{\rm {s}}}}~}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/786be644cc0cace3ec6b325e082065d536a82923" style="vertical-align: -2.505ex; width:22.51ex; height:6.176ex;"/></span> and
+</p><p>The rate of transitions back to the ground state can be expressed with <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~W_{\rm {d}}={\frac {I_{\rm {p}}\sigma _{\rm {ep}}}{\hbar \omega _{\rm {p}}}}+{\frac {I_{\rm {s}}\sigma _{\rm {es}}}{\hbar \omega _{\rm {s}}}}+{\frac {1}{\tau }}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi class="MJX-variant">ℏ<!-- ℏ --></mi>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi class="MJX-variant">ℏ<!-- ℏ --></mi>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>τ<!-- τ --></mi>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~W_{\rm {d}}={\frac {I_{\rm {p}}\sigma _{\rm {ep}}}{\hbar \omega _{\rm {p}}}}+{\frac {I_{\rm {s}}\sigma _{\rm {es}}}{\hbar \omega _{\rm {s}}}}+{\frac {1}{\tau }}~}</annotation>
+</semantics>
+</math></span><img alt="~W_{\rm d}=\frac{ I_{\rm p} \sigma_{\rm ep}}{ \hbar \omega_{\rm p} }+\frac{I_{\rm s}\sigma_{\rm es}}{ \hbar \omega_{\rm s} } +\frac{1}{\tau}~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a9de53fd197ea2c5a56441e1c2fa82fb94dbf9c3" style="vertical-align: -2.505ex; width:27.204ex; height:6.176ex;"/></span>,
+where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~\sigma _{\rm {as}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~\sigma _{\rm {as}}~}</annotation>
+</semantics>
+</math></span><img alt="~\sigma_{\rm as} ~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4f715b811e57061afce97e2f54d1218e457f19a1" style="vertical-align: -0.671ex; width:4.191ex; height:2.009ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~\sigma _{\rm {ap}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~\sigma _{\rm {ap}}~}</annotation>
+</semantics>
+</math></span><img alt="~\sigma_{\rm ap} ~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dca6744c6d94c6e3522becd091d0002236e55389" style="vertical-align: -1.005ex; width:4.457ex; height:2.343ex;"/></span> are <a href="/wiki/Absorption_cross_section" title="Absorption cross section">effective cross-sections</a> of absorption at the frequencies of the signal and the pump.
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~\sigma _{\rm {es}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~\sigma _{\rm {es}}~}</annotation>
+</semantics>
+</math></span><img alt="~\sigma_{\rm es} ~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/71893bc5379d9ec228df5f5311ed6960621b444b" style="vertical-align: -0.671ex; width:4.099ex; height:2.009ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~\sigma _{\rm {ep}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~\sigma _{\rm {ep}}~}</annotation>
+</semantics>
+</math></span><img alt="~\sigma_{\rm ep} ~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f15bf63b44da44fd9134c361f47398dee4ca17cf" style="vertical-align: -1.005ex; width:4.365ex; height:2.343ex;"/></span> are the same for stimulated emission;
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~{\frac {1}{\tau }}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>τ<!-- τ --></mi>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~{\frac {1}{\tau }}~}</annotation>
+</semantics>
+</math></span><img alt="~\frac{1}{\tau}~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/31754266936a09656df07143217e697950f7ba3b" style="vertical-align: -1.838ex; width:3.199ex; height:5.176ex;"/></span> is rate of the spontaneous decay of the upper level.
+</p><p>Then, the kinetic equation for relative populations can be written as follows:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~{\frac {{\rm {d}}n_{2}}{{\rm {d}}t}}=W_{\rm {u}}n_{1}-W_{\rm {d}}n_{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+</mrow>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">u</mi>
+</mrow>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~{\frac {{\rm {d}}n_{2}}{{\rm {d}}t}}=W_{\rm {u}}n_{1}-W_{\rm {d}}n_{2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle ~{\frac {{\rm {d}}n_{2}}{{\rm {d}}t}}=W_{\rm {u}}n_{1}-W_{\rm {d}}n_{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9470db53444d978ca4fa71dc934a09268019acf9" style="vertical-align: -2.005ex; width:22.675ex; height:5.509ex;"/></span>,
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~{\frac {{\rm {d}}n_{1}}{{\rm {d}}t}}=-W_{\rm {u}}n_{1}+W_{\rm {d}}n_{2}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+</mrow>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">u</mi>
+</mrow>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~{\frac {{\rm {d}}n_{1}}{{\rm {d}}t}}=-W_{\rm {u}}n_{1}+W_{\rm {d}}n_{2}~}</annotation>
+</semantics>
+</math></span><img alt="~ 
+\frac{{\rm d}n_1}{{\rm d}t}=-W_{\rm u} n_1 + W_{\rm d} n_2
+~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0b37240c525d7bbda7ab099e0b73bd8b40a8d65f" style="vertical-align: -2.005ex; width:25.064ex; height:5.509ex;"/></span>
+However, these equations keep <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~n_{1}+n_{2}=1~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>1</mn>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~n_{1}+n_{2}=1~}</annotation>
+</semantics>
+</math></span><img alt="~ n_1+n_2=1 ~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8c11bbf3613bf946030a04f2b80d836d27c5fdbb" style="vertical-align: -0.671ex; width:13.161ex; height:2.509ex;"/></span>.
+</p><p>The absorption <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~A~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mi>A</mi>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~A~}</annotation>
+</semantics>
+</math></span><img alt="~  A ~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/00229fc56bafa7e9b522aedb3bed5dca455bc561" style="vertical-align: -0.338ex; width:2.904ex; height:2.176ex;"/></span> at the pump frequency and the gain <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~G~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mi>G</mi>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~G~}</annotation>
+</semantics>
+</math></span><img alt="~  G ~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bbd404b86c834dff5810a792f61b54370da93ff0" style="vertical-align: -0.338ex; width:2.988ex; height:2.176ex;"/></span> at the signal frequency can be written 
+as follows:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~A=N_{1}\sigma _{\rm {pa}}-N_{2}\sigma _{\rm {pe}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mi>A</mi>
+<mo>=</mo>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+<mi mathvariant="normal">a</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+<mi mathvariant="normal">e</mi>
+</mrow>
+</mrow>
+</msub>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~A=N_{1}\sigma _{\rm {pa}}-N_{2}\sigma _{\rm {pe}}~}</annotation>
+</semantics>
+</math></span><img alt="~  A = N_1\sigma_{\rm pa} -N_2\sigma_{\rm pe} ~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7ccf537efc29d33e0dc9da0c586f821920659edc" style="vertical-align: -1.005ex; width:21.183ex; height:2.843ex;"/></span>,
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~G=N_{2}\sigma _{\rm {se}}-N_{1}\sigma _{\rm {sa}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mi>G</mi>
+<mo>=</mo>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">e</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">a</mi>
+</mrow>
+</mrow>
+</msub>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~G=N_{2}\sigma _{\rm {se}}-N_{1}\sigma _{\rm {sa}}~}</annotation>
+</semantics>
+</math></span><img alt="~  G = N_2\sigma_{\rm se} -N_1\sigma_{\rm sa} ~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/17e0b1fa62b06cffeae187b825586a578faeff26" style="vertical-align: -0.671ex; width:20.735ex; height:2.509ex;"/></span>.
+</p>
+<h3><span class="mw-headline" id="Steady-state_solution">Steady-state solution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Active_laser_medium&amp;action=edit&amp;section=3" title="Edit section: Steady-state solution">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In many cases the gain medium works in a continuous-wave or <a href="/wiki/Quasi-continuous_function" title="Quasi-continuous function">quasi-continuous</a> regime, causing the time <a href="/wiki/Derivative" title="Derivative">derivatives</a> of populations to be negligible.
+</p><p>The steady-state solution can be written:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~n_{2}={\frac {W_{\rm {u}}}{W_{\rm {u}}+W_{\rm {d}}}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">u</mi>
+</mrow>
+</mrow>
+</msub>
+<mrow>
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">u</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~n_{2}={\frac {W_{\rm {u}}}{W_{\rm {u}}+W_{\rm {d}}}}~}</annotation>
+</semantics>
+</math></span><img alt="~ n_2=\frac{W_{\rm u}}{W_{\rm u}+W_{\rm d}} ~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8c7c6ca7691ddb86fea99e2b4bd3eb7718cb817a" style="vertical-align: -2.338ex; width:17.065ex; height:5.676ex;"/></span>, 
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~n_{1}={\frac {W_{\rm {d}}}{W_{\rm {u}}+W_{\rm {d}}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+</mrow>
+</msub>
+<mrow>
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">u</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~n_{1}={\frac {W_{\rm {d}}}{W_{\rm {u}}+W_{\rm {d}}}}.}</annotation>
+</semantics>
+</math></span><img alt="~ n_1=\frac{W_{\rm d}}{W_{\rm u}+W_{\rm d}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f3333764eaccd6f1a31f84a28bcb1028264f3139" style="vertical-align: -2.338ex; width:17.131ex; height:5.676ex;"/></span>
+</p><p>The dynamic saturation intensities can be defined:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~I_{\rm {po}}={\frac {\hbar \omega _{\rm {p}}}{(\sigma _{\rm {ap}}+\sigma _{\rm {ep}})\tau }}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+<mi mathvariant="normal">o</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi class="MJX-variant">ℏ<!-- ℏ --></mi>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mi>τ<!-- τ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~I_{\rm {po}}={\frac {\hbar \omega _{\rm {p}}}{(\sigma _{\rm {ap}}+\sigma _{\rm {ep}})\tau }}~}</annotation>
+</semantics>
+</math></span><img alt="~ I_{\rm po}=\frac{\hbar \omega_{\rm p}}{(\sigma_{\rm ap}+\sigma_{\rm ep})\tau} ~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d93bc66e1a858b9c7eed6b7e9c410a09e497e943" style="vertical-align: -2.671ex; width:20.438ex; height:6.343ex;"/></span>,
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~I_{\rm {so}}={\frac {\hbar \omega _{\rm {s}}}{(\sigma _{\rm {as}}+\sigma _{\rm {es}})\tau }}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">o</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi class="MJX-variant">ℏ<!-- ℏ --></mi>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mi>τ<!-- τ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~I_{\rm {so}}={\frac {\hbar \omega _{\rm {s}}}{(\sigma _{\rm {as}}+\sigma _{\rm {es}})\tau }}~}</annotation>
+</semantics>
+</math></span><img alt="~ I_{\rm so}=\frac{\hbar \omega_{\rm s}}{(\sigma_{\rm as}+\sigma_{\rm es})\tau} ~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f9348d5a51776d19ecece66abfbb9bb4dd0f9813" style="vertical-align: -2.671ex; width:19.64ex; height:6.176ex;"/></span>.
+</p><p>The absorption at strong signal:
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~A_{0}={\frac {ND}{\sigma _{\rm {as}}+\sigma _{\rm {es}}}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>N</mi>
+<mi>D</mi>
+</mrow>
+<mrow>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~A_{0}={\frac {ND}{\sigma _{\rm {as}}+\sigma _{\rm {es}}}}~}</annotation>
+</semantics>
+</math></span><img alt="~ A_0=\frac{ND}{\sigma_{\rm as}+\sigma_{\rm es}}~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ea9385fd441f693c1f3db42106ac97303543df77" style="vertical-align: -2.171ex; width:16.701ex; height:5.509ex;"/></span>.
+</p><p>The gain at strong pump:
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~G_{0}={\frac {ND}{\sigma _{\rm {ap}}+\sigma _{\rm {ep}}}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>N</mi>
+<mi>D</mi>
+</mrow>
+<mrow>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~G_{0}={\frac {ND}{\sigma _{\rm {ap}}+\sigma _{\rm {ep}}}}~}</annotation>
+</semantics>
+</math></span><img alt="~ G_0=\frac{ND}{\sigma_{\rm ap}+\sigma_{\rm ep}}~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2123f5720b397248a43b4864c411385fa6b735f4" style="vertical-align: -2.505ex; width:17.316ex; height:5.843ex;"/></span>,
+where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~D=\sigma _{\rm {pa}}\sigma _{\rm {se}}-\sigma _{\rm {pe}}\sigma _{\rm {sa}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mi>D</mi>
+<mo>=</mo>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+<mi mathvariant="normal">a</mi>
+</mrow>
+</mrow>
+</msub>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">e</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+<mi mathvariant="normal">e</mi>
+</mrow>
+</mrow>
+</msub>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">a</mi>
+</mrow>
+</mrow>
+</msub>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~D=\sigma _{\rm {pa}}\sigma _{\rm {se}}-\sigma _{\rm {pe}}\sigma _{\rm {sa}}~}</annotation>
+</semantics>
+</math></span><img alt="~ D=
+\sigma_{\rm pa}
+\sigma_{\rm se}
+-
+\sigma_{\rm pe}
+\sigma_{\rm sa}
+~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c49b07277f47b49d9645a3b44e7a395d617c38fa" style="vertical-align: -1.005ex; width:21.491ex; height:2.843ex;"/></span>
+is determinant of cross-section.
+</p><p>Gain never exceeds value <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~G_{0}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~G_{0}~}</annotation>
+</semantics>
+</math></span><img alt="~G_0~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4e6115a7843df246f7ddc83c9f120b3072c36975" style="vertical-align: -0.671ex; width:4.042ex; height:2.509ex;"/></span>, and absorption never exceeds value <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~A_{0}U~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mi>U</mi>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~A_{0}U~}</annotation>
+</semantics>
+</math></span><img alt="~A_0  U~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/abd13c928c03dbd243b8352794637c5cac00c1a0" style="vertical-align: -0.671ex; width:5.741ex; height:2.509ex;"/></span>.
+</p><p>At given intensities <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~I_{\rm {p}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~I_{\rm {p}}~}</annotation>
+</semantics>
+</math></span><img alt="~I_{\rm p}~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8f0c2c3224297b65d9c826b3f5178a800366f730" style="vertical-align: -1.005ex; width:3.331ex; height:2.843ex;"/></span>,  <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~I_{\rm {s}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~I_{\rm {s}}~}</annotation>
+</semantics>
+</math></span><img alt="~I_{\rm s}~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5ae57e3973a52460093199aba1bbb26e3df47462" style="vertical-align: -0.671ex; width:3.065ex; height:2.509ex;"/></span> of pump and signal, the gain and absorption
+can be expressed as follows:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~A=A_{0}{\frac {U+s}{1+p+s}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mi>A</mi>
+<mo>=</mo>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>U</mi>
+<mo>+</mo>
+<mi>s</mi>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mi>p</mi>
+<mo>+</mo>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~A=A_{0}{\frac {U+s}{1+p+s}}~}</annotation>
+</semantics>
+</math></span><img alt="~A=A_0\frac{U+s}{1+p+s}~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ee83544b9cad6c7ebf82dddf10d199a370801a6f" style="vertical-align: -2.338ex; width:18.739ex; height:5.676ex;"/></span>,
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~G=G_{0}{\frac {p-V}{1+p+s}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mi>G</mi>
+<mo>=</mo>
+<msub>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>p</mi>
+<mo>−<!-- − --></mo>
+<mi>V</mi>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mi>p</mi>
+<mo>+</mo>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~G=G_{0}{\frac {p-V}{1+p+s}}~}</annotation>
+</semantics>
+</math></span><img alt="~G=G_0\frac{p-V}{1+p+s}~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0523c9e5c912cc10e1902988277bf99319000709" style="vertical-align: -2.338ex; width:18.907ex; height:5.843ex;"/></span>,
+</p><p>where 
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~p=I_{\rm {p}}/I_{\rm {po}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mi>p</mi>
+<mo>=</mo>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+<mi mathvariant="normal">o</mi>
+</mrow>
+</mrow>
+</msub>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~p=I_{\rm {p}}/I_{\rm {po}}~}</annotation>
+</semantics>
+</math></span><img alt="~p=I_{\rm p}/I_{\rm po}~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/532dafb28e57cb2af501bdd8d7e8d854a23de422" style="vertical-align: -1.005ex; width:11.752ex; height:3.009ex;"/></span>, 
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~s=I_{\rm {s}}/I_{\rm {so}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mi>s</mi>
+<mo>=</mo>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">o</mi>
+</mrow>
+</mrow>
+</msub>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~s=I_{\rm {s}}/I_{\rm {so}}~}</annotation>
+</semantics>
+</math></span><img alt="~s=I_{\rm s}/I_{\rm so}~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/401526ff7f910e20103bca05379e43bd10a9a13a" style="vertical-align: -0.838ex; width:11.141ex; height:2.843ex;"/></span>, 
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~U={\frac {(\sigma _{\rm {as}}+\sigma _{\rm {es}})\sigma _{\rm {ap}}}{D}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mi>U</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+<mi>D</mi>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~U={\frac {(\sigma _{\rm {as}}+\sigma _{\rm {es}})\sigma _{\rm {ap}}}{D}}~}</annotation>
+</semantics>
+</math></span><img alt="~U=\frac{(\sigma_{\rm as}+\sigma_{\rm es})\sigma_{\rm ap}}{D}~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ea5c13d2addc36115d308145eea057a74f60e8f0" style="vertical-align: -1.838ex; width:20.791ex; height:5.676ex;"/></span>, 
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~V={\frac {(\sigma _{\rm {ap}}+\sigma _{\rm {ep}})\sigma _{\rm {as}}}{D}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mi>V</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+<mi>D</mi>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~V={\frac {(\sigma _{\rm {ap}}+\sigma _{\rm {ep}})\sigma _{\rm {as}}}{D}}~}</annotation>
+</semantics>
+</math></span><img alt="~V=\frac{(\sigma_{\rm ap}+\sigma_{\rm ep})\sigma_{\rm as}}{D}~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8c28350d965bd2f2f7c5327920de4127f8e6df72" style="vertical-align: -1.838ex; width:21.061ex; height:5.676ex;"/></span> .
+</p>
+<h3><span class="mw-headline" id="Identities">Identities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Active_laser_medium&amp;action=edit&amp;section=4" title="Edit section: Identities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following identities<sup class="reference" id="cite_ref-uns_9-0"><a href="#cite_note-uns-9">[9]</a></sup> take place:
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle U-V=1~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mo>−<!-- − --></mo>
+<mi>V</mi>
+<mo>=</mo>
+<mn>1</mn>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U-V=1~}</annotation>
+</semantics>
+</math></span><img alt="U-V=1 ~ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3d17ebc559f8384fe492cbf6badc614d5498d211" style="vertical-align: -0.505ex; width:11.252ex; height:2.343ex;"/></span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~A/A_{0}+G/G_{0}=1~.\ }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>1</mn>
+<mtext> </mtext>
+<mo>.</mo>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~A/A_{0}+G/G_{0}=1~.\ }</annotation>
+</semantics>
+</math></span><img alt="~ A/A_0 +G/G_0=1~.\ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/50aef809b40e21e1d4e0832ae11be1b2cbbbfe61" style="vertical-align: -0.838ex; width:21.45ex; height:2.843ex;"/></span>
+</p><p>The state of gain medium can be characterized with a single parameter, such as population of the upper level, gain or absorption.
+</p>
+<h3><span class="mw-headline" id="Efficiency_of_the_gain_medium">Efficiency of the gain medium</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Active_laser_medium&amp;action=edit&amp;section=5" title="Edit section: Efficiency of the gain medium">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The efficiency of a <b>gain medium</b> can be defined as
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~E={\frac {I_{\rm {s}}G}{I_{\rm {p}}A}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mi>E</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+<mi>G</mi>
+</mrow>
+<mrow>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+<mi>A</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~E={\frac {I_{\rm {s}}G}{I_{\rm {p}}A}}~}</annotation>
+</semantics>
+</math></span><img alt="~ E =\frac{I_{\rm s} G}{I_{\rm p}A}~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b5109334a347c9db3091a1625fbc1eab2581ad34" style="vertical-align: -2.671ex; width:10.784ex; height:6.176ex;"/></span>.
+</p><p>Within the same model, the efficiency can be expressed as follows:
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~E={\frac {\omega _{\rm {s}}}{\omega _{\rm {p}}}}{\frac {1-V/p}{1+U/s}}~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mi>E</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+</mrow>
+</mrow>
+</msub>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>p</mi>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~E={\frac {\omega _{\rm {s}}}{\omega _{\rm {p}}}}{\frac {1-V/p}{1+U/s}}~}</annotation>
+</semantics>
+</math></span><img alt="~E =\frac{\omega_{\rm s}}{\omega_{\rm p}} \frac{1-V/p}{1+U/s}~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4fff315e8246a3442448ce01811534629722ba62" style="vertical-align: -2.671ex; width:18.422ex; height:6.509ex;"/></span>.
+</p><p>For the efficient operation both intensities, pump and signal should exceed their saturation intensities;
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~{\frac {p}{V}}\gg 1~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>p</mi>
+<mi>V</mi>
+</mfrac>
+</mrow>
+<mo>≫<!-- ≫ --></mo>
+<mn>1</mn>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~{\frac {p}{V}}\gg 1~}</annotation>
+</semantics>
+</math></span><img alt="~\frac{p}{V}\gg 1~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9d08f8f9687212526ca4989a3f0e38940966d910" style="vertical-align: -2.005ex; width:8.561ex; height:5.009ex;"/></span>, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~{\frac {s}{U}}\gg 1~}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>s</mi>
+<mi>U</mi>
+</mfrac>
+</mrow>
+<mo>≫<!-- ≫ --></mo>
+<mn>1</mn>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~{\frac {s}{U}}\gg 1~}</annotation>
+</semantics>
+</math></span><img alt="~\frac{s}{U}\gg 1~" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/12413dcc67835b92e91e78dfc9f7aa510107db31" style="vertical-align: -2.005ex; width:8.557ex; height:4.843ex;"/></span>.
+</p><p>The estimates above are valid for a medium uniformly filled with pump and signal light.  <a class="new" href="/w/index.php?title=Spatial_hole_burning&amp;action=edit&amp;redlink=1" title="Spatial hole burning (page does not exist)">Spatial hole burning</a> may slightly reduce the efficiency because some regions are pumped well, but the pump is not efficiently withdrawn by the signal in the nodes of the interference of counter-propagating waves.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Active_laser_medium&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Population_inversion" title="Population inversion">Population inversion</a></li>
+<li><a href="/wiki/Laser_construction" title="Laser construction">Laser construction</a></li>
+<li><a href="/wiki/Laser_science" title="Laser science">Laser science</a></li>
+<li><a href="/wiki/List_of_laser_articles" title="List of laser articles">List of laser articles</a></li>
+<li><a href="/wiki/List_of_laser_types" title="List of laser types">List of laser types</a></li></ul>
+<h2><span class="mw-headline" id="References_and_notes">References and notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Active_laser_medium&amp;action=edit&amp;section=7" title="Edit section: References and notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Hecht, Jeff. <i>The Laser Guidebook: Second Edition.</i> McGraw-Hill, 1992.  (Chapter 22)</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Hecht, Chapter 22</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Hecht, Chapters 7-15</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Hecht, Chapters 18-21</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="/wiki/F._J._Duarte" title="F. J. Duarte">F. J. Duarte</a> and L. W. Hillman (Eds.), <i>Dye Laser Principles</i> (Academic, New York, 1990).</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="/wiki/F._P._Sch%C3%A4fer" title="F. P. Schäfer">F. P. Schäfer</a> (Ed.), <i>Dye Lasers</i>, 2nd Edition (Springer-Verlag, Berlin, 1990).</span>
+</li>
+<li id="cite_note-rp-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-rp_7-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.rp-photonics.com/gain_media.html" rel="nofollow">Encyclopedia of laser physics and technology</a></span>
+</li>
+<li id="cite_note-siegman-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-siegman_8-0">^</a></b></span> <span class="reference-text">
+<cite class="citation book">A.E.Siegman (1986). <a class="external text" href="http://www.uscibooks.com/siegman.htm" rel="nofollow"><i>Lasers</i></a>. University Science Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-935702-11-3" title="Special:BookSources/0-935702-11-3">0-935702-11-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Lasers&amp;rft.pub=University+Science+Books&amp;rft.date=1986&amp;rft.isbn=0-935702-11-3&amp;rft.au=A.E.Siegman&amp;rft_id=http%3A%2F%2Fwww.uscibooks.com%2Fsiegman.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AActive+laser+medium"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-uns-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-uns_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">D.Kouznetsov; J.F.Bisson; K.Takaichi; K.Ueda (2005). <a class="external text" href="http://josab.osa.org/abstract.cfm?id=84730" rel="nofollow">"Single-mode solid-state laser with short wide unstable cavity"</a>. <i><a class="mw-redirect" href="/wiki/JOSA_B" title="JOSA B">JOSA B</a></i>. <b>22</b> (8): 1605–1619. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2005JOSAB..22.1605K" rel="nofollow">2005JOSAB..22.1605K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1364%2FJOSAB.22.001605" rel="nofollow">10.1364/JOSAB.22.001605</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=JOSA+B&amp;rft.atitle=Single-mode+solid-state+laser+with+short+wide+unstable+cavity&amp;rft.volume=22&amp;rft.issue=8&amp;rft.pages=1605-1619&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1364%2FJOSAB.22.001605&amp;rft_id=info%3Abibcode%2F2005JOSAB..22.1605K&amp;rft.au=D.Kouznetsov&amp;rft.au=J.F.Bisson&amp;rft.au=K.Takaichi&amp;rft.au=K.Ueda&amp;rft_id=http%3A%2F%2Fjosab.osa.org%2Fabstract.cfm%3Fid%3D84730&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AActive+laser+medium"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<ul><li><a class="external autonumber" href="http://www.ilt.fraunhofer.de/en/studies/laser-tutorial/active-medium.html" rel="nofollow">[1]</a> A.saharn Lasing action</li>
+<li><a class="external autonumber" href="http://www.femto.com.ua/articles/part_1/1892.html" rel="nofollow">[2]</a> Physics Encyclopedia online [in Russian]</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Active_laser_medium&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.rp-photonics.com/gain_media.html" rel="nofollow">Gain media</a> Encyclopedia of Laser Physics and Technology</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1277
+Cached time: 20181010144357
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.248 seconds
+Real time usage: 0.656 seconds
+Preprocessor visited node count: 597/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 5147/2097152 bytes
+Template argument size: 470/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 9313/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.113/10.000 seconds
+Lua memory usage: 2.18 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  240.289      1 -total
+ 37.25%   89.509      1 Template:Cite_book
+ 33.66%   80.891      1 Template:Citation_needed
+ 25.72%   61.807      1 Template:Cite_journal
+ 25.40%   61.034      1 Template:Fix
+ 14.30%   34.364      2 Template:Category_handler
+  9.26%   22.246      1 Template:Delink
+  1.69%    4.049      1 Template:Fix/category
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:40692-0!canonical!math=5 and timestamp 20181010144357 and revision id 851695207
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Active_laser_medium&amp;oldid=851695207">https://en.wikipedia.org/w/index.php?title=Active_laser_medium&amp;oldid=851695207</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Laser_gain_media" title="Category:Laser gain media">Laser gain media</a></li><li><a href="/wiki/Category:Laser_science" title="Category:Laser science">Laser science</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2014" title="Category:Articles with unsourced statements from March 2014">Articles with unsourced statements from March 2014</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Active+laser+medium" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Active+laser+medium" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Active_laser_medium" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Active_laser_medium" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Active_laser_medium">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Active_laser_medium&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Active_laser_medium&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Active_laser_medium" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Active_laser_medium" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Active_laser_medium&amp;oldid=851695207" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Active_laser_medium&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1806565" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Active_laser_medium&amp;id=851695207" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Active+laser+medium">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Active+laser+medium&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Active_laser_medium&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%88%D8%B3%D8%B7_%D9%84%D9%8A%D8%B2%D8%B1%D9%8A" hreflang="ar" lang="ar" title="وسط ليزري – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Medi_actiu" hreflang="ca" lang="ca" title="Medi actiu – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Lasermedium" hreflang="de" lang="de" title="Lasermedium – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Medio_activo" hreflang="es" lang="es" title="Medio activo – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%86%D8%A7%D8%AD%DB%8C%D9%87_%D9%81%D8%B9%D8%A7%D9%84_%D9%84%DB%8C%D8%B2%D8%B1" hreflang="fa" lang="fa" title="ناحیه فعال لیزر – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Milieu_amplificateur" hreflang="fr" lang="fr" title="Milieu amplificateur – French">Français</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF_%E0%A4%B2%E0%A5%87%E0%A4%9C%E0%A4%B0_%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AE" hreflang="hi" lang="hi" title="सक्रिय लेजर माध्यम – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Aktyvioji_terp%C4%97" hreflang="lt" lang="lt" title="Aktyvioji terpė – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%AA%92%E8%B3%AA" hreflang="ja" lang="ja" title="レーザー媒質 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Meio_laser_ativo" hreflang="pt" lang="pt" title="Meio laser ativo – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Mediu_activ_laser" hreflang="ro" lang="ro" title="Mediu activ laser – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B7%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B" hreflang="ru" lang="ru" title="Лазерные материалы – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Optical_gain_medium" hreflang="simple" lang="simple" title="Optical gain medium – Simple English">Simple English</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1806565#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 24 July 2018, at 00:35<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Active_laser_medium&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.656","ppvisitednodes":{"value":597,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":5147,"limit":2097152},"templateargumentsize":{"value":470,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9313,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  240.289      1 -total"," 37.25%   89.509      1 Template:Cite_book"," 33.66%   80.891      1 Template:Citation_needed"," 25.72%   61.807      1 Template:Cite_journal"," 25.40%   61.034      1 Template:Fix"," 14.30%   34.364      2 Template:Category_handler","  9.26%   22.246      1 Template:Delink","  1.69%    4.049      1 Template:Fix/category"]},"scribunto":{"limitreport-timeusage":{"value":"0.113","limit":"10.000"},"limitreport-memusage":{"value":2290265,"limit":52428800}},"cachereport":{"origin":"mw1277","timestamp":"20181010144357","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":66,"wgHostname":"mw1249"});});</script>
+</body>
+</html>

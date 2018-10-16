@@ -1,0 +1,1983 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Bjerrum plot - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bjerrum_plot","wgTitle":"Bjerrum plot","wgCurRevisionId":855473414,"wgRevisionId":855473414,"wgArticleId":27395553,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Chemical oceanography","Aquatic ecology","Oceanography","Thermodynamics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bjerrum_plot","wgRelevantArticleId":27395553,"wgRequestId":"W8JJMwpAADkAAHeRY7sAAACQ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q4919617","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Carbonate_system_of_seawater.svg/1200px-Carbonate_system_of_seawater.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bjerrum_plot" rel="alternate"/>
+<link href="/w/index.php?title=Bjerrum_plot&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Bjerrum_plot&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Bjerrum_plot" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Bjerrum_plot rootpage-Bjerrum_plot skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Bjerrum plot</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">A graph of the concentrations of the different species of a polyprotic acid in a solution, as functions of the solution's pH, when the solution is at equilibrium</div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Carbonate_system_of_seawater.svg"><img alt="" class="thumbimage" data-file-height="334" data-file-width="540" height="136" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Carbonate_system_of_seawater.svg/220px-Carbonate_system_of_seawater.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Carbonate_system_of_seawater.svg/330px-Carbonate_system_of_seawater.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Carbonate_system_of_seawater.svg/440px-Carbonate_system_of_seawater.svg.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Carbonate_system_of_seawater.svg" title="Enlarge"></a></div>Example Bjerrum plot: Change in carbonate system of seawater from <a href="/wiki/Ocean_acidification" title="Ocean acidification">ocean acidification</a>.</div></div></div>
+<p>A <b>Bjerrum plot</b> (named after <a href="/wiki/Niels_Bjerrum" title="Niels Bjerrum">Niels Bjerrum</a>) is a <a href="/wiki/Chart" title="Chart">graph</a> of the <a href="/wiki/Concentration" title="Concentration">concentrations</a> of the different species of a <a href="/wiki/Acid#Polyprotic_acids" title="Acid">polyprotic acid</a> in a <a href="/wiki/Solution" title="Solution">solution</a>, as functions of the solution's <a href="/wiki/PH" title="PH">pH</a>,<sup class="reference" id="cite_ref-Andersen_1-0"><a href="#cite_note-Andersen-1">[1]</a></sup> when the solution is at <a href="/wiki/Chemical_equilibrium" title="Chemical equilibrium">equilibrium</a>. Due to the many <a class="mw-redirect" href="/wiki/Orders_of_magnitude" title="Orders of magnitude">orders of magnitude</a> spanned by the concentrations, they are commonly plotted on a <a href="/wiki/Logarithmic_scale" title="Logarithmic scale">logarithmic scale</a>. Sometimes the ratios of the concentrations are plotted rather than the actual concentrations. Occasionally H<sup>+</sup> and OH<sup>−</sup> are also plotted.
+</p><p>Most often, the carbonate system is plotted, where the polyprotic acid is <a href="/wiki/Carbonic_acid" title="Carbonic acid">carbonic acid</a> (a <a class="mw-redirect" href="/wiki/Diprotic_acid" title="Diprotic acid">diprotic acid</a>), and the different species are <a href="/wiki/Carbonic_acid" title="Carbonic acid">carbonic acid</a>, <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>, <a href="/wiki/Bicarbonate" title="Bicarbonate">bicarbonate</a>, and <a href="/wiki/Carbonate" title="Carbonate">carbonate</a>. In acidic conditions, the dominant form is CO<sub>2</sub>; in <a href="/wiki/Base_(chemistry)" title="Base (chemistry)">basic</a> (alkalinic) conditions, the dominant form is CO<sub>3</sub><sup>2−</sup>; and in between, the dominant form is HCO<sub>3</sub><sup>−</sup>. At every pH, the concentration of carbonic acid is assumed to be negligible compared to the concentration of CO<sub>2</sub>, and so is often omitted from Bjerrum plots. These plots are typically used in ocean chemistry to track the response of an ocean to changes in both pH and of inputs in carbonate and <span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>.<sup class="reference" id="cite_ref-wolfgladrow2007_2-0"><a href="#cite_note-wolfgladrow2007-2">[2]</a></sup>
+</p><p>The Bjerrum plots for other polyprotic acids, including <a class="mw-redirect" href="/wiki/Silicic_acid" title="Silicic acid">silicic</a>, <a href="/wiki/Boric_acid" title="Boric acid">boric</a>, <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">sulfuric</a> and <a href="/wiki/Phosphoric_acid" title="Phosphoric acid">phosphoric</a> acids, can also be constructed.<sup class="reference" id="cite_ref-Andersen_1-1"><a href="#cite_note-Andersen-1">[1]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Bjerrum_plot_equations_for_carbonate_system"><span class="tocnumber">1</span> <span class="toctext">Bjerrum plot equations for carbonate system</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Chemical_and_mathematical_derivation_of_Bjerrum_plot_equations_for_carbonate_system"><span class="tocnumber">2</span> <span class="toctext">Chemical and mathematical derivation of Bjerrum plot equations for carbonate system</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Bjerrum_plot_equations_for_carbonate_system">Bjerrum plot equations for carbonate system</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bjerrum_plot&amp;action=edit&amp;section=1" title="Edit section: Bjerrum plot equations for carbonate system">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Carbonate_Bjerrum.gif"><img alt="Distribution of DIC (Carbonate) species with pH for 25C and 5,000 ppm salinity (e.g. salt-water swimming pool) - Bjerrum plot" class="thumbimage" data-file-height="290" data-file-width="462" height="138" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Carbonate_Bjerrum.gif/220px-Carbonate_Bjerrum.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Carbonate_Bjerrum.gif/330px-Carbonate_Bjerrum.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Carbonate_Bjerrum.gif/440px-Carbonate_Bjerrum.gif 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Carbonate_Bjerrum.gif" title="Enlarge"></a></div></div></div></div>
+<p>If <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>, <a href="/wiki/Carbonic_acid" title="Carbonic acid">carbonic acid</a>, <a href="/wiki/Hydron_(chemistry)" title="Hydron (chemistry)">hydrogen ions</a>, <a href="/wiki/Bicarbonate" title="Bicarbonate">bicarbonate</a> and <a href="/wiki/Carbonate" title="Carbonate">carbonate</a> are all dissolved in <a href="/wiki/Water" title="Water">water</a>, and at <a href="/wiki/Chemical_equilibrium" title="Chemical equilibrium">chemical equilibrium</a>, their equilibrium <a href="/wiki/Concentration" title="Concentration">concentrations</a> are often assumed to be given by:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle [{\textrm {CO}}_{2}]_{eq}={\frac {[{\textrm {H}}^{+}]_{eq}^{2}}{[{\textrm {H}}^{+}]_{eq}^{2}+K_{1}[{\textrm {H}}^{+}]_{eq}+K_{1}K_{2}}}\times {\textrm {DIC}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">[</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msubsup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</mrow>
+<mrow>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msubsup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>DIC</mtext>
+</mrow>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle [{\textrm {CO}}_{2}]_{eq}={\frac {[{\textrm {H}}^{+}]_{eq}^{2}}{[{\textrm {H}}^{+}]_{eq}^{2}+K_{1}[{\textrm {H}}^{+}]_{eq}+K_{1}K_{2}}}\times {\textrm {DIC}},}</annotation>
+</semantics>
+</math></span><img alt="[{\textrm  {CO}}_{2}]_{{eq}}={\frac  {[{\textrm  {H}}^{+}]_{{eq}}^{2}}{[{\textrm  {H}}^{+}]_{{eq}}^{2}+K_{1}[{\textrm  {H}}^{+}]_{{eq}}+K_{1}K_{2}}}\times {\textrm  {DIC}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5c64507f41a8e6cc124f36d34dc941c5ec97d447" style="vertical-align: -2.838ex; width:46.671ex; height:6.843ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle [{\textrm {HCO}}_{3}^{-}]_{eq}={\frac {K_{1}[{\textrm {H}}^{+}]_{eq}}{[{\textrm {H}}^{+}]_{eq}^{2}+K_{1}[{\textrm {H}}^{+}]_{eq}+K_{1}K_{2}}}\times {\textrm {DIC}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HCO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msubsup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>DIC</mtext>
+</mrow>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle [{\textrm {HCO}}_{3}^{-}]_{eq}={\frac {K_{1}[{\textrm {H}}^{+}]_{eq}}{[{\textrm {H}}^{+}]_{eq}^{2}+K_{1}[{\textrm {H}}^{+}]_{eq}+K_{1}K_{2}}}\times {\textrm {DIC}},}</annotation>
+</semantics>
+</math></span><img alt="[{\textrm  {HCO}}_{3}^{-}]_{{eq}}={\frac  {K_{1}[{\textrm  {H}}^{+}]_{{eq}}}{[{\textrm  {H}}^{+}]_{{eq}}^{2}+K_{1}[{\textrm  {H}}^{+}]_{{eq}}+K_{1}K_{2}}}\times {\textrm  {DIC}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c69c378ff186a1351ef7c3b8518be7c0ee3c6387" style="vertical-align: -2.838ex; width:48.871ex; height:6.843ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle [{\textrm {CO}}_{3}^{2-}]_{eq}={\frac {K_{1}K_{2}}{[{\textrm {H}}^{+}]_{eq}^{2}+K_{1}[{\textrm {H}}^{+}]_{eq}+K_{1}K_{2}}}\times {\textrm {DIC}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msubsup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>DIC</mtext>
+</mrow>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle [{\textrm {CO}}_{3}^{2-}]_{eq}={\frac {K_{1}K_{2}}{[{\textrm {H}}^{+}]_{eq}^{2}+K_{1}[{\textrm {H}}^{+}]_{eq}+K_{1}K_{2}}}\times {\textrm {DIC}},}</annotation>
+</semantics>
+</math></span><img alt="[{\textrm  {CO}}_{3}^{{2-}}]_{{eq}}={\frac  {K_{1}K_{2}}{[{\textrm  {H}}^{+}]_{{eq}}^{2}+K_{1}[{\textrm  {H}}^{+}]_{{eq}}+K_{1}K_{2}}}\times {\textrm  {DIC}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77e886a8ee430a6964c2ad580a8675b151eb9dfb" style="vertical-align: -2.838ex; width:47.95ex; height:6.176ex;"/></span></dd></dl>
+<p>where the subscript 'eq' denotes that these are equilibrium concentrations, <i>K<sub>1</sub></i> is the <a href="/wiki/Equilibrium_constant" title="Equilibrium constant">equilibrium constant</a> for the reaction <span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> + <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span> ⇌ H<sup>+</sup> + HCO<sub>3</sub><sup>−</sup> (i.e. the first <a href="/wiki/Acid_dissociation_constant" title="Acid dissociation constant">acid dissociation constant</a> for carbonic acid), <i>K<sub>2</sub></i> is the <a href="/wiki/Equilibrium_constant" title="Equilibrium constant">equilibrium constant</a> for the reaction HCO<sub>3</sub><sup>−</sup> ⇌ H<sup>+</sup> + CO<sub>3</sub><sup>2−</sup> (i.e. the second <a href="/wiki/Acid_dissociation_constant" title="Acid dissociation constant">acid dissociation constant</a> for carbonic acid), and DIC is the (unchanging) total <a href="/wiki/Concentration" title="Concentration">concentration</a> of <a href="/wiki/Total_inorganic_carbon" title="Total inorganic carbon">dissolved inorganic carbon</a> in the system, i.e. [CO<sub>2</sub>] + [HCO<sub>3</sub><sup>−</sup>] + [CO<sub>3</sub><sup>2−</sup>]. <i>K<sub>1</sub></i>, <i>K<sub>2</sub></i> and DIC each have units of a <a href="/wiki/Concentration" title="Concentration">concentration</a>, e.g. <a href="/wiki/Mole_(unit)" title="Mole (unit)">mol</a>/<a href="/wiki/Litre" title="Litre">litre</a>.
+</p><p>A Bjerrum plot is obtained by using these three equations to plot these three species against pH = –<span class="nowrap">log<sub>10</sub>[H<sup>+</sup>]<sub>eq</sub></span>, for given <i>K<sub>1</sub></i>, <i>K<sub>2</sub></i> and DIC. The fractions in these equations give the three species' relative proportions, and so if DIC is unknown, or the actual concentrations are unimportant, these proportions may be plotted instead.
+</p><p>These three equations show that the curves for CO<sub>2</sub> and HCO<sub>3</sub><sup>−</sup> intersect at [H<sup>+</sup>]<sub>eq</sub> = <i>K<sub>1</sub></i>, and the curves for HCO<sub>3</sub><sup>−</sup> and CO<sub>3</sub><sup>2−</sup> intersect at [H<sup>+</sup>]<sub>eq</sub> = <i>K<sub>2</sub></i>. Therefore, the values of <i>K<sub>1</sub></i> and <i>K<sub>2</sub></i> that were used to create a given Bjerrum plot can easily be found from that plot, by reading off the concentrations at these points of intersection. An example with linear Y axis is shown in the accompanying graph. It should be noted that the values of K<sub>1</sub> and K<sub>2</sub>, and therefore the curves in the Bjerrum plot, vary substantially with temperature and salinity.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Chemical_and_mathematical_derivation_of_Bjerrum_plot_equations_for_carbonate_system">Chemical and mathematical derivation of Bjerrum plot equations for carbonate system</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bjerrum_plot&amp;action=edit&amp;section=2" title="Edit section: Chemical and mathematical derivation of Bjerrum plot equations for carbonate system">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Suppose that the reactions between <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>, <a href="/wiki/Hydron_(chemistry)" title="Hydron (chemistry)">hydrogen ions</a>, <a href="/wiki/Bicarbonate" title="Bicarbonate">bicarbonate</a> and <a href="/wiki/Carbonate" title="Carbonate">carbonate</a> <a class="mw-redirect" href="/wiki/Ions" title="Ions">ions</a>, all dissolved in <a href="/wiki/Water" title="Water">water</a>, are as follows:
+</p>
+<dl><dd><span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> + <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span> ⇌ H<sup>+</sup> + HCO<sub>3</sub><sup>−</sup> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> (1)</dd>
+<dd><span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> HCO<sub>3</sub><sup>−</sup> ⇌ H<sup>+</sup> + CO<sub>3</sub><sup>2−</sup>. <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> (2)</dd></dl>
+<p>(Note that reaction (1) is actually the combination of two <a href="/wiki/Elementary_reaction" title="Elementary reaction">elementary reactions</a>: <span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> + <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span> ⇌ <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span> ⇌ H<sup>+</sup> + HCO<sub>3</sub><sup>−</sup>.)
+</p><p>Assuming the <a class="mw-redirect" href="/wiki/Mass_action_law" title="Mass action law">mass action law</a> applies to these two reactions, that water is <a href="/wiki/Abundance_(chemistry)" title="Abundance (chemistry)">abundant</a>, and that the different chemical species are always well-mixed, their <a href="/wiki/Rate_equation" title="Rate equation">rate equations</a> are
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {{\textrm {d}}[{\textrm {CO}}_{2}]}{{\textrm {d}}t}}=-k_{1}[{\textrm {CO}}_{2}]+k_{-1}[{\textrm {H}}^{+}][{\textrm {HCO}}_{3}^{-}],}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+</mrow>
+<mo stretchy="false">[</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">]</mo>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">]</mo>
+<mo>+</mo>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mo stretchy="false">]</mo>
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HCO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<mo stretchy="false">]</mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {{\textrm {d}}[{\textrm {CO}}_{2}]}{{\textrm {d}}t}}=-k_{1}[{\textrm {CO}}_{2}]+k_{-1}[{\textrm {H}}^{+}][{\textrm {HCO}}_{3}^{-}],}</annotation>
+</semantics>
+</math></span><img alt="{\frac  {{\textrm  {d}}[{\textrm  {CO}}_{2}]}{{\textrm  {d}}t}}=-k_{1}[{\textrm  {CO}}_{2}]+k_{{-1}}[{\textrm  {H}}^{+}][{\textrm  {HCO}}_{3}^{-}]," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6de134b2361770f97043336485841e9b71760ab0" style="vertical-align: -2.005ex; width:40.582ex; height:5.843ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {{\textrm {d}}[{\textrm {H}}^{+}]}{{\textrm {d}}t}}=k_{1}[{\textrm {CO}}_{2}]-k_{-1}[{\textrm {H}}^{+}][{\textrm {HCO}}_{3}^{-}]+k_{2}[{\textrm {HCO}}_{3}^{-}]-k_{-2}[{\textrm {H}}^{+}][{\textrm {CO}}_{3}^{2-}],}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+</mrow>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mo stretchy="false">]</mo>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">]</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mo stretchy="false">]</mo>
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HCO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<mo stretchy="false">]</mo>
+<mo>+</mo>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HCO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<mo stretchy="false">]</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mo stretchy="false">]</mo>
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<mo stretchy="false">]</mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {{\textrm {d}}[{\textrm {H}}^{+}]}{{\textrm {d}}t}}=k_{1}[{\textrm {CO}}_{2}]-k_{-1}[{\textrm {H}}^{+}][{\textrm {HCO}}_{3}^{-}]+k_{2}[{\textrm {HCO}}_{3}^{-}]-k_{-2}[{\textrm {H}}^{+}][{\textrm {CO}}_{3}^{2-}],}</annotation>
+</semantics>
+</math></span><img alt="{\frac  {{\textrm  {d}}[{\textrm  {H}}^{+}]}{{\textrm  {d}}t}}=k_{1}[{\textrm  {CO}}_{2}]-k_{{-1}}[{\textrm  {H}}^{+}][{\textrm  {HCO}}_{3}^{-}]+k_{2}[{\textrm  {HCO}}_{3}^{-}]-k_{{-2}}[{\textrm  {H}}^{+}][{\textrm  {CO}}_{3}^{{2-}}]," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e14806de144e5fcf23f83fa45c0076f01aa8438e" style="vertical-align: -2.005ex; width:68.671ex; height:6.009ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {{\textrm {d}}[{\textrm {HCO}}_{3}^{-}]}{{\textrm {d}}t}}=k_{1}[{\textrm {CO}}_{2}]-k_{-1}[{\textrm {H}}^{+}][{\textrm {HCO}}_{3}^{-}]-k_{2}[{\textrm {HCO}}_{3}^{-}]+k_{-2}[{\textrm {H}}^{+}][{\textrm {CO}}_{3}^{2-}],}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+</mrow>
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HCO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<mo stretchy="false">]</mo>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">]</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mo stretchy="false">]</mo>
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HCO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<mo stretchy="false">]</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HCO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<mo stretchy="false">]</mo>
+<mo>+</mo>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mo stretchy="false">]</mo>
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<mo stretchy="false">]</mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {{\textrm {d}}[{\textrm {HCO}}_{3}^{-}]}{{\textrm {d}}t}}=k_{1}[{\textrm {CO}}_{2}]-k_{-1}[{\textrm {H}}^{+}][{\textrm {HCO}}_{3}^{-}]-k_{2}[{\textrm {HCO}}_{3}^{-}]+k_{-2}[{\textrm {H}}^{+}][{\textrm {CO}}_{3}^{2-}],}</annotation>
+</semantics>
+</math></span><img alt="{\frac  {{\textrm  {d}}[{\textrm  {HCO}}_{3}^{-}]}{{\textrm  {d}}t}}=k_{1}[{\textrm  {CO}}_{2}]-k_{{-1}}[{\textrm  {H}}^{+}][{\textrm  {HCO}}_{3}^{-}]-k_{2}[{\textrm  {HCO}}_{3}^{-}]+k_{{-2}}[{\textrm  {H}}^{+}][{\textrm  {CO}}_{3}^{{2-}}]," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/075781675b0f5e1a8e01f32cd7ce7298583aebcf" style="vertical-align: -2.005ex; width:72.157ex; height:6.176ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {{\textrm {d}}[{\textrm {CO}}_{3}^{2-}]}{{\textrm {d}}t}}=k_{2}[{\textrm {HCO}}_{3}^{-}]-k_{-2}[{\textrm {H}}^{+}][{\textrm {CO}}_{3}^{2-}],}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+</mrow>
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<mo stretchy="false">]</mo>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>d</mtext>
+</mrow>
+</mrow>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HCO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<mo stretchy="false">]</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mo stretchy="false">]</mo>
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<mo stretchy="false">]</mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {{\textrm {d}}[{\textrm {CO}}_{3}^{2-}]}{{\textrm {d}}t}}=k_{2}[{\textrm {HCO}}_{3}^{-}]-k_{-2}[{\textrm {H}}^{+}][{\textrm {CO}}_{3}^{2-}],}</annotation>
+</semantics>
+</math></span><img alt="{\frac  {{\textrm  {d}}[{\textrm  {CO}}_{3}^{{2-}}]}{{\textrm  {d}}t}}=k_{2}[{\textrm  {HCO}}_{3}^{-}]-k_{{-2}}[{\textrm  {H}}^{+}][{\textrm  {CO}}_{3}^{{2-}}]," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/88d34d5cd11198310bc9611e942e58228a519b8c" style="vertical-align: -2.005ex; width:41.331ex; height:6.176ex;"/></span></dd></dl>
+<p>where [<span class="nowrap"> </span>] denotes <a href="/wiki/Concentration" title="Concentration">concentration</a>, <i>t</i> is time, and <i>k<sub>1</sub></i> and <i>k<sub>−1</sub></i> are appropriate <a href="/wiki/Proportionality_(mathematics)" title="Proportionality (mathematics)">proportionality</a> constants for reaction (1), called respectively the forwards and reverse <a href="/wiki/Reaction_rate_constant" title="Reaction rate constant">rate constants</a> for this reaction. (Similarly <i>k<sub>2</sub></i> and <i>k<sub>−2</sub></i> for reaction (2).)
+</p><p><span class="nowrap"> </span>
+</p><p><b>At any equilibrium</b>, the concentrations are unchanging, hence the left hand sides of these equations are zero. Then, from the first of these four equations, the ratio of reaction (1)'s rate constants equals the ratio of its equilibrium concentrations, and this ratio, called <i>K<sub>1</sub></i>, is called the <a href="/wiki/Equilibrium_constant" title="Equilibrium constant">equilibrium constant</a> for reaction (1), i.e.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle K_{1}={\frac {k_{1}}{k_{-1}}}={\frac {[{\textrm {H}}^{+}]_{eq}[{\textrm {HCO}}_{3}^{-}]_{eq}}{[{\textrm {CO}}_{2}]_{eq}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HCO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mo stretchy="false">[</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K_{1}={\frac {k_{1}}{k_{-1}}}={\frac {[{\textrm {H}}^{+}]_{eq}[{\textrm {HCO}}_{3}^{-}]_{eq}}{[{\textrm {CO}}_{2}]_{eq}}},}</annotation>
+</semantics>
+</math></span><img alt="K_{1}={\frac  {k_{1}}{k_{{-1}}}}={\frac  {[{\textrm  {H}}^{+}]_{{eq}}[{\textrm  {HCO}}_{3}^{-}]_{{eq}}}{[{\textrm  {CO}}_{2}]_{{eq}}}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/34a8bbf9e461643a80970e7c88bf90b606e1d20a" style="vertical-align: -2.671ex; width:31.178ex; height:6.843ex;"/></span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> (3) <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span></dd></dl>
+<p>where the subscript 'eq' denotes that these are equilibrium concentrations.
+</p><p>Similarly, from the fourth equation for the <a href="/wiki/Equilibrium_constant" title="Equilibrium constant">equilibrium constant</a> <i>K<sub>2</sub></i> for reaction (2),
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle K_{2}={\frac {k_{2}}{k_{-2}}}={\frac {[{\textrm {H}}^{+}]_{eq}[{\textrm {CO}}_{3}^{2-}]_{eq}}{[{\textrm {HCO}}_{3}^{-}]_{eq}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HCO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K_{2}={\frac {k_{2}}{k_{-2}}}={\frac {[{\textrm {H}}^{+}]_{eq}[{\textrm {CO}}_{3}^{2-}]_{eq}}{[{\textrm {HCO}}_{3}^{-}]_{eq}}}.}</annotation>
+</semantics>
+</math></span><img alt="K_{2}={\frac  {k_{2}}{k_{{-2}}}}={\frac  {[{\textrm  {H}}^{+}]_{{eq}}[{\textrm  {CO}}_{3}^{{2-}}]_{{eq}}}{[{\textrm  {HCO}}_{3}^{-}]_{{eq}}}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bbd12f7f452c8bc79923b48813a7d4fbbd08cc79" style="vertical-align: -3.005ex; width:30.257ex; height:7.176ex;"/></span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> (4)</dd></dl>
+<p>Rearranging (3) gives
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle [{\textrm {HCO}}_{3}^{-}]_{eq}={\frac {K_{1}[{\textrm {CO}}_{2}]_{eq}}{[{\textrm {H}}^{+}]_{eq}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HCO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle [{\textrm {HCO}}_{3}^{-}]_{eq}={\frac {K_{1}[{\textrm {CO}}_{2}]_{eq}}{[{\textrm {H}}^{+}]_{eq}}},}</annotation>
+</semantics>
+</math></span><img alt="[{\textrm  {HCO}}_{3}^{-}]_{{eq}}={\frac  {K_{1}[{\textrm  {CO}}_{2}]_{{eq}}}{[{\textrm  {H}}^{+}]_{{eq}}}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4c44829914c17f8790c48e2479f8446795da6f55" style="vertical-align: -2.838ex; width:24.986ex; height:6.676ex;"/></span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> (5)</dd></dl>
+<p>and rearranging (4), then substituting in (5), gives
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle [{\textrm {CO}}_{3}^{2-}]_{eq}={\frac {K_{2}[{\textrm {HCO}}_{3}^{-}]_{eq}}{[{\textrm {H}}^{+}]_{eq}}}={\frac {K_{1}K_{2}[{\textrm {CO}}_{2}]_{eq}}{[{\textrm {H}}^{+}]_{eq}^{2}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HCO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msubsup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle [{\textrm {CO}}_{3}^{2-}]_{eq}={\frac {K_{2}[{\textrm {HCO}}_{3}^{-}]_{eq}}{[{\textrm {H}}^{+}]_{eq}}}={\frac {K_{1}K_{2}[{\textrm {CO}}_{2}]_{eq}}{[{\textrm {H}}^{+}]_{eq}^{2}}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle [{\textrm {CO}}_{3}^{2-}]_{eq}={\frac {K_{2}[{\textrm {HCO}}_{3}^{-}]_{eq}}{[{\textrm {H}}^{+}]_{eq}}}={\frac {K_{1}K_{2}[{\textrm {CO}}_{2}]_{eq}}{[{\textrm {H}}^{+}]_{eq}^{2}}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d79fa6859b32f926456d0aee3e455151b648768d" style="vertical-align: -2.838ex; width:43.843ex; height:7.009ex;"/></span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> (6)</dd></dl>
+<p><span class="nowrap"> </span>
+</p><p>The total <a href="/wiki/Concentration" title="Concentration">concentration</a> of <a href="/wiki/Total_inorganic_carbon" title="Total inorganic carbon">dissolved inorganic carbon</a> in the system is given by
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\textrm {DIC}}=[{\textrm {CO}}_{2}]+[{\textrm {HCO}}_{3}^{-}]+[{\textrm {CO}}_{3}^{2-}]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>DIC</mtext>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mo stretchy="false">[</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">]</mo>
+<mo>+</mo>
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HCO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<mo stretchy="false">]</mo>
+<mo>+</mo>
+<mo stretchy="false">[</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<mo stretchy="false">]</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\textrm {DIC}}=[{\textrm {CO}}_{2}]+[{\textrm {HCO}}_{3}^{-}]+[{\textrm {CO}}_{3}^{2-}]}</annotation>
+</semantics>
+</math></span><img alt="{\textrm  {DIC}}=[{\textrm  {CO}}_{2}]+[{\textrm  {HCO}}_{3}^{-}]+[{\textrm  {CO}}_{3}^{{2-}}]" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f1bbbc5a0e1e41f64eef87842b2a93da7ff5b6de" style="vertical-align: -1.005ex; width:34.053ex; height:3.343ex;"/></span></dd>
+<dd><span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle =[{\textrm {CO}}_{2}]_{eq}\left(1+{\frac {K_{1}}{[{\textrm {H}}^{+}]_{eq}}}+{\frac {K_{1}K_{2}}{[{\textrm {H}}^{+}]_{eq}^{2}}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mo stretchy="false">[</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mrow>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msubsup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =[{\textrm {CO}}_{2}]_{eq}\left(1+{\frac {K_{1}}{[{\textrm {H}}^{+}]_{eq}}}+{\frac {K_{1}K_{2}}{[{\textrm {H}}^{+}]_{eq}^{2}}}\right)}</annotation>
+</semantics>
+</math></span><img alt="=[{\textrm  {CO}}_{2}]_{{eq}}\left(1+{\frac  {K_{1}}{[{\textrm  {H}}^{+}]_{{eq}}}}+{\frac  {K_{1}K_{2}}{[{\textrm  {H}}^{+}]_{{eq}}^{2}}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8b284790aacdd68f00a7ff8e4ee2dab0c0a1eb1d" style="vertical-align: -3.171ex; width:35.231ex; height:7.509ex;"/></span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span>  substituting in (5) and (6)</dd>
+<dd><span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="nowrap"> </span> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle =[{\textrm {CO}}_{2}]_{eq}\left({\frac {[{\textrm {H}}^{+}]_{eq}^{2}+K_{1}[{\textrm {H}}^{+}]_{eq}+K_{1}K_{2}}{[{\textrm {H}}^{+}]_{eq}^{2}}}\right).}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mo stretchy="false">[</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msubsup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msubsup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =[{\textrm {CO}}_{2}]_{eq}\left({\frac {[{\textrm {H}}^{+}]_{eq}^{2}+K_{1}[{\textrm {H}}^{+}]_{eq}+K_{1}K_{2}}{[{\textrm {H}}^{+}]_{eq}^{2}}}\right).}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle =[{\textrm {CO}}_{2}]_{eq}\left({\frac {[{\textrm {H}}^{+}]_{eq}^{2}+K_{1}[{\textrm {H}}^{+}]_{eq}+K_{1}K_{2}}{[{\textrm {H}}^{+}]_{eq}^{2}}}\right).}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a63cc82397b76126c5364516eb688702a6ed6e54" style="vertical-align: -3.171ex; width:43.348ex; height:7.509ex;"/></span></dd></dl>
+<p><span class="nowrap"> </span>
+</p><p>Re-arranging this gives the equation for <span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle [{\textrm {CO}}_{2}]_{eq}={\frac {[{\textrm {H}}^{+}]_{eq}^{2}}{[{\textrm {H}}^{+}]_{eq}^{2}+K_{1}[{\textrm {H}}^{+}]_{eq}+K_{1}K_{2}}}\times {\textrm {DIC}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">[</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msubsup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</mrow>
+<mrow>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msubsup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<msub>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>q</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>DIC</mtext>
+</mrow>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle [{\textrm {CO}}_{2}]_{eq}={\frac {[{\textrm {H}}^{+}]_{eq}^{2}}{[{\textrm {H}}^{+}]_{eq}^{2}+K_{1}[{\textrm {H}}^{+}]_{eq}+K_{1}K_{2}}}\times {\textrm {DIC}}.}</annotation>
+</semantics>
+</math></span><img alt="[{\textrm  {CO}}_{2}]_{{eq}}={\frac  {[{\textrm  {H}}^{+}]_{{eq}}^{2}}{[{\textrm  {H}}^{+}]_{{eq}}^{2}+K_{1}[{\textrm  {H}}^{+}]_{{eq}}+K_{1}K_{2}}}\times {\textrm  {DIC}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8e27f7abfe747c293e20cd24fc680b1f76087f28" style="vertical-align: -2.838ex; width:46.671ex; height:6.843ex;"/></span></dd></dl>
+<p><span class="nowrap"> </span>
+</p><p>The equations for HCO<sub>3</sub><sup>−</sup> and CO<sub>3</sub><sup>2−</sup> are obtained by substituting this into (5) and (6).
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bjerrum_plot&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Fresh_water" title="Fresh water">Fresh water</a></li>
+<li><a href="/wiki/Seawater" title="Seawater">Seawater</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Thermohaline circulation</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bjerrum_plot&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Andersen-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Andersen_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Andersen_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Andersen, C. B. (2002). "Understanding carbonate equilibria by measuring alkalinity in experimental and natural systems". <i>Journal of Geoscience Education</i>. <b>50</b> (4): 389–403. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2002JGeEd..50..389A" rel="nofollow">2002JGeEd..50..389A</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.5408%2F1089-9995-50.4.389" rel="nofollow">10.5408/1089-9995-50.4.389</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geoscience+Education&amp;rft.atitle=Understanding+carbonate+equilibria+by+measuring+alkalinity+in+experimental+and+natural+systems&amp;rft.volume=50&amp;rft.issue=4&amp;rft.pages=389-403&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.5408%2F1089-9995-50.4.389&amp;rft_id=info%3Abibcode%2F2002JGeEd..50..389A&amp;rft.aulast=Andersen&amp;rft.aufirst=C.+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABjerrum+plot"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-wolfgladrow2007-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-wolfgladrow2007_2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">D.A. Wolf-Gladrow (2007). <a class="external text" href="http://www.soest.hawaii.edu/oceanography/faculty/zeebe_files/Publications/WolfGladrowMarChem07.pdf" rel="nofollow">"Total alkalinity: the explicit conservative expression and its application to biogeochemical processes"</a> <span class="cs1-format">(PDF)</span>. <i>Marine Chemistry</i>. <b>106</b> (1).</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Marine+Chemistry&amp;rft.atitle=Total+alkalinity%3A+the+explicit+conservative+expression+and+its+application+to+biogeochemical+processes&amp;rft.volume=106&amp;rft.issue=1&amp;rft.date=2007&amp;rft.au=D.A.+Wolf-Gladrow&amp;rft_id=http%3A%2F%2Fwww.soest.hawaii.edu%2Foceanography%2Ffaculty%2Fzeebe_files%2FPublications%2FWolfGladrowMarChem07.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABjerrum+plot"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Mook W (2000) Chemistry of carbonic acid in water. In 'Environmental Isotopes in the Hydrological Cycle: Principles and Applications' pp. 143-165. (INEA / UNESCO: Paris). <a class="external autonumber" href="http://www-naweb.iaea.org/napc/ih/documents/global_cycle/vol%20I/cht_i_09.pdf" rel="nofollow">[1]</a> Retrieved 30NOV2013.</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1240
+Cached time: 20181010144843
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.500 seconds
+Real time usage: 1.341 seconds
+Preprocessor visited node count: 1967/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 44097/2097152 bytes
+Template argument size: 3909/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7087/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.192/10.000 seconds
+Lua memory usage: 2.09 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  795.988      1 -total
+ 52.27%  416.076      1 Template:Reflist
+ 41.09%  327.050      2 Template:Cite_journal
+ 19.25%  153.196      9 Template:Chem
+ 16.73%  133.202      9 Template:Chem/link
+ 13.79%  109.764     23 Template:Chem/atom
+ 13.21%  105.142      1 Template:Short_description
+ 12.75%  101.464      1 Template:Pagetype
+  6.80%   54.115     10 Template:Su
+  5.58%   44.395     61 Template:Space
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:27395553-0!canonical!math=5 and timestamp 20181010144842 and revision id 855473414
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bjerrum_plot&amp;oldid=855473414">https://en.wikipedia.org/w/index.php?title=Bjerrum_plot&amp;oldid=855473414</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chemical_oceanography" title="Category:Chemical oceanography">Chemical oceanography</a></li><li><a href="/wiki/Category:Aquatic_ecology" title="Category:Aquatic ecology">Aquatic ecology</a></li><li><a href="/wiki/Category:Oceanography" title="Category:Oceanography">Oceanography</a></li><li><a href="/wiki/Category:Thermodynamics" title="Category:Thermodynamics">Thermodynamics</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bjerrum+plot" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Bjerrum+plot" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Bjerrum_plot" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Bjerrum_plot" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Bjerrum_plot">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Bjerrum_plot&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Bjerrum_plot&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Bjerrum_plot" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Bjerrum_plot" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bjerrum_plot&amp;oldid=855473414" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bjerrum_plot&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4919617" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bjerrum_plot&amp;id=855473414" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bjerrum+plot">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Bjerrum+plot&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Bjerrum_plot&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Bjerrumdiagram" hreflang="da" lang="da" title="Bjerrumdiagram – Danish">Dansk</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Diagramma_di_Bjerrum" hreflang="it" lang="it" title="Diagramma di Bjerrum – Italian">Italiano</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4919617#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 18 August 2018, at 15:29<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Bjerrum_plot&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.500","walltime":"1.341","ppvisitednodes":{"value":1967,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":44097,"limit":2097152},"templateargumentsize":{"value":3909,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7087,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  795.988      1 -total"," 52.27%  416.076      1 Template:Reflist"," 41.09%  327.050      2 Template:Cite_journal"," 19.25%  153.196      9 Template:Chem"," 16.73%  133.202      9 Template:Chem/link"," 13.79%  109.764     23 Template:Chem/atom"," 13.21%  105.142      1 Template:Short_description"," 12.75%  101.464      1 Template:Pagetype","  6.80%   54.115     10 Template:Su","  5.58%   44.395     61 Template:Space"]},"scribunto":{"limitreport-timeusage":{"value":"0.192","limit":"10.000"},"limitreport-memusage":{"value":2189939,"limit":52428800}},"cachereport":{"origin":"mw1240","timestamp":"20181010144843","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1262"});});</script>
+</body>
+</html>

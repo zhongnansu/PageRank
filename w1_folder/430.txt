@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>OECD Guidelines for the Testing of Chemicals - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"OECD_Guidelines_for_the_Testing_of_Chemicals","wgTitle":"OECD Guidelines for the Testing of Chemicals","wgCurRevisionId":804225962,"wgRevisionId":804225962,"wgArticleId":25731059,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Organisation for Economic Co-operation and Development","Toxicology","Regulation of chemicals"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"OECD_Guidelines_for_the_Testing_of_Chemicals","wgRelevantArticleId":25731059,"wgRequestId":"W8GcAApAAD0AAB5z4kQAAAAE","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7072447","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/OECD_Guidelines_for_the_Testing_of_Chemicals" rel="alternate"/>
+<link href="/w/index.php?title=OECD_Guidelines_for_the_Testing_of_Chemicals&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=OECD_Guidelines_for_the_Testing_of_Chemicals&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/OECD_Guidelines_for_the_Testing_of_Chemicals" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-OECD_Guidelines_for_the_Testing_of_Chemicals rootpage-OECD_Guidelines_for_the_Testing_of_Chemicals skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">OECD Guidelines for the Testing of Chemicals</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>OECD Guidelines for the Testing of Chemicals</b> are a set of internationally accepted specifications for the testing of chemicals decided on by the <a class="mw-redirect" href="/wiki/Organisation_for_Economic_Co-operation_and_Development" title="Organisation for Economic Co-operation and Development">Organisation for Economic Co-operation and Development</a> (OECD).  They were first published in 1981. They are split into five sections:
+</p>
+<ul><li>Section 1: Physical Chemical Properties</li>
+<li>Section 2: Effects on Biotic Systems</li>
+<li>Section 3: Degradation and Accumulation</li>
+<li>Section 4: Health Effects</li>
+<li>Section 5: Other Test Guidelines</li></ul>
+<p>Guidelines are numbered with three digit numbers, the section number being the first number.  Sometimes guidelines are suffixed with a letter.
+</p><p>Guidelines are under constant review, with guidelines being periodically updated, new guidelines being adopted, and guidelines being withdrawn.  Previous guidelines are maintained on the website for reference purposes.  <a href="/wiki/Animal_welfare" title="Animal welfare">Animal welfare</a> concerns are dealt with by ensuring that animal tests are only permitted where necessary.
+</p><p>The guidelines are available in both <a href="/wiki/English_language" title="English language">English</a> and <a href="/wiki/French_language" title="French language">French</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#List_of_guidelines"><span class="tocnumber">1</span> <span class="toctext">List of guidelines</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Section_1:_Physical_Chemical_Properties"><span class="tocnumber">1.1</span> <span class="toctext">Section 1: Physical Chemical Properties</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Section_2:_Effects_on_Biotic_Systems"><span class="tocnumber">1.2</span> <span class="toctext">Section 2: Effects on Biotic Systems</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Section_3:_Degradation_and_Accumulation"><span class="tocnumber">1.3</span> <span class="toctext">Section 3: Degradation and Accumulation</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Section_4:_Health_Effects"><span class="tocnumber">1.4</span> <span class="toctext">Section 4: Health Effects</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Section_5:_Other_Test_Guidelines"><span class="tocnumber">1.5</span> <span class="toctext">Section 5: Other Test Guidelines</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">2</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="List_of_guidelines">List of guidelines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=OECD_Guidelines_for_the_Testing_of_Chemicals&amp;action=edit&amp;section=1" title="Edit section: List of guidelines">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Section_1:_Physical_Chemical_Properties">Section 1: Physical Chemical Properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=OECD_Guidelines_for_the_Testing_of_Chemicals&amp;action=edit&amp;section=2" title="Edit section: Section 1: Physical Chemical Properties">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Number
+</th>
+<th>Title
+</th></tr>
+<tr>
+<td>101</td>
+<td>UV-VIS <a class="mw-redirect" href="/wiki/Absorption_spectra" title="Absorption spectra">absorption spectra</a>
+</td></tr>
+<tr>
+<td>102</td>
+<td><a href="/wiki/Melting_point" title="Melting point">Melting point</a>/<a class="new" href="/w/index.php?title=Melting_range&amp;action=edit&amp;redlink=1" title="Melting range (page does not exist)">Melting range</a>
+</td></tr>
+<tr>
+<td>103</td>
+<td><a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a>
+</td></tr>
+<tr>
+<td>104</td>
+<td><a class="mw-redirect" href="/wiki/Vapour_pressure" title="Vapour pressure">Vapour pressure</a>
+</td></tr>
+<tr>
+<td>105</td>
+<td><a class="mw-redirect" href="/wiki/Water_solubility" title="Water solubility">Water solubility</a>
+</td></tr>
+<tr>
+<td>106</td>
+<td><a href="/wiki/Adsorption" title="Adsorption">Adsorption</a> – <a href="/wiki/Desorption" title="Desorption">Desorption</a> Using a Batch Equilibrium Method
+</td></tr>
+<tr>
+<td>107</td>
+<td><a href="/wiki/Partition_coefficient" title="Partition coefficient">Partition coefficient</a> (<i>n</i>-octanol/water): Shake Flask Method
+</td></tr>
+<tr>
+<td>108</td>
+<td><a class="mw-redirect" href="/wiki/Complex_formation" title="Complex formation">Complex formation</a> ability in water
+</td></tr>
+<tr>
+<td>109</td>
+<td><a href="/wiki/Density" title="Density">Density</a> of liquids and solids
+</td></tr>
+<tr>
+<td>110</td>
+<td><a href="/wiki/Particle_size" title="Particle size">Particle size</a> distribution/ fibre length and diameter distributions
+</td></tr>
+<tr>
+<td>111</td>
+<td><a href="/wiki/Hydrolysis" title="Hydrolysis">Hydrolysis</a> as a function of pH
+</td></tr>
+<tr>
+<td>112</td>
+<td><a href="/wiki/Dissociation_constant" title="Dissociation constant">Dissociation constants</a> in water
+</td></tr>
+<tr>
+<td>113</td>
+<td><a class="mw-redirect" href="/wiki/Screening_test" title="Screening test">Screening test</a> for <a href="/wiki/Thermal_stability" title="Thermal stability">thermal stability</a> and stability in air
+</td></tr>
+<tr>
+<td>114</td>
+<td><a href="/wiki/Viscosity" title="Viscosity">Viscosity</a> of liquids
+</td></tr>
+<tr>
+<td>115</td>
+<td><a href="/wiki/Surface_tension" title="Surface tension">Surface tension</a> of <a href="/wiki/Aqueous_solution" title="Aqueous solution">aqueous solutions</a>
+</td></tr>
+<tr>
+<td>116</td>
+<td><a class="new" href="/w/index.php?title=Fat_solubility&amp;action=edit&amp;redlink=1" title="Fat solubility (page does not exist)">Fat solubility</a> of solid and liquid substances
+</td></tr>
+<tr>
+<td>117</td>
+<td>Partition coefficient (<i>n</i>-octanol/water), <a class="mw-redirect" href="/wiki/HPLC" title="HPLC">HPLC</a> Method
+</td></tr>
+<tr>
+<td>118</td>
+<td>Determination of the Number-Average <a class="mw-redirect" href="/wiki/Molecular_weight" title="Molecular weight">molecular weight</a> and the molecular weight distribution of polymers using <a class="mw-redirect" href="/wiki/Gel_Permeation_Chromatography" title="Gel Permeation Chromatography">Gel Permeation Chromatography</a>
+</td></tr>
+<tr>
+<td>119</td>
+<td>Determination of the Low Molecular Weight Content of a Polymer Using Gel Permeation Chromatography
+</td></tr>
+<tr>
+<td>120</td>
+<td>Solution/Extraction Behaviour of Polymers in Water
+</td></tr>
+<tr>
+<td>121</td>
+<td>Estimation of the <a class="new" href="/w/index.php?title=Adsorption_coefficient&amp;action=edit&amp;redlink=1" title="Adsorption coefficient (page does not exist)">adsorption coefficient</a> (<i>K</i><sub>OC</sub>) on Soil and on <a href="/wiki/Sewage_sludge" title="Sewage sludge">sewage sludge</a> using High Performance Liquid Chromatography (HPLC)
+</td></tr>
+<tr>
+<td>122</td>
+<td>Determination of pH, <a class="mw-redirect" href="/wiki/Acidity" title="Acidity">Acidity</a> and <a href="/wiki/Alkalinity" title="Alkalinity">Alkalinity</a>
+</td></tr>
+<tr>
+<td>123</td>
+<td>Partition coefficient (1-Octanol/Water): Slow-Stirring Method
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Section_2:_Effects_on_Biotic_Systems">Section 2: Effects on Biotic Systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=OECD_Guidelines_for_the_Testing_of_Chemicals&amp;action=edit&amp;section=3" title="Edit section: Section 2: Effects on Biotic Systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Number
+</th>
+<th>Title
+</th></tr>
+<tr>
+<td>201</td>
+<td>Freshwater Alga and Cyanobacteria, Growth Inhibition Test
+</td></tr>
+<tr>
+<td>202</td>
+<td>Daphnia sp. Acute Immobilisation Test
+</td></tr>
+<tr>
+<td>203</td>
+<td>Fish, Acute Toxicity Test
+</td></tr>
+<tr>
+<td>204</td>
+<td>Fish, Prolonged Toxicity Test: 14-Day Study
+</td></tr>
+<tr>
+<td>205</td>
+<td>Avian Dietary Toxicity Test
+</td></tr>
+<tr>
+<td>206</td>
+<td>Avian Reproduction Test
+</td></tr>
+<tr>
+<td>207</td>
+<td>Earthworm, Acute Toxicity Tests
+</td></tr>
+<tr>
+<td>208</td>
+<td>Terrestrial Plant Test: Seedling Emergence and Seedling Growth Test
+</td></tr>
+<tr>
+<td>209</td>
+<td>Activated Sludge, Respiration Inhibition Test (Carbon and Ammonium Oxidation)
+</td></tr>
+<tr>
+<td>210</td>
+<td>Fish, Early-life Stage Toxicity Test
+</td></tr>
+<tr>
+<td>211</td>
+<td>Daphnia magna Reproduction Test
+</td></tr>
+<tr>
+<td>212</td>
+<td>Fish, Short-term Toxicity Test on Embryo and Sac-Fry Stages
+</td></tr>
+<tr>
+<td>213</td>
+<td>Honeybees, Acute Oral Toxicity Test
+</td></tr>
+<tr>
+<td>214</td>
+<td>Honeybees, Acute Contact Toxicity Test
+</td></tr>
+<tr>
+<td>215</td>
+<td>Fish, Juvenile Growth Test
+</td></tr>
+<tr>
+<td>216</td>
+<td>Soil Microorganisms: Nitrogen Transformation Test
+</td></tr>
+<tr>
+<td>217</td>
+<td>Soil Microorganisms: Carbon Transformation Test
+</td></tr>
+<tr>
+<td>218</td>
+<td>Sediment-Water Chironomid Toxicity Using Spiked Sediment
+</td></tr>
+<tr>
+<td>219</td>
+<td>Sediment-Water Chironomid Toxicity Using Spiked Water
+</td></tr>
+<tr>
+<td>220</td>
+<td>Enchytraeid Reproduction Test
+</td></tr>
+<tr>
+<td>221</td>
+<td>Lemna sp. Growth Inhibition Test
+</td></tr>
+<tr>
+<td>222</td>
+<td>Earthworm Reproduction Test (Eisenia fetida/Eisenia andrei)
+</td></tr>
+<tr>
+<td>223</td>
+<td>Avian Acute Oral Toxicity Test
+</td></tr>
+<tr>
+<td>224</td>
+<td>Determination of the Inhibition of the Activity of Anaerobic Bacteria
+</td></tr>
+<tr>
+<td>225</td>
+<td>Sediment-Water Lumbriculus Toxicity Test Using Spiked Sediment
+</td></tr>
+<tr>
+<td>226</td>
+<td>Predatory mite (Hypoaspis (Geolaelaps) aculeifer) reproduction test in soil
+</td></tr>
+<tr>
+<td>227</td>
+<td>Terrestrial Plant Test: Vegetative Vigour Test
+</td></tr>
+<tr>
+<td>228</td>
+<td>Determination of Developmental Toxicity of a Test Chemical to Dipteran Dung Flies (Scathophaga stercoraria L. (Scathophagidae), Musca autumnalis De Geer (Muscidae))
+</td></tr>
+<tr>
+<td>229</td>
+<td>Fish Short Term Reproduction Assay
+</td></tr>
+<tr>
+<td>230</td>
+<td>21-day Fish Assay
+</td></tr>
+<tr>
+<td>231</td>
+<td>Amphibian Metamorphosis Assay
+</td></tr>
+<tr>
+<td>232</td>
+<td>Collembolan Reproduction Test in Soil
+</td></tr>
+<tr>
+<td>233</td>
+<td>Sediment-Water Chironomid Life-Cycle Toxicity Test Using Spiked Water or Spiked Sediment
+</td></tr>
+<tr>
+<td>234</td>
+<td>Fish Sexual Development Test
+</td></tr>
+<tr>
+<td>235</td>
+<td>Chironomus sp., Acute Immobilisation Test
+</td></tr>
+<tr>
+<td>236</td>
+<td>Fish Embryo Acute Toxicity (FET) Test
+</td></tr>
+<tr>
+<td>237</td>
+<td>Honey Bee (Apis Mellifera) Larval Toxicity Test, Single Exposure
+</td></tr>
+<tr>
+<td>238</td>
+<td>Sediment-Free Myriophyllum Spicatum Toxicity Test
+</td></tr>
+<tr>
+<td>239</td>
+<td>Water-Sediment Myriophyllum Spicatum Toxicity Test
+</td></tr>
+<tr>
+<td>240</td>
+<td>Medaka Extended One Generation Reproduction Test (MEOGRT)
+</td></tr>
+<tr>
+<td>241</td>
+<td>The Larval Amphibian Growth and Development Assay (LAGDA)
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Section_3:_Degradation_and_Accumulation">Section 3: Degradation and Accumulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=OECD_Guidelines_for_the_Testing_of_Chemicals&amp;action=edit&amp;section=4" title="Edit section: Section 3: Degradation and Accumulation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Number
+</th>
+<th>Title
+</th></tr>
+<tr>
+<td>301</td>
+<td>Ready Biodegradability
+</td></tr>
+<tr>
+<td>302A</td>
+<td>Inherent Biodegradability: Modified SCAS Test
+</td></tr>
+<tr>
+<td>302B</td>
+<td>Inherent Biodegradability: Zahn-Wellens/ EVPA Test
+</td></tr>
+<tr>
+<td>302C</td>
+<td>Inherent Biodegradability: Modified MITI Test (II)
+</td></tr>
+<tr>
+<td>303</td>
+<td>Simulation Test – Aerobic Sewage Treatment – A: Activated Sludge Units; B: Biofilms
+</td></tr>
+<tr>
+<td>304A</td>
+<td>Inherent Biodegradability in Soil
+</td></tr>
+<tr>
+<td>305</td>
+<td>Bioaccumulation in Fish: Aqueous and Dietary Exposure
+</td></tr>
+<tr>
+<td>306</td>
+<td>Biodegradability in Seawater
+</td></tr>
+<tr>
+<td>307</td>
+<td>Aerobic and Anaerobic Transformation in Soil
+</td></tr>
+<tr>
+<td>308</td>
+<td>Aerobic and Anaerobic Transformation in Aquatic Sediment Systems
+</td></tr>
+<tr>
+<td>309</td>
+<td>Aerobic Mineralisation in Surface Water – Simulation Biodegradation Test
+</td></tr>
+<tr>
+<td>310</td>
+<td>Ready Biodegradability – CO<sub>2</sub> in sealed vessels (Headspace Test)
+</td></tr>
+<tr>
+<td>311</td>
+<td>Anaerobic Biodegradability of Organic Compounds in Digested Sludge: by Measurement of Gas Production
+</td></tr>
+<tr>
+<td>312</td>
+<td>Leaching in Soil Columns
+</td></tr>
+<tr>
+<td>313</td>
+<td>Estimation of Emissions from Preservative – Treated Wood to the Environment
+</td></tr>
+<tr>
+<td>314</td>
+<td>Simulation Tests to Assess the Biodegradability of Chemicals Discharged in Wastewater
+</td></tr>
+<tr>
+<td>315</td>
+<td>Bioaccumulation in Sediment-dwelling Benthic Oligochaetes
+</td></tr>
+<tr>
+<td>316</td>
+<td>Phototransformation of Chemicals in Water – Direct Photolysis
+</td></tr>
+<tr>
+<td>317</td>
+<td>Bioaccumulation in Terrestrial Oligochaetes
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Section_4:_Health_Effects">Section 4: Health Effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=OECD_Guidelines_for_the_Testing_of_Chemicals&amp;action=edit&amp;section=5" title="Edit section: Section 4: Health Effects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Number
+</th>
+<th>Title
+</th></tr>
+<tr>
+<td>401</td>
+<td>Acute Oral Toxicity
+</td></tr>
+<tr>
+<td>402</td>
+<td>Acute Dermal Toxicity
+</td></tr>
+<tr>
+<td>403</td>
+<td>Acute Inhalation Toxicity
+</td></tr>
+<tr>
+<td>404</td>
+<td>Acute Dermal Irritation/Corrosion
+</td></tr>
+<tr>
+<td>405</td>
+<td>Acute Eye Irritation/Corrosion
+</td></tr>
+<tr>
+<td>406</td>
+<td>Skin Sensitisation
+</td></tr>
+<tr>
+<td>407</td>
+<td>Repeated Dose 28-day Oral Toxicity Study in Rodents
+</td></tr>
+<tr>
+<td>408</td>
+<td>Repeated Dose 90-Day Oral Toxicity Study in Rodents
+</td></tr>
+<tr>
+<td>409</td>
+<td>Repeated Dose 90-Day Oral Toxicity Study in Non-Rodents
+</td></tr>
+<tr>
+<td>410</td>
+<td>Repeated Dose Dermal Toxicity: 21/28-day Study
+</td></tr>
+<tr>
+<td>411</td>
+<td>Subchronic Dermal Toxicity: 90-day Study
+</td></tr>
+<tr>
+<td>412</td>
+<td>Subacute Inhalation Toxicity: 28-Day Study
+</td></tr>
+<tr>
+<td>413</td>
+<td>Subchronic Inhalation Toxicity: 90-day Study
+</td></tr>
+<tr>
+<td>414</td>
+<td>Prenatal Development Toxicity Study
+</td></tr>
+<tr>
+<td>415</td>
+<td>One-Generation Reproduction Toxicity Study
+</td></tr>
+<tr>
+<td>416</td>
+<td>Two-Generation Reproduction Toxicity
+</td></tr>
+<tr>
+<td>417</td>
+<td>Toxicokinetics
+</td></tr>
+<tr>
+<td>418</td>
+<td>Delayed Neurotoxicity of Organophosphorus Substances Following Acute Exposure
+</td></tr>
+<tr>
+<td>419</td>
+<td>Delayed Neurotoxicity of Organophosphorus Substances: 28-day Repeated Dose Study
+</td></tr>
+<tr>
+<td>420</td>
+<td>Acute Oral Toxicity – Fixed Dose Procedure
+</td></tr>
+<tr>
+<td>421</td>
+<td>Reproduction/Developmental Toxicity Screening Test
+</td></tr>
+<tr>
+<td>422</td>
+<td>Combined Repeated Dose Toxicity Study with the Reproduction/Developmental Toxicity Screening Test
+</td></tr>
+<tr>
+<td>423</td>
+<td>Acute Oral toxicity – Acute Toxic Class Method
+</td></tr>
+<tr>
+<td>424</td>
+<td>Neurotoxicity Study in Rodents
+</td></tr>
+<tr>
+<td>425</td>
+<td>Acute Oral Toxicity: Up-and-Down Procedure
+</td></tr>
+<tr>
+<td>426</td>
+<td>Developmental Neurotoxicity Study
+</td></tr>
+<tr>
+<td>427</td>
+<td>Skin Absorption: In Vivo Method
+</td></tr>
+<tr>
+<td>428</td>
+<td>Skin Absorption: In Vitro Method
+</td></tr>
+<tr>
+<td>429</td>
+<td>Skin Sensitisation
+</td></tr>
+<tr>
+<td>430</td>
+<td>In Vitro Skin Corrosion: Transcutaneous Electrical Resistance Test Method (TER)
+</td></tr>
+<tr>
+<td>431</td>
+<td>In Vitro Skin Corrosion: Reconstructed Human Epidermis (RHE) Test Method
+</td></tr>
+<tr>
+<td>432</td>
+<td>In Vitro 3T3 NRU Phototoxicity Test
+</td></tr>
+<tr>
+<td>435</td>
+<td>In Vitro Membrane Barrier Test Method for Skin Corrosion
+</td></tr>
+<tr>
+<td>436</td>
+<td>Acute Inhalation Toxicity – Acute Toxic Class Method
+</td></tr>
+<tr>
+<td>437</td>
+<td>Bovine Corneal Opacity and Permeability Test Method for Identifying i) Chemicals Inducing Serious Eye Damage and ii) Chemicals Not Requiring Classification for Eye Irritation or Serious Eye Damage
+</td></tr>
+<tr>
+<td>438</td>
+<td>Isolated Chicken Eye Test Method for Identifying i) Chemicals Inducing Serious Eye Damage and ii) Chemicals Not Requiring Classification for Eye Irritation or Serious Eye Damage
+</td></tr>
+<tr>
+<td>439</td>
+<td>In Vitro Skin Irritation: Reconstructed Human Epidermis Test Method
+</td></tr>
+<tr>
+<td>440</td>
+<td>Uterotrophic Bioassay in Rodents
+</td></tr>
+<tr>
+<td>441</td>
+<td>Hershberger Bioassay in Rats
+</td></tr>
+<tr>
+<td>442A</td>
+<td>Skin Sensitization
+</td></tr>
+<tr>
+<td>442B</td>
+<td>Skin Sensitization
+</td></tr>
+<tr>
+<td>442C</td>
+<td>In Chemico Skin Sensitisation
+</td></tr>
+<tr>
+<td>442D</td>
+<td>In Vitro Skin Sensitisation
+</td></tr>
+<tr>
+<td>443</td>
+<td>Extended One-Generation Reproductive Toxicity Study
+</td></tr>
+<tr>
+<td>451</td>
+<td>Carcinogenicity Studies
+</td></tr>
+<tr>
+<td>452</td>
+<td>Chronic Toxicity Studies
+</td></tr>
+<tr>
+<td>453</td>
+<td>Combined Chronic Toxicity/Carcinogenicity Studies
+</td></tr>
+<tr>
+<td>455</td>
+<td>Draft Performance-Based Test Guideline for Stably Transfected Transactivation In Vitro Assays to Detect Estrogen Receptor Agonists and Antagonists
+</td></tr>
+<tr>
+<td>456</td>
+<td>H295R Steroidogenesis Assay
+</td></tr>
+<tr>
+<td>457</td>
+<td>BG1Luc Estrogen Receptor Transactivation Test Method for Identifying Estrogen Receptor Agonists and Antagonists
+</td></tr>
+<tr>
+<td>460</td>
+<td>Fluorescein Leakage Test Method for Identifying Ocular Corrosives and Severe Irritants
+</td></tr>
+<tr>
+<td>471</td>
+<td>Bacterial Reverse Mutation Test
+</td></tr>
+<tr>
+<td>473</td>
+<td>In Vitro Mammalian Chromosomal Aberration Test
+</td></tr>
+<tr>
+<td>474</td>
+<td>Mammalian Erythrocyte Micronucleus Test
+</td></tr>
+<tr>
+<td>475</td>
+<td>Mammalian Bone Marrow Chromosomal Aberration Test
+</td></tr>
+<tr>
+<td>476</td>
+<td>In Vitro Mammalian Cell Gene Mutation Tests using the Hprt and xprt genes
+</td></tr>
+<tr>
+<td>477</td>
+<td>Genetic Toxicology: Sex-Linked Recessive Lethal Test in Drosophila melanogaster
+</td></tr>
+<tr>
+<td>478</td>
+<td>Rodent Dominant Lethal Test
+</td></tr>
+<tr>
+<td>479</td>
+<td>Genetic Toxicology: In vitro Sister Chromatid Exchange Assay in Mammalian Cells
+</td></tr>
+<tr>
+<td>480</td>
+<td>Genetic Toxicology: Saccharomyces cerevisiae, Gene Mutation Assay
+</td></tr>
+<tr>
+<td>481</td>
+<td>Genetic Toxicology: Saacharomyces cerevisiae, Miotic Recombination Assay
+</td></tr>
+<tr>
+<td>482</td>
+<td>Genetic Toxicology: DNA Damage and Repair, Unscheduled DNA Synthesis in Mammalian Cells in vitro
+</td></tr>
+<tr>
+<td>483</td>
+<td>Mammalian Spermatogonial Chromosomal Aberration Test
+</td></tr>
+<tr>
+<td>484</td>
+<td>Genetic Toxicology: Mouse Spot Test
+</td></tr>
+<tr>
+<td>485</td>
+<td>Genetic toxicology, Mouse Heritable Translocation Assay
+</td></tr>
+<tr>
+<td>486</td>
+<td>Unscheduled DNA Synthesis (UDS) Test with Mammalian Liver Cells in vivo
+</td></tr>
+<tr>
+<td>487</td>
+<td>In Vitro Mammalian Cell Micronucleus Test
+</td></tr>
+<tr>
+<td>488</td>
+<td>Transgenic Rodent Somatic and Germ Cell Gene Mutation Assays
+</td></tr>
+<tr>
+<td>489</td>
+<td>In Vivo Mammalian Alkaline Comet Assay
+</td></tr>
+<tr>
+<td>490</td>
+<td>In Vitro Mammalian Cell Gene Mutation Tests Using the Thymidine Kinase Gene
+</td></tr>
+<tr>
+<td>491</td>
+<td>Short Time Exposure In Vitro Test Method for Identifying i) Chemicals Inducing Serious Eye Damage and ii) Chemicals Not Requiring Classification for Eye Irritation or Serious Eye Damage
+</td></tr>
+<tr>
+<td>492</td>
+<td>Reconstructed human Cornea-like Epithelium (RhCE) test method for identifying chemicals not requiring classification and labelling for eye irritation or serious eye damage
+</td></tr>
+<tr>
+<td>493</td>
+<td>Performance-Based Test Guideline for Human Recombinant Estrogen Receptor (hrER) In Vitro Assays to Detect Chemicals with ER Binding Affinity
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Section_5:_Other_Test_Guidelines">Section 5: Other Test Guidelines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=OECD_Guidelines_for_the_Testing_of_Chemicals&amp;action=edit&amp;section=6" title="Edit section: Section 5: Other Test Guidelines">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Number
+</th>
+<th>Title
+</th></tr>
+<tr>
+<td>501</td>
+<td>Metabolism in Crops
+</td></tr>
+<tr>
+<td>502</td>
+<td>Metabolism in Rotational Crops
+</td></tr>
+<tr>
+<td>503</td>
+<td>Metabolism in Livestock
+</td></tr>
+<tr>
+<td>504</td>
+<td>Residues in Rotational Crops (Limited Field Studies)
+</td></tr>
+<tr>
+<td>505</td>
+<td>Residues in Livestock
+</td></tr>
+<tr>
+<td>506</td>
+<td>Stability of Pesticide Residues in Stored Commodities
+</td></tr>
+<tr>
+<td>507</td>
+<td>Nature of the Pesticide Residues in Processed Commodities – High Temperature Hydrolysis
+</td></tr>
+<tr>
+<td>508</td>
+<td>Magnitude of the Pesticide Residues in Processed Commodities
+</td></tr>
+<tr>
+<td>509</td>
+<td>Crop Field Trial
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=OECD_Guidelines_for_the_Testing_of_Chemicals&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.oecd.org/chemicalsafety/testing/oecdguidelinesforthetestingofchemicals.htm" rel="nofollow">OECD Guidelines for the Testing of Chemicals</a></li></ul>
+<div aria-labelledby="Organisation_for_Economic_Co-operation_and_Development_(OECD)" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Organisation_for_Economic_Co-operation_and_Development" title="Template:Organisation for Economic Co-operation and Development"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Organisation_for_Economic_Co-operation_and_Development" title="Template talk:Organisation for Economic Co-operation and Development"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Organisation_for_Economic_Co-operation_and_Development&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Organisation_for_Economic_Co-operation_and_Development_(OECD)" style="font-size:114%;margin:0 4em"><a class="mw-redirect" href="/wiki/Organisation_for_Economic_Co-operation_and_Development" title="Organisation for Economic Co-operation and Development">Organisation for Economic Co-operation and Development (OECD)</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">History</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Convention_on_the_Organisation_for_Economic_Co-operation_and_Development" title="Convention on the Organisation for Economic Co-operation and Development">Convention on the Organisation for Economic Co-operation and Development</a></li>
+<li><a href="/wiki/OECD_Anti-Bribery_Convention" title="OECD Anti-Bribery Convention">OECD Anti-Bribery Convention</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Guidelines</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/OECD_Guidelines_for_Multinational_Enterprises" title="OECD Guidelines for Multinational Enterprises">Multinational Enterprises</a></li>
+<li><a class="mw-selflink selflink">Testing of Chemicals</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20181010142440
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.084 seconds
+Real time usage: 0.136 seconds
+Preprocessor visited node count: 89/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 6696/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.011/10.000 seconds
+Lua memory usage: 717 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   73.693      1 Template:Organisation_for_Economic_Co-operation_and_Development
+100.00%   73.693      1 -total
+ 97.36%   71.748      1 Template:Navbox
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:25731059-0!canonical and timestamp 20181010142440 and revision id 804225962
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=OECD_Guidelines_for_the_Testing_of_Chemicals&amp;oldid=804225962">https://en.wikipedia.org/w/index.php?title=OECD_Guidelines_for_the_Testing_of_Chemicals&amp;oldid=804225962</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Organisation_for_Economic_Co-operation_and_Development" title="Category:Organisation for Economic Co-operation and Development">Organisation for Economic Co-operation and Development</a></li><li><a href="/wiki/Category:Toxicology" title="Category:Toxicology">Toxicology</a></li><li><a href="/wiki/Category:Regulation_of_chemicals" title="Category:Regulation of chemicals">Regulation of chemicals</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=OECD+Guidelines+for+the+Testing+of+Chemicals" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=OECD+Guidelines+for+the+Testing+of+Chemicals" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/OECD_Guidelines_for_the_Testing_of_Chemicals" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:OECD_Guidelines_for_the_Testing_of_Chemicals" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/OECD_Guidelines_for_the_Testing_of_Chemicals">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=OECD_Guidelines_for_the_Testing_of_Chemicals&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=OECD_Guidelines_for_the_Testing_of_Chemicals&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/OECD_Guidelines_for_the_Testing_of_Chemicals" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/OECD_Guidelines_for_the_Testing_of_Chemicals" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=OECD_Guidelines_for_the_Testing_of_Chemicals&amp;oldid=804225962" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=OECD_Guidelines_for_the_Testing_of_Chemicals&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7072447" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=OECD_Guidelines_for_the_Testing_of_Chemicals&amp;id=804225962" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=OECD+Guidelines+for+the+Testing+of+Chemicals">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=OECD+Guidelines+for+the+Testing+of+Chemicals&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=OECD_Guidelines_for_the_Testing_of_Chemicals&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A5%D8%B1%D8%B4%D8%A7%D8%AF%D8%A7%D8%AA_%D9%85%D9%86%D8%B8%D9%85%D8%A9_%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86_%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9_%D9%84%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AF_%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9" hreflang="ar" lang="ar" title="إرشادات منظمة التعاون والتنمية لاختبار المواد الكيميائية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/OECD-Richtlinien_zur_Pr%C3%BCfung_von_Chemikalien" hreflang="de" lang="de" title="OECD-Richtlinien zur Prüfung von Chemikalien – German">Deutsch</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/OECD%E3%83%86%E3%82%B9%E3%83%88%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3" hreflang="ja" lang="ja" title="OECDテストガイドライン – Japanese">日本語</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7072447#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 7 October 2017, at 16:00<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=OECD_Guidelines_for_the_Testing_of_Chemicals&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.084","walltime":"0.136","ppvisitednodes":{"value":89,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":6696,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   73.693      1 Template:Organisation_for_Economic_Co-operation_and_Development","100.00%   73.693      1 -total"," 97.36%   71.748      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.011","limit":"10.000"},"limitreport-memusage":{"value":734168,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20181010142440","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw1266"});});</script>
+</body>
+</html>

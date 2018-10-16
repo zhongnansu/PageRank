@@ -1,0 +1,2216 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Membrane gas separation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Membrane_gas_separation","wgTitle":"Membrane gas separation","wgCurRevisionId":859267591,"wgRevisionId":859267591,"wgArticleId":1569089,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Separation processes","Gas technologies","Membrane technology","Industrial gases"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Membrane_gas_separation","wgRelevantArticleId":1569089,"wgRequestId":"W7gDPgrAAEQAACyl@QEAAABL","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5526366","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flux_distribution_inside_the_fiber.jpg/1200px-Flux_distribution_inside_the_fiber.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Membrane_gas_separation" rel="alternate"/>
+<link href="/w/index.php?title=Membrane_gas_separation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Membrane_gas_separation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Membrane_gas_separation" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Membrane_gas_separation rootpage-Membrane_gas_separation skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Membrane gas separation</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>Gas mixtures can be effectively separated by <a class="mw-redirect" href="/wiki/Synthetic_membranes" title="Synthetic membranes">synthetic membranes</a> made from polymers such as <a href="/wiki/Polyamide" title="Polyamide">polyamide</a> or <a href="/wiki/Cellulose_acetate" title="Cellulose acetate">cellulose acetate</a>, or from ceramic materials.<sup class="reference" id="cite_ref-handbook_1-0"><a href="#cite_note-handbook-1">[1]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Flux_distribution_inside_the_fiber.jpg"><img alt="" class="thumbimage" data-file-height="1000" data-file-width="1284" height="171" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flux_distribution_inside_the_fiber.jpg/220px-Flux_distribution_inside_the_fiber.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flux_distribution_inside_the_fiber.jpg/330px-Flux_distribution_inside_the_fiber.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Flux_distribution_inside_the_fiber.jpg/440px-Flux_distribution_inside_the_fiber.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Flux_distribution_inside_the_fiber.jpg" title="Enlarge"></a></div>Membrane cartridge</div></div></div>
+<p>While polymeric membranes are economical and technologically useful, they are bounded by their performance, known as the Robeson limit (permeability must be sacrificed for selectivity and vice versa).<sup class="reference" id="cite_ref-:0_2-0"><a href="#cite_note-:0-2">[2]</a></sup> This limit affects polymeric membrane use for CO<sub>2</sub> separation from flue gas streams, since mass transport becomes limiting and CO2 separation becomes very expensive due to low permeabilities. Membrane materials have expanded into the realm of <a href="/wiki/Silicon_dioxide" title="Silicon dioxide">silica</a>, <a href="/wiki/Zeolite" title="Zeolite">zeolites</a>, <a class="mw-redirect" href="/wiki/Metal-organic_framework" title="Metal-organic framework">metal-organic frameworks</a>, and <a href="/wiki/Perovskite" title="Perovskite">perovskites</a> due to their strong thermal and chemical resistance as well as high tunability (ability to be modified and functionalized), leading to increased permeability and selectivity. <a href="/wiki/Membrane" title="Membrane">Membranes</a> can be used for separating gas mixtures where they act as a permeable barrier through which different compounds move across at different rates or not move at all. The membranes can be nanoporous, polymer, etc. and the gas molecules penetrate according to their size, <a href="/wiki/Diffusivity" title="Diffusivity">diffusivity</a>, or solubility.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Membrane_Governing_Methodology"><span class="tocnumber">1</span> <span class="toctext">Membrane Governing Methodology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Membrane_Performance"><span class="tocnumber">2</span> <span class="toctext">Membrane Performance</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Membrane_Materials_for_Carbon_Capture_in_Flue_Gas_Streams"><span class="tocnumber">3</span> <span class="toctext">Membrane Materials for Carbon Capture in Flue Gas Streams</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Polymer_Membranes"><span class="tocnumber">3.1</span> <span class="toctext">Polymer Membranes</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Nanoporous_Membranes"><span class="tocnumber">3.2</span> <span class="toctext">Nanoporous Membranes</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Silica_Membranes"><span class="tocnumber">3.2.1</span> <span class="toctext">Silica Membranes</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Zeolite_Membranes"><span class="tocnumber">3.2.2</span> <span class="toctext">Zeolite Membranes</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Metal-organic_Framework_(MOF)_Membranes"><span class="tocnumber">3.2.3</span> <span class="toctext">Metal-organic Framework (MOF) Membranes</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Perovskite_Membranes"><span class="tocnumber">3.2.4</span> <span class="toctext">Perovskite Membranes</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Other_Membrane_Technologies"><span class="tocnumber">4</span> <span class="toctext">Other Membrane Technologies</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Construction"><span class="tocnumber">5</span> <span class="toctext">Construction</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Uses"><span class="tocnumber">6</span> <span class="toctext">Uses</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Current_Status_of_CO2_Capture_with_Membranes"><span class="tocnumber">7</span> <span class="toctext">Current Status of CO<sub>2</sub> Capture with Membranes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Background"><span class="tocnumber">7.1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Need_for_multi-stage_process"><span class="tocnumber">7.2</span> <span class="toctext">Need for multi-stage process</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Membrane_Use_in_Hybrid_Processes"><span class="tocnumber">7.3</span> <span class="toctext">Membrane Use in Hybrid Processes</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Cost_Analysis_of_Current_Membrane_Technology_for_CCS_Relative_to_Well_Established_Techniques"><span class="tocnumber">7.4</span> <span class="toctext">Cost Analysis of Current Membrane Technology for CCS Relative to Well Established Techniques</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Membrane_Governing_Methodology">Membrane Governing Methodology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=1" title="Edit section: Membrane Governing Methodology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:752px;"><a class="image" href="/wiki/File:Mechanisms_of_transport_in_membranes.jpg"><img alt="" class="thumbimage" data-file-height="415" data-file-width="1401" height="222" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mechanisms_of_transport_in_membranes.jpg/750px-Mechanisms_of_transport_in_membranes.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mechanisms_of_transport_in_membranes.jpg/1125px-Mechanisms_of_transport_in_membranes.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/1/1e/Mechanisms_of_transport_in_membranes.jpg 2x" width="750"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Mechanisms_of_transport_in_membranes.jpg" title="Enlarge"></a></div>(a) Bulk flow through pores; (b) Knudsen diffusion through pores; (c) molecular sieving; (d) solution diffusion through dense membranes.</div></div></div>
+<p>There are 3 main <a href="/wiki/Diffusion" title="Diffusion">diffusion</a> mechanisms, the first (b), <a href="/wiki/Knudsen_diffusion" title="Knudsen diffusion">Knudsen diffusion</a> holds at very low pressures where lighter molecules can move across a membrane faster than heavy ones, in a material with reasonably large pores.<sup class="reference" id="cite_ref-Smit_3-0"><a href="#cite_note-Smit-3">[3]</a></sup> The second (c), <a href="/wiki/Molecular_sieve" title="Molecular sieve">molecular sieving</a>, is the case where the pores of the membrane are too small to let one component pass, a process which is typically not practical in gas applications, as the molecules are too small to design relevant pores. In these cases the movement of molecules is best described by pressure-driven convective flow through capillaries, which is quantified by <a href="/wiki/Darcy%27s_law" title="Darcy's law">Darcy’s Law</a>. However, the more general model in gas applications is the solution-diffusion (d) where particles are first dissolved onto the membrane and then diffuse through it both at different rates. This model is employed when the pores in the polymer membrane appear and disappear faster relative to the movement of the particles.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>In a typical membrane system the incoming feed stream is separated into two components: permeant and retentate. Permeant is the gas that travels across the membrane and the retentate is what is left of the feed. On both sides of the membrane, a gradient of <a href="/wiki/Chemical_potential" title="Chemical potential">chemical potential</a> is maintained by a pressure difference which is the driving force for the gas molecules to pass through. The ease of transport of each species is quantified by the <a href="/wiki/Permeation" title="Permeation">permeability</a>, P<sub>i</sub>. With the assumptions of ideal mixing on both sides of the membrane, <a href="/wiki/Ideal_gas_law" title="Ideal gas law">ideal gas law</a>, constant diffusion coefficient and <a href="/wiki/Henry%27s_law" title="Henry's law">Henry’s Law</a>, the flux of a species can be related to the pressure difference by <a href="/wiki/Fick%27s_laws_of_diffusion" title="Fick's laws of diffusion">Fick’s Law</a>:<sup class="reference" id="cite_ref-Smit_3-1"><a href="#cite_note-Smit-3">[3]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle J={\frac {D_{i}K_{i}(p_{i}'-p_{i}'')}{l}}={\frac {P_{i}(p_{i}'-p_{i}'')}{l}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>J</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>D</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<msubsup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">)</mo>
+</mrow>
+<mi>l</mi>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<msubsup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">)</mo>
+</mrow>
+<mi>l</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle J={\frac {D_{i}K_{i}(p_{i}'-p_{i}'')}{l}}={\frac {P_{i}(p_{i}'-p_{i}'')}{l}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle J={\frac {D_{i}K_{i}(p_{i}'-p_{i}'')}{l}}={\frac {P_{i}(p_{i}'-p_{i}'')}{l}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d1e2119212652d0af861845f687b3b56c2898a35" style="vertical-align: -2.005ex; width:34.98ex; height:6.009ex;"/></span></dd></dl>
+<p>where, (J<sub>i</sub>) is the <a href="/wiki/Mass_flux" title="Mass flux">molar flux</a> of species i across the membrane, (l) is membrane thickness, (P<sub>i</sub>) is permeability of species i, (D<sub>i</sub>) is diffusivity, (K<sub>i</sub>) is the Henry coefficient, and (p<sub>i</sub><sup>'</sup>) and (p<sub>i</sub><sup>"</sup>) represent the partial pressures of the species i at the feed and permeant side respectively. The product of D<sub>i</sub>K<sub>i</sub> is often expressed as the permeability of the species i,  on the specific membrane being used.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P_{i}=D_{i}K_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>D</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{i}=D_{i}K_{i}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle P_{i}=D_{i}K_{i}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a052827a6953aca16e34766667c99ea443faf499" style="vertical-align: -0.671ex; width:10.887ex; height:2.509ex;"/></span></dd></dl>
+<p>The flow of a second species, j, can be defined as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle J={\frac {P_{j}(p_{j}'-p_{j}'')}{l}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>J</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<msubsup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">)</mo>
+</mrow>
+<mi>l</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle J={\frac {P_{j}(p_{j}'-p_{j}'')}{l}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle J={\frac {P_{j}(p_{j}'-p_{j}'')}{l}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/792f88296f5eee894d78be983a47cfd082449908" style="vertical-align: -2.005ex; width:16.843ex; height:6.176ex;"/></span></dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:442px;"><a class="image" href="/wiki/File:Membrane_separation_process.jpg"><img alt="" class="thumbimage" data-file-height="452" data-file-width="805" height="247" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Membrane_separation_process.jpg/440px-Membrane_separation_process.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Membrane_separation_process.jpg/660px-Membrane_separation_process.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/0/01/Membrane_separation_process.jpg 2x" width="440"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Membrane_separation_process.jpg" title="Enlarge"></a></div>A simplified design schematic of a membrane separation process</div></div></div>
+<p>With the expression above, a membrane system for a binary mixture can be sufficiently defined. it can be seen that the total flow across the membrane is strongly dependent on the relation between the feed and permeate pressures. The ratio of feed pressure (p<sup>'</sup>) over permeate pressure (p<sup>"</sup>) is defined as the membrane pressure ratio (θ).
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta ={\frac {P'}{P''}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>θ<!-- θ --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>P</mi>
+<mo>′</mo>
+</msup>
+<msup>
+<mi>P</mi>
+<mo>″</mo>
+</msup>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta ={\frac {P'}{P''}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \theta ={\frac {P'}{P''}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fbba8aec02d6b347a019d3305badc488d9303ec1" style="vertical-align: -1.838ex; width:7.984ex; height:5.509ex;"/></span></dd></dl>
+<p>It is clear from the above, that a flow of species i or j across the membrane can only occur when:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p_{i}'-p_{i}''=p'n_{i}'-p''n_{i}''\neq 0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo>=</mo>
+<msup>
+<mi>p</mi>
+<mo>′</mo>
+</msup>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>p</mi>
+<mo>″</mo>
+</msup>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo>≠<!-- ≠ --></mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p_{i}'-p_{i}''=p'n_{i}'-p''n_{i}''\neq 0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p_{i}'-p_{i}''=p'n_{i}'-p''n_{i}''\neq 0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/09bdf735898200365e88876d13b09ed2576a99ab" style="vertical-align: -1.005ex; margin-left: -0.089ex; width:26.292ex; height:3.176ex;"/></span></dd></dl>
+<p>In other words, the membrane will experience flow across it when there exists a concentration gradient between feed and permeate. If the gradient is positive, the flow will go from the feed to the permeate and species i will be separated from the feed.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p'n_{i}'-p''n_{i}''&gt;0\rightarrow {\frac {n_{i}''}{n_{i}'}}\leq {\frac {p'}{p''}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>p</mi>
+<mo>′</mo>
+</msup>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>p</mi>
+<mo>″</mo>
+</msup>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo>&gt;</mo>
+<mn>0</mn>
+<mo stretchy="false">→<!-- → --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+</mfrac>
+</mrow>
+<mo>≤<!-- ≤ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>p</mi>
+<mo>′</mo>
+</msup>
+<msup>
+<mi>p</mi>
+<mo>″</mo>
+</msup>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p'n_{i}'-p''n_{i}''&gt;0\rightarrow {\frac {n_{i}''}{n_{i}'}}\leq {\frac {p'}{p''}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p'n_{i}'-p''n_{i}''&gt;0\rightarrow {\frac {n_{i}''}{n_{i}'}}\leq {\frac {p'}{p''}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8f2ea65715d848badc66b0d49a333c61f50300b2" style="vertical-align: -2.671ex; margin-left: -0.089ex; width:29.301ex; height:6.509ex;"/></span></dd></dl>
+<p>Therefore, the maximum separation of species i results from:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n_{i}'',max''={\frac {p'}{p''}}n_{i}'=\theta n_{i}'}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo>,</mo>
+<mi>m</mi>
+<mi>a</mi>
+<msup>
+<mi>x</mi>
+<mo>″</mo>
+</msup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>p</mi>
+<mo>′</mo>
+</msup>
+<msup>
+<mi>p</mi>
+<mo>″</mo>
+</msup>
+</mfrac>
+</mrow>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>=</mo>
+<mi>θ<!-- θ --></mi>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n_{i}'',max''={\frac {p'}{p''}}n_{i}'=\theta n_{i}'}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle n_{i}'',max''={\frac {p'}{p''}}n_{i}'=\theta n_{i}'}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2bc0215f448545d8bf584fd82f4bad6a575b686f" style="vertical-align: -2.338ex; width:24.122ex; height:6.009ex;"/></span></dd></dl>
+<p>Another important coefficient when choosing the optimum membrane for a separation process is the membrane selectivity α<sub>ij</sub> defined as the ratio of permeability of species i with relation to the species j.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha _{ij}={\frac {P_{i}}{P_{j}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mi>j</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha _{ij}={\frac {P_{i}}{P_{j}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \alpha _{ij}={\frac {P_{i}}{P_{j}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3e5d8c3ee0b03297786e59fe98d11dd30db9dddd" style="vertical-align: -2.505ex; width:9.301ex; height:5.843ex;"/></span></dd></dl>
+<p>This coefficient is used to indicate the level to which the membrane is able to separates species i from j. It is obvious from the expression above, that a membrane selectivity of 1 indicates the membrane has no potential to separate the two gases, the reason being, both gases will diffuse equally through the membrane.
+</p><p>In the design of a separation process, normally the pressure ratio and the membrane selectivity are prescribed by the pressures of the system and the permeability of the membrane . The level of separation achieved by the membrane (concentration of the species to be separated) needs to be evaluated based on the aforementioned design parameters in order to evaluate the cost effectiveness of the system.
+</p>
+<h2><span class="mw-headline" id="Membrane_Performance">Membrane Performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=2" title="Edit section: Membrane Performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The concentration of species i and j across the membrane can be evaluated based on their respective diffusion flows across it.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n_{i}''={\frac {J_{i}}{\sum {J_{k}}}},\quad n_{j}''={\frac {J_{j}}{\sum {J_{k}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>J</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mrow>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>J</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>k</mi>
+</mrow>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+<mspace width="1em"></mspace>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>J</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mrow>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>J</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>k</mi>
+</mrow>
+</msub>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n_{i}''={\frac {J_{i}}{\sum {J_{k}}}},\quad n_{j}''={\frac {J_{j}}{\sum {J_{k}}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle n_{i}''={\frac {J_{i}}{\sum {J_{k}}}},\quad n_{j}''={\frac {J_{j}}{\sum {J_{k}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/65b125e389a588744f7f95cac2cb1bd240deb111" style="vertical-align: -2.671ex; width:26.729ex; height:6.343ex;"/></span></dd></dl>
+<p>In the case of a binary mixture, the concentration of species i across the membrane:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n_{i}''={\frac {J_{i}}{J_{i}+J_{j}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>J</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mrow>
+<msub>
+<mi>J</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>J</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n_{i}''={\frac {J_{i}}{J_{i}+J_{j}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle n_{i}''={\frac {J_{i}}{J_{i}+J_{j}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5402b152e080554cc639f14048cbbd09d91f3740" style="vertical-align: -2.505ex; width:13.597ex; height:5.843ex;"/></span></dd></dl>
+<p>This can be further expanded to obtain an expression of the form:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n_{i}''=n_{i}''(\phi ,\alpha _{ij},n_{i}^{'})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo>=</mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mi>ϕ<!-- ϕ --></mi>
+<mo>,</mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mi>j</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi></mi>
+<mo>′</mo>
+</msup>
+</mrow>
+</msubsup>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n_{i}''=n_{i}''(\phi ,\alpha _{ij},n_{i}^{'})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle n_{i}''=n_{i}''(\phi ,\alpha _{ij},n_{i}^{'})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/57a16a157f4f672acce5dfda5c19af7d64f29152" style="vertical-align: -1.005ex; width:18.584ex; height:3.343ex;"/></span></dd></dl>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n_{i}''={\frac {J_{i}}{J_{i}+J_{j}}}={\frac {P_{i}(p_{i}'-p_{i}'')}{P_{i}(p_{i}'-p_{i}'')+P_{j}(n_{j}'-{\frac {1}{\phi }}n_{j}'')}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>J</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mrow>
+<msub>
+<mi>J</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>J</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<msubsup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<msubsup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ϕ<!-- ϕ --></mi>
+</mfrac>
+</mrow>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n_{i}''={\frac {J_{i}}{J_{i}+J_{j}}}={\frac {P_{i}(p_{i}'-p_{i}'')}{P_{i}(p_{i}'-p_{i}'')+P_{j}(n_{j}'-{\frac {1}{\phi }}n_{j}'')}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle n_{i}''={\frac {J_{i}}{J_{i}+J_{j}}}={\frac {P_{i}(p_{i}'-p_{i}'')}{P_{i}(p_{i}'-p_{i}'')+P_{j}(n_{j}'-{\frac {1}{\phi }}n_{j}'')}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f84cd1b1373269c9cdfa4cb8e118b34426545b0a" style="vertical-align: -3.838ex; width:45.293ex; height:7.843ex;"/></span></dd></dl>
+<p>Using the relations:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p_{i}'=p'n_{i}',\quad p_{j}'=p'n_{j}'={\frac {p'}{\phi }}n_{i}'}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>=</mo>
+<msup>
+<mi>p</mi>
+<mo>′</mo>
+</msup>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>,</mo>
+<mspace width="1em"></mspace>
+<msubsup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>=</mo>
+<msup>
+<mi>p</mi>
+<mo>′</mo>
+</msup>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>p</mi>
+<mo>′</mo>
+</msup>
+<mi>ϕ<!-- ϕ --></mi>
+</mfrac>
+</mrow>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p_{i}'=p'n_{i}',\quad p_{j}'=p'n_{j}'={\frac {p'}{\phi }}n_{i}'}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p_{i}'=p'n_{i}',\quad p_{j}'=p'n_{j}'={\frac {p'}{\phi }}n_{i}'}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6e28d89d4f7f72d342c14198d407d93917187dae" style="vertical-align: -2.338ex; margin-left: -0.089ex; width:29.881ex; height:6.009ex;"/></span></dd></dl>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle p_{i}''=p''n_{i}',\quad p_{j}''=p''n_{j}''={\frac {p'}{\phi }}n_{i}''}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo>=</mo>
+<msup>
+<mi>p</mi>
+<mo>″</mo>
+</msup>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>,</mo>
+<mspace width="1em"></mspace>
+<msubsup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo>=</mo>
+<msup>
+<mi>p</mi>
+<mo>″</mo>
+</msup>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>p</mi>
+<mo>′</mo>
+</msup>
+<mi>ϕ<!-- ϕ --></mi>
+</mfrac>
+</mrow>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p_{i}''=p''n_{i}',\quad p_{j}''=p''n_{j}''={\frac {p'}{\phi }}n_{i}''}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle p_{i}''=p''n_{i}',\quad p_{j}''=p''n_{j}''={\frac {p'}{\phi }}n_{i}''}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/094ce1640d0dc46d4b5d8b412b4cb7818dea1e16" style="vertical-align: -2.338ex; margin-left: -0.089ex; width:31.916ex; height:6.009ex;"/></span></dd></dl>
+<p>The expression can be rewritten as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n_{i}''={\frac {P_{i}p'(n_{i}'-{\frac {1}{\phi }}n_{i}'')}{P_{i}p'(n_{i}'-{\frac {1}{\phi }}n_{i}'')+P_{j}p'(n_{j}'-{\frac {1}{\phi }}n_{j}'')}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msup>
+<mi>p</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ϕ<!-- ϕ --></mi>
+</mfrac>
+</mrow>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msup>
+<mi>p</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ϕ<!-- ϕ --></mi>
+</mfrac>
+</mrow>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<msup>
+<mi>p</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ϕ<!-- ϕ --></mi>
+</mfrac>
+</mrow>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n_{i}''={\frac {P_{i}p'(n_{i}'-{\frac {1}{\phi }}n_{i}'')}{P_{i}p'(n_{i}'-{\frac {1}{\phi }}n_{i}'')+P_{j}p'(n_{j}'-{\frac {1}{\phi }}n_{j}'')}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle n_{i}''={\frac {P_{i}p'(n_{i}'-{\frac {1}{\phi }}n_{i}'')}{P_{i}p'(n_{i}'-{\frac {1}{\phi }}n_{i}'')+P_{j}p'(n_{j}'-{\frac {1}{\phi }}n_{j}'')}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ef3cab7fccc22c3e4dc7c60f4c95e871faec499b" style="vertical-align: -3.838ex; width:40.203ex; height:8.843ex;"/></span></dd></dl>
+<p>Then using <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n_{j}'=1-n_{i}'\quad and\quad n_{j}''=1-n_{i}''}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>=</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mspace width="1em"></mspace>
+<mi>a</mi>
+<mi>n</mi>
+<mi>d</mi>
+<mspace width="1em"></mspace>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo>=</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n_{j}'=1-n_{i}'\quad and\quad n_{j}''=1-n_{i}''}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle n_{j}'=1-n_{i}'\quad and\quad n_{j}''=1-n_{i}''}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c8aae30e43361c1fa0d5af0bd7c0efc75d25401a" style="vertical-align: -1.338ex; width:32.251ex; height:3.176ex;"/></span>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n_{i}''={\frac {P_{i}p'(n_{i}'-{\frac {1}{\phi }}n_{i}'')}{P_{i}p'(n_{i}'-{\frac {1}{\phi }}n_{i}'')+P_{j}p'((1-n_{i}')-{\frac {1}{\phi }}(1-n_{i}''))}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msup>
+<mi>p</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ϕ<!-- ϕ --></mi>
+</mfrac>
+</mrow>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msup>
+<mi>p</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ϕ<!-- ϕ --></mi>
+</mfrac>
+</mrow>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<msup>
+<mi>p</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ϕ<!-- ϕ --></mi>
+</mfrac>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n_{i}''={\frac {P_{i}p'(n_{i}'-{\frac {1}{\phi }}n_{i}'')}{P_{i}p'(n_{i}'-{\frac {1}{\phi }}n_{i}'')+P_{j}p'((1-n_{i}')-{\frac {1}{\phi }}(1-n_{i}''))}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle n_{i}''={\frac {P_{i}p'(n_{i}'-{\frac {1}{\phi }}n_{i}'')}{P_{i}p'(n_{i}'-{\frac {1}{\phi }}n_{i}'')+P_{j}p'((1-n_{i}')-{\frac {1}{\phi }}(1-n_{i}''))}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d27577adf6080e519b97ea525fade5abd2cc50ae" style="vertical-align: -3.838ex; width:51.717ex; height:8.843ex;"/></span></dd></dl>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle (1-\alpha )(n_{i}'')^{2}+(\phi +\phi (\alpha -1)n_{i}'+\alpha -1)n_{i}''-\alpha \phi n_{i}'=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mi>α<!-- α --></mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mi>ϕ<!-- ϕ --></mi>
+<mo>+</mo>
+<mi>ϕ<!-- ϕ --></mi>
+<mo stretchy="false">(</mo>
+<mi>α<!-- α --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>+</mo>
+<mi>α<!-- α --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo>−<!-- − --></mo>
+<mi>α<!-- α --></mi>
+<mi>ϕ<!-- ϕ --></mi>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle (1-\alpha )(n_{i}'')^{2}+(\phi +\phi (\alpha -1)n_{i}'+\alpha -1)n_{i}''-\alpha \phi n_{i}'=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle (1-\alpha )(n_{i}'')^{2}+(\phi +\phi (\alpha -1)n_{i}'+\alpha -1)n_{i}''-\alpha \phi n_{i}'=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/70590ada8dffaa3b38b4ca335e848575f8fe567d" style="vertical-align: -1.005ex; width:55.482ex; height:3.343ex;"/></span> <sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></dd></dl>
+<p>The solution to the above quadratic expression can be expressed as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n_{i}={\frac {-(\phi +\phi (\alpha -1)n_{i}'+\alpha -1)\pm {\sqrt {\phi +\phi (\alpha -1)n_{i}'+\alpha -1)^{2}+4(1-\alpha )\alpha \phi n_{i}'}}}{2(1-\alpha )}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo>−<!-- − --></mo>
+<mo stretchy="false">(</mo>
+<mi>ϕ<!-- ϕ --></mi>
+<mo>+</mo>
+<mi>ϕ<!-- ϕ --></mi>
+<mo stretchy="false">(</mo>
+<mi>α<!-- α --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>+</mo>
+<mi>α<!-- α --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mo>±<!-- ± --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>ϕ<!-- ϕ --></mi>
+<mo>+</mo>
+<mi>ϕ<!-- ϕ --></mi>
+<mo stretchy="false">(</mo>
+<mi>α<!-- α --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>+</mo>
+<mi>α<!-- α --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mn>4</mn>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mi>α<!-- α --></mi>
+<mo stretchy="false">)</mo>
+<mi>α<!-- α --></mi>
+<mi>ϕ<!-- ϕ --></mi>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+</msqrt>
+</mrow>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mi>α<!-- α --></mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n_{i}={\frac {-(\phi +\phi (\alpha -1)n_{i}'+\alpha -1)\pm {\sqrt {\phi +\phi (\alpha -1)n_{i}'+\alpha -1)^{2}+4(1-\alpha )\alpha \phi n_{i}'}}}{2(1-\alpha )}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle n_{i}={\frac {-(\phi +\phi (\alpha -1)n_{i}'+\alpha -1)\pm {\sqrt {\phi +\phi (\alpha -1)n_{i}'+\alpha -1)^{2}+4(1-\alpha )\alpha \phi n_{i}'}}}{2(1-\alpha )}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e110848b72fc6e5296fb26d59a2c68e8e7380b48" style="vertical-align: -2.671ex; width:80.112ex; height:8.509ex;"/></span></dd></dl>
+<p>Finally, an expression for the permeant concentration is obtained by the following:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n_{i}''(\phi \alpha n_{i}')={\frac {\phi }{2}}\left(n_{i}'+{\frac {1}{\phi }}+{\frac {1}{\alpha -1}}-{\sqrt {\left(n_{i}'+{\frac {1}{\phi }}+{\frac {1}{\alpha -1}}\right)^{2}-{\frac {4\alpha n_{i}'}{(\alpha -1)\phi }}}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mi>ϕ<!-- ϕ --></mi>
+<mi>α<!-- α --></mi>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>ϕ<!-- ϕ --></mi>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ϕ<!-- ϕ --></mi>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mi>α<!-- α --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ϕ<!-- ϕ --></mi>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mi>α<!-- α --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>4</mn>
+<mi>α<!-- α --></mi>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+</mrow>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>α<!-- α --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+<mi>ϕ<!-- ϕ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+</msqrt>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n_{i}''(\phi \alpha n_{i}')={\frac {\phi }{2}}\left(n_{i}'+{\frac {1}{\phi }}+{\frac {1}{\alpha -1}}-{\sqrt {\left(n_{i}'+{\frac {1}{\phi }}+{\frac {1}{\alpha -1}}\right)^{2}-{\frac {4\alpha n_{i}'}{(\alpha -1)\phi }}}}\right)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle n_{i}''(\phi \alpha n_{i}')={\frac {\phi }{2}}\left(n_{i}'+{\frac {1}{\phi }}+{\frac {1}{\alpha -1}}-{\sqrt {\left(n_{i}'+{\frac {1}{\phi }}+{\frac {1}{\alpha -1}}\right)^{2}-{\frac {4\alpha n_{i}'}{(\alpha -1)\phi }}}}\right)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/01582bcdde4c82717fb4c18fb0135a232fab281e" style="vertical-align: -3.171ex; width:73.645ex; height:7.676ex;"/></span></dd></dl>
+<p>Along the separation unit, the feed concentration decays with the diffusion across the membrane causing the concentration at the membrane to drop accordingly. As a result, the total permeant flow (q"<sub>out</sub>) results from the integration of the diffusion flow across the membrane from the feed inlet (q'<sub>in</sub>) to feed outlet (q'<sub>out</sub>). A mass balance across a differential length of the separation unit is therefore:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle q'(x)=q'(x+dx)+\int _{x}^{x+dx}q''(x)dx}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>q</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msup>
+<mi>q</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mi>d</mi>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+<mo>+</mo>
+<mi>d</mi>
+<mi>x</mi>
+</mrow>
+</msubsup>
+<msup>
+<mi>q</mi>
+<mo>″</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mi>d</mi>
+<mi>x</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle q'(x)=q'(x+dx)+\int _{x}^{x+dx}q''(x)dx}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle q'(x)=q'(x+dx)+\int _{x}^{x+dx}q''(x)dx}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54419d0c89354ecaa596a07ffd765d7836f72a57" style="vertical-align: -2.338ex; width:36.134ex; height:6.343ex;"/></span></dd></dl>
+<p>where:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle q''(x)=J_{i}(x)+J_{j}(x)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>q</mi>
+<mo>″</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msub>
+<mi>J</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<msub>
+<mi>J</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle q''(x)=J_{i}(x)+J_{j}(x)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle q''(x)=J_{i}(x)+J_{j}(x)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/56818e02171a9f361f8f2a454d652ace62c6eba8" style="vertical-align: -1.005ex; width:21.862ex; height:3.176ex;"/></span></dd></dl>
+<p>Because of the binary nature of the mixture, only one species needs to be evaluated. Prescribing a function n'<sub>i</sub>=n'<sub>i</sub>(x), the species balance can be rewritten as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle q'(x)n'_{i}(x)=q'(x+\Delta x)n'_{i}(x+\Delta x)+\int _{x}^{x+dx}q''(x)dx{\bar {n_{i}''}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>q</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msup>
+<mi>q</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+<mo>+</mo>
+<mi>d</mi>
+<mi>x</mi>
+</mrow>
+</msubsup>
+<msup>
+<mi>q</mi>
+<mo>″</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mi>d</mi>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle q'(x)n'_{i}(x)=q'(x+\Delta x)n'_{i}(x+\Delta x)+\int _{x}^{x+dx}q''(x)dx{\bar {n_{i}''}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle q'(x)n'_{i}(x)=q'(x+\Delta x)n'_{i}(x+\Delta x)+\int _{x}^{x+dx}q''(x)dx{\bar {n_{i}''}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d80c4c9ae4cf2664bc061f0e2404a5d3a82a7db2" style="vertical-align: -2.338ex; width:56.159ex; height:6.343ex;"/></span></dd></dl>
+<p>Where:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \int _{x}^{x+dx}q''(x)dx=\delta q'',\quad {\bar {n_{i}''}}={\frac {n_{i}''(x)+n_{i}''(x+\Delta x)}{2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+<mo>+</mo>
+<mi>d</mi>
+<mi>x</mi>
+</mrow>
+</msubsup>
+<msup>
+<mi>q</mi>
+<mo>″</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mi>d</mi>
+<mi>x</mi>
+<mo>=</mo>
+<mi>δ<!-- δ --></mi>
+<msup>
+<mi>q</mi>
+<mo>″</mo>
+</msup>
+<mo>,</mo>
+<mspace width="1em"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \int _{x}^{x+dx}q''(x)dx=\delta q'',\quad {\bar {n_{i}''}}={\frac {n_{i}''(x)+n_{i}''(x+\Delta x)}{2}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \int _{x}^{x+dx}q''(x)dx=\delta q'',\quad {\bar {n_{i}''}}={\frac {n_{i}''(x)+n_{i}''(x+\Delta x)}{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/618f6377fa36839024e2a08934851695755844c7" style="vertical-align: -2.338ex; width:51.478ex; height:6.343ex;"/></span></dd></dl>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \delta q''={\frac {n'_{i}(x)-n'_{i}(x+\Delta x)}{{\bar {n_{i}''}}-n'_{i}(x+\Delta x)}}q'(x)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>δ<!-- δ --></mi>
+<msup>
+<mi>q</mi>
+<mo>″</mo>
+</msup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>″</mo>
+</msubsup>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mo>′</mo>
+</msubsup>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>+</mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+<msup>
+<mi>q</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \delta q''={\frac {n'_{i}(x)-n'_{i}(x+\Delta x)}{{\bar {n_{i}''}}-n'_{i}(x+\Delta x)}}q'(x)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \delta q''={\frac {n'_{i}(x)-n'_{i}(x+\Delta x)}{{\bar {n_{i}''}}-n'_{i}(x+\Delta x)}}q'(x)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c2a970167807932847825947309780c008a5d37d" style="vertical-align: -3.005ex; width:31.716ex; height:7.009ex;"/></span></dd></dl>
+<p>Lastly, the area required per unit membrane length can be obtained by the following expression:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A={\frac {\delta q''}{J_{i}+J_{j}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>δ<!-- δ --></mi>
+<msup>
+<mi>q</mi>
+<mo>″</mo>
+</msup>
+</mrow>
+<mrow>
+<msub>
+<mi>J</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>J</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A={\frac {\delta q''}{J_{i}+J_{j}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle A={\frac {\delta q''}{J_{i}+J_{j}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c567d08b0a491bc96fe255199ebcb992911b49d5" style="vertical-align: -2.505ex; width:12.808ex; height:6.176ex;"/></span></dd></dl>
+<h2><span class="mw-headline" id="Membrane_Materials_for_Carbon_Capture_in_Flue_Gas_Streams">Membrane Materials for Carbon Capture in Flue Gas Streams</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=3" title="Edit section: Membrane Materials for Carbon Capture in Flue Gas Streams">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The material of the membrane plays an important role in its ability to provide the desired performance characteristics. It is optimal to have a membrane with a high permeability and sufficient selectivity and it is also important to match the membrane properties to that of the system operating conditions (for example pressures and gas composition).
+</p><p>Synthetic membranes are made from a variety of polymers including polyethylene, polyamides, polyimides, cellulose acetate, polysulphone and polydimethylsiloxan.<sup class="reference" id="cite_ref-gas_sep_6-0"><a href="#cite_note-gas_sep-6">[6]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Polymer_Membranes">Polymer Membranes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=4" title="Edit section: Polymer Membranes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a class="mw-redirect" href="/wiki/Polymeric_membranes" title="Polymeric membranes">Polymeric membranes</a> are a common option for use in the capture of CO<sub>2</sub> from flue gas because of the maturity of the technology in a variety of industries, namely petrochemicals. The ideal polymer membrane has both a high <a href="/wiki/Reactivity%E2%80%93selectivity_principle" title="Reactivity–selectivity principle">selectivity</a> and <a href="/wiki/Semipermeable_membrane" title="Semipermeable membrane">permeability</a>. Polymer membranes are examples of systems that are dominated by the solution-diffusion mechanism. The membrane is considered to have holes which the gas can dissolve (solubility) and the molecules can move from one cavity to the other (diffusion).<sup class="reference" id="cite_ref-Smit_3-2"><a href="#cite_note-Smit-3">[3]</a></sup>
+</p><p>It was discovered by Robeson in the early 1990s that polymers with a high selectivity have a low permeability and opposite is true; materials with a low selectivity have a high permeability. This is best illustrated in a Robeson plot where the selectivity is plotted as a function of the CO<sub>2</sub> permeation. In this plot, the upper bound of selectivity is approximately a linear function of the permeability. It was found that the solubility in polymers is mostly constant but the diffusion coefficients vary significantly and this is where the engineering of the material occurs. Somewhat intuitively, the materials with the highest diffusion coefficients have a more open pore structure, thus losing selectivity.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> There are two methods that researchers are using to break the Robeson limit, one of these is the use of glassy polymers whose phase transition and changes in mechanical properties make it appear that the material is absorbing molecules and thus surpasses the upper limit. The second method of pushing the boundaries of the Robeson limit is by the facilitated transport method. As previously stated, the solubility of polymers is typically fairly constant but the facilitated transport method uses a chemical reaction to enhance the permeability of one component without changing the selectivity.<sup class="reference" id="cite_ref-Merkel_9-0"><a href="#cite_note-Merkel-9">[9]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Nanoporous_Membranes">Nanoporous Membranes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=5" title="Edit section: Nanoporous Membranes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:442px;"><a class="image" href="/wiki/File:Microscopic_model_of_a_nanoporous_membrane.jpg"><img alt="" class="thumbimage" data-file-height="360" data-file-width="926" height="171" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Microscopic_model_of_a_nanoporous_membrane.jpg/440px-Microscopic_model_of_a_nanoporous_membrane.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Microscopic_model_of_a_nanoporous_membrane.jpg/660px-Microscopic_model_of_a_nanoporous_membrane.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Microscopic_model_of_a_nanoporous_membrane.jpg/880px-Microscopic_model_of_a_nanoporous_membrane.jpg 2x" width="440"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Microscopic_model_of_a_nanoporous_membrane.jpg" title="Enlarge"></a></div>Microscopic model of a nanoporous membrane. The white open area represents the area the molecule can pass through and the dark blue areas represent the membrane walls. The membrane channels consists of cavities and windows. The energy of the molecules in the cavity is U<sub>c</sub> and the energy of a particle in the window is U<sub>w</sub>.</div></div></div>
+<p>Nanoporous membranes are fundamentally different than polymer-based membranes in that their chemistry is different and that they do not follow the Robeson limit for a variety of reasons. The simplified figure of a nanoporous membrane shows a small portion of an example membrane structure with cavities and windows. The white portion represents the area where the molecule can move and the blue shaded areas represent the walls of the structure. In the engineering of these membranes, the size of the cavity (L<sub>cy</sub> x L<sub>cz</sub>) and window region (L<sub>wy</sub> x L<sub>wz</sub>) can be modified so that the desired permeation is achieved. It has been shown that the permeability of a membrane is the production of adsorption and diffusion. In low loading conditions, the adsorption can be computed by the Henry coefficient.<sup class="reference" id="cite_ref-Smit_3-3"><a href="#cite_note-Smit-3">[3]</a></sup>
+</p><p>If the assumption is made that the energy of a particle does not change when moving through this structure, only the entropy of the molecules changes based on the size of the openings. If we first consider changes the cavity geometry, the larger the cavity, the larger the entropy of the absorbed molecules which thus makes the Henry coefficient larger. For diffusion, an increase in entropy will lead to a decrease in free energy which in turn leads to a decrease in the diffusion coefficient. Conversely, changing the window geometry will primarily effect the diffusion of the molecules and not the Henry coefficient.
+</p><p>In summary, by using the above simplified analysis, it is possible to understand why the upper limit of the Robeson line does not hold for nanostructures. In the analysis, both the diffusion and Henry coefficients can be modified without affecting the permeability of the material which thus can exceed the upper limit for polymer membranes.<sup class="reference" id="cite_ref-Smit_3-4"><a href="#cite_note-Smit-3">[3]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Silica_Membranes">Silica Membranes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=6" title="Edit section: Silica Membranes">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Silica membranes are <a href="/wiki/Mesoporous_material" title="Mesoporous material">mesoporous</a> and can be made with high uniformity (the same structure throughout the membrane). The high porosity of these membranes gives them very high permeabilities. Synthesized membranes have smooth surfaces and can be modified on the surface to drastically improve selectivity. Functionalizing silica membrane surfaces with amine containing molecules (on the surface <a href="/wiki/Silanol" title="Silanol">silanol</a> groups) allows the membranes to separate CO<sub>2</sub> from flue gas streams more effectively.<sup class="reference" id="cite_ref-:0_2-1"><a href="#cite_note-:0-2">[2]</a></sup> Surface functionalization (and thus chemistry) can be tuned to be more efficient for wet flue gas streams as compared to dry flue gas streams.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> While previously, silica membranes were impractical due to their technical scalability and cost (they are very difficult to produce in an economical manner on a large scale), there have been demonstrations of a simple method of producing silica membranes on hollow polymeric supports. These demonstrations indicate that economical materials and methods can effectively separate CO<sub>2</sub> and N<sub>2</sub>.<sup class="reference" id="cite_ref-:1_11-0"><a href="#cite_note-:1-11">[11]</a></sup> Ordered mesoporous silica membranes have shown considerable potential for surface modification that allows for ease of CO<sub>2</sub> separation. Surface functionalization with <a href="/wiki/Amine" title="Amine">amines</a> leads to the reversible formation of <a href="/wiki/Carbamate" title="Carbamate">carbamates</a> (during CO<sub>2</sub> flow), increasing CO<sub>2</sub> selectivity significantly.<sup class="reference" id="cite_ref-:1_11-1"><a href="#cite_note-:1-11">[11]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Zeolite_Membranes">Zeolite Membranes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=7" title="Edit section: Zeolite Membranes">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Zeolite-ZSM-5-vdW.png"><img alt="" class="thumbimage" data-file-height="1420" data-file-width="1876" height="167" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Zeolite-ZSM-5-vdW.png/220px-Zeolite-ZSM-5-vdW.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Zeolite-ZSM-5-vdW.png/330px-Zeolite-ZSM-5-vdW.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Zeolite-ZSM-5-vdW.png/440px-Zeolite-ZSM-5-vdW.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Zeolite-ZSM-5-vdW.png" title="Enlarge"></a></div>A typical zeolite. Thin layers of this crystalline zeolite structure can act as a membrane, since CO<sub>2</sub> can adsorb inside of the pores.</div></div></div>
+<p>Zeolites are crystalline <a href="/wiki/Aluminosilicate" title="Aluminosilicate">aluminosilicates</a> with a regular repeating structure of molecular-sized pores. Zeolite membranes selectively separate molecules based on pore size and polarity and are thus highly tunable to specific gas separation processes. In general, smaller molecules and those with stronger zeolite-<a href="/wiki/Adsorption" title="Adsorption">adsorption</a> properties are adsorbed onto zeolite membranes with larger selectivity. The capacity to discriminate based on both molecular size and adsorption affinity makes zeolite membranes an attractive candidate for CO<sub>2</sub> separation from N<sub>2</sub>, CH<sub>4</sub>, and H<sub>2</sub>.
+</p><p>Scientists have found that the gas-phase enthalpy (heat) of adsorption on zeolites increases as follows: H<sub>2</sub> &lt; CH<sub>4</sub> &lt; N<sub>2</sub> &lt; CO<sub>2</sub>.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> It is generally accepted that CO<sub>2</sub> has the largest adsorption energy because it has the largest <a href="/wiki/Quadrupole" title="Quadrupole">quadrupole moment</a>, thereby increasing its affinity for charged or polar zeolite pores. At low temperatures, zeolite adsorption-capacity is large and the high concentration of adsorbed CO<sub>2</sub> molecules blocks the flow of other gases. Therefore, at lower temperatures, CO<sub>2</sub> selectively permeates through zeolite pores. Several recent research efforts have focused on developing new zeolite membranes that maximize the CO<sub>2</sub> selectivity by taking advantage of the low-temperature blocking phenomena.
+</p><p>Researchers have synthesized Y-type (Si:Al&gt;3) zeolite membranes which achieve room-temperature separation factors of 100 and 21 for CO<sub>2</sub>/N<sub>2</sub> and CO<sub>2</sub>/CH<sub>4</sub> mixtures respectively.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> <a class="external text" href="http://america.iza-structure.org/IZA-SC/framework.php?STC=DDR" rel="nofollow">DDR-type</a> and <a class="external text" href="http://www.acsmaterial.com/sapo-250.html" rel="nofollow">SAPO-34</a> membranes have also shown promise in separating CO<sub>2</sub> and CH<sub>4</sub> at a variety of pressures and feed compositions.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</p>
+<h4><span id="Metal-organic_Framework_.28MOF.29_Membranes"></span><span class="mw-headline" id="Metal-organic_Framework_(MOF)_Membranes">Metal-organic Framework (MOF) Membranes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=8" title="Edit section: Metal-organic Framework (MOF) Membranes">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>There have been advances in <a href="/wiki/Zeolitic_imidazolate_framework" title="Zeolitic imidazolate framework">zeolitic-imidazolate frameworks</a> (ZIFs), a subclass of <a class="mw-redirect" href="/wiki/Metal-organic_framework" title="Metal-organic framework">metal-organic frameworks</a> (MOFs), that have allowed them to be useful for carbon dioxide separation from flue gas streams. Extensive modeling has been performed to demonstrate the value of using MOFs as membranes.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup><sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> MOF materials are adsorption-based, and thus can be tuned to achieve selectivity.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> The drawback to MOF systems is stability in water and other compounds present in flue gas streams. Select materials, such as ZIF-8, have demonstrated stability in water and benzene, contents often present in flue gas mixtures. ZIF-8 can be synthesized as a membrane on a porous alumina support and has proven to be effective at separating CO<sub>2</sub> from flue gas streams. At similar CO<sub>2</sub>/CH<sub>4</sub> selectivity to Y-type zeolite membranes, ZIF-8 membranes achieve unprecedented CO<sub>2</sub> permeance, two orders of magnitude above the previous standard.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:CMR1.PNG"><img alt="" class="thumbimage" data-file-height="369" data-file-width="563" height="144" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/CMR1.PNG/220px-CMR1.PNG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/CMR1.PNG/330px-CMR1.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/CMR1.PNG/440px-CMR1.PNG 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:CMR1.PNG" title="Enlarge"></a></div>Structure of a perovskite. A membrane would consist of a thin layer of the perovskite structure.</div></div></div>
+<h4><span class="mw-headline" id="Perovskite_Membranes">Perovskite Membranes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=9" title="Edit section: Perovskite Membranes">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Perovskite" title="Perovskite">Perovskite</a> are mixed metal oxide with a well-defined cubic structure and a general formula of ABO<sub>3</sub>, where A is an <a href="/wiki/Alkaline_earth_metal" title="Alkaline earth metal">alkaline earth</a> or <a href="/wiki/Lanthanide" title="Lanthanide">lanthanide</a> element and B is a <a href="/wiki/Transition_metal" title="Transition metal">transition metal</a>. These materials are attractive for CO<sub>2</sub> separation because of the tunability of the metal sites as well as their stabilities at elevated temperatures.
+</p><p>The separation of CO<sub>2</sub> from N<sub>2</sub> was investigated with an α-alumina membrane impregnated with BaTiO<sub>3</sub>.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> It was found that adsorption of CO<sub>2</sub> was favorable at high temperatures due to an endothermic interaction between CO<sub>2</sub> and the material, promoting mobile CO<sub>2</sub> that enhanced CO<sub>2</sub> adsorption-desorption rate and surface diffusion. The experimental separation factor of CO<sub>2</sub> to N<sub>2</sub> was found to be 1.1-1.2 at 100<sup>o</sup>C to 500<sup>o</sup>C, which is higher than the separation factor limit of 0.8 predicted by <a href="/wiki/Knudsen_diffusion" title="Knudsen diffusion">Knudsen diffusion</a>. Though the separation factor was low due to pinholes observed in the membrane, this demonstrates the potential of perovskite materials in their selective surface chemistry for CO<sub>2</sub> separation.
+</p>
+<h2><span class="mw-headline" id="Other_Membrane_Technologies">Other Membrane Technologies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=10" title="Edit section: Other Membrane Technologies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In special cases other materials can be utilized; for example, <b>palladium membranes</b> permit transport solely of hydrogen.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> In addition to palladium membranes (which are typically palladium silver alloys to stop embrittlement of the alloy at lower temperature) there is also a significant research effort looking into finding non-precious metal alternatives. Although slow kinetics of exchange on the surface of the membrane and tendency for the membranes to crack or disintegrate after a number of duty cycles or during cooling are problems yet to be fully solved.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Construction">Construction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=11" title="Edit section: Construction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Membranes are typically contained in one of three modules:<sup class="reference" id="cite_ref-gas_sep_6-1"><a href="#cite_note-gas_sep-6">[6]</a></sup>
+</p>
+<ul><li>Hollow fibre bundles in a metal module</li>
+<li>Spiral wound bundles in a metal module</li>
+<li>plate and frame module constructed like a plate and frame heat exchanger</li></ul>
+<h2><span class="mw-headline" id="Uses">Uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=12" title="Edit section: Uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Membranes are employed in:<sup class="reference" id="cite_ref-handbook_1-1"><a href="#cite_note-handbook-1">[1]</a></sup>
+</p>
+<ul><li>The separation of <a href="/wiki/Nitrogen_generator#Membrane_technology" title="Nitrogen generator">nitrogen</a> or <a href="/wiki/Oxygen_plant#Membrane_technology" title="Oxygen plant">oxygen</a> from air. (Generally only up to 99.5%)</li>
+<li>Separation of <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> from gases like <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a> and <a href="/wiki/Methane" title="Methane">methane</a></li>
+<li>Recovery of hydrogen from product streams of <a href="/wiki/Ammonia" title="Ammonia">ammonia</a> plants</li>
+<li>Recovery of hydrogen in <a href="/wiki/Oil_refinery" title="Oil refinery">oil refinery</a> processes</li>
+<li>Separation of methane from the other components of <a href="/wiki/Biogas" title="Biogas">biogas</a></li>
+<li><a href="/wiki/Oxygen_concentrator" title="Oxygen concentrator">Enrichment of air by oxygen</a> for medical or metallurgical purposes</li>
+<li>Enrichment of ullage by nitrogen in <a href="/wiki/Inerting_system" title="Inerting system">Inerting systems</a> designed to prevent fuel tank explosions</li>
+<li>Removal of <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a> from <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a> and other gases<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/Air_dryer#Membrane_dryer" title="Air dryer">Membrane driers</a></div></li>
+<li>Removal of <a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">SO<sub>2</sub></a>, <a class="mw-redirect" href="/wiki/Carbon_Dioxide" title="Carbon Dioxide">CO<sub>2</sub></a> and <a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">H<sub>2</sub>S</a> from natural gas (polyamide membranes)</li>
+<li>Removal of <a href="/wiki/Volatility_(chemistry)" title="Volatility (chemistry)">volatile</a> organic liquids (VOL) from air of exhaust streams</li></ul>
+<h2><span class="mw-headline" id="Current_Status_of_CO2_Capture_with_Membranes">Current Status of CO<sub>2</sub> Capture with Membranes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=13" title="Edit section: Current Status of CO2 Capture with Membranes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A great deal of research has been undertaken to utilize membranes instead of absorption or adsorption for carbon capture from flue gas streams, however, no current projects exist that utilize membranes. Process engineering along with new developments in materials have shown that membranes have the greatest potential for low energy penalty and cost compared to competing technologies.<sup class="reference" id="cite_ref-Smit_3-5"><a href="#cite_note-Smit-3">[3]</a></sup><sup class="reference" id="cite_ref-Merkel_9-1"><a href="#cite_note-Merkel-9">[9]</a></sup><sup class="reference" id="cite_ref-Brunetti_23-0"><a href="#cite_note-Brunetti-23">[23]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=14" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Today, membranes are used for commercial separations involving: N<sub>2</sub> from air, H<sub>2</sub> from ammonia in the <a href="/wiki/Haber_process" title="Haber process">Haber-Bosch process</a>, <a href="/wiki/Natural-gas_processing" title="Natural-gas processing">natural gas purification</a>, and tertiary-level <a href="/wiki/Enhanced_oil_recovery" title="Enhanced oil recovery">Enhanced Oil Recovery</a> supply.<sup class="reference" id="cite_ref-Bernardo_24-0"><a href="#cite_note-Bernardo-24">[24]</a></sup>
+</p><p>Single-stage membrane operations involve a single membrane with one selectivity value. Single-stage membranes were first used in natural gas purification, separating CO<sub>2</sub> from methane.<sup class="reference" id="cite_ref-Bernardo_24-1"><a href="#cite_note-Bernardo-24">[24]</a></sup> A disadvantage of single-stage membranes is the loss of product in the permeate due to the constraints imposed by the single selectivity value. Increasing the selectivity reduces the amount of product lost in the permeate, but comes at the cost of requiring a larger pressure difference to process an equivalent amount of a flue stream. In practice, the maximum pressure ratio economically possible is around 5:1.<sup class="reference" id="cite_ref-Baker_25-0"><a href="#cite_note-Baker-25">[25]</a></sup>
+</p><p>To combat the loss of product in the membrane permeate, engineers use “cascade processes” in which the permeate is recompressed and interfaced with additional, higher selectivity membranes.<sup class="reference" id="cite_ref-Bernardo_24-2"><a href="#cite_note-Bernardo-24">[24]</a></sup> The retentate streams can be recycled, which achieves a better yield of product.
+</p>
+<h3><span class="mw-headline" id="Need_for_multi-stage_process">Need for multi-stage process</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=15" title="Edit section: Need for multi-stage process">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Single stage membranes devices are not feasible for obtaining a high concentration of separated material in the <a class="mw-redirect" href="/wiki/Permeate" title="Permeate">permeate</a> stream. This is due to the pressure ratio limit that is economically unrealistic to exceed. Therefore, the use of multi stage membranes is required to concentrate the permeate stream. The use of a second stage allows for less membrane area and power to be used. This is because of the higher concentration that passes the second stage, as well as the lower volume of gas for the pump to process.<sup class="reference" id="cite_ref-Baker_25-1"><a href="#cite_note-Baker-25">[25]</a></sup><sup class="reference" id="cite_ref-Merkel_9-2"><a href="#cite_note-Merkel-9">[9]</a></sup> Other factors, such as adding another stage that uses air to concentrate the stream further reduces cost by increasing concentration within the feed stream.<sup class="reference" id="cite_ref-Merkel_9-3"><a href="#cite_note-Merkel-9">[9]</a></sup> Additional methods such as combining multiple types of separation methods allow for variation in creating economical process designs.
+</p>
+<h3><span class="mw-headline" id="Membrane_Use_in_Hybrid_Processes">Membrane Use in Hybrid Processes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=16" title="Edit section: Membrane Use in Hybrid Processes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Hybrid processes have long standing history with gas separation.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup>  Typically, membranes are integrated into already existing processes such that they can be retrofitted into already existing carbon capture systems.
+</p><p>MTR, Membrane Technology and Research Inc., and <a href="/wiki/University_of_Texas_at_Austin" title="University of Texas at Austin">UT Austin</a> have worked to create hybrid processes, utilizing both absorption and membranes, for CO<sub>2</sub> capture.  First, an <a href="/wiki/Carbon_dioxide_scrubber" title="Carbon dioxide scrubber">absorption</a> column using <a href="/wiki/Piperazine" title="Piperazine">piperazine</a> as a solvent absorbs about half the carbon dioxide in the flue gas, then the use of a membrane results in 90% capture.<sup class="reference" id="cite_ref-Freeman_27-0"><a href="#cite_note-Freeman-27">[27]</a></sup>  A parallel setup is also, with the membrane and absorption processes occurring simultaneously.  Generally, these processes are most effective when the highest content of carbon dioxide enters the amine absorption column. Incorporating hybrid design processes allows for retrofitting into <a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuel</a> power plants.<sup class="reference" id="cite_ref-Freeman_27-1"><a href="#cite_note-Freeman-27">[27]</a></sup>
+</p><p>Hybrid processes can also use <a href="/wiki/Air_separation" title="Air separation">cryogenic distillation</a> and membranes.<sup class="reference" id="cite_ref-Lin_28-0"><a href="#cite_note-Lin-28">[28]</a></sup>  For example, <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> and <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> can be separated, first using cryogenic gas separation, whereby most of the carbon dioxide exits first, then using a membrane process to separate the remaining carbon dioxide, after which it is recycled for further attempts at cryogenic separation.<sup class="reference" id="cite_ref-Lin_28-1"><a href="#cite_note-Lin-28">[28]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Cost_Analysis_of_Current_Membrane_Technology_for_CCS_Relative_to_Well_Established_Techniques">Cost Analysis of Current Membrane Technology for CCS Relative to Well Established Techniques</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=17" title="Edit section: Cost Analysis of Current Membrane Technology for CCS Relative to Well Established Techniques">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Cost limits the pressure ratio in a membrane <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a> separation stage to a value of 5; higher pressure rations eliminate any economic viability for CO<sub>2</sub> capture using membrane processes.<sup class="reference" id="cite_ref-Merkel_9-4"><a href="#cite_note-Merkel-9">[9]</a></sup><sup class="reference" id="cite_ref-Huang_29-0"><a href="#cite_note-Huang-29">[29]</a></sup>  Recent studies have demonstrated that multi-stage CO<sub>2</sub> capture/separation processes using membranes can be economically competitive with older and more common technologies such as amine-based <a href="/wiki/Carbon_dioxide_scrubber" title="Carbon dioxide scrubber">absorption</a>.<sup class="reference" id="cite_ref-Merkel_9-5"><a href="#cite_note-Merkel-9">[9]</a></sup><sup class="reference" id="cite_ref-Lin_28-2"><a href="#cite_note-Lin-28">[28]</a></sup> Currently, both membrane and amine-based absorption processes can be designed to yield a 90% CO<sub>2</sub> capture rate.<sup class="reference" id="cite_ref-Brunetti_23-1"><a href="#cite_note-Brunetti-23">[23]</a></sup><sup class="reference" id="cite_ref-Merkel_9-6"><a href="#cite_note-Merkel-9">[9]</a></sup><sup class="reference" id="cite_ref-Huang_29-1"><a href="#cite_note-Huang-29">[29]</a></sup><sup class="reference" id="cite_ref-Hao_30-0"><a href="#cite_note-Hao-30">[30]</a></sup><sup class="reference" id="cite_ref-Freeman_27-2"><a href="#cite_note-Freeman-27">[27]</a></sup><sup class="reference" id="cite_ref-Lin_28-3"><a href="#cite_note-Lin-28">[28]</a></sup> For <a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">carbon capture</a> at an average 600 MW coal-fired power plant, the cost of CO<sub>2</sub> capture using amine-based absorption is in the $40–100 per ton of CO<sub>2</sub> range, while the cost of CO<sub>2</sub> capture using current membrane technology (including current process design schemes) is about $23 per ton of CO<sub>2</sub>.<sup class="reference" id="cite_ref-Merkel_9-7"><a href="#cite_note-Merkel-9">[9]</a></sup> Additionally, running an amine-based absorption process at an average 600 MW coal-fired power plant consumes about 30% of the energy generated by the power plant, while running a membrane process requires about 16% of the energy generated.<sup class="reference" id="cite_ref-Merkel_9-8"><a href="#cite_note-Merkel-9">[9]</a></sup> CO<sub>2</sub> transport (e.g. to <a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">geologic sequestration</a> sites, or to be used for <a href="/wiki/Enhanced_oil_recovery" title="Enhanced oil recovery">EOR</a>) costs about $2–5 per ton of CO<sub>2</sub>.<sup class="reference" id="cite_ref-Merkel_9-9"><a href="#cite_note-Merkel-9">[9]</a></sup> This cost is the same for all types of CO<sub>2</sub> capture/separation processes such as membrane separation and absorption.<sup class="reference" id="cite_ref-Merkel_9-10"><a href="#cite_note-Merkel-9">[9]</a></sup> In terms of dollars per ton of  captured CO<sub>2</sub>, the least expensive membrane processes being studied at this time are multi-step <a href="/wiki/Countercurrent_exchange" title="Countercurrent exchange">counter-current</a> flow/sweep processes.<sup class="reference" id="cite_ref-Brunetti_23-2"><a href="#cite_note-Brunetti-23">[23]</a></sup><sup class="reference" id="cite_ref-Merkel_9-11"><a href="#cite_note-Merkel-9">[9]</a></sup><sup class="reference" id="cite_ref-Huang_29-2"><a href="#cite_note-Huang-29">[29]</a></sup><sup class="reference" id="cite_ref-Hao_30-1"><a href="#cite_note-Hao-30">[30]</a></sup><sup class="reference" id="cite_ref-Freeman_27-3"><a href="#cite_note-Freeman-27">[27]</a></sup><sup class="reference" id="cite_ref-Lin_28-4"><a href="#cite_note-Lin-28">[28]</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-handbook-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-handbook_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-handbook_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Kerry, Frank (2007). <i>Industrial Gas Handbook: Gas Separation and Purification</i>. CRC Press. pp. 275–280. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780849390050" title="Special:BookSources/9780849390050">9780849390050</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Industrial+Gas+Handbook%3A+Gas+Separation+and+Purification&amp;rft.pages=275-280&amp;rft.pub=CRC+Press&amp;rft.date=2007&amp;rft.isbn=9780849390050&amp;rft.aulast=Kerry&amp;rft.aufirst=Frank&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-:0-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Jang, Kwang-Suk; Kim, Hyung-Ju; Johnson, J. R.; Kim, Wun-gwi; Koros, William J.; Jones, Christopher W.; Nair, Sankar (2011-06-28). <a class="external text" href="https://dx.doi.org/10.1021/cm200939d" rel="nofollow">"Modified Mesoporous Silica Gas Separation Membranes on Polymeric Hollow Fibers"</a>. <i>Chemistry of Materials</i>. <b>23</b> (12): 3025–3028. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fcm200939d" rel="nofollow">10.1021/cm200939d</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0897-4756" rel="nofollow">0897-4756</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemistry+of+Materials&amp;rft.atitle=Modified+Mesoporous+Silica+Gas+Separation+Membranes+on+Polymeric+Hollow+Fibers&amp;rft.volume=23&amp;rft.issue=12&amp;rft.pages=3025-3028&amp;rft.date=2011-06-28&amp;rft_id=info%3Adoi%2F10.1021%2Fcm200939d&amp;rft.issn=0897-4756&amp;rft.aulast=Jang&amp;rft.aufirst=Kwang-Suk&amp;rft.au=Kim%2C+Hyung-Ju&amp;rft.au=Johnson%2C+J.+R.&amp;rft.au=Kim%2C+Wun-gwi&amp;rft.au=Koros%2C+William+J.&amp;rft.au=Jones%2C+Christopher+W.&amp;rft.au=Nair%2C+Sankar&amp;rft_id=https%3A%2F%2Fdx.doi.org%2F10.1021%2Fcm200939d&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Smit-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Smit_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Smit_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Smit_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Smit_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Smit_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Smit_3-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Berend Smit; Jeffrey A. Reimer; Curtis M. Oldenburg; Ian C. Bourg (2014). <i>Introduction to Carbon Capture and Sequestration</i>. Imperial College Press. pp. 281–354. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-78326-328-8" title="Special:BookSources/978-1-78326-328-8">978-1-78326-328-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+Carbon+Capture+and+Sequestration&amp;rft.pages=281-354&amp;rft.pub=Imperial+College+Press&amp;rft.date=2014&amp;rft.isbn=978-1-78326-328-8&amp;rft.au=Berend+Smit&amp;rft.au=Jeffrey+A.+Reimer&amp;rft.au=Curtis+M.+Oldenburg&amp;rft.au=Ian+C.+Bourg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Richard W. Baker (2004). <i>Membrane Technology and Applications</i>. John Wiley &amp; Sons Ltd. pp. 15–21. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-470-85445-6" title="Special:BookSources/0-470-85445-6">0-470-85445-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Membrane+Technology+and+Applications&amp;rft.pages=15-21&amp;rft.pub=John+Wiley+%26+Sons+Ltd&amp;rft.date=2004&amp;rft.isbn=0-470-85445-6&amp;rft.au=Richard+W.+Baker&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Wilcox, Jennifer. <i>Carbon Capture</i>. Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-4939-0125-8" title="Special:BookSources/978-1-4939-0125-8">978-1-4939-0125-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Carbon+Capture&amp;rft.pub=Springer&amp;rft.isbn=978-1-4939-0125-8&amp;rft.aulast=Wilcox&amp;rft.aufirst=Jennifer&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-gas_sep-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-gas_sep_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gas_sep_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Isalski, W. H. (1989). <i>Separation of Gases</i>. Monograph on Cryogenics. <b>5</b>. New York: Oxford University Press. pp. 228–233.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Separation+of+Gases&amp;rft.place=New+York&amp;rft.series=Monograph+on+Cryogenics&amp;rft.pages=228-233&amp;rft.pub=Oxford+University+Press&amp;rft.date=1989&amp;rft.aulast=Isalski&amp;rft.aufirst=W.+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Robeson, L.M. (1991). "Correlation of separation factor versus permeability for polymeric membranes". <i>Journal of Membrane Science</i>. <b>62</b> (165). <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0376-7388%2891%2980060-j" rel="nofollow">10.1016/0376-7388(91)80060-j</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Membrane+Science&amp;rft.atitle=Correlation+of+separation+factor+versus+permeability+for+polymeric+membranes&amp;rft.volume=62&amp;rft.issue=165&amp;rft.date=1991&amp;rft_id=info%3Adoi%2F10.1016%2F0376-7388%2891%2980060-j&amp;rft.aulast=Robeson&amp;rft.aufirst=L.M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Robeson, L.M. (2008). "The upper bound revisited". <i>Journal of Membrane Science</i>. <b>320</b> (390). <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.memsci.2008.04.030" rel="nofollow">10.1016/j.memsci.2008.04.030</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Membrane+Science&amp;rft.atitle=The+upper+bound+revisited&amp;rft.volume=320&amp;rft.issue=390&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1016%2Fj.memsci.2008.04.030&amp;rft.aulast=Robeson&amp;rft.aufirst=L.M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Merkel-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Merkel_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Merkel_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Merkel_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Merkel_9-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Merkel_9-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Merkel_9-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Merkel_9-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Merkel_9-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Merkel_9-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Merkel_9-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Merkel_9-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Merkel_9-11"><sup><i><b>l</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Merkel, Tim C.; Lin, Haiqing; Wei, Xiaotong; Baker, Richard (2010-09-01). <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0376738809007832" rel="nofollow">"Power plant post-combustion carbon dioxide capture: An opportunity for membranes"</a>. <i>Journal of Membrane Science</i>. Membranes and CO2 Separation. <b>359</b> (1–2): 126–139. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.memsci.2009.10.041" rel="nofollow">10.1016/j.memsci.2009.10.041</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Membrane+Science&amp;rft.atitle=Power+plant+post-combustion+carbon+dioxide+capture%3A+An+opportunity+for+membranes&amp;rft.volume=359&amp;rft.issue=1%E2%80%932&amp;rft.pages=126-139&amp;rft.date=2010-09-01&amp;rft_id=info%3Adoi%2F10.1016%2Fj.memsci.2009.10.041&amp;rft.aulast=Merkel&amp;rft.aufirst=Tim+C.&amp;rft.au=Lin%2C+Haiqing&amp;rft.au=Wei%2C+Xiaotong&amp;rft.au=Baker%2C+Richard&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0376738809007832&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Chew, Thiam-Leng; Ahmad, Abdul L.; Bhatia, Subhash (2010-01-15). <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0001868609001092" rel="nofollow">"Ordered mesoporous silica (OMS) as an adsorbent and membrane for separation of carbon dioxide (CO2)"</a>. <i>Advances in Colloid and Interface Science</i>. <b>153</b> (1–2): 43–57. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.cis.2009.12.001" rel="nofollow">10.1016/j.cis.2009.12.001</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Advances+in+Colloid+and+Interface+Science&amp;rft.atitle=Ordered+mesoporous+silica+%28OMS%29+as+an+adsorbent+and+membrane+for+separation+of+carbon+dioxide+%28CO2%29&amp;rft.volume=153&amp;rft.issue=1%E2%80%932&amp;rft.pages=43-57&amp;rft.date=2010-01-15&amp;rft_id=info%3Adoi%2F10.1016%2Fj.cis.2009.12.001&amp;rft.aulast=Chew&amp;rft.aufirst=Thiam-Leng&amp;rft.au=Ahmad%2C+Abdul+L.&amp;rft.au=Bhatia%2C+Subhash&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0001868609001092&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-:1-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Kim, Hyung-Ju; Chaikittisilp, Watcharop; Jang, Kwang-Suk; Didas, Stephanie A.; Johnson, Justin R.; Koros, William J.; Nair, Sankar; Jones, Christopher W. (2015-04-29). <a class="external text" href="https://dx.doi.org/10.1021/ie503781u" rel="nofollow">"Aziridine-Functionalized Mesoporous Silica Membranes on Polymeric Hollow Fibers: Synthesis and Single-Component CO2 and N2 Permeation Properties"</a>. <i>Industrial &amp; Engineering Chemistry Research</i>. <b>54</b> (16): 4407–4413. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fie503781u" rel="nofollow">10.1021/ie503781u</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0888-5885" rel="nofollow">0888-5885</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Industrial+%26+Engineering+Chemistry+Research&amp;rft.atitle=Aziridine-Functionalized+Mesoporous+Silica+Membranes+on+Polymeric+Hollow+Fibers%3A+Synthesis+and+Single-Component+CO2+and+N2+Permeation+Properties&amp;rft.volume=54&amp;rft.issue=16&amp;rft.pages=4407-4413&amp;rft.date=2015-04-29&amp;rft_id=info%3Adoi%2F10.1021%2Fie503781u&amp;rft.issn=0888-5885&amp;rft.aulast=Kim&amp;rft.aufirst=Hyung-Ju&amp;rft.au=Chaikittisilp%2C+Watcharop&amp;rft.au=Jang%2C+Kwang-Suk&amp;rft.au=Didas%2C+Stephanie+A.&amp;rft.au=Johnson%2C+Justin+R.&amp;rft.au=Koros%2C+William+J.&amp;rft.au=Nair%2C+Sankar&amp;rft.au=Jones%2C+Christopher+W.&amp;rft_id=https%3A%2F%2Fdx.doi.org%2F10.1021%2Fie503781u&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Poshusta, Joseph C; Noble, Richard D; Falconer, John L (2001-05-15). <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0376738800006669" rel="nofollow">"Characterization of SAPO-34 membranes by water adsorption"</a>. <i>Journal of Membrane Science</i>. <b>186</b> (1): 25–40. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0376-7388%2800%2900666-9" rel="nofollow">10.1016/S0376-7388(00)00666-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Membrane+Science&amp;rft.atitle=Characterization+of+SAPO-34+membranes+by+water+adsorption&amp;rft.volume=186&amp;rft.issue=1&amp;rft.pages=25-40&amp;rft.date=2001-05-15&amp;rft_id=info%3Adoi%2F10.1016%2FS0376-7388%2800%2900666-9&amp;rft.aulast=Poshusta&amp;rft.aufirst=Joseph+C&amp;rft.au=Noble%2C+Richard+D&amp;rft.au=Falconer%2C+John+L&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0376738800006669&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kusakabe, Katsuki; Kuroda, Takahiro; Murata, Atsushi; Morooka, Shigeharu (1997-03-01). <a class="external text" href="https://dx.doi.org/10.1021/ie960519x" rel="nofollow">"Formation of a Y-Type Zeolite Membrane on a Porous α-Alumina Tube for Gas Separation"</a>. <i>Industrial &amp; Engineering Chemistry Research</i>. <b>36</b> (3): 649–655. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fie960519x" rel="nofollow">10.1021/ie960519x</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0888-5885" rel="nofollow">0888-5885</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Industrial+%26+Engineering+Chemistry+Research&amp;rft.atitle=Formation+of+a+Y-Type+Zeolite+Membrane+on+a+Porous+%CE%B1-Alumina+Tube+for+Gas+Separation&amp;rft.volume=36&amp;rft.issue=3&amp;rft.pages=649-655&amp;rft.date=1997-03-01&amp;rft_id=info%3Adoi%2F10.1021%2Fie960519x&amp;rft.issn=0888-5885&amp;rft.aulast=Kusakabe&amp;rft.aufirst=Katsuki&amp;rft.au=Kuroda%2C+Takahiro&amp;rft.au=Murata%2C+Atsushi&amp;rft.au=Morooka%2C+Shigeharu&amp;rft_id=https%3A%2F%2Fdx.doi.org%2F10.1021%2Fie960519x&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Himeno, Shuji; Tomita, Toshihiro; Suzuki, Kenji; Nakayama, Kunio; Yajima, Kenji; Yoshida, Shuichi (2007-10-01). <a class="external text" href="https://dx.doi.org/10.1021/ie061682n" rel="nofollow">"Synthesis and Permeation Properties of a DDR-Type Zeolite Membrane for Separation of CO2/CH4 Gaseous Mixtures"</a>. <i>Industrial &amp; Engineering Chemistry Research</i>. <b>46</b> (21): 6989–6997. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fie061682n" rel="nofollow">10.1021/ie061682n</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0888-5885" rel="nofollow">0888-5885</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Industrial+%26+Engineering+Chemistry+Research&amp;rft.atitle=Synthesis+and+Permeation+Properties+of+a+DDR-Type+Zeolite+Membrane+for+Separation+of+CO2%2FCH4+Gaseous+Mixtures&amp;rft.volume=46&amp;rft.issue=21&amp;rft.pages=6989-6997&amp;rft.date=2007-10-01&amp;rft_id=info%3Adoi%2F10.1021%2Fie061682n&amp;rft.issn=0888-5885&amp;rft.aulast=Himeno&amp;rft.aufirst=Shuji&amp;rft.au=Tomita%2C+Toshihiro&amp;rft.au=Suzuki%2C+Kenji&amp;rft.au=Nakayama%2C+Kunio&amp;rft.au=Yajima%2C+Kenji&amp;rft.au=Yoshida%2C+Shuichi&amp;rft_id=https%3A%2F%2Fdx.doi.org%2F10.1021%2Fie061682n&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Li, S.; Falconer, J. L.; Noble, R. D. (2006-10-04). <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/adma.200601147/abstract" rel="nofollow">"Improved SAPO-34 Membranes for CO2/CH4 Separations"</a>. <i>Advanced Materials</i>. <b>18</b> (19): 2601–2603. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fadma.200601147" rel="nofollow">10.1002/adma.200601147</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1521-4095" rel="nofollow">1521-4095</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Advanced+Materials&amp;rft.atitle=Improved+SAPO-34+Membranes+for+CO2%2FCH4+Separations&amp;rft.volume=18&amp;rft.issue=19&amp;rft.pages=2601-2603&amp;rft.date=2006-10-04&amp;rft_id=info%3Adoi%2F10.1002%2Fadma.200601147&amp;rft.issn=1521-4095&amp;rft.aulast=Li&amp;rft.aufirst=S.&amp;rft.au=Falconer%2C+J.+L.&amp;rft.au=Noble%2C+R.+D.&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2Fadma.200601147%2Fabstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gurdal, Yeliz; Keskin, Seda (2012-05-30). <a class="external text" href="https://dx.doi.org/10.1021/ie300766s" rel="nofollow">"Atomically Detailed Modeling of Metal Organic Frameworks for Adsorption, Diffusion, and Separation of Noble Gas Mixtures"</a>. <i>Industrial &amp; Engineering Chemistry Research</i>. <b>51</b> (21): 7373–7382. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fie300766s" rel="nofollow">10.1021/ie300766s</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0888-5885" rel="nofollow">0888-5885</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Industrial+%26+Engineering+Chemistry+Research&amp;rft.atitle=Atomically+Detailed+Modeling+of+Metal+Organic+Frameworks+for+Adsorption%2C+Diffusion%2C+and+Separation+of+Noble+Gas+Mixtures&amp;rft.volume=51&amp;rft.issue=21&amp;rft.pages=7373-7382&amp;rft.date=2012-05-30&amp;rft_id=info%3Adoi%2F10.1021%2Fie300766s&amp;rft.issn=0888-5885&amp;rft.aulast=Gurdal&amp;rft.aufirst=Yeliz&amp;rft.au=Keskin%2C+Seda&amp;rft_id=https%3A%2F%2Fdx.doi.org%2F10.1021%2Fie300766s&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Keskin, Seda; Sholl, David S. (2009-01-21). <a class="external text" href="https://dx.doi.org/10.1021/ie8010885" rel="nofollow">"Assessment of a Metal−Organic Framework Membrane for Gas Separations Using Atomically Detailed Calculations: CO2, CH4, N2, H2 Mixtures in MOF-5"</a>. <i>Industrial &amp; Engineering Chemistry Research</i>. <b>48</b> (2): 914–922. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fie8010885" rel="nofollow">10.1021/ie8010885</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0888-5885" rel="nofollow">0888-5885</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Industrial+%26+Engineering+Chemistry+Research&amp;rft.atitle=Assessment+of+a+Metal%E2%88%92Organic+Framework+Membrane+for+Gas+Separations+Using+Atomically+Detailed+Calculations%3A+CO2%2C+CH4%2C+N2%2C+H2+Mixtures+in+MOF-5&amp;rft.volume=48&amp;rft.issue=2&amp;rft.pages=914-922&amp;rft.date=2009-01-21&amp;rft_id=info%3Adoi%2F10.1021%2Fie8010885&amp;rft.issn=0888-5885&amp;rft.aulast=Keskin&amp;rft.aufirst=Seda&amp;rft.au=Sholl%2C+David+S.&amp;rft_id=https%3A%2F%2Fdx.doi.org%2F10.1021%2Fie8010885&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zornoza, Beatriz; Martinez-Joaristi, Alberto; Serra-Crespo, Pablo; Tellez, Carlos; Coronas, Joaquin; Gascon, Jorge; Kapteijn, Freek (2011-09-07). "Functionalized flexible MOFs as fillers in mixed matrix membranes for highly selective separation of CO2 from CH4 at elevated pressures". <i>Chemical Communications (Cambridge, England)</i>. <b>47</b> (33): 9522–9524. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1039%2Fc1cc13431k" rel="nofollow">10.1039/c1cc13431k</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1364-548X" rel="nofollow">1364-548X</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21769350" rel="nofollow">21769350</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemical+Communications+%28Cambridge%2C+England%29&amp;rft.atitle=Functionalized+flexible+MOFs+as+fillers+in+mixed+matrix+membranes+for+highly+selective+separation+of+CO2+from+CH4+at+elevated+pressures&amp;rft.volume=47&amp;rft.issue=33&amp;rft.pages=9522-9524&amp;rft.date=2011-09-07&amp;rft.issn=1364-548X&amp;rft_id=info%3Apmid%2F21769350&amp;rft_id=info%3Adoi%2F10.1039%2Fc1cc13431k&amp;rft.aulast=Zornoza&amp;rft.aufirst=Beatriz&amp;rft.au=Martinez-Joaristi%2C+Alberto&amp;rft.au=Serra-Crespo%2C+Pablo&amp;rft.au=Tellez%2C+Carlos&amp;rft.au=Coronas%2C+Joaquin&amp;rft.au=Gascon%2C+Jorge&amp;rft.au=Kapteijn%2C+Freek&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">Venna, Surendar R.; Carreon, Moises A. (2010-01-13). <a class="external text" href="https://dx.doi.org/10.1021/ja909263x" rel="nofollow">"Highly Permeable Zeolite Imidazolate Framework-8 Membranes for CO2/CH4 Separation"</a>. <i>Journal of the American Chemical Society</i>. <b>132</b> (1): 76–78. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fja909263x" rel="nofollow">10.1021/ja909263x</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0002-7863" rel="nofollow">0002-7863</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=Highly+Permeable+Zeolite+Imidazolate+Framework-8+Membranes+for+CO2%2FCH4+Separation&amp;rft.volume=132&amp;rft.issue=1&amp;rft.pages=76-78&amp;rft.date=2010-01-13&amp;rft_id=info%3Adoi%2F10.1021%2Fja909263x&amp;rft.issn=0002-7863&amp;rft.aulast=Venna&amp;rft.aufirst=Surendar+R.&amp;rft.au=Carreon%2C+Moises+A.&amp;rft_id=https%3A%2F%2Fdx.doi.org%2F10.1021%2Fja909263x&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kusakabe, Katsuki. <a class="external text" href="http://www.sciencedirect.com/science/article/pii/037673889400109X" rel="nofollow">"Separation of CO2 with BaTiO3 membrane prepared by the sol—gel method"</a>. <i>Journal of Membrane Science</i>. <b>95</b>: 171–177. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0376-7388%2894%2900109-X" rel="nofollow">10.1016/0376-7388(94)00109-X</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-05-05</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Membrane+Science&amp;rft.atitle=Separation+of+CO2+with+BaTiO3+membrane+prepared+by+the+sol%E2%80%94gel+method&amp;rft.volume=95&amp;rft.pages=171-177&amp;rft_id=info%3Adoi%2F10.1016%2F0376-7388%2894%2900109-X&amp;rft.aulast=Kusakabe&amp;rft.aufirst=Katsuki&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2F037673889400109X&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation journal">Yun, S.; Ted Oyama, S. (2011). "Correlations in palladium membranes for hydrogen separation: A review". <i>Journal of Membrane Science</i>. <b>375</b>: 28. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.memsci.2011.03.057" rel="nofollow">10.1016/j.memsci.2011.03.057</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Membrane+Science&amp;rft.atitle=Correlations+in+palladium+membranes+for+hydrogen+separation%3A+A+review&amp;rft.volume=375&amp;rft.pages=28&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.1016%2Fj.memsci.2011.03.057&amp;rft.aulast=Yun&amp;rft.aufirst=S.&amp;rft.au=Ted+Oyama%2C+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dolan, Michael D.; Kochanek, Mark A.; Munnings, Christopher N.; McLennan, Keith G.; Viano, David M. (February 2015). "Hydride phase equilibria in V–Ti–Ni alloy membranes". <i>Journal of Alloys and Compounds</i>. <b>622</b>: 276–281. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.jallcom.2014.10.081" rel="nofollow">10.1016/j.jallcom.2014.10.081</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Alloys+and+Compounds&amp;rft.atitle=Hydride+phase+equilibria+in+V%E2%80%93Ti%E2%80%93Ni+alloy+membranes&amp;rft.volume=622&amp;rft.pages=276-281&amp;rft.date=2015-02&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jallcom.2014.10.081&amp;rft.aulast=Dolan&amp;rft.aufirst=Michael+D.&amp;rft.au=Kochanek%2C+Mark+A.&amp;rft.au=Munnings%2C+Christopher+N.&amp;rft.au=McLennan%2C+Keith+G.&amp;rft.au=Viano%2C+David+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Brunetti-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-Brunetti_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Brunetti_23-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Brunetti_23-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Brunetti, A.; Scura, F.; Barbieri, G.; Drioli, E. (2010-09-01). <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0376738809008540" rel="nofollow">"Membrane technologies for CO2 separation"</a>. <i>Journal of Membrane Science</i>. Membranes and CO2 Separation. <b>359</b> (1–2): 115–125. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.memsci.2009.11.040" rel="nofollow">10.1016/j.memsci.2009.11.040</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Membrane+Science&amp;rft.atitle=Membrane+technologies+for+CO2+separation&amp;rft.volume=359&amp;rft.issue=1%E2%80%932&amp;rft.pages=115-125&amp;rft.date=2010-09-01&amp;rft_id=info%3Adoi%2F10.1016%2Fj.memsci.2009.11.040&amp;rft.aulast=Brunetti&amp;rft.aufirst=A.&amp;rft.au=Scura%2C+F.&amp;rft.au=Barbieri%2C+G.&amp;rft.au=Drioli%2C+E.&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0376738809008540&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Bernardo-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bernardo_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bernardo_24-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Bernardo_24-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Bernardo P., Clarizia G. (2013). <a class="external text" href="https://pdfs.semanticscholar.org/af85/934fa668a312d3e71c284ced478c12edfd16.pdf" rel="nofollow">"30 Years of Membrane Technology for Gas Separation"</a> <span class="cs1-format">(PDF)</span>. <i>The Italian Association of Chemical Engineering</i>. <b>32</b>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Italian+Association+of+Chemical+Engineering&amp;rft.atitle=30+Years+of+Membrane+Technology+for+Gas+Separation&amp;rft.volume=32&amp;rft.date=2013&amp;rft.au=Bernardo+P.%2C+Clarizia+G.&amp;rft_id=https%3A%2F%2Fpdfs.semanticscholar.org%2Faf85%2F934fa668a312d3e71c284ced478c12edfd16.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Baker-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-Baker_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Baker_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Baker, Richard W. (2002-03-01). <a class="external text" href="https://dx.doi.org/10.1021/ie0108088" rel="nofollow">"Future Directions of Membrane Gas Separation Technology"</a>. <i>Industrial &amp; Engineering Chemistry Research</i>. <b>41</b> (6): 1393–1411. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fie0108088" rel="nofollow">10.1021/ie0108088</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0888-5885" rel="nofollow">0888-5885</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Industrial+%26+Engineering+Chemistry+Research&amp;rft.atitle=Future+Directions+of+Membrane+Gas+Separation+Technology&amp;rft.volume=41&amp;rft.issue=6&amp;rft.pages=1393-1411&amp;rft.date=2002-03-01&amp;rft_id=info%3Adoi%2F10.1021%2Fie0108088&amp;rft.issn=0888-5885&amp;rft.aulast=Baker&amp;rft.aufirst=Richard+W.&amp;rft_id=https%3A%2F%2Fdx.doi.org%2F10.1021%2Fie0108088&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bernardo P., Clarizia G (2013). <a class="external text" href="https://pdfs.semanticscholar.org/af85/934fa668a312d3e71c284ced478c12edfd16.pdf" rel="nofollow">"30 Years of Membrane Technology for Gas Separation"</a> <span class="cs1-format">(PDF)</span>. <i>The Italian Association of Chemical Engineering</i>. <b>32</b>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Italian+Association+of+Chemical+Engineering&amp;rft.atitle=30+Years+of+Membrane+Technology+for+Gas+Separation&amp;rft.volume=32&amp;rft.date=2013&amp;rft.au=Bernardo+P.%2C+Clarizia+G&amp;rft_id=https%3A%2F%2Fpdfs.semanticscholar.org%2Faf85%2F934fa668a312d3e71c284ced478c12edfd16.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Freeman-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-Freeman_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Freeman_27-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Freeman_27-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Freeman_27-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Brice Freeman, Pingjiao Hao, Richard Baker, Jay Kniep, Eric Chen, Junyuan Ding, Yue Zhang Gary T. Rochelle. <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S1876610214018803?via=ihub" rel="nofollow">"Hybrid Membrane-absorption CO2 Capture Process"</a>. <i>Energy Procedia</i>. <b>63</b>: 605–613. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.egypro.2014.11.065" rel="nofollow">10.1016/j.egypro.2014.11.065</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-28</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Energy+Procedia&amp;rft.atitle=Hybrid+Membrane-absorption+CO2+Capture+Process&amp;rft.volume=63&amp;rft.pages=605-613&amp;rft_id=info%3Adoi%2F10.1016%2Fj.egypro.2014.11.065&amp;rft.au=Brice+Freeman%2C+Pingjiao+Hao%2C+Richard+Baker%2C+Jay+Kniep%2C+Eric+Chen%2C+Junyuan+Ding%2C+Yue+Zhang+Gary+T.+Rochelle.&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1876610214018803%3Fvia%3Dihub&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>) </span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Lin-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lin_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lin_28-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Lin_28-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Lin_28-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Lin_28-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Lin, Haiqing; He, Zhenjie; Sun, Zhen; Kniep, Jay; Ng, Alvin; Baker, Richard W.; Merkel, Timothy C. (2015-11-01). <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0376738815001635" rel="nofollow">"CO2-selective membranes for hydrogen production and CO2 capture – Part II: Techno-economic analysis"</a>. <i>Journal of Membrane Science</i>. <b>493</b>: 794–806. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.memsci.2015.02.042" rel="nofollow">10.1016/j.memsci.2015.02.042</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Membrane+Science&amp;rft.atitle=CO2-selective+membranes+for+hydrogen+production+and+CO2+capture+%E2%80%93+Part+II%3A+Techno-economic+analysis&amp;rft.volume=493&amp;rft.pages=794-806&amp;rft.date=2015-11-01&amp;rft_id=info%3Adoi%2F10.1016%2Fj.memsci.2015.02.042&amp;rft.aulast=Lin&amp;rft.aufirst=Haiqing&amp;rft.au=He%2C+Zhenjie&amp;rft.au=Sun%2C+Zhen&amp;rft.au=Kniep%2C+Jay&amp;rft.au=Ng%2C+Alvin&amp;rft.au=Baker%2C+Richard+W.&amp;rft.au=Merkel%2C+Timothy+C.&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0376738815001635&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Huang-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-Huang_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Huang_29-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Huang_29-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Huang, Yu; Merkel, Tim C.; Baker, Richard W. (2014-08-01). <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S037673881400194X" rel="nofollow">"Pressure ratio and its impact on membrane gas separation processes"</a>. <i>Journal of Membrane Science</i>. <b>463</b>: 33–40. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.memsci.2014.03.016" rel="nofollow">10.1016/j.memsci.2014.03.016</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Membrane+Science&amp;rft.atitle=Pressure+ratio+and+its+impact+on+membrane+gas+separation+processes&amp;rft.volume=463&amp;rft.pages=33-40&amp;rft.date=2014-08-01&amp;rft_id=info%3Adoi%2F10.1016%2Fj.memsci.2014.03.016&amp;rft.aulast=Huang&amp;rft.aufirst=Yu&amp;rft.au=Merkel%2C+Tim+C.&amp;rft.au=Baker%2C+Richard+W.&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS037673881400194X&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Hao-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hao_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hao_30-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Hao, Pingjiao; Wijmans, J. G.; Kniep, Jay; Baker, Richard W. (2014-07-15). <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0376738814002257" rel="nofollow">"Gas/gas membrane contactors – An emerging membrane unit operation"</a>. <i>Journal of Membrane Science</i>. <b>462</b>: 131–138. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.memsci.2014.03.039" rel="nofollow">10.1016/j.memsci.2014.03.039</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Membrane+Science&amp;rft.atitle=Gas%2Fgas+membrane+contactors+%E2%80%93+An+emerging+membrane+unit+operation&amp;rft.volume=462&amp;rft.pages=131-138&amp;rft.date=2014-07-15&amp;rft_id=info%3Adoi%2F10.1016%2Fj.memsci.2014.03.039&amp;rft.aulast=Hao&amp;rft.aufirst=Pingjiao&amp;rft.au=Wijmans%2C+J.+G.&amp;rft.au=Kniep%2C+Jay&amp;rft.au=Baker%2C+Richard+W.&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0376738814002257&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<ul><li><cite class="citation book">Vieth, W.R. (1991). <i>Diffusion in and through Polymers</i>. Munich: Hanser Verlag. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9783446155749" title="Special:BookSources/9783446155749">9783446155749</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Diffusion+in+and+through+Polymers&amp;rft.pub=Munich%3A+Hanser+Verlag&amp;rft.date=1991&amp;rft.isbn=9783446155749&amp;rft.aulast=Vieth&amp;rft.aufirst=W.R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMembrane+gas+separation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Membrane_gas_separation&amp;action=edit&amp;section=19" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Barrer" title="Barrer">Barrer</a></li>
+<li><a href="/wiki/Industrial_gas" title="Industrial gas">Industrial gas</a></li>
+<li><a href="/wiki/Primary_Life_Support_System" title="Primary Life Support System">Primary Life Support System</a></li>
+<li><a href="/wiki/Nitrogen_generator#Membrane_technology" title="Nitrogen generator">Membrane technology for nitrogen generation</a></li></ul>
+<div aria-labelledby="Transport_of_hydrocarbon_fuels" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Fuel_Transport" title="Template:Fuel Transport"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Fuel_Transport" title="Template talk:Fuel Transport"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Fuel_Transport&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Transport_of_hydrocarbon_fuels" style="font-size:114%;margin:0 4em">Transport of <a href="/wiki/Hydrocarbon" title="Hydrocarbon">hydrocarbon</a> fuels</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Oil" title="Oil">Oil</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Oil_tanker" title="Oil tanker">Oil tanker</a></li>
+<li><a href="/wiki/Oil_terminal" title="Oil terminal">Oil terminal</a></li>
+<li><a href="/wiki/Tank_car" title="Tank car">Tank car</a></li>
+<li><a href="/wiki/Tank_truck" title="Tank truck">Tank truck</a></li>
+<li><a href="/wiki/List_of_oil_pipelines" title="List of oil pipelines">List of oil pipelines</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Liquefied_natural_gas" title="Liquefied natural gas">LNG</a> and <a href="/wiki/Liquefied_petroleum_gas" title="Liquefied petroleum gas">LPG</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/LNG_carrier" title="LNG carrier">LNG carrier</a>
+<ul><li><small><a href="/wiki/Regasification" title="Regasification">Regasification</a></small></li>
+<li><small><a href="/wiki/Liquefaction_of_gases" title="Liquefaction of gases">Liquefaction</a></small></li>
+<li><small><a href="/wiki/Gas_separation" title="Gas separation">Gas separation</a></small></li></ul></li>
+<li><a href="/wiki/Natural_gas_storage" title="Natural gas storage">Natural gas storage</a></li>
+<li><a href="/wiki/Black_powder_in_gas_pipelines" title="Black powder in gas pipelines">Black powder in gas pipelines</a></li>
+<li><a href="/wiki/List_of_natural_gas_pipelines" title="List of natural gas pipelines">List of natural gas pipelines</a></li>
+<li><a href="/wiki/List_of_LNG_terminals" title="List of LNG terminals">List of LNG terminals</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Coal" title="Coal">Coal</a>/Misc.</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Industrial_railway" title="Industrial railway">Industrial railway</a></li>
+<li><a href="/wiki/Intermodal_freight_transport" title="Intermodal freight transport">Intermodal freight transport</a></li>
+<li><a href="/wiki/Syngas" title="Syngas">Syngas</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2195
+Cached time: 20180929141907
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.572 seconds
+Real time usage: 0.661 seconds
+Preprocessor visited node count: 2061/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 70325/2097152 bytes
+Template argument size: 87/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 96288/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.310/10.000 seconds
+Lua memory usage: 3.6 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  441.526      1 -total
+ 87.04%  384.296      1 Template:Reflist
+ 54.02%  238.498     25 Template:Cite_journal
+ 21.38%   94.420      6 Template:Cite_book
+  4.42%   19.496      1 Template:Further
+  3.13%   13.820      1 Template:Fuel_Transport
+  2.66%   11.762      1 Template:Navbox
+  0.56%    2.491      1 Template:Main_other
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1569089-0!canonical!math=5 and timestamp 20180929141906 and revision id 859267591
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Membrane_gas_separation&amp;oldid=859267591">https://en.wikipedia.org/w/index.php?title=Membrane_gas_separation&amp;oldid=859267591</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Separation_processes" title="Category:Separation processes">Separation processes</a></li><li><a href="/wiki/Category:Gas_technologies" title="Category:Gas technologies">Gas technologies</a></li><li><a href="/wiki/Category:Membrane_technology" title="Category:Membrane technology">Membrane technology</a></li><li><a href="/wiki/Category:Industrial_gases" title="Category:Industrial gases">Industrial gases</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Membrane+gas+separation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Membrane+gas+separation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Membrane_gas_separation" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Membrane_gas_separation" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Membrane_gas_separation">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Membrane_gas_separation&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Membrane_gas_separation&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Membrane_gas_separation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Membrane_gas_separation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Membrane_gas_separation&amp;oldid=859267591" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Membrane_gas_separation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5526366" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Membrane_gas_separation&amp;id=859267591" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Membrane+gas+separation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Membrane+gas+separation&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Membrane_gas_separation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Membrane_gas_separation" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Gastrennung#Membranverfahren" hreflang="de" lang="de" title="Gastrennung – German">Deutsch</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5526366#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 12 September 2018, at 22:17<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Membrane_gas_separation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.572","walltime":"0.661","ppvisitednodes":{"value":2061,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":70325,"limit":2097152},"templateargumentsize":{"value":87,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":96288,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  441.526      1 -total"," 87.04%  384.296      1 Template:Reflist"," 54.02%  238.498     25 Template:Cite_journal"," 21.38%   94.420      6 Template:Cite_book","  4.42%   19.496      1 Template:Further","  3.13%   13.820      1 Template:Fuel_Transport","  2.66%   11.762      1 Template:Navbox","  0.56%    2.491      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.310","limit":"10.000"},"limitreport-memusage":{"value":3780022,"limit":52428800}},"cachereport":{"origin":"mw2195","timestamp":"20180929141907","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw2242"});});</script>
+</body>
+</html>

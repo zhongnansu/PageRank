@@ -1,0 +1,1158 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Radiative forcing - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Radiative_forcing","wgTitle":"Radiative forcing","wgCurRevisionId":858326271,"wgRevisionId":858326271,"wgArticleId":467147,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with inconsistent citation formats","CS1 maint: Explicit use of et al.","All articles lacking reliable references","Articles lacking reliable references from February 2018","Climate forcing","Atmospheric radiation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Radiative_forcing","wgRelevantArticleId":467147,"wgRequestId":"W8HXpQpAMFkAAJ6Cn74AAABL","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1463606","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/9/92/Earth%E2%80%99s_Energy_Budget_Incoming_Solar_Radiation_NASA.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Radiative_forcing" rel="alternate"/>
+<link href="/w/index.php?title=Radiative_forcing&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Radiative_forcing&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Radiative_forcing" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Radiative_forcing rootpage-Radiative_forcing skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Radiative forcing</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Earth%E2%80%99s_Energy_Budget_Incoming_Solar_Radiation_NASA.jpg"><img alt="" class="thumbimage" data-file-height="413" data-file-width="720" height="172" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Earth%E2%80%99s_Energy_Budget_Incoming_Solar_Radiation_NASA.jpg/300px-Earth%E2%80%99s_Energy_Budget_Incoming_Solar_Radiation_NASA.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Earth%E2%80%99s_Energy_Budget_Incoming_Solar_Radiation_NASA.jpg/450px-Earth%E2%80%99s_Energy_Budget_Incoming_Solar_Radiation_NASA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Earth%E2%80%99s_Energy_Budget_Incoming_Solar_Radiation_NASA.jpg/600px-Earth%E2%80%99s_Energy_Budget_Incoming_Solar_Radiation_NASA.jpg 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Earth%E2%80%99s_Energy_Budget_Incoming_Solar_Radiation_NASA.jpg" title="Enlarge"></a></div>Incoming solar radiation</div></div></div>
+<p><b>Radiative forcing</b> or <b>climate forcing</b> is the difference between <a class="mw-redirect" href="/wiki/Insolation" title="Insolation">insolation</a> (<a href="/wiki/Sunlight" title="Sunlight">sunlight</a>) absorbed by the Earth and energy radiated back to space.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> The influences that cause changes to the Earth’s climate system altering Earth’s radiative equilibrium, forcing temperatures to rise or fall, are called climate forcings.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> Positive radiative forcing means Earth receives more incoming energy from sunlight than it radiates to space. This net gain of energy will cause warming. Conversely, negative radiative forcing means that Earth loses more energy to space than it receives from the sun, which produces cooling.
+</p><p>Typically, radiative forcing is quantified at the <a href="/wiki/Tropopause" title="Tropopause">tropopause</a> or at the top of the atmosphere (often accounting for rapid adjustments in temperature) in units of <a href="/wiki/Watt" title="Watt">watts</a> per square <a class="mw-redirect" href="/wiki/Meter" title="Meter">meter</a> of the Earth's surface. Positive forcing (incoming energy exceeding outgoing energy) warms the system, while negative forcing (outgoing energy exceeding incoming energy) cools it. Causes of radiative forcing include changes in <a href="/wiki/Solar_irradiance" title="Solar irradiance">insolation</a> and the <a class="mw-redirect" href="/wiki/Concentrations" title="Concentrations">concentrations</a> of <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">radiatively active gases</a>, commonly known as <a class="mw-redirect" href="/wiki/Greenhouse_gases" title="Greenhouse gases">greenhouse gases</a>, and <a href="/wiki/Aerosol" title="Aerosol">aerosols</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Radiation_balance"><span class="tocnumber">1</span> <span class="toctext">Radiation balance</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#IPCC_usage"><span class="tocnumber">2</span> <span class="toctext">IPCC usage</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Climate_sensitivity"><span class="tocnumber">3</span> <span class="toctext">Climate sensitivity</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Sample_calculations"><span class="tocnumber">4</span> <span class="toctext">Sample calculations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Solar_forcing"><span class="tocnumber">4.1</span> <span class="toctext">Solar forcing</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Forcing_due_to_atmospheric_gas"><span class="tocnumber">4.2</span> <span class="toctext">Forcing due to atmospheric gas</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Related_measures"><span class="tocnumber">5</span> <span class="toctext">Related measures</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#History"><span class="tocnumber">6</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Radiation_balance">Radiation balance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiative_forcing&amp;action=edit&amp;section=1" title="Edit section: Radiation balance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:502px;"><a class="image" href="/wiki/File:CO2_H2O_absorption_atmospheric_gases_unique_pattern_energy_wavelengths_of_energy_transparent_to_others.png"><img alt="" class="thumbimage" data-file-height="107" data-file-width="720" height="74" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/CO2_H2O_absorption_atmospheric_gases_unique_pattern_energy_wavelengths_of_energy_transparent_to_others.png/500px-CO2_H2O_absorption_atmospheric_gases_unique_pattern_energy_wavelengths_of_energy_transparent_to_others.png" srcset="//upload.wikimedia.org/wikipedia/commons/5/57/CO2_H2O_absorption_atmospheric_gases_unique_pattern_energy_wavelengths_of_energy_transparent_to_others.png 1.5x" width="500"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:CO2_H2O_absorption_atmospheric_gases_unique_pattern_energy_wavelengths_of_energy_transparent_to_others.png" title="Enlarge"></a></div>Atmospheric gases only absorb some wavelengths of energy but are transparent to others. The absorption patterns of water vapor (blue peaks) and carbon dioxide (pink peaks) overlap in some wavelengths. Carbon dioxide is not as strong a greenhouse gas as water vapor, but it absorbs energy in wavelengths (12-15 micrometers) that water vapor does not, partially closing the “window” through which heat radiated by the surface would normally escape to space. (Illustration NASA, Robert Rohde)<sup class="reference" id="cite_ref-NASA_climate_forcings_3-0"><a href="#cite_note-NASA_climate_forcings-3">[3]</a></sup></div></div></div>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a class="mw-redirect" href="/wiki/Radiative_balance" title="Radiative balance">Radiative balance</a></div>
+<p>Almost all of the energy that affects <a class="mw-redirect" href="/wiki/Earth%27s_climate" title="Earth's climate">Earth's climate</a> is received as radiant energy from the <a href="/wiki/Sun" title="Sun">Sun</a>. The planet and its atmosphere absorb and reflect some of the energy, while <a href="/wiki/Outgoing_longwave_radiation" title="Outgoing longwave radiation">long-wave energy is radiated back</a> into space. The balance between absorbed and radiated energy determines the average global temperature. Because the <a href="/wiki/Atmosphere" title="Atmosphere">atmosphere</a> absorbs some of the re-radiated long-wave energy, the <a href="/wiki/Planet" title="Planet">planet</a> is warmer than it would be in the absence of the <a href="/wiki/Atmosphere" title="Atmosphere">atmosphere</a>: see <a href="/wiki/Greenhouse_effect" title="Greenhouse effect">greenhouse effect</a>.
+</p><p>The radiation balance is altered by such factors as the intensity of <a href="/wiki/Solar_energy" title="Solar energy">solar energy</a>, reflectivity of clouds or gases, absorption by various <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gases</a> or surfaces and heat emission by various materials. Any such alteration is a radiative forcing, and changes the balance. This happens continuously as sunlight hits the surface, clouds and aerosols form, the concentrations of atmospheric gases vary and seasons alter the <a href="/wiki/Groundcover" title="Groundcover">groundcover</a>.
+</p>
+<h2><span class="mw-headline" id="IPCC_usage">IPCC usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiative_forcing&amp;action=edit&amp;section=2" title="Edit section: IPCC usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Radiative-forcings.svg"><img alt="" class="thumbimage" data-file-height="480" data-file-width="600" height="240" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Radiative-forcings.svg/300px-Radiative-forcings.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Radiative-forcings.svg/450px-Radiative-forcings.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Radiative-forcings.svg/600px-Radiative-forcings.svg.png 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Radiative-forcings.svg" title="Enlarge"></a></div>Radiative forcings, IPCC 2007.</div></div></div>
+<p>The <a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change</a> (IPCC) <a class="mw-redirect" href="/wiki/IPCC_AR4" title="IPCC AR4">AR4</a> report defines radiative forcings as:<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<blockquote>
+<p>"Radiative forcing is a measure of the influence a factor has in altering the balance of incoming and outgoing energy in the Earth-atmosphere system and is an index of the importance of the factor as a potential climate change mechanism. In this report radiative forcing values are for changes relative to preindustrial conditions defined at 1750 and are expressed in Watts per square meter (W/m<sup>2</sup>)."
+</p>
+</blockquote>
+<p>In simple terms, radiative forcing is "...the rate of energy change per unit area of the globe as measured at the top of the atmosphere."<sup class="reference" id="cite_ref-Rockstrom09_5-0"><a href="#cite_note-Rockstrom09-5">[5]</a></sup> In the context of <a href="/wiki/Climate_change" title="Climate change">climate change</a>, the term "forcing" is restricted to changes in the radiation balance of the surface-troposphere system imposed by external factors, with no changes in stratospheric dynamics, no surface and tropospheric feedbacks in operation (<i>i.e.</i>, no secondary effects induced because of changes in tropospheric motions or its <a href="/wiki/Thermodynamic_state" title="Thermodynamic state">thermodynamic state</a>), and no dynamically induced changes in the amount and distribution of atmospheric water (vapour, liquid, and solid forms).
+</p>
+<h2><span class="mw-headline" id="Climate_sensitivity">Climate sensitivity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiative_forcing&amp;action=edit&amp;section=3" title="Edit section: Climate sensitivity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Climate_sensitivity" title="Climate sensitivity">Climate sensitivity</a></div>
+<p>Radiative forcing can be used to estimate a subsequent change in steady-state (often denoted "equilibrium") surface temperature (Δ<i>T</i><sub>s</sub>) arising from that forcing via the equation:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta T_{s}=~\lambda ~\Delta F}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mtext> </mtext>
+<mi>λ<!-- λ --></mi>
+<mtext> </mtext>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>F</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta T_{s}=~\lambda ~\Delta F}</annotation>
+</semantics>
+</math></span><img alt="\Delta T_{s}=~\lambda ~\Delta F" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c84f53a9509e9bb56a8be863139aab2a6e055731" style="vertical-align: -0.671ex; width:13.588ex; height:2.509ex;"/></span></dd></dl>
+<p>where λ is commonly denoted the climate sensitivity parameter, usually with units K/(W/m<sup>2</sup>), and Δ<i>F</i> is the radiative forcing in W/m<sup>2</sup>.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> A typical value of λ, 0.8 K/(W/m<sup>2</sup>), gives an increase in global temperature of about 1.6 K above the 1750 reference temperature due to the increase in CO<sub>2</sub> over that time (278 to 405 ppm, for a forcing of 2.0 W/m<sup>2</sup>), and predicts a further warming of 1.4 K above present temperatures if the CO<sub>2</sub> mixing ratio in the atmosphere were to become double its pre-industrial value; both of these calculations assume no other forcings.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Sample_calculations">Sample calculations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiative_forcing&amp;action=edit&amp;section=4" title="Edit section: Sample calculations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:ModtranRadiativeForcingDoubleCO2.png"><img alt="" class="thumbimage" data-file-height="769" data-file-width="1200" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ModtranRadiativeForcingDoubleCO2.png/250px-ModtranRadiativeForcingDoubleCO2.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ModtranRadiativeForcingDoubleCO2.png/375px-ModtranRadiativeForcingDoubleCO2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ModtranRadiativeForcingDoubleCO2.png/500px-ModtranRadiativeForcingDoubleCO2.png 2x" width="250"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:ModtranRadiativeForcingDoubleCO2.png" title="Enlarge"></a></div>Radiative forcing for doubling CO<sub>2</sub>, as calculated by radiative transfer code Modtran. Red lines are <a href="/wiki/Planck%27s_law" title="Planck's law">Planck curves</a>.</div></div></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:ModtranRadiativeForcing8xCH4.png"><img alt="" class="thumbimage" data-file-height="769" data-file-width="1200" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/ModtranRadiativeForcing8xCH4.png/250px-ModtranRadiativeForcing8xCH4.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/ModtranRadiativeForcing8xCH4.png/375px-ModtranRadiativeForcing8xCH4.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/ModtranRadiativeForcing8xCH4.png/500px-ModtranRadiativeForcing8xCH4.png 2x" width="250"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:ModtranRadiativeForcing8xCH4.png" title="Enlarge"></a></div>Radiative forcing for eight times increase of <span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>, as calculated by radiative transfer code Modtran.</div></div></div>
+<h3><span class="mw-headline" id="Solar_forcing">Solar forcing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiative_forcing&amp;action=edit&amp;section=5" title="Edit section: Solar forcing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Radiative forcing (measured in watts per square meter) can be estimated in different ways for different components. For solar irradiance (<i>i.e.,</i> "solar forcing"), the radiative forcing is simply the change in the average amount of solar energy absorbed per square meter of the Earth's area. Since the Earth's cross-sectional area exposed to the Sun (πr<sup>2</sup>) is equal to 1/4 of the surface area of the Earth (4πr<sup>2</sup>), the solar input per unit area is one quarter the change in solar intensity. This must be multiplied by the fraction of incident sunlight that is absorbed, F=(1-R), where R is the reflectivity (<a href="/wiki/Albedo" title="Albedo">albedo</a>), of the Earth. The albedo is approximately 0.3, so F is approximately equal to 0.7. Thus, the solar forcing is the change in the solar intensity divided by 4 and multiplied by 0.7.
+</p><p>Likewise, a change in albedo will produce a solar forcing equal to the change in albedo divided by 4 multiplied by the <a href="/wiki/Solar_constant" title="Solar constant">solar constant</a>.
+</p>
+<h3><span class="mw-headline" id="Forcing_due_to_atmospheric_gas">Forcing due to atmospheric gas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiative_forcing&amp;action=edit&amp;section=6" title="Edit section: Forcing due to atmospheric gas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For a greenhouse gas, such as <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>, radiative transfer codes that examine each spectral line for atmospheric conditions can be used to calculate the change ΔF as a function of changing concentration. These calculations might be simplified into an algebraic formulation that is specific to that gas.
+</p><p>For instance, a proposed simplified first-order approximation expression for <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> would be:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta F=5.35\times \ln {C \over C_{0}}~\mathrm {W} ~\mathrm {m} ^{-2}\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>F</mi>
+<mo>=</mo>
+<mn>5.35</mn>
+<mo>×<!-- × --></mo>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>C</mi>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">W</mi>
+</mrow>
+<mtext> </mtext>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta F=5.35\times \ln {C \over C_{0}}~\mathrm {W} ~\mathrm {m} ^{-2}\,}</annotation>
+</semantics>
+</math></span><img alt="\Delta F=5.35\times \ln {C \over C_{0}}~\mathrm {W} ~\mathrm {m} ^{-2}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e36cc031b0e6d6b47508b2ae11126abee86f2de8" style="vertical-align: -2.338ex; width:27.834ex; height:5.843ex;"/></span></dd></dl>
+<p>where <i>C</i> is the CO<sub>2</sub> concentration in parts per million by volume and <i>C</i><sub>0</sub> is the reference concentration.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> There is the claim of a relationship between carbon dioxide and radiative forcing is <a href="/wiki/Logarithmic_scale" title="Logarithmic scale">logarithmic</a>,<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> at concentrations up to around eight times the current value, and thus increased concentrations have a progressively smaller warming effect. Some claim that at higher concentrations,however, it becomes supra-logarithmic so that there is no saturation in the absorption of infrared radiation by CO<sub>2</sub>.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p><p>A different formula might apply for other greenhouse gases such as <a href="/wiki/Methane" title="Methane">methane</a> and <span class="chemf nowrap"><a href="/wiki/Nitrous_oxide" title="Nitrous oxide">N<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</a></span> (square-root dependence) or CFCs (linear), with coefficients that may be found <i>e.g.</i> in the <a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">IPCC</a> reports.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>. While recently a <sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> suggests a significant revision of methane IPCC formula.
+</p>
+<h2><span class="mw-headline" id="Related_measures">Related measures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiative_forcing&amp;action=edit&amp;section=7" title="Edit section: Related measures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Radiative forcing is a useful way to compare different causes of perturbations in a climate system. Other possible tools can be constructed for the same purpose: for example Shine <i>et al.</i><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> say "...recent experiments indicate that for changes in absorbing aerosols and ozone, the predictive ability of radiative forcing is much worse... we propose an alternative, the 'adjusted troposphere and stratosphere forcing'. We present <a class="mw-redirect" href="/wiki/Global_circulation_model" title="Global circulation model">GCM</a> calculations showing that it is a significantly more reliable predictor of this GCM's surface temperature change than radiative forcing. It is a candidate to supplement radiative forcing as a metric for comparing different mechanisms...". In this quote, GCM stands for "<a class="mw-redirect" href="/wiki/Global_circulation_model" title="Global circulation model">global circulation model</a>", and the word "predictive" does not refer to the ability of GCMs to forecast climate change. Instead, it refers to the ability of the alternative tool proposed by the authors to help explain the system response.
+</p><p>Therefore the concept of radiative forcing has been evolving from the initial proposal, named nowadays <i>instantaneous radiative forcing</i> (IRF), to other proposals that aims to relate better the radiative imbalance with global warming (global surface mean temperature). In this sense the adjusted radiative forcing, in its different calculation methodologies, estimates the imbalance once the stratosphere temperatures has been modified to achieve a radiative equilibrium in the stratosphere (in the sense of zero radiative heating rates). This new methodology is not estimating any <i>adjustment</i> or <i>feedback</i> that could be produced on the troposphere (in addition to stratospheric temperature adjustments), for that goal another definition, named <i>effective radiative forcing</i> has been introduced <sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>. In general the ERF is the recommendation of the CMIP6 radiative forcing analysis <sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> althougth the stratospherically adjusted methodologies are still being applied in those cases where the adjustments and feedbacks on the troposphere are considered not critical, like in the well mixed greenhouse gases and ozone <sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> <sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>. Recently a new methodology named <i>radiative kernel approach</i> allows to estimate the climate feedbacks within an offline calculation based on a linear approximation <sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiative_forcing&amp;action=edit&amp;section=8" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The table below (derived from atmospheric radiative transfer models) shows changes in radiative forcing between 1979 and 2013.<sup class="reference" id="cite_ref-noaa_aggi_19-0"><a href="#cite_note-noaa_aggi-19">[19]</a></sup> The table includes the contribution to radiative forcing from <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> (CO<sub>2</sub>), <a href="/wiki/Methane" title="Methane">methane</a> (<span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>), <a href="/wiki/Nitrous_oxide" title="Nitrous oxide">nitrous oxide</a> (<span class="chemf nowrap">N<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span>); <a href="/wiki/Chlorofluorocarbon" title="Chlorofluorocarbon">chlorofluorocarbons</a> (CFCs) <a class="mw-redirect" href="/wiki/CFC-12" title="CFC-12">12</a> and <a class="mw-redirect" href="/wiki/CFC-11" title="CFC-11">11</a>; and fifteen other minor, long-lived, <a href="/wiki/Halogen" title="Halogen">halogenated</a> gases.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> The table includes the contribution to radiative forcing of long-lived greenhouse gases. It does not include other forcings, such as aerosols and changes in solar activity.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:Changes_in_radiative_forcing_of_long-lived_greenhouse_gases_between_1979-2012.png"><img alt="" class="thumbimage" data-file-height="786" data-file-width="1371" height="229" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Changes_in_radiative_forcing_of_long-lived_greenhouse_gases_between_1979-2012.png/400px-Changes_in_radiative_forcing_of_long-lived_greenhouse_gases_between_1979-2012.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Changes_in_radiative_forcing_of_long-lived_greenhouse_gases_between_1979-2012.png/600px-Changes_in_radiative_forcing_of_long-lived_greenhouse_gases_between_1979-2012.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Changes_in_radiative_forcing_of_long-lived_greenhouse_gases_between_1979-2012.png/800px-Changes_in_radiative_forcing_of_long-lived_greenhouse_gases_between_1979-2012.png 2x" width="400"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Changes_in_radiative_forcing_of_long-lived_greenhouse_gases_between_1979-2012.png" title="Enlarge"></a></div>Changes in radiative forcing of long-lived greenhouse gases between 1979 and 2012.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Carbon_Dioxide_radiative_forcing.png"><img alt="" class="thumbimage" data-file-height="544" data-file-width="640" height="187" src="//upload.wikimedia.org/wikipedia/en/thumb/7/7d/Carbon_Dioxide_radiative_forcing.png/220px-Carbon_Dioxide_radiative_forcing.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/7/7d/Carbon_Dioxide_radiative_forcing.png/330px-Carbon_Dioxide_radiative_forcing.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/7/7d/Carbon_Dioxide_radiative_forcing.png/440px-Carbon_Dioxide_radiative_forcing.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Carbon_Dioxide_radiative_forcing.png" title="Enlarge"></a></div>Radiative forcing, relative to 1750, due to carbon dioxide alone since 1979. The percent change from January 1, 1990 is shown on the right axis.</div></div></div>
+<table class="wikitable">
+<caption>Global radiative forcing (relative to 1750, in <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ~\mathrm {W} ~\mathrm {m} ^{-2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">W</mi>
+</mrow>
+<mtext> </mtext>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ~\mathrm {W} ~\mathrm {m} ^{-2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle ~\mathrm {W} ~\mathrm {m} ^{-2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bb6912e59e6229008f6acf374e5bcbe0eeefc7c9" style="vertical-align: -0.338ex; width:7.819ex; height:2.676ex;"/></span>), <a href="/wiki/Carbon_dioxide_equivalent" title="Carbon dioxide equivalent">CO<sub>2</sub>-equivalent</a> mixing ratio, and the Annual Greenhouse Gas Index (AGGI) between 1979–2014<sup class="reference" id="cite_ref-noaa_aggi_19-1"><a href="#cite_note-noaa_aggi-19">[19]</a></sup>
+</caption>
+<tbody><tr>
+<th>Year</th>
+<th>CO<sub>2</sub></th>
+<th><span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span></th>
+<th><span class="chemf nowrap">N<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span></th>
+<th>CFC-12</th>
+<th>CFC-11</th>
+<th>15-minor</th>
+<th>Total</th>
+<th>CO<sub>2</sub>-eq<br/><a href="/wiki/Parts-per_notation" title="Parts-per notation">ppm</a></th>
+<th>AGGI<br/>1990 = 1</th>
+<th>AGGI<br/>% change
+</th></tr>
+<tr>
+<td>1979</td>
+<td>1.027</td>
+<td>0.419</td>
+<td>0.104</td>
+<td>0.092</td>
+<td>0.039</td>
+<td>0.031</td>
+<td>1.712</td>
+<td>383</td>
+<td>0.786</td>
+<td>
+</td></tr>
+<tr>
+<td>1980</td>
+<td>1.058</td>
+<td>0.426</td>
+<td>0.104</td>
+<td>0.097</td>
+<td>0.042</td>
+<td>0.034</td>
+<td>1.761</td>
+<td>386</td>
+<td>0.808</td>
+<td>2.8
+</td></tr>
+<tr>
+<td>1981</td>
+<td>1.077</td>
+<td>0.433</td>
+<td>0.107</td>
+<td>0.102</td>
+<td>0.044</td>
+<td>0.036</td>
+<td>1.799</td>
+<td>389</td>
+<td>0.826</td>
+<td>2.2
+</td></tr>
+<tr>
+<td>1982</td>
+<td>1.089</td>
+<td>0.440</td>
+<td>0.111</td>
+<td>0.108</td>
+<td>0.046</td>
+<td>0.038</td>
+<td>1.831</td>
+<td>391</td>
+<td>0.841</td>
+<td>1.8
+</td></tr>
+<tr>
+<td>1983</td>
+<td>1.115</td>
+<td>0.443</td>
+<td>0.113</td>
+<td>0.113</td>
+<td>0.048</td>
+<td>0.041</td>
+<td>1.873</td>
+<td>395</td>
+<td>0.860</td>
+<td>2.2
+</td></tr>
+<tr>
+<td>1984</td>
+<td>1.140</td>
+<td>0.446</td>
+<td>0.116</td>
+<td>0.118</td>
+<td>0.050</td>
+<td>0.044</td>
+<td>1.913</td>
+<td>397</td>
+<td>0.878</td>
+<td>2.2
+</td></tr>
+<tr>
+<td>1985</td>
+<td>1.162</td>
+<td>0.451</td>
+<td>0.118</td>
+<td>0.123</td>
+<td>0.053</td>
+<td>0.047</td>
+<td>1.953</td>
+<td>401</td>
+<td>0.897</td>
+<td>2.1
+</td></tr>
+<tr>
+<td>1986</td>
+<td>1.184</td>
+<td>0.456</td>
+<td>0.122</td>
+<td>0.129</td>
+<td>0.056</td>
+<td>0.049</td>
+<td>1.996</td>
+<td>404</td>
+<td>0.916</td>
+<td>2.2
+</td></tr>
+<tr>
+<td>1987</td>
+<td>1.211</td>
+<td>0.460</td>
+<td>0.120</td>
+<td>0.135</td>
+<td>0.059</td>
+<td>0.053</td>
+<td>2.039</td>
+<td>407</td>
+<td>0.936</td>
+<td>2.2
+</td></tr>
+<tr>
+<td>1988</td>
+<td>1.250</td>
+<td>0.464</td>
+<td>0.123</td>
+<td>0.143</td>
+<td>0.062</td>
+<td>0.057</td>
+<td>2.099</td>
+<td>412</td>
+<td>0.964</td>
+<td>3.0
+</td></tr>
+<tr>
+<td>1989</td>
+<td>1.274</td>
+<td>0.468</td>
+<td>0.126</td>
+<td>0.149</td>
+<td>0.064</td>
+<td>0.061</td>
+<td>2.144</td>
+<td>415</td>
+<td>0.984</td>
+<td>2.1
+</td></tr>
+<tr>
+<td>1990</td>
+<td>1.293</td>
+<td>0.472</td>
+<td>0.129</td>
+<td>0.154</td>
+<td>0.065</td>
+<td>0.065</td>
+<td>2.178</td>
+<td>418</td>
+<td>1.000</td>
+<td>1.6
+</td></tr>
+<tr>
+<td>1991</td>
+<td>1.313</td>
+<td>0.476</td>
+<td>0.131</td>
+<td>0.158</td>
+<td>0.067</td>
+<td>0.069</td>
+<td>2.213</td>
+<td>420</td>
+<td>1.016</td>
+<td>1.6
+</td></tr>
+<tr>
+<td>1992</td>
+<td>1.324</td>
+<td>0.480</td>
+<td>0.133</td>
+<td>0.162</td>
+<td>0.067</td>
+<td>0.072</td>
+<td>2.238</td>
+<td>422</td>
+<td>1.027</td>
+<td>1.1
+</td></tr>
+<tr>
+<td>1993</td>
+<td>1.334</td>
+<td>0.481</td>
+<td>0.134</td>
+<td>0.164</td>
+<td>0.068</td>
+<td>0.074</td>
+<td>2.254</td>
+<td>424</td>
+<td>1.035</td>
+<td>0.7
+</td></tr>
+<tr>
+<td>1994</td>
+<td>1.356</td>
+<td>0.483</td>
+<td>0.134</td>
+<td>0.166</td>
+<td>0.068</td>
+<td>0.075</td>
+<td>2.282</td>
+<td>426</td>
+<td>1.048</td>
+<td>1.3
+</td></tr>
+<tr>
+<td>1995</td>
+<td>1.383</td>
+<td>0.485</td>
+<td>0.136</td>
+<td>0.168</td>
+<td>0.067</td>
+<td>0.077</td>
+<td>2.317</td>
+<td>429</td>
+<td>1.064</td>
+<td>1.5
+</td></tr>
+<tr>
+<td>1996</td>
+<td>1.410</td>
+<td>0.486</td>
+<td>0.139</td>
+<td>0.169</td>
+<td>0.067</td>
+<td>0.078</td>
+<td>2.350</td>
+<td>431</td>
+<td>1.079</td>
+<td>1.4
+</td></tr>
+<tr>
+<td>1997</td>
+<td>1.426</td>
+<td>0.487</td>
+<td>0.142</td>
+<td>0.171</td>
+<td>0.067</td>
+<td>0.079</td>
+<td>2.372</td>
+<td>433</td>
+<td>1.089</td>
+<td>0.9
+</td></tr>
+<tr>
+<td>1998</td>
+<td>1.465</td>
+<td>0.491</td>
+<td>0.145</td>
+<td>0.172</td>
+<td>0.067</td>
+<td>0.080</td>
+<td>2.419</td>
+<td>437</td>
+<td>1.111</td>
+<td>2.0
+</td></tr>
+<tr>
+<td>1999</td>
+<td>1.495</td>
+<td>0.494</td>
+<td>0.148</td>
+<td>0.173</td>
+<td>0.066</td>
+<td>0.082</td>
+<td>2.458</td>
+<td>440</td>
+<td>1.128</td>
+<td>1.6
+</td></tr>
+<tr>
+<td>2000</td>
+<td>1.513</td>
+<td>0.494</td>
+<td>0.151</td>
+<td>0.173</td>
+<td>0.066</td>
+<td>0.083</td>
+<td>2.481</td>
+<td>442</td>
+<td>1.139</td>
+<td>0.9
+</td></tr>
+<tr>
+<td>2001</td>
+<td>1.535</td>
+<td>0.494</td>
+<td>0.153</td>
+<td>0.174</td>
+<td>0.065</td>
+<td>0.085</td>
+<td>2.506</td>
+<td>444</td>
+<td>1.150</td>
+<td>1.0
+</td></tr>
+<tr>
+<td>2002</td>
+<td>1.564</td>
+<td>0.494</td>
+<td>0.156</td>
+<td>0.174</td>
+<td>0.065</td>
+<td>0.087</td>
+<td>2.539</td>
+<td>447</td>
+<td>1.166</td>
+<td>1.3
+</td></tr>
+<tr>
+<td>2003</td>
+<td>1.601</td>
+<td>0.496</td>
+<td>0.158</td>
+<td>0.174</td>
+<td>0.064</td>
+<td>0.088</td>
+<td>2.580</td>
+<td>450</td>
+<td>1.185</td>
+<td>1.6
+</td></tr>
+<tr>
+<td>2004</td>
+<td>1.627</td>
+<td>0.496</td>
+<td>0.160</td>
+<td>0.174</td>
+<td>0.063</td>
+<td>0.090</td>
+<td>2.610</td>
+<td>453</td>
+<td>1.198</td>
+<td>1.1
+</td></tr>
+<tr>
+<td>2005</td>
+<td>1.655</td>
+<td>0.495</td>
+<td>0.162</td>
+<td>0.173</td>
+<td>0.063</td>
+<td>0.092</td>
+<td>2.640</td>
+<td>455</td>
+<td>1.212</td>
+<td>1.2
+</td></tr>
+<tr>
+<td>2006</td>
+<td>1.685</td>
+<td>0.495</td>
+<td>0.165</td>
+<td>0.173</td>
+<td>0.062</td>
+<td>0.095</td>
+<td>2.675</td>
+<td>458</td>
+<td>1.228</td>
+<td>1.3
+</td></tr>
+<tr>
+<td>2007</td>
+<td>1.710</td>
+<td>0.498</td>
+<td>0.167</td>
+<td>0.172</td>
+<td>0.062</td>
+<td>0.097</td>
+<td>2.706</td>
+<td>461</td>
+<td>1.242</td>
+<td>1.1
+</td></tr>
+<tr>
+<td>2008</td>
+<td>1.739</td>
+<td>0.500</td>
+<td>0.170</td>
+<td>0.171</td>
+<td>0.061</td>
+<td>0.100</td>
+<td>2.742</td>
+<td>464</td>
+<td>1.259</td>
+<td>1.3
+</td></tr>
+<tr>
+<td>2009</td>
+<td>1.760</td>
+<td>0.502</td>
+<td>0.172</td>
+<td>0.171</td>
+<td>0.061</td>
+<td>0.103</td>
+<td>2.768</td>
+<td>466</td>
+<td>1.271</td>
+<td>1.0
+</td></tr>
+<tr>
+<td>2010</td>
+<td>1.791</td>
+<td>0.504</td>
+<td>0.174</td>
+<td>0.170</td>
+<td>0.060</td>
+<td>0.106</td>
+<td>2.805</td>
+<td>470</td>
+<td>1.288</td>
+<td>1.3
+</td></tr>
+<tr>
+<td>2011</td>
+<td>1.818</td>
+<td>0.505</td>
+<td>0.178</td>
+<td>0.169</td>
+<td>0.060</td>
+<td>0.109</td>
+<td>2.838</td>
+<td>473</td>
+<td>1.303</td>
+<td>1.2
+</td></tr>
+<tr>
+<td>2012</td>
+<td>1.846</td>
+<td>0.507</td>
+<td>0.181</td>
+<td>0.168</td>
+<td>0.059</td>
+<td>0.111</td>
+<td>2.873</td>
+<td>476</td>
+<td>1.319</td>
+<td>1.2
+</td></tr>
+<tr>
+<td>2013</td>
+<td>1.884</td>
+<td>0.509</td>
+<td>0.184</td>
+<td>0.167</td>
+<td>0.059</td>
+<td>0.114</td>
+<td>2.916</td>
+<td>479</td>
+<td>1.338</td>
+<td>1.5
+</td></tr>
+<tr>
+<td>2014</td>
+<td>1.909</td>
+<td>0.500</td>
+<td>0.187</td>
+<td>0.166</td>
+<td>0.058</td>
+<td>0.116</td>
+<td>2.936</td>
+<td>481</td>
+<td>1.356</td>
+<td>1.6
+</td></tr>
+<tr>
+<td>2015
+</td>
+<td>1.938
+</td>
+<td>0.504
+</td>
+<td>0.19
+</td>
+<td>0.165
+</td>
+<td>0.058
+</td>
+<td>0.118
+</td>
+<td>2.973
+</td>
+<td>485
+</td>
+<td>1.374
+</td>
+<td>1.8
+</td></tr>
+<tr>
+<td>2016
+</td>
+<td>1.985
+</td>
+<td>0.507
+</td>
+<td>0.193
+</td>
+<td>0.164
+</td>
+<td>0.057
+</td>
+<td>0.121
+</td>
+<td>3.027
+</td>
+<td>489
+</td>
+<td>1.399
+</td>
+<td>2.5
+</td></tr></tbody></table>
+<p>The table shows that CO<sub>2</sub> dominates the total forcing, with <a href="/wiki/Methane" title="Methane">methane</a> and <a class="mw-redirect" href="/wiki/Chlorofluorocarbons" title="Chlorofluorocarbons">chlorofluorocarbons</a> (CFC) becoming relatively smaller contributors to the total forcing over time.<sup class="reference" id="cite_ref-noaa_aggi_19-2"><a href="#cite_note-noaa_aggi-19">[19]</a></sup> The five major greenhouse gases account for about 96% of the direct radiative forcing by long-lived greenhouse gas increases since 1750. The remaining 4% is contributed by the 15 minor <a class="mw-redirect" href="/wiki/Halogenated" title="Halogenated">halogenated</a> gases.
+</p><p>It might be observed that the total forcing for year 2016, 3.027 W m<sup>−2</sup>, together with the commonly accepted value of climate sensitivity parameter λ, 0.8 K /(W m<sup>−2</sup>), results in an increase in global temperature of 2.4 K, much greater than the observed increase, about 1.2 K.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> Part of this difference is due to lag in the global temperature achieving steady state with the forcing. The remainder of the difference is due to negative aerosol forcing<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup><sup class="noprint Inline-Template noprint noexcerpt Template-Fact" style="white-space:nowrap;">[<i><a class="mw-redirect" href="/wiki/Wikipedia:NOTRS" title="Wikipedia:NOTRS"><span title="per WP:CIRCULAR (February 2018)">better source needed</span></a></i>]</sup> and/or climate sensitivity being less than the commonly accepted value, or some combination thereof.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup>
+</p><p>The table also includes an "Annual Greenhouse Gas Index" (AGGI), which is defined as the ratio of the total direct radiative forcing due to long-lived greenhouse gases for any year for which adequate global measurements exist to that which was present in 1990.<sup class="reference" id="cite_ref-noaa_aggi_19-3"><a href="#cite_note-noaa_aggi-19">[19]</a></sup> 1990 was chosen because it is the baseline year for the <a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a>. This index is a measure of the inter-annual changes in conditions that affect carbon dioxide emission and uptake, methane and nitrous oxide sources and sinks, the decline in the atmospheric abundance of <a href="/wiki/Ozone_depletion" title="Ozone depletion">ozone-depleting</a> chemicals related to the <a href="/wiki/Montreal_Protocol" title="Montreal Protocol">Montreal Protocol</a>. and the increase in their substitutes (hydrogenated CFCs (HCFCs) and hydrofluorocarbons (HFC). Most of this increase is related to CO<sub>2</sub>. For 2013, the AGGI was 1.34 (representing an increase in total direct radiative forcing of 34% since 1990). The increase in CO<sub>2</sub> forcing alone since 1990 was about 46%. The decline in CFCs considerably tempered the increase in net radiative forcing.
+</p><p>An alternative table prepared for use in climate model intercomparisons conducted under the auspices of IPCC and including all forcings, not just those of greenhouse gases, is available at <a class="external free" href="http://www.climatechange2013.org/images/report/WG1AR5_AIISM_Datafiles.xlsx" rel="nofollow">http://www.climatechange2013.org/images/report/WG1AR5_AIISM_Datafiles.xlsx</a><sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiative_forcing&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Crystal_energy.svg"><img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">energy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Global_Warming_Map.jpg"><img alt="icon" class="noviewer" data-file-height="596" data-file-width="800" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Global_Warming_Map.jpg/32px-Global_Warming_Map.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Global_Warming_Map.jpg/48px-Global_Warming_Map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Global_Warming_Map.jpg/64px-Global_Warming_Map.jpg 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Global_warming" title="Portal:Global warming">global warming portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Climate_sensitivity" title="Climate sensitivity">Climate sensitivity</a></li>
+<li><a class="mw-redirect" href="/wiki/Anthropogenic_heat" title="Anthropogenic heat">Anthropogenic heat</a></li>
+<li><a href="/wiki/Emission_standard" title="Emission standard">Emission standard</a></li>
+<li><a href="/wiki/Global_warming_potential" title="Global warming potential">Global warming potential</a></li>
+<li><a href="/wiki/Sulfate" title="Sulfate">Sulfate</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiative_forcing&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Shindell, Drew (2013). <a class="external text" href="http://climate.envsci.rutgers.edu/climdyn2013/IPCC/IPCC_WGI12-RadiativeForcing.pdf" rel="nofollow">"Radiative Forcing in the AR5"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">15 September</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Radiative+Forcing+in+the+AR5&amp;rft.date=2013&amp;rft.aulast=Shindell&amp;rft.aufirst=Drew&amp;rft_id=http%3A%2F%2Fclimate.envsci.rutgers.edu%2Fclimdyn2013%2FIPCC%2FIPCC_WGI12-RadiativeForcing.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Rebecca, Lindsey (14 January 2009). <a class="external text" href="https://earthobservatory.nasa.gov/Features/EnergyBalance/page7.php" rel="nofollow">"Climate and Earth's Energy Budget : Feature Articles"</a>. <i>earthobservatory.nasa.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=earthobservatory.nasa.gov&amp;rft.atitle=Climate+and+Earth%E2%80%99s+Energy+Budget+%3A+Feature+Articles&amp;rft.date=2009-01-14&amp;rft.aulast=Rebecca&amp;rft.aufirst=Lindsey&amp;rft_id=https%3A%2F%2Fearthobservatory.nasa.gov%2FFeatures%2FEnergyBalance%2Fpage7.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-NASA_climate_forcings-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-NASA_climate_forcings_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://earthobservatory.nasa.gov/Features/EnergyBalance/page7.php" rel="nofollow">"NASA: Climate Forcings and Global Warming"</a>. 14 January 2009.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NASA%3A+Climate+Forcings+and+Global+Warming&amp;rft.date=2009-01-14&amp;rft_id=http%3A%2F%2Fearthobservatory.nasa.gov%2FFeatures%2FEnergyBalance%2Fpage7.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.ipcc.ch/pdf/assessment-report/ar4/syr/ar4_syr.pdf" rel="nofollow">"Climate Change 2007: Synthesis Report"</a> <span class="cs1-format">(PDF)</span>. <i>ipcc.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ipcc.ch&amp;rft.atitle=Climate+Change+2007%3A+Synthesis+Report&amp;rft_id=https%3A%2F%2Fwww.ipcc.ch%2Fpdf%2Fassessment-report%2Far4%2Fsyr%2Far4_syr.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Rockstrom09-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rockstrom09_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Johan_Rockstr%C3%B6m" title="Johan Rockström">Rockström, Johan</a>; Steffen, Will; Noone, Kevin; Persson, Asa; Chapin, F. Stuart; Lambin, Eric F.; Lenton, Timothy F.; Scheffer, M;  et al. (23 September 2009). "A safe operating space for humanity". <i><a href="/wiki/Nature_(journal)" title="Nature (journal)">Nature</a></i>. <b>461</b> (7263): 472–475. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2009Natur.461..472R" rel="nofollow">2009Natur.461..472R</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2F461472a" rel="nofollow">10.1038/461472a</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19779433" rel="nofollow">19779433</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=A+safe+operating+space+for+humanity&amp;rft.volume=461&amp;rft.issue=7263&amp;rft.pages=472-475&amp;rft.date=2009-09-23&amp;rft_id=info%3Apmid%2F19779433&amp;rft_id=info%3Adoi%2F10.1038%2F461472a&amp;rft_id=info%3Abibcode%2F2009Natur.461..472R&amp;rft.aulast=Rockstr%C3%B6m&amp;rft.aufirst=Johan&amp;rft.au=Steffen%2C+Will&amp;rft.au=Noone%2C+Kevin&amp;rft.au=Persson%2C+Asa&amp;rft.au=Chapin%2C+F.+Stuart&amp;rft.au=Lambin%2C+Eric+F.&amp;rft.au=Lenton%2C+Timothy+F.&amp;rft.au=Scheffer%2C+M&amp;rft.au=Folke%2C+C&amp;rft.au=Schellnhuber%2C+Hans+Joachim&amp;rft.au=Nykvist%2C+Bj%C3%B6rn&amp;rft.au=De+Wit%2C+Cynthia+A.&amp;rft.au=Hughes%2C+Terry&amp;rft.au=Van+Der+Leeuw%2C+Sander&amp;rft.au=Rodhe%2C+Henning&amp;rft.au=S%C3%B6rlin%2C+Sverker&amp;rft.au=Snyder%2C+Peter+K.&amp;rft.au=Costanza%2C+Robert&amp;rft.au=Svedin%2C+Uno&amp;rft.au=Falkenmark%2C+Malin&amp;rft.au=Karlberg%2C+Louise&amp;rft.au=Corell%2C+Robert+W.&amp;rft.au=Fabry%2C+Victoria+J.&amp;rft.au=Hansen%2C+James&amp;rft.au=Walker%2C+Brian&amp;rft.au=Liverman%2C+Diana&amp;rft.au=Richardson%2C+Katherine&amp;rft.au=Crutzen%2C+Paul&amp;rft.au=Foley%2C+Jonathan+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20090630133202/http://www.grida.no/publications/other/ipcc_tar/?src=%2Fclimate%2Fipcc_tar%2Fwg1%2F222.htm" rel="nofollow">"IPCC Third Assessment Report - Climate Change 2001"</a>. Archived from <a class="external text" href="http://www.grida.no/publications/other/ipcc_tar/?src=/climate/ipcc_tar/wg1/222.htm" rel="nofollow">the original</a> on 30 June 2009.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=IPCC+Third+Assessment+Report+-+Climate+Change+2001&amp;rft_id=http%3A%2F%2Fwww.grida.no%2Fpublications%2Fother%2Fipcc_tar%2F%3Fsrc%3D%2Fclimate%2Fipcc_tar%2Fwg1%2F222.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20090510053004/http://www.epa.gov/climatechange/science/recentac.html" rel="nofollow">"Atmosphere Changes"</a>. Archived from <a class="external text" href="http://www.epa.gov/climatechange/science/recentac.html" rel="nofollow">the original</a> on 10 May 2009.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Atmosphere+Changes&amp;rft_id=http%3A%2F%2Fwww.epa.gov%2Fclimatechange%2Fscience%2Frecentac.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Myhre, G.; Highwood, E.J.; Shine, K.P.; Stordal, F. (1998). <a class="external text" href="http://88.167.97.19/albums/files/TMTisFree/Documents/Climate/New_estimate_of_radiative_forcing_of_well_mixed_greenhouse_gases_myhre_grl98.pdf" rel="nofollow">"New estimates of radiative forcing due to well mixed greenhouse gases"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/wiki/Geophysical_Research_Letters" title="Geophysical Research Letters">Geophysical Research Letters</a></i>. <b>25</b> (14): 2715–8. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1998GeoRL..25.2715M" rel="nofollow">1998GeoRL..25.2715M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F98GL01908" rel="nofollow">10.1029/98GL01908</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Geophysical+Research+Letters&amp;rft.atitle=New+estimates+of+radiative+forcing+due+to+well+mixed+greenhouse+gases&amp;rft.volume=25&amp;rft.issue=14&amp;rft.pages=2715-8&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1029%2F98GL01908&amp;rft_id=info%3Abibcode%2F1998GeoRL..25.2715M&amp;rft.aulast=Myhre&amp;rft.aufirst=G.&amp;rft.au=Highwood%2C+E.J.&amp;rft.au=Shine%2C+K.P.&amp;rft.au=Stordal%2C+F.&amp;rft_id=http%3A%2F%2F88.167.97.19%2Falbums%2Ffiles%2FTMTisFree%2FDocuments%2FClimate%2FNew_estimate_of_radiative_forcing_of_well_mixed_greenhouse_gases_myhre_grl98.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Huang, Yi; Bani Shahabadi, Maziar (28 November 2014). <a class="external text" href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014JD022466" rel="nofollow">"Why logarithmic?"</a>. <i>J. Geophys. Res. Atmospheres</i>. <b>119</b> (24): 13, 683–89. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2014JGRD..11913683H" rel="nofollow">2014JGRD..11913683H</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2F2014JD022466" rel="nofollow">10.1002/2014JD022466</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Geophys.+Res.+Atmospheres&amp;rft.atitle=Why+logarithmic%3F&amp;rft.volume=119&amp;rft.issue=24&amp;rft.pages=13%2C+683-89&amp;rft.date=2014-11-28&amp;rft_id=info%3Adoi%2F10.1002%2F2014JD022466&amp;rft_id=info%3Abibcode%2F2014JGRD..11913683H&amp;rft.aulast=Huang&amp;rft.aufirst=Yi&amp;rft.au=Bani+Shahabadi%2C+Maziar&amp;rft_id=https%3A%2F%2Fagupubs.onlinelibrary.wiley.com%2Fdoi%2Ffull%2F10.1002%2F2014JD022466&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zhong, Wenyi; Haigh, Joanna D. (27 March 2013). <a class="external text" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/wea.2072" rel="nofollow">"The greenhouse effect and carbon dioxide"</a>. <i>Weather</i>. <b>68</b> (4): 100–5. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2013Wthr...68..100Z" rel="nofollow">2013Wthr...68..100Z</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fwea.2072" rel="nofollow">10.1002/wea.2072</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1477-8696" rel="nofollow">1477-8696</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Weather&amp;rft.atitle=The+greenhouse+effect+and+carbon+dioxide&amp;rft.volume=68&amp;rft.issue=4&amp;rft.pages=100-5&amp;rft.date=2013-03-27&amp;rft.issn=1477-8696&amp;rft_id=info%3Adoi%2F10.1002%2Fwea.2072&amp;rft_id=info%3Abibcode%2F2013Wthr...68..100Z&amp;rft.aulast=Zhong&amp;rft.aufirst=Wenyi&amp;rft.au=Haigh%2C+Joanna+D.&amp;rft_id=https%3A%2F%2Frmets.onlinelibrary.wiley.com%2Fdoi%2Fabs%2F10.1002%2Fwea.2072&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.grida.no/climate/ipcc_tar/wg1/222.htm" rel="nofollow">IPCC WG-1</a> <a class="external text" href="https://web.archive.org/web/20071213215142/http://www.grida.no/climate/ipcc_tar/wg1/222.htm" rel="nofollow">Archived</a> 13 December 2007 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. report</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Etminan, M.; Myhre, G.; Highwood, E. J.; Shine, K. P. (2016-12-27). <a class="external text" href="http://doi.wiley.com/10.1002/2016GL071930" rel="nofollow">"Radiative forcing of carbon dioxide, methane, and nitrous oxide: A significant revision of the methane radiative forcing"</a>. <i>Geophysical Research Letters</i>. <b>43</b> (24): 12, 614–12, 623. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2016GeoRL..4312614E" rel="nofollow">2016GeoRL..4312614E</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2F2016gl071930" rel="nofollow">10.1002/2016gl071930</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0094-8276" rel="nofollow">0094-8276</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Geophysical+Research+Letters&amp;rft.atitle=Radiative+forcing+of+carbon+dioxide%2C+methane%2C+and+nitrous+oxide%3A+A+significant+revision+of+the+methane+radiative+forcing&amp;rft.volume=43&amp;rft.issue=24&amp;rft.pages=12%2C+614-12%2C+623&amp;rft.date=2016-12-27&amp;rft.issn=0094-8276&amp;rft_id=info%3Adoi%2F10.1002%2F2016gl071930&amp;rft_id=info%3Abibcode%2F2016GeoRL..4312614E&amp;rft.aulast=Etminan&amp;rft.aufirst=M.&amp;rft.au=Myhre%2C+G.&amp;rft.au=Highwood%2C+E.+J.&amp;rft.au=Shine%2C+K.+P.&amp;rft_id=http%3A%2F%2Fdoi.wiley.com%2F10.1002%2F2016GL071930&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Shine, Keith P.; Cook, Jolene; Highwood, Eleanor J.; Joshi, Manoj M. (23 October 2003). <a class="external text" href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2003GL018141" rel="nofollow">"An alternative to radiative forcing for estimating the relative importance of climate change mechanisms"</a>. <i>Geophysical Research Letters</i>. <b>30</b> (20): 2047. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2003GeoRL..30.2047S" rel="nofollow">2003GeoRL..30.2047S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2003GL018141" rel="nofollow">10.1029/2003GL018141</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Geophysical+Research+Letters&amp;rft.atitle=An+alternative+to+radiative+forcing+for+estimating+the+relative+importance+of+climate+change+mechanisms&amp;rft.volume=30&amp;rft.issue=20&amp;rft.pages=2047&amp;rft.date=2003-10-23&amp;rft_id=info%3Adoi%2F10.1029%2F2003GL018141&amp;rft_id=info%3Abibcode%2F2003GeoRL..30.2047S&amp;rft.aulast=Shine&amp;rft.aufirst=Keith+P.&amp;rft.au=Cook%2C+Jolene&amp;rft.au=Highwood%2C+Eleanor+J.&amp;rft.au=Joshi%2C+Manoj+M.&amp;rft_id=https%3A%2F%2Fagupubs.onlinelibrary.wiley.com%2Fdoi%2Fabs%2F10.1029%2F2003GL018141&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sherwood, Steven C.; Bony, Sandrine; Boucher, Olivier; Bretherton, Chris; Forster, Piers M.; Gregory, Jonathan M.; Stevens, Bjorn (2015-02-01). <a class="external text" href="http://journals.ametsoc.org/doi/10.1175/BAMS-D-13-00167.1" rel="nofollow">"Adjustments in the Forcing-Feedback Framework for Understanding Climate Change"</a>. <i>Bulletin of the American Meteorological Society</i>. <b>96</b> (2): 217–228. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2015BAMS...96..217S" rel="nofollow">2015BAMS...96..217S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2Fbams-d-13-00167.1" rel="nofollow">10.1175/bams-d-13-00167.1</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0003-0007" rel="nofollow">0003-0007</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bulletin+of+the+American+Meteorological+Society&amp;rft.atitle=Adjustments+in+the+Forcing-Feedback+Framework+for+Understanding+Climate+Change&amp;rft.volume=96&amp;rft.issue=2&amp;rft.pages=217-228&amp;rft.date=2015-02-01&amp;rft.issn=0003-0007&amp;rft_id=info%3Adoi%2F10.1175%2Fbams-d-13-00167.1&amp;rft_id=info%3Abibcode%2F2015BAMS...96..217S&amp;rft.aulast=Sherwood&amp;rft.aufirst=Steven+C.&amp;rft.au=Bony%2C+Sandrine&amp;rft.au=Boucher%2C+Olivier&amp;rft.au=Bretherton%2C+Chris&amp;rft.au=Forster%2C+Piers+M.&amp;rft.au=Gregory%2C+Jonathan+M.&amp;rft.au=Stevens%2C+Bjorn&amp;rft_id=http%3A%2F%2Fjournals.ametsoc.org%2Fdoi%2F10.1175%2FBAMS-D-13-00167.1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Forster, Piers M.; Richardson, Thomas; Maycock, Amanda C.; Smith, Christopher J.; Samset, Bjorn H.; Myhre, Gunnar; Andrews, Timothy; Pincus, Robert; Schulz, Michael (2016-10-27). <a class="external text" href="http://doi.wiley.com/10.1002/2016JD025320" rel="nofollow">"Recommendations for diagnosing effective radiative forcing from climate models for CMIP6"</a>. <i>Journal of Geophysical Research: Atmospheres</i>. <b>121</b> (20): 12, 460–12, 475. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2016JGRD..12112460F" rel="nofollow">2016JGRD..12112460F</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2F2016jd025320" rel="nofollow">10.1002/2016jd025320</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/2169-897X" rel="nofollow">2169-897X</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geophysical+Research%3A+Atmospheres&amp;rft.atitle=Recommendations+for+diagnosing+effective+radiative+forcing+from+climate+models+for+CMIP6&amp;rft.volume=121&amp;rft.issue=20&amp;rft.pages=12%2C+460-12%2C+475&amp;rft.date=2016-10-27&amp;rft.issn=2169-897X&amp;rft_id=info%3Adoi%2F10.1002%2F2016jd025320&amp;rft_id=info%3Abibcode%2F2016JGRD..12112460F&amp;rft.aulast=Forster&amp;rft.aufirst=Piers+M.&amp;rft.au=Richardson%2C+Thomas&amp;rft.au=Maycock%2C+Amanda+C.&amp;rft.au=Smith%2C+Christopher+J.&amp;rft.au=Samset%2C+Bjorn+H.&amp;rft.au=Myhre%2C+Gunnar&amp;rft.au=Andrews%2C+Timothy&amp;rft.au=Pincus%2C+Robert&amp;rft.au=Schulz%2C+Michael&amp;rft_id=http%3A%2F%2Fdoi.wiley.com%2F10.1002%2F2016JD025320&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Stevenson, D. S.; Young, P. J.; Naik, V.; Lamarque, J.-F.; Shindell, D. T.; Voulgarakis, A.; Skeie, R. B.; Dalsoren, S. B.; Myhre, G. (2013-03-15). <a class="external text" href="https://www.atmos-chem-phys.net/13/3063/2013/" rel="nofollow">"Tropospheric ozone changes, radiative forcing and attribution to emissions in the Atmospheric Chemistry and Climate Model Intercomparison Project (ACCMIP)"</a>. <i>Atmospheric Chemistry and Physics</i>. <b>13</b> (6): 3063–3085. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2013ACP....13.3063S" rel="nofollow">2013ACP....13.3063S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.5194%2Facp-13-3063-2013" rel="nofollow">10.5194/acp-13-3063-2013</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1680-7316" rel="nofollow">1680-7316</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Atmospheric+Chemistry+and+Physics&amp;rft.atitle=Tropospheric+ozone+changes%2C+radiative+forcing+and+attribution+to+emissions+in+the+Atmospheric+Chemistry+and+Climate+Model+Intercomparison+Project+%28ACCMIP%29&amp;rft.volume=13&amp;rft.issue=6&amp;rft.pages=3063-3085&amp;rft.date=2013-03-15&amp;rft.issn=1680-7316&amp;rft_id=info%3Adoi%2F10.5194%2Facp-13-3063-2013&amp;rft_id=info%3Abibcode%2F2013ACP....13.3063S&amp;rft.aulast=Stevenson&amp;rft.aufirst=D.+S.&amp;rft.au=Young%2C+P.+J.&amp;rft.au=Naik%2C+V.&amp;rft.au=Lamarque%2C+J.-F.&amp;rft.au=Shindell%2C+D.+T.&amp;rft.au=Voulgarakis%2C+A.&amp;rft.au=Skeie%2C+R.+B.&amp;rft.au=Dalsoren%2C+S.+B.&amp;rft.au=Myhre%2C+G.&amp;rft_id=https%3A%2F%2Fwww.atmos-chem-phys.net%2F13%2F3063%2F2013%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Checa-Garcia, Ramiro; Hegglin, Michaela I.; Kinnison, Douglas; Plummer, David A.; Shine, Keith P. (2018-04-06). <a class="external text" href="http://doi.wiley.com/10.1002/2017GL076770" rel="nofollow">"Historical Tropospheric and Stratospheric Ozone Radiative Forcing Using the CMIP6 Database"</a>. <i>Geophysical Research Letters</i>. <b>45</b> (7): 3264–3273. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2018GeoRL..45.3264C" rel="nofollow">2018GeoRL..45.3264C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2F2017gl076770" rel="nofollow">10.1002/2017gl076770</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0094-8276" rel="nofollow">0094-8276</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Geophysical+Research+Letters&amp;rft.atitle=Historical+Tropospheric+and+Stratospheric+Ozone+Radiative+Forcing+Using+the+CMIP6+Database&amp;rft.volume=45&amp;rft.issue=7&amp;rft.pages=3264-3273&amp;rft.date=2018-04-06&amp;rft.issn=0094-8276&amp;rft_id=info%3Adoi%2F10.1002%2F2017gl076770&amp;rft_id=info%3Abibcode%2F2018GeoRL..45.3264C&amp;rft.aulast=Checa-Garcia&amp;rft.aufirst=Ramiro&amp;rft.au=Hegglin%2C+Michaela+I.&amp;rft.au=Kinnison%2C+Douglas&amp;rft.au=Plummer%2C+David+A.&amp;rft.au=Shine%2C+Keith+P.&amp;rft_id=http%3A%2F%2Fdoi.wiley.com%2F10.1002%2F2017GL076770&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Soden, Brian J.; Held, Isaac M.; Colman, Robert; Shell, Karen M.; Kiehl, Jeffrey T.; Shields, Christine A. (2008-07-01). <a class="external text" href="http://journals.ametsoc.org/doi/abs/10.1175/2007JCLI2110.1" rel="nofollow">"Quantifying Climate Feedbacks Using Radiative Kernels"</a>. <i>Journal of Climate</i>. <b>21</b> (14): 3504–3520. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2008JCli...21.3504S" rel="nofollow">2008JCli...21.3504S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F2007jcli2110.1" rel="nofollow">10.1175/2007jcli2110.1</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0894-8755" rel="nofollow">0894-8755</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Climate&amp;rft.atitle=Quantifying+Climate+Feedbacks+Using+Radiative+Kernels&amp;rft.volume=21&amp;rft.issue=14&amp;rft.pages=3504-3520&amp;rft.date=2008-07-01&amp;rft.issn=0894-8755&amp;rft_id=info%3Adoi%2F10.1175%2F2007jcli2110.1&amp;rft_id=info%3Abibcode%2F2008JCli...21.3504S&amp;rft.aulast=Soden&amp;rft.aufirst=Brian+J.&amp;rft.au=Held%2C+Isaac+M.&amp;rft.au=Colman%2C+Robert&amp;rft.au=Shell%2C+Karen+M.&amp;rft.au=Kiehl%2C+Jeffrey+T.&amp;rft.au=Shields%2C+Christine+A.&amp;rft_id=http%3A%2F%2Fjournals.ametsoc.org%2Fdoi%2Fabs%2F10.1175%2F2007JCLI2110.1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-noaa_aggi-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-noaa_aggi_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-noaa_aggi_19-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-noaa_aggi_19-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-noaa_aggi_19-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">
+<img alt="" data-file-height="196" data-file-width="196" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/12px-PD-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/18px-PD-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/24px-PD-icon.svg.png 2x" width="12"/> This article incorporates <a href="/wiki/Copyright_status_of_work_by_the_U.S._government" title="Copyright status of work by the U.S. government">public domain material</a> from the <a class="mw-redirect" href="/wiki/NOAA" title="NOAA">NOAA</a> document: <cite class="citation journal">Butler, J.H. and S.A. Montzka (1 August 2013). <a class="external text" href="http://www.esrl.noaa.gov/gmd/aggi/aggi.html" rel="nofollow">"THE NOAA ANNUAL GREENHOUSE GAS INDEX (AGGI)"</a>. NOAA/ESRL Global Monitoring Division</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=THE+NOAA+ANNUAL+GREENHOUSE+GAS+INDEX+%28AGGI%29&amp;rft.date=2013-08-01&amp;rft.au=Butler%2C+J.H.+and+S.A.+Montzka&amp;rft_id=http%3A%2F%2Fwww.esrl.noaa.gov%2Fgmd%2Faggi%2Faggi.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">
+<a class="mw-redirect" href="/wiki/CFC-113" title="CFC-113">CFC-113</a>, <a class="mw-redirect" href="/wiki/Tetrachloromethane" title="Tetrachloromethane">tetrachloromethane</a> (<span class="chemf nowrap">CCl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>), <a class="mw-redirect" href="/wiki/1,1,1-trichloroethane" title="1,1,1-trichloroethane">1,1,1-trichloroethane</a> (<span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>CCl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>); hydrochlorofluorocarbons (HCFCs) <a class="mw-redirect" href="/wiki/HCFC-22" title="HCFC-22">22</a>, <a class="mw-redirect" href="/wiki/HCFC-141b" title="HCFC-141b">141b</a> and <a class="mw-redirect" href="/wiki/HCFC-142b" title="HCFC-142b">142b</a>; <a href="/wiki/Hydrofluorocarbon" title="Hydrofluorocarbon">hydrofluorocarbons</a> (HFCs) <a class="mw-redirect" href="/wiki/HFC-134a" title="HFC-134a">134a</a>, <a class="mw-redirect" href="/wiki/HFC-152a" title="HFC-152a">152a</a>, <a class="mw-redirect" href="/wiki/HFC-23" title="HFC-23">23</a>, <a class="mw-redirect" href="/wiki/HFC-143a" title="HFC-143a">143a</a>, and <a class="mw-redirect" href="/wiki/HFC-125" title="HFC-125">125</a>; <a href="/wiki/Sulfur_hexafluoride" title="Sulfur hexafluoride">sulfur hexafluoride</a> (<span class="chemf nowrap">SF<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span></span>), and halons <a class="mw-redirect" href="/wiki/Halon_1211" title="Halon 1211">1211</a>, <a class="mw-redirect" href="/wiki/Halon_1301" title="Halon 1301">1301</a> and <a class="mw-redirect" href="/wiki/Halon_2402" title="Halon 2402">2402</a>)</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Hansen, J.E.;  et al. <a class="external text" href="https://data.giss.nasa.gov/gistemp/graphs/" rel="nofollow">"GISS Surface Temperature Analysis: Analysis Graphs and Plots"</a>. Goddard Institute for Space Studies, National Aeronautics and Space Administration.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=GISS+Surface+Temperature+Analysis%3A+Analysis+Graphs+and+Plots&amp;rft.pub=Goddard+Institute+for+Space+Studies%2C+National+Aeronautics+and+Space+Administration&amp;rft.aulast=Hansen&amp;rft.aufirst=J.E.&amp;rft_id=https%3A%2F%2Fdata.giss.nasa.gov%2Fgistemp%2Fgraphs%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>) </span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a href="/wiki/Particulates#Climate_effects" title="Particulates">Particulates#Climate effects</a></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Stephen_E._Schwartz" title="Stephen E. Schwartz">Schwartz, Stephen E.</a>; Charlson, Robert J.; Kahn, Ralph A.; Ogren, John A.; Rodhe, Henning (2010). <a class="external text" href="https://journals.ametsoc.org/doi/abs/10.1175/2009JCLI3461.1" rel="nofollow">"Why hasn't Earth warmed as much as expected?"</a>. <i>Journal of Climate</i> (published 15 May 2010). <b>23</b> (10): 2453–64. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2010JCli...23.2453S" rel="nofollow">2010JCli...23.2453S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F2009JCLI3461.1" rel="nofollow">10.1175/2009JCLI3461.1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Climate&amp;rft.atitle=Why+hasn%E2%80%99t+Earth+warmed+as+much+as+expected%3F&amp;rft.volume=23&amp;rft.issue=10&amp;rft.pages=2453-64&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1175%2F2009JCLI3461.1&amp;rft_id=info%3Abibcode%2F2010JCli...23.2453S&amp;rft.aulast=Schwartz&amp;rft.aufirst=Stephen+E.&amp;rft.au=Charlson%2C+Robert+J.&amp;rft.au=Kahn%2C+Ralph+A.&amp;rft.au=Ogren%2C+John+A.&amp;rft.au=Rodhe%2C+Henning&amp;rft_id=https%3A%2F%2Fjournals.ametsoc.org%2Fdoi%2Fabs%2F10.1175%2F2009JCLI3461.1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadiative+forcing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">IPCC, 2013: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 1535 pp., 31 January 2014.,</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radiative_forcing&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.ipcc.ch/pdf/glossary/ar4-wg1.pdf" rel="nofollow">IPCC glossary </a></li>
+<li><a class="external text" href="http://www.giss.nasa.gov/research/briefs/lacis_01/" rel="nofollow">CO2: The Thermostat that Controls Earth's Temperature</a> by <a href="/wiki/NASA" title="NASA">NASA</a>'s <a href="/wiki/Goddard_Institute_for_Space_Studies" title="Goddard Institute for Space Studies">Goddard Institute for Space Studies</a>, October, 2010, Forcing vs. Feedbacks</li>
+<li><a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change</a>’s <a href="/wiki/IPCC_Fourth_Assessment_Report" title="IPCC Fourth Assessment Report">Fourth Assessment Report</a> (2007), Chapter 2, <a class="external text" href="http://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-chapter2.pdf" rel="nofollow">"Changes in Atmospheric Constituents and Radiative Forcing,"</a> pp. 133–134 (PDF, 8.6 MB, 106 pp.).</li>
+<li><a class="mw-redirect" href="/wiki/Environmental_Protection_Agency" title="Environmental Protection Agency">U.S. EPA</a> (2009), <a class="external text" href="https://web.archive.org/web/20090510053004/http://www.epa.gov/climatechange/science/recentac.html" rel="nofollow">Climate Change – Science</a>. Explanation of climate change topics including radiative forcing.</li>
+<li><a class="mw-redirect" href="/wiki/United_States_National_Research_Council" title="United States National Research Council">United States National Research Council</a> (2005), <i><a class="external text" href="http://www.nap.edu/openbook/0309095069/html/" rel="nofollow">Radiative Forcing of Climate Change: Expanding the Concept and Addressing Uncertainties</a></i>, Board on Atmospheric Sciences and Climate</li>
+<li><a class="external text" href="http://www.sciencenews.org/view/generic/id/332612/title/Small_volcanoes_add_up_to_cooler_climate" rel="nofollow">Small volcanoes add up to cooler climate; Airborne particles help explain why temperatures rose less last decade</a> August 13, 2011; Vol.180 #4 (p. 5) <i><a href="/wiki/Science_News" title="Science News">Science News</a></i></li>
+<li><a class="external text" href="http://earthobservatory.nasa.gov/Features/EnergyBalance/page6.php" rel="nofollow">NASA: The Atmosphere’s Energy Budget</a></li>
+<li><a class="external text" href="https://climateblab.github.io/energy-balance/" rel="nofollow">Energy balance: the simplest climate model</a></li>
+<li><a class="external text" href="https://climateblab.github.io/dangerous-threshold/" rel="nofollow">Explore Mann's climate projections from Scientific American</a></li></ul>
+<div aria-labelledby="Global_warming_and_climate_change" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Global_warming" title="Template:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Global_warming" title="Template talk:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Global_warming&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Global_warming_and_climate_change" style="font-size:114%;margin:0 4em"><a href="/wiki/Global_warming" title="Global warming">Global warming</a> and <a href="/wiki/Climate_change" title="Climate change">climate change</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="Temperatures" style="font-size:114%;margin:0 4em">Temperatures</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brightness_temperature" title="Brightness temperature">Brightness temperature</a></li>
+<li><a href="/wiki/Effective_temperature" title="Effective temperature">Effective temperature</a></li>
+<li><a href="/wiki/Geologic_temperature_record" title="Geologic temperature record">Geologic record</a></li>
+<li><a href="/wiki/Global_warming_hiatus" title="Global warming hiatus">Hiatus</a></li>
+<li><a href="/wiki/Historical_climatology" title="Historical climatology">Historical climatology</a></li>
+<li><a href="/wiki/Instrumental_temperature_record" title="Instrumental temperature record">Instrumental record</a></li>
+<li><a href="/wiki/Paleoclimatology" title="Paleoclimatology">Paleoclimatology</a></li>
+<li><a href="/wiki/Paleotempestology" title="Paleotempestology">Paleotempestology</a></li>
+<li><a href="/wiki/Proxy_(climate)" title="Proxy (climate)">Proxy data</a></li>
+<li><a href="/wiki/Temperature_record_of_the_past_1000_years" title="Temperature record of the past 1000 years">Record of the past 1,000 years</a></li>
+<li><a href="/wiki/Satellite_temperature_measurements" title="Satellite temperature measurements">Satellite measurements</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="Causes" style="font-size:114%;margin:0 4em">Causes</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em"><a class="mw-redirect" href="/wiki/Anthropogenic_climate_change" title="Anthropogenic climate change">Anthropogenic</a><div style="clear:both;"></div>(caused by human activity)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Attribution_of_recent_climate_change" title="Attribution of recent climate change">Attribution of recent climate change</a></li>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">Aviation</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Black_carbon" title="Black carbon">Black carbon</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></li>
+<li><a href="/wiki/Deforestation_and_climate_change" title="Deforestation and climate change">Deforestation</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's radiation balance</a></li>
+<li><a href="/wiki/Ecocide" title="Ecocide">Ecocide</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuel</a></li>
+<li><a href="/wiki/Global_dimming" title="Global dimming">Global dimming</a></li>
+<li><a href="/wiki/Global_warming_potential" title="Global warming potential">Global warming potential</a></li>
+<li><a href="/wiki/Greenhouse_effect" title="Greenhouse effect">Greenhouse effect</a></li>
+<li>(<a href="/wiki/Infrared_window" title="Infrared window">Infrared window</a>)</li>
+<li><a href="/wiki/Greenhouse_gas" title="Greenhouse gas">Greenhouse gases</a></li>
+<li>(<a href="/wiki/Halocarbon" title="Halocarbon">Halocarbons</a>)</li>
+<li><a href="/wiki/Land_use,_land-use_change,_and_forestry" title="Land use, land-use change, and forestry">Land use, land-use change, and forestry</a></li>
+<li><a class="mw-selflink selflink">Radiative forcing</a></li>
+<li><a href="/wiki/Tropospheric_ozone" title="Tropospheric ozone">Tropospheric ozone</a></li>
+<li><a href="/wiki/Urban_heat_island" title="Urban heat island">Urban heat island</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Natural_environment" title="Natural environment">Natural</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albedo" title="Albedo">Albedo</a></li>
+<li><a href="/wiki/Bond_event" title="Bond event">Bond events</a></li>
+<li><a href="/wiki/Climate_oscillation" title="Climate oscillation">Climate oscillations</a></li>
+<li><a href="/wiki/Climate_sensitivity" title="Climate sensitivity">Climate sensitivity</a></li>
+<li><a href="/wiki/Cloud_forcing" title="Cloud forcing">Cloud forcing</a></li>
+<li><a href="/wiki/Cosmic_ray" title="Cosmic ray">Cosmic rays</a></li>
+<li><a href="/wiki/Climate_change_feedback" title="Climate change feedback">Feedbacks</a></li>
+<li><a href="/wiki/Glacial_period" title="Glacial period">Glaciation</a></li>
+<li><a href="/wiki/Global_cooling" title="Global cooling">Global cooling</a></li>
+<li><a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">Milankovitch cycles</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Ocean variability</a>
+<ul><li><a href="/wiki/Atlantic_multidecadal_oscillation" title="Atlantic multidecadal oscillation">AMO</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">ENSO</a></li>
+<li><a href="/wiki/Indian_Ocean_Dipole" title="Indian Ocean Dipole">IOD</a></li>
+<li><a href="/wiki/Pacific_decadal_oscillation" title="Pacific decadal oscillation">PDO</a></li></ul></li>
+<li><a href="/wiki/Orbital_forcing" title="Orbital forcing">Orbital forcing</a></li>
+<li><a href="/wiki/Solar_cycle" title="Solar cycle">Solar variation</a></li>
+<li><a href="/wiki/Volcanism" title="Volcanism">Volcanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_model" title="Climate model">Models</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/General_circulation_model" title="General circulation model">Global climate model</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="History" style="font-size:114%;margin:0 4em">History</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_climate_change_science" title="History of climate change science">History of climate change science</a></li>
+<li><a href="/wiki/Atmospheric_thermodynamics" title="Atmospheric thermodynamics">Atmospheric thermodynamics</a></li>
+<li><a href="/wiki/Svante_Arrhenius" title="Svante Arrhenius">Svante Arrhenius</a></li>
+<li><a href="/wiki/James_Hansen" title="James Hansen">James Hansen</a></li>
+<li><a href="/wiki/Charles_David_Keeling" title="Charles David Keeling">Charles David Keeling</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="Opinion_and_climate_change" style="font-size:114%;margin:0 4em">Opinion and climate change</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Environmental_ethics" title="Environmental ethics">Environmental ethics</a></li>
+<li><a href="/wiki/Media_coverage_of_global_warming" title="Media coverage of global warming">Media coverage of climate change</a></li>
+<li><a href="/wiki/Public_opinion_on_global_warming" title="Public opinion on global warming">Public opinion on climate change</a></li>
+<li>(<a href="/wiki/Global_warming_in_popular_culture" title="Global warming in popular culture">Popular culture</a>)</li>
+<li><a href="/wiki/Scientific_opinion_on_climate_change" title="Scientific opinion on climate change">Scientific opinion on climate change</a></li>
+<li><a href="/wiki/List_of_scientists_who_disagree_with_the_scientific_consensus_on_global_warming" title="List of scientists who disagree with the scientific consensus on global warming">Scientists who disagree with the mainstream assessment</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li><a href="/wiki/Global_warming_conspiracy_theory" title="Global warming conspiracy theory">Global warming conspiracy theory</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_change_opinion_by_country" title="Climate change opinion by country">By country &amp; region</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Climate_change_in_Africa" title="Climate change in Africa">Africa</a></li>
+<li><a href="/wiki/Climate_change_in_the_Arctic" title="Climate change in the Arctic">Arctic</a></li>
+<li><a href="/wiki/Climate_change_in_Argentina" title="Climate change in Argentina">Argentina</a></li>
+<li><a href="/wiki/Climate_change_in_Australia" title="Climate change in Australia">Australia</a></li>
+<li><a href="/wiki/Climate_change_in_Bangladesh" title="Climate change in Bangladesh">Bangladesh</a></li>
+<li><a href="/wiki/Global_warming_in_Belgium" title="Global warming in Belgium">Belgium</a></li>
+<li><a href="/wiki/Climate_change_in_Canada" title="Climate change in Canada">Canada</a></li>
+<li><a href="/wiki/Climate_change_in_China" title="Climate change in China">China</a></li>
+<li><a href="/wiki/Climate_change_in_Europe" title="Climate change in Europe">Europe</a></li>
+<li><a href="/wiki/Climate_change_in_the_European_Union" title="Climate change in the European Union">European Union</a></li>
+<li><a href="/wiki/Climate_change_in_Finland" title="Climate change in Finland">Finland</a></li>
+<li><a href="/wiki/Climate_change_in_Grenada" title="Climate change in Grenada">Grenada</a></li>
+<li><a href="/wiki/Climate_change_in_Japan" title="Climate change in Japan">Japan</a></li>
+<li><a href="/wiki/Global_warming_in_Luxembourg" title="Global warming in Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/Climate_change_in_New_Zealand" title="Climate change in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Global_warming_in_Norway" title="Global warming in Norway">Norway</a></li>
+<li><a href="/wiki/Climate_change_in_Russia" title="Climate change in Russia">Russia</a></li>
+<li><a href="/wiki/Climate_change_in_Scotland" title="Climate change in Scotland">Scotland</a></li>
+<li><a href="/wiki/Climate_change_in_South_Korea" title="Climate change in South Korea">South Korea</a></li>
+<li><a href="/wiki/Climate_change_in_Sweden" title="Climate change in Sweden">Sweden</a></li>
+<li><a href="/wiki/Climate_change_in_Tuvalu" title="Climate change in Tuvalu">Tuvalu</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_Kingdom" title="Climate change in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_States" title="Climate change in the United States">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="Politics" style="font-size:114%;margin:0 4em"><a href="/wiki/Politics_of_global_warming" title="Politics of global warming">Politics</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Power_Plan" title="Clean Power Plan">Clean Power Plan</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li>(<a href="/wiki/Manufactured_controversy" title="Manufactured controversy">Manufactured controversy</a>)</li>
+<li><a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change (IPCC)</a></li>
+<li><a href="/wiki/March_for_Science" title="March for Science">March for Science</a></li>
+<li><a href="/wiki/People%27s_Climate_March" title="People's Climate March">People's Climate March</a></li>
+<li><a href="/wiki/United_Nations_Framework_Convention_on_Climate_Change" title="United Nations Framework Convention on Climate Change">United Nations Framework Convention on Climate Change (UNFCCC / FCCC)</a></li>
+<li><a href="/wiki/Global_climate_regime" title="Global climate regime">Global climate regime</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="Potential_effects_and_issues" style="font-size:114%;margin:0 4em"><a href="/wiki/Effects_of_global_warming" title="Effects of global warming">Potential effects and issues</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abrupt_climate_change" title="Abrupt climate change">Abrupt climate change</a></li>
+<li><a href="/wiki/Anoxic_event" title="Anoxic event">Anoxic event</a></li>
+<li><a href="/wiki/Arctic_dipole_anomaly" title="Arctic dipole anomaly">Arctic dipole anomaly</a></li>
+<li><a href="/wiki/Arctic_haze" title="Arctic haze">Arctic haze</a></li>
+<li><a href="/wiki/Arctic_methane_emissions" title="Arctic methane emissions">Arctic methane emissions</a></li>
+<li><a href="/wiki/Climate_change_and_agriculture" title="Climate change and agriculture">Climate change and agriculture</a></li>
+<li><a href="/wiki/Climate_change_and_ecosystems" title="Climate change and ecosystems">Climate change and ecosystems</a></li>
+<li><a href="/wiki/Climate_change_and_gender" title="Climate change and gender">Climate change and gender</a></li>
+<li><a href="/wiki/Climate_change_and_poverty" title="Climate change and poverty">Climate change and poverty</a></li>
+<li><a href="/wiki/Drought" title="Drought">Drought</a></li>
+<li><a href="/wiki/Economics_of_global_warming" title="Economics of global warming">Economics of global warming</a></li>
+<li><a href="/wiki/Effects_of_climate_change_on_plant_biodiversity" title="Effects of climate change on plant biodiversity">Effects on plant biodiversity</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_human_health" title="Effects of global warming on human health">Effects on health</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_humans" title="Effects of global warming on humans">Effects on humans</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_marine_mammals" title="Effects of global warming on marine mammals">Effects on marine mammals</a></li>
+<li><a href="/wiki/Environmental_migrant" title="Environmental migrant">Environmental migrant</a></li>
+<li><a href="/wiki/Extinction_risk_from_global_warming" title="Extinction risk from global warming">Extinction risk from global warming</a></li>
+<li><a href="/wiki/Fisheries_and_climate_change" title="Fisheries and climate change">Fisheries and climate change</a></li>
+<li><a href="/wiki/Forest_dieback" title="Forest dieback">Forest dieback</a></li>
+<li><a href="/wiki/Climate_change,_industry_and_society" title="Climate change, industry and society">Industry and society</a></li>
+<li><a href="/wiki/Iris_hypothesis" title="Iris hypothesis">Iris hypothesis</a></li>
+<li><a href="/wiki/Megadrought" title="Megadrought">Megadrought</a></li>
+<li><a href="/wiki/Ocean_acidification" title="Ocean acidification">Ocean acidification</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Physical_impacts_of_climate_change" title="Physical impacts of climate change">Physical impacts</a></li>
+<li><a href="/wiki/Polar_stratospheric_cloud" title="Polar stratospheric cloud">Polar stratospheric cloud</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><a href="/wiki/Retreat_of_glaciers_since_1850" title="Retreat of glaciers since 1850">Retreat of glaciers since 1850</a></li>
+<li><a href="/wiki/Runaway_climate_change" title="Runaway climate change">Runaway climate change</a></li>
+<li><a href="/wiki/Sea_level_rise" title="Sea level rise">Sea level rise</a></li>
+<li><a href="/wiki/Season_creep" title="Season creep">Season creep</a></li>
+<li><a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">Shutdown of thermohaline circulation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">By country</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Effects_of_global_warming_on_Australia" title="Effects of global warming on Australia">Australia</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_South_Asia" title="Effects of global warming on South Asia">South Asia</a>
+<ul><li><a class="mw-redirect" href="/wiki/Effects_of_global_warming_on_India" title="Effects of global warming on India">India</a></li>
+<li><a href="/wiki/Climate_change_adaptation_in_Nepal" title="Climate change adaptation in Nepal">Nepal</a></li></ul></li>
+<li><a href="/wiki/National_Climate_Assessment" title="National Climate Assessment">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="Mitigation" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Mitigation</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Development_Mechanism" title="Clean Development Mechanism">Clean Development Mechanism</a></li>
+<li><a href="/wiki/Joint_Implementation" title="Joint Implementation">Joint Implementation</a></li>
+<li><a href="/wiki/Bali_Road_Map" title="Bali Road Map">Bali Road Map</a></li>
+<li><a href="/wiki/2009_United_Nations_Climate_Change_Conference" title="2009 United Nations Climate Change Conference">2009 United Nations Climate Change Conference</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Governmental</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Climate_Change_Programme" title="European Climate Change Programme">European Climate Change Programme</a></li>
+<li><a href="/wiki/G8_Climate_Change_Roundtable" title="G8 Climate Change Roundtable">G8 Climate Change Roundtable</a></li>
+<li><a href="/wiki/United_Kingdom_Climate_Change_Programme" title="United Kingdom Climate Change Programme">United Kingdom Climate Change Programme</a></li>
+<li><a href="/wiki/Paris_Agreement" title="Paris Agreement">Paris Agreement</a>
+<ul><li><a href="/wiki/United_States_withdrawal_from_the_Paris_Agreement" title="United States withdrawal from the Paris Agreement">United States withdrawal</a></li></ul></li>
+<li><a href="/wiki/Regional_climate_change_initiatives_in_the_United_States" title="Regional climate change initiatives in the United States">Regional climate change initiatives in the United States</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">List of climate change initiatives</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Emissions reduction</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_credit" title="Carbon credit">Carbon credit</a></li>
+<li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil_fuel_phase-out" title="Fossil fuel phase-out">Fossil fuel phase-out</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Carbon_neutrality" title="Carbon neutrality">Carbon-free</a> energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">Carbon capture and storage</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear power</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Personal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Individual_action_on_climate_change" title="Individual action on climate change">Individual action on climate change</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_dioxide_removal" title="Carbon dioxide removal">Carbon dioxide removal</a></li>
+<li><a href="/wiki/Carbon_sink" title="Carbon sink">Carbon sink</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate action</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">Climate Action Plan</a></li>
+<li><a href="/wiki/Climate_change_mitigation_scenarios" title="Climate change mitigation scenarios">Climate change mitigation scenarios</a></li>
+<li><a href="/wiki/Climate_engineering" title="Climate engineering">Climate engineering</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Individual and political action on climate change</a></li>
+<li><a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">Reducing emissions from deforestation and forest degradation</a></li>
+<li><a href="/wiki/Reforestation" title="Reforestation">Reforestation</a></li>
+<li><a href="/wiki/Urban_reforestation" title="Urban reforestation">Urban reforestation</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="Proposed_adaptations" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_adaptation" title="Climate change adaptation">Proposed adaptations</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">Strategies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dam" title="Dam">Damming</a> <a href="/wiki/Glacial_lake" title="Glacial lake">glacial lakes</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Drought_tolerance" title="Drought tolerance">Drought tolerance</a></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation investment</a></li>
+<li><a href="/wiki/Rainwater_tank" title="Rainwater tank">Rainwater storage</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Weather_modification" title="Weather modification">Weather modification</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Programmes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avoiding_Dangerous_Climate_Change_(2005_conference)" title="Avoiding Dangerous Climate Change (2005 conference)">Avoiding dangerous climate change</a></li>
+<li><a href="/wiki/Land_allocation_decision_support_system" title="Land allocation decision support system">Land allocation decision support system</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/Glossary_of_climate_change" title="Glossary of climate change">Glossary</a></li>
+<li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/Index_of_climate_change_articles" title="Index of climate change articles">Index</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Climate_change" title="Category:Climate change">Climate change</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Global_warming" title="Category:Global warming">Global warming</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Global_warming" title="Portal:Global warming">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1243
+Cached time: 20181013110847
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.640 seconds
+Real time usage: 0.771 seconds
+Preprocessor visited node count: 3924/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 193958/2097152 bytes
+Template argument size: 18128/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 65688/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.300/10.000 seconds
+Lua memory usage: 5.64 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  552.199      1 -total
+ 61.91%  341.854      1 Template:Reflist
+ 27.76%  153.276     13 Template:Cite_journal
+ 20.16%  111.349      7 Template:Cite_web
+ 15.06%   83.158      1 Template:Global_warming
+ 14.46%   79.867      1 Template:Navbox_with_collapsible_groups
+  7.51%   41.497      1 Template:Better_source
+  6.77%   37.381      1 Template:Fix
+  6.54%   36.091      9 Template:Chem
+  5.63%   31.087      9 Template:Chem/link
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:467147-0!canonical!math=5 and timestamp 20181013110846 and revision id 858326271
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Radiative_forcing&amp;oldid=858326271">https://en.wikipedia.org/w/index.php?title=Radiative_forcing&amp;oldid=858326271</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Climate_forcing" title="Category:Climate forcing">Climate forcing</a></li><li><a href="/wiki/Category:Atmospheric_radiation" title="Category:Atmospheric radiation">Atmospheric radiation</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_inconsistent_citation_formats" title="Category:Articles with inconsistent citation formats">Articles with inconsistent citation formats</a></li><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_February_2018" title="Category:Articles lacking reliable references from February 2018">Articles lacking reliable references from February 2018</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Radiative+forcing" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Radiative+forcing" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Radiative_forcing" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Radiative_forcing" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Radiative_forcing">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Radiative_forcing&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Radiative_forcing&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Radiative_forcing" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Radiative_forcing" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Radiative_forcing&amp;oldid=858326271" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Radiative_forcing&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1463606" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Radiative_forcing&amp;id=858326271" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Radiative+forcing">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Radiative+forcing&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Radiative_forcing&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/For%C3%A7ant_radiatiu" hreflang="ca" lang="ca" title="Forçant radiatiu – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Radia%C4%8Dn%C3%AD_p%C5%AFsoben%C3%AD" hreflang="cs" lang="cs" title="Radiační působení – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Str%C3%A5lingsp%C3%A5virkning" hreflang="da" lang="da" title="Strålingspåvirkning – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Strahlungsantrieb" hreflang="de" lang="de" title="Strahlungsantrieb – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Forzamiento_radiativo" hreflang="es" lang="es" title="Forzamiento radiativo – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/For%C3%A7age_radiatif" hreflang="fr" lang="fr" title="Forçage radiatif – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Forzante_radiativo" hreflang="it" lang="it" title="Forzante radiativo – Italian">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Stralingsforcering" hreflang="nl" lang="nl" title="Stralingsforcering – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%94%BE%E5%B0%84%E5%BC%B7%E5%88%B6%E5%8A%9B" hreflang="ja" lang="ja" title="放射強制力 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Str%C3%A5lingsp%C3%A5driv" hreflang="no" lang="no" title="Strålingspådriv – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Wymuszanie_radiacyjne" hreflang="pl" lang="pl" title="Wymuszanie radiacyjne – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/For%C3%A7amento_radiativo" hreflang="pt" lang="pt" title="Forçamento radiativo – Portuguese">Português</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/S%C3%A4teilypakote" hreflang="fi" lang="fi" title="Säteilypakote – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D1%96%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D0%B9_%D0%B2%D0%BF%D0%BB%D0%B8%D0%B2" hreflang="uk" lang="uk" title="Радіаційний вплив – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%BC%BB%E5%B0%84%E9%A9%85%E5%8B%95%E5%8A%9B" hreflang="zh" lang="zh" title="輻射驅動力 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1463606#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 6 September 2018, at 11:39<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Radiative_forcing&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.640","walltime":"0.771","ppvisitednodes":{"value":3924,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":193958,"limit":2097152},"templateargumentsize":{"value":18128,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":65688,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  552.199      1 -total"," 61.91%  341.854      1 Template:Reflist"," 27.76%  153.276     13 Template:Cite_journal"," 20.16%  111.349      7 Template:Cite_web"," 15.06%   83.158      1 Template:Global_warming"," 14.46%   79.867      1 Template:Navbox_with_collapsible_groups","  7.51%   41.497      1 Template:Better_source","  6.77%   37.381      1 Template:Fix","  6.54%   36.091      9 Template:Chem","  5.63%   31.087      9 Template:Chem/link"]},"scribunto":{"limitreport-timeusage":{"value":"0.300","limit":"10.000"},"limitreport-memusage":{"value":5910222,"limit":52428800}},"cachereport":{"origin":"mw1243","timestamp":"20181013110847","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw1254"});});</script>
+</body>
+</html>

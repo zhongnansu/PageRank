@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Molecular orbital diagram - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Molecular_orbital_diagram","wgTitle":"Molecular orbital diagram","wgCurRevisionId":862386123,"wgRevisionId":862386123,"wgArticleId":7337217,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Chemical bonding"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Molecular_orbital_diagram","wgRelevantArticleId":7337217,"wgRequestId":"W7llyQrAIEcAAKafYjAAAAAN","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q2745189","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Molecular_orbital_diagram" rel="alternate"/>
+<link href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Molecular_orbital_diagram" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Molecular_orbital_diagram rootpage-Molecular_orbital_diagram skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Molecular orbital diagram</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>A <b>molecular orbital diagram</b>, or <b>MO diagram</b>, is a qualitative descriptive tool explaining <a class="mw-redirect" href="/wiki/Chemical_bonding" title="Chemical bonding">chemical bonding</a> in <a href="/wiki/Molecule" title="Molecule">molecules</a> in terms of <a href="/wiki/Molecular_orbital_theory" title="Molecular orbital theory">molecular orbital theory</a> in general and the <a href="/wiki/Linear_combination_of_atomic_orbitals" title="Linear combination of atomic orbitals">linear combination of atomic orbitals</a> (LCAO) molecular orbital method in particular.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>   A fundamental principle of these theories is that as atoms bond to form molecules, a certain number of <a href="/wiki/Atomic_orbital" title="Atomic orbital">atomic orbitals</a> combine to form the same number of <a href="/wiki/Molecular_orbital" title="Molecular orbital">molecular orbitals</a>, although the <a href="/wiki/Electron" title="Electron">electrons</a> involved may be redistributed among the orbitals.  This tool is very well suited for simple <a href="/wiki/Diatomic_molecule" title="Diatomic molecule">diatomic molecules</a> such as <a class="mw-redirect" href="/wiki/Dihydrogen" title="Dihydrogen">dihydrogen</a>, <a class="mw-redirect" href="/wiki/Dioxygen" title="Dioxygen">dioxygen</a>, and <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a> but becomes more complex when discussing even comparatively simple polyatomic molecules, such as <a href="/wiki/Methane" title="Methane">methane</a>.  MO diagrams can explain why some molecules exist and others do not. They can also predict bond strength, as well as the <a class="mw-redirect" href="/wiki/Electronic_transition" title="Electronic transition">electronic transitions</a> that can take place.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Basics"><span class="tocnumber">2</span> <span class="toctext">Basics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#s-p_mixing"><span class="tocnumber">3</span> <span class="toctext">s-p mixing</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Diatomic_MO_diagrams"><span class="tocnumber">4</span> <span class="toctext">Diatomic MO diagrams</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Dihydrogen"><span class="tocnumber">4.1</span> <span class="toctext">Dihydrogen</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Dihelium_and_diberyllium"><span class="tocnumber">4.2</span> <span class="toctext">Dihelium and diberyllium</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Dilithium"><span class="tocnumber">4.3</span> <span class="toctext">Dilithium</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Diboron"><span class="tocnumber">4.4</span> <span class="toctext">Diboron</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Dicarbon"><span class="tocnumber">4.5</span> <span class="toctext">Dicarbon</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Dinitrogen"><span class="tocnumber">4.6</span> <span class="toctext">Dinitrogen</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Dioxygen"><span class="tocnumber">4.7</span> <span class="toctext">Dioxygen</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Mixing"><span class="tocnumber">4.8</span> <span class="toctext">Mixing</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Difluorine_and_dineon"><span class="tocnumber">4.9</span> <span class="toctext">Difluorine and dineon</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Dimolybdenum_and_ditungsten"><span class="tocnumber">4.10</span> <span class="toctext">Dimolybdenum and ditungsten</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#MO_energies_overview"><span class="tocnumber">5</span> <span class="toctext">MO energies overview</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Heteronuclear_diatomics"><span class="tocnumber">6</span> <span class="toctext">Heteronuclear diatomics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#NO"><span class="tocnumber">6.1</span> <span class="toctext">NO</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#HF"><span class="tocnumber">6.2</span> <span class="toctext">HF</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Triatomic_molecules"><span class="tocnumber">7</span> <span class="toctext">Triatomic molecules</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Carbon_dioxide"><span class="tocnumber">7.1</span> <span class="toctext">Carbon dioxide</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Water"><span class="tocnumber">7.2</span> <span class="toctext">Water</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Qualitative MO theory was introduced in 1928 by <a href="/wiki/Robert_S._Mulliken" title="Robert S. Mulliken">Robert S. Mulliken</a><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> and <a href="/wiki/Friedrich_Hund" title="Friedrich Hund">Friedrich Hund</a>.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> A mathematical description was provided by contributions from <a href="/wiki/Douglas_Hartree" title="Douglas Hartree">Douglas Hartree</a> in 1928<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> and <a href="/wiki/Vladimir_Fock" title="Vladimir Fock">Vladimir Fock</a> in 1930.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Basics">Basics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=2" title="Edit section: Basics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Molecular orbital diagrams are diagrams of molecular orbital (MO) <a href="/wiki/Energy_level" title="Energy level">energy levels</a>, shown as short horizontal lines in the center, flanked by constituent atomic orbital (AO) energy levels for comparison, with the energy levels increasing from the bottom to the top.  Lines, often dashed diagonal lines, connect MO levels with their constituent AO levels.  <a href="/wiki/Degenerate_energy_levels" title="Degenerate energy levels">Degenerate energy levels</a> are commonly shown side by side.  Appropriate AO and MO levels are filled with electrons by the Pauli Exclusion Principle, symbolized by small vertical arrows whose directions indicate the <a class="mw-redirect" href="/wiki/Electron_spin" title="Electron spin">electron spins</a>.  The AO or MO shapes themselves are often not shown on these diagrams.  For a  <a href="/wiki/Diatomic_molecule" title="Diatomic molecule">diatomic molecule</a>, an MO diagram effectively shows the energetics of the bond between the two atoms, whose AO unbonded energies are shown on the sides.  For simple polyatomic molecules with a "central atom" such as <a href="/wiki/Methane" title="Methane">methane</a> (<span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>) or <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> (<span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>), a MO diagram may show one of the identical bonds to the central atom.  For other polyatomic molecules, an MO diagram may show one or more bonds of interest in the molecules, leaving others out for simplicity.  Often even for simple molecules, AO and MO levels of inner orbitals and their electrons may be omitted from a diagram for simplicity.
+</p><p>In MO theory molecular orbitals form by the overlap of atomic orbitals. Because σ bonds feature greater overlap than π bonds, σ and σ* bonding and antibonding orbitals feature greater energy splitting (separation) than π and π* orbitals. The atomic orbital energy correlates with <a href="/wiki/Electronegativity" title="Electronegativity">electronegativity</a> as more electronegative atoms hold their electrons more tightly, lowering their energies. Sharing of molecular orbitals between atoms is more important when the atomic orbitals have comparable energy; when the energies differ greatly the orbitals tend to be localized on one atom and the mode of bonding becomes <a class="mw-redirect" href="/wiki/Ionic_bond" title="Ionic bond">ionic</a>.  A second condition for overlapping atomic orbitals is that they have the same symmetry.
+</p>
+<table class="wikitable">
+<tbody><tr align="center">
+<td>
+<div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Dihydrogen-MO-Diagram.svg" title="MO diagram hydrogen"><img alt="MO diagram hydrogen" data-file-height="1000" data-file-width="2056" height="195" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dihydrogen-MO-Diagram.svg/400px-Dihydrogen-MO-Diagram.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dihydrogen-MO-Diagram.svg/600px-Dihydrogen-MO-Diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dihydrogen-MO-Diagram.svg/800px-Dihydrogen-MO-Diagram.svg.png 2x" width="400"/></a></div></div>
+</td></tr>
+<tr align="center">
+<th>MO diagram for dihydrogen.  Here electrons are shown by dots.
+</th></tr></tbody></table>
+<p>Two atomic orbitals can overlap in two ways depending on their phase relationship. The phase of an orbital is a direct consequence of the wave-like properties of electrons. In graphical representations of orbitals, orbital phase is depicted either by a plus or minus sign (which has no relationship to <a href="/wiki/Electric_charge" title="Electric charge">electric charge</a>) or by shading one lobe. The sign of the phase itself does not have physical meaning except when mixing orbitals to form molecular orbitals.
+</p><p>Two same-sign orbitals have a constructive overlap forming a molecular orbital with the bulk of the <a href="/wiki/Electron_density" title="Electron density">electron density</a> located between the two nuclei. This MO is called the bonding orbital and its energy is lower than that of the original atomic orbitals. A bond involving molecular orbitals which are symmetric with respect to rotation around the bond axis is called a <a href="/wiki/Sigma_bond" title="Sigma bond">sigma bond</a> (<b>σ</b>-bond).  If the phase changes, the bond becomes a <a href="/wiki/Pi_bond" title="Pi bond">pi bond</a> (<b>π</b>-bond). Symmetry labels are further defined by whether the orbital maintains its original character after an inversion about its center; if it does, it is defined <a href="/wiki/Molecular_term_symbol" title="Molecular term symbol">gerade</a>, <i>g</i>. If the orbital does not maintain its original character, it is <a href="/wiki/Molecular_term_symbol" title="Molecular term symbol">ungerade</a>, <i>u</i>.
+</p><p>Atomic orbitals can also interact with each other out-of-phase which leads to destructive cancellation and no electron density between the two nuclei at the so-called nodal plane depicted as a perpendicular dashed line. In this <a class="mw-redirect" href="/wiki/Anti-bonding" title="Anti-bonding">anti-bonding</a> MO with energy much higher than the original AO's, any electrons present are located in lobes pointing away from the central internuclear axis. For a corresponding <b>σ</b>-bonding orbital, such an orbital would be symmetrical but differentiated from it by an <a href="/wiki/Asterisk" title="Asterisk">asterisk</a> as in <b>σ*</b>.  For a <b>π</b>-bond, corresponding bonding and antibonding orbitals would not have such symmetry around the bond axis and be designated  <b>π</b> and  <b>π*</b>, respectively.
+</p><p>The next step in constructing an MO diagram is filling the newly formed molecular orbitals with electrons. Three general rules apply:
+</p>
+<ul><li>The <a href="/wiki/Aufbau_principle" title="Aufbau principle">Aufbau principle</a> states that orbitals are filled starting with the lowest energy</li>
+<li>The <a href="/wiki/Pauli_exclusion_principle" title="Pauli exclusion principle">Pauli exclusion principle</a> states that the maximum number of electrons occupying an orbital is two, with opposite spins</li>
+<li><a class="mw-redirect" href="/wiki/Hund%27s_rule" title="Hund's rule">Hund's rule</a> states that when there are several MO's with equal energy, the electrons occupy the MO's one at a time before two electrons occupy the same MO.</li></ul>
+<p>The filled MO highest in energy is called the <a href="/wiki/HOMO/LUMO" title="HOMO/LUMO">Highest Occupied Molecular Orbital</a> or HOMO and the empty MO just above it is then the <a href="/wiki/HOMO/LUMO" title="HOMO/LUMO">Lowest Unoccupied Molecular Orbital</a> or LUMO. The electrons in the bonding MO's are called <a class="mw-redirect" href="/wiki/Bonding_electron" title="Bonding electron">bonding electrons</a> and any electrons in the antibonding orbital would be called <a class="mw-redirect" href="/wiki/Antibonding_electron" title="Antibonding electron">antibonding electrons</a>. The reduction in energy of these electrons is the driving force for chemical bond formation. Whenever mixing for an atomic orbital is not possible for reasons of symmetry or energy, a <a href="/wiki/Non-bonding_orbital" title="Non-bonding orbital">non-bonding MO</a> is created, which is often quite similar to and has energy level equal or close to its constituent AO, thus not contributing to bonding energetics. The resulting electron configuration can be described in terms of bond type, parity and occupancy for example dihydrogen 1σ<sub><i>g</i></sub><sup>2</sup>. Alternatively it can be written as a <a href="/wiki/Molecular_term_symbol" title="Molecular term symbol">molecular term symbol</a> e.g. <sup>1</sup><a href="/wiki/Sigma" title="Sigma">Σ</a><sub>g</sub><sup>+</sup> for dihydrogen.  Sometimes, the letter <b>n</b> is used to designate a non-bonding orbital.
+</p><p>For a stable bond, the <a href="/wiki/Bond_order" title="Bond order">bond order</a>, defined as
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \ {\mbox{Bond Order}}={\frac {({\mbox{No. of electrons in bonding MOs}})-({\mbox{No. of electrons in anti-bonding MOs}})}{2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>Bond Order</mtext>
+</mstyle>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>No. of electrons in bonding MOs</mtext>
+</mstyle>
+</mrow>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>No. of electrons in anti-bonding MOs</mtext>
+</mstyle>
+</mrow>
+<mo stretchy="false">)</mo>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \ {\mbox{Bond Order}}={\frac {({\mbox{No. of electrons in bonding MOs}})-({\mbox{No. of electrons in anti-bonding MOs}})}{2}}}</annotation>
+</semantics>
+</math></span><img alt="\ {\mbox{Bond Order}}={\frac  {({\mbox{No. of electrons in bonding MOs}})-({\mbox{No. of electrons in anti-bonding MOs}})}{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c46382ad27c3724109f3a5125f3860e28d6ab95d" style="vertical-align: -1.838ex; width:92.081ex; height:5.676ex;"/></span>
+</p><p>must be positive.
+</p><p>The relative order in MO energies and occupancy corresponds with electronic transitions found in <a class="mw-redirect" href="/wiki/Photoelectron_spectroscopy" title="Photoelectron spectroscopy">photoelectron spectroscopy</a> (PES). In this way it is possible to experimentally verify MO theory. In general, sharp PES transitions indicate nonbonding electrons and broad bands are indicative of bonding and antibonding delocalized electrons. Bands can resolve into fine structure with spacings corresponding to vibrational modes of the molecular cation (see <a href="/wiki/Franck%E2%80%93Condon_principle" title="Franck–Condon principle">Franck–Condon principle</a>). PES energies are different from <a href="/wiki/Ionization_energy" title="Ionization energy">ionisation energies</a> which relates to the energy required to strip off the <span class="texhtml">n</span>th electron after the first <span class="texhtml">n − 1</span> electrons have been removed. MO diagrams with energy values can be obtained mathematically using the <a href="/wiki/Hartree%E2%80%93Fock_method" title="Hartree–Fock method">Hartree–Fock method</a>. The starting point for any MO diagram is a predefined <a href="/wiki/Molecular_geometry" title="Molecular geometry">molecular geometry</a> for the molecule in question. An exact relationship between geometry and orbital energies is given in <a href="/wiki/Walsh_diagram" title="Walsh diagram">Walsh diagrams</a>.
+</p>
+<h2><span class="mw-headline" id="s-p_mixing">s-p mixing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=3" title="Edit section: s-p mixing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The phenomenon of s-p mixing occurs when molecular orbitals of the same symmetry formed from the combination of 2s and 2p atomic orbitals are close enough in energy to further interact, which can lead to a change in the expected order of orbital energies.<sup class="reference" id="cite_ref-K&amp;W_9-0"><a href="#cite_note-K&amp;W-9">[9]</a></sup>
+When molecular orbitals are formed, they are mathematically obtained from linear combinations of the starting atomic orbitals. Generally, in order to predict their relative energies, it is sufficient to consider only one atomic orbital from each atom to form a pair of molecular orbitals, as the contributions from the others are negligible. For instance, in dioxygen the 3σ<sub>g</sub> MO can be roughly considered to be formed from interaction of oxygen 2p<sub>z</sub> AOs only. It is found to be lower in energy than the 1π<sub>u</sub> MO, both experimentally and from more sophisticated computational models, so that the expected order of filling is the 3σ<sub>g</sub> before the 1π<sub>u</sub>.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> Hence the approximation to ignore the effects of further interactions is valid. 
+However, experimental and computational results for homonuclear diatomics from Li<sub>2</sub> to N<sub>2</sub> and certain heteronuclear combinations such as CO and NO show that the 3σ<sub>g</sub> MO is higher in energy than (and therefore filled after) the 1π<sub>u</sub> MO.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> This can be rationalised as the first-approximation 3σ<sub>g</sub> has a suitable symmetry to interact with the 2σ<sub>g</sub> bonding MO formed from the 2s AOs. As a result, the 2σ<sub>g</sub> is lowered in energy, whilst the 3σ<sub>g</sub> is raised. For the aforementioned molecules this results in the 3σ<sub>g</sub> being higher in energy than the 1π<sub>u</sub> MO, which is where s-p mixing is most evident. Likewise, interaction between the 2σ<sub>u</sub>* and 3σ<sub>u</sub>* MOs leads to a lowering in energy of the former and a raising in energy of the latter.<sup class="reference" id="cite_ref-K&amp;W_9-1"><a href="#cite_note-K&amp;W-9">[9]</a></sup> However this is of less significance than the interaction of the bonding MOs.
+</p>
+<h2><span class="mw-headline" id="Diatomic_MO_diagrams">Diatomic MO diagrams</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=4" title="Edit section: Diatomic MO diagrams">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A <b>diatomic molecular orbital diagram</b> is used to understand the <a class="mw-redirect" href="/wiki/Bonding_(chemistry)" title="Bonding (chemistry)">bonding</a> of a <a href="/wiki/Diatomic_molecule" title="Diatomic molecule">diatomic molecule</a>. MO diagrams can be used to deduce magnetic properties of a molecule and how they change with <a href="/wiki/Ionization" title="Ionization">ionization</a>. They also give insight to the bond order of the molecule, how many bonds are shared between the two atoms.<sup class="reference" id="cite_ref-Pfennig_12-0"><a href="#cite_note-Pfennig-12">[12]</a></sup>
+</p><p>The energies of the electrons are further understood by applying the <a href="/wiki/Schr%C3%B6dinger_equation" title="Schrödinger equation">Schrödinger equation</a> to a molecule. <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">Quantum Mechanics</a> is able to describe the energies exactly for single electron systems but can be approximated precisely for multiple electron systems using the <a class="mw-redirect" href="/wiki/Born-Oppenheimer_Approximation" title="Born-Oppenheimer Approximation">Born-Oppenheimer Approximation</a>, such that the nuclei are assumed stationary. The <a href="/wiki/Linear_combination_of_atomic_orbitals" title="Linear combination of atomic orbitals">LCAO-MO</a> method is used in conjunction to further describe the <a href="/wiki/Quantum_state" title="Quantum state">state</a> of the molecule.
+<sup class="reference" id="cite_ref-McQuarrie_13-0"><a href="#cite_note-McQuarrie-13">[13]</a></sup>
+</p><p><a href="/wiki/Diatomic_molecule" title="Diatomic molecule">Diatomic molecules</a> consist of a bond between only two <a href="/wiki/Atom" title="Atom">atoms</a>. They can be broken into two categories: homonuclear and heteronuclear. A homonuclear diatomic molecule is one composed of two atoms of the same <a href="/wiki/Chemical_element" title="Chemical element">element</a>. Examples are <a href="/wiki/Hydrogen" title="Hydrogen">H<sub>2</sub></a>, <a href="/wiki/Oxygen" title="Oxygen">O<sub>2</sub></a>, and <a href="/wiki/Nitrogen" title="Nitrogen">N<sub>2</sub></a>. A heteronuclear diatomic molecule is composed of two atoms of two different elements. Examples include <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">CO</a>, <a href="/wiki/Hydrochloric_acid" title="Hydrochloric acid">HCl</a>, and <a class="mw-redirect" href="/wiki/Nitrogen_monoxide" title="Nitrogen monoxide">NO</a>.
+</p>
+<h3><span class="mw-headline" id="Dihydrogen">Dihydrogen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=5" title="Edit section: Dihydrogen">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:H2modiagramCR.jpg"><img alt="" class="thumbimage" data-file-height="360" data-file-width="504" height="157" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/H2modiagramCR.jpg/220px-H2modiagramCR.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/H2modiagramCR.jpg/330px-H2modiagramCR.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/H2modiagramCR.jpg/440px-H2modiagramCR.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:H2modiagramCR.jpg" title="Enlarge"></a></div>H2 Molecular Orbital Diagram</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:MO_diagram_dihydrogen.png"><img alt="" class="thumbimage" data-file-height="408" data-file-width="675" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/MO_diagram_dihydrogen.png/220px-MO_diagram_dihydrogen.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/MO_diagram_dihydrogen.png/330px-MO_diagram_dihydrogen.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/MO_diagram_dihydrogen.png/440px-MO_diagram_dihydrogen.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:MO_diagram_dihydrogen.png" title="Enlarge"></a></div>MO diagram of dihydrogen</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:MO_diagram_dihydrogen_bond_break.png"><img alt="" class="thumbimage" data-file-height="401" data-file-width="593" height="149" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/MO_diagram_dihydrogen_bond_break.png/220px-MO_diagram_dihydrogen_bond_break.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/MO_diagram_dihydrogen_bond_break.png/330px-MO_diagram_dihydrogen_bond_break.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/MO_diagram_dihydrogen_bond_break.png/440px-MO_diagram_dihydrogen_bond_break.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:MO_diagram_dihydrogen_bond_break.png" title="Enlarge"></a></div>Bond breaking in MO diagram</div></div></div>
+<p>The smallest molecule, <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> gas exists as dihydrogen (H-H) with a single <a href="/wiki/Covalent_bond" title="Covalent bond">covalent bond</a> between two hydrogen atoms. As each hydrogen atom has a single 1s <a href="/wiki/Atomic_orbital" title="Atomic orbital">atomic orbital</a> for its <a href="/wiki/Electron" title="Electron">electron</a>, the bond forms by overlap of these two atomic orbitals. In the figure the two atomic orbitals are depicted on the left and on the right. The vertical axis always represents the <a href="/wiki/Atomic_orbital#Orbital_energy" title="Atomic orbital">orbital energies</a>. Each atomic orbital is singly occupied with an up or down arrow representing an electron.
+</p><p>Application of MO theory for dihydrogen results in having both electrons in the bonding MO with electron configuration 1σ<sub><i>g</i></sub><sup>2</sup>. The bond order for dihydrogen is (2-0)/2 = 1. The <a class="mw-redirect" href="/wiki/Photoelectron_spectrum" title="Photoelectron spectrum">photoelectron spectrum</a> of dihydrogen shows a single set of multiplets between 16 and 18 <a href="/wiki/Electronvolt" title="Electronvolt">eV</a> (electron volts).<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>
+</p><p>The dihydrogen MO diagram helps explain how a bond breaks. When applying energy to dihydrogen, a <a href="/wiki/Molecular_electronic_transition" title="Molecular electronic transition">molecular electronic transition</a> takes place when one electron in the bonding MO is promoted to the antibonding MO. The result is that there is no longer a net gain in energy.
+</p><p>The superposition of the two 1s atomic orbitals leads to the formation of the σ and σ* molecular orbitals. Two atomic orbitals in phase create a larger electron density, which leads to the σ orbital. If the two 1s orbitals are not in phase, a node between them causes a jump in energy, the σ* orbital. From the diagram you can deduce the <a href="/wiki/Bond_order" title="Bond order">bond order</a>, how many bonds are formed between the two atoms. For this molecule it is equal to one. Bond order can also give insight to how close or stretched a bond has become if a molecule is ionized.<sup class="reference" id="cite_ref-Pfennig_12-1"><a href="#cite_note-Pfennig-12">[12]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Dihelium_and_diberyllium">Dihelium and diberyllium</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=6" title="Edit section: Dihelium and diberyllium">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a class="mw-redirect" href="/wiki/Dihelium" title="Dihelium">Dihelium</a> (He-He) is a hypothetical molecule and MO theory helps to explain why dihelium does not exist in nature. The MO diagram for dihelium looks very similar to that of dihydrogen, but each helium has two electrons in its 1s atomic orbital rather than one for hydrogen, so there are now four electrons to place in the newly formed molecular orbitals. 
+</p>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:MO_diagram_dihelium.png"><img alt="" class="thumbimage" data-file-height="401" data-file-width="593" height="203" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/MO_diagram_dihelium.png/300px-MO_diagram_dihelium.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/MO_diagram_dihelium.png/450px-MO_diagram_dihelium.png 1.5x, //upload.wikimedia.org/wikipedia/commons/7/71/MO_diagram_dihelium.png 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:MO_diagram_dihelium.png" title="Enlarge"></a></div>MO diagram of dihelium</div></div></div></div>
+<p>The only way to accomplish this is by occupying both the bonding and antibonding orbitals with two electrons, which reduces the bond order ((2−2)/2) to zero and cancels the net energy stabilization. However, by removing one electron from dihelium, the stable gas-phase species <span class="chemf nowrap">He<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> ion is formed with bond order 1/2.
+</p><p>Another molecule that is precluded based on this principle is <b>diberyllium</b>. <a href="/wiki/Beryllium" title="Beryllium">Beryllium</a> has an <a href="/wiki/Electron_configuration" title="Electron configuration">electron configuration</a> 1s<sup>2</sup>2s<sup>2</sup>, so there are again two electrons in the valence level. However, the 2s can mix with the 2p orbitals in diberyllium, whereas there are no p orbitals in the valence level of hydrogen or helium. This mixing makes the antibonding 1σ<sub>u</sub> orbital slightly less antibonding than the bonding 1σ<sub>g</sub> orbital is bonding, with a net effect that the whole configuration has a slight bonding nature. Hence the diberyllium molecule exists (and has been observed in the gas phase).<sup class="reference" id="cite_ref-Be2_15-0"><a href="#cite_note-Be2-15">[15]</a></sup> It nevertheless still has a low <a class="mw-redirect" href="/wiki/Dissociation_energy" title="Dissociation energy">dissociation energy</a> of only 59 kJ·mol<sup>−1</sup>.<sup class="reference" id="cite_ref-Be2_15-1"><a href="#cite_note-Be2-15">[15]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Dilithium">Dilithium</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=7" title="Edit section: Dilithium">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>MO theory correctly predicts that <a href="/wiki/Dilithium" title="Dilithium">dilithium</a> is a stable molecule with bond order 1 (configuration 1σ<sub><i>g</i></sub><sup>2</sup>1σ<sub><i>u</i></sub><sup>2</sup>2σ<sub><i>g</i></sub><sup>2</sup>). The 1s MOs are completely filled and do not participate in bonding.
+</p>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:MO_diagram_dilithium_molecule.png"><img alt="" class="thumbimage" data-file-height="402" data-file-width="593" height="203" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/MO_diagram_dilithium_molecule.png/300px-MO_diagram_dilithium_molecule.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/MO_diagram_dilithium_molecule.png/450px-MO_diagram_dilithium_molecule.png 1.5x, //upload.wikimedia.org/wikipedia/commons/6/62/MO_diagram_dilithium_molecule.png 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:MO_diagram_dilithium_molecule.png" title="Enlarge"></a></div>MO diagram of dilithium</div></div></div></div>
+<p>Dilithium is a gas-phase molecule with a much lower <a class="mw-redirect" href="/wiki/Bond_strength" title="Bond strength">bond strength</a> than dihydrogen because the 2s electrons are further removed from the nucleus. In a more detailed analysis<sup class="reference" id="cite_ref-Harrison_16-0"><a href="#cite_note-Harrison-16">[16]</a></sup> which considers the environment of each orbital due to all other electrons, both the 1σ orbitals have higher energies than the 1s AO and the occupied 2σ is also higher in energy than the 2s AO (see table 1).
+</p>
+<h3><span class="mw-headline" id="Diboron">Diboron</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=8" title="Edit section: Diboron">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The MO diagram for <a class="new" href="/w/index.php?title=Diboron&amp;action=edit&amp;redlink=1" title="Diboron (page does not exist)">diboron</a> (B-B, electron configuration 1σ<sub><i>g</i></sub><sup>2</sup>1σ<sub><i>u</i></sub><sup>2</sup>2σ<sub><i>g</i></sub><sup>2</sup>2σ<sub><i>u</i></sub><sup>2</sup>1π<sub><i>u</i></sub><sup>2</sup>) requires the introduction of an atomic orbital overlap model for <a class="mw-redirect" href="/wiki/P_orbital" title="P orbital">p orbitals</a>. The three <a href="/wiki/Dumbbell" title="Dumbbell">dumbbell</a>-shaped p-orbitals have equal energy and are oriented mutually perpendicularly (or <a class="mw-redirect" href="/wiki/Orthogonal" title="Orthogonal">orthogonally</a>). The p-orbitals oriented in the z-direction (p<sub>z</sub>) can overlap end-on forming a bonding (symmetrical) σ orbital and an antibonding σ* molecular orbital. In contrast to the sigma 1s MO's, the σ 2p has some non-bonding electron density at either side of the nuclei and the σ* 2p has some electron density between the nuclei.
+</p><p>The other two p-orbitals, p<sub>y</sub> and p<sub>x</sub>, can overlap side-on. The resulting bonding orbital has its electron density in the shape of two lobes above and below the plane of the molecule. The orbital is not symmetric around the molecular axis and is therefore a <a class="mw-redirect" href="/wiki/Pi_orbital" title="Pi orbital">pi orbital</a>. The antibonding pi orbital (also asymmetrical) has four lobes pointing away from the nuclei. Both p<sub>y</sub> and p<sub>x</sub> orbitals form a pair of pi orbitals equal in energy (<a class="mw-redirect" href="/wiki/Degenerate_energy_level" title="Degenerate energy level">degenerate</a>) and can have higher or lower energies than that of the sigma orbital.
+</p><p>In diboron the 1s and 2s electrons do not participate in bonding but the single electrons in the 2p orbitals occupy the 2πp<sub>y</sub> and the 2πp<sub>x</sub> MO's resulting in bond order 1. Because the electrons have equal energy (they are degenerate) diboron is a <a href="/wiki/Diradical" title="Diradical">diradical</a> and since the spins are parallel the compound is <a class="mw-redirect" href="/wiki/Paramagnetic" title="Paramagnetic">paramagnetic</a>.
+</p>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:MO_diagram_diboron.png"><img alt="" class="thumbimage" data-file-height="589" data-file-width="740" height="318" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/MO_diagram_diboron.png/400px-MO_diagram_diboron.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/MO_diagram_diboron.png/600px-MO_diagram_diboron.png 1.5x, //upload.wikimedia.org/wikipedia/commons/b/b1/MO_diagram_diboron.png 2x" width="400"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:MO_diagram_diboron.png" title="Enlarge"></a></div>MO diagram of diboron</div></div></div></div>
+<p>In certain <a href="/wiki/Diboryne" title="Diboryne">diborynes</a> the boron atoms are excited and the bond order is 3.
+</p>
+<h3><span class="mw-headline" id="Dicarbon">Dicarbon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=9" title="Edit section: Dicarbon">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Like diboron, <a class="mw-redirect" href="/wiki/Dicarbon" title="Dicarbon">dicarbon</a> (C-C <a href="/wiki/Electron_configuration" title="Electron configuration">electron configuration</a>:1σ<sub>g</sub><sup>2</sup>1σ<sub>u</sub><sup>2</sup>2σ<sub>g</sub><sup>2</sup>2σ<sub>u</sub><sup>2</sup>1π<sub>u</sub><sup>4</sup>) is a reactive gas-phase molecule. The molecule can be described as having two pi bonds but without a sigma bond.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Dinitrogen">Dinitrogen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=10" title="Edit section: Dinitrogen">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:N2MolecularDiagramCR.jpg"><img alt="" class="thumbimage" data-file-height="360" data-file-width="504" height="157" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/N2MolecularDiagramCR.jpg/220px-N2MolecularDiagramCR.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/N2MolecularDiagramCR.jpg/330px-N2MolecularDiagramCR.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/N2MolecularDiagramCR.jpg/440px-N2MolecularDiagramCR.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:N2MolecularDiagramCR.jpg" title="Enlarge"></a></div>N2 Molecular Orbital Diagram</div></div></div>
+<p>With nitrogen, we see the two molecular orbitals mixing and the energy repulsion. This is the reasoning for the rearrangement from a more familiar diagram. Notice how the σ from the 2p behaves more non-bonding like due to mixing, same with the 2s σ. This also causes a large jump in energy in the 2p σ* orbital. 
+The bond order of diatomic nitrogen is three, and it is a diamagnetic molecule.<sup class="reference" id="cite_ref-Pfennig_12-2"><a href="#cite_note-Pfennig-12">[12]</a></sup>
+</p><p>The bond order for <a class="mw-redirect" href="/wiki/Dinitrogen" title="Dinitrogen">dinitrogen</a> (1σ<sub>g</sub><sup>2</sup>1σ<sub>u</sub><sup>2</sup>2σ<sub>g</sub><sup>2</sup>2σ<sub>u</sub><sup>2</sup>1π<sub>u</sub><sup>4</sup>3σ<sub>g</sub><sup>2</sup>) is three because two electrons are now also added in the 3σ MO. The MO diagram correlates with the experimental <a class="mw-redirect" href="/wiki/Photoelectron_spectroscopy" title="Photoelectron spectroscopy">photoelectron spectrum</a> for nitrogen.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> The 1σ electrons can be matched to a peak at 410 <a href="/wiki/Electronvolt" title="Electronvolt">eV</a> (broad), the 2σ<sub>g</sub> electrons at 37 eV (broad), the 2σ<sub>u</sub> electrons at 19 eV (doublet), the 1π<sub>u</sub><sup>4</sup> electrons at 17 eV (multiplets), and finally the 3σ<sub>g</sub><sup>2</sup> at 15.5 eV (sharp).
+</p>
+<h3><span class="mw-headline" id="Dioxygen">Dioxygen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=11" title="Edit section: Dioxygen">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:O2MolecularDiagramCR.jpg"><img alt="" class="thumbimage" data-file-height="360" data-file-width="504" height="157" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/O2MolecularDiagramCR.jpg/220px-O2MolecularDiagramCR.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/O2MolecularDiagramCR.jpg/330px-O2MolecularDiagramCR.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/O2MolecularDiagramCR.jpg/440px-O2MolecularDiagramCR.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:O2MolecularDiagramCR.jpg" title="Enlarge"></a></div>O2 Molecular Orbital Diagram</div></div></div>
+<p>Oxygen has a similar setup to H<sub>2</sub>, but now we consider 2s and 2p orbitals. When creating the molecular orbitals from the p orbitals, notice the three atomic orbitals split into three molecular orbitals, a singly degenerate σ and a doubly degenerate π orbital. Another property we can observe by examining molecular orbital diagrams is the magnetic property of <a href="/wiki/Diamagnetism" title="Diamagnetism">diamagnetic</a> or <a href="/wiki/Paramagnetism" title="Paramagnetism">paramagnetic</a>. If all the electrons are paired, there is a slight repulsion and it is classified as diamagnetic. If unpaired electrons are present, it is attracted to a magnetic field, and therefore paramagnetic. Oxygen is an example of a paramagnetic diatomic. Also notice the bond order of diatomic oxygen is two.
+<sup class="reference" id="cite_ref-Pfennig_12-3"><a href="#cite_note-Pfennig-12">[12]</a></sup>
+</p><p>MO treatment of <a class="mw-redirect" href="/wiki/Dioxygen" title="Dioxygen">dioxygen</a> is different from that of the previous diatomic molecules because the pσ MO is now lower in energy than the 2π orbitals. This is attributed to interaction between the 2s MO and the 2p<sub>z</sub> MO.<sup class="reference" id="cite_ref-Jolly_19-0"><a href="#cite_note-Jolly-19">[19]</a></sup>  Distributing 8 electrons over 6 molecular orbitals leaves the final two electrons as a degenerate pair in the 2pπ* <a class="mw-redirect" href="/wiki/Antibonding_orbital" title="Antibonding orbital">antibonding orbitals</a> resulting in a <a href="/wiki/Bond_order" title="Bond order">bond order</a> of 2. As in diboron, these two unpaired electrons have the same spin in the ground state, which is a <a class="mw-redirect" href="/wiki/Paramagnetic" title="Paramagnetic">paramagnetic</a> <a href="/wiki/Diradical" title="Diradical">diradical</a> <a href="/wiki/Triplet_oxygen" title="Triplet oxygen">triplet oxygen</a>. The first excited state has both HOMO electrons paired in one orbital with opposite spins, and is known as <a href="/wiki/Singlet_oxygen" title="Singlet oxygen">singlet oxygen</a>.
+</p>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:MO_diagram_dioxygen.png"><img alt="" class="thumbimage" data-file-height="676" data-file-width="740" height="365" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/MO_diagram_dioxygen.png/400px-MO_diagram_dioxygen.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/MO_diagram_dioxygen.png/600px-MO_diagram_dioxygen.png 1.5x, //upload.wikimedia.org/wikipedia/commons/5/5b/MO_diagram_dioxygen.png 2x" width="400"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:MO_diagram_dioxygen.png" title="Enlarge"></a></div>MO diagram of dioxygen triplet ground state</div></div></div></div>
+<p>The bond order decreases and the <a href="/wiki/Bond_length" title="Bond length">bond length</a> increases in the order <a href="/wiki/Dioxygenyl" title="Dioxygenyl"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a> (112.2 pm), <a class="mw-redirect" href="/wiki/Dioxygen" title="Dioxygen"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a> (121 pm), <a href="/wiki/Superoxide" title="Superoxide"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a> (128 pm) and <a href="/wiki/Peroxide" title="Peroxide"><span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a> (149 pm).<sup class="reference" id="cite_ref-Jolly_19-1"><a href="#cite_note-Jolly-19">[19]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Mixing">Mixing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=12" title="Edit section: Mixing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Mixing arises when the energy gap between the 2s and 2p orbitals is not very large. This leads to a mixing of the two orbitals that end in a repulsion. This repulsion causes a large enough shift in energy that the 2s σ* energy is lowered and the 2p σ energy is raised considerably. This is only a trend with the early elements, after oxygen the mixing ceases. The underlying cause for the mixing is the similarity in energies of the 2s and 2p orbitals in tandem with the same symmetry(gerade/ungerade). The early elements have such a low <a href="/wiki/Effective_nuclear_charge" title="Effective nuclear charge">effective nuclear charge</a> that they become prone to mixing. Oxygen is the first diatomic where the energy difference between the 2s and 2p orbitals is significant enough to neglect mixing. Next, we look at the N<sub>2</sub> molecular orbital diagram and observe mixing of this nature.<sup class="reference" id="cite_ref-Pfennig_12-4"><a href="#cite_note-Pfennig-12">[12]</a></sup><sup class="reference" id="cite_ref-Miessler_20-0"><a href="#cite_note-Miessler-20">[20]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Difluorine_and_dineon">Difluorine and dineon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=13" title="Edit section: Difluorine and dineon">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:MO_diagram_difluorine.svg"><img alt="" class="thumbimage" data-file-height="272" data-file-width="524" height="208" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/MO_diagram_difluorine.svg/400px-MO_diagram_difluorine.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/MO_diagram_difluorine.svg/600px-MO_diagram_difluorine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/MO_diagram_difluorine.svg/800px-MO_diagram_difluorine.svg.png 2x" width="400"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:MO_diagram_difluorine.svg" title="Enlarge"></a></div>MO diagram of difluorine</div></div></div></div>
+<p>In <a href="/wiki/Fluorine" title="Fluorine">difluorine</a> two additional electrons occupy the 2pπ* with a bond order of 1. In dineon <span class="chemf nowrap">Ne<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> (as with dihelium) the number of bonding electrons equals the number of antibonding electrons and this compound does not exist.
+</p>
+<h3><span class="mw-headline" id="Dimolybdenum_and_ditungsten">Dimolybdenum and ditungsten</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=14" title="Edit section: Dimolybdenum and ditungsten">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:MolybdenumMOdiagram.png"><img alt="" class="thumbimage" data-file-height="502" data-file-width="648" height="310" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/MolybdenumMOdiagram.png/400px-MolybdenumMOdiagram.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/MolybdenumMOdiagram.png/600px-MolybdenumMOdiagram.png 1.5x, //upload.wikimedia.org/wikipedia/commons/6/6c/MolybdenumMOdiagram.png 2x" width="400"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:MolybdenumMOdiagram.png" title="Enlarge"></a></div>MO diagram of dimolybdenum</div></div></div></div>
+<p>Dimolybdenum (<a href="/wiki/Molybdenum" title="Molybdenum">Mo</a><sub>2</sub>) is notable for having a <a href="/wiki/Sextuple_bond" title="Sextuple bond">sextuple bond</a>. This involves two sigma bonds (4d<sub>z<sup>2</sup></sub> and 5s), two pi bonds (using 4d<sub>xz</sub> and 4d<sub>yz</sub>), and two <a href="/wiki/Delta_bond" title="Delta bond">delta bonds</a> (4d<sub>x<sup>2</sup> − y<sup>2</sup></sub> and 4d<sub>xy</sub>). Ditungsten (<a href="/wiki/Tungsten" title="Tungsten">W</a><sub>2</sub>) has a similar structure.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup><sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup>
+</p>
+<h2><span class="mw-headline" id="MO_energies_overview">MO energies overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=15" title="Edit section: MO energies overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Table 1 gives an overview of MO energies for first row diatomic molecules calculated by the <a class="mw-redirect" href="/wiki/Hartree-Fock_method" title="Hartree-Fock method">Hartree-Fock-Roothaan method</a>, together with atomic orbital energies. 
+</p>
+<table align="center" class="wikitable">
+<tbody><tr>
+<th colspan="100%">Table 1. Calculated MO energies for diatomic molecules in <a href="/wiki/Hartree" title="Hartree">Hartrees</a> <sup class="reference" id="cite_ref-Harrison_16-1"><a href="#cite_note-Harrison-16">[16]</a></sup>
+</th></tr>
+<tr>
+<th></th>
+<th>H<sub>2</sub></th>
+<th>Li<sub>2</sub></th>
+<th>B<sub>2</sub></th>
+<th>C<sub>2</sub></th>
+<th>N<sub>2</sub></th>
+<th>O<sub>2</sub></th>
+<th>F<sub>2</sub>
+</th></tr>
+<tr>
+<td>1σ<sub>g</sub></td>
+<td>-0.5969</td>
+<td>-2.4523</td>
+<td>-7.7040</td>
+<td>- 11.3598</td>
+<td>- 15.6820</td>
+<td>- 20.7296</td>
+<td>-26.4289
+</td></tr>
+<tr>
+<td>1σ<sub>u</sub></td>
+<td></td>
+<td>-2.4520</td>
+<td>-7.7032</td>
+<td>-11.3575</td>
+<td>-15.6783</td>
+<td>-20.7286</td>
+<td>-26.4286
+</td></tr>
+<tr>
+<td>2σ<sub>g</sub></td>
+<td></td>
+<td>-0.1816</td>
+<td>-0.7057</td>
+<td>-1.0613</td>
+<td>-1.4736</td>
+<td>-1.6488</td>
+<td>-1.7620
+</td></tr>
+<tr>
+<td>2σ<sub>u</sub></td>
+<td></td>
+<td></td>
+<td>-0.3637</td>
+<td>-0.5172</td>
+<td>-0.7780</td>
+<td>-1.0987</td>
+<td>-1.4997
+</td></tr>
+<tr>
+<td>3σ<sub>g</sub></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-0.6350</td>
+<td>-0.7358</td>
+<td>-0.7504
+</td></tr>
+<tr>
+<td>1π<sub>u</sub></td>
+<td></td>
+<td></td>
+<td>-0.3594</td>
+<td>-0.4579</td>
+<td>-0.6154</td>
+<td>-0.7052</td>
+<td>-0.8097
+</td></tr>
+<tr>
+<td>1π<sub>g</sub></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-0.5319</td>
+<td>-0.6682
+</td></tr>
+<tr>
+<td>1s (AO)</td>
+<td>-0.5</td>
+<td>-2.4778</td>
+<td>-7.6953</td>
+<td>-11.3255</td>
+<td>-15.6289</td>
+<td>-20.6686</td>
+<td>-26.3829
+</td></tr>
+<tr>
+<td>2s (AO)</td>
+<td></td>
+<td>-0.1963</td>
+<td>-0.4947</td>
+<td>-0.7056</td>
+<td>-0.9452</td>
+<td>-1.2443</td>
+<td>-1.5726
+</td></tr>
+<tr>
+<td>2p (AO)</td>
+<td></td>
+<td></td>
+<td>-0.3099</td>
+<td>-0.4333</td>
+<td>-0.5677</td>
+<td>-0.6319</td>
+<td>-0.7300
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Heteronuclear_diatomics">Heteronuclear diatomics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=16" title="Edit section: Heteronuclear diatomics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In heteronuclear diatomic molecules, mixing of atomic orbitals only occurs when the <a href="/wiki/Electronegativity" title="Electronegativity">electronegativity</a> values are similar.  In <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a> (CO, <a class="mw-redirect" href="/wiki/Isoelectronic" title="Isoelectronic">isoelectronic</a> with dinitrogen) the oxygen 2s orbital is much lower in energy than the carbon 2s orbital and therefore the degree of mixing is low. The electron configuration 1σ<sup>2</sup>1σ*<sup>2</sup>2σ<sup>2</sup>2σ*<sup>2</sup>1π<sup>4</sup>3σ<sup>2</sup> is identical to that of nitrogen. The g and u subscripts no longer apply because the molecule lacks a center of symmetry.
+</p><p>In <a href="/wiki/Hydrogen_fluoride" title="Hydrogen fluoride">hydrogen fluoride</a> (HF),  the hydrogen 1s orbital can mix with fluorine 2p<sub>z</sub> orbital to form a sigma bond because experimentally the energy of 1s of hydrogen is comparable with 2p of fluorine. The HF electron configuration  1σ<sup>2</sup>2σ<sup>2</sup>3σ<sup>2</sup>1π<sup>4</sup> reflects that the other electrons remain in three <a href="/wiki/Lone_pair" title="Lone pair">lone pairs</a> and that the bond order is 1.
+</p><p>The more electronegative atom is the more energetically excited because it more similar in energy to its atomic orbital. This also accounts for the majority of the electron negativity residing around the more electronegative molecule. Applying the LCAO-MO method allows us to move away from a more static Lewis structure type approach and actually account for periodic trends that influence electron movement. Non-bonding orbitals refer to lone pairs seen on certain atoms in a molecule. A further understanding for the energy level refinement can be acquired by delving into quantum chemistry; the Schrödinger equation can be applied to predict movement and describe the state of the electrons in a molecule.<sup class="reference" id="cite_ref-McQuarrie_13-1"><a href="#cite_note-McQuarrie-13">[13]</a></sup><sup class="reference" id="cite_ref-Miessler_20-1"><a href="#cite_note-Miessler-20">[20]</a></sup>
+</p>
+<h3><span class="mw-headline" id="NO">NO</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=17" title="Edit section: NO">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:NOmodiagramCR.jpg"><img alt="" class="thumbimage" data-file-height="360" data-file-width="504" height="157" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/NOmodiagramCR.jpg/220px-NOmodiagramCR.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/NOmodiagramCR.jpg/330px-NOmodiagramCR.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/NOmodiagramCR.jpg/440px-NOmodiagramCR.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:NOmodiagramCR.jpg" title="Enlarge"></a></div>NO Molecular Orbital Diagram</div></div></div>
+<p>Nitric oxide is a heteronuclear molecule that exhibits mixing. The construction of its MO diagram is the same as for the homonuclear molecules. It has a bond order of 2.5 and is a paramagnetic molecule. The energy differences of the 2s orbitals are different enough that each produces its own non-bonding σ orbitals. Notice this is a good example of making the ionized NO<sup>+</sup> stabilize the bond and generate a triple bond, also changing the magnetic property to diamagnetic.<sup class="reference" id="cite_ref-Pfennig_12-5"><a href="#cite_note-Pfennig-12">[12]</a></sup>
+</p>
+<h3><span class="mw-headline" id="HF">HF</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=18" title="Edit section: HF">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:HFmodCR.jpg"><img alt="" class="thumbimage" data-file-height="360" data-file-width="504" height="157" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HFmodCR.jpg/220px-HFmodCR.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HFmodCR.jpg/330px-HFmodCR.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HFmodCR.jpg/440px-HFmodCR.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:HFmodCR.jpg" title="Enlarge"></a></div>HF Molecular Orbital Diagram</div></div></div>
+<p>Hydrofluoric acid is another example of a homogeneous molecule. It is slightly different in that the π orbital is non-bonding, as well as the 2s σ. From the hydrogen, its valence 1s electron interacts with the 2p electrons of fluorine. This molecule is diamagnetic and has a bond order of one.
+</p>
+<h2><span class="mw-headline" id="Triatomic_molecules">Triatomic molecules</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=19" title="Edit section: Triatomic molecules">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Carbon_dioxide">Carbon dioxide</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=20" title="Edit section: Carbon dioxide">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a>, <span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>, is a <a href="/wiki/Linear_molecular_geometry" title="Linear molecular geometry">linear molecule</a> with a total of sixteen <a href="/wiki/Valence_electron" title="Valence electron">bonding electrons</a> in its <a class="mw-redirect" href="/wiki/Valence_shell" title="Valence shell">valence shell</a>. Carbon is the central atom of the molecule and a principal axis, the z-axis, is visualized as a single axis that goes through the center of carbon and the two oxygens atoms.
+For convention, blue atomic orbital lobes are positive phases, red atomic orbitals are negative phases, with respect to the wave function from the solution of the <a href="/wiki/Schr%C3%B6dinger_equation" title="Schrödinger equation">Schrödinger equation</a>.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup> In carbon dioxide the carbon 2s (−19.4 eV), carbon 2p (−10.7 eV), and oxygen 2p (−15.9 eV)) energies associated with the atomic orbitals are in proximity whereas the oxygen 2s energy (−32.4 eV) is different.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup>
+</p><p>Carbon and each oxygen atom will have a 2s atomic orbital and a 2p atomic orbital, where the p orbital is divided into p<sub>x</sub>, p<sub>y</sub>, and p<sub>z</sub>. With these derived atomic orbitals, symmetry labels are deduced with respect to rotation about the principal axis which generates a phase change, <a href="/wiki/Pi_bond" title="Pi bond">pi bond</a> (<i>π</i>)<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup> or generates no phase change, known as a <a href="/wiki/Sigma_bond" title="Sigma bond">sigma bond</a> (<i>σ</i>).<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup> Symmetry labels are further defined by whether the atomic orbital maintains its original character after an inversion about its center atom; if the atomic orbital does retain its original character it is defined <a href="/wiki/Molecular_term_symbol" title="Molecular term symbol">gerade</a>,<i>g</i>, or if the atomic orbital does not maintain its original character, <a href="/wiki/Molecular_term_symbol" title="Molecular term symbol">ungerade</a>, <i>u</i>. The final symmetry-labeled atomic orbital is now known as an irreducible representation.
+</p><p>Carbon dioxide’s molecular orbitals are made by the <a href="/wiki/Linear_combination_of_atomic_orbitals" title="Linear combination of atomic orbitals">linear combination of atomic orbitals</a> of the same irreducible representation that are also similar in atomic orbital energy. Significant atomic orbital overlap explains why sp bonding may occur.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup> Strong mixing of the oxygen 2s atomic orbital is not to be expected and are <a href="/wiki/Non-bonding_orbital" title="Non-bonding orbital">non-bonding</a> <a href="/wiki/Degenerate_energy_levels" title="Degenerate energy levels">degenerate</a> molecular orbitals. The combination of similar atomic orbital/wave functions and the combinations of atomic orbital/wave function inverses create particular energies associated with the <a href="/wiki/Non-bonding_orbital" title="Non-bonding orbital">nonbonding</a> (no change), bonding (lower than either parent orbital energy) and <a class="mw-redirect" href="/wiki/Antibonding" title="Antibonding">antibonding</a> (higher energy than either parent atomic orbital energy) molecular orbitals.
+</p>
+<ul class="gallery mw-gallery-traditional" style="max-width: 879px;_width: 879px;">
+<li class="gallerycaption">MO model carbon dioxide</li>
+<li class="gallerybox" style="width: 285px"><div style="width: 285px">
+<div class="thumb" style="width: 280px;"><div style="margin:15px auto;"><a class="image" href="/wiki/File:Atomic_Orbitals_CO2.svg"><img alt="" data-file-height="620" data-file-width="470" height="300" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Atomic_Orbitals_CO2.svg/227px-Atomic_Orbitals_CO2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Atomic_Orbitals_CO2.svg/341px-Atomic_Orbitals_CO2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Atomic_Orbitals_CO2.svg/455px-Atomic_Orbitals_CO2.svg.png 2x" width="227"/></a></div></div>
+<div class="gallerytext">
+<p>Atomic orbitals of carbon dioxide
+</p>
+</div>
+</div></li>
+<li class="gallerybox" style="width: 285px"><div style="width: 285px">
+<div class="thumb" style="width: 280px;"><div style="margin:15px auto;"><a class="image" href="/wiki/File:Molecular_Orbitals_CO2.svg"><img alt="" data-file-height="580" data-file-width="470" height="300" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Molecular_Orbitals_CO2.svg/243px-Molecular_Orbitals_CO2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Molecular_Orbitals_CO2.svg/365px-Molecular_Orbitals_CO2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Molecular_Orbitals_CO2.svg/486px-Molecular_Orbitals_CO2.svg.png 2x" width="243"/></a></div></div>
+<div class="gallerytext">
+<p>Molecular orbitals of carbon dioxide
+</p>
+</div>
+</div></li>
+<li class="gallerybox" style="width: 285px"><div style="width: 285px">
+<div class="thumb" style="width: 280px;"><div style="margin:15px auto;"><a class="image" href="/wiki/File:MO_Diagram_CO2.svg"><img alt="" data-file-height="620" data-file-width="420" height="300" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/MO_Diagram_CO2.svg/203px-MO_Diagram_CO2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/MO_Diagram_CO2.svg/305px-MO_Diagram_CO2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/MO_Diagram_CO2.svg/406px-MO_Diagram_CO2.svg.png 2x" width="203"/></a></div></div>
+<div class="gallerytext">
+<p>MO Diagram of carbon dioxide
+</p>
+</div>
+</div></li>
+</ul>
+<h3><span class="mw-headline" id="Water">Water</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=21" title="Edit section: Water">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Water (<span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span>) is a bent molecule (105°) with C<sub>2v</sub> <a href="/wiki/Molecular_symmetry" title="Molecular symmetry">molecular symmetry</a>. The oxygen atomic orbitals are labeled according to their symmetry as a<sub>1</sub> for the 2s orbital and b<sub>1</sub> (2p<sub>x</sub>), b<sub>2</sub> (2p<sub>y</sub>) and a<sub>1</sub> (2p<sub>z</sub>) for the three 2p orbitals. The two hydrogen 1s orbitals are premixed to form a<sub>1</sub> (σ) and b<sub>2</sub> (σ*) MO.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:602px;"><a class="image" href="/wiki/File:H2O-MO-Diagram.svg"><img alt="" class="thumbimage" data-file-height="1070" data-file-width="2020" height="318" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/H2O-MO-Diagram.svg/600px-H2O-MO-Diagram.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/H2O-MO-Diagram.svg/900px-H2O-MO-Diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/H2O-MO-Diagram.svg/1200px-H2O-MO-Diagram.svg.png 2x" width="600"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:H2O-MO-Diagram.svg" title="Enlarge"></a></div>Molecular orbital diagram of water</div></div></div>
+<table class="wikitable">
+<tbody><tr>
+<th>C<sub>2v</sub></th>
+<th>E</th>
+<th>C<sub>2</sub></th>
+<th>σ<sub>v</sub>(xz)</th>
+<th>σ<sub>v</sub>'(yz)</th>
+<th></th>
+<th>
+</th></tr>
+<tr>
+<td>A<sub>1</sub></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td><i>z</i>
+</td>
+<td><i>x</i><sup>2</sup>, <i>y</i><sup>2</sup>, <i>z</i><sup>2</sup>
+</td></tr>
+<tr>
+<td>A<sub>2</sub></td>
+<td>1</td>
+<td>1</td>
+<td>−1</td>
+<td>−1</td>
+<td>R<sub>z</sub></td>
+<td><i>xy</i>
+</td></tr>
+<tr>
+<td>B<sub>1</sub></td>
+<td>1</td>
+<td>−1</td>
+<td>1</td>
+<td>−1</td>
+<td><i>x</i>, R<sub>y</sub></td>
+<td><i>xz</i>
+</td></tr>
+<tr>
+<td>B<sub>2</sub></td>
+<td>1</td>
+<td>−1</td>
+<td>−1</td>
+<td>1</td>
+<td><i>y</i>, R<sub>x</sub></td>
+<td><i>yz</i>
+</td></tr></tbody></table>
+<p>Mixing takes place between same-symmetry orbitals of comparable energy resulting a new set of MO's for water: 
+</p>
+<ul><li>2a<sub>1</sub> MO from the oxygen 2s AO, with a small contribution from the hydrogen σ MO.</li>
+<li>1b<sub>2</sub> MO from mixing of the oxygen 2p<sub>y</sub> AO and the hydrogen σ* MO.</li>
+<li>3a<sub>1</sub> MO from mixing of the oxygen 2p<sub>z</sub> AO and the hydrogen σ MO, with a small contribution from the oxygen 2s AO.</li>
+<li>1b<sub>1</sub> nonbonding MO from the oxygen 2p<sub>x</sub> AO (the p-orbital perpendicular to the molecular plane).</li></ul>
+<div style="clear:both;"></div>
+<p>In agreement with this description the photoelectron spectrum for water shows a sharp peak for the nonbonding 1b<sub>1</sub> MO (12.6 eV) and three broad peaks for the 3a<sub>1</sub> MO (14.7 eV), 1b<sub>2</sub> MO (18.5 eV) and the 2a<sub>1</sub> MO (32.2 eV).<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup> The 1b<sub>1</sub> MO is a lone pair, while the 3a<sub>1</sub>, 1b<sub>2</sub> and 2a<sub>1</sub> MO's can be <a href="/wiki/Localized_molecular_orbitals" title="Localized molecular orbitals">localized</a> to give two O−H bonds and an in-plane lone pair.<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> This MO treatment of water does not have two equivalent <i>rabbit ear</i> lone pairs.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup>
+</p><p><a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">Hydrogen sulfide</a> (H<sub>2</sub>S) too has a  C<sub>2v</sub> symmetry with 8 valence electrons but the bending angle is only 92°. As reflected in its photoelectron spectrum as compared to water the 5a<sub>1</sub> MO (corresponding to the 3a<sub>1</sub> MO in water) is stabilised (improved overlap) and the 2b<sub>2</sub> MO (corresponding to the 1b<sub>2</sub> MO in water) is destabilized (poorer overlap).
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=22" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Jonathan_Clayden" title="Jonathan Clayden">Clayden, Jonathan</a>; Greeves, Nick; <a href="/wiki/Stuart_Warren" title="Stuart Warren">Warren, Stuart</a>; <a href="/wiki/Peter_Wothers" title="Peter Wothers">Wothers, Peter</a> (2001). <i>Organic Chemistry</i> (1st ed.). Oxford University Press. pp. 96–103. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-19-850346-0" title="Special:BookSources/978-0-19-850346-0">978-0-19-850346-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Organic+Chemistry&amp;rft.pages=96-103&amp;rft.edition=1st&amp;rft.pub=Oxford+University+Press&amp;rft.date=2001&amp;rft.isbn=978-0-19-850346-0&amp;rft.aulast=Clayden&amp;rft.aufirst=Jonathan&amp;rft.au=Greeves%2C+Nick&amp;rft.au=Warren%2C+Stuart&amp;rft.au=Wothers%2C+Peter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><i>Organic Chemistry</i>, Third Edition, Marye Anne Fox, James K. Whitesell, <b>2003</b>, <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7637-3586-9" title="Special:BookSources/978-0-7637-3586-9">978-0-7637-3586-9</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><i>Organic Chemistry</i> 3rd Ed. <b>2001</b>, Paula Yurkanis Bruice, <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-13-017858-6" title="Special:BookSources/0-13-017858-6">0-13-017858-6</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mulliken, R. (1928). "The Assignment of Quantum Numbers for Electrons in Molecules. I". <i>Physical Review</i>. <b>32</b> (2): 186–222. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1928PhRv...32..186M" rel="nofollow">1928PhRv...32..186M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1103%2FPhysRev.32.186" rel="nofollow">10.1103/PhysRev.32.186</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review&amp;rft.atitle=The+Assignment+of+Quantum+Numbers+for+Electrons+in+Molecules.+I&amp;rft.volume=32&amp;rft.issue=2&amp;rft.pages=186-222&amp;rft.date=1928&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRev.32.186&amp;rft_id=info%3Abibcode%2F1928PhRv...32..186M&amp;rft.aulast=Mulliken&amp;rft.aufirst=R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mulliken, R. (1928). "Electronic States and Band Spectrum Structure in Diatomic Molecules. VII. P2→S2 and S2→P2 Transitions". <i>Physical Review</i>. <b>32</b> (3): 388–416. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1928PhRv...32..388M" rel="nofollow">1928PhRv...32..388M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1103%2FPhysRev.32.388" rel="nofollow">10.1103/PhysRev.32.388</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review&amp;rft.atitle=Electronic+States+and+Band+Spectrum+Structure+in+Diatomic+Molecules.+VII.+P2%E2%86%92S2+and+S2%E2%86%92P2+Transitions&amp;rft.volume=32&amp;rft.issue=3&amp;rft.pages=388-416&amp;rft.date=1928&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRev.32.388&amp;rft_id=info%3Abibcode%2F1928PhRv...32..388M&amp;rft.aulast=Mulliken&amp;rft.aufirst=R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Hund, F. Z. Physik 1928, 51, 759.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Hartree, D. R. Proc. Cambridge. Phil. Soc. 1928, 24, 89</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Fock, V. Z. Physik 1930, 61, 126</span>
+</li>
+<li id="cite_note-K&amp;W-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-K&amp;W_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-K&amp;W_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Keeler, James; Wothers, Peter (2014). <i>Chemical Structure and Reactivity - an integrated approach</i> (2nd ed.). Oxford University Press. pp. 123–126. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-19-9604135" title="Special:BookSources/978-0-19-9604135">978-0-19-9604135</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chemical+Structure+and+Reactivity+-+an+integrated+approach&amp;rft.pages=123-126&amp;rft.edition=2nd&amp;rft.pub=Oxford+University+Press&amp;rft.date=2014&amp;rft.isbn=978-0-19-9604135&amp;rft.aulast=Keeler&amp;rft.aufirst=James&amp;rft.au=Wothers%2C+Peter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Douglas, Bodie; McDaniel, Darl; Alexander, John (1994). <i>Concepts and Models of Inorganic Chemistry</i> (3rd ed.). Wiley. pp. 157–159. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-471-62978-8" title="Special:BookSources/978-0-471-62978-8">978-0-471-62978-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Concepts+and+Models+of+Inorganic+Chemistry&amp;rft.pages=157-159&amp;rft.edition=3rd&amp;rft.pub=Wiley&amp;rft.date=1994&amp;rft.isbn=978-0-471-62978-8&amp;rft.aulast=Douglas&amp;rft.aufirst=Bodie&amp;rft.au=McDaniel%2C+Darl&amp;rft.au=Alexander%2C+John&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Sethi, M.S.; Satake, M. (1999). <i>Chemical Bonding</i>. New Delhi: Discovery Publishing House. pp. 93–95. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/81-7141-163-0" title="Special:BookSources/81-7141-163-0">81-7141-163-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chemical+Bonding&amp;rft.place=New+Delhi&amp;rft.pages=93-95&amp;rft.pub=Discovery+Publishing+House&amp;rft.date=1999&amp;rft.isbn=81-7141-163-0&amp;rft.aulast=Sethi&amp;rft.aufirst=M.S.&amp;rft.au=Satake%2C+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Pfennig-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pfennig_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pfennig_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Pfennig_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Pfennig_12-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Pfennig_12-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Pfennig_12-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Pfennig, Brian (2015). <i>Principles of Inorganic Chemistry</i>. Hoboken, New Jersey: John Wiley &amp; Sons, Inc. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9781118859100" title="Special:BookSources/9781118859100">9781118859100</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Principles+of+Inorganic+Chemistry&amp;rft.place=Hoboken%2C+New+Jersey&amp;rft.pub=John+Wiley+%26+Sons%2C+Inc.&amp;rft.date=2015&amp;rft.isbn=9781118859100&amp;rft.aulast=Pfennig&amp;rft.aufirst=Brian&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-McQuarrie-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-McQuarrie_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-McQuarrie_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">McQuarrie, Donald A. (2008). <i>Quantum chemistry</i> (2nd ed.). Sausalito, Calif.: University Science Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9781891389504" title="Special:BookSources/9781891389504">9781891389504</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Quantum+chemistry&amp;rft.place=Sausalito%2C+Calif.&amp;rft.edition=2nd&amp;rft.pub=University+Science+Books&amp;rft.date=2008&amp;rft.isbn=9781891389504&amp;rft.aulast=McQuarrie&amp;rft.aufirst=Donald+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">.<a class="external text" href="https://web.archive.org/web/20100706214815/http://www.pes.arizona.edu/facility/PESdatabase/hydrogen.jpg" rel="nofollow">hydrogen @ PES database arizona.edu</a></span>
+</li>
+<li id="cite_note-Be2-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Be2_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Be2_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Keeler, James; Wothers, Peter (2003). <i>Why Chemical Reactions Happen</i>. <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>. p. 74. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780199249732" title="Special:BookSources/9780199249732">9780199249732</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Why+Chemical+Reactions+Happen&amp;rft.pages=74&amp;rft.pub=Oxford+University+Press&amp;rft.date=2003&amp;rft.isbn=9780199249732&amp;rft.aulast=Keeler&amp;rft.aufirst=James&amp;rft.au=Wothers%2C+Peter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Harrison-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Harrison_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Harrison_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Harrison, J. F.; Lawson, D. B. (2005). "Some Observations on Molecular Orbital Theory". <i>Journal of Chemical Education</i>. <b>82</b> (8): 1205. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fed082p1205" rel="nofollow">10.1021/ed082p1205</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Chemical+Education&amp;rft.atitle=Some+Observations+on+Molecular+Orbital+Theory&amp;rft.volume=82&amp;rft.issue=8&amp;rft.pages=1205&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1021%2Fed082p1205&amp;rft.aulast=Harrison&amp;rft.aufirst=J.+F.&amp;rft.au=Lawson%2C+D.+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Shaik, S.; Rzepa, H. S.; Hoffmann, R. (2013). "One Molecule, Two Atoms, Three Views, Four Bonds?". <i>Angew. Chem. Int. Ed</i>. <b>52</b>: 3020–3033. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fanie.201208206" rel="nofollow">10.1002/anie.201208206</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Angew.+Chem.+Int.+Ed.&amp;rft.atitle=One+Molecule%2C+Two+Atoms%2C+Three+Views%2C+Four+Bonds%3F&amp;rft.volume=52&amp;rft.pages=3020-3033&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1002%2Fanie.201208206&amp;rft.aulast=Shaik&amp;rft.aufirst=S.&amp;rft.au=Rzepa%2C+H.+S.&amp;rft.au=Hoffmann%2C+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bock, H.; Mollere, P. D. (1974). "Photoelectron spectra. An experimental approach to teaching molecular orbital models". <i>Journal of Chemical Education</i>. <b>51</b> (8): 506. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1974JChEd..51..506B" rel="nofollow">1974JChEd..51..506B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fed051p506" rel="nofollow">10.1021/ed051p506</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Chemical+Education&amp;rft.atitle=Photoelectron+spectra.+An+experimental+approach+to+teaching+molecular+orbital+models&amp;rft.volume=51&amp;rft.issue=8&amp;rft.pages=506&amp;rft.date=1974&amp;rft_id=info%3Adoi%2F10.1021%2Fed051p506&amp;rft_id=info%3Abibcode%2F1974JChEd..51..506B&amp;rft.aulast=Bock&amp;rft.aufirst=H.&amp;rft.au=Mollere%2C+P.+D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Jolly-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-Jolly_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Jolly_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><i>Modern Inorganic Chemistry</i> William L. Jolly (McGraw-Hill 1984), p.106 <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-07-032760-2" title="Special:BookSources/0-07-032760-2">0-07-032760-2</a></span>
+</li>
+<li id="cite_note-Miessler-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-Miessler_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Miessler_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Miessler, Gary (2014). <i>Inorganic chemistry</i> (Fifth ed.). Upper Saddle River, New Jersey: Pearson. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9781269453219" title="Special:BookSources/9781269453219">9781269453219</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Inorganic+chemistry&amp;rft.place=Upper+Saddle+River%2C+New+Jersey&amp;rft.edition=Fifth&amp;rft.pub=Pearson&amp;rft.date=2014&amp;rft.isbn=9781269453219&amp;rft.aulast=Miessler&amp;rft.aufirst=Gary&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation journal">"Reaching the Maximum Multiplicity of the Covalent Chemical Bond". <i>Angewandte Chemie International Edition</i>. <b>46</b>: 1469–1472. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fanie.200603600" rel="nofollow">10.1002/anie.200603600</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Angewandte+Chemie+International+Edition&amp;rft.atitle=Reaching+the+Maximum+Multiplicity+of+the+Covalent+Chemical+Bond&amp;rft.volume=46&amp;rft.pages=1469-1472&amp;rft_id=info%3Adoi%2F10.1002%2Fanie.200603600&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.nature.com/nature/journal/v446/n7133/fig_tab/446276a_F1.html" rel="nofollow">http://www.nature.com/nature/journal/v446/n7133/fig_tab/446276a_F1.html</a></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation book">Housecroft, C. E.; Sharpe, A. G. (2008). <i>Inorganic Chemistry</i> (3rd ed.). Prentice Hall. p. 9. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0131755536" title="Special:BookSources/978-0131755536">978-0131755536</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Inorganic+Chemistry&amp;rft.pages=9&amp;rft.edition=3rd&amp;rft.pub=Prentice+Hall&amp;rft.date=2008&amp;rft.isbn=978-0131755536&amp;rft.aulast=Housecroft&amp;rft.aufirst=C.+E.&amp;rft.au=Sharpe%2C+A.+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">"An Introduction to Molecular Orbitals". Jean &amp; volatron. ""1993"" <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-19-506918-8" title="Special:BookSources/0-19-506918-8">0-19-506918-8</a>. p.192</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation book">Housecroft, C. E.; Sharpe, A. G. (2008). <i>Inorganic Chemistry</i> (3rd ed.). Prentice Hall. p. 38. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0131755536" title="Special:BookSources/978-0131755536">978-0131755536</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Inorganic+Chemistry&amp;rft.pages=38&amp;rft.edition=3rd&amp;rft.pub=Prentice+Hall&amp;rft.date=2008&amp;rft.isbn=978-0131755536&amp;rft.aulast=Housecroft&amp;rft.aufirst=C.+E.&amp;rft.au=Sharpe%2C+A.+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation book">Housecroft, C. E.; Sharpe, A. G. (2008). <i>Inorganic Chemistry</i> (3rd ed.). Prentice Hall. p. 34. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0131755536" title="Special:BookSources/978-0131755536">978-0131755536</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Inorganic+Chemistry&amp;rft.pages=34&amp;rft.edition=3rd&amp;rft.pub=Prentice+Hall&amp;rft.date=2008&amp;rft.isbn=978-0131755536&amp;rft.aulast=Housecroft&amp;rft.aufirst=C.+E.&amp;rft.au=Sharpe%2C+A.+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation book">Housecroft, C. E.; Sharpe, A. G. (2008). <i>Inorganic Chemistry</i> (3rd ed.). Prentice Hall. p. 33. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0131755536" title="Special:BookSources/978-0131755536">978-0131755536</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Inorganic+Chemistry&amp;rft.pages=33&amp;rft.edition=3rd&amp;rft.pub=Prentice+Hall&amp;rft.date=2008&amp;rft.isbn=978-0131755536&amp;rft.aulast=Housecroft&amp;rft.aufirst=C.+E.&amp;rft.au=Sharpe%2C+A.+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation book">Levine, I. N. (1991). <i>Quantum Chemistry</i> (4th ed.). Prentice-Hall. p. 475. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7923-1421-2" title="Special:BookSources/0-7923-1421-2">0-7923-1421-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Quantum+Chemistry&amp;rft.pages=475&amp;rft.edition=4th&amp;rft.pub=Prentice-Hall&amp;rft.date=1991&amp;rft.isbn=0-7923-1421-2&amp;rft.aulast=Levine&amp;rft.aufirst=I.+N.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jochen Autschbach (2012). "Orbitals: Some Fiction and Some Facts". <i><a href="/wiki/Journal_of_Chemical_Education" title="Journal of Chemical Education">Journal of Chemical Education</a></i>. <b>89</b> (8): 1032–1040. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2012JChEd..89.1032A" rel="nofollow">2012JChEd..89.1032A</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fed200673w" rel="nofollow">10.1021/ed200673w</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Chemical+Education&amp;rft.atitle=Orbitals%3A+Some+Fiction+and+Some+Facts&amp;rft.volume=89&amp;rft.issue=8&amp;rft.pages=1032-1040&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1021%2Fed200673w&amp;rft_id=info%3Abibcode%2F2012JChEd..89.1032A&amp;rft.au=Jochen+Autschbach&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation journal">Laing, Michael (1987). "No rabbit ears on water. The structure of the water molecule: What should we tell the students?". <i>Journal of Chemical Education</i>. <b>64</b>: 124. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1987JChEd..64..124L" rel="nofollow">1987JChEd..64..124L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fed064p124" rel="nofollow">10.1021/ed064p124</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Chemical+Education&amp;rft.atitle=No+rabbit+ears+on+water.+The+structure+of+the+water+molecule%3A+What+should+we+tell+the+students%3F&amp;rft.volume=64&amp;rft.pages=124&amp;rft.date=1987&amp;rft_id=info%3Adoi%2F10.1021%2Fed064p124&amp;rft_id=info%3Abibcode%2F1987JChEd..64..124L&amp;rft.aulast=Laing&amp;rft.aufirst=Michael&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMolecular+orbital+diagram"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit&amp;section=23" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>MO diagrams at meta-synthesis.com <a class="external text" href="http://www.meta-synthesis.com/webbook/39_diatomics/diatomics.html" rel="nofollow">Link</a></li>
+<li>MO diagrams at chem1.com <a class="external text" href="http://www.chem1.com/acad/webtext/chembond/cb08.html" rel="nofollow">Link</a></li>
+<li>Molecular orbitals at winter.group.shef.ac.uk <a class="external text" href="http://www.winter.group.shef.ac.uk/orbitron/MOs/N2/2px2px-pi/index.html" rel="nofollow">Link</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw2229
+Cached time: 20181004015013
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.436 seconds
+Real time usage: 0.534 seconds
+Preprocessor visited node count: 3529/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 76895/2097152 bytes
+Template argument size: 4316/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 69164/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.195/10.000 seconds
+Lua memory usage: 3.96 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  370.714      1 -total
+ 79.56%  294.957      1 Template:Reflist
+ 31.41%  116.447     13 Template:Cite_book
+ 24.26%   89.933      8 Template:Cite_journal
+ 16.49%   61.142      1 Template:Clayden
+ 12.99%   48.142     10 Template:Chem
+ 12.29%   45.572      4 Template:ISBN
+ 11.35%   42.059     10 Template:Chem/link
+  9.73%   36.061     25 Template:Chem/atom
+  6.67%   24.720     10 Template:Su
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7337217-0!canonical!math=5 and timestamp 20181004015013 and revision id 862386123
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Molecular_orbital_diagram&amp;oldid=862386123">https://en.wikipedia.org/w/index.php?title=Molecular_orbital_diagram&amp;oldid=862386123</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chemical_bonding" title="Category:Chemical bonding">Chemical bonding</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Molecular+orbital+diagram" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Molecular+orbital+diagram" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Molecular_orbital_diagram" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Molecular_orbital_diagram" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Molecular_orbital_diagram">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Molecular_orbital_diagram&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Molecular_orbital_diagram&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Molecular_orbital_diagram" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Molecular_orbital_diagram" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Molecular_orbital_diagram&amp;oldid=862386123" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Molecular_orbital_diagram&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2745189" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Molecular_orbital_diagram&amp;id=862386123" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Molecular+orbital+diagram">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Molecular+orbital+diagram&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Molecular_orbital_diagram&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%AE%D8%B7%D8%B7_%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%A6%D9%8A%D8%A9" hreflang="ar" lang="ar" title="مخطط المدارات الجزيئية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Diagrama_de_orbital_molecular" hreflang="es" lang="es" title="Diagrama de orbital molecular – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Diagramme_d%27orbitales_mol%C3%A9culaires" hreflang="fr" lang="fr" title="Diagramme d'orbitales moléculaires – French">Français</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Diagram_orbital_molekul" hreflang="id" lang="id" title="Diagram orbital molekul – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%88%86%E5%AD%90%E8%BB%8C%E9%81%93%E3%83%80%E3%82%A4%E3%82%A2%E3%82%B0%E3%83%A9%E3%83%A0" hreflang="ja" lang="ja" title="分子軌道ダイアグラム – Japanese">日本語</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2745189#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 4 October 2018, at 01:50<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Molecular_orbital_diagram&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.436","walltime":"0.534","ppvisitednodes":{"value":3529,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":76895,"limit":2097152},"templateargumentsize":{"value":4316,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":69164,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  370.714      1 -total"," 79.56%  294.957      1 Template:Reflist"," 31.41%  116.447     13 Template:Cite_book"," 24.26%   89.933      8 Template:Cite_journal"," 16.49%   61.142      1 Template:Clayden"," 12.99%   48.142     10 Template:Chem"," 12.29%   45.572      4 Template:ISBN"," 11.35%   42.059     10 Template:Chem/link","  9.73%   36.061     25 Template:Chem/atom","  6.67%   24.720     10 Template:Su"]},"scribunto":{"limitreport-timeusage":{"value":"0.195","limit":"10.000"},"limitreport-memusage":{"value":4154366,"limit":52428800}},"cachereport":{"origin":"mw2229","timestamp":"20181004015013","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw2183"});});</script>
+</body>
+</html>

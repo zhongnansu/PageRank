@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Tetrahedral molecular geometry - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tetrahedral_molecular_geometry","wgTitle":"Tetrahedral molecular geometry","wgCurRevisionId":859955402,"wgRevisionId":859955402,"wgArticleId":3797882,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from March 2017","Molecular geometry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tetrahedral_molecular_geometry","wgRelevantArticleId":3797882,"wgRequestId":"W7zXeQrAMF0AAJjF7bgAAAAJ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q2677111","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/f/fb/Tetrahedral-3D-balls.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tetrahedral_molecular_geometry" rel="alternate"/>
+<link href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Tetrahedral_molecular_geometry" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Tetrahedral_molecular_geometry rootpage-Tetrahedral_molecular_geometry skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Tetrahedral molecular geometry</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox" style="width:22em;width:275px;"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Tetrahedral molecular geometry</th></tr><tr><td colspan="2" style="text-align:center">
+<a class="image" href="/wiki/File:Tetrahedral-3D-balls.png"><img alt="Tetrahedral-3D-balls.png" data-file-height="1100" data-file-width="1047" height="231" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tetrahedral-3D-balls.png/220px-Tetrahedral-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tetrahedral-3D-balls.png/330px-Tetrahedral-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tetrahedral-3D-balls.png/440px-Tetrahedral-3D-balls.png 2x" width="220"/></a></td></tr><tr><th scope="row">Examples</th><td>
+<a href="/wiki/Methane" title="Methane">CH<sub>4</sub></a>, <a href="/wiki/Permanganate" title="Permanganate"><span class="chemf nowrap">MnO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span></a></td></tr><tr><th scope="row"><a href="/wiki/Molecular_symmetry" title="Molecular symmetry">Point group</a></th><td>
+<a href="/wiki/Tetrahedral_symmetry" title="Tetrahedral symmetry">T<sub>d</sub></a></td></tr><tr><th scope="row"><a href="/wiki/Coordination_number" title="Coordination number">Coordination number</a></th><td>
+4</td></tr><tr><th scope="row">Bond angle(s)</th><td>
+≈109.5°</td></tr><tr><th scope="row"><a href="/wiki/Chemical_polarity" title="Chemical polarity">μ (Polarity)</a></th><td>
+0</td></tr></tbody></table>
+<p>In a <b>tetrahedral molecular geometry</b>, a central <a href="/wiki/Atom" title="Atom">atom</a> is located at the center with four <a href="/wiki/Substituent" title="Substituent">substituents</a> that are located at the corners of a <a href="/wiki/Tetrahedron" title="Tetrahedron">tetrahedron</a>. The <a class="mw-redirect" href="/wiki/Bond_angle" title="Bond angle">bond angles</a> are cos<sup>−1</sup>(−⅓) = 109.4712206...° ≈ 109.5° when all four substituents are the same, as in <a href="/wiki/Methane" title="Methane">methane</a> (CH<sub>4</sub>)<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> as well as <a href="/wiki/Group_14_hydride" title="Group 14 hydride">its heavier analogues</a>. Methane and other perfectly symmetrical tetrahedral molecules belong to <a href="/wiki/Point_group" title="Point group">point group</a> T<sub>d</sub>, but most tetrahedral molecules have <a href="/wiki/Tetrahedron#Isometries_of_irregular_tetrahedra" title="Tetrahedron">lower symmetry</a>. Tetrahedral molecules can be <a href="/wiki/Chirality_(chemistry)" title="Chirality (chemistry)">chiral</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Examples"><span class="tocnumber">1</span> <span class="toctext">Examples</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Main_group_chemistry"><span class="tocnumber">1.1</span> <span class="toctext">Main group chemistry</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Transition_metal_chemistry"><span class="tocnumber">1.2</span> <span class="toctext">Transition metal chemistry</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Water_structure"><span class="tocnumber">1.3</span> <span class="toctext">Water structure</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Bitetrahedral_structures"><span class="tocnumber">2</span> <span class="toctext">Bitetrahedral structures</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Exceptions_and_distortions"><span class="tocnumber">3</span> <span class="toctext">Exceptions and distortions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Inverted_tetrahedral_geometry"><span class="tocnumber">3.1</span> <span class="toctext">Inverted tetrahedral geometry</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Planarization"><span class="tocnumber">3.2</span> <span class="toctext">Planarization</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Tetrahedral_molecules_with_no_central_atom"><span class="tocnumber">3.3</span> <span class="toctext">Tetrahedral molecules with no central atom</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;action=edit&amp;section=1" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Main_group_chemistry">Main group chemistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;action=edit&amp;section=2" title="Edit section: Main group chemistry">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:174px;"><a class="image" href="/wiki/File:Ch4-structure.png"><img alt="" class="thumbimage" data-file-height="178" data-file-width="172" height="178" src="//upload.wikimedia.org/wikipedia/commons/5/55/Ch4-structure.png" width="172"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Ch4-structure.png" title="Enlarge"></a></div>The tetrahedral molecule methane (CH<sub>4</sub>)</div></div></div>
+<p>Aside from virtually all saturated organic compounds, most compounds of Si, Ge, and Sn are tetrahedral. Often tetrahedral molecules feature multiple bonding to the outer ligands, as in <a href="/wiki/Xenon_tetroxide" title="Xenon tetroxide">xenon tetroxide</a> (XeO<sub>4</sub>), the <a href="/wiki/Perchlorate" title="Perchlorate">perchlorate</a> ion (<span class="chemf nowrap">ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>), the <a href="/wiki/Sulfate" title="Sulfate">sulfate</a> ion (<span class="chemf nowrap">SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>), the <a href="/wiki/Phosphate" title="Phosphate">phosphate</a> ion (<span class="chemf nowrap">PO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">3−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>). <a href="/wiki/Thiazyl_trifluoride" title="Thiazyl trifluoride">Thiazyl trifluoride</a> (SNF<sub>3</sub>) is tetrahedral, featuring a sulfur-to-nitrogen triple bond.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p><p>Other molecules have a tetrahedral arrangement of electron pairs around a central atom; for example <a href="/wiki/Ammonia" title="Ammonia">ammonia</a> (NH<sub>3</sub>) with the nitrogen atom surrounded by three hydrogens and one <a href="/wiki/Lone_pair" title="Lone pair">lone pair</a>. However the usual classification considers only the bonded atoms and not the lone pair, so that ammonia is actually considered as <a href="/wiki/Trigonal_pyramidal_molecular_geometry" title="Trigonal pyramidal molecular geometry">pyramidal</a>. The H–N–H angles are 107°, contracted from 109.5. This difference is attributed to the influence of the lone pair which exerts a greater repulsive influence than a bonded atom.
+</p>
+<h3><span class="mw-headline" id="Transition_metal_chemistry">Transition metal chemistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;action=edit&amp;section=3" title="Edit section: Transition metal chemistry">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Again the geometry is widespread, particularly so for complexes where the metal has d<sup>0</sup> or d<sup>10</sup> configuration. Illustrative examples include <a href="/wiki/Tetrakis(triphenylphosphine)palladium(0)" title="Tetrakis(triphenylphosphine)palladium(0)">tetrakis(triphenylphosphine)palladium(0)</a> (Pd[P(C<sub>6</sub>H<sub>5</sub>)<sub>3</sub>]<sub>4</sub>), <a class="mw-redirect" href="/wiki/Nickel_carbonyl" title="Nickel carbonyl">nickel carbonyl</a> (Ni(CO)<sub>4</sub>), and <a href="/wiki/Titanium_tetrachloride" title="Titanium tetrachloride">titanium tetrachloride</a> (TiCl<sub>4</sub>).  Many complexes with incompletely filled d-shells are often tetrahedral, e.g. the tetrahalides of iron(II), cobalt(II), and nickel(II).
+</p>
+<h3><span class="mw-headline" id="Water_structure">Water structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;action=edit&amp;section=4" title="Edit section: Water structure">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the gas phase, a single water molecule has an oxygen atom surrounded by two hydrogens and two lone pairs, and the H<sub>2</sub>O geometry is simply described as <a href="/wiki/Bent_molecular_geometry" title="Bent molecular geometry">bent</a> without considering the nonbonded lone pairs. 
+</p><p>However in liquid water or in ice, the lone pairs form <a href="/wiki/Hydrogen_bond" title="Hydrogen bond">hydrogen bonds</a> with neighboring water molecules. The most common arrangement of hydrogen atoms around an oxygen is tetrahedral with two hydrogen atoms covalently bonded to oxygen and two attached by hydrogen bonds.  Since the hydrogen bonds vary in length many of these water molecules are not symmetrical and form transient irregular tetrahedra between their four associated hydrogen atoms.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Bitetrahedral_structures">Bitetrahedral structures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;action=edit&amp;section=5" title="Edit section: Bitetrahedral structures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many compounds and complexes adopt bitetrahedral structures.  In this motif, the two tetrahedra share a common edge.  The inorganic polymer <a href="/wiki/Silicon_disulfide" title="Silicon disulfide">silicon disulfide</a> features an infinite chain of edge-shared tetrahedra.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Gallium-trichloride-from-xtal-2004-3D-balls.png"><img alt="" class="thumbimage" data-file-height="670" data-file-width="1100" height="134" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gallium-trichloride-from-xtal-2004-3D-balls.png/220px-Gallium-trichloride-from-xtal-2004-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gallium-trichloride-from-xtal-2004-3D-balls.png/330px-Gallium-trichloride-from-xtal-2004-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gallium-trichloride-from-xtal-2004-3D-balls.png/440px-Gallium-trichloride-from-xtal-2004-3D-balls.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Gallium-trichloride-from-xtal-2004-3D-balls.png" title="Enlarge"></a></div>Bitetrahedral structure adopted by Al<sub>2</sub>Br<sub>6</sub> ("<a class="mw-redirect" href="/wiki/Aluminium_tribromide" title="Aluminium tribromide">aluminium tribromide</a>") and Ga<sub>2</sub>Cl<sub>6</sub> ("<a href="/wiki/Gallium_trichloride" title="Gallium trichloride">gallium trichloride</a>").</div></div></div>
+<h2><span class="mw-headline" id="Exceptions_and_distortions">Exceptions and distortions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;action=edit&amp;section=6" title="Edit section: Exceptions and distortions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Inversion of tetrahedral occurs widely in organic and main group chemistry.  The so-called <a href="/wiki/Walden_inversion" title="Walden inversion">Walden inversion</a> illustrates the stereochemical consequences of inversion at carbon.  <a href="/wiki/Nitrogen_inversion" title="Nitrogen inversion">Nitrogen inversion</a> in ammonia also entails transient formation of planar NH<sub>3</sub>.
+</p>
+<h3><span class="mw-headline" id="Inverted_tetrahedral_geometry">Inverted tetrahedral geometry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;action=edit&amp;section=7" title="Edit section: Inverted tetrahedral geometry">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Geometrical constraints in a molecule can cause a severe distortion of idealized tetrahedral geometry. In compounds featuring "inverted" tetrahedral geometry at a carbon atom, all four groups attached to this carbon are on one side of a plane.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> The carbon atom lies  at or near the apex of a square <a href="/wiki/Pyramid_(geometry)" title="Pyramid (geometry)">pyramid</a> with the other four groups at the corners.<sup class="reference" id="cite_ref-Kenny_6-0"><a href="#cite_note-Kenny-6">[6]</a></sup><sup class="reference" id="cite_ref-Lewars_7-0"><a href="#cite_note-Lewars-7">[7]</a></sup>
+</p>
+<dl><dd><a class="image" href="/wiki/File:Invertedcarbon.png" title="Inverted carbon"><img alt="Inverted carbon" data-file-height="293" data-file-width="720" height="81" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Invertedcarbon.png/200px-Invertedcarbon.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Invertedcarbon.png/300px-Invertedcarbon.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Invertedcarbon.png/400px-Invertedcarbon.png 2x" width="200"/></a></dd></dl>
+<p>The simplest examples of organic molecules displaying inverted tetrahedral geometry are the smallest <a href="/wiki/Propellane" title="Propellane">propellanes</a>, such as <a href="/wiki/1.1.1-Propellane" title="1.1.1-Propellane">[1.1.1]propellane</a>; or more generally the <a href="/wiki/Paddlane" title="Paddlane">paddlanes</a>,<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> and <a class="mw-redirect" href="/wiki/Pyramidane" title="Pyramidane">pyramidane</a> ([3.3.3.3]fenestrane).<sup class="reference" id="cite_ref-Kenny_6-1"><a href="#cite_note-Kenny-6">[6]</a></sup><sup class="reference" id="cite_ref-Lewars_7-1"><a href="#cite_note-Lewars-7">[7]</a></sup> Such molecules are typically <a href="/wiki/Strain_energy" title="Strain energy">strained</a>, resulting in increased reactivity.
+</p>
+<h3><span class="mw-headline" id="Planarization">Planarization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;action=edit&amp;section=8" title="Edit section: Planarization">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A tetrahedron can also be distorted by increasing the angle between two of the bonds.  In the extreme case, flattening results. For carbon this phenomenon can be observed in a class of compounds called the <a href="/wiki/Fenestrane" title="Fenestrane">fenestranes</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2017)">citation needed</span></a></i>]</sup>
+</p>
+<h3><span class="mw-headline" id="Tetrahedral_molecules_with_no_central_atom">Tetrahedral molecules with no central atom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;action=edit&amp;section=9" title="Edit section: Tetrahedral molecules with no central atom">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A few molecules have a tetrahedral geometry with no central atom. An inorganic example is <a href="/wiki/Allotropes_of_phosphorus#White_phosphorus" title="Allotropes of phosphorus">tetraphosphorus</a> (P<sub>4</sub>) which has four phosphorus atoms at the vertices of a tetrahedron and each bonded to the other three. An organic example is <a href="/wiki/Tetrahedrane" title="Tetrahedrane">tetrahedrane</a> (C<sub>4</sub>H<sub>4</sub>) with four carbon atoms each bonded to one hydrogen and the other three carbons.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="mw-redirect" href="/wiki/AXE_method" title="AXE method">AXE method</a></li>
+<li><a href="/wiki/Orbital_hybridisation" title="Orbital hybridisation">Orbital hybridisation</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://maze5.net/?page_id=367" rel="nofollow">"Angle Between 2 Legs of a Tetrahedron"</a>. <i>Maze5.net</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Maze5.net&amp;rft.atitle=Angle+Between+2+Legs+of+a+Tetrahedron&amp;rft_id=http%3A%2F%2Fmaze5.net%2F%3Fpage_id%3D367&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrahedral+molecular+geometry"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Brittin, W. E. (1945). "Valence Angle of the Tetrahedral Carbon Atom". <i><a class="mw-redirect" href="/wiki/J._Chem._Educ." title="J. Chem. Educ.">J. Chem. Educ.</a></i> <b>22</b> (3): 145. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1945JChEd..22..145B" rel="nofollow">1945JChEd..22..145B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fed022p145" rel="nofollow">10.1021/ed022p145</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Chem.+Educ.&amp;rft.atitle=Valence+Angle+of+the+Tetrahedral+Carbon+Atom&amp;rft.volume=22&amp;rft.issue=3&amp;rft.pages=145&amp;rft.date=1945&amp;rft_id=info%3Adoi%2F10.1021%2Fed022p145&amp;rft_id=info%3Abibcode%2F1945JChEd..22..145B&amp;rft.aulast=Brittin&amp;rft.aufirst=W.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrahedral+molecular+geometry"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Miessler, G. L.; Tarr, D. A. <i>Inorganic Chemistry</i> (3rd ed.). Pearson/Prentice Hall. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-13-035471-6" title="Special:BookSources/0-13-035471-6">0-13-035471-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Inorganic+Chemistry&amp;rft.edition=3rd&amp;rft.pub=Pearson%2FPrentice+Hall&amp;rft.isbn=0-13-035471-6&amp;rft.aulast=Miessler&amp;rft.aufirst=G.+L.&amp;rft.au=Tarr%2C+D.+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrahedral+molecular+geometry"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mason, P. E.; Brady, J. W. (2007). "<span class="cs1-kern-left">"</span>Tetrahedrality" and the Relationship between Collective Structure and Radial Distribution Functions in Liquid Water". <i><a class="mw-redirect" href="/wiki/J._Phys._Chem._B" title="J. Phys. Chem. B">J. Phys. Chem. B</a></i>. <b>111</b> (20): 5669–5679. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fjp068581n" rel="nofollow">10.1021/jp068581n</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Phys.+Chem.+B&amp;rft.atitle=%22Tetrahedrality%22+and+the+Relationship+between+Collective+Structure+and+Radial+Distribution+Functions+in+Liquid+Water&amp;rft.volume=111&amp;rft.issue=20&amp;rft.pages=5669-5679&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1021%2Fjp068581n&amp;rft.aulast=Mason&amp;rft.aufirst=P.+E.&amp;rft.au=Brady%2C+J.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrahedral+molecular+geometry"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Kenneth_B._Wiberg" title="Kenneth B. Wiberg">Wiberg, Kenneth B.</a> (1984). "Inverted geometries at carbon". <i><a class="mw-redirect" href="/wiki/Acc._Chem._Res." title="Acc. Chem. Res.">Acc. Chem. Res.</a></i> <b>17</b> (11): 379–386. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Far00107a001" rel="nofollow">10.1021/ar00107a001</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Acc.+Chem.+Res.&amp;rft.atitle=Inverted+geometries+at+carbon&amp;rft.volume=17&amp;rft.issue=11&amp;rft.pages=379-386&amp;rft.date=1984&amp;rft_id=info%3Adoi%2F10.1021%2Far00107a001&amp;rft.aulast=Wiberg&amp;rft.aufirst=Kenneth+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrahedral+molecular+geometry"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Kenny-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Kenny_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kenny_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Joseph P. Kenny; Karl M. Krueger; Jonathan C. Rienstra-Kiracofe; Henry F. Schaefer III (2001). "C<sub>5</sub>H<sub>4</sub>:  Pyramidane and Its Low-Lying Isomers". <i><a class="mw-redirect" href="/wiki/J._Phys._Chem._A" title="J. Phys. Chem. A">J. Phys. Chem. A</a></i>. <b>105</b> (32): 7745–7750. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2001JPCA..105.7745K" rel="nofollow">2001JPCA..105.7745K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fjp011642r" rel="nofollow">10.1021/jp011642r</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Phys.+Chem.+A&amp;rft.atitle=C%3Csub%3E5%3C%2Fsub%3EH%3Csub%3E4%3C%2Fsub%3E%3A++Pyramidane+and+Its+Low-Lying+Isomers&amp;rft.volume=105&amp;rft.issue=32&amp;rft.pages=7745-7750&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1021%2Fjp011642r&amp;rft_id=info%3Abibcode%2F2001JPCA..105.7745K&amp;rft.au=Joseph+P.+Kenny&amp;rft.au=Karl+M.+Krueger&amp;rft.au=Jonathan+C.+Rienstra-Kiracofe&amp;rft.au=Henry+F.+Schaefer+III&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrahedral+molecular+geometry"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Lewars-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lewars_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lewars_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Lewars, E. (1998). "Pyramidane: an <i>ab initio</i> study of the C<sub>5</sub>H<sub>4</sub> potential energy surface". <i><a href="/wiki/Journal_of_Molecular_Structure" title="Journal of Molecular Structure">Journal of Molecular Structure</a>: THEOCHEM</i>. <b>423</b> (3): 173–188. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0166-1280%2897%2900118-8" rel="nofollow">10.1016/S0166-1280(97)00118-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Molecular+Structure%3A+THEOCHEM&amp;rft.atitle=Pyramidane%3A+an+ab+initio+study+of+the+C%3Csub%3E5%3C%2Fsub%3EH%3Csub%3E4%3C%2Fsub%3E+potential+energy+surface&amp;rft.volume=423&amp;rft.issue=3&amp;rft.pages=173-188&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1016%2FS0166-1280%2897%2900118-8&amp;rft.aulast=Lewars&amp;rft.aufirst=E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrahedral+molecular+geometry"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">IUPAC</a>, <i><a class="mw-redirect" href="/wiki/Compendium_of_Chemical_Terminology" title="Compendium of Chemical Terminology">Compendium of Chemical Terminology</a></i>, 2nd ed. (the "Gold Book") (1997). Online corrected version:  (2006–) "<a class="external text" href="http://goldbook.iupac.org/P04395.html" rel="nofollow">paddlanes</a>".</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://web.archive.org/web/20050514080630/http://www.up.ac.za/academic/chem/mol_geom/tetrahed.htm" rel="nofollow">Examples of Tetrahedral molecules</a></li>
+<li><a class="external text" href="http://intro.chem.okstate.edu/1314F97/Chapter9/4BP.html" rel="nofollow">Animated Tetrahedral Visual</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20080216023711/http://www.elmhurst.edu/~chm/vchembook/204tetrahedral.html" rel="nofollow">Elmhurst College</a></li>
+<li><a class="external text" href="http://www.staff.ncl.ac.uk/j.p.goss/symmetry/Molecules_l3d.html" rel="nofollow">Interactive molecular examples for point groups</a></li>
+<li><a class="external text" href="http://www.3dchem.com/" rel="nofollow">3D Chem</a> – Chemistry, Structures, and 3D Molecules</li>
+<li><a class="external text" href="http://arquivo.pt/wayback/20160523113736/http://www.iumsc.indiana.edu/" rel="nofollow">IUMSC</a> – Indiana University Molecular Structure Center]</li>
+<li><a class="external autonumber" href="https://web.archive.org/web/20080128180215/http://www.cartage.org.lb/en/themes/Sciences/Chemistry/Miscellenous/Helpfile/ComplexIons/mainpage.htm" rel="nofollow">[1]</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20080120023822/http://chemlab.truman.edu/CHEM121Labs/MolecularModeling1.htm" rel="nofollow">Molecular Modeling</a></li></ul>
+<div aria-labelledby="Molecular_geometry" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:MolecularGeometry" title="Template:MolecularGeometry"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:MolecularGeometry" title="Template talk:MolecularGeometry"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:MolecularGeometry&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Molecular_geometry" style="font-size:114%;margin:0 4em"><a href="/wiki/Molecular_geometry" title="Molecular geometry">Molecular geometry</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Coordination number 2</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Linear_molecular_geometry" title="Linear molecular geometry">Linear</a></li>
+<li><a href="/wiki/Bent_molecular_geometry" title="Bent molecular geometry">Bent</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Coordination number 3</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Trigonal_planar_molecular_geometry" title="Trigonal planar molecular geometry">Trigonal planar</a></li>
+<li><a href="/wiki/Trigonal_pyramidal_molecular_geometry" title="Trigonal pyramidal molecular geometry">Trigonal pyramidal</a></li>
+<li><a href="/wiki/T-shaped_molecular_geometry" title="T-shaped molecular geometry">T-shaped</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Tetracoordinate" title="Tetracoordinate">Coordination number 4</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Tetrahedral</a></li>
+<li><a href="/wiki/Square_planar_molecular_geometry" title="Square planar molecular geometry">Square planar</a></li>
+<li><a href="/wiki/Seesaw_molecular_geometry" title="Seesaw molecular geometry">Seesaw</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Coordination number 5</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Trigonal_bipyramidal_molecular_geometry" title="Trigonal bipyramidal molecular geometry">Trigonal bipyramidal</a></li>
+<li><a href="/wiki/Square_pyramidal_molecular_geometry" title="Square pyramidal molecular geometry">Square pyramidal</a></li>
+<li><a href="/wiki/Pentagonal_planar_molecular_geometry" title="Pentagonal planar molecular geometry">Pentagonal planar</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Hexacoordinate" title="Hexacoordinate">Coordination number 6</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Octahedral_molecular_geometry" title="Octahedral molecular geometry">Octahedral</a></li>
+<li><a href="/wiki/Trigonal_prismatic_molecular_geometry" title="Trigonal prismatic molecular geometry">Trigonal prismatic</a></li>
+<li><a href="/wiki/Pentagonal_pyramidal_molecular_geometry" title="Pentagonal pyramidal molecular geometry">Pentagonal pyramidal</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Coordination number 7</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pentagonal_bipyramidal_molecular_geometry" title="Pentagonal bipyramidal molecular geometry">Pentagonal bipyramidal</a></li>
+<li><a href="/wiki/Capped_octahedral_molecular_geometry" title="Capped octahedral molecular geometry">Capped octahedral</a></li>
+<li><a href="/wiki/Capped_trigonal_prismatic_molecular_geometry" title="Capped trigonal prismatic molecular geometry">Capped trigonal prismatic</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Coordination number 8</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Square_antiprismatic_molecular_geometry" title="Square antiprismatic molecular geometry">Square antiprismatic</a></li>
+<li><a href="/wiki/Dodecahedral_molecular_geometry" title="Dodecahedral molecular geometry">Dodecahedral</a></li>
+<li><a href="/wiki/Bicapped_trigonal_prismatic_molecular_geometry" title="Bicapped trigonal prismatic molecular geometry">Bicapped trigonal prismatic</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Coordination number 9</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tricapped_trigonal_prismatic_molecular_geometry" title="Tricapped trigonal prismatic molecular geometry">Tricapped trigonal prismatic</a></li>
+<li><a href="/wiki/Capped_square_antiprismatic_molecular_geometry" title="Capped square antiprismatic molecular geometry">Capped square antiprismatic</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2277
+Cached time: 20180929135645
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.272 seconds
+Real time usage: 0.343 seconds
+Preprocessor visited node count: 1317/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 45484/2097152 bytes
+Template argument size: 2486/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 19460/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.146/10.000 seconds
+Lua memory usage: 4.32 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  287.777      1 -total
+ 23.36%   67.232      1 Template:Infobox_molecular_geometry
+ 23.26%   66.930      1 Template:Cite_web
+ 22.52%   64.806      1 Template:Infobox
+ 19.49%   56.088      5 Template:Cite_journal
+ 17.55%   50.502      1 Template:Cn
+ 15.00%   43.159      1 Template:Fix
+ 10.74%   30.895      4 Template:Chem
+  9.53%   27.431      2 Template:Category_handler
+  8.26%   23.777      4 Template:Chem/link
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3797882-0!canonical and timestamp 20180929135645 and revision id 859955402
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tetrahedral_molecular_geometry&amp;oldid=859955402">https://en.wikipedia.org/w/index.php?title=Tetrahedral_molecular_geometry&amp;oldid=859955402</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Molecular_geometry" title="Category:Molecular geometry">Molecular geometry</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2017" title="Category:Articles with unsourced statements from March 2017">Articles with unsourced statements from March 2017</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tetrahedral+molecular+geometry" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Tetrahedral+molecular+geometry" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Tetrahedral_molecular_geometry" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Tetrahedral_molecular_geometry" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Tetrahedral_molecular_geometry">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Tetrahedral_molecular_geometry" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Tetrahedral_molecular_geometry" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;oldid=859955402" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2677111" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tetrahedral_molecular_geometry&amp;id=859955402" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tetrahedral+molecular+geometry">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tetrahedral+molecular+geometry&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Tetrahedral_molecular_geometry&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A8%D9%86%D9%8A%D8%A9_%D8%AC%D8%B2%D9%8A%D8%A6%D9%8A%D8%A9_%D8%B1%D8%A8%D8%A7%D8%B9%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D8%B7%D9%88%D8%AD" hreflang="ar" lang="ar" title="بنية جزيئية رباعية السطوح – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Geometria_molecular_tetra%C3%A8drica" hreflang="ca" lang="ca" title="Geometria molecular tetraèdrica – Catalan">Català</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Tetrahedral_molekyl%C3%A6r_geometri" hreflang="da" lang="da" title="Tetrahedral molekylær geometri – Danish">Dansk</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Geometr%C3%ADa_molecular_tetra%C3%A9drica" hreflang="es" lang="es" title="Geometría molecular tetraédrica – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%87%D9%86%D8%AF%D8%B3%D9%87_%D9%85%D9%88%D9%84%DA%A9%D9%88%D9%84%DB%8C_%DA%86%D9%87%D8%A7%D8%B1%D9%88%D8%AC%D9%87%DB%8C" hreflang="fa" lang="fa" title="هندسه مولکولی چهاروجهی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/G%C3%A9om%C3%A9trie_mol%C3%A9culaire_t%C3%A9tra%C3%A9drique" hreflang="fr" lang="fr" title="Géométrie moléculaire tétraédrique – French">Français</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Tetra%C3%ABdrische_moleculaire_geometrie" hreflang="nl" lang="nl" title="Tetraëdrische moleculaire geometrie – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%9B%9B%E9%9D%A2%E4%BD%93%E5%BD%A2%E5%88%86%E5%AD%90%E6%A7%8B%E9%80%A0" hreflang="ja" lang="ja" title="四面体形分子構造 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Tetraederstruktur" hreflang="no" lang="no" title="Tetraederstruktur – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Tetraedrisk_geometri" hreflang="sv" lang="sv" title="Tetraedrisk geometri – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%9B%9B%E9%9D%A2%E4%BD%93%E5%BD%A2%E5%88%86%E5%AD%90%E6%9E%84%E5%9E%8B" hreflang="zh" lang="zh" title="四面体形分子构型 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2677111#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 17 September 2018, at 11:47<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Tetrahedral_molecular_geometry&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.272","walltime":"0.343","ppvisitednodes":{"value":1317,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":45484,"limit":2097152},"templateargumentsize":{"value":2486,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":19460,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  287.777      1 -total"," 23.36%   67.232      1 Template:Infobox_molecular_geometry"," 23.26%   66.930      1 Template:Cite_web"," 22.52%   64.806      1 Template:Infobox"," 19.49%   56.088      5 Template:Cite_journal"," 17.55%   50.502      1 Template:Cn"," 15.00%   43.159      1 Template:Fix"," 10.74%   30.895      4 Template:Chem","  9.53%   27.431      2 Template:Category_handler","  8.26%   23.777      4 Template:Chem/link"]},"scribunto":{"limitreport-timeusage":{"value":"0.146","limit":"10.000"},"limitreport-memusage":{"value":4528718,"limit":52428800}},"cachereport":{"origin":"mw2277","timestamp":"20180929135645","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw2271"});});</script>
+</body>
+</html>

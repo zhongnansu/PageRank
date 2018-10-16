@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Chemical formula - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chemical_formula","wgTitle":"Chemical formula","wgCurRevisionId":860593383,"wgRevisionId":860593383,"wgArticleId":7043,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia pages semi-protected against vandalism","All articles with unsourced statements","Articles with unsourced statements from July 2018","Wikipedia articles needing clarification from November 2012","Wikipedia articles with NDL identifiers","Chemical formulas","Chemical nomenclature","Notation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Chemical_formula","wgRelevantArticleId":7043,"wgRequestId":"W8JqwQpAAD0AAGEXm6AAAAAL","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q83147","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Chemical_formula" rel="alternate"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Chemical_formula" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Chemical_formula rootpage-Chemical_formula skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-pp-default"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected due to vandalism"><img alt="Page semi-protected" data-file-height="128" data-file-width="128" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/30px-Padlock-silver.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/40px-Padlock-silver.svg.png 2x" width="20"/></a></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Chemical formula</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<div class="hatnote navigation-not-searchable" role="note">Not to be confused with the 2-D graphical method of showing atomic spatial relationships called a <a href="/wiki/Structural_formula" title="Structural formula">structural formula</a>.</div>
+<table class="infobox" style="width:22em"><caption>Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub></caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/Aluminium_sulfate" title="Aluminium sulfate">Aluminium sulfate</a> has the chemical formula Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>. The form of aluminium sulfate hexadecahydrate is <span class="nowrap">Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>•16<a class="mw-redirect" href="/wiki/Water_of_hydration" title="Water of hydration">H<sub>2</sub>O</a></span>.</td></tr></tbody></table>
+<table class="infobox" style="width:22em"><caption><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {H-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-H}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<munder>
+<mtext>C</mtext>
+<mfrac linethickness="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext>H</mtext>
+</mstyle>
+</mfrac>
+</munder>
+<mfrac linethickness="0">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext>H</mtext>
+</mstyle>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mfrac>
+</mover>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<munder>
+<mtext>C</mtext>
+<mfrac linethickness="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext>H</mtext>
+</mstyle>
+</mfrac>
+</munder>
+<mfrac linethickness="0">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext>H</mtext>
+</mstyle>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mfrac>
+</mover>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<munder>
+<mtext>C</mtext>
+<mfrac linethickness="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext>H</mtext>
+</mstyle>
+</mfrac>
+</munder>
+<mfrac linethickness="0">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext>H</mtext>
+</mstyle>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mfrac>
+</mover>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<munder>
+<mtext>C</mtext>
+<mfrac linethickness="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext>H</mtext>
+</mstyle>
+</mfrac>
+</munder>
+<mfrac linethickness="0">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext>H</mtext>
+</mstyle>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mfrac>
+</mover>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>H</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {H-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-H}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {H-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-H}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9832d7ae154c8aa976748d951691b600c631232b" style="vertical-align: -4.338ex; width:21.729ex; height:10.009ex;"/></span></caption><tbody><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/Structural_formula" title="Structural formula">Structural formula</a> for <i>n</i>-<a href="/wiki/Butane" title="Butane">butane</a>. This is not a chemical formula. Examples of chemical formulas for <i>n</i>-butane are the empirical formula C<sub>2</sub>H<sub>5</sub>, the molecular formula C<sub>4</sub>H<sub>10</sub> and the condensed (or semi-structural) formula CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>.</td></tr></tbody></table>
+<p>A <b>chemical formula</b> is a way of  presenting information about the chemical proportions of <a href="/wiki/Atom" title="Atom">atoms</a> that constitute a particular <a href="/wiki/Chemical_compound" title="Chemical compound">chemical compound</a> or molecule, using <a href="/wiki/Chemical_element" title="Chemical element">chemical element</a> symbols, numbers, and sometimes also other symbols, such as parentheses, dashes, brackets, commas and <i>plus</i> (+) and <i>minus</i> (−) signs. These are limited to a single typographic line of symbols, which may include subscripts and superscripts. A chemical formula is not a <a href="/wiki/Chemical_nomenclature" title="Chemical nomenclature">chemical name</a>, and it contains no words. Although a chemical formula may imply certain simple chemical structures, it is not the same as a full chemical <a href="/wiki/Structural_formula" title="Structural formula">structural formula</a>. Chemical formulas can fully specify the structure of only the simplest of <a href="/wiki/Molecule" title="Molecule">molecules</a> and <a href="/wiki/Chemical_substance" title="Chemical substance">chemical substances</a>, and are generally more limited in power than are chemical names and structural formulas.
+</p><p>The simplest types of chemical formulas are called <i><a href="/wiki/Empirical_formula" title="Empirical formula">empirical formulas</a></i>, which use letters and numbers indicating the numerical <i>proportions</i> of atoms of each type. <b>Molecular formulas</b> indicate the simple numbers of each type of atom in a molecule, with no information on structure. For example, the empirical formula for glucose is CH<sub>2</sub>O (twice as many hydrogen atoms as carbon and oxygen), while its molecular formula is C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> (12 hydrogen atoms, six carbon and oxygen atoms).
+</p><p>Sometimes a chemical formula is complicated by being written as a <a class="mw-redirect" href="/wiki/Condensed_formula" title="Condensed formula">condensed formula</a> (or condensed molecular formula, occasionally called a "semi-structural formula"), which conveys additional information about the particular ways in which the atoms are <a href="/wiki/Chemical_bond" title="Chemical bond">chemically bonded</a> together, either in <a href="/wiki/Covalent_bond" title="Covalent bond">covalent bonds</a>, <a class="mw-redirect" href="/wiki/Ionic_bond" title="Ionic bond">ionic bonds</a>, or various combinations of these types. This is possible if the relevant bonding is easy to show in one dimension. An example is the condensed molecular/chemical formula for ethanol, which is CH<sub>3</sub>-CH<sub>2</sub>-OH or CH<sub>3</sub>CH<sub>2</sub>OH. However, even a condensed chemical formula is necessarily limited in its ability to show complex bonding relationships between atoms, especially atoms that have bonds to four or more different <a href="/wiki/Substituent" title="Substituent">substituents</a>.
+</p><p>Since a chemical formula must be expressed as a single line of chemical element symbols, it often cannot be as informative as a true structural formula, which is a graphical representation of the spatial relationship between atoms in chemical compounds (see for example the figure for butane structural and chemical formulas, at right). For reasons of structural complexity, there is no condensed chemical formula (or semi-structural formula) that specifies glucose (and there exist many different molecules, for example <a href="/wiki/Fructose" title="Fructose">fructose</a> and <a href="/wiki/Mannose" title="Mannose">mannose</a>, that have the same <a class="mw-redirect" href="/wiki/Molecular_formula" title="Molecular formula">molecular formula</a> <a href="/wiki/C6H12O6" title="C6H12O6">C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></a> as glucose). Linear equivalent chemical <i>names</i> exist that can and do specify any complex structural formula (see <a href="/wiki/Chemical_nomenclature" title="Chemical nomenclature">chemical nomenclature</a>), but such names must use many terms (words), rather than the simple element symbols, numbers, and simple typographical symbols that define a chemical formula.
+</p><p>Chemical formulas may be used in <a href="/wiki/Chemical_equation" title="Chemical equation">chemical equations</a> to describe <a href="/wiki/Chemical_reaction" title="Chemical reaction">chemical reactions</a> and other chemical transformations, such as the dissolving of ionic compounds into solution. While, as noted, chemical formulas do not have the full power of structural formulas to show chemical relationships between atoms, they are sufficient to keep track of numbers of atoms and numbers of electrical charges in chemical reactions, thus <a href="/wiki/Chemical_equation#Balancing_chemical_equations" title="Chemical equation">balancing chemical equations</a> so that these equations can be used in chemical problems involving conservation of atoms, and conservation of electric charge.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Empirical_formula"><span class="tocnumber">2</span> <span class="toctext">Empirical formula</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Molecular_formula"><span class="tocnumber">3</span> <span class="toctext">Molecular formula</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Condensed_formula"><span class="tocnumber">4</span> <span class="toctext">Condensed formula</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Law_of_composition"><span class="tocnumber">5</span> <span class="toctext">Law of composition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Chemical_names_in_answer_to_limitations_of_chemical_formulas"><span class="tocnumber">5.1</span> <span class="toctext">Chemical names in answer to limitations of chemical formulas</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Polymers_in_condensed_formulas"><span class="tocnumber">5.2</span> <span class="toctext">Polymers in condensed formulas</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Ions_in_condensed_formulas"><span class="tocnumber">5.3</span> <span class="toctext">Ions in condensed formulas</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Isotopes"><span class="tocnumber">6</span> <span class="toctext">Isotopes</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Trapped_atoms"><span class="tocnumber">7</span> <span class="toctext">Trapped atoms</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Non-stoichiometric_chemical_formulas"><span class="tocnumber">8</span> <span class="toctext">Non-stoichiometric chemical formulas</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#General_forms_for_organic_compounds"><span class="tocnumber">9</span> <span class="toctext">General forms for organic compounds</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Hill_system"><span class="tocnumber">10</span> <span class="toctext">Hill system</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">13</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Overview">Overview</span></h2>
+<p>A chemical formula identifies each constituent <a href="/wiki/Chemical_element" title="Chemical element">element</a> by its <a class="mw-redirect" href="/wiki/Chemical_symbol" title="Chemical symbol">chemical symbol</a> and indicates the proportionate number of atoms of each element. In empirical formulas, these proportions begin with a key element and then assign numbers of atoms of the other elements in the compound, by ratios to the key element. For molecular compounds, these ratio numbers can all be expressed as whole numbers. For example, the empirical formula of <a href="/wiki/Ethanol" title="Ethanol">ethanol</a> may be written C<sub>2</sub>H<sub>6</sub>O because the molecules of ethanol all contain two carbon atoms, six hydrogen atoms, and one oxygen atom. Some types of ionic compounds, however, cannot be written with entirely whole-number empirical formulas. An example is <a href="/wiki/Boron_carbide" title="Boron carbide">boron carbide</a>, whose formula of CB<sub>n</sub> is a variable non-whole number ratio with n ranging from over 4 to more than 6.5.
+</p><p>When the chemical compound of the formula consists of simple <a href="/wiki/Molecule" title="Molecule">molecules</a>, chemical formulas often employ ways to suggest the structure of the molecule. These types of formulas are variously known as <i>molecular formulas</i> and <i><a href="/wiki/Structural_formula" title="Structural formula">condensed formulas</a></i>. A molecular formula enumerates the number of atoms to reflect those in the molecule, so that the molecular formula for <a href="/wiki/Glucose" title="Glucose">glucose</a> is C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> rather than the glucose empirical formula, which is CH<sub>2</sub>O. However, except for very simple substances, molecular chemical formulas lack needed structural information, and are ambiguous.
+</p><p>For simple molecules, a condensed (or semi-structural) formula is a type of chemical formula that may fully imply a correct structural formula. For example, <a href="/wiki/Ethanol" title="Ethanol">ethanol</a> may be represented by the condensed chemical formula CH<sub>3</sub>CH<sub>2</sub>OH, and <a href="/wiki/Dimethyl_ether" title="Dimethyl ether">dimethyl ether</a> by the condensed formula CH<sub>3</sub>OCH<sub>3</sub>. These two molecules have the same empirical and molecular formulas (C<sub>2</sub>H<sub>6</sub>O), but may be differentiated by the condensed formulas shown, which are sufficient to represent the full structure of these simple <a href="/wiki/Organic_compound" title="Organic compound">organic compounds</a>.
+</p><p>Condensed chemical formulas may also be used to represent <a href="/wiki/Ionic_compound" title="Ionic compound">ionic compounds</a> that do not exist as discrete molecules, but nonetheless do contain covalently bound clusters within them. These <a href="/wiki/Polyatomic_ion" title="Polyatomic ion">polyatomic ions</a> are groups of atoms that are covalently bound together and have an overall ionic charge, such as the sulfate <span class="chemf nowrap">[SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>]<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> ion. Each polyatomic ion in a compound is written individually in order to illustrate the separate groupings. For example, the compound <a href="/wiki/Dichlorine_hexoxide" title="Dichlorine hexoxide">dichlorine hexoxide</a> has an empirical formula <span class="chemf nowrap">ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>, and molecular formula <span class="chemf nowrap">Cl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span></span>, but in liquid or solid forms, this compound is more correctly shown by an ionic condensed formula <span class="chemf nowrap">[ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>]<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span>[ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>]<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>, which illustrates that this compound consists of <span class="chemf nowrap">[ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>]<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> ions and <span class="chemf nowrap">[ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>]<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> ions. In such cases, the condensed formula only need be complex enough to show at least one of each ionic species.
+</p><p>Chemical formulas as described here are distinct from the far more complex chemical systematic names that are used in various systems of <a href="/wiki/Chemical_nomenclature" title="Chemical nomenclature">chemical nomenclature</a>. For example, one systematic name for glucose is (2<i>R</i>,3<i>S</i>,4<i>R</i>,5<i>R</i>)-2,3,4,5,6-pentahydroxyhexanal. This name, interpreted by the rules behind it, fully specifies glucose's structural formula, but the name is not a chemical formula as usually understood, and uses terms and words not used in chemical formulas. Such names, unlike basic formulas, may be able to represent full structural formulas without graphs.
+</p>
+<h2><span class="mw-headline" id="Empirical_formula">Empirical formula</span></h2>
+<p><span id="Empirical_formulas"></span>
+</p>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Empirical_formula" title="Empirical formula">Empirical formula</a></div>
+<p>In <a href="/wiki/Chemistry" title="Chemistry">chemistry</a>, the <a href="/wiki/Empirical_formula" title="Empirical formula">empirical formula</a> of a chemical is a simple expression of the relative number of each type of atom or ratio of the elements in the compound. Empirical formulas are the standard for <a href="/wiki/Ionic_compound" title="Ionic compound">ionic compounds</a>, such as <span class="chemf nowrap">CaCl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>, and for macromolecules, such as <span class="chemf nowrap">SiO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>. An empirical formula makes no reference to <a href="/wiki/Isomer" title="Isomer">isomerism</a>, structure, or absolute number of atoms. The term <i>empirical</i> refers to the process of <a href="/wiki/Elemental_analysis" title="Elemental analysis">elemental analysis</a>, a technique of <a href="/wiki/Analytical_chemistry" title="Analytical chemistry">analytical chemistry</a> used to determine the relative percent composition of a pure chemical substance by element.
+</p><p>For example, <a href="/wiki/Hexane" title="Hexane">hexane</a> has a molecular formula of <span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">14</sub></span></span>, or structurally <span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>, implying that it has a chain structure of 6 <a href="/wiki/Carbon" title="Carbon">carbon</a> atoms, and 14 <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> atoms. However, the empirical formula for hexane is <span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">7</sub></span></span>. Likewise the empirical formula for <a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">hydrogen peroxide</a>, <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>, is simply HO expressing the 1:1 ratio of component elements. <a href="/wiki/Formaldehyde" title="Formaldehyde">Formaldehyde</a> and <a href="/wiki/Acetic_acid" title="Acetic acid">acetic acid</a> have the same empirical formula, <span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span>. This is the actual chemical formula for formaldehyde, but acetic acid has double the number of atoms.
+</p>
+<h2><span class="mw-headline" id="Molecular_formula">Molecular formula</span></h2>
+<p>Molecular formulas indicate the simple numbers of each type of atom in a molecule of a molecular substance. They are the same as empirical formulas for molecules that only have one atom of a particular type, but otherwise may have larger numbers. An example of the difference is the empirical formula for glucose, which is CH<sub>2</sub>O (<i>ratio</i> 1:2:1), while its molecular formula is C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> (<i>number of atoms</i> 6:12:6). For water, both formulas are H<sub>2</sub>O. A molecular formula provides more information about a molecule than its empirical formula, but is more difficult to establish.
+</p><p>A molecular formula shows the number of elements in a molecule, and determines whether it is a <a class="mw-redirect" href="/wiki/Binary_compound" title="Binary compound">binary compound</a>, <a href="/wiki/Ternary_compound" title="Ternary compound">ternary compound</a>, <a href="/wiki/Quaternary_compound" title="Quaternary compound">quaternary compound</a>, or has even more elements.
+</p>
+<h2><span class="mw-headline" id="Condensed_formula">Condensed formula</span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a class="mw-redirect" href="/wiki/Condensed_formula" title="Condensed formula">Condensed formula</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:152px;"><a class="image" href="/wiki/File:Isobutane_numbered_2D.svg"><img alt="" class="thumbimage" data-file-height="94" data-file-width="94" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Isobutane_numbered_2D.svg/150px-Isobutane_numbered_2D.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Isobutane_numbered_2D.svg/225px-Isobutane_numbered_2D.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Isobutane_numbered_2D.svg/300px-Isobutane_numbered_2D.svg.png 2x" width="150"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Isobutane_numbered_2D.svg" title="Enlarge"></a></div><a href="/wiki/Isobutane" title="Isobutane">Isobutane</a> structural formula<br/>Molecular formula: C<sub>4</sub>H<sub>10</sub><br/>Condensed or semi-structural chemical formula: (CH<sub>3</sub>)<sub>3</sub>CH</div></div></div>
+<div class="thumb tright"><div class="thumbinner noresize" style="width:157px;"><div class="thumbimage" style="width:155px;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {H-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-H}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<munder>
+<mtext>C</mtext>
+<mfrac linethickness="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext>H</mtext>
+</mstyle>
+</mfrac>
+</munder>
+<mfrac linethickness="0">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext>H</mtext>
+</mstyle>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mfrac>
+</mover>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<munder>
+<mtext>C</mtext>
+<mfrac linethickness="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext>H</mtext>
+</mstyle>
+</mfrac>
+</munder>
+<mfrac linethickness="0">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext>H</mtext>
+</mstyle>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mfrac>
+</mover>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<munder>
+<mtext>C</mtext>
+<mfrac linethickness="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext>H</mtext>
+</mstyle>
+</mfrac>
+</munder>
+<mfrac linethickness="0">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext>H</mtext>
+</mstyle>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mfrac>
+</mover>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<munder>
+<mtext>C</mtext>
+<mfrac linethickness="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext>H</mtext>
+</mstyle>
+</mfrac>
+</munder>
+<mfrac linethickness="0">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext>H</mtext>
+</mstyle>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mfrac>
+</mover>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>H</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {H-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-H}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {H-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-{\overset {\displaystyle H \atop |}{\underset {| \atop \displaystyle H}{C}}}-H}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9832d7ae154c8aa976748d951691b600c631232b" style="vertical-align: -4.338ex; width:21.729ex; height:10.009ex;"/></span></div><div class="thumbcaption"><i>n</i>-<a href="/wiki/Butane" title="Butane">Butane</a> structural formula<br/>Molecular formula: C<sub>4</sub>H<sub>10</sub><br/>Condensed or semi-structural formula: CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub></div></div></div>
+<p>The <a href="/wiki/Connectivity_(graph_theory)" title="Connectivity (graph theory)">connectivity</a> of a molecule often has a strong influence on its physical and chemical properties and behavior. Two molecules composed of the same numbers of the same types of atoms (i.e. a pair of <a href="/wiki/Isomer" title="Isomer">isomers</a>) might have completely different chemical and/or physical properties if the atoms are connected differently or in different positions. In such cases, a <a href="/wiki/Structural_formula" title="Structural formula">structural formula</a> is useful, as it illustrates which atoms are bonded to which other ones. From the connectivity, it is often possible to deduce the approximate <a href="/wiki/Molecular_geometry" title="Molecular geometry">shape of the molecule</a>.
+</p><p>A condensed chemical formula may represent the types and spatial arrangement of <a href="/wiki/Chemical_bond" title="Chemical bond">bonds</a> in a simple chemical substance, though it does not necessarily specify <a href="/wiki/Isomer" title="Isomer">isomers</a> or complex structures. For example, <a href="/wiki/Ethane" title="Ethane">ethane</a> consists of two carbon atoms single-bonded to each other, with each carbon atom having three hydrogen atoms bonded to it. Its chemical formula can be rendered as CH<sub>3</sub>CH<sub>3</sub>. In <a href="/wiki/Ethylene" title="Ethylene">ethylene</a> there is a double bond between the carbon atoms (and thus each carbon only has two hydrogens), therefore the chemical formula may be written: CH<sub>2</sub>CH<sub>2</sub>, and the fact that there is a double bond between the carbons is implicit because carbon has a valence of four. However, a more explicit method is to write H<sub>2</sub>C=CH<sub>2</sub> or less commonly H<sub>2</sub>C<b>::</b>CH<sub>2</sub>. The two lines (or two pairs of dots) indicate that a <a href="/wiki/Double_bond" title="Double bond">double bond</a> connects the atoms on either side of them.
+</p><p>A <a href="/wiki/Triple_bond" title="Triple bond">triple bond</a> may be expressed with three lines (HC≡CH) or three pairs of dots (HC:::CH), and if there may be ambiguity, a single line or pair of dots may be used to indicate a single bond.
+</p><p>Molecules with multiple <a href="/wiki/Functional_group" title="Functional group">functional groups</a> that are the same may be expressed by enclosing the repeated group in <a class="mw-redirect" href="/wiki/Parenthesis" title="Parenthesis">round brackets</a>. For example, <a href="/wiki/Isobutane" title="Isobutane">isobutane</a> may be written (CH<sub>3</sub>)<sub>3</sub>CH. This condensed structural formula implies a different connectivity from other molecules that can be formed using the same atoms in the same proportions (isomers). The formula (CH<sub>3</sub>)<sub>3</sub>CH implies a central carbon atom connected to one hydrogen atom and three <a href="/wiki/Methyl_group" title="Methyl group">CH<sub>3</sub> groups</a>. The same number of atoms of each element (10 hydrogens and 4 carbons, or C<sub>4</sub>H<sub>10</sub>) may be used to make a straight chain molecule, <i>n</i>-<a href="/wiki/Butane" title="Butane">butane</a>: CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>.
+</p>
+<h2><span class="mw-headline" id="Law_of_composition">Law of composition</span></h2>
+<p>In any given chemical compound, the elements always combine in the same proportion with each other. This is the <a class="mw-redirect" href="/wiki/Law_of_constant_composition" title="Law of constant composition">law of constant composition</a>.
+</p><p>The law of constant composition says that, in any particular chemical compound, all samples of that compound will be made up of the same elements in the same proportion or ratio. For example, any water molecule is always made up of two hydrogen atoms and one oxygen atom in a 2:1 ratio. If we look at the relative masses of oxygen and hydrogen in a water molecule, we see that 94% of the mass of a water molecule is accounted for by oxygen and the remaining 6% is the mass of hydrogen. This mass proportion will be the same for any water molecule.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Chemical_names_in_answer_to_limitations_of_chemical_formulas">Chemical names in answer to limitations of chemical formulas</span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Chemical_nomenclature" title="Chemical nomenclature">Chemical nomenclature</a></div>
+<p>The alkene called <b>but-2-ene</b> has two isomers, which the chemical formula CH<sub>3</sub>CH=CHCH<sub>3</sub> does not identify. The relative position of the two methyl groups must be indicated by additional notation denoting whether the methyl groups are on the same side of the double bond (<i>cis</i> or <i>Z</i>) or on the opposite sides from each other (<i>trans</i> or <i>E</i>). Such extra symbols violate the rules for chemical formulas, and begin to enter the territory of more complex naming systems.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="Sounds like opinion. Cite? (July 2018)">citation needed</span></a></i>]</sup>
+</p><p>As noted above, in order to represent the full structural formulas of many complex organic and inorganic compounds, <a href="/wiki/Chemical_nomenclature" title="Chemical nomenclature">chemical nomenclature</a> may be needed which goes well beyond the available resources used above in simple condensed formulas.  See <a href="/wiki/IUPAC_nomenclature_of_organic_chemistry" title="IUPAC nomenclature of organic chemistry">IUPAC nomenclature of organic chemistry</a> and <a href="/wiki/IUPAC_nomenclature_of_inorganic_chemistry_2005" title="IUPAC nomenclature of inorganic chemistry 2005">IUPAC nomenclature of inorganic chemistry 2005</a> for examples. In addition, linear naming systems such as <a href="/wiki/International_Chemical_Identifier" title="International Chemical Identifier">International Chemical Identifier</a> (InChI) allow a computer to construct a structural formula, and <a href="/wiki/Simplified_molecular-input_line-entry_system" title="Simplified molecular-input line-entry system">simplified molecular-input line-entry system</a> (SMILES) allows a more human-readable ASCII input. However, all these nomenclature systems go beyond the standards of chemical formulas, and technically are chemical naming systems, not formula systems.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="Sounds like opinion. Cite? (July 2018)">citation needed</span></a></i>]</sup>
+</p>
+<h3><span class="mw-headline" id="Polymers_in_condensed_formulas">Polymers in condensed formulas</span></h3>
+<p>For <a href="/wiki/Polymer" title="Polymer">polymers</a> in condensed chemical formulas, parentheses are placed around the repeating unit. For example, a <a href="/wiki/Hydrocarbon" title="Hydrocarbon">hydrocarbon</a> molecule that is described as CH<sub>3</sub>(CH<sub>2</sub>)<sub>50</sub>CH<sub>3</sub>, is a molecule with fifty repeating units. If the number of repeating units is unknown or variable, the letter <i>n</i> may be used to indicate this formula: CH<sub>3</sub>(CH<sub>2</sub>)<sub><i>n</i></sub>CH<sub>3</sub>.
+</p>
+<h3><span class="mw-headline" id="Ions_in_condensed_formulas">Ions in condensed formulas</span></h3>
+<p>For <a href="/wiki/Ion" title="Ion">ions</a>, the charge on a particular atom may be denoted with a right-hand superscript. For example, Na<sup>+</sup>, or Cu<sup>2+</sup>. The total charge on a charged molecule or a <a href="/wiki/Polyatomic_ion" title="Polyatomic ion">polyatomic ion</a> may also be shown in this way. For example: <a href="/wiki/Hydronium" title="Hydronium">H<sub>3</sub>O<sup>+</sup></a> or <a href="/wiki/Sulfate" title="Sulfate">SO<sub>4</sub><sup>2−</sup></a>.  Note that + and - are used in place of +1 and -1, respectively.
+</p><p>For more complex ions, brackets [ ] are often used to enclose the ionic formula, as in [B<sub>12</sub>H<sub>12</sub>]<sup>2−</sup>, which is found in compounds such as <a href="/wiki/Caesium_dodecaborate" title="Caesium dodecaborate">Cs<sub>2</sub>[B<sub>12</sub>H<sub>12</sub>]</a>. Parentheses ( ) can be nested inside brackets to indicate a repeating unit, as in <a href="/wiki/Hexamminecobalt(III)_chloride" title="Hexamminecobalt(III) chloride">[Co(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup>Cl<sub>3</sub><sup>−</sup></a>. Here, (NH<sub>3</sub>)<sub>6</sub> indicates that the ion contains six <a class="mw-redirect" href="/wiki/Ammine" title="Ammine">NH<sub>3</sub> groups</a> bonded to <a href="/wiki/Cobalt" title="Cobalt">cobalt</a>, and [ ] encloses the entire formula of the ion with charge +3.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag needs further explanation. (November 2012)">further explanation needed</span></a></i>]</sup>
+</p><p>This is strictly optional; a chemical formula is valid with or without ionization information, and Hexamminecobalt(III) chloride may be written as [Co(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup>Cl<sub>3</sub><sup>−</sup> or [Co(NH<sub>3</sub>)<sub>6</sub>]Cl<sub>3</sub>.  Brackets, like parentheses, behave in chemistry as they do in mathematics, grouping terms together –  they are not specifically employed only for ionization states.  In the latter case here, the parentheses indicate 6 groups all of the same shape, bonded to another group of size 1 (the cobalt atom), and then the entire bundle, as a group, is bonded to 3 chlorine atoms.  In the former case, it is clearer that the bond connecting the chlorines is <a href="/wiki/Ionic_bonding" title="Ionic bonding">ionic</a>, rather than <a href="/wiki/Covalent_bond" title="Covalent bond">covalent</a>.
+</p>
+<h2><span class="mw-headline" id="Isotopes">Isotopes</span></h2>
+<p>Although <a href="/wiki/Isotope" title="Isotope">isotopes</a> are more relevant to <a href="/wiki/Nuclear_chemistry" title="Nuclear chemistry">nuclear chemistry</a> or <a class="mw-redirect" href="/wiki/Stable_isotope" title="Stable isotope">stable isotope</a> chemistry than to conventional chemistry, different isotopes may be indicated with a prefixed <a class="mw-redirect" href="/wiki/Superscript" title="Superscript">superscript</a> in a chemical formula. For example, the phosphate ion containing radioactive phosphorus-32 is [<sup>32</sup>PO<sub>4</sub>]<sup>3−</sup>. Also a study involving stable isotope ratios might include the molecule <sup>18</sup>O<sup>16</sup>O.
+</p><p>A left-hand subscript is sometimes used redundantly to indicate the <a href="/wiki/Atomic_number" title="Atomic number">atomic number</a>. For example, <sub>8</sub>O<sub>2</sub> for dioxygen, and <span style="white-space:nowrap;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.0em;font-size:80%;text-align:right"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">16</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">8</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.0em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>  for the most abundant isotopic species of dioxygen. This is convenient when writing equations for <a href="/wiki/Nuclear_reaction" title="Nuclear reaction">nuclear reactions</a>, in order to show the balance of charge more clearly.
+</p>
+<h2><span class="mw-headline" id="Trapped_atoms">Trapped atoms</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a class="image" href="/wiki/File:Endohedral_fullerene.png"><img alt="" class="thumbimage" data-file-height="614" data-file-width="618" height="179" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Endohedral_fullerene.png/180px-Endohedral_fullerene.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Endohedral_fullerene.png/270px-Endohedral_fullerene.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Endohedral_fullerene.png/360px-Endohedral_fullerene.png 2x" width="180"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Endohedral_fullerene.png" title="Enlarge"></a></div>Traditional formula: MC<sub>60</sub><br/>The "@" notation: M@C<sub>60</sub></div></div></div>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Endohedral_fullerene" title="Endohedral fullerene">Endohedral fullerene</a></div>
+<p>The @ symbol (<a href="/wiki/At_sign" title="At sign">at sign</a>) indicates an atom or molecule trapped inside a cage but not chemically bound to it. For example, a <a href="/wiki/Buckminsterfullerene" title="Buckminsterfullerene">buckminsterfullerene</a> (C<sub>60</sub>) with an atom (M) would simply be represented as MC<sub>60</sub> regardless of whether M was inside the fullerene without chemical bonding or outside, bound to one of the carbon atoms. Using the @ symbol, this would be denoted M@C<sub>60</sub> if M was inside the carbon network. A non-fullerene example is [As@Ni<sub>12</sub>As<sub>20</sub>]<sup>3−</sup>, an ion in which one As atom is trapped in a cage formed by the other 32 atoms.
+</p><p>This notation was proposed in 1991<sup class="reference" id="cite_ref-YanChai_2-0"><a href="#cite_note-YanChai-2">[2]</a></sup> with the discovery of <a href="/wiki/Fullerene" title="Fullerene">fullerene</a> cages (<a href="/wiki/Endohedral_fullerene" title="Endohedral fullerene">endohedral fullerenes</a>), which can trap atoms such as <a href="/wiki/Lanthanum" title="Lanthanum">La</a> to form, for example, La@C<sub>60</sub> or La@C<sub>82</sub>. The choice of the symbol has been explained by the authors as being concise, readily printed and transmitted electronically (the at sign is included in <a href="/wiki/ASCII" title="ASCII">ASCII</a>, which most modern character encoding schemes are based on), and the visual aspects suggesting the structure of an endohedral fullerene.
+</p>
+<h2><span class="mw-headline" id="Non-stoichiometric_chemical_formulas">Non-stoichiometric chemical formulas</span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Non-stoichiometric_compound" title="Non-stoichiometric compound">Non-stoichiometric compound</a></div>
+<p>Chemical formulas most often use <a href="/wiki/Integer" title="Integer">integers</a> for each element. However, there is a class of compounds, called <a href="/wiki/Non-stoichiometric_compound" title="Non-stoichiometric compound">non-stoichiometric compounds</a>, that cannot be represented by small integers. Such a formula might be written using <a class="mw-redirect" href="/wiki/Decimal_fraction" title="Decimal fraction">decimal fractions</a>, as in Fe<sub>0.95</sub>O, or it might include a variable part represented by a letter, as in Fe<sub>1–x</sub>O, where x is normally much less than 1.
+</p>
+<h2><span class="mw-headline" id="General_forms_for_organic_compounds">General forms for organic compounds</span></h2>
+<p>A chemical formula used for a series of compounds that differ from each other by a constant unit is called a <i>general formula</i>. It generates a <a href="/wiki/Homologous_series" title="Homologous series">homologous series</a> of chemical formulas. For example, <a class="mw-redirect" href="/wiki/Alcohols" title="Alcohols">alcohols</a> may be represented by the formula C<sub><i>n</i></sub>H<sub>(2n + 1)</sub>OH  (<i>n</i> ≥  1), giving the homologs <a href="/wiki/Methanol" title="Methanol">methanol</a>, <a href="/wiki/Ethanol" title="Ethanol">ethanol</a>, <a href="/wiki/Propanol" title="Propanol">propanol</a> for <i>n</i>=1–3.
+</p>
+<h2><span class="mw-headline" id="Hill_system">Hill system</span></h2>
+<p>The <b>Hill system</b> (or Hill notation) is a system of writing empirical chemical formulas, molecular chemical formulas and components of a condensed formula such that the number of <a href="/wiki/Carbon" title="Carbon">carbon</a> <a href="/wiki/Atom" title="Atom">atoms</a> in a <a href="/wiki/Molecule" title="Molecule">molecule</a> is indicated first, the number of <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> atoms next, and then the number of all other <a href="/wiki/Chemical_element" title="Chemical element">chemical elements</a> subsequently, in <a href="/wiki/Alphabetical_order" title="Alphabetical order">alphabetical order</a> of the <a class="mw-redirect" href="/wiki/Chemical_symbols" title="Chemical symbols">chemical symbols</a>. When the formula contains no carbon,  all the elements, including hydrogen, are listed alphabetically.
+</p><p>By sorting formulas according to the number of atoms of each element present in the formula according to these rules, with differences in earlier elements or numbers being treated as more significant than differences in any later element or number—like sorting text strings into <a href="/wiki/Lexicographical_order" title="Lexicographical order">lexicographical order</a>—it is possible to <a href="/wiki/Collation" title="Collation">collate</a> chemical formulas into what is known as Hill system order.
+</p><p>The Hill system was first published by <a class="new" href="/w/index.php?title=Edwin_A._Hill&amp;action=edit&amp;redlink=1" title="Edwin A. Hill (page does not exist)">Edwin A. Hill</a> of the <a href="/wiki/United_States_Patent_and_Trademark_Office" title="United States Patent and Trademark Office">United States Patent and Trademark Office</a> in 1900.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> It is the most commonly used system in chemical databases and printed indexes to sort lists of compounds.<sup class="reference" id="cite_ref-wiggins_4-0"><a href="#cite_note-wiggins-4">[4]</a></sup>
+</p><p>A list of formulas in Hill system order is arranged alphabetically, as above, with single-letter elements coming before two-letter symbols when the symbols begin with the same letter (so "B" comes before "Be", which comes before "Br").<sup class="reference" id="cite_ref-wiggins_4-1"><a href="#cite_note-wiggins-4">[4]</a></sup>
+</p><p>The following example formulae are written using the Hill system, and listed in Hill order:
+</p>
+<ul><li>BrI</li>
+<li>CCl<sub>4</sub></li>
+<li>CH<sub>3</sub>I</li>
+<li>C<sub>2</sub>H<sub>5</sub>Br</li>
+<li>H<sub>2</sub>O<sub>4</sub>S</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a class="mw-redirect" href="/wiki/Dictionary_of_chemical_formulas" title="Dictionary of chemical formulas">Dictionary of chemical formulas</a></li>
+<li><a class="mw-redirect" href="/wiki/Element_symbol" title="Element symbol">Element symbol</a></li>
+<li><a class="mw-redirect" href="/wiki/Nuclear_notation" title="Nuclear notation">Nuclear notation</a></li>
+<li><a href="/wiki/Periodic_table" title="Periodic table">Periodic table</a></li>
+<li><a href="/wiki/IUPAC_nomenclature_of_inorganic_chemistry" title="IUPAC nomenclature of inorganic chemistry">IUPAC nomenclature of inorganic chemistry</a></li>
+<li><a href="/wiki/Formula_unit" title="Formula unit">Formula unit</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="590" data-file-width="1050" height="22" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/60px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/80px-Wikidata-logo.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a> has the property: 
+<ul><li><img alt="Disc Plain blue dark.svg" data-file-height="460" data-file-width="460" height="4" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Disc_Plain_blue_dark.svg/4px-Disc_Plain_blue_dark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Disc_Plain_blue_dark.svg/6px-Disc_Plain_blue_dark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Disc_Plain_blue_dark.svg/8px-Disc_Plain_blue_dark.svg.png 2x" style="vertical-align: middle" width="4"/> <b><i><a class="extiw" href="https://www.wikidata.org/wiki/Property_talk:P274" title="d:Property talk:P274">chemical formula <small>(P274)</small></a></i></b> (see <span class="plainlinks"><a class="external text" href="https://query.wikidata.org/embed.html#SELECT%20%3FWikiData_item_%20%3FWikiData_item_Label%20%3Fvalue%20%3FvalueLabel%20%3FEnglish_WikiPedia_article%20%23Show%20data%20in%20this%20order%0A%7B%0A%09%3FWikiData_item_%20wdt%3AP274%20%3Fvalue%20.%20%23Collecting%20all%20items%20which%20have%20P274%20data%2C%20from%20whole%20WikiData%20item%20pages%0A%09OPTIONAL%20%7B%3FEnglish_WikiPedia_article%20schema%3Aabout%20%3FWikiData_item_%3B%20schema%3AisPartOf%20%3Chttps%3A%2F%2Fen.wikipedia.org%2F%3E%20.%7D%20%23If%20collected%20item%20has%20link%20to%20English%20WikiPedia%2C%20show%20that%0A%09SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20%20%7D%20%23Show%20label%20in%20this%20language.%20%22en%22%20is%20English.%20%20%20%0A%7D%0ALIMIT%201000">uses</a></span>)</li></ul></td></tr></tbody></table>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.everythingmaths.co.za/science/grade-10/13-physical-and-chemical-change/13-physical-and-chemical-change-03.cnxmlplus" rel="nofollow">"Law of Constant Composition"</a>. <i>Everything Math and Science</i>. SIYAVULA<span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Everything+Math+and+Science&amp;rft.atitle=Law+of+Constant+Composition&amp;rft_id=http%3A%2F%2Fwww.everythingmaths.co.za%2Fscience%2Fgrade-10%2F13-physical-and-chemical-change%2F13-physical-and-chemical-change-03.cnxmlplus&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChemical+formula"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> <a class="image" href="/wiki/File:CC-BY-SA_icon.svg"><img alt="CC-BY-SA icon.svg" data-file-height="31" data-file-width="88" height="18" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CC-BY-SA_icon.svg/50px-CC-BY-SA_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CC-BY-SA_icon.svg/75px-CC-BY-SA_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CC-BY-SA_icon.svg/100px-CC-BY-SA_icon.svg.png 2x" width="50"/></a> This material is available under a Creative Commons Attribution-Share Alike 3.0 license.</span>
+</li>
+<li id="cite_note-YanChai-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-YanChai_2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Chai, Yan; Guo, Ting; Jin, Changming; Haufler, Robert E.; Chibante, L. P. Felipe; Fure, Jan; Wang, Lihong; Alford, J. Michael; Smalley, Richard E. (1991). "Fullerenes wlth Metals Inside". <i>Journal of Physical Chemistry</i>. <b>95</b> (20): 7564–7568. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fj100173a002" rel="nofollow">10.1021/j100173a002</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Physical+Chemistry&amp;rft.atitle=Fullerenes+wlth+Metals+Inside&amp;rft.volume=95&amp;rft.issue=20&amp;rft.pages=7564-7568&amp;rft.date=1991&amp;rft_id=info%3Adoi%2F10.1021%2Fj100173a002&amp;rft.au=Chai%2C+Yan&amp;rft.au=Guo%2C+Ting&amp;rft.au=Jin%2C+Changming&amp;rft.au=Haufler%2C+Robert+E.&amp;rft.au=Chibante%2C+L.+P.+Felipe&amp;rft.au=Fure%2C+Jan&amp;rft.au=Wang%2C+Lihong&amp;rft.au=Alford%2C+J.+Michael&amp;rft.au=Smalley%2C+Richard+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChemical+formula"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Edwin A. Hill (1900). "On a system of indexing chemical literature; Adopted by the Classification Division of the U.S. Patent Office". <i><a class="mw-redirect" href="/wiki/J._Am._Chem._Soc." title="J. Am. Chem. Soc.">J. Am. Chem. Soc.</a></i> <b>22</b> (8): 478–494. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fja02046a005" rel="nofollow">10.1021/ja02046a005</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.atitle=On+a+system+of+indexing+chemical+literature%3B+Adopted+by+the+Classification+Division+of+the+U.S.+Patent+Office&amp;rft.volume=22&amp;rft.issue=8&amp;rft.pages=478-494&amp;rft.date=1900&amp;rft_id=info%3Adoi%2F10.1021%2Fja02046a005&amp;rft.au=Edwin+A.+Hill&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChemical+formula"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-wiggins-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-wiggins_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-wiggins_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Wiggins, Gary. (1991). <i>Chemical Information Sources.</i> New York: McGraw Hill. p. 120.</span>
+</li>
+</ol></div></div>
+<ul><li><cite class="citation book">Ralph S. Petrucci; William S. Harwood; F. Geoffrey Herring (2002). "3". <i>General Chemistry: Principles and Modern Applications</i> (8th ed.). Prentice-Hall. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-13-198825-5" title="Special:BookSources/0-13-198825-5">0-13-198825-5</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a class="external text" href="//www.worldcat.org/oclc/46872308" rel="nofollow">46872308</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=3&amp;rft.btitle=General+Chemistry%3A+Principles+and+Modern+Applications&amp;rft.edition=8th&amp;rft.pub=Prentice-Hall&amp;rft.date=2002&amp;rft_id=info%3Aoclcnum%2F46872308&amp;rft.isbn=0-13-198825-5&amp;rft.au=Ralph+S.+Petrucci&amp;rft.au=William+S.+Harwood&amp;rft.au=F.+Geoffrey+Herring&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChemical+formula"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul><li><a class="external text" href="http://library.uml.edu/personal/Marion_Muskiewicz/hillorder.htm" rel="nofollow">Hill notation example</a>, from the University of Massachusetts Lowell libraries, including how to sort into Hill system order</li>
+<li><a class="external text" href="http://www.chemcalc.org" rel="nofollow">Molecular formula calculation applying Hill notation</a>. The library calculating Hill notation is <a class="external text" href="https://www.npmjs.com/package/chemcalc" rel="nofollow">available on npm</a>.</li></ul>
+<div aria-labelledby="Molecules_detected_in_outer_space" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Molecules_detected_in_outer_space" title="Template:Molecules detected in outer space"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Molecules_detected_in_outer_space" title="Template talk:Molecules detected in outer space"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Molecules_detected_in_outer_space&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Molecules_detected_in_outer_space" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules" title="List of interstellar and circumstellar molecules">Molecules detected in outer space</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Molecule" title="Molecule">Molecules</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Diatomic_molecule" title="Diatomic molecule">Diatomic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_monochloride" title="Aluminium monochloride">Aluminium monochloride</a></li>
+<li><a href="/wiki/Aluminium_monofluoride" title="Aluminium monofluoride">Aluminium monofluoride</a></li>
+<li><a href="/wiki/Aluminium(II)_oxide" title="Aluminium(II) oxide">Aluminium monoxide</a></li>
+<li><a href="/wiki/Argonium" title="Argonium">Argonium</a></li>
+<li><a href="/wiki/Carbon_monophosphide" title="Carbon monophosphide">Carbon monophosphide</a></li>
+<li><a href="/wiki/Carbon_monosulfide" title="Carbon monosulfide">Carbon monosulfide</a></li>
+<li><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a></li>
+<li><a href="/wiki/Silicon_carbide" title="Silicon carbide">Carborundum</a></li>
+<li><a href="/wiki/Cyanogen" title="Cyanogen">Cyanogen</a> radical</li>
+<li><a href="/wiki/Diatomic_carbon" title="Diatomic carbon">Diatomic carbon</a></li>
+<li><a class="new" href="/w/index.php?title=Fluoromethylidynium&amp;action=edit&amp;redlink=1" title="Fluoromethylidynium (page does not exist)">Fluoromethylidynium</a></li>
+<li><a href="/wiki/Hydrogen_chloride" title="Hydrogen chloride">Hydrogen chloride</a></li>
+<li><a href="/wiki/Hydrogen_fluoride" title="Hydrogen fluoride">Hydrogen fluoride</a></li>
+<li><a href="/wiki/Hydrogen" title="Hydrogen">Hydrogen</a> (molecular)</li>
+<li><a href="/wiki/Hydroxyl_radical" title="Hydroxyl radical">Hydroxyl radical</a></li>
+<li><a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">Iron(II) oxide</a></li>
+<li><a class="new" href="/w/index.php?title=Magnesium_monohydride_cation&amp;action=edit&amp;redlink=1" title="Magnesium monohydride cation (page does not exist)">Magnesium monohydride cation</a></li>
+<li><a href="/wiki/Methylidyne_radical" title="Methylidyne radical">Methylidyne radical</a></li>
+<li><a href="/wiki/Nitric_oxide" title="Nitric oxide">Nitric oxide</a></li>
+<li><a href="/wiki/Nitrogen" title="Nitrogen">Nitrogen</a> (molecular)</li>
+<li><a class="mw-redirect" href="/wiki/Interstellar_nitrogen_monohydride" title="Interstellar nitrogen monohydride">Nitrogen monohydride</a></li>
+<li><a class="mw-redirect" href="/wiki/Mononitrogen_monosulfide" title="Mononitrogen monosulfide">Nitrogen sulfide</a></li>
+<li><a href="/wiki/Oxygen" title="Oxygen">Oxygen</a> (molecular)</li>
+<li><a class="new" href="/w/index.php?title=Phosphorus_monoxide&amp;action=edit&amp;redlink=1" title="Phosphorus monoxide (page does not exist)">Phosphorus monoxide</a></li>
+<li><a href="/wiki/Phosphorus_mononitride" title="Phosphorus mononitride">Phosphorus mononitride</a></li>
+<li><a href="/wiki/Potassium_chloride" title="Potassium chloride">Potassium chloride</a></li>
+<li><a href="/wiki/Silicon_carbide" title="Silicon carbide">Silicon carbide</a></li>
+<li><a href="/wiki/Silicon_nitride#Production" title="Silicon nitride">Silicon mononitride</a></li>
+<li><a href="/wiki/Sulfanyl" title="Sulfanyl">Silicon monoxide</a></li>
+<li><a href="/wiki/Silicon_monosulfide" title="Silicon monosulfide">Silicon monosulfide</a></li>
+<li><a href="/wiki/Sodium_chloride" title="Sodium chloride">Sodium chloride</a></li>
+<li><a href="/wiki/Sodium_iodide" title="Sodium iodide">Sodium iodide</a></li>
+<li><a href="/wiki/Sulfanyl" title="Sulfanyl">Sulfur monohydride</a></li>
+<li><a href="/wiki/Sulfur_monoxide" title="Sulfur monoxide">Sulfur monoxide</a></li>
+<li><a href="/wiki/Titanium_oxide" title="Titanium oxide">Titanium oxide</a></li></ul>
+</div></td><td class="navbox-image" rowspan="9" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/Nitrous_oxide" title="Nitrous oxide"><img alt="Nitrous-oxide-3D-balls.png" data-file-height="441" data-file-width="1100" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nitrous-oxide-3D-balls.png/60px-Nitrous-oxide-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nitrous-oxide-3D-balls.png/90px-Nitrous-oxide-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Nitrous-oxide-3D-balls.png/120px-Nitrous-oxide-3D-balls.png 2x" width="60"/></a> <br/><br/><br/><br/> <a href="/wiki/Ethanol" title="Ethanol"><img alt="Ethanol-3D-balls.png" data-file-height="754" data-file-width="1100" height="41" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ethanol-3D-balls.png/60px-Ethanol-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ethanol-3D-balls.png/90px-Ethanol-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ethanol-3D-balls.png/120px-Ethanol-3D-balls.png 2x" width="60"/></a> <br/><br/><br/><br/> <a href="/wiki/Buckminsterfullerene" title="Buckminsterfullerene"><img alt="Buckminsterfullerene-perspective-3D-balls.png" data-file-height="1100" data-file-width="1056" height="63" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Buckminsterfullerene-perspective-3D-balls.png/60px-Buckminsterfullerene-perspective-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Buckminsterfullerene-perspective-3D-balls.png/90px-Buckminsterfullerene-perspective-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Buckminsterfullerene-perspective-3D-balls.png/120px-Buckminsterfullerene-perspective-3D-balls.png 2x" width="60"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Triatomic_molecule" title="Triatomic molecule">Triatomic</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aluminium_hydroxide" title="Aluminium hydroxide">Aluminium hydroxide</a></li>
+<li><a class="new" href="/w/index.php?title=Aluminium_isocyanide&amp;action=edit&amp;redlink=1" title="Aluminium isocyanide (page does not exist)">Aluminium isocyanide</a></li>
+<li><a href="/wiki/Amino_radical" title="Amino radical">Amino radical</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></li>
+<li><a href="/wiki/Carbonyl_sulfide" title="Carbonyl sulfide">Carbonyl sulfide</a></li>
+<li><a class="new" href="/w/index.php?title=CCP_radical&amp;action=edit&amp;redlink=1" title="CCP radical (page does not exist)">CCP radical</a></li>
+<li><a href="/wiki/Halonium_ion" title="Halonium ion">Chloronium</a></li>
+<li><a href="/wiki/Diazenylium" title="Diazenylium">Diazenylium</a></li>
+<li><a href="/wiki/Dicarbon_monoxide" title="Dicarbon monoxide">Dicarbon monoxide</a></li>
+<li><a class="new" href="/w/index.php?title=Disilicon_carbide&amp;action=edit&amp;redlink=1" title="Disilicon carbide (page does not exist)">Disilicon carbide</a></li>
+<li><a href="/wiki/Ethynyl_radical" title="Ethynyl radical">Ethynyl radical</a></li>
+<li><a class="new" href="/w/index.php?title=Formyl_radical&amp;action=edit&amp;redlink=1" title="Formyl radical (page does not exist)">Formyl radical</a></li>
+<li><a href="/wiki/Hydrogen_cyanide" title="Hydrogen cyanide">Hydrogen cyanide</a> (HCN)</li>
+<li><a href="/wiki/Hydrogen_isocyanide" title="Hydrogen isocyanide">Hydrogen isocyanide</a> (HNC)</li>
+<li><a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">Hydrogen sulfide</a></li>
+<li><a href="/wiki/Hydroperoxyl" title="Hydroperoxyl">Hydroperoxyl</a></li>
+<li><a class="new" href="/w/index.php?title=Iron_cyanide&amp;action=edit&amp;redlink=1" title="Iron cyanide (page does not exist)">Iron cyanide</a></li>
+<li><a class="new" href="/w/index.php?title=Isoformyl&amp;action=edit&amp;redlink=1" title="Isoformyl (page does not exist)">Isoformyl</a></li>
+<li><a class="new" href="/w/index.php?title=Magnesium_cyanide&amp;action=edit&amp;redlink=1" title="Magnesium cyanide (page does not exist)">Magnesium cyanide</a></li>
+<li><a class="new" href="/w/index.php?title=Magnesium_isocyanide&amp;action=edit&amp;redlink=1" title="Magnesium isocyanide (page does not exist)">Magnesium isocyanide</a></li>
+<li><a href="/wiki/Methylene_(compound)" title="Methylene (compound)">Methylene radical</a></li>
+<li><a href="/wiki/Diazenylium" title="Diazenylium">N<sub>2</sub>H<sup>+</sup></a></li>
+<li><a href="/wiki/Nitrous_oxide" title="Nitrous oxide">Nitrous oxide</a></li>
+<li><a href="/wiki/Nitroxyl" title="Nitroxyl">Nitroxyl</a></li>
+<li><a href="/wiki/Ozone" title="Ozone">Ozone</a></li>
+<li><a href="/wiki/Methylidynephosphane" title="Methylidynephosphane">Phosphaethyne</a></li>
+<li><a href="/wiki/Potassium_cyanide" title="Potassium cyanide">Potassium cyanide</a></li>
+<li><a href="/wiki/Trihydrogen_cation" title="Trihydrogen cation">Protonated molecular hydrogen</a></li>
+<li><a href="/wiki/Sodium_cyanide" title="Sodium cyanide">Sodium cyanide</a></li>
+<li><a href="/wiki/Sodium_hydroxide" title="Sodium hydroxide">Sodium hydroxide</a></li>
+<li><a class="new" href="/w/index.php?title=Silicon_carbonitride&amp;action=edit&amp;redlink=1" title="Silicon carbonitride (page does not exist)">Silicon carbonitride</a></li>
+<li><a class="new" href="/w/index.php?title=C-Silicon_dicarbide&amp;action=edit&amp;redlink=1" title="C-Silicon dicarbide (page does not exist)">c-Silicon dicarbide</a></li>
+<li><a class="new" href="/w/index.php?title=SiNC&amp;action=edit&amp;redlink=1" title="SiNC (page does not exist)">SiNC</a></li>
+<li><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">Sulfur dioxide</a></li>
+<li><a class="new" href="/w/index.php?title=Thioformyl&amp;action=edit&amp;redlink=1" title="Thioformyl (page does not exist)">Thioformyl</a></li>
+<li><a href="/wiki/Thioxoethenylidene" title="Thioxoethenylidene">Thioxoethenylidene</a></li>
+<li><a href="/wiki/Titanium_dioxide" title="Titanium dioxide">Titanium dioxide</a></li>
+<li><a href="/wiki/Tricarbon" title="Tricarbon">Tricarbon</a></li>
+<li><a href="/wiki/Water" title="Water">Water</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Four<br/>atoms</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetylene" title="Acetylene">Acetylene</a></li>
+<li><a href="/wiki/Ammonia" title="Ammonia">Ammonia</a></li>
+<li><a href="/wiki/Isocyanic_acid" title="Isocyanic acid">Cyanic acid</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Cyanoethynyl</a></li>
+<li><a class="new" href="/w/index.php?title=Cyclopropynylidyne&amp;action=edit&amp;redlink=1" title="Cyclopropynylidyne (page does not exist)">Cyclopropynylidyne</a></li>
+<li><a href="/wiki/Formaldehyde" title="Formaldehyde">Formaldehyde</a></li>
+<li><a href="/wiki/Fulminic_acid" title="Fulminic acid">Fulminic acid</a></li>
+<li><a class="new" href="/w/index.php?title=HCCN&amp;action=edit&amp;redlink=1" title="HCCN (page does not exist)">HCCN</a></li>
+<li><a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">Hydrogen peroxide</a></li>
+<li><a class="new" href="/w/index.php?title=Hydromagnesium_isocyanide&amp;action=edit&amp;redlink=1" title="Hydromagnesium isocyanide (page does not exist)">Hydromagnesium isocyanide</a></li>
+<li><a href="/wiki/Isocyanic_acid" title="Isocyanic acid">Isocyanic acid</a></li>
+<li><a href="/wiki/Thiocyanic_acid" title="Thiocyanic acid">Isothiocyanic acid</a></li>
+<li><a class="new" href="/w/index.php?title=Ketenyl&amp;action=edit&amp;redlink=1" title="Ketenyl (page does not exist)">Ketenyl</a></li>
+<li><a class="new" href="/w/index.php?title=Methylene_amidogen&amp;action=edit&amp;redlink=1" title="Methylene amidogen (page does not exist)">Methylene amidogen</a></li>
+<li><a href="/wiki/Methyl_radical" title="Methyl radical">Methyl radical</a></li>
+<li><a href="/wiki/Propynylidyne" title="Propynylidyne">Propynylidyne</a></li>
+<li><a class="mw-redirect" href="/wiki/Protonate" title="Protonate">Protonated</a> <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a></li>
+<li><a class="mw-redirect" href="/wiki/Protonate" title="Protonate">Protonated</a> <a href="/wiki/Hydrogen_cyanide" title="Hydrogen cyanide">hydrogen cyanide</a></li>
+<li><a class="new" href="/w/index.php?title=Silicon_tricarbide&amp;action=edit&amp;redlink=1" title="Silicon tricarbide (page does not exist)">Silicon tricarbide</a></li>
+<li><a href="/wiki/1,3,5-Trithiane" title="1,3,5-Trithiane">Thioformaldehyde</a></li>
+<li><a href="/wiki/Tricarbon_monoxide" title="Tricarbon monoxide">Tricarbon monoxide</a></li>
+<li><a class="mw-redirect" href="/wiki/Tricarbon_sulfide" title="Tricarbon sulfide">Tricarbon sulfide</a></li>
+<li><a href="/wiki/Thiocyanic_acid" title="Thiocyanic acid">Thiocyanic acid</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Five<br/>atoms</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ammonium" title="Ammonium">Ammonium</a> ion</li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Butadiynyl</a></li>
+<li><a href="/wiki/Carbodiimide" title="Carbodiimide">Carbodiimide</a></li>
+<li><a href="/wiki/Cyanamide" title="Cyanamide">Cyanamide</a></li>
+<li><a href="/wiki/Cyanoacetylene" title="Cyanoacetylene">Cyanoacetylene</a></li>
+<li><a class="new" href="/w/index.php?title=Cyanoformaldehyde&amp;action=edit&amp;redlink=1" title="Cyanoformaldehyde (page does not exist)">Cyanoformaldehyde</a></li>
+<li><a href="/wiki/Cyanomethyl" title="Cyanomethyl">Cyanomethyl</a></li>
+<li><a href="/wiki/Cyclopropenylidene" title="Cyclopropenylidene">Cyclopropenylidene</a></li>
+<li><a href="/wiki/Formic_acid" title="Formic acid">Formic acid</a></li>
+<li><a class="new" href="/w/index.php?title=Isocyanoacetylene&amp;action=edit&amp;redlink=1" title="Isocyanoacetylene (page does not exist)">Isocyanoacetylene</a></li>
+<li><a href="/wiki/Ketene" title="Ketene">Ketene</a></li>
+<li><a href="/wiki/Methane" title="Methane">Methane</a></li>
+<li><a class="mw-redirect" href="/wiki/Methoxy" title="Methoxy">Methoxy radical</a></li>
+<li><a class="new" href="/w/index.php?title=Methylenimine&amp;action=edit&amp;redlink=1" title="Methylenimine (page does not exist)">Methylenimine</a></li>
+<li><a class="new" href="/w/index.php?title=Propadienylidene&amp;action=edit&amp;redlink=1" title="Propadienylidene (page does not exist)">Propadienylidene</a></li>
+<li><a class="mw-redirect" href="/wiki/Protonate" title="Protonate">Protonated</a> <a href="/wiki/Formaldehyde" title="Formaldehyde">formaldehyde</a></li>
+<li><a class="new" href="/w/index.php?title=Protonated_formaldehyde&amp;action=edit&amp;redlink=1" title="Protonated formaldehyde (page does not exist)">Protonated formaldehyde</a></li>
+<li><a href="/wiki/Silane" title="Silane">Silane</a></li>
+<li><a href="/wiki/Graphene#Silicon_carbide" title="Graphene">Silicon-carbide cluster</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Six<br/>atoms</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetonitrile" title="Acetonitrile">Acetonitrile</a></li>
+<li><a class="new" href="/w/index.php?title=Cyanobutadiynyl_radical&amp;action=edit&amp;redlink=1" title="Cyanobutadiynyl radical (page does not exist)">Cyanobutadiynyl radical</a></li>
+<li><a class="new" href="/w/index.php?title=E-Cyanomethanimine&amp;action=edit&amp;redlink=1" title="E-Cyanomethanimine (page does not exist)">E-Cyanomethanimine</a></li>
+<li><a href="/wiki/Cyclopropenone" title="Cyclopropenone">Cyclopropenone</a></li>
+<li><a href="/wiki/Diacetylene" title="Diacetylene">Diacetylene</a></li>
+<li><a href="/wiki/Ethylene" title="Ethylene">Ethylene</a></li>
+<li><a href="/wiki/Formamide" title="Formamide">Formamide</a></li>
+<li><a class="new" href="/w/index.php?title=HC4N&amp;action=edit&amp;redlink=1" title="HC4N (page does not exist)">HC<sub>4</sub>N</a></li>
+<li><a href="/wiki/Ketenimine" title="Ketenimine">Ketenimine</a></li>
+<li><a href="/wiki/Methanethiol" title="Methanethiol">Methanethiol</a></li>
+<li><a href="/wiki/Methanol" title="Methanol">Methanol</a></li>
+<li><a href="/wiki/Methyl_isocyanide" title="Methyl isocyanide">Methyl isocyanide</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Pentynylidyne</a></li>
+<li><a href="/wiki/Propynal" title="Propynal">Propynal</a></li>
+<li><a class="mw-redirect" href="/wiki/Protonate" title="Protonate">Protonated</a> <a href="/wiki/Cyanoacetylene" title="Cyanoacetylene">cyanoacetylene</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Seven<br/>atoms</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetaldehyde" title="Acetaldehyde">Acetaldehyde</a></li>
+<li><a href="/wiki/Acrylonitrile" title="Acrylonitrile">Acrylonitrile</a>
+<ul><li><a class="mw-redirect" href="/wiki/Vinyl_cyanide" title="Vinyl cyanide">Vinyl cyanide</a></li></ul></li>
+<li><a href="/wiki/Cyanopolyyne" title="Cyanopolyyne">Cyanodiacetylene</a></li>
+<li><a href="/wiki/Ethylene_oxide" title="Ethylene oxide">Ethylene oxide</a></li>
+<li><a href="/wiki/Hexatriynyl_radical" title="Hexatriynyl radical">Hexatriynyl radical</a></li>
+<li><a href="/wiki/Propyne" title="Propyne">Methylacetylene</a></li>
+<li><a href="/wiki/Methylamine" title="Methylamine">Methylamine</a></li>
+<li><a href="/wiki/Methyl_isocyanate" title="Methyl isocyanate">Methyl isocyanate</a></li>
+<li><a href="/wiki/Vinyl_alcohol" title="Vinyl alcohol">Vinyl alcohol</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Eight<br/>atoms</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetic_acid" title="Acetic acid">Acetic acid</a></li>
+<li><a href="/wiki/Aminoacetonitrile" title="Aminoacetonitrile">Aminoacetonitrile</a></li>
+<li><a class="new" href="/w/index.php?title=Cyanoallene&amp;action=edit&amp;redlink=1" title="Cyanoallene (page does not exist)">Cyanoallene</a></li>
+<li><a href="/wiki/Ethanimine" title="Ethanimine">Ethanimine</a></li>
+<li><a href="/wiki/Glycolaldehyde" title="Glycolaldehyde">Glycolaldehyde</a></li>
+<li><a class="new" href="/w/index.php?title=Heptatrienyl_radical&amp;action=edit&amp;redlink=1" title="Heptatrienyl radical (page does not exist)">Heptatrienyl radical</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Hexapentaenylidene</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Methylcyanoacetylene</a></li>
+<li><a href="/wiki/Methyl_formate" title="Methyl formate">Methyl formate</a></li>
+<li><a href="/wiki/Acrolein" title="Acrolein">Propenal</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Nine<br/>atoms</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetamide" title="Acetamide">Acetamide</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Cyanohexatriyne</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Cyanotriacetylene</a></li>
+<li><a href="/wiki/Dimethyl_ether" title="Dimethyl ether">Dimethyl ether</a></li>
+<li><a href="/wiki/Ethanol" title="Ethanol">Ethanol</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Methyldiacetylene</a></li>
+<li><a href="/wiki/Octatetraynyl_radical" title="Octatetraynyl radical">Octatetraynyl radical</a></li>
+<li><a href="/wiki/Propene" title="Propene">Propene</a></li>
+<li><a href="/wiki/Propionitrile" title="Propionitrile">Propionitrile</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Ten<br/>atoms<br/>or more</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acetone" title="Acetone">Acetone</a></li>
+<li><a href="/wiki/Benzene" title="Benzene">Benzene</a></li>
+<li><a href="/wiki/Benzonitrile" title="Benzonitrile">Benzonitrile</a></li>
+<li><a href="/wiki/Buckminsterfullerene" title="Buckminsterfullerene">Buckminsterfullerene</a> (C<sub>60</sub> fullerene, buckyball)</li>
+<li><a href="/wiki/C70_fullerene" title="C70 fullerene">C<sub>70</sub> fullerene</a></li>
+<li><a href="/wiki/Cyanopolyyne" title="Cyanopolyyne">Cyanodecapentayne</a></li>
+<li><a href="/wiki/Cyanopolyyne" title="Cyanopolyyne">Cyanopentaacetylene</a></li>
+<li><a href="/wiki/Cyanopolyyne" title="Cyanopolyyne">Cyanotetra-acetylene</a></li>
+<li><a href="/wiki/Ethylene_glycol" title="Ethylene glycol">Ethylene glycol</a></li>
+<li><a href="/wiki/Ethyl_formate" title="Ethyl formate">Ethyl formate</a></li>
+<li><a href="/wiki/Methyl_acetate" title="Methyl acetate">Methyl acetate</a></li>
+<li><a href="/wiki/Cyanopolyyne" title="Cyanopolyyne">Methyl-cyano-diacetylene</a></li>
+<li><a href="/wiki/Polyyne" title="Polyyne">Methyltriacetylene</a></li>
+<li><a href="/wiki/Propionaldehyde" title="Propionaldehyde">Propanal</a></li>
+<li><a href="/wiki/Butyronitrile" title="Butyronitrile">n-Propyl cyanide</a></li>
+<li><a href="/wiki/Pyrimidine" title="Pyrimidine">Pyrimidine</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Deuterium" title="Deuterium">Deuterated</a><br/>molecules</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ammonia" title="Ammonia">Ammonia</a></li>
+<li><a href="/wiki/Ammonium" title="Ammonium">Ammonium</a> ion</li>
+<li><a href="/wiki/Formaldehyde" title="Formaldehyde">Formaldehyde</a></li>
+<li><a href="/wiki/Interstellar_formaldehyde#Interstellar_reactions" title="Interstellar formaldehyde">Formyl radical</a></li>
+<li><a href="/wiki/Heavy_water" title="Heavy water">Heavy water</a></li>
+<li><a href="/wiki/Hydrogen_cyanide" title="Hydrogen cyanide">Hydrogen cyanide</a></li>
+<li><a href="/wiki/Hydrogen_deuteride" title="Hydrogen deuteride">Hydrogen deuteride</a></li>
+<li><a href="/wiki/Hydrogen_isocyanide" title="Hydrogen isocyanide">Hydrogen isocyanide</a></li>
+<li><a href="/wiki/Propyne" title="Propyne">Methylacetylene</a></li>
+<li><a class="new" href="/w/index.php?title=N2D%2B&amp;action=edit&amp;redlink=1" title="N2D+ (page does not exist)">N<sub>2</sub>D<sup>+</sup></a></li>
+<li><a href="/wiki/Trihydrogen_cation" title="Trihydrogen cation">Trihydrogen cation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#Molecules" title="List of interstellar and circumstellar molecules">Unconfirmed</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthracene" title="Anthracene">Anthracene</a></li>
+<li><a href="/wiki/Dihydroxyacetone" title="Dihydroxyacetone">Dihydroxyacetone</a></li>
+<li><a href="/wiki/Methoxyethane" title="Methoxyethane">Ethyl methyl ether</a></li>
+<li><a href="/wiki/Glycine" title="Glycine">Glycine</a></li>
+<li><a href="/wiki/Graphene" title="Graphene">Graphene</a></li>
+<li><a class="new" href="/w/index.php?title=H2NCO%2B&amp;action=edit&amp;redlink=1" title="H2NCO+ (page does not exist)">H<sub>2</sub>NCO<sup>+</sup></a></li>
+<li><a href="/wiki/Carbon" title="Carbon">Linear C<sub>5</sub></a></li>
+<li><a href="/wiki/Naphthalene" title="Naphthalene">Naphthalene cation</a></li>
+<li><a href="/wiki/Phosphine" title="Phosphine">Phosphine</a></li>
+<li><a href="/wiki/Pyrene" title="Pyrene">Pyrene</a></li>
+<li><a class="mw-redirect" href="/wiki/Silylidine" title="Silylidine">Silylidine</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/List_of_interstellar_and_circumstellar_molecules#See_also" title="List of interstellar and circumstellar molecules">Related</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abiogenesis" title="Abiogenesis">Abiogenesis</a></li>
+<li><a href="/wiki/Astrobiology" title="Astrobiology">Astrobiology</a></li>
+<li><a href="/wiki/Astrochemistry" title="Astrochemistry">Astrochemistry</a></li>
+<li><a href="/wiki/Atomic_and_molecular_astrophysics" title="Atomic and molecular astrophysics">Atomic and molecular astrophysics</a></li>
+<li><a class="mw-selflink selflink">Chemical formula</a></li>
+<li><a href="/wiki/Circumstellar_envelope" title="Circumstellar envelope">Circumstellar envelope</a></li>
+<li><a href="/wiki/Cosmic_dust" title="Cosmic dust">Cosmic dust</a></li>
+<li><a href="/wiki/Cosmic_ray" title="Cosmic ray">Cosmic ray</a></li>
+<li><a href="/wiki/Cosmochemistry" title="Cosmochemistry">Cosmochemistry</a></li>
+<li><a class="mw-redirect" href="/wiki/Diffuse_interstellar_band" title="Diffuse interstellar band">Diffuse interstellar band</a></li>
+<li><a href="/wiki/Earliest_known_life_forms" title="Earliest known life forms">Earliest known life forms</a></li>
+<li><a href="/wiki/Extraterrestrial_life" title="Extraterrestrial life">Extraterrestrial life</a></li>
+<li><a href="/wiki/Extraterrestrial_liquid_water" title="Extraterrestrial liquid water">Extraterrestrial liquid water</a></li>
+<li><a href="/wiki/Forbidden_mechanism" title="Forbidden mechanism">Forbidden mechanism</a></li>
+<li><a href="/wiki/Helium_hydride_ion" title="Helium hydride ion">Helium hydride ion</a></li>
+<li><a href="/wiki/Homochirality" title="Homochirality">Homochirality</a></li>
+<li><a href="/wiki/Intergalactic_dust" title="Intergalactic dust">Intergalactic dust</a></li>
+<li><a href="/wiki/Interplanetary_medium" title="Interplanetary medium">Interplanetary medium</a></li>
+<li><a href="/wiki/Interstellar_medium" title="Interstellar medium">Interstellar medium</a></li>
+<li><a href="/wiki/Photodissociation_region" title="Photodissociation region">Photodissociation region</a></li>
+<li><a class="mw-redirect" href="/wiki/Iron%E2%80%93sulfur_world_theory" title="Iron–sulfur world theory">Iron–sulfur world theory</a></li>
+<li><a href="/wiki/Kerogen" title="Kerogen">Kerogen</a></li>
+<li><a href="/wiki/Molecules_in_stars" title="Molecules in stars">Molecules in stars</a></li>
+<li><a href="/wiki/Nexus_for_Exoplanet_System_Science" title="Nexus for Exoplanet System Science">Nexus for Exoplanet System Science</a></li>
+<li><a href="/wiki/Organic_compound" title="Organic compound">Organic compound</a></li>
+<li><a href="/wiki/Outer_space" title="Outer space">Outer space</a></li>
+<li><a href="/wiki/PAH_world_hypothesis" title="PAH world hypothesis">PAH world hypothesis</a></li>
+<li><a href="/wiki/Panspermia" title="Panspermia">Panspermia</a></li>
+<li><a href="/wiki/Polycyclic_aromatic_hydrocarbon" title="Polycyclic aromatic hydrocarbon">Polycyclic aromatic hydrocarbon</a> (PAH)</li>
+<li><a class="mw-redirect" href="/wiki/RNA_world_hypothesis" title="RNA world hypothesis">RNA world hypothesis</a></li>
+<li><a href="/wiki/Spectroscopy" title="Spectroscopy">Spectroscopy</a></li>
+<li><a href="/wiki/Tholin" title="Tholin">Tholin</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="font-weight: bold;"><div>
+<ul><li><b><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Astrochemistry" title="Category:Astrochemistry">Category:Astrochemistry</a></b></li>
+<li><b><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Astrobiology" title="Portal:Astrobiology">Portal:Astrobiology</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q83147&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q83147&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q83147" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00564435" rel="nofollow">00564435</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1266
+Cached time: 20181013215929
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.528 seconds
+Real time usage: 0.675 seconds
+Preprocessor visited node count: 4617/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 191869/2097152 bytes
+Template argument size: 12176/2097152 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 10977/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.230/10.000 seconds
+Lua memory usage: 4.54 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  507.635      1 -total
+ 21.34%  108.327      1 Template:Reflist
+ 17.68%   89.743     13 Template:Chem
+ 16.54%   83.983     13 Template:Chem/link
+ 14.11%   71.646     59 Template:Chem/atom
+ 12.82%   65.088      1 Template:Cite_web
+ 11.69%   59.333      2 Template:Cn
+ 11.44%   58.062      3 Template:Fix
+  9.94%   50.470     30 Template:Su
+  8.74%   44.352      1 Template:Pp-vandalism
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7043-0!canonical!math=5 and timestamp 20181013215929 and revision id 860593383
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Chemical_formula&amp;oldid=860593383">https://en.wikipedia.org/w/index.php?title=Chemical_formula&amp;oldid=860593383</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chemical_formulas" title="Category:Chemical formulas">Chemical formulas</a></li><li><a href="/wiki/Category:Chemical_nomenclature" title="Category:Chemical nomenclature">Chemical nomenclature</a></li><li><a href="/wiki/Category:Notation" title="Category:Notation">Notation</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_pages_semi-protected_against_vandalism" title="Category:Wikipedia pages semi-protected against vandalism">Wikipedia pages semi-protected against vandalism</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2018" title="Category:Articles with unsourced statements from July 2018">Articles with unsourced statements from July 2018</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_November_2012" title="Category:Wikipedia articles needing clarification from November 2012">Wikipedia articles needing clarification from November 2012</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Chemical+formula" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Chemical+formula" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Chemical_formula" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Chemical_formula" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Chemical_formula">Read</a></span></li><li class="collapsible" id="ca-viewsource"><span><a accesskey="e" href="/w/index.php?title=Chemical_formula&amp;action=edit" title="This page is protected.
+You can view its source [e]">View source</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Chemical_formula&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Chemical_formula" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Chemical_formula" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Chemical_formula&amp;oldid=860593383" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Chemical_formula&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q83147" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Chemical_formula&amp;id=860593383" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Chemical+formula">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Chemical+formula&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Chemical_formula&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Chemical_structures" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Chemiese_formule" hreflang="af" lang="af" title="Chemiese formule – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B5%D9%8A%D8%BA%D8%A9_%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A6%D9%8A%D8%A9" hreflang="ar" lang="ar" title="صيغة كيميائية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/F%C3%B3rmula_qu%C3%ADmica" hreflang="ast" lang="ast" title="Fórmula química – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Kimy%C9%99vi_formul" hreflang="az" lang="az" title="Kimyəvi formul – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%A8%E0%A6%BF%E0%A6%95_%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%87%E0%A6%A4" hreflang="bn" lang="bn" title="রাসায়নিক সংকেত – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/H%C3%B2a-ha%CC%8Dk-sek" hreflang="zh-min-nan" lang="zh-min-nan" title="Hòa-ha̍k-sek – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A5%D1%96%D0%BC%D1%96%D1%87%D0%BD%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0" hreflang="be" lang="be" title="Хімічная формула – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BC%D0%B8%D1%87%D0%BD%D0%B0_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0" hreflang="bg" lang="bg" title="Химична формула – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Hemijska_formula" hreflang="bs" lang="bs" title="Hemijska formula – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Formulenn_gimiek" hreflang="br" lang="br" title="Formulenn gimiek – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/F%C3%B3rmula_qu%C3%ADmica" hreflang="ca" lang="ca" title="Fórmula química – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Chemick%C3%BD_vzorec" hreflang="cs" lang="cs" title="Chemický vzorec – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Sumformel" hreflang="da" lang="da" title="Sumformel – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Chemische_Formel" hreflang="de" lang="de" title="Chemische Formel – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Keemiline_valem" hreflang="et" lang="et" title="Keemiline valem – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A7%CE%B7%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CF%84%CF%8D%CF%80%CE%BF%CF%82" hreflang="el" lang="el" title="Χημικός τύπος – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/F%C3%B3rmula_qu%C3%ADmica" hreflang="es" lang="es" title="Fórmula química – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Kemia_formulo" hreflang="eo" lang="eo" title="Kemia formulo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Formula_kimiko" hreflang="eu" lang="eu" title="Formula kimiko – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%85%D9%88%D9%84_%D8%B4%DB%8C%D9%85%DB%8C%D8%A7%DB%8C%DB%8C" hreflang="fa" lang="fa" title="فرمول شیمیایی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Repr%C3%A9sentation_des_mol%C3%A9cules" hreflang="fr" lang="fr" title="Représentation des molécules – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Foirmle_cheimiceach" hreflang="ga" lang="ga" title="Foirmle cheimiceach – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/F%C3%B3rmula_qu%C3%ADmica" hreflang="gl" lang="gl" title="Fórmula química – Galician">Galego</a></li><li class="interlanguage-link interwiki-gan"><a class="interlanguage-link-target" href="https://gan.wikipedia.org/wiki/%E5%8C%96%E5%AD%B8%E5%BC%8F" hreflang="gan" lang="gan" title="化學式 – Gan Chinese">贛語</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%99%94%ED%95%99%EC%8B%9D" hreflang="ko" lang="ko" title="화학식 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%94%D5%AB%D5%B4%D5%AB%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A2%D5%A1%D5%B6%D5%A1%D5%B1%D6%87" hreflang="hy" lang="hy" title="Քիմիական բանաձև – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0" hreflang="hi" lang="hi" title="रासायनिक सूत्र – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Kemijska_formula" hreflang="hr" lang="hr" title="Kemijska formula – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Kemiala_formulo" hreflang="io" lang="io" title="Kemiala formulo – Ido">Ido</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Rumus_kimia" hreflang="id" lang="id" title="Rumus kimia – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Formula_chimic" hreflang="ia" lang="ia" title="Formula chimic – Interlingua">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Efnaform%C3%BAla" hreflang="is" lang="is" title="Efnaformúla – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Formula_chimica" hreflang="it" lang="it" title="Formula chimica – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9B%D7%AA%D7%99%D7%91_%D7%9B%D7%99%D7%9E%D7%99" hreflang="he" lang="he" title="כתיב כימי – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Rumus_kimia" hreflang="jv" lang="jv" title="Rumus kimia – Javanese">Basa Jawa</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%A5%E1%83%98%E1%83%9B%E1%83%98%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%A4%E1%83%9D%E1%83%A0%E1%83%9B%E1%83%A3%E1%83%9A%E1%83%90" hreflang="ka" lang="ka" title="ქიმიური ფორმულა – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%91%D1%80%D1%83%D1%82%D1%82%D0%BE-%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0" hreflang="kk" lang="kk" title="Брутто-формула – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/F%C3%B2mil_chimik" hreflang="ht" lang="ht" title="Fòmil chimik – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BC%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0%D0%BB%D0%B0%D1%80" hreflang="ky" lang="ky" title="Химиялык формулалар – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/%C4%B6%C4%ABmisk%C4%81_formula" hreflang="lv" lang="lv" title="Ķīmiskā formula – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Chemin%C4%97_formul%C4%97" hreflang="lt" lang="lt" title="Cheminė formulė – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-lmo"><a class="interlanguage-link-target" href="https://lmo.wikipedia.org/wiki/Furmula_chimica" hreflang="lmo" lang="lmo" title="Furmula chimica – Lombard">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/K%C3%A9miai_k%C3%A9plet" hreflang="hu" lang="hu" title="Kémiai képlet – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BC%D0%B8%D1%81%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0" hreflang="mk" lang="mk" title="Хемиска формула – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B0%E0%B4%BE%E0%B4%B8%E0%B4%B8%E0%B5%82%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82" hreflang="ml" lang="ml" title="രാസസൂത്രം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0" hreflang="mr" lang="mr" title="रासायनिक सूत्र – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Formula_kimia" hreflang="ms" lang="ms" title="Formula kimia – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Molecuulformule" hreflang="nl" lang="nl" title="Molecuulformule – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%B0%E0%A4%BE%E0%A4%B8%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0" hreflang="ne" lang="ne" title="रासायनिक सूत्र – Nepali">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%8C%96%E5%AD%A6%E5%BC%8F" hreflang="ja" lang="ja" title="化学式 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Kjemisk_formel" hreflang="no" lang="no" title="Kjemisk formel – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Kjemisk_formel" hreflang="nn" lang="nn" title="Kjemisk formel – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Formula_quimica" hreflang="oc" lang="oc" title="Formula quimica – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-pa"><a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%B0%E0%A8%B8%E0%A8%BE%E0%A8%87%E0%A8%A3%E0%A8%95_%E0%A8%AB%E0%A8%BC%E0%A8%BE%E0%A8%B0%E0%A8%AE%E0%A9%82%E0%A8%B2%E0%A8%BE" hreflang="pa" lang="pa" title="ਰਸਾਇਣਕ ਫ਼ਾਰਮੂਲਾ – Punjabi">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-nds"><a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Summenformel" hreflang="nds" lang="nds" title="Summenformel – Low German">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Symbolika_chemiczna" hreflang="pl" lang="pl" title="Symbolika chemiczna – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/F%C3%B3rmula_qu%C3%ADmica" hreflang="pt" lang="pt" title="Fórmula química – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Formul%C4%83_chimic%C4%83" hreflang="ro" lang="ro" title="Formulă chimică – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0" hreflang="ru" lang="ru" title="Химическая формула – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Chemical_formula" hreflang="sco" lang="sco" title="Chemical formula – Scots">Scots</a></li><li class="interlanguage-link interwiki-stq"><a class="interlanguage-link-target" href="https://stq.wikipedia.org/wiki/Chemiske_Formel" hreflang="stq" lang="stq" title="Chemiske Formel – Saterland Frisian">Seeltersk</a></li><li class="interlanguage-link interwiki-si"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%BB%E0%B7%83%E0%B7%8F%E0%B6%BA%E0%B6%B1%E0%B7%92%E0%B6%9A_%E0%B7%83%E0%B7%96%E0%B6%AD%E0%B7%8A%E2%80%8D%E0%B6%BB" hreflang="si" lang="si" title="රසායනික සූත්‍ර – Sinhala">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Chemical_formula" hreflang="simple" lang="simple" title="Chemical formula – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Chemick%C3%BD_vzorec" hreflang="sk" lang="sk" title="Chemický vzorec – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Kemijska_formula" hreflang="sl" lang="sl" title="Kemijska formula – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BC%D0%B8%D1%98%D1%81%D0%BA%D0%B0_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0" hreflang="sr" lang="sr" title="Хемијска формула – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Kemijska_formula" hreflang="sh" lang="sh" title="Kemijska formula – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kemiallinen_kaava" hreflang="fi" lang="fi" title="Kemiallinen kaava – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Kemisk_formel" hreflang="sv" lang="sv" title="Kemisk formel – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Pormulang_kemikal" hreflang="tl" lang="tl" title="Pormulang kemikal – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%82%E0%AE%B2%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%82%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81_%E0%AE%B5%E0%AE%BE%E0%AE%AF%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%81" hreflang="ta" lang="ta" title="மூலக்கூற்று வாய்பாடு – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B0%B8%E0%B0%BE%E0%B0%AF%E0%B0%A8_%E0%B0%B8%E0%B1%82%E0%B0%A4%E0%B1%8D%E0%B0%B0%E0%B0%82" hreflang="te" lang="te" title="రసాయన సూత్రం – Telugu">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%84%E0%B8%A1%E0%B8%B5" hreflang="th" lang="th" title="สูตรเคมี – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Kimyasal_form%C3%BCl" hreflang="tr" lang="tr" title="Kimyasal formül – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A5%D1%96%D0%BC%D1%96%D1%87%D0%BD%D0%B0_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0" hreflang="uk" lang="uk" title="Хімічна формула – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%DA%A9%DB%8C%D9%85%DB%8C%D8%A7%D8%A6%DB%8C_%D8%B5%DB%8C%D8%BA%DB%81" hreflang="ur" lang="ur" title="کیمیائی صیغہ – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/C%C3%B4ng_th%E1%BB%A9c_h%C3%B3a_h%E1%BB%8Dc" hreflang="vi" lang="vi" title="Công thức hóa học – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a class="interlanguage-link-target" href="https://zh-classical.wikipedia.org/wiki/%E5%8C%96%E5%AD%B8%E5%BC%8F" hreflang="zh-classical" lang="zh-classical" title="化學式 – Classical Chinese">文言</a></li><li class="interlanguage-link interwiki-wuu"><a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E5%8C%96%E5%AD%A6%E5%BC%8F" hreflang="wuu" lang="wuu" title="化学式 – Wu Chinese">吴语</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E5%8C%96%E5%AD%B8%E5%BC%8F" hreflang="zh-yue" lang="zh-yue" title="化學式 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%8C%96%E5%AD%A6%E5%BC%8F" hreflang="zh" lang="zh" title="化学式 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q83147#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 21 September 2018, at 18:54<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Chemical_formula&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.528","walltime":"0.675","ppvisitednodes":{"value":4617,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":191869,"limit":2097152},"templateargumentsize":{"value":12176,"limit":2097152},"expansiondepth":{"value":22,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":10977,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  507.635      1 -total"," 21.34%  108.327      1 Template:Reflist"," 17.68%   89.743     13 Template:Chem"," 16.54%   83.983     13 Template:Chem/link"," 14.11%   71.646     59 Template:Chem/atom"," 12.82%   65.088      1 Template:Cite_web"," 11.69%   59.333      2 Template:Cn"," 11.44%   58.062      3 Template:Fix","  9.94%   50.470     30 Template:Su","  8.74%   44.352      1 Template:Pp-vandalism"]},"scribunto":{"limitreport-timeusage":{"value":"0.230","limit":"10.000"},"limitreport-memusage":{"value":4756645,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20181013215929","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":772,"wgHostname":"mw1266"});});</script>
+</body>
+</html>

@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Acid strength - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Acid_strength","wgTitle":"Acid strength","wgCurRevisionId":863638036,"wgRevisionId":863638036,"wgArticleId":34251640,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Acids"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Acid_strength","wgRelevantArticleId":34251640,"wgRequestId":"W7-6dQpAIC0AAHqn7swAAACX","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1634792","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Acid_strength" rel="alternate"/>
+<link href="/w/index.php?title=Acid_strength&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Acid_strength&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Acid_strength" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Acid_strength rootpage-Acid_strength skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Acid strength</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;background:#d3d3d3;">Acids and Bases</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.2em 0 0.75em;">
+<ul><li><a href="/wiki/Acid" title="Acid">Acid</a></li>
+<li><a href="/wiki/Acid%E2%80%93base_reaction" title="Acid–base reaction">Acid–base reaction</a></li>
+<li><a class="mw-selflink selflink">Acid strength</a></li>
+<li><a href="/wiki/Acidity_function" title="Acidity function">Acidity function</a></li>
+<li><a href="/wiki/Amphoterism" title="Amphoterism">Amphoterism</a></li>
+<li><a href="/wiki/Base_(chemistry)" title="Base (chemistry)">Base</a></li>
+<li><a href="/wiki/Buffer_solution" title="Buffer solution">Buffer solutions</a></li>
+<li><a href="/wiki/Dissociation_constant" title="Dissociation constant">Dissociation constant</a></li>
+<li><a href="/wiki/Equilibrium_chemistry" title="Equilibrium chemistry">Equilibrium chemistry</a></li>
+<li><a href="/wiki/Acid-base_extraction" title="Acid-base extraction">Extraction</a></li>
+<li><a href="/wiki/Hammett_acidity_function" title="Hammett acidity function">Hammett acidity function</a></li>
+<li><a href="/wiki/PH" title="PH">pH</a></li>
+<li><a href="/wiki/Proton_affinity" title="Proton affinity">Proton affinity</a></li>
+<li><a href="/wiki/Self-ionization_of_water" title="Self-ionization of water">Self-ionization of water</a></li>
+<li><a href="/wiki/Acid%E2%80%93base_titration" title="Acid–base titration">Titration</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#e5e5e5;">
+<a href="/wiki/Acid" title="Acid">Acid</a> types</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.2em 0 0.75em;">
+<ul><li><a href="/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theory" title="Brønsted–Lowry acid–base theory">Brønsted</a></li>
+<li><a href="/wiki/Lewis_acids_and_bases" title="Lewis acids and bases">Lewis</a></li>
+<li><a href="/wiki/Mineral_acid" title="Mineral acid">Mineral</a></li>
+<li><a href="/wiki/Organic_acid" title="Organic acid">Organic</a></li>
+<li><a class="mw-redirect" href="/wiki/Strong_acid" title="Strong acid">Strong</a></li>
+<li><a href="/wiki/Superacid" title="Superacid">Superacids</a></li>
+<li><a class="mw-redirect" href="/wiki/Weak_acid" title="Weak acid">Weak</a></li>
+<li><a href="/wiki/Solid_acid" title="Solid acid">Solid</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#e5e5e5;">
+<a href="/wiki/Base_(chemistry)" title="Base (chemistry)">Base</a> types</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.2em 0 0.75em;">
+<ul><li><a href="/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theory" title="Brønsted–Lowry acid–base theory">Brønsted</a></li>
+<li><a href="/wiki/Lewis_acids_and_bases" title="Lewis acids and bases">Lewis</a></li>
+<li><a href="/wiki/Organic_base" title="Organic base">Organic</a></li>
+<li><a href="/wiki/Base_(chemistry)#Strong_bases" title="Base (chemistry)">Strong</a></li>
+<li><a href="/wiki/Superbase" title="Superbase">Superbases</a></li>
+<li><a href="/wiki/Non-nucleophilic_base" title="Non-nucleophilic base">Non-nucleophilic</a></li>
+<li><a href="/wiki/Weak_base" title="Weak base">Weak</a></li></ul></td>
+</tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Acids_and_bases" title="Template:Acids and bases"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Acids_and_bases" title="Template talk:Acids and bases"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Acids_and_bases&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Acid strength</b> refers to the tendency of an <a href="/wiki/Acid" title="Acid">acid</a>, symbolised by the <a href="/wiki/Chemical_formula" title="Chemical formula">chemical formula</a> HA, to dissociate into a <a href="/wiki/Hydron_(chemistry)" title="Hydron (chemistry)">proton</a>, H<sup>+</sup>, and an <a class="mw-redirect" href="/wiki/Anion" title="Anion">anion</a>, A<sup>−</sup>. The <a href="/wiki/Dissociation_(chemistry)" title="Dissociation (chemistry)">dissociation</a> of a strong acid in solution is effectively complete except the most concentrated solutions.
+</p>
+<dl><dd>HA → H<sup>+</sup> + A<sup>−</sup></dd></dl>
+<p>Examples of <a class="mw-redirect" href="/wiki/Strong_acid" title="Strong acid">strong acids</a> are <a href="/wiki/Hydrochloric_acid" title="Hydrochloric acid">hydrochloric acid</a> (HCl), <a href="/wiki/Perchloric_acid" title="Perchloric acid">perchloric acid</a> (HClO<sub>4</sub>), <a href="/wiki/Nitric_acid" title="Nitric acid">nitric acid</a> (HNO<sub>3</sub>) and <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">sulfuric acid</a> (H<sub>2</sub>SO<sub>4</sub>).
+</p><p>A weak acid is only partially dissociated, with both the undissociated acid and its dissociation products being present, in solution, in equilibrium with each other. 
+</p>
+<dl><dd>HA ⇌ H<sup>+</sup> + A<sup>−</sup>.</dd></dl>
+<p><a href="/wiki/Acetic_acid" title="Acetic acid">Acetic acid</a> (CH<sub>3</sub>COOH) is an example of a weak acid. The strength of a weak acid is quantified by its <a href="/wiki/Acid_dissociation_constant" title="Acid dissociation constant">acid dissociation constant</a>, pK<sub>a</sub> value.
+</p><p>The strength of a weak <a href="/wiki/Organic_chemistry" title="Organic chemistry">organic</a> acid may depend on substituent effects. The strength of an <a href="/wiki/Inorganic_chemistry" title="Inorganic chemistry">inorganic</a> acid is dependent on the <a href="/wiki/Oxidation_state" title="Oxidation state">oxidation state</a> for the atom to which the proton may be attached. Acid strength is solvent-dependent. For example, <a href="/wiki/Hydrogen_chloride" title="Hydrogen chloride">hydrogen chloride</a> is a strong acid in aqueous solution, but is a weak acid when dissolved in <a class="mw-redirect" href="/wiki/Glacial_acetic_acid" title="Glacial acetic acid">glacial acetic acid</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Measures_of_acid_strength"><span class="tocnumber">1</span> <span class="toctext">Measures of acid strength</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Strong_acids"><span class="tocnumber">2</span> <span class="toctext">Strong acids</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Weak_acids"><span class="tocnumber">3</span> <span class="toctext">Weak acids</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Experimental_determination"><span class="tocnumber">3.1</span> <span class="toctext">Experimental determination</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Conjugate_acid/base_pair"><span class="tocnumber">3.2</span> <span class="toctext">Conjugate acid/base pair</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Acids_in_non-aqueous_solvents"><span class="tocnumber">4</span> <span class="toctext">Acids in non-aqueous solvents</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Factors_determining_acid_strength"><span class="tocnumber">5</span> <span class="toctext">Factors determining acid strength</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#The_inductive_effect"><span class="tocnumber">5.1</span> <span class="toctext">The inductive effect</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Effect_of_oxidation_state"><span class="tocnumber">5.2</span> <span class="toctext">Effect of oxidation state</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Measures_of_acid_strength">Measures of acid strength</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acid_strength&amp;action=edit&amp;section=1" title="Edit section: Measures of acid strength">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The usual measure of the strength of an acid is its <a href="/wiki/Acid_dissociation_constant" title="Acid dissociation constant">acid dissociation constant</a> (<i>K</i><sub>a</sub>), which can be <a href="/wiki/Acid_dissociation_constant#Experimental_determination" title="Acid dissociation constant">determined experimentally</a> by <a href="/wiki/Titration" title="Titration">titration</a> methods. Stronger acids have a larger <i>K</i><sub>a</sub> and a smaller logarithmic constant (p<i>K</i><sub>a</sub><span class="nowrap"> </span>=<span class="nowrap"> </span>−log<span class="nowrap"> </span><i>K</i><sub>a</sub>) than weaker acids. The stronger an acid is, the more easily it loses a proton, H<sup>+</sup>. Two key factors that contribute to the ease of <a href="/wiki/Deprotonation" title="Deprotonation">deprotonation</a> are the <a href="/wiki/Chemical_polarity" title="Chemical polarity">polarity</a> of the H—A bond and the size of atom A, which determine the strength of the H—A bond. Acid strengths also depend on the stability of the conjugate base.
+</p><p>While the p<i>K</i><sub>a</sub> value measures the tendency of an acidic solute to transfer a proton to a standard solvent (most commonly water or <a class="mw-redirect" href="/wiki/DMSO" title="DMSO">DMSO</a>), the tendency of an acidic solvent to transfer a proton to a reference solute (most commonly a weak <a href="/wiki/Aniline" title="Aniline">aniline</a> base) is measured by its <a href="/wiki/Hammett_acidity_function" title="Hammett acidity function">Hammett acidity function</a>, the <i>H</i><sub>0</sub> value.  Although these two concepts of acid strength often amount to the same general tendency of a substance to donate a proton, the p<i>K</i><sub>a</sub> and <i>H</i><sub>0</sub> values are measures of distinct properties and may occasionally diverge.  For instance, hydrogen fluoride, whether dissolved in water (p<i>K</i><sub>a</sub> = 3.2) or DMSO (p<i>K</i><sub>a</sub> = 15), has p<i>K</i><sub>a</sub> values indicating that it undergoes incomplete dissociation in these solvents, making it a weak acid.  However, as the rigorously dried, neat acidic medium, hydrogen fluoride has an <i>H</i><sub>0</sub> value of –15,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> making it a more strongly protonating medium than 100% sulfuric acid and thus, by definition, a <a href="/wiki/Superacid" title="Superacid">superacid</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>  (To prevent ambiguity, in the rest of this article, "strong acid" will, unless otherwise stated, refer to an acid that is strong as measured by its p<i>K</i><sub>a</sub> value (p<i>K</i><sub>a</sub> &lt; –1.74).  This usage is consistent with the common parlance of most practicing chemists.)
+</p><p>When the acidic medium in question is a dilute aqueous solution, the <i>H</i><sub>0</sub> is approximately equal to the <a href="/wiki/PH" title="PH">pH</a> value, which is a negative logarithm of the concentration of aqueous H<sup>+</sup> in solution. The pH of a simple solution of an acid in water is determined by both <i>K</i><sub>a</sub> and the acid concentration. For weak acid solutions, it depends on the <a href="/wiki/Dissociation_(chemistry)" title="Dissociation (chemistry)">degree of dissociation</a>, which may be determined by an equilibrium calculation. For concentrated solutions of acids, especially strong acids for which pH &lt; 0, the <i>H</i><sub>0</sub> value is a better measure of acidity than the pH.
+</p>
+<h2><span class="mw-headline" id="Strong_acids">Strong acids</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acid_strength&amp;action=edit&amp;section=2" title="Edit section: Strong acids">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Strong_acid.png"><img alt="" class="thumbimage" data-file-height="600" data-file-width="1102" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Strong_acid.png/220px-Strong_acid.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Strong_acid.png/330px-Strong_acid.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Strong_acid.png/440px-Strong_acid.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Strong_acid.png" title="Enlarge"></a></div>Image of a strong acid mostly dissociating. The small red circles represent H<sup>+</sup> ions.</div></div></div>
+<p>A <i>strong acid</i> is an acid that dissociates according to the reaction 
+</p>
+<dl><dd>HA + S ⇌ SH<sup>+</sup> + A<sup>−</sup></dd></dl>
+<p>where S represents a solvent molecule, such as a molecule of water or <a class="mw-redirect" href="/wiki/DMSO" title="DMSO">DMSO</a>, to such an extent that the concentration of the undissociated species HA is too low to be measured. For practical purposes a strong acid can be said to be completely dissociated. An example of a strong acid is <a href="/wiki/Hydrochloric_acid" title="Hydrochloric acid">hydrochloric acid</a>
+</p>
+<dl><dd>HCl → H<sup>+</sup> + Cl<sup>−</sup> (in aqueous solution)</dd></dl>
+<p>Any acid with a pK<sub>a</sub> value which is less than about -2 is classed as a strong acid. This results from the very high <a class="mw-redirect" href="/wiki/Buffer_capacity" title="Buffer capacity">buffer capacity</a> of solutions with a <a href="/wiki/PH" title="PH">pH value</a> of 1 or less and is known as the <a href="/wiki/Leveling_effect" title="Leveling effect">leveling effect</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p><p>The following are strong acids in aqueous  and dimethyl sulfoxide solution. The values of pK<sub>a</sub>, cannot be measured experimentally. The values in the following table are average values from as many as 8 different theoretical calculations.
+</p>
+<dl><dd><table class="wikitable">
+<caption>Estimated <a href="/wiki/Acid_dissociation_constant" title="Acid dissociation constant">pK<sub>a</sub></a> values<sup class="reference" id="cite_ref-Leito_4-0"><a href="#cite_note-Leito-4">[4]</a></sup>
+</caption>
+<tbody><tr>
+<th>Acid</th>
+<th>Formula</th>
+<th>in water</th>
+<th>in DMSO
+</th></tr>
+<tr>
+<td><a href="/wiki/Hydrochloric_acid" title="Hydrochloric acid">Hydrochloric acid</a></td>
+<td>HCl</td>
+<td>-5.9 ± 0.4</td>
+<td>−2.0 ± 0.6
+</td></tr>
+<tr>
+<td><a href="/wiki/Hydrobromic_acid" title="Hydrobromic acid">Hydrobromic acid</a></td>
+<td>HBr</td>
+<td>-8.8 ± 0.8</td>
+<td>−6.8 ± 0.8
+</td></tr>
+<tr>
+<td><a href="/wiki/Hydroiodic_acid" title="Hydroiodic acid">Hydroiodic acid</a></td>
+<td>HI</td>
+<td>-9.5 ± 1</td>
+<td>−10.9 ± 1
+</td></tr>
+<tr>
+<td><a href="/wiki/Triflic_acid" title="Triflic acid">Triflic acid</a></td>
+<td>H[CF<sub>3</sub>SO<sub>3</sub>]</td>
+<td>−14 ± 2</td>
+<td>−14 ± 2
+</td></tr>
+<tr>
+<td><a href="/wiki/Perchloric_acid" title="Perchloric acid">Perchloric acid</a></td>
+<td>H[ClO<sub>4</sub>]</td>
+<td>−15 ± 2</td>
+<td>−15 ± 2
+</td></tr></tbody></table></dd></dl>
+<p>Also, in water
+</p>
+<ul><li><a href="/wiki/Nitric_acid" title="Nitric acid">Nitric acid</a> HNO<sub>3</sub> pK<sub>a</sub> = -1.6 <sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></li>
+<li><a href="/wiki/Sulfuric_acid" title="Sulfuric acid">Sulfuric acid</a> H<sub>2</sub>SO<sub>4</sub> (first dissociation only, <i>pK</i><sub>a1</sub> ≈ −3)<sup class="reference" id="cite_ref-Housecroft_6-0"><a href="#cite_note-Housecroft-6">[6]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>(p. 171)</span></sup></li></ul>
+<p>The following can be used as protonators in <a href="/wiki/Organic_chemistry" title="Organic chemistry">organic chemistry</a>
+</p>
+<ul><li><a href="/wiki/Fluoroantimonic_acid" title="Fluoroantimonic acid">Fluoroantimonic acid</a> H[SbF<sub>6</sub>]</li>
+<li><a href="/wiki/Magic_acid" title="Magic acid">Magic acid</a> H[FSO<sub>3</sub>SbF<sub>5</sub>]</li>
+<li><a class="mw-redirect" href="/wiki/Carborane_superacid" title="Carborane superacid">Carborane superacid</a> H[CHB<sub>11</sub>Cl<sub>11</sub>]</li>
+<li><a href="/wiki/Fluorosulfuric_acid" title="Fluorosulfuric acid">Fluorosulfuric acid</a> H[FSO<sub>3</sub>] (pK<sub>a</sub> = −6.4)<sup class="reference" id="cite_ref-Guthrie_7-0"><a href="#cite_note-Guthrie-7">[7]</a></sup></li></ul>
+<p><a href="/wiki/Sulfonic_acid" title="Sulfonic acid">Sulfonic acids</a>, such as <a class="mw-redirect" href="/wiki/P-toluenesulfonic_acid" title="P-toluenesulfonic acid">p-toluenesulfonic acid</a> (tosylic acid) are a class of strong organic oxyacids.<sup class="reference" id="cite_ref-Guthrie_7-1"><a href="#cite_note-Guthrie-7">[7]</a></sup> Some sulfonic acids can be  isolated as solids. <a href="/wiki/Polystyrene" title="Polystyrene">polystyrene</a> functionalized into polystyrene sulfonate is an example of a substance that is a solid strong acid.
+</p>
+<h2><span class="mw-headline" id="Weak_acids">Weak acids</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acid_strength&amp;action=edit&amp;section=3" title="Edit section: Weak acids">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Acid_dissociation_constant" title="Acid dissociation constant">Acid dissociation constant</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Weak_acid.png"><img alt="" class="thumbimage" data-file-height="600" data-file-width="1102" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Weak_acid.png/220px-Weak_acid.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Weak_acid.png/330px-Weak_acid.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Weak_acid.png/440px-Weak_acid.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Weak_acid.png" title="Enlarge"></a></div>Image of a weak acid partly dissociating</div></div></div>
+<p>A weak acid is an substance that partially dissociates when it is dissolved in a solvent. In solution there is an equilibrium between the acid, HA, and the products of dissociation.  
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathrm {HA} \rightleftharpoons \mathrm {H^{+}+A^{-}} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">H</mi>
+<mi mathvariant="normal">A</mi>
+</mrow>
+<mo class="MJX-variant" stretchy="false">⇌<!-- ⇌ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi mathvariant="normal">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi mathvariant="normal">A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {HA} \rightleftharpoons \mathrm {H^{+}+A^{-}} }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathrm {HA} \rightleftharpoons \mathrm {H^{+}+A^{-}} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/157903a2c8183a3301a50fb6928b61c223dc1abf" style="vertical-align: -0.505ex; width:16.448ex; height:2.676ex;"/></span></dd></dl>
+<p>The solvent (e.g. water) is omitted from this expression when its concentration is effectively unchanged by the process of acid dissociation. The strength of a weak acid can be quantified in terms of an <a href="/wiki/Equilibrium_constant" title="Equilibrium constant">dissociation constant</a>, K<sub>a</sub>, defined as follows, where <i>[X]</i> signifies the concentration of a chemical moiety, X.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle K_{a}={\frac {[H^{+}][A^{-}]}{[AH]}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">[</mo>
+<msup>
+<mi>H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mo stretchy="false">]</mo>
+<mo stretchy="false">[</mo>
+<msup>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msup>
+<mo stretchy="false">]</mo>
+</mrow>
+<mrow>
+<mo stretchy="false">[</mo>
+<mi>A</mi>
+<mi>H</mi>
+<mo stretchy="false">]</mo>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K_{a}={\frac {[H^{+}][A^{-}]}{[AH]}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle K_{a}={\frac {[H^{+}][A^{-}]}{[AH]}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/155dd22e018f74fef5774b1cd318135dd891339c" style="vertical-align: -2.671ex; width:16.465ex; height:6.509ex;"/></span></dd></dl>
+<p>When a numerical value of K<sub>a</sub> is known it can be used to determine the extent of dissociation in a solution with a given concentration of the acid, <i>T<sub>H</sub></i>, by applying the law of <a href="/wiki/Conservation_of_mass" title="Conservation of mass">conservation of mass</a>.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}T_{H}&amp;=[H]+[HA]\\&amp;=[H]+K_{a}[A][H]\\&amp;=[H]+K_{a}[H]^{2}\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>H</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mo stretchy="false">[</mo>
+<mi>H</mi>
+<mo stretchy="false">]</mo>
+<mo>+</mo>
+<mo stretchy="false">[</mo>
+<mi>H</mi>
+<mi>A</mi>
+<mo stretchy="false">]</mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mo stretchy="false">[</mo>
+<mi>H</mi>
+<mo stretchy="false">]</mo>
+<mo>+</mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<mi>A</mi>
+<mo stretchy="false">]</mo>
+<mo stretchy="false">[</mo>
+<mi>H</mi>
+<mo stretchy="false">]</mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mo stretchy="false">[</mo>
+<mi>H</mi>
+<mo stretchy="false">]</mo>
+<mo>+</mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<mi>H</mi>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}T_{H}&amp;=[H]+[HA]\\&amp;=[H]+K_{a}[A][H]\\&amp;=[H]+K_{a}[H]^{2}\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{aligned}T_{H}&amp;=[H]+[HA]\\&amp;=[H]+K_{a}[A][H]\\&amp;=[H]+K_{a}[H]^{2}\end{aligned}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/06864f66370c0d0032792536b8bca7396c97045f" style="vertical-align: -4.171ex; width:22.566ex; height:9.509ex;"/></span></dd></dl>
+<p>where <i>T<sub>H</sub></i> is the value of the <a class="mw-redirect" href="/wiki/Analytical_concentration" title="Analytical concentration">analytical concentration</a> of the acid. When all the quantities in this equation are treated as numbers, ionic charges are not shown and this becomes a <a href="/wiki/Quadratic_equation" title="Quadratic equation">quadratic equation</a> in the value of the hydrogen ion concentration value, <i>[H]</i>.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle K_{a}[H]^{2}+[H]-T_{H}=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<mi>H</mi>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mo stretchy="false">[</mo>
+<mi>H</mi>
+<mo stretchy="false">]</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>H</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K_{a}[H]^{2}+[H]-T_{H}=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle K_{a}[H]^{2}+[H]-T_{H}=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e90b5d2270c85fd0aceb931d3804c3250d370357" style="vertical-align: -0.838ex; width:23.834ex; height:3.176ex;"/></span></dd></dl>
+<p>This equation shows that the pH of a solution of a weak acid depends on both its <i>K<sub>a</sub></i> value and its concentration. Typical examples of weak acids include <a href="/wiki/Acetic_acid" title="Acetic acid">acetic acid</a> and <a href="/wiki/Phosphorous_acid" title="Phosphorous acid">phosphorous acid</a>. An acid such as <a href="/wiki/Oxalic_acid" title="Oxalic acid">oxalic acid</a> (HOOC–COOH) is said to be <a class="mw-redirect" href="/wiki/Dibasic_acid" title="Dibasic acid">dibasic</a> because it can lose two protons and react with two molecules of a simple base. <a href="/wiki/Phosphoric_acid" title="Phosphoric acid">Phosphoric acid</a> (H<sub>3</sub>PO<sub>4</sub>) is tribasic.
+</p><p>For a more rigorous treatment of acid strength see <a href="/wiki/Acid_dissociation_constant" title="Acid dissociation constant">acid dissociation constant</a>. This includes acids such as the dibasic acid <a href="/wiki/Succinic_acid" title="Succinic acid">succinic acid</a>, for which the simple method of calculating the pH of a solution, shown above, cannot be used.
+</p>
+<h3><span class="mw-headline" id="Experimental_determination">Experimental determination</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acid_strength&amp;action=edit&amp;section=4" title="Edit section: Experimental determination">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Acid_dissociation_constant#Experimental_determination" title="Acid dissociation constant">Acid dissociation constant § Experimental determination</a></div>
+<p>The experimental determination of a p<i>K</i><sub>a</sub> value is commonly performed by means of a <a href="/wiki/Titration" title="Titration">titration</a>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> A typical procedure would be as follows. A quantity of strong acid is added to a solution containing the acid or a salt of the acid, to the point where the compound is fully protonated. The solution is then titrated with a strong base  
+</p>
+<dl><dd>HA + OH<sup>−</sup> → A<sup>−</sup> + H<sub>2</sub>O</dd></dl>
+<p>until only the deprotonated species, A<sup>−</sup>, remains in solution. At each point in the titration pH is measured using a <a href="/wiki/Glass_electrode" title="Glass electrode">glass electrode</a> and a <a href="/wiki/PH_meter" title="PH meter">pH meter</a>. The equilibrium constant is found by fitting calculated pH values to the observed values, using the method of <a href="/wiki/Least_squares" title="Least squares">least squares</a>.
+</p>
+<h3><span id="Conjugate_acid.2Fbase_pair"></span><span class="mw-headline" id="Conjugate_acid/base_pair">Conjugate acid/base pair</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acid_strength&amp;action=edit&amp;section=5" title="Edit section: Conjugate acid/base pair">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It is sometimes stated that "the conjugate of a weak acid is a strong base". Such a statement is incorrect. For example, acetic acid is a weak acid which has a K<sub>a</sub> = 1.75 x 10<sup>−5</sup>. Its conjugate base is the <a href="/wiki/Acetate" title="Acetate">acetate</a> ion with K<sub>b</sub> = 10<sup>−14</sup>/K<sub>a</sub> = 5.7 x 10<sup>−10</sup> (from the relationship K<sub>a</sub> × K<sub>b</sub> = 10<sup>−14</sup>), which certainly does not correspond to a strong base. The conjugate of a weak acid is often a weak base and <i>vice versa</i>.
+</p>
+<h2><span class="mw-headline" id="Acids_in_non-aqueous_solvents">Acids in non-aqueous solvents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acid_strength&amp;action=edit&amp;section=6" title="Edit section: Acids in non-aqueous solvents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The strength of an acid varies from solvent to solvent. An acid which is strong in water may be weak in a less basic solvent, and an acid which is weak in water may be strong in a more basic solvent. According to <a href="/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theory" title="Brønsted–Lowry acid–base theory">Brønsted–Lowry acid–base theory</a>, the solvent S can accept a proton.  
+</p>
+<dl><dd>HA + S ⇌ A<sup>−</sup> + HS<sup>+</sup>.</dd></dl>
+<p>For example hydrochloric acid is a weak acid in solution in pure <a href="/wiki/Acetic_acid" title="Acetic acid">acetic acid</a>, HO<sub>2</sub>CCH<sub>3</sub>, which is more acidic than water.
+</p>
+<dl><dd>HO<sub>2</sub>CCH<sub>3</sub> + HCl ⇌ (HO)<sub>2</sub>CCH<sub>3</sub><sup>+</sup> + Cl<sup>−</sup></dd></dl>
+<p>The extent of ionization of the <a href="/wiki/Hydrogen_halide" title="Hydrogen halide">hydrohalic acids</a> decreases in the order HI &gt; HBr &gt; HCl. Acetic acid is said to be a <a href="/wiki/Leveling_effect#Leveling_and_differentiating_solvents" title="Leveling effect">differentiating solvent</a> for the three acids, while water is not.<sup class="reference" id="cite_ref-Housecroft_6-1"><a href="#cite_note-Housecroft-6">[6]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>(p. 217)</span></sup>
+</p><p>An important example of a solvent which is more basic than water is <a href="/wiki/Dimethyl_sulfoxide" title="Dimethyl sulfoxide">dimethyl sulfoxide</a>, DMSO, (CH<sub>3</sub>)<sub>2</sub>SO. A compound which is a weak acid in water may become a strong acid in DMSO. <a href="/wiki/Acetic_acid" title="Acetic acid">Acetic acid</a> is an example of such a substance. An extensive bibliography of p<i>K</i><sub>a</sub> values in solution in DMSO and other solvents can be found at <a class="external text" href="http://tera.chem.ut.ee/~ivo/HA_UT/" rel="nofollow">Acidity–Basicity Data in Nonaqueous Solvents</a>.
+</p><p><a href="/wiki/Superacid" title="Superacid">Superacids</a> are strong acids even in solvents of low dielectric constant. Examples of superacids are <a href="/wiki/Fluoroantimonic_acid" title="Fluoroantimonic acid">fluoroantimonic acid</a> and <a href="/wiki/Magic_acid" title="Magic acid">magic acid</a>. Some superacids can be crystallised.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> They can also quantitatively stabilize <a href="/wiki/Carbocation" title="Carbocation">carbocations</a>.<sup class="reference" id="cite_ref-Olah1968_10-0"><a href="#cite_note-Olah1968-10">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Factors_determining_acid_strength">Factors determining acid strength</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acid_strength&amp;action=edit&amp;section=7" title="Edit section: Factors determining acid strength">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="The_inductive_effect">The inductive effect</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acid_strength&amp;action=edit&amp;section=8" title="Edit section: The inductive effect">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In organic carboxylic acids, an electronegative substituent can pull electron density out of an acidic bond through the <a href="/wiki/Inductive_effect" title="Inductive effect">inductive effect</a>, resulting in a smaller pK<sub>a</sub> value. The effect decreases, the further the electronegative element is from the carboxylate group, as illustrated by the following series of <a class="mw-redirect" href="/wiki/Halogenated" title="Halogenated">halogenated</a> <a class="mw-redirect" href="/wiki/Butanoic_acid" title="Butanoic acid">butanoic acids</a>.
+</p>
+<table border="1" class="wikitable">
+<tbody><tr>
+<th>Structure
+</th>
+<th>Name
+</th>
+<th>p<i>K</i><sub>a</sub>
+</th></tr>
+<tr>
+<td><a class="image" href="/wiki/File:2chlorobutanoic.png"><img alt="2chlorobutanoic.png" data-file-height="82" data-file-width="158" height="82" src="//upload.wikimedia.org/wikipedia/commons/e/ea/2chlorobutanoic.png" width="158"/></a></td>
+<td>2-chlorobutanoic acid</td>
+<td>2.86
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:3chlorobutanoic.png"><img alt="3chlorobutanoic.png" data-file-height="81" data-file-width="154" height="81" src="//upload.wikimedia.org/wikipedia/commons/5/5f/3chlorobutanoic.png" width="154"/></a></td>
+<td>3-chlorobutanoic acid</td>
+<td>4.0
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:4chlorobutanoic.png"><img alt="4chlorobutanoic.png" data-file-height="80" data-file-width="164" height="80" src="//upload.wikimedia.org/wikipedia/commons/1/1a/4chlorobutanoic.png" width="164"/></a></td>
+<td>4-chlorobutanoic acid</td>
+<td>4.5
+</td></tr>
+<tr>
+<td><a class="image" href="/wiki/File:Butanoic.png"><img alt="Butanoic.png" data-file-height="82" data-file-width="155" height="82" src="//upload.wikimedia.org/wikipedia/commons/c/c5/Butanoic.png" width="155"/></a></td>
+<td>butanoic acid</td>
+<td>4.5
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Effect_of_oxidation_state">Effect of oxidation state</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acid_strength&amp;action=edit&amp;section=9" title="Edit section: Effect of oxidation state">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In a set of <a class="mw-redirect" href="/wiki/Oxoacid" title="Oxoacid">oxoacids</a> of an element, pK<sub>a</sub> values decrease with the oxidation state of the element. The oxoacids of chlorine illustrate this trend.<sup class="reference" id="cite_ref-Housecroft_6-2"><a href="#cite_note-Housecroft-6">[6]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>(p. 171)</span></sup>
+</p>
+<table border="1" class="wikitable" style='"text-align:'>
+<tbody><tr>
+<th>Structure
+</th>
+<th>Name</th>
+<th>Oxidation<br/> state
+</th>
+<th>p<i>K</i><sub>a</sub>
+</th></tr>
+<tr align="center">
+<td><a class="image" href="/wiki/File:Perchloric-acid-2D-dimensions.png"><img alt="Perchloric-acid-2D-dimensions.png" data-file-height="1100" data-file-width="908" height="121" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Perchloric-acid-2D-dimensions.png/100px-Perchloric-acid-2D-dimensions.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Perchloric-acid-2D-dimensions.png/150px-Perchloric-acid-2D-dimensions.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Perchloric-acid-2D-dimensions.png/200px-Perchloric-acid-2D-dimensions.png 2x" width="100"/></a></td>
+<td><a href="/wiki/Perchloric_acid" title="Perchloric acid">perchloric acid</a></td>
+<td>7</td>
+<td style="width: 30pt;">-8<sup>†</sup>
+</td></tr>
+<tr align="center">
+<td><a class="image" href="/wiki/File:Chloric-acid-2D.png"><img alt="Chloric-acid-2D.png" data-file-height="647" data-file-width="1100" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chloric-acid-2D.png/100px-Chloric-acid-2D.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chloric-acid-2D.png/150px-Chloric-acid-2D.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chloric-acid-2D.png/200px-Chloric-acid-2D.png 2x" width="100"/></a></td>
+<td><a href="/wiki/Chloric_acid" title="Chloric acid">chloric acid</a></td>
+<td>5</td>
+<td>-1
+</td></tr>
+<tr align="center">
+<td><a class="image" href="/wiki/File:Chlorous-acid-2D.png"><img alt="Chlorous-acid-2D.png" data-file-height="403" data-file-width="1100" height="37" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Chlorous-acid-2D.png/100px-Chlorous-acid-2D.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Chlorous-acid-2D.png/150px-Chlorous-acid-2D.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Chlorous-acid-2D.png/200px-Chlorous-acid-2D.png 2x" width="100"/></a></td>
+<td><a href="/wiki/Chlorous_acid" title="Chlorous acid">chlorous acid</a></td>
+<td>3</td>
+<td>2.0
+</td></tr>
+<tr align="center">
+<td><a class="image" href="/wiki/File:Hypochlorous-acid-2D-dimensions.svg"><img alt="Hypochlorous-acid-2D-dimensions.svg" data-file-height="326" data-file-width="590" height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hypochlorous-acid-2D-dimensions.svg/100px-Hypochlorous-acid-2D-dimensions.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hypochlorous-acid-2D-dimensions.svg/150px-Hypochlorous-acid-2D-dimensions.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hypochlorous-acid-2D-dimensions.svg/200px-Hypochlorous-acid-2D-dimensions.svg.png 2x" width="100"/></a></td>
+<td><a href="/wiki/Hypochlorous_acid" title="Hypochlorous acid">hypochlorous acid</a></td>
+<td>1</td>
+<td>7.53
+</td></tr></tbody></table>
+<p>† theoretical
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acid_strength&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Liang, Joan-Nan Jack (1976). <a class="external text" href="https://macsphere.mcmaster.ca/bitstream/11375/8664/1/fulltext.pdf" rel="nofollow"><i>The Hammett Acidity Function for Hydrofluoric Acid and some related Superacid Systems (Ph.D. Thesis)</i></a> <span class="cs1-format">(PDF)</span>. Hamilton, Ontario: McMaster University. p. 94.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Hammett+Acidity+Function+for+Hydrofluoric+Acid+and+some+related+Superacid+Systems+%28Ph.D.+Thesis%29&amp;rft.place=Hamilton%2C+Ontario&amp;rft.pages=94&amp;rft.pub=McMaster+University&amp;rft.date=1976&amp;rft.aulast=Liang&amp;rft.aufirst=Joan-Nan+Jack&amp;rft_id=https%3A%2F%2Fmacsphere.mcmaster.ca%2Fbitstream%2F11375%2F8664%2F1%2Ffulltext.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcid+strength"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Miessler G.L. and Tarr D.A. <i>Inorganic Chemistry</i> (2nd ed., Prentice-Hall 1998, p.170) <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-13-841891-8" title="Special:BookSources/0-13-841891-8">0-13-841891-8</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Porterfield, William W. <i>Inorganic Chemistry</i> (Addison-Wesley 1984) p.260 <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-201-05660-7" title="Special:BookSources/0-201-05660-7">0-201-05660-7</a></span>
+</li>
+<li id="cite_note-Leito-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Leito_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Trummal, Aleksander; Lipping, Lauri; Kaljurand, Ivari; Koppel, Ilmar A.; Leito, Ivo (2016). "Acidity of strong acids in water and dimethyl sulfoxide". <i>J. Phys. Chem. A</i>. <b>120</b>: 3663–3669. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Facs.jpca.6b02253" rel="nofollow">10.1021/acs.jpca.6b02253</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Phys.+Chem.+A&amp;rft.atitle=Acidity+of+strong+acids+in+water+and+dimethyl+sulfoxide&amp;rft.volume=120&amp;rft.pages=3663-3669&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.1021%2Facs.jpca.6b02253&amp;rft.aulast=Trummal&amp;rft.aufirst=Aleksander&amp;rft.au=Lipping%2C+Lauri&amp;rft.au=Kaljurand%2C+Ivari&amp;rft.au=Koppel%2C+Ilmar+A.&amp;rft.au=Leito%2C+Ivo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcid+strength"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFBell1973">Bell, R. P. (1973), <i>The Proton in Chemistry</i> (2nd ed.), Ithaca, NY: Cornell University Press</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Proton+in+Chemistry&amp;rft.place=Ithaca%2C+NY&amp;rft.edition=2nd&amp;rft.pub=Cornell+University+Press&amp;rft.date=1973&amp;rft.aulast=Bell&amp;rft.aufirst=R.+P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcid+strength"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Housecroft-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Housecroft_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Housecroft_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Housecroft_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Housecroft, C. E.; Sharpe, A. G. (2004). <i>Inorganic Chemistry</i> (2nd ed.). Prentice Hall. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0130399137" title="Special:BookSources/978-0130399137">978-0130399137</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Inorganic+Chemistry&amp;rft.edition=2nd&amp;rft.pub=Prentice+Hall&amp;rft.date=2004&amp;rft.isbn=978-0130399137&amp;rft.aulast=Housecroft&amp;rft.aufirst=C.+E.&amp;rft.au=Sharpe%2C+A.+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcid+strength"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Guthrie-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Guthrie_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Guthrie_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Guthrie, J.P. (1978). "Hydrolysis of esters of oxy acids: pKa values for strong acids". <i>Can. J. Chem</i>. <b>56</b> (17): 2342–2354. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1139%2Fv78-385" rel="nofollow">10.1139/v78-385</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Can.+J.+Chem.&amp;rft.atitle=Hydrolysis+of+esters+of+oxy+acids%3A+pKa+values+for+strong+acids.&amp;rft.volume=56&amp;rft.issue=17&amp;rft.pages=2342-2354&amp;rft.date=1978&amp;rft_id=info%3Adoi%2F10.1139%2Fv78-385&amp;rft.aulast=Guthrie&amp;rft.aufirst=J.P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcid+strength"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Martell, A.E.; Motekaitis, R.J. (1992). <i>Determination and Use of Stability Constants</i>. Wiley. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-471-18817-4" title="Special:BookSources/0-471-18817-4">0-471-18817-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Determination+and+Use+of+Stability+Constants&amp;rft.pub=Wiley&amp;rft.date=1992&amp;rft.isbn=0-471-18817-4&amp;rft.aulast=Martell&amp;rft.aufirst=A.E.&amp;rft.au=Motekaitis%2C+R.J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcid+strength"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/> Chapter 4: Experimental Procedure for Potentiometric <a href="/wiki/PH" title="PH">pH</a> Measurement of Metal Complex Equilibria</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zhang, Dingliang; Rettig, Stephen J.; Trotter, James; Aubke, Friedhelm (1996). "Superacid Anions:  Crystal and Molecular Structures of Oxonium Undecafluorodiantimonate(V), [H<sub>3</sub>O][Sb<sub>2</sub>F<sub>11</sub>], Cesium Fluorosulfate, CsSO<sub>3</sub>F, Cesium Hydrogen Bis(fluorosulfate), Cs[H(SO<sub>3</sub>F)<sub>2</sub>], Cesium Tetrakis(fluorosulfato)aurate(III), Cs[Au(SO<sub>3</sub>F)<sub>4</sub>], Cesium Hexakis(fluorosulfato)platinate(IV), Cs<sub>2</sub>[Pt(SO<sub>3</sub>F)<sub>6</sub>], and Cesium Hexakis(fluorosulfato)antimonate(V), Cs[Sb(SO<sub>3</sub>F)<sub>6</sub>]". <i>Inorg. Chem</i>. <b>35</b> (21): 6113–6130. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fic960525l" rel="nofollow">10.1021/ic960525l</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Inorg.+Chem.&amp;rft.atitle=Superacid+Anions%3A%E2%80%89+Crystal+and+Molecular+Structures+of+Oxonium+Undecafluorodiantimonate%28V%29%2C+%5BH%3Csub%3E3%3C%2Fsub%3EO%5D%5BSb%3Csub%3E2%3C%2Fsub%3EF%3Csub%3E11%3C%2Fsub%3E%5D%2C+Cesium+Fluorosulfate%2C+CsSO%3Csub%3E3%3C%2Fsub%3EF%2C+Cesium+Hydrogen+Bis%28fluorosulfate%29%2C+Cs%5BH%28SO%3Csub%3E3%3C%2Fsub%3EF%29%3Csub%3E2%3C%2Fsub%3E%5D%2C+Cesium+Tetrakis%28fluorosulfato%29aurate%28III%29%2C+Cs%5BAu%28SO%3Csub%3E3%3C%2Fsub%3EF%29%3Csub%3E4%3C%2Fsub%3E%5D%2C+Cesium+Hexakis%28fluorosulfato%29platinate%28IV%29%2C+Cs%3Csub%3E2%3C%2Fsub%3E%5BPt%28SO%3Csub%3E3%3C%2Fsub%3EF%29%3Csub%3E6%3C%2Fsub%3E%5D%2C+and+Cesium+Hexakis%28fluorosulfato%29antimonate%28V%29%2C+Cs%5BSb%28SO%3Csub%3E3%3C%2Fsub%3EF%29%3Csub%3E6%3C%2Fsub%3E%5D&amp;rft.volume=35&amp;rft.issue=21&amp;rft.pages=6113-6130&amp;rft.date=1996&amp;rft_id=info%3Adoi%2F10.1021%2Fic960525l&amp;rft.aulast=Zhang&amp;rft.aufirst=Dingliang&amp;rft.au=Rettig%2C+Stephen+J.&amp;rft.au=Trotter%2C+James&amp;rft.au=Aubke%2C+Friedhelm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcid+strength"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Olah1968-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Olah1968_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a class="mw-redirect" href="/wiki/George_A._Olah" title="George A. Olah">George A. Olah</a>, Schlosberg RH (1968). "Chemistry in Super Acids. I. Hydrogen Exchange and Polycondensation of Methane and Alkanes in FSO<sub>3</sub>H–SbF<sub>5</sub> ("Magic Acid") Solution. Protonation of Alkanes and the Intermediacy of CH<sub>5</sub><sup>+</sup> and Related Hydrocarbon Ions. The High Chemical Reactivity of "Paraffins" in Ionic Solution Reactions". <i>Journal of the American Chemical Society</i>. <b>90</b> (10): 2726&amp;ndash, 7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fja01012a066" rel="nofollow">10.1021/ja01012a066</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=Chemistry+in+Super+Acids.+I.+Hydrogen+Exchange+and+Polycondensation+of+Methane+and+Alkanes+in+FSO%3Csub%3E3%3C%2Fsub%3EH%E2%80%93SbF%3Csub%3E5%3C%2Fsub%3E+%28%22Magic+Acid%22%29+Solution.+Protonation+of+Alkanes+and+the+Intermediacy+of+CH%3Csub%3E5%3C%2Fsub%3E%3Csup%3E%2B%3C%2Fsup%3E+and+Related+Hydrocarbon+Ions.+The+High+Chemical+Reactivity+of+%22Paraffins%22+in+Ionic+Solution+Reactions&amp;rft.volume=90&amp;rft.issue=10&amp;rft.pages=2726%26ndash%2C+7&amp;rft.date=1968&amp;rft_id=info%3Adoi%2F10.1021%2Fja01012a066&amp;rft.au=George+A.+Olah%2C+Schlosberg+RH&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAcid+strength"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Acid_strength&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Titration of acids <a class="external text" href="http://www2.iq.usp.br/docente/gutz/Curtipot_.html" rel="nofollow">- freeware for data analysis</a> and simulation of potentiometric titration curves</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1312
+Cached time: 20181012013321
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.316 seconds
+Real time usage: 0.565 seconds
+Preprocessor visited node count: 1140/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 25138/2097152 bytes
+Template argument size: 541/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 27435/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.134/10.000 seconds
+Lua memory usage: 3.66 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  276.217      1 -total
+ 76.83%  212.223      1 Template:Reflist
+ 31.38%   86.689      3 Template:Cite_book
+ 19.39%   53.555      4 Template:Cite_journal
+ 12.43%   34.330      2 Template:ISBN
+  9.82%   27.136      1 Template:Acids_and_bases
+  4.30%   11.884      2 Template:Main
+  4.15%   11.477      2 Template:Catalog_lookup_link
+  2.96%    8.167      3 Template:Nbsp
+  2.73%    7.552      2 Template:Error-small
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:34251640-0!canonical!math=5 and timestamp 20181012013321 and revision id 863638036
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Acid_strength&amp;oldid=863638036">https://en.wikipedia.org/w/index.php?title=Acid_strength&amp;oldid=863638036</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Acids" title="Category:Acids">Acids</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Acid+strength" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Acid+strength" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Acid_strength" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Acid_strength" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Acid_strength">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Acid_strength&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Acid_strength&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Acid_strength" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Acid_strength" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Acid_strength&amp;oldid=863638036" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Acid_strength&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1634792" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Acid_strength&amp;id=863638036" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Acid+strength">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Acid+strength&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Acid_strength&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%B6_%D9%82%D9%88%D9%8A" hreflang="ar" lang="ar" title="حمض قوي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/S%C3%ADla_kyselin" hreflang="cs" lang="cs" title="Síla kyselin – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Syrestyrke" hreflang="da" lang="da" title="Syrestyrke – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Starke_S%C3%A4uren" hreflang="de" lang="de" title="Starke Säuren – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Tugev_hape" hreflang="et" lang="et" title="Tugev hape – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/%C3%81cido_fuerte" hreflang="es" lang="es" title="Ácido fuerte – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Forta_acido" hreflang="eo" lang="eo" title="Forta acido – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%82%D8%AF%D8%B1%D8%AA_%D8%A7%D8%B3%DB%8C%D8%AF" hreflang="fa" lang="fa" title="قدرت اسید – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Acide_fort" hreflang="fr" lang="fr" title="Acide fort – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B0%95%EC%82%B0" hreflang="ko" lang="ko" title="강산 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Jake_kiseline" hreflang="hr" lang="hr" title="Jake kiseline – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Acido_forte" hreflang="it" lang="it" title="Acido forte – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%9E%D7%A6%D7%94_%D7%97%D7%96%D7%A7%D7%94" hreflang="he" lang="he" title="חומצה חזקה – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Asid_f%C3%B2" hreflang="ht" lang="ht" title="Asid fò – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Asid_kuat" hreflang="ms" lang="ms" title="Asid kuat – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Sterk_zuur" hreflang="nl" lang="nl" title="Sterk zuur – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%BC%B7%E9%85%B8" hreflang="ja" lang="ja" title="強酸 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Moc_kwasu" hreflang="pl" lang="pl" title="Moc kwasu – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/%C3%81cido_forte" hreflang="pt" lang="pt" title="Ácido forte – Portuguese">Português</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Strong_acid" hreflang="simple" lang="simple" title="Strong acid – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Ja%C4%8Dina_kiseline" hreflang="sr" lang="sr" title="Jačina kiseline – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Ja%C4%8Dina_kiseline" hreflang="sh" lang="sh" title="Jačina kiseline – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Vahva_happo" hreflang="fi" lang="fi" title="Vahva happo – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Stark_syra" hreflang="sv" lang="sv" title="Stark syra – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%BC%BA%E9%85%B8" hreflang="zh" lang="zh" title="强酸 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1634792#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 12 October 2018, at 01:33<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Acid_strength&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.316","walltime":"0.565","ppvisitednodes":{"value":1140,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":25138,"limit":2097152},"templateargumentsize":{"value":541,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":27435,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  276.217      1 -total"," 76.83%  212.223      1 Template:Reflist"," 31.38%   86.689      3 Template:Cite_book"," 19.39%   53.555      4 Template:Cite_journal"," 12.43%   34.330      2 Template:ISBN","  9.82%   27.136      1 Template:Acids_and_bases","  4.30%   11.884      2 Template:Main","  4.15%   11.477      2 Template:Catalog_lookup_link","  2.96%    8.167      3 Template:Nbsp","  2.73%    7.552      2 Template:Error-small"]},"scribunto":{"limitreport-timeusage":{"value":"0.134","limit":"10.000"},"limitreport-memusage":{"value":3833500,"limit":52428800}},"cachereport":{"origin":"mw1312","timestamp":"20181012013321","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1324"});});</script>
+</body>
+</html>

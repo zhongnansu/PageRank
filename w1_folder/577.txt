@@ -1,0 +1,1244 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Adsorption - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Adsorption","wgTitle":"Adsorption","wgCurRevisionId":862500222,"wgRevisionId":862500222,"wgArticleId":207601,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing German-language text","All articles with unsourced statements","Articles with unsourced statements from November 2013","Wikipedia articles with GND identifiers","Wikipedia articles with NDL identifiers","Surface science","Materials science","Chemical processes","Colloidal chemistry","Catalysis","Gases","Gas technologies"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Adsorption","wgRelevantArticleId":207601,"wgRequestId":"W73fmwrAIEwAAIyEBxQAAACS","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q180254","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BET_Multilayer_Adsorption.svg/1200px-BET_Multilayer_Adsorption.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Adsorption" rel="alternate"/>
+<link href="/w/index.php?title=Adsorption&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Adsorption&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Adsorption" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Adsorption rootpage-Adsorption skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Adsorption</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">Not to be confused with <a href="/wiki/Absorption_(chemistry)" title="Absorption (chemistry)">Absorption</a>.</div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Physisorption" title="Physisorption">Physisorption</a>, <a href="/wiki/Chemisorption" title="Chemisorption">Chemisorption</a>, and <a class="mw-redirect" href="/wiki/Segregation_(Materials_Science)" title="Segregation (Materials Science)">Segregation (Materials Science)</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:BET_Multilayer_Adsorption.svg"><img alt="" class="thumbimage" data-file-height="584" data-file-width="1352" height="95" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BET_Multilayer_Adsorption.svg/220px-BET_Multilayer_Adsorption.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BET_Multilayer_Adsorption.svg/330px-BET_Multilayer_Adsorption.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BET_Multilayer_Adsorption.svg/440px-BET_Multilayer_Adsorption.svg.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:BET_Multilayer_Adsorption.svg" title="Enlarge"></a></div>Brunauer, Emmett and Teller's <a href="/wiki/Adsorption#BET" title="Adsorption">model</a> of multilayer adsorption is a random distribution of molecules on the material surface.</div></div></div>
+<p><b>Adsorption</b> is the <a href="/wiki/Adhesion" title="Adhesion">adhesion</a> of <a class="mw-redirect" href="/wiki/Atoms" title="Atoms">atoms</a>, <a href="/wiki/Ion" title="Ion">ions</a> or <a href="/wiki/Molecule" title="Molecule">molecules</a> from a gas, liquid or dissolved solid to a <a href="/wiki/Surface_science" title="Surface science">surface</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> This process creates a film of the <i>adsorbate</i> on the surface of the <i>adsorbent</i>. This process differs from <a href="/wiki/Absorption_(chemistry)" title="Absorption (chemistry)">absorption</a>, in which a <a href="/wiki/Fluid" title="Fluid">fluid</a> (the <i>absorbate</i>) is <a class="mw-redirect" href="/wiki/Dissolution_(chemistry)" title="Dissolution (chemistry)">dissolved</a> by or <a href="/wiki/Permeation" title="Permeation">permeates</a> a liquid or solid (the <i>absorbent</i>), respectively.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> Adsorption is a <i><a class="mw-redirect" href="/wiki/Surface_phenomenon" title="Surface phenomenon">surface phenomenon</a></i>, while absorption involves the whole volume of the material. The term <i><a href="/wiki/Sorption" title="Sorption">sorption</a></i> encompasses both processes, while <i><a href="/wiki/Desorption" title="Desorption">desorption</a></i> is the reverse of it.
+</p>
+<div class="quotebox pullquote floatright" style="width:50%; ;"><style data-mw-deduplicate="TemplateStyles:r856303512">.mw-parser-output .quotebox{background-color:#F9F9F9;border:1px solid #aaa;box-sizing:border-box;padding:10px;font-size:88%}.mw-parser-output .quotebox.floatleft{margin:0.5em 1.4em 0.8em 0}.mw-parser-output .quotebox.floatright{margin:0.5em 0 0.8em 1.4em}.mw-parser-output .quotebox.centered{margin:0.5em auto 0.8em auto}.mw-parser-output .quotebox.floatleft p,.mw-parser-output .quotebox.floatright p{font-style:inherit}.mw-parser-output .quotebox-title{background-color:#F9F9F9;text-align:center;font-size:larger;font-weight:bold}.mw-parser-output .quotebox-quote.quoted:before{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" “ ";vertical-align:-45%;line-height:0}.mw-parser-output .quotebox-quote.quoted:after{font-family:"Times New Roman",serif;font-weight:bold;font-size:large;color:gray;content:" ” ";line-height:0}.mw-parser-output .quotebox .left-aligned{text-align:left}.mw-parser-output .quotebox .right-aligned{text-align:right}.mw-parser-output .quotebox .center-aligned{text-align:center}.mw-parser-output .quotebox cite{display:block;font-style:normal}@media screen and (max-width:360px){.mw-parser-output .quotebox{min-width:100%;margin:0 0 0.8em!important;float:none!important}}</style>
+<div class="quotebox-title" style=""><a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">IUPAC</a> definition</div>
+<div class="quotebox-quote left-aligned" style="">Increase in the concentration of a substance at the interface of a condensed and a liquid or gaseous layer owing to the operation of surface forces.
+<p>Note 1: Adsorption of proteins is of great importance when a material is in contact with blood or body fluids. In the case of blood, <a href="/wiki/Albumin" title="Albumin">albumin</a>, which is largely predominant, is generally adsorbed first, and then rearrangements occur in favor of other minor proteins according to surface affinity against mass law selection (<a href="/wiki/Vroman_effect" title="Vroman effect">Vroman effect</a>).
+</p><p>Note 2: Adsorbed molecules are those that are resistant to washing with the same solvent medium in the case of adsorption from solutions. The washing conditions can thus modify the measurement results, particularly when the interaction energy is low.
+</p>
+<sup class="reference" id="cite_ref-goldbook1990_3-0"><a href="#cite_note-goldbook1990-3">[3]</a></sup></div>
+</div>
+<p>Similar to <a href="/wiki/Surface_tension" title="Surface tension">surface tension</a>, adsorption is a consequence of <a href="/wiki/Surface_energy" title="Surface energy">surface energy</a>. In a <a class="new" href="/w/index.php?title=Bulk_material_(materials_science)&amp;action=edit&amp;redlink=1" title="Bulk material (materials science) (page does not exist)">bulk material</a>, all the bonding requirements (be they <a class="mw-redirect" href="/wiki/Ionic_bond" title="Ionic bond">ionic</a>, <a href="/wiki/Covalent_bond" title="Covalent bond">covalent</a> or <a class="mw-redirect" href="/wiki/Metallic_bond" title="Metallic bond">metallic</a>) of the constituent <a class="mw-redirect" href="/wiki/Atoms" title="Atoms">atoms</a> of the material are filled by other atoms in the material. However, atoms on the surface of the adsorbent are not wholly surrounded by other adsorbent atoms and therefore can attract adsorbates. The exact nature of the bonding depends on the details of the species involved, but the adsorption process is generally classified as <a href="/wiki/Physisorption" title="Physisorption">physisorption</a> (characteristic of weak <a href="/wiki/Van_der_Waals_force" title="Van der Waals force">van der Waals forces</a>) or <a href="/wiki/Chemisorption" title="Chemisorption">chemisorption</a> (characteristic of covalent bonding). It may also occur due to electrostatic attraction.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p><p>Adsorption is present in many natural, physical, biological and chemical systems and is widely used in industrial applications such as <a class="mw-redirect" href="/wiki/Heterogeneous_catalysts" title="Heterogeneous catalysts">heterogeneous catalysts</a>,<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> <a class="mw-redirect" href="/wiki/Activated_charcoal" title="Activated charcoal">activated charcoal</a>, capturing and using <a href="/wiki/Waste_heat" title="Waste heat">waste heat</a> to provide cold water for air conditioning and other process requirements (<a href="/wiki/Adsorption#Adsorption_chillers" title="Adsorption">adsorption chillers</a>), <a class="mw-redirect" href="/wiki/Synthetic_resins" title="Synthetic resins">synthetic resins</a>, increasing storage capacity of <a class="mw-redirect" href="/wiki/Tunable_nanoporous_carbon" title="Tunable nanoporous carbon">carbide-derived carbons</a> and <a href="/wiki/Water_purification" title="Water purification">water purification</a>. Adsorption, <a href="/wiki/Ion_exchange" title="Ion exchange">ion exchange</a> and <a href="/wiki/Chromatography" title="Chromatography">chromatography</a> are sorption processes in which certain adsorbates are selectively transferred from the fluid phase to the surface of insoluble, rigid particles suspended in a vessel or packed in a column. Pharmaceutical industry applications, which use adsorption as a means to prolong neurological exposure to specific drugs or parts thereof,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2013)">citation needed</span></a></i>]</sup> are lesser known.
+</p><p>The word "adsorption" was coined in 1881 by German physicist <a href="/wiki/Heinrich_Kayser" title="Heinrich Kayser">Heinrich Kayser</a> (1853 –1940).<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Isotherms"><span class="tocnumber">1</span> <span class="toctext">Isotherms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Linear"><span class="tocnumber">1.1</span> <span class="toctext">Linear</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Freundlich"><span class="tocnumber">1.2</span> <span class="toctext">Freundlich</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Langmuir"><span class="tocnumber">1.3</span> <span class="toctext">Langmuir</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#BET"><span class="tocnumber">1.4</span> <span class="toctext">BET</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Kisliuk"><span class="tocnumber">1.5</span> <span class="toctext">Kisliuk</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Adsorption_enthalpy"><span class="tocnumber">1.6</span> <span class="toctext">Adsorption enthalpy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Adsorbents"><span class="tocnumber">2</span> <span class="toctext">Adsorbents</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Characteristics_and_general_requirements"><span class="tocnumber">2.1</span> <span class="toctext">Characteristics and general requirements</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Silica_gel"><span class="tocnumber">2.2</span> <span class="toctext">Silica gel</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Zeolites"><span class="tocnumber">2.3</span> <span class="toctext">Zeolites</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Activated_carbon"><span class="tocnumber">2.4</span> <span class="toctext">Activated carbon</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Carbon_capture_and_storage"><span class="tocnumber">3</span> <span class="toctext">Carbon capture and storage</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Protein_and_surfactant_adsorption"><span class="tocnumber">4</span> <span class="toctext">Protein  and surfactant adsorption</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Adsorption_chillers"><span class="tocnumber">5</span> <span class="toctext">Adsorption chillers</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Portal_site_mediated_adsorption"><span class="tocnumber">6</span> <span class="toctext">Portal site mediated adsorption</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Adsorption_spillover"><span class="tocnumber">7</span> <span class="toctext">Adsorption spillover</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Polymer_adsorption"><span class="tocnumber">8</span> <span class="toctext">Polymer adsorption</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Adsorption_in_viruses"><span class="tocnumber">9</span> <span class="toctext">Adsorption in viruses</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#In_popular_culture"><span class="tocnumber">10</span> <span class="toctext">In popular culture</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Further_reading"><span class="tocnumber">13</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#External_links"><span class="tocnumber">14</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Isotherms">Isotherms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=1" title="Edit section: Isotherms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Adsorption is usually described through <a class="mw-redirect" href="/wiki/Isotherms" title="Isotherms">isotherms</a>, that is, the amount of adsorbate on the adsorbent as a function of its pressure (if gas) or concentration (if liquid) at constant temperature. The quantity adsorbed is nearly always normalized by the mass of the adsorbent to allow comparison of different materials. To date, 15 different isotherm models were developed.<sup class="reference" id="cite_ref-FooHameed2010_8-0"><a href="#cite_note-FooHameed2010-8">[8]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Linear">Linear</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=2" title="Edit section: Linear">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Henry_adsorption_constant" title="Henry adsorption constant">Henry adsorption constant</a></div>
+<h3><span class="mw-headline" id="Freundlich">Freundlich</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=3" title="Edit section: Freundlich">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Freundlich_equation" title="Freundlich equation">Freundlich equation</a></div>
+<p>The first mathematical fit to an isotherm was published by Freundlich and Kuster (1906) and is a purely empirical formula for gaseous adsorbates:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {x}{m}}=kP^{\frac {1}{n}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>x</mi>
+<mi>m</mi>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mi>k</mi>
+<msup>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>n</mi>
+</mfrac>
+</mrow>
+</msup>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {x}{m}}=kP^{\frac {1}{n}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {x}{m}}=kP^{\frac {1}{n}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ea971736ed05a8aa905125dda8e519053f039d2b" style="vertical-align: -1.838ex; width:11.524ex; height:4.843ex;"/></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+</semantics>
+</math></span><img alt="x" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;"/></span> is the mass of adsorbate adsorbed, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>m</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+</semantics>
+</math></span><img alt="m" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;"/></span> is the mass of the adsorbent, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+</semantics>
+</math></span><img alt="P" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a" style="vertical-align: -0.338ex; width:1.745ex; height:2.176ex;"/></span> is the pressure of adsorbate (this can be changed to concentration if investigating solution rather than gas), and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle k}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>k</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle k}</annotation>
+</semantics>
+</math></span><img alt="k" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c9a2c7b599b37105512c5d570edc034056dd40" style="vertical-align: -0.338ex; width:1.211ex; height:2.176ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+</semantics>
+</math></span><img alt="n" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;"/></span> are empirical constants for each adsorbent–adsorbate pair at a given temperature. The function is not adequate at very high pressure because in reality <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x/m}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>m</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x/m}</annotation>
+</semantics>
+</math></span><img alt="x/m" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3de2f7cf271f871e1c509eacff134373ccc4d624" style="vertical-align: -0.838ex; width:4.533ex; height:2.843ex;"/></span> has an asymptotic maximum as pressure increases without bound. As the temperature increases, the constants <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle k}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>k</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle k}</annotation>
+</semantics>
+</math></span><img alt="k" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c9a2c7b599b37105512c5d570edc034056dd40" style="vertical-align: -0.338ex; width:1.211ex; height:2.176ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+</semantics>
+</math></span><img alt="n" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;"/></span> change to reflect the empirical observation that the quantity adsorbed rises more slowly and higher pressures are required to saturate the surface.
+</p>
+<h3><span class="mw-headline" id="Langmuir">Langmuir</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=4" title="Edit section: Langmuir">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a class="mw-redirect" href="/wiki/Langmuir_equation" title="Langmuir equation">Langmuir equation</a></div>
+<p><a href="/wiki/Irving_Langmuir" title="Irving Langmuir">Irving Langmuir</a> was the first to derive a scientifically based adsorption isotherm in 1918.<sup class="reference" id="cite_ref-Langmuir_9-0"><a href="#cite_note-Langmuir-9">[9]</a></sup> The model applies to gases adsorbed on solid surfaces. It is a semi-empirical isotherm with a kinetic basis and was derived based on statistical thermodynamics. It is the most common isotherm equation to use due to its simplicity and its ability to fit a variety of adsorption data. It is based on four assumptions:
+</p>
+<ol><li>All of the adsorption sites are equivalent, and each site can only accommodate one molecule.</li>
+<li>The surface is energetically homogeneous, and adsorbed molecules do not interact.</li>
+<li>There are no phase transitions.</li>
+<li>At the maximum adsorption, only a monolayer is formed. Adsorption only occurs on localized sites on the surface, not with other adsorbates.</li></ol>
+<p>These four assumptions are seldom all true: there are always imperfections on the surface, adsorbed molecules are not necessarily inert, and the mechanism is clearly not the same for the very first molecules to adsorb to a surface as for the last. The fourth condition is the most troublesome, as frequently more molecules will adsorb to the monolayer; this problem is addressed by the <a href="#BET_isotherm">BET isotherm</a> for relatively flat (non-<a href="/wiki/Microporous_material" title="Microporous material">microporous</a>) surfaces. The Langmuir isotherm is nonetheless the first choice for most models of adsorption and has many applications in surface kinetics (usually called <a class="mw-redirect" href="/wiki/Langmuir%E2%80%93Hinshelwood_kinetics" title="Langmuir–Hinshelwood kinetics">Langmuir–Hinshelwood kinetics</a>) and <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a>.
+</p><p>Langmuir suggested that adsorption takes place through this mechanism: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A_{\text{g}}+S\rightleftharpoons AS}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>g</mtext>
+</mrow>
+</msub>
+<mo>+</mo>
+<mi>S</mi>
+<mo class="MJX-variant" stretchy="false">⇌<!-- ⇌ --></mo>
+<mi>A</mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A_{\text{g}}+S\rightleftharpoons AS}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle A_{\text{g}}+S\rightleftharpoons AS}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5cac7f3f7b4a3d3b66f12b5956abc2b832108772" style="vertical-align: -1.005ex; width:13.993ex; height:2.843ex;"/></span>, where <i>A</i> is a gas molecule, and <i>S</i> is an adsorption site. The direct and inverse rate constants are <i>k</i> and <i>k</i><sub>−1</sub>. If we define surface coverage, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>θ<!-- θ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta }</annotation>
+</semantics>
+</math></span><img alt="\theta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6e5ab2664b422d53eb0c7df3b87e1360d75ad9af" style="vertical-align: -0.338ex; width:1.09ex; height:2.176ex;"/></span>, as the fraction of the adsorption sites occupied, in the equilibrium we have:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle K={\frac {k}{k_{-1}}}={\frac {\theta }{(1-\theta )P}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>K</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>k</mi>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>θ<!-- θ --></mi>
+<mrow>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mi>θ<!-- θ --></mi>
+<mo stretchy="false">)</mo>
+<mi>P</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K={\frac {k}{k_{-1}}}={\frac {\theta }{(1-\theta )P}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle K={\frac {k}{k_{-1}}}={\frac {\theta }{(1-\theta )P}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ab37cf43badf1d281f417204909b026da6e88f14" style="vertical-align: -2.671ex; width:22.774ex; height:6.176ex;"/></span></dd></dl>
+<p>or
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta ={\frac {KP}{1+KP}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>θ<!-- θ --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>K</mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<mi>K</mi>
+<mi>P</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta ={\frac {KP}{1+KP}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \theta ={\frac {KP}{1+KP}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/86926409787e8246738e9a9f0809bf048f8df098" style="vertical-align: -2.005ex; width:13.486ex; height:5.343ex;"/></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P}</annotation>
+</semantics>
+</math></span><img alt="P" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b4dc73bf40314945ff376bd363916a738548d40a" style="vertical-align: -0.338ex; width:1.745ex; height:2.176ex;"/></span> is the partial pressure of the gas or the molar concentration of the solution.
+For very low pressures <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta \approx KP}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>θ<!-- θ --></mi>
+<mo>≈<!-- ≈ --></mo>
+<mi>K</mi>
+<mi>P</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta \approx KP}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \theta \approx KP}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f8bececa1a470cd4e99018f2b07860f6bb4a7b7b" style="vertical-align: -0.338ex; width:8ex; height:2.176ex;"/></span>, and for high pressures <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta \approx 1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>θ<!-- θ --></mi>
+<mo>≈<!-- ≈ --></mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta \approx 1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \theta \approx 1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bdc15166a16b3d0c945d21f2f3707e03ac18b515" style="vertical-align: -0.338ex; width:5.351ex; height:2.176ex;"/></span>.
+</p><p>The value of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>θ<!-- θ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta }</annotation>
+</semantics>
+</math></span><img alt="\theta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6e5ab2664b422d53eb0c7df3b87e1360d75ad9af" style="vertical-align: -0.338ex; width:1.09ex; height:2.176ex;"/></span> is difficult to measure experimentally; usually, the adsorbate is a gas and the quantity adsorbed is given in moles, grams, or gas volumes at <a class="mw-redirect" href="/wiki/Standard_temperature_and_pressure" title="Standard temperature and pressure">standard temperature and pressure</a> (STP) per gram of adsorbent. If we call <i>v</i><sub>mon</sub> the STP volume of adsorbate required to form a monolayer on the adsorbent (per gram of adsorbent), then <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta ={\frac {v}{v_{\text{mon}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>θ<!-- θ --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>v</mi>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>mon</mtext>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta ={\frac {v}{v_{\text{mon}}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \theta ={\frac {v}{v_{\text{mon}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/21f89cff760c9dfe14d81390add01e3e86f43a2b" style="vertical-align: -2.171ex; width:9.49ex; height:5.009ex;"/></span>, and we obtain an expression for a straight line:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {1}{v}}={\frac {1}{Kv_{\text{mon}}}}{\frac {1}{P}}+{\frac {1}{v_{\text{mon}}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>v</mi>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mi>K</mi>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>mon</mtext>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>P</mi>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>mon</mtext>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {1}{v}}={\frac {1}{Kv_{\text{mon}}}}{\frac {1}{P}}+{\frac {1}{v_{\text{mon}}}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {1}{v}}={\frac {1}{Kv_{\text{mon}}}}{\frac {1}{P}}+{\frac {1}{v_{\text{mon}}}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d4127bac130a59fdf0e4f8d9edfb5c253f3817a5" style="vertical-align: -2.338ex; width:23.833ex; height:5.676ex;"/></span></dd></dl>
+<p>Through its slope and <i>y</i> intercept we can obtain <i>v</i><sub>mon</sub> and <i>K</i>, which are constants for each adsorbent–adsorbate pair at a given temperature. <i>v</i><sub>mon</sub> is related to the number of adsorption sites through the <a href="/wiki/Ideal_gas_law" title="Ideal gas law">ideal gas law</a>. If we assume that the number of sites is just the whole area of the solid divided into the cross section of the adsorbate molecules, we can easily calculate the surface area of the adsorbent.
+The surface area of an adsorbent depends on its structure: the more pores it has, the greater the area, which has a big influence on <a href="/wiki/Reactions_on_surfaces" title="Reactions on surfaces">reactions on surfaces</a>.
+</p><p>If more than one gas adsorbs on the surface, we define <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta _{E}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>E</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta _{E}}</annotation>
+</semantics>
+</math></span><img alt="\theta _{E}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c1d344b9267d9fcdf77a8136f0c4628cc72a0470" style="vertical-align: -0.671ex; width:2.578ex; height:2.509ex;"/></span> as the fraction of empty sites, and we have:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta _{E}={\dfrac {1}{1+\sum _{i=1}^{n}K_{i}P_{i}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>E</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta _{E}={\dfrac {1}{1+\sum _{i=1}^{n}K_{i}P_{i}}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \theta _{E}={\dfrac {1}{1+\sum _{i=1}^{n}K_{i}P_{i}}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9d8cc43412b877fd11b41d3686457da524766cbe" style="vertical-align: -2.838ex; width:21.968ex; height:6.176ex;"/></span></dd></dl>
+<p>Also, we can define <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta _{j}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta _{j}}</annotation>
+</semantics>
+</math></span><img alt="\theta _{j}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/56cd705853e931c59ff5fa4e7149cca4b22019e5" style="vertical-align: -1.005ex; width:2ex; height:2.843ex;"/></span> as the fraction of the sites occupied by the <i>j</i>-th gas:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta _{j}={\dfrac {K_{j}P_{j}}{1+\sum _{i=1}^{n}K_{i}P_{i}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mfrac>
+<mrow>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta _{j}={\dfrac {K_{j}P_{j}}{1+\sum _{i=1}^{n}K_{i}P_{i}}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \theta _{j}={\dfrac {K_{j}P_{j}}{1+\sum _{i=1}^{n}K_{i}P_{i}}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/db0c5b2deed08cbc0da475157d23461f074c80c8" style="vertical-align: -2.838ex; width:21.39ex; height:6.509ex;"/></span></dd></dl>
+<p>where <i>i</i> is each one of the gases that adsorb.
+</p>
+<h3><span class="mw-headline" id="BET">BET</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=5" title="Edit section: BET">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/BET_theory" title="BET theory">BET theory</a></div>
+<p>Often molecules do form multilayers, that is, some are adsorbed on already adsorbed molecules, and the Langmuir isotherm is not valid. In 1938 <a href="/wiki/Stephen_Brunauer" title="Stephen Brunauer">Stephen Brunauer</a>, <a class="mw-redirect" href="/wiki/Paul_H._Emmett" title="Paul H. Emmett">Paul Emmett</a>, and <a href="/wiki/Edward_Teller" title="Edward Teller">Edward Teller</a> developed a model isotherm that takes that possibility into account. Their theory is called <a href="/wiki/BET_theory" title="BET theory">BET theory</a>, after the initials in their last names. They modified Langmuir's mechanism as follows:
+</p>
+<dl><dd>A<sub>(g)</sub> + S ⇌ AS,</dd></dl>
+<dl><dd>A<sub>(g)</sub> + AS ⇌ A<sub>2</sub>S,</dd></dl>
+<dl><dd>A<sub>(g)</sub> + A<sub>2</sub>S ⇌ A<sub>3</sub>S and so on.</dd></dl>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Isothermes.svg"><img alt="" class="thumbimage" data-file-height="224" data-file-width="335" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Isothermes.svg/220px-Isothermes.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Isothermes.svg/330px-Isothermes.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Isothermes.svg/440px-Isothermes.svg.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Isothermes.svg" title="Enlarge"></a></div>Langmuir (blue) and BET (red) isotherms</div></div></div>
+<p>The derivation of the formula is more complicated than Langmuir's (see links for complete derivation). We obtain:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {x}{v(1-x)}}={\frac {1}{v_{\text{mon}}c}}+{\frac {x(c-1)}{v_{\text{mon}}c}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>x</mi>
+<mrow>
+<mi>v</mi>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>mon</mtext>
+</mrow>
+</msub>
+<mi>c</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>x</mi>
+<mo stretchy="false">(</mo>
+<mi>c</mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>mon</mtext>
+</mrow>
+</msub>
+<mi>c</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {x}{v(1-x)}}={\frac {1}{v_{\text{mon}}c}}+{\frac {x(c-1)}{v_{\text{mon}}c}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {x}{v(1-x)}}={\frac {1}{v_{\text{mon}}c}}+{\frac {x(c-1)}{v_{\text{mon}}c}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ff38e17b0fc224f42c38207c2866e435238a854a" style="vertical-align: -2.671ex; width:30.984ex; height:6.509ex;"/></span></dd></dl>
+<p>where <i>x</i> is the pressure divided by the <a href="/wiki/Vapor_pressure" title="Vapor pressure">vapor pressure</a> for the adsorbate at that temperature (usually denoted <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle P/P_{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P/P_{0}}</annotation>
+</semantics>
+</math></span><img alt="P/P_{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/474d2b5f0f36933b3369835c19a96515dbcf0def" style="vertical-align: -0.838ex; width:5.454ex; height:2.843ex;"/></span>), <i>v</i> is the STP volume of adsorbed adsorbate, <i>v<sub>mon</sub></i> is the STP volume of the amount of adsorbate required to form a monolayer, and <i>c</i> is the equilibrium constant <i>K</i> we used in Langmuir isotherm multiplied by the vapor pressure of the adsorbate. The key assumption used in deriving the BET equation that the successive heats of adsorption for all layers except the first are equal to the heat of condensation of the adsorbate.
+</p><p>The Langmuir isotherm is usually better for chemisorption, and the BET isotherm works better for physisorption for non-microporous surfaces.
+</p>
+<h3><span class="mw-headline" id="Kisliuk">Kisliuk</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=6" title="Edit section: Kisliuk">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Wiki_kisliuk_n2-tungsten.JPG"><img alt="" class="thumbimage" data-file-height="132" data-file-width="300" height="97" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wiki_kisliuk_n2-tungsten.JPG/220px-Wiki_kisliuk_n2-tungsten.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/6/66/Wiki_kisliuk_n2-tungsten.JPG 1.5x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Wiki_kisliuk_n2-tungsten.JPG" title="Enlarge"></a></div>Two adsorbate nitrogen molecules adsorbing onto a tungsten adsorbent from the precursor state around an island of previously adsorbed adsorbate (left) and via random adsorption (right)</div></div></div>
+<p>In other instances, molecular interactions between gas molecules previously adsorbed on a solid surface form significant interactions with gas molecules in the gaseous phases. Hence, adsorption of gas molecules to the surface is more likely to occur around gas molecules that are already present on the solid surface, rendering the Langmuir adsorption isotherm ineffective for the purposes of modelling. This effect was studied in a system where nitrogen was the adsorbate and tungsten was the adsorbent by Paul Kisliuk (1922–2008) in 1957.<sup class="reference" id="cite_ref-Kisliuk_10-0"><a href="#cite_note-Kisliuk-10">[10]</a></sup> To compensate for the increased probability of adsorption occurring around molecules present on the substrate surface, Kisliuk developed the precursor state theory, whereby molecules would enter a precursor state at the interface between the solid adsorbent and adsorbate in the gaseous phase. From here, adsorbate molecules would either adsorb to the adsorbent or desorb into the gaseous phase. The probability of adsorption occurring from the precursor state is dependent on the adsorbate’s proximity to other adsorbate molecules that have already been adsorbed. If the adsorbate molecule in the precursor state is in close proximity to an adsorbate molecule that has already formed on the surface, it has a sticking probability reflected by the size of the S<sub>E</sub> constant and will either be adsorbed from the precursor state at a rate of <i>k</i><sub>EC</sub> or will desorb into the gaseous phase at a rate of <i>k</i><sub>ES</sub>. If an adsorbate molecule enters the precursor state at a location that is remote from any other previously adsorbed adsorbate molecules, the sticking probability is reflected by the size of the S<sub>D</sub> constant.
+</p><p>These factors were included as part of a single constant termed a "sticking coefficient", <i>k</i><sub>E</sub>, described below:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle k_{\text{E}}={\frac {S_{\text{E}}}{k_{\text{ES}}S_{\text{D}}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>E</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>E</mtext>
+</mrow>
+</msub>
+<mrow>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>ES</mtext>
+</mrow>
+</msub>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>D</mtext>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle k_{\text{E}}={\frac {S_{\text{E}}}{k_{\text{ES}}S_{\text{D}}}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle k_{\text{E}}={\frac {S_{\text{E}}}{k_{\text{ES}}S_{\text{D}}}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eb23cec255292b4825ce8e232fa0d98f592a9b1d" style="vertical-align: -2.338ex; width:13.534ex; height:5.843ex;"/></span></dd></dl>
+<p>As S<sub>D</sub> is dictated by factors that are taken into account by the Langmuir model, S<sub>D</sub> can be assumed to be the adsorption rate constant. However, the rate constant for the Kisliuk model (<i>R</i>’) is different from that of the Langmuir model, as <i>R</i>’ is used to represent the impact of diffusion on monolayer formation and is proportional to the square root of the system’s diffusion coefficient. The Kisliuk adsorption isotherm is written as follows, where Θ<sub>(<i>t</i>)</sub> is fractional coverage of the adsorbent with adsorbate, and <i>t</i> is immersion time:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {d\theta _{(t)}}{dt}}=R'(1-\theta )(1+k_{\text{E}}\theta ).}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<msup>
+<mi>R</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mi>θ<!-- θ --></mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>+</mo>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>E</mtext>
+</mrow>
+</msub>
+<mi>θ<!-- θ --></mi>
+<mo stretchy="false">)</mo>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {d\theta _{(t)}}{dt}}=R'(1-\theta )(1+k_{\text{E}}\theta ).}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {d\theta _{(t)}}{dt}}=R'(1-\theta )(1+k_{\text{E}}\theta ).}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a7543a853ce4530d8aa5fcfec42edb23d1f172b8" style="vertical-align: -2.005ex; width:27.81ex; height:6.009ex;"/></span></dd></dl>
+<p>Solving for Θ<sub>(<i>t</i>)</sub> yields:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \theta _{(t)}={\frac {1-e^{-R'(1+k_{\text{E}})t}}{1+k_{\text{E}}e^{-R'(1+k_{\text{E}})t}}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>θ<!-- θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<msup>
+<mi>R</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>+</mo>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>E</mtext>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mi>t</mi>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mn>1</mn>
+<mo>+</mo>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>E</mtext>
+</mrow>
+</msub>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<msup>
+<mi>R</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>+</mo>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>E</mtext>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mi>t</mi>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta _{(t)}={\frac {1-e^{-R'(1+k_{\text{E}})t}}{1+k_{\text{E}}e^{-R'(1+k_{\text{E}})t}}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \theta _{(t)}={\frac {1-e^{-R'(1+k_{\text{E}})t}}{1+k_{\text{E}}e^{-R'(1+k_{\text{E}})t}}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1708809cc2650328e4ab38f0ccec364ebce70dff" style="vertical-align: -2.671ex; width:24.619ex; height:6.676ex;"/></span></dd></dl>
+<h3><span class="mw-headline" id="Adsorption_enthalpy">Adsorption enthalpy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=7" title="Edit section: Adsorption enthalpy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Adsorption constants are <a href="/wiki/Equilibrium_constant" title="Equilibrium constant">equilibrium constants</a>, therefore they obey the <a href="/wiki/Van_%27t_Hoff_equation" title="Van 't Hoff equation">van 't Hoff equation</a>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \left({\frac {\partial \ln K}{\partial {\frac {1}{T}}}}\right)_{\theta }=-{\frac {\Delta H}{R}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>K</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>T</mi>
+</mfrac>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>θ<!-- θ --></mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>H</mi>
+</mrow>
+<mi>R</mi>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {\partial \ln K}{\partial {\frac {1}{T}}}}\right)_{\theta }=-{\frac {\Delta H}{R}}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \left({\frac {\partial \ln K}{\partial {\frac {1}{T}}}}\right)_{\theta }=-{\frac {\Delta H}{R}}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1ab4b81203bf9a91b97eb2582b9fd4515486a600" style="vertical-align: -3.505ex; width:22.007ex; height:7.843ex;"/></span></dd></dl>
+<p>As can be seen in the formula, the variation of <i>K</i> must be isosteric, that is, at constant coverage.
+If we start from the BET isotherm and assume that the entropy change is the same for liquefaction and adsorption, we obtain
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta H_{\text{ads}}=\Delta H_{\text{liq}}-RT\ln c,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>ads</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>liq</mtext>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mi>R</mi>
+<mi>T</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>c</mi>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta H_{\text{ads}}=\Delta H_{\text{liq}}-RT\ln c,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta H_{\text{ads}}=\Delta H_{\text{liq}}-RT\ln c,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/31845667799eee7e2333d14bcd50116e32b396d7" style="vertical-align: -1.005ex; width:26.072ex; height:2.843ex;"/></span></dd></dl>
+<p>that is to say, adsorption is more exothermic than liquefaction.
+</p>
+<h2><span class="mw-headline" id="Adsorbents">Adsorbents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=8" title="Edit section: Adsorbents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Characteristics_and_general_requirements">Characteristics and general requirements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=9" title="Edit section: Characteristics and general requirements">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Activated_Carbon.jpg"><img alt="" class="thumbimage" data-file-height="1740" data-file-width="2419" height="158" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Activated_Carbon.jpg/220px-Activated_Carbon.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Activated_Carbon.jpg/330px-Activated_Carbon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Activated_Carbon.jpg/440px-Activated_Carbon.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Activated_Carbon.jpg" title="Enlarge"></a></div>Activated carbon is used as an adsorbent</div></div></div>
+<p>Adsorbents are used usually in the form of spherical pellets, rods, moldings, or monoliths with a <a href="/wiki/Hydrodynamic_radius" title="Hydrodynamic radius">hydrodynamic radius</a> between 0.25 and 5 mm. They must have high <a href="/wiki/Abrasion_(mechanical)" title="Abrasion (mechanical)">abrasion</a> resistance, high <a href="/wiki/Thermal_stability" title="Thermal stability">thermal stability</a> and small pore diameters, which results in higher exposed surface area and hence high capacity for adsorption. The adsorbents must also have a distinct pore structure that enables fast transport of the gaseous vapors.
+</p><p>Most industrial adsorbents fall into one of three classes:
+</p>
+<ul><li>Oxygen-containing compounds – Are typically hydrophilic and polar, including materials such as <a href="/wiki/Silica_gel" title="Silica gel">silica gel</a> and <a class="mw-redirect" href="/wiki/Zeolites" title="Zeolites">zeolites</a>.</li>
+<li>Carbon-based compounds – Are typically hydrophobic and non-polar, including materials such as <a href="/wiki/Activated_carbon" title="Activated carbon">activated carbon</a> and <a href="/wiki/Graphite" title="Graphite">graphite</a>.</li>
+<li>Polymer-based compounds – Are polar or non-polar functional groups in a porous polymer matrix.</li></ul>
+<h3><span class="mw-headline" id="Silica_gel">Silica gel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=10" title="Edit section: Silica gel">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:THC_2003.902.070_Silica_Gel_Adsorber_for_NO2.tif"><img alt="" class="thumbimage" data-file-height="1231" data-file-width="1541" height="176" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/THC_2003.902.070_Silica_Gel_Adsorber_for_NO2.tif/lossy-page1-220px-THC_2003.902.070_Silica_Gel_Adsorber_for_NO2.tif.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/THC_2003.902.070_Silica_Gel_Adsorber_for_NO2.tif/lossy-page1-330px-THC_2003.902.070_Silica_Gel_Adsorber_for_NO2.tif.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/THC_2003.902.070_Silica_Gel_Adsorber_for_NO2.tif/lossy-page1-440px-THC_2003.902.070_Silica_Gel_Adsorber_for_NO2.tif.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:THC_2003.902.070_Silica_Gel_Adsorber_for_NO2.tif" title="Enlarge"></a></div>Silica gel adsorber for NO<sub>2</sub>, Fixed Nitrogen Research Laboratory, ca.1930s</div></div></div>
+<p><a href="/wiki/Silica_gel" title="Silica gel">Silica gel</a> is a chemically inert, nontoxic, polar and dimensionally stable (&lt; 400 °C or 750 °F) amorphous form of SiO<sub>2</sub>. It is prepared by the reaction between sodium silicate and acetic acid, which is followed by a series of after-treatment processes such as aging, pickling, etc. These after-treatment methods results in various pore size distributions.
+</p><p>Silica is used for drying of process air (e.g. oxygen, natural gas) and adsorption of heavy (polar) hydrocarbons from natural gas.
+</p>
+<h3><span class="mw-headline" id="Zeolites">Zeolites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=11" title="Edit section: Zeolites">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Zeolite" title="Zeolite">Zeolites</a> are natural or synthetic crystalline aluminosilicates, which have a repeating pore network and release water at high temperature. Zeolites are polar in nature.
+</p><p>They are manufactured by hydrothermal synthesis of sodium aluminosilicate or another silica source in an autoclave followed by ion exchange with certain cations (Na<sup>+</sup>, Li<sup>+</sup>, Ca<sup>2+</sup>, K<sup>+</sup>, NH<sub>4</sub><sup>+</sup>). The channel diameter of zeolite cages usually ranges from 2 to 9 <a class="mw-redirect" href="/wiki/Angstrom" title="Angstrom">Å</a>. The ion exchange process is followed by drying of the crystals, which can be pelletized with a binder to form macroporous pellets.
+</p><p>Zeolites are applied in drying of process air, CO<sub>2</sub> removal from natural gas, CO removal from reforming gas, air separation, <a class="mw-redirect" href="/wiki/Catalytic_cracking" title="Catalytic cracking">catalytic cracking</a>, and catalytic synthesis and reforming.
+</p><p>Non-polar (siliceous) zeolites are synthesized from aluminum-free silica sources or by dealumination of aluminum-containing zeolites. The dealumination process is done by treating the zeolite with steam at elevated temperatures, typically greater than 500 °C (930 °F). This high temperature heat treatment breaks the aluminum-oxygen bonds and the aluminum atom is expelled from the zeolite framework.
+</p>
+<h3><span class="mw-headline" id="Activated_carbon">Activated carbon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=12" title="Edit section: Activated carbon">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Activated_carbon" title="Activated carbon">Activated carbon</a> is a highly porous, amorphous solid consisting of microcrystallites with a graphite lattice, usually prepared in small pellets or a powder. It is non-polar and cheap. One of its main drawbacks is that it reacts with oxygen at moderate temperatures (over 300 °C).</p><div class="thumb tright"><div class="thumbinner" style="width:232px;"><a class="image" href="/wiki/File:Demac_isoth.jpg"><img alt="" class="thumbimage" data-file-height="712" data-file-width="928" height="176" src="//upload.wikimedia.org/wikipedia/en/thumb/5/52/Demac_isoth.jpg/230px-Demac_isoth.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/52/Demac_isoth.jpg/345px-Demac_isoth.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/52/Demac_isoth.jpg/460px-Demac_isoth.jpg 2x" width="230"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Demac_isoth.jpg" title="Enlarge"></a></div>Activated carbon nitrogen isotherm showing a marked microporous type I behavior</div></div></div>
+<p>Activated carbon can be manufactured from carbonaceous material, including coal (bituminous, subbituminous, and lignite), peat, wood, or nutshells (e.g., coconut). The manufacturing process consists of two phases, carbonization and activation. The carbonization process includes drying and then heating to separate by-products, including tars and other hydrocarbons from the raw material, as well as to drive off any gases generated. The process is completed by heating the material over 400 °C (750 °F) in an oxygen-free atmosphere that cannot support combustion. The carbonized particles are then "activated" by exposing them to an oxidizing agent, usually steam or carbon dioxide at high temperature. This agent burns off the pore blocking structures created during the carbonization phase and so, they develop a porous, three-dimensional graphite lattice structure. The size of the pores developed during activation is a function of the time that they spend in this stage. Longer exposure times result in larger pore sizes. The most popular aqueous phase carbons are bituminous based because of their hardness, abrasion resistance, pore size distribution, and low cost, but their effectiveness needs to be tested in each application to determine the optimal product.
+</p><p>Activated carbon is used for adsorption of organic substances and non-polar adsorbates and it is also usually used for waste gas (and waste water) treatment. It is the most widely used adsorbent since most of its chemical (e.g. surface groups) and physical properties (e.g. pore size distribution and surface area) can be tuned according to what is needed. Its usefulness also derives from its large micropore (and sometimes mesopore) volume and the resulting high surface area.
+</p>
+<h2><span class="mw-headline" id="Carbon_capture_and_storage">Carbon capture and storage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=13" title="Edit section: Carbon capture and storage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Typical adsorbents used in <a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">carbon capture and storage</a>  are <a href="/wiki/Zeolite" title="Zeolite">zeolites</a> and <a class="mw-redirect" href="/wiki/Metal-organic_framework" title="Metal-organic framework">MOFs</a>.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> The customization of adsorbents makes them an attractive alternative to absorption. Because adsorbents can be regenerated by temperature or pressure swing, this step can be less energy intensive than <a href="/wiki/Absorption_(chemistry)" title="Absorption (chemistry)">absorption</a> regeneration methods.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> Major problems that are present with adsorption cost in carbon capture are: regenerating the adsorbent, mass ratio, solvent/MOF, cost of adsorbent, production of the adsorbent, lifetime of adsorbent.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Protein_and_surfactant_adsorption">Protein  and surfactant adsorption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=14" title="Edit section: Protein and surfactant adsorption">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Protein_adsorption" title="Protein adsorption">Protein adsorption</a> is a process that has a fundamental role in the field of <a class="mw-redirect" href="/wiki/Biomaterials" title="Biomaterials">biomaterials</a>. Indeed, biomaterial surfaces in contact with biological media, such as blood or serum, are immediately coated by proteins. Therefore, living <a href="/wiki/Cell_(biology)" title="Cell (biology)">cells</a> do not interact directly with the biomaterial surface, but with the adsorbed proteins layer. This protein layer mediates the interaction between biomaterials and cells, translating biomaterial physical and chemical properties into a "biological language".<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> In fact, <a href="/wiki/Cell_membrane" title="Cell membrane">cell membrane</a> <a href="/wiki/Receptor_(biochemistry)" title="Receptor (biochemistry)">receptors</a> bind to protein layer bioactive sites and these receptor-protein binding events are transduced, through the cell membrane, in a manner that stimulates specific intracellular processes that then determine cell adhesion, shape, growth and differentiation. Protein adsorption is influenced by many surface properties such as surface <a href="/wiki/Wetting" title="Wetting">wettability</a>, surface chemical composition <sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> and surface nanometre-scale morphology.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>
+Surfactant adsorption is a similar phenomenon, but utilising surfactant molecules in the place of proteins.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Adsorption_chillers">Adsorption chillers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=15" title="Edit section: Adsorption chillers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Adsorption_chiller_schematic.svg"><img alt="" class="thumbimage" data-file-height="786" data-file-width="1314" height="132" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Adsorption_chiller_schematic.svg/220px-Adsorption_chiller_schematic.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Adsorption_chiller_schematic.svg/330px-Adsorption_chiller_schematic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Adsorption_chiller_schematic.svg/440px-Adsorption_chiller_schematic.svg.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Adsorption_chiller_schematic.svg" title="Enlarge"></a></div>A schematic diagram of an adsorption chiller: (1) heat is lost through evaporation of refrigerant, (2) refrigerant vapour is adsorbed onto the solid medium, (3) refrigerant is desorbed from the solid medium section not in use, (4) refrigerant is condensed and returned to the start, (5) &amp; (6) solid medium is cycled between adsorption and desorption to regenerate it.</div></div></div>
+<p>Combining an adsorbent with a refrigerant, <a href="/wiki/Adsorption_refrigeration" title="Adsorption refrigeration">adsorption chillers</a> use heat to provide a cooling effect. This heat, in the form of hot water, may come from any number of industrial sources including waste heat from industrial processes, prime heat from solar thermal installations or from the exhaust or water jacket heat of a piston engine or turbine.
+</p><p>Although there are similarities between adsorption chillers and <a href="/wiki/Absorption_refrigerator" title="Absorption refrigerator">absorption refrigeration</a>, the former is based on the interaction between gases and solids. The adsorption chamber of the chiller is filled with a solid material (for example zeolite, silica gel, alumina, active carbon or certain types of metal salts), which in its neutral state has adsorbed the refrigerant. When heated, the solid desorbs (releases) refrigerant vapour, which subsequently is cooled and liquefied. This liquid refrigerant then provides a cooling effect at the evaporator from its <a href="/wiki/Enthalpy_of_vaporization" title="Enthalpy of vaporization">enthalpy of vaporization</a>. In the final stage the refrigerant vapour is (re)adsorbed into the solid.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> As an adsorption chiller requires no compressor, it is relatively quiet.
+</p>
+<h2><span class="mw-headline" id="Portal_site_mediated_adsorption">Portal site mediated adsorption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=16" title="Edit section: Portal site mediated adsorption">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Portal site mediated adsorption is a model for site-selective activated gas adsorption in metallic catalytic systems that contain a variety of different adsorption sites. In such systems, low-coordination "edge and corner" defect-like sites can exhibit significantly lower adsorption enthalpies than high-coordination (<a class="mw-redirect" href="/wiki/Basal_plane" title="Basal plane">basal plane</a>) sites. As a result, these sites can serve as "portals" for very rapid adsorption to the rest of the surface. The phenomenon relies on the common "spillover" effect (described below), where certain adsorbed species exhibit high mobility on some surfaces. The model explains seemingly inconsistent observations of gas adsorption thermodynamics and kinetics in catalytic systems where surfaces can exist in a range of coordination structures, and it has been successfully applied to bimetallic catalytic systems where synergistic activity is observed.
+</p><p>In contrast to pure spillover, portal site adsorption refers to surface diffusion to adjacent adsorption sites, not to non-adsorptive support surfaces.
+</p><p>The model appears to have been first proposed for carbon monoxide on silica-supported platinum by Brandt <i>et al.</i> (1993).<sup class="reference" id="cite_ref-Brandt_19-0"><a href="#cite_note-Brandt-19">[19]</a></sup> A similar, but independent model was developed by King and co-workers<sup class="reference" id="cite_ref-Uner1997_20-0"><a href="#cite_note-Uner1997-20">[20]</a></sup><sup class="reference" id="cite_ref-Narayan_21-0"><a href="#cite_note-Narayan-21">[21]</a></sup><sup class="reference" id="cite_ref-Wiel_22-0"><a href="#cite_note-Wiel-22">[22]</a></sup> to describe hydrogen adsorption on silica-supported alkali promoted ruthenium, silver-ruthenium and copper-ruthenium bimetallic catalysts. The same group applied the model to CO hydrogenation (Fischer–Tropsch synthesis).<sup class="reference" id="cite_ref-Uner1998_23-0"><a href="#cite_note-Uner1998-23">[23]</a></sup> Zupanc <i>et al.</i> (2002) subsequently confirmed the same model for hydrogen adsorption on magnesia-supported caesium-ruthenium bimetallic catalysts.<sup class="reference" id="cite_ref-Zupanc_24-0"><a href="#cite_note-Zupanc-24">[24]</a></sup> Trens <i>et al.</i> (2009) have similarly described CO surface diffusion on carbon-supported Pt particles of varying morphology.<sup class="reference" id="cite_ref-Trens_25-0"><a href="#cite_note-Trens-25">[25]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Adsorption_spillover">Adsorption spillover</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=17" title="Edit section: Adsorption spillover">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the case catalytic or adsorbent systems where a metal species is dispersed upon a support (or carrier) material (often quasi-inert oxides, such as alumina or silica), it is possible for an adsorptive species to indirectly adsorb to the support surface under conditions where such adsorption is thermodynamically unfavorable. The presence of the metal serves as a lower-energy pathway for gaseous species to first adsorb to the metal and then diffuse on the support surface. This is possible because the adsorbed species attains a lower energy state once it has adsorbed to the metal, thus lowering the activation barrier between the gas phase species and the support-adsorbed species.
+</p><p><a href="/wiki/Hydrogen_spillover" title="Hydrogen spillover">Hydrogen spillover</a> is the most common example of an adsorptive spillover. In the case of hydrogen, adsorption is most often accompanied with dissociation of molecular hydrogen (H<sub>2</sub>) to atomic hydrogen (H), followed by spillover of the hydrogen atoms present.
+</p><p>The spillover effect has been used to explain many observations in <a href="/wiki/Heterogeneous_catalysis" title="Heterogeneous catalysis">heterogeneous catalysis</a> and adsorption.<sup class="reference" id="cite_ref-Rozanov_26-0"><a href="#cite_note-Rozanov-26">[26]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Polymer_adsorption">Polymer adsorption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=18" title="Edit section: Polymer adsorption">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Polymer_adsorption" title="Polymer adsorption">polymer adsorption</a></div>
+<p>Adsorption of molecules onto polymer surfaces is central to a number of applications, including development of non-stick coatings and in various biomedical devices. Polymers may also be adsorbed to surfaces through <a href="/wiki/Polyelectrolyte_adsorption" title="Polyelectrolyte adsorption">polyelectrolyte adsorption</a>.
+</p>
+<h2><span class="mw-headline" id="Adsorption_in_viruses">Adsorption in viruses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=19" title="Edit section: Adsorption in viruses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Viral_entry" title="Viral entry">Adsorption</a> is the first step in the <a href="/wiki/Viral_life_cycle" title="Viral life cycle">viral life cycle</a>. The next steps are penetration, uncoating, synthesis (transcription if needed, and translation), and release. The virus replication cycle, in this respect, is similar for all types of viruses. Factors such as transcription may or may not be needed if the virus is able to integrate its genomic information in the cell's nucleus, or if the virus can replicate itself directly within the cell's cytoplasm.
+</p>
+<h2><span class="mw-headline" id="In_popular_culture">In popular culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=20" title="Edit section: In popular culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The game of <a href="/wiki/Tetris" title="Tetris">Tetris</a> is a puzzle game in which blocks of 4 are adsorbed onto a surface during game play. Scientists have used Tetris blocks "as a proxy for molecules with a complex shape" and their "adsorption on a flat surface" for studying the <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a> of <a class="mw-redirect" href="/wiki/Nanoparticles" title="Nanoparticles">nanoparticles</a>.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup><sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=21" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Cryo-adsorption" title="Cryo-adsorption">Cryo-adsorption</a></li>
+<li><a href="/wiki/Molecular_sieve" title="Molecular sieve">Molecular sieve</a></li>
+<li><a href="/wiki/Pressure_swing_adsorption" title="Pressure swing adsorption">Pressure swing adsorption</a></li>
+<li><a href="/wiki/Micromeritics" title="Micromeritics">Micromeritics</a></li>
+<li><a href="/wiki/Kelvin_probe_force_microscope" title="Kelvin probe force microscope">Kelvin probe force microscope</a></li>
+<li><a href="/wiki/Fluidized_bed_concentrator" title="Fluidized bed concentrator">Fluidized bed concentrator</a></li>
+<li><a href="/wiki/Dual-polarization_interferometry" title="Dual-polarization interferometry">Dual-polarization interferometry</a></li>
+<li><a href="/wiki/Potential_theory_of_Polanyi" title="Potential theory of Polanyi">Polanyi adsorption</a></li>
+<li><a href="/wiki/Random_sequential_adsorption" title="Random sequential adsorption">Random sequential adsorption</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=22" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.brownfieldstsc.org/glossary.cfm?q=1" rel="nofollow">"Glossary"</a>. The Brownfields and Land Revitalization Technology Support Center<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-12-21</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Glossary&amp;rft.pub=The+Brownfields+and+Land+Revitalization+Technology+Support+Center&amp;rft_id=http%3A%2F%2Fwww.brownfieldstsc.org%2Fglossary.cfm%3Fq%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.memidex.com/absorption+chemistry" rel="nofollow">"absorption (chemistry)"</a>. <i>Memidex (WordNet) Dictionary/Thesaurus</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-11-02</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Memidex+%28WordNet%29+Dictionary%2FThesaurus&amp;rft.atitle=absorption+%28chemistry%29&amp;rft_id=http%3A%2F%2Fwww.memidex.com%2Fabsorption%2Bchemistry&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-goldbook1990-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-goldbook1990_3-0">^</a></b></span> <span class="reference-text">
+<cite class="citation journal"><a class="external text" href="http://goldbook.iupac.org/A00155.html" rel="nofollow">"Glossary of atmospheric chemistry terms (Recommendations 1990)"</a>. <i><a href="/wiki/Pure_and_Applied_Chemistry" title="Pure and Applied Chemistry">Pure and Applied Chemistry</a></i>. <b>62</b>: 2167. 1990. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1351%2Fgoldbook.A00155" rel="nofollow">10.1351/goldbook.A00155</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-9678550-9-8" title="Special:BookSources/0-9678550-9-8">0-9678550-9-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pure+and+Applied+Chemistry&amp;rft.atitle=Glossary+of+atmospheric+chemistry+terms+%28Recommendations+1990%29&amp;rft.volume=62&amp;rft.pages=2167&amp;rft.date=1990&amp;rft_id=info%3Adoi%2F10.1351%2Fgoldbook.A00155&amp;rft.isbn=0-9678550-9-8&amp;rft_id=http%3A%2F%2Fgoldbook.iupac.org%2FA00155.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ferrari, L.; Kaufmann, J.; Winnefeld, F.; Plank, J. (2010). "Interaction of cement model systems with superplasticizers investigated by atomic force microscopy, zeta potential, and adsorption measurements". <i><a href="/wiki/Journal_of_Colloid_and_Interface_Science" title="Journal of Colloid and Interface Science">J. Colloid Interface Sci.</a></i> <b>347</b> (1): 15–24. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2010JCIS..347...15F" rel="nofollow">2010JCIS..347...15F</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.jcis.2010.03.005" rel="nofollow">10.1016/j.jcis.2010.03.005</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20356605" rel="nofollow">20356605</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Colloid+Interface+Sci.&amp;rft.atitle=Interaction+of+cement+model+systems+with+superplasticizers+investigated+by+atomic+force+microscopy%2C+zeta+potential%2C+and+adsorption+measurements&amp;rft.volume=347&amp;rft.issue=1&amp;rft.pages=15-24&amp;rft.date=2010&amp;rft_id=info%3Apmid%2F20356605&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jcis.2010.03.005&amp;rft_id=info%3Abibcode%2F2010JCIS..347...15F&amp;rft.aulast=Ferrari&amp;rft.aufirst=L.&amp;rft.au=Kaufmann%2C+J.&amp;rft.au=Winnefeld%2C+F.&amp;rft.au=Plank%2C+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">2.Czelej, K., Cwieka, K., Kurzydlowski, K. J., CO<sub>2</sub> stability on the Ni low-index surfaces: Van der Waals corrected DFT analysis, Catalysis Communications 2016, 80 p. 33–38.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Czelej K., Cwieka K., Colmenares J. C., Kurzydlowski K. J. Insight on the Interaction of Methanol-Selective Oxidation Intermediates with Au- or/and Pd-Containing Monometallic and Bimetallic Core@Shell Catalysts, Langmuir 2016 32 (30), p. 7493–7502.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+<cite class="citation journal">Kayser, Heinrich (1881). <a class="external text" href="https://books.google.com/books?id=ZxVbAAAAYAAJ&amp;pg=PA526#v=onepage&amp;q&amp;f=false" rel="nofollow">"Über die Verdichtung von Gasen an Oberflächen in ihrer Abhängigkeit von Druck und Temperatur"</a>. <i>Annalen der Physik und Chemie</i>. <b>248</b> (4): 526–537. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1881AnP...248..526K" rel="nofollow">1881AnP...248..526K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fandp.18812480404" rel="nofollow">10.1002/andp.18812480404</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annalen+der+Physik+und+Chemie&amp;rft.atitle=%C3%9Cber+die+Verdichtung+von+Gasen+an+Oberfl%C3%A4chen+in+ihrer+Abh%C3%A4ngigkeit+von+Druck+und+Temperatur&amp;rft.volume=248&amp;rft.issue=4&amp;rft.pages=526-537&amp;rft.date=1881&amp;rft_id=info%3Adoi%2F10.1002%2Fandp.18812480404&amp;rft_id=info%3Abibcode%2F1881AnP...248..526K&amp;rft.aulast=Kayser&amp;rft.aufirst=Heinrich&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DZxVbAAAAYAAJ%26pg%3DPA526%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/>.  In this study of the adsorption of gases by charcoal, the first use of the word "adsorption" appears on page 527:  <i lang="de" title="German language text">"Schon Saussure kannte die beiden für die Grösse der Adsorption massgebenden Factoren, den Druck und die Temperatur, da er Erniedrigung des Druckes oder Erhöhung der Temperatur zur Befreiung der porösen Körper von Gasen benutzte."</i>  (Saussaure already knew the two factors that determine the quantity of adsorption – [namely,] the pressure and temperature – since he used the lowering of the pressure or the raising of the temperature to free the porous substances of gases.)</span>
+</li>
+<li id="cite_note-FooHameed2010-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-FooHameed2010_8-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Foo, K. Y.; Hameed, B. H. (2010). "Insights into the modeling of adsorption isotherm systems". <i>Chemical Engineering Journal</i>. <b>156</b> (1): 2–10. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.cej.2009.09.013" rel="nofollow">10.1016/j.cej.2009.09.013</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1385-8947" rel="nofollow">1385-8947</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemical+Engineering+Journal&amp;rft.atitle=Insights+into+the+modeling+of+adsorption+isotherm+systems&amp;rft.volume=156&amp;rft.issue=1&amp;rft.pages=2-10&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1016%2Fj.cej.2009.09.013&amp;rft.issn=1385-8947&amp;rft.aulast=Foo&amp;rft.aufirst=K.+Y.&amp;rft.au=Hameed%2C+B.+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Langmuir-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Langmuir_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Czepirski, L.; Balys, M. R.; Komorowska-Czepirska, E. (2000). <a class="external text" href="http://www.yumpu.com/en/document/view/5463272/article-14-some-generalization-of-langmuir-adsorption-isotherm-agh" rel="nofollow">"Some generalization of Langmuir adsorption isotherm"</a>. <i>Internet Journal of Chemistry</i>. <b>3</b> (14). <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1099-8292" rel="nofollow">1099-8292</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Internet+Journal+of+Chemistry&amp;rft.atitle=Some+generalization+of+Langmuir+adsorption+isotherm&amp;rft.volume=3&amp;rft.issue=14&amp;rft.date=2000&amp;rft.issn=1099-8292&amp;rft.aulast=Czepirski&amp;rft.aufirst=L.&amp;rft.au=Balys%2C+M.+R.&amp;rft.au=Komorowska-Czepirska%2C+E.&amp;rft_id=http%3A%2F%2Fwww.yumpu.com%2Fen%2Fdocument%2Fview%2F5463272%2Farticle-14-some-generalization-of-langmuir-adsorption-isotherm-agh&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Kisliuk-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kisliuk_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kisliuk, P. (1957). "The sticking probabilities of gases chemisorbed on the surfaces of solids". <i>Journal of Physics and Chemistry of Solids</i>. <b>3</b> (1–2): 95–101. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1957JPCS....3...95K" rel="nofollow">1957JPCS....3...95K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0022-3697%2857%2990054-9" rel="nofollow">10.1016/0022-3697(57)90054-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Physics+and+Chemistry+of+Solids&amp;rft.atitle=The+sticking+probabilities+of+gases+chemisorbed+on+the+surfaces+of+solids&amp;rft.volume=3&amp;rft.issue=1%E2%80%932&amp;rft.pages=95-101&amp;rft.date=1957&amp;rft_id=info%3Adoi%2F10.1016%2F0022-3697%2857%2990054-9&amp;rft_id=info%3Abibcode%2F1957JPCS....3...95K&amp;rft.aulast=Kisliuk&amp;rft.aufirst=P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Berend, Smit; Reimer, Jeffery A; Oldenburg, Curtis M; Bourg, Ian C (2014). <i>Introduction to carbon capture and sequestration</i>. London: Imperial College Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9781306496834" title="Special:BookSources/9781306496834">9781306496834</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction+to+carbon+capture+and+sequestration&amp;rft.place=London&amp;rft.pub=Imperial+College+Press&amp;rft.date=2014&amp;rft.isbn=9781306496834&amp;rft.aulast=Berend&amp;rft.aufirst=Smit&amp;rft.au=Reimer%2C+Jeffery+A&amp;rft.au=Oldenburg%2C+Curtis+M&amp;rft.au=Bourg%2C+Ian+C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">D'Alessandro, Deanna M.; Smit, Berend; Long, Jeffrey R. (2010-08-16). <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/anie.201000431/abstract" rel="nofollow">"Carbon Dioxide Capture: Prospects for New Materials"</a>. <i>Angewandte Chemie International Edition</i>. <b>49</b> (35): 6058–6082. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fanie.201000431" rel="nofollow">10.1002/anie.201000431</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1521-3773" rel="nofollow">1521-3773</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Angewandte+Chemie+International+Edition&amp;rft.atitle=Carbon+Dioxide+Capture%3A+Prospects+for+New+Materials&amp;rft.volume=49&amp;rft.issue=35&amp;rft.pages=6058-6082&amp;rft.date=2010-08-16&amp;rft_id=info%3Adoi%2F10.1002%2Fanie.201000431&amp;rft.issn=1521-3773&amp;rft.aulast=D%27Alessandro&amp;rft.aufirst=Deanna+M.&amp;rft.au=Smit%2C+Berend&amp;rft.au=Long%2C+Jeffrey+R.&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2Fanie.201000431%2Fabstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sathre, Roger; Masanet, Eric (2013-03-18). <a class="external text" href="http://pubs.rsc.org/en/content/articlepdf/2013/ra/c3ra40265g" rel="nofollow">"Prospective life-cycle modeling of a carbon capture and storage system using metal–organic frameworks for CO2 capture"</a>. <i>RSC Advances</i>. <b>3</b> (15). <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1039%2FC3RA40265G" rel="nofollow">10.1039/C3RA40265G</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/2046-2069" rel="nofollow">2046-2069</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=RSC+Advances&amp;rft.atitle=Prospective+life-cycle+modeling+of+a+carbon+capture+and+storage+system+using+metal%E2%80%93organic+frameworks+for+CO2+capture&amp;rft.volume=3&amp;rft.issue=15&amp;rft.date=2013-03-18&amp;rft_id=info%3Adoi%2F10.1039%2FC3RA40265G&amp;rft.issn=2046-2069&amp;rft.aulast=Sathre&amp;rft.aufirst=Roger&amp;rft.au=Masanet%2C+Eric&amp;rft_id=http%3A%2F%2Fpubs.rsc.org%2Fen%2Fcontent%2Farticlepdf%2F2013%2Fra%2Fc3ra40265g&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wilson, CJ; Clegg, RE; Leavesley, DI; Pearcy, MJ (2005). "Mediation of Biomaterial-Cell Interactions by Adsorbed Proteins: A Review". <i>Tissue engineering</i>. <b>11</b> (1): 1–18. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1089%2Ften.2005.11.1" rel="nofollow">10.1089/ten.2005.11.1</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15738657" rel="nofollow">15738657</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Tissue+engineering&amp;rft.atitle=Mediation+of+Biomaterial-Cell+Interactions+by+Adsorbed+Proteins%3A+A+Review&amp;rft.volume=11&amp;rft.issue=1&amp;rft.pages=1-18&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1089%2Ften.2005.11.1&amp;rft_id=info%3Apmid%2F15738657&amp;rft.aulast=Wilson&amp;rft.aufirst=CJ&amp;rft.au=Clegg%2C+RE&amp;rft.au=Leavesley%2C+DI&amp;rft.au=Pearcy%2C+MJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sivaraman B.; Fears K.P.; Latour R.A. (2009). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2891683" rel="nofollow">"Investigation of the effects of surface chemistry and solution concentration on the conformation of adsorbed proteins using an improved circular dichroism method"</a>. <i>Langmuir</i>. <b>25</b> (5): 3050–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fla8036814" rel="nofollow">10.1021/la8036814</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2891683" rel="nofollow">2891683</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19437712" rel="nofollow">19437712</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Langmuir&amp;rft.atitle=Investigation+of+the+effects+of+surface+chemistry+and+solution+concentration+on+the+conformation+of+adsorbed+proteins+using+an+improved+circular+dichroism+method&amp;rft.volume=25&amp;rft.issue=5&amp;rft.pages=3050-6&amp;rft.date=2009&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2891683&amp;rft_id=info%3Apmid%2F19437712&amp;rft_id=info%3Adoi%2F10.1021%2Fla8036814&amp;rft.au=Sivaraman+B.&amp;rft.au=Fears+K.P.&amp;rft.au=Latour+R.A.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2891683&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Scopelliti, Pasquale Emanuele; Borgonovo, Antonio; Indrieri, Marco; Giorgetti, Luca; Bongiorno, Gero; Carbone, Roberta; Podestà, Alessandro; Milani, Paolo (2010).  Zhang, Shuguang, ed. <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2912332" rel="nofollow">"The effect of surface nanometre-scale morphology on protein adsorption"</a>. <i><a class="mw-redirect" href="/wiki/PLoS_ONE" title="PLoS ONE">PLoS ONE</a></i>. <b>5</b> (7): e11862. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2010PLoSO...511862S" rel="nofollow">2010PLoSO...511862S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1371%2Fjournal.pone.0011862" rel="nofollow">10.1371/journal.pone.0011862</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2912332" rel="nofollow">2912332</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20686681" rel="nofollow">20686681</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PLoS+ONE&amp;rft.atitle=The+effect+of+surface+nanometre-scale+morphology+on+protein+adsorption&amp;rft.volume=5&amp;rft.issue=7&amp;rft.pages=e11862&amp;rft.date=2010&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2912332&amp;rft_id=info%3Apmid%2F20686681&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pone.0011862&amp;rft_id=info%3Abibcode%2F2010PLoSO...511862S&amp;rft.aulast=Scopelliti&amp;rft.aufirst=Pasquale+Emanuele&amp;rft.au=Borgonovo%2C+Antonio&amp;rft.au=Indrieri%2C+Marco&amp;rft.au=Giorgetti%2C+Luca&amp;rft.au=Bongiorno%2C+Gero&amp;rft.au=Carbone%2C+Roberta&amp;rft.au=Podest%C3%A0%2C+Alessandro&amp;rft.au=Milani%2C+Paolo&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2912332&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Cheraghian, Goshtasp (2017). "Evaluation of Clay and Fumed Silica Nanoparticles on Adsorption of Surfactant Polymer during Enhanced Oil Recovery". <i>Journal of the Japan Petroleum Institute</i>. <b>60</b> (2): 85–94. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1627%2Fjpi.60.85" rel="nofollow">10.1627/jpi.60.85</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+Japan+Petroleum+Institute&amp;rft.atitle=Evaluation+of+Clay+and+Fumed+Silica+Nanoparticles+on+Adsorption+of+Surfactant+Polymer+during+Enhanced+Oil+Recovery&amp;rft.volume=60&amp;rft.issue=2&amp;rft.pages=85-94&amp;rft.date=2017&amp;rft_id=info%3Adoi%2F10.1627%2Fjpi.60.85&amp;rft.aulast=Cheraghian&amp;rft.aufirst=Goshtasp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation book">Pilatowsky, I.; Romero, R.J.; Isaza, C.A.; Gamboa, S.A.; Sebastian, P.J.; Rivera, W. (2011). "Chapter 5: Sorption Refrigeration Systems". <a class="external text" href="http://www.springerlink.com/content/lp0v4lt01h5040p2/" rel="nofollow"><i>Cogeneration Fuel Cell-Sorption Air Conditioning Systems</i></a>. Green Energy and Technology. Springer. pp. 99, 100. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-84996-027-4" title="Special:BookSources/978-1-84996-027-4">978-1-84996-027-4</a><span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Chapter+5%3A+Sorption+Refrigeration+Systems&amp;rft.btitle=Cogeneration+Fuel+Cell-Sorption+Air+Conditioning+Systems&amp;rft.series=Green+Energy+and+Technology&amp;rft.pages=99%2C+100&amp;rft.pub=Springer&amp;rft.date=2011&amp;rft.isbn=978-1-84996-027-4&amp;rft.aulast=Pilatowsky&amp;rft.aufirst=I.&amp;rft.au=Romero%2C+R.J.&amp;rft.au=Isaza%2C+C.A.&amp;rft.au=Gamboa%2C+S.A.&amp;rft.au=Sebastian%2C+P.J.&amp;rft.au=Rivera%2C+W.&amp;rft_id=http%3A%2F%2Fwww.springerlink.com%2Fcontent%2Flp0v4lt01h5040p2%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Brandt-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Brandt_19-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Brandt, R. K.; Hughes, M. R.; Bourget, L. P.; Truszkowska, K.; Greenler, R. G. (1993). "The interpretation of CO adsorbed on Pt/SiO<sub>2</sub> of two different particle-size distributions". <i>Surface Science</i>. <b>286</b> (1–2): 15–25. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1993SurSc.286...15B" rel="nofollow">1993SurSc.286...15B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0039-6028%2893%2990552-U" rel="nofollow">10.1016/0039-6028(93)90552-U</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Surface+Science&amp;rft.atitle=The+interpretation+of+CO+adsorbed+on+Pt%2FSiO%3Csub%3E2%3C%2Fsub%3E+of+two+different+particle-size+distributions&amp;rft.volume=286&amp;rft.issue=1%E2%80%932&amp;rft.pages=15-25&amp;rft.date=1993&amp;rft_id=info%3Adoi%2F10.1016%2F0039-6028%2893%2990552-U&amp;rft_id=info%3Abibcode%2F1993SurSc.286...15B&amp;rft.aulast=Brandt&amp;rft.aufirst=R.+K.&amp;rft.au=Hughes%2C+M.+R.&amp;rft.au=Bourget%2C+L.+P.&amp;rft.au=Truszkowska%2C+K.&amp;rft.au=Greenler%2C+R.+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Uner1997-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Uner1997_20-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Uner, D. O.; Savargoankar, N.; Pruski, M.; King, T. S. (1997). "The effects of alkali promoters on the dynamics of hydrogen chemisorption and syngas reaction kinetics on Ru/SiO<sub>2</sub> catalysts". <i>Studies in Surface Science and Catalysis</i>. Studies in Surface Science and Catalysis. <b>109</b>: 315–324. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0167-2991%2897%2980418-1" rel="nofollow">10.1016/S0167-2991(97)80418-1</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780444826091" title="Special:BookSources/9780444826091">9780444826091</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Studies+in+Surface+Science+and+Catalysis&amp;rft.atitle=The+effects+of+alkali+promoters+on+the+dynamics+of+hydrogen+chemisorption+and+syngas+reaction+kinetics+on+Ru%2FSiO%3Csub%3E2%3C%2Fsub%3E+catalysts&amp;rft.volume=109&amp;rft.pages=315-324&amp;rft.date=1997&amp;rft_id=info%3Adoi%2F10.1016%2FS0167-2991%2897%2980418-1&amp;rft.isbn=9780444826091&amp;rft.aulast=Uner&amp;rft.aufirst=D.+O.&amp;rft.au=Savargoankar%2C+N.&amp;rft.au=Pruski%2C+M.&amp;rft.au=King%2C+T.+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Narayan-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Narayan_21-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Narayan, R. L.; King, T. S. (1998). "Hydrogen adsorption states on silica-supported Ru-Ag and Ru-Cu bimetallic catalysts investigated via microcalorimetry". <i>Thermochimica Acta</i>. <b>312</b> (1–2): 105–114. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0040-6031%2897%2900444-9" rel="nofollow">10.1016/S0040-6031(97)00444-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Thermochimica+Acta&amp;rft.atitle=Hydrogen+adsorption+states+on+silica-supported+Ru-Ag+and+Ru-Cu+bimetallic+catalysts+investigated+via+microcalorimetry&amp;rft.volume=312&amp;rft.issue=1%E2%80%932&amp;rft.pages=105-114&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1016%2FS0040-6031%2897%2900444-9&amp;rft.aulast=Narayan&amp;rft.aufirst=R.+L.&amp;rft.au=King%2C+T.+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Wiel-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wiel_22-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">VanderWiel, D. P.; Pruski, M.; King, T. S. (1999). "A Kinetic Study of the Adsorption and Reaction of Hydrogen on Silica-Supported Ruthenium and Silver-Ruthenium Bimetallic Catalysts during the Hydrogenation of Carbon Monoxide". <i>Journal of Catalysis</i>. <b>188</b> (1): 186–202. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1006%2Fjcat.1999.2646" rel="nofollow">10.1006/jcat.1999.2646</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Catalysis&amp;rft.atitle=A+Kinetic+Study+of+the+Adsorption+and+Reaction+of+Hydrogen+on+Silica-Supported+Ruthenium+and+Silver-Ruthenium+Bimetallic+Catalysts+during+the+Hydrogenation+of+Carbon+Monoxide&amp;rft.volume=188&amp;rft.issue=1&amp;rft.pages=186-202&amp;rft.date=1999&amp;rft_id=info%3Adoi%2F10.1006%2Fjcat.1999.2646&amp;rft.aulast=VanderWiel&amp;rft.aufirst=D.+P.&amp;rft.au=Pruski%2C+M.&amp;rft.au=King%2C+T.+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Uner1998-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Uner1998_23-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Uner, D. O. (1998). "A sensible mechanism of alkali promotion in Fischer Tropsch synthesis:Adsorbate mobilities". <i>Industrial and Engineering Chemistry Research</i>. <b>37</b> (6): 2239–2245. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fie970696d" rel="nofollow">10.1021/ie970696d</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Industrial+and+Engineering+Chemistry+Research&amp;rft.atitle=A+sensible+mechanism+of+alkali+promotion+in+Fischer+Tropsch+synthesis%3AAdsorbate+mobilities&amp;rft.volume=37&amp;rft.issue=6&amp;rft.pages=2239-2245&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1021%2Fie970696d&amp;rft.aulast=Uner&amp;rft.aufirst=D.+O.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Zupanc-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Zupanc_24-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zupanc, C.; Hornung, A.; Hinrichsen, O.; Muhler, M. (2002). "The Interaction of Hydrogen with Ru/MgO Catalysts". <i>Journal of Catalysis</i>. <b>209</b> (2): 501–514. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1006%2Fjcat.2002.3647" rel="nofollow">10.1006/jcat.2002.3647</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Catalysis&amp;rft.atitle=The+Interaction+of+Hydrogen+with+Ru%2FMgO+Catalysts&amp;rft.volume=209&amp;rft.issue=2&amp;rft.pages=501-514&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1006%2Fjcat.2002.3647&amp;rft.aulast=Zupanc&amp;rft.aufirst=C.&amp;rft.au=Hornung%2C+A.&amp;rft.au=Hinrichsen%2C+O.&amp;rft.au=Muhler%2C+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Trens-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Trens_25-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Trens, P.; Durand, R.; Coq, B.; Coutanceau, C.; Rousseau, S.; Lamy, C. (2009). "Poisoning of Pt/C catalysts by CO and its consequences over the kinetics of hydrogen chemisorption". <i>Applied Catalysis B: Environmental</i>. <b>92</b> (3–4): 280–284. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.apcatb.2009.08.004" rel="nofollow">10.1016/j.apcatb.2009.08.004</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Applied+Catalysis+B%3A+Environmental&amp;rft.atitle=Poisoning+of+Pt%2FC+catalysts+by+CO+and+its+consequences+over+the+kinetics+of+hydrogen+chemisorption&amp;rft.volume=92&amp;rft.issue=3%E2%80%934&amp;rft.pages=280-284&amp;rft.date=2009&amp;rft_id=info%3Adoi%2F10.1016%2Fj.apcatb.2009.08.004&amp;rft.aulast=Trens&amp;rft.aufirst=P.&amp;rft.au=Durand%2C+R.&amp;rft.au=Coq%2C+B.&amp;rft.au=Coutanceau%2C+C.&amp;rft.au=Rousseau%2C+S.&amp;rft.au=Lamy%2C+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Rozanov-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rozanov_26-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rozanov, V. V.; Krylov, O. V. (1997). "Hydrogen spillover in heterogeneous catalysis". <i>Russian Chemical Reviews</i>. <b>66</b> (2): 107–119. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1997RuCRv..66..107R" rel="nofollow">1997RuCRv..66..107R</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1070%2FRC1997v066n02ABEH000308" rel="nofollow">10.1070/RC1997v066n02ABEH000308</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Russian+Chemical+Reviews&amp;rft.atitle=Hydrogen+spillover+in+heterogeneous+catalysis&amp;rft.volume=66&amp;rft.issue=2&amp;rft.pages=107-119&amp;rft.date=1997&amp;rft_id=info%3Adoi%2F10.1070%2FRC1997v066n02ABEH000308&amp;rft_id=info%3Abibcode%2F1997RuCRv..66..107R&amp;rft.aulast=Rozanov&amp;rft.aufirst=V.+V.&amp;rft.au=Krylov%2C+O.+V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a class="external text" href="https://arstechnica.com/science/news/2009/05/the-thermodynamics-of-tetris.ars" rel="nofollow">The Thermodynamics of Tetiris</a>, Ars Technica, 2009.</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation journal">Barnes, Brian C.; Siderius, Daniel W.; Gelb, Lev D. (2009). "Structure, Thermodynamics, and Solubility in Tetromino Fluids". <i>Langmuir</i>. <b>25</b> (12): 6702–16. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fla900196b" rel="nofollow">10.1021/la900196b</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19397254" rel="nofollow">19397254</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Langmuir&amp;rft.atitle=Structure%2C+Thermodynamics%2C+and+Solubility+in+Tetromino+Fluids&amp;rft.volume=25&amp;rft.issue=12&amp;rft.pages=6702-16&amp;rft.date=2009&amp;rft_id=info%3Adoi%2F10.1021%2Fla900196b&amp;rft_id=info%3Apmid%2F19397254&amp;rft.aulast=Barnes&amp;rft.aufirst=Brian+C.&amp;rft.au=Siderius%2C+Daniel+W.&amp;rft.au=Gelb%2C+Lev+D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=23" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r853264625">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
+<ul><li><cite class="citation book">Cussler, E. L. (1997). <i>Diffusion: Mass Transfer in Fluid Systems</i> (2nd ed.). New York: Cambridge University Press. pp. 308–330. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-521-45078-0" title="Special:BookSources/0-521-45078-0">0-521-45078-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Diffusion%3A+Mass+Transfer+in+Fluid+Systems&amp;rft.place=New+York&amp;rft.pages=308-330&amp;rft.edition=2nd&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1997&amp;rft.isbn=0-521-45078-0&amp;rft.aulast=Cussler&amp;rft.aufirst=E.+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdsorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Adsorption&amp;action=edit&amp;section=24" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/adsorption" title="wiktionary:Special:Search/adsorption">adsorption</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<link href="mw-data:TemplateStyles:r853264625" rel="mw-deduplicated-inline-style"/><div class="refbegin" style="">
+<ul><li><a class="external text" href="http://www.jhu.edu/%7Echem/fairbr/OLDS/derive.html" rel="nofollow">Derivation of Langmuir and BET isotherms</a>, at JHU.edu</li>
+<li><a class="external text" href="https://web.archive.org/web/20090105233739/http://www.megtec.com/solvent-recovery-carbon-adsorption-p-685-l-en.html" rel="nofollow">Carbon Adsorption</a>, at MEGTEC.com</li></ul>
+</div>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q180254&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q180254&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q180254" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4000536-7" rel="nofollow">4000536-7</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00567353" rel="nofollow">00567353</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2188
+Cached time: 20181010111644
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.740 seconds
+Real time usage: 0.946 seconds
+Preprocessor visited node count: 2143/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 63674/2097152 bytes
+Template argument size: 1973/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 80462/5000000 bytes
+Number of Wikibase entities loaded: 5/400
+Lua time usage: 0.434/10.000 seconds
+Lua memory usage: 16.38 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  708.219      1 -total
+ 67.68%  479.333      1 Template:Reflist
+ 25.17%  178.277     21 Template:Cite_journal
+ 24.36%  172.546      1 Template:Lang
+  7.54%   53.390      2 Template:Cite_web
+  6.54%   46.306      1 Template:Citation_needed
+  5.89%   41.714      1 Template:Fix
+  5.35%   37.908      1 Template:Authority_control
+  3.89%   27.533      3 Template:Convert
+  3.49%   24.690      1 Template:Distinguish
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:207601-0!canonical!math=5 and timestamp 20181010111643 and revision id 862500222
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Adsorption&amp;oldid=862500222">https://en.wikipedia.org/w/index.php?title=Adsorption&amp;oldid=862500222</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surface_science" title="Category:Surface science">Surface science</a></li><li><a href="/wiki/Category:Materials_science" title="Category:Materials science">Materials science</a></li><li><a href="/wiki/Category:Chemical_processes" title="Category:Chemical processes">Chemical processes</a></li><li><a href="/wiki/Category:Colloidal_chemistry" title="Category:Colloidal chemistry">Colloidal chemistry</a></li><li><a href="/wiki/Category:Catalysis" title="Category:Catalysis">Catalysis</a></li><li><a href="/wiki/Category:Gases" title="Category:Gases">Gases</a></li><li><a href="/wiki/Category:Gas_technologies" title="Category:Gas technologies">Gas technologies</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2013" title="Category:Articles with unsourced statements from November 2013">Articles with unsourced statements from November 2013</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Adsorption" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Adsorption" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Adsorption" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Adsorption" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Adsorption">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Adsorption&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Adsorption&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Adsorption" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Adsorption" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Adsorption&amp;oldid=862500222" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Adsorption&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q180254" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Adsorption&amp;id=862500222" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Adsorption">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Adsorption&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Adsorption&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Adsorption" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%85%D8%AA%D8%B2%D8%A7%D8%B2" hreflang="ar" lang="ar" title="امتزاز – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Adsorci%C3%B3n" hreflang="ast" lang="ast" title="Adsorción – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%90%D0%B4%D1%81%D0%BE%D1%80%D0%B1%D1%86%D1%8B%D1%8F" hreflang="be" lang="be" title="Адсорбцыя – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%90%D0%B4%D1%81%D0%BE%D1%80%D0%B1%D1%86%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Адсорбция – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Adsorpcija" hreflang="bs" lang="bs" title="Adsorpcija – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Adsorci%C3%B3" hreflang="ca" lang="ca" title="Adsorció – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Adsorpce" hreflang="cs" lang="cs" title="Adsorpce – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Adsorption" hreflang="da" lang="da" title="Adsorption – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Adsorption" hreflang="de" lang="de" title="Adsorption – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Adsorptsioon" hreflang="et" lang="et" title="Adsorptsioon – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Adsorci%C3%B3n" hreflang="es" lang="es" title="Adsorción – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Alsorbo" hreflang="eo" lang="eo" title="Alsorbo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AC%D8%B0%D8%A8_%D8%B3%D8%B7%D8%AD%DB%8C" hreflang="fa" lang="fa" title="جذب سطحی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Adsorption" hreflang="fr" lang="fr" title="Adsorption – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/As%C3%BAch%C3%A1n" hreflang="ga" lang="ga" title="Asúchán – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Adsorci%C3%B3n" hreflang="gl" lang="gl" title="Adsorción – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%9D%A1%EC%B0%A9" hreflang="ko" lang="ko" title="흡착 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B1%D5%A4%D5%BD%D5%B8%D6%80%D5%A2%D5%B8%D6%82%D5%B4" hreflang="hy" lang="hy" title="Ադսորբում – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%B6%E0%A5%8B%E0%A4%B7%E0%A4%A3" hreflang="hi" lang="hi" title="अधिशोषण – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Adsorpcija" hreflang="hr" lang="hr" title="Adsorpcija – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Adsorpsi" hreflang="id" lang="id" title="Adsorpsi – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Adsorbimento" hreflang="it" lang="it" title="Adsorbimento – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A1%D7%A4%D7%99%D7%97%D7%94" hreflang="he" lang="he" title="ספיחה – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%90%D0%B4%D1%81%D0%BE%D1%80%D0%B1%D1%86%D0%B8%D1%8F" hreflang="kk" lang="kk" title="Адсорбция – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%90%D0%B4%D1%81%D0%BE%D1%80%D0%B1%D1%86%D0%B8%D1%8F" hreflang="ky" lang="ky" title="Адсорбция – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Adsorbcija" hreflang="lt" lang="lt" title="Adsorbcija – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Adszorpci%C3%B3" hreflang="hu" lang="hu" title="Adszorpció – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%A7%E0%B4%BF%E0%B4%B6%E0%B5%8B%E0%B4%B7%E0%B4%A3%E0%B4%82" hreflang="ml" lang="ml" title="അധിശോഷണം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Penjerapan" hreflang="ms" lang="ms" title="Penjerapan – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Adsorptie" hreflang="nl" lang="nl" title="Adsorptie – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%90%B8%E7%9D%80" hreflang="ja" lang="ja" title="吸着 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Adsorpsjon" hreflang="no" lang="no" title="Adsorpsjon – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Adsorpsjon" hreflang="nn" lang="nn" title="Adsorpsjon – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Adsorbsiya" hreflang="uz" lang="uz" title="Adsorbsiya – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pcd"><a class="interlanguage-link-target" href="https://pcd.wikipedia.org/wiki/Adso%C3%A9rpchon" hreflang="pcd" lang="pcd" title="Adsoérpchon – Picard">Picard</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Adsorpcja" hreflang="pl" lang="pl" title="Adsorpcja – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Adsor%C3%A7%C3%A3o" hreflang="pt" lang="pt" title="Adsorção – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Adsorb%C8%9Bie" hreflang="ro" lang="ro" title="Adsorbție – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D1%81%D0%BE%D1%80%D0%B1%D1%86%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Адсорбция – Russian">Русский</a></li><li class="interlanguage-link interwiki-si"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%85%E0%B6%B0%E0%B7%92%E0%B7%81%E0%B7%9D%E0%B7%82%E0%B6%AB%E0%B6%BA" hreflang="si" lang="si" title="අධිශෝෂණය – Sinhala">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Adsorption" hreflang="simple" lang="simple" title="Adsorption – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Adsorpcia" hreflang="sk" lang="sk" title="Adsorpcia – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Adsorpcija" hreflang="sr" lang="sr" title="Adsorpcija – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Adsorpcija" hreflang="sh" lang="sh" title="Adsorpcija – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Adsorptio" hreflang="fi" lang="fi" title="Adsorptio – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Adsorption" hreflang="sv" lang="sv" title="Adsorption – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%B0%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%B5%E0%AE%B0%E0%AF%8D%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF" hreflang="ta" lang="ta" title="பரப்புக் கவர்ச்சி – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%85%E0%B0%A7%E0%B0%BF%E0%B0%B6%E0%B1%8B%E0%B0%B7%E0%B0%A3%E0%B0%82" hreflang="te" lang="te" title="అధిశోషణం – Telugu">తెలుగు</a></li><li class="interlanguage-link interwiki-tg"><a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/%D0%90%D0%B4%D1%81%D0%BE%D1%80%D0%B1%D1%81%D0%B8%D1%8F" hreflang="tg" lang="tg" title="Адсорбсия – Tajik">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%90%D0%B4%D1%81%D0%BE%D1%80%D0%B1%D1%86%D1%96%D1%8F" hreflang="uk" lang="uk" title="Адсорбція – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/H%E1%BA%A5p_ph%E1%BB%A5" hreflang="vi" lang="vi" title="Hấp phụ – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%90%B8%E9%99%84" hreflang="zh" lang="zh" title="吸附 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q180254#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 4 October 2018, at 19:49<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Adsorption&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.740","walltime":"0.946","ppvisitednodes":{"value":2143,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":63674,"limit":2097152},"templateargumentsize":{"value":1973,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":80462,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00%  708.219      1 -total"," 67.68%  479.333      1 Template:Reflist"," 25.17%  178.277     21 Template:Cite_journal"," 24.36%  172.546      1 Template:Lang","  7.54%   53.390      2 Template:Cite_web","  6.54%   46.306      1 Template:Citation_needed","  5.89%   41.714      1 Template:Fix","  5.35%   37.908      1 Template:Authority_control","  3.89%   27.533      3 Template:Convert","  3.49%   24.690      1 Template:Distinguish"]},"scribunto":{"limitreport-timeusage":{"value":"0.434","limit":"10.000"},"limitreport-memusage":{"value":17171545,"limit":52428800}},"cachereport":{"origin":"mw2188","timestamp":"20181010111644","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1037,"wgHostname":"mw2188"});});</script>
+</body>
+</html>

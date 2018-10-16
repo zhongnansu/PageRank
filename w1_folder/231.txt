@@ -1,0 +1,858 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Ligand - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ligand","wgTitle":"Ligand","wgCurRevisionId":861780411,"wgRevisionId":861780411,"wgArticleId":18589,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from July 2012","Commons category with page title different than on Wikidata","Ligands","Coordination chemistry","Chemical bonding","Chelating agents"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ligand","wgRelevantArticleId":18589,"wgRequestId":"W7UeqArAADIAAFfp1uYAAAAF","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q193161","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.23" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/4/41/HCo%28CO%294-3D-balls.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ligand" rel="alternate"/>
+<link href="/w/index.php?title=Ligand&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Ligand&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Ligand" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ligand rootpage-Ligand skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Ligand</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about ligands in inorganic chemistry. For ligands in biochemistry, see <a href="/wiki/Ligand_(biochemistry)" title="Ligand (biochemistry)">Ligand (biochemistry)</a>. For other uses, see <a class="mw-disambig" href="/wiki/Ligand_(disambiguation)" title="Ligand (disambiguation)">Ligand (disambiguation)</a>.</div>
+<p class="mw-empty-elt">
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:182px;"><a class="image" href="/wiki/File:HCo(CO)4-3D-balls.png"><img alt="" class="thumbimage" data-file-height="995" data-file-width="1100" height="163" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/HCo%28CO%294-3D-balls.png/180px-HCo%28CO%294-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/HCo%28CO%294-3D-balls.png/270px-HCo%28CO%294-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/HCo%28CO%294-3D-balls.png/360px-HCo%28CO%294-3D-balls.png 2x" width="180"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:HCo(CO)4-3D-balls.png" title="Enlarge"></a></div>Cobalt complex <a href="/wiki/Cobalt_tetracarbonyl_hydride" title="Cobalt tetracarbonyl hydride">HCo(CO)<sub>4</sub></a> with five ligands</div></div></div>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/ligand" title="wiktionary:Special:Search/ligand">ligand</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<p>In <a class="mw-redirect" href="/wiki/Coordination_chemistry" title="Coordination chemistry">coordination chemistry</a>, a <b>ligand</b><sup class="reference" id="cite_ref-help_1-0"><a href="#cite_note-help-1">[help 1]</a></sup> is an <a href="/wiki/Ion" title="Ion">ion</a> or <a href="/wiki/Molecule" title="Molecule">molecule</a> (<a href="/wiki/Functional_group" title="Functional group">functional group</a>) that binds to a central <a href="/wiki/Metal" title="Metal">metal</a> atom to form a <a href="/wiki/Coordination_complex" title="Coordination complex">coordination complex</a>. The bonding with the metal generally involves formal donation of one or more of the ligand's <a href="/wiki/Electron_pair" title="Electron pair">electron pairs</a>. The nature of metal–ligand bonding can range from <a href="/wiki/Covalent_bond" title="Covalent bond">covalent</a> to <a class="mw-redirect" href="/wiki/Ionic_bond" title="Ionic bond">ionic</a>. Furthermore, the metal–ligand <a href="/wiki/Bond_order" title="Bond order">bond order</a> can range from one to three. Ligands are viewed as <a href="/wiki/Lewis_acids_and_bases" title="Lewis acids and bases">Lewis bases</a>, although rare cases are known to involve <a href="/wiki/Lewis_acids_and_bases" title="Lewis acids and bases">Lewis acidic</a> "ligands".<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[1]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[2]</a></sup>
+</p><p>Metals and metalloids are bound to ligands in virtually all circumstances, although gaseous "naked" metal ions can be generated in high vacuum. Ligands in a complex dictate the <a href="/wiki/Reactivity_(chemistry)" title="Reactivity (chemistry)">reactivity</a> of the central atom, including ligand substitution rates, the reactivity of the ligands themselves, and <a href="/wiki/Redox" title="Redox">redox</a>. Ligand selection is a critical consideration in many practical areas, including <a href="/wiki/Bioinorganic_chemistry" title="Bioinorganic chemistry">bioinorganic</a> and <a href="/wiki/Medicinal_chemistry" title="Medicinal chemistry">medicinal chemistry</a>, <a href="/wiki/Homogeneous_catalysis" title="Homogeneous catalysis">homogeneous catalysis</a>, and <a href="/wiki/Environmental_chemistry" title="Environmental chemistry">environmental chemistry</a>.
+</p><p>Ligands are classified in many ways, including: charge, size (bulk), the identity of the coordinating atom(s), and the number of electrons donated to the metal (<a href="/wiki/Denticity" title="Denticity">denticity</a> or <a href="/wiki/Hapticity" title="Hapticity">hapticity</a>). The size of a ligand is indicated by its <a href="/wiki/Ligand_cone_angle" title="Ligand cone angle">cone angle</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Strong_field_and_weak_field_ligands"><span class="tocnumber">2</span> <span class="toctext">Strong field and weak field ligands</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Classification_of_ligands_as_L_and_X"><span class="tocnumber">3</span> <span class="toctext">Classification of ligands as L and X</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Polydentate_and_polyhapto_ligand_motifs_and_nomenclature"><span class="tocnumber">4</span> <span class="toctext">Polydentate and polyhapto ligand motifs and nomenclature</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Denticity"><span class="tocnumber">4.1</span> <span class="toctext">Denticity</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Hapticity"><span class="tocnumber">4.2</span> <span class="toctext">Hapticity</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Ligand_motifs"><span class="tocnumber">5</span> <span class="toctext">Ligand motifs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Trans-spanning_ligands"><span class="tocnumber">5.1</span> <span class="toctext">Trans-spanning ligands</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Ambidentate_ligand"><span class="tocnumber">5.2</span> <span class="toctext">Ambidentate ligand</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Bridging_ligand"><span class="tocnumber">5.3</span> <span class="toctext">Bridging ligand</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Binucleating_ligand"><span class="tocnumber">5.4</span> <span class="toctext">Binucleating ligand</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Metal–ligand_multiple_bond"><span class="tocnumber">5.5</span> <span class="toctext">Metal–ligand multiple bond</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Spectator_ligand"><span class="tocnumber">5.6</span> <span class="toctext">Spectator ligand</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Bulky_ligands"><span class="tocnumber">5.7</span> <span class="toctext">Bulky ligands</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Chiral_ligands"><span class="tocnumber">5.8</span> <span class="toctext">Chiral ligands</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Hemilabile_ligands"><span class="tocnumber">5.9</span> <span class="toctext">Hemilabile ligands</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Non-innocent_ligand"><span class="tocnumber">5.10</span> <span class="toctext">Non-innocent ligand</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Common_ligands"><span class="tocnumber">6</span> <span class="toctext">Common ligands</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Examples_of_common_ligands_(by_field_strength)"><span class="tocnumber">6.1</span> <span class="toctext">Examples of common ligands (by field strength)</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Other_generally_encountered_ligands_(alphabetical)"><span class="tocnumber">6.2</span> <span class="toctext">Other generally encountered ligands (alphabetical)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Ligand_exchange"><span class="tocnumber">7</span> <span class="toctext">Ligand exchange</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Ligand–protein_binding_database"><span class="tocnumber">8</span> <span class="toctext">Ligand–protein binding database</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Notes"><span class="tocnumber">10</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The composition of <a href="/wiki/Coordination_complex" title="Coordination complex">coordination complexes</a> have been known since the early 1800s, such as <a href="/wiki/Prussian_blue" title="Prussian blue">Prussian blue</a> and <a href="/wiki/Copper(II)_sulfate" title="Copper(II) sulfate">copper vitriol</a>. The key breakthrough occurred when <a href="/wiki/Alfred_Werner" title="Alfred Werner">Alfred Werner</a> reconciled formulas and isomers. He showed, among other things, that the formulas of many cobalt(III) and chromium(III) compounds can be understood if the metal has six ligands in an octahedral geometry. The first to use the term "ligand" were <a href="/wiki/Alfred_Stock" title="Alfred Stock">Alfred Stock</a> and Carl Somiesky, in relation to silicon chemistry. The theory allows one to understand the difference between coordinated and ionic chloride in the cobalt <a class="mw-redirect" href="/wiki/Ammine" title="Ammine">ammine</a> chlorides and to explain many of the previously inexplicable isomers. He resolved the first coordination complex called <a href="/wiki/Hexol" title="Hexol">hexol</a> into optical isomers, overthrowing the theory that <a href="/wiki/Chirality_(chemistry)" title="Chirality (chemistry)">chirality</a> was necessarily associated with carbon compounds.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[3]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[4]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Strong_field_and_weak_field_ligands">Strong field and weak field ligands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=2" title="Edit section: Strong field and weak field ligands">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Crystal_field_theory" title="Crystal field theory">Crystal field theory</a></div>
+<p>In general, ligands are viewed as electron donors and the metals as electron acceptors. This is because the ligand and central metal are bonded to one another, and the ligand is providing both electrons to the bond (lone pair of electrons) instead of the metal and ligand each providing one electron. Bonding is often described using the formalisms of molecular orbital theory. The <a href="/wiki/HOMO/LUMO" title="HOMO/LUMO">HOMO</a> (Highest Occupied Molecular Orbital) can be mainly of ligands or metal character.
+</p><p>Ligands and metal ions can be ordered in many ways; one ranking system focuses on ligand 'hardness' (see also <a href="/wiki/HSAB_theory" title="HSAB theory">hard/soft acid/base theory</a>). Metal ions preferentially bind certain ligands. In general, 'hard' metal ions prefer weak field ligands, whereas 'soft' metal ions prefer strong field ligands. According to the molecular orbital theory, the HOMO of the ligand should have an energy that overlaps with the LUMO (Lowest Unoccupied Molecular Orbital) of the metal preferential. Metal ions bound to strong-field ligands follow the <a href="/wiki/Aufbau_principle" title="Aufbau principle">Aufbau principle</a>, whereas complexes bound to weak-field ligands follow <a class="mw-redirect" href="/wiki/Hund%27s_rule" title="Hund's rule">Hund's rule</a>.
+</p><p>Binding of the metal with the ligands results in a set of molecular orbitals, where the metal can be identified with a new HOMO and LUMO (the orbitals defining the properties and reactivity of the resulting complex) and a certain ordering of the 5 d-orbitals (which may be filled, or partially filled with electrons). In an <a class="mw-redirect" href="/wiki/Octahedral" title="Octahedral">octahedral</a> environment, the 5 otherwise degenerate d-orbitals split in sets of 2 and 3 orbitals (for a more in depth explanation, see <a href="/wiki/Crystal_field_theory" title="Crystal field theory">crystal field theory</a>).
+</p>
+<dl><dd><dl><dd>3 orbitals of low energy: d<i><sub>xy</sub></i>, d<i><sub>xz</sub></i> and d<i><sub>yz</sub></i></dd>
+<dd>2 of high energy: d<sub><i>z</i><sup>2</sup></sub> and d<sub><i>x</i><sup>2</sup>−<i>y</i><sup>2</sup></sub></dd></dl></dd></dl>
+<p>The energy difference between these 2 sets of d-orbitals is called the splitting parameter, Δ<sub>o</sub>. The magnitude of Δ<sub>o</sub> is determined by the field-strength of the ligand: strong field ligands, by definition, increase Δ<sub>o</sub> more than weak field ligands. Ligands can now be sorted according to the magnitude of Δ<sub>o</sub> (see the table <a href="/wiki/Ligand#Examples_of_common_ligands_(by_field_strength)" title="Ligand">below</a>). This ordering of ligands is almost invariable for all metal ions and is called <a href="/wiki/Spectrochemical_series" title="Spectrochemical series">spectrochemical series</a>.
+</p><p>For complexes with a tetrahedral surrounding, the d-orbitals again split into two sets, but this time in reverse order.
+</p>
+<dl><dd><dl><dd>2 orbitals of low energy: d<sub><i>z</i><sup>2</sup></sub> and d<sub><i>x</i><sup>2</sup>−<i>y</i><sup>2</sup></sub></dd>
+<dd>3 orbitals of high energy: d<sub><i>xy</i></sub>, d<sub><i>xz</i></sub> and d<sub><i>yz</i></sub></dd></dl></dd></dl>
+<p>The energy difference between these 2 sets of d-orbitals is now called Δ<sub>t</sub>. The magnitude of Δ<sub>t</sub> is smaller than for Δ<sub>o</sub>, because in a tetrahedral complex only 4 ligands influence the d-orbitals, whereas in an octahedral complex the d-orbitals are influenced by 6 ligands. When the <a href="/wiki/Coordination_number" title="Coordination number">coordination number</a> is neither octahedral nor tetrahedral, the splitting becomes correspondingly more complex. For the purposes of ranking ligands, however, the properties of the octahedral complexes and the resulting Δ<sub>o</sub> has been of primary interest.
+</p><p>The arrangement of the d-orbitals on the central atom (as determined by the 'strength' of the ligand), has a strong effect on virtually all the properties of the resulting complexes. E.g., the energy differences in the d-orbitals has a strong effect in the optical absorption spectra of metal complexes. It turns out that valence electrons occupying orbitals with significant 3 d-orbital character absorb in the 400–800 nm region of the spectrum (UV–visible range). The absorption of light (what we perceive as the <a href="/wiki/Color" title="Color">color</a>) by these electrons (that is, excitation of electrons from one orbital to another orbital under influence of light) can be correlated to the <a href="/wiki/Ground_state" title="Ground state">ground state</a> of the metal complex, which reflects the bonding properties of the ligands. The relative change in (relative) energy of the d-orbitals as a function of the field-strength of the ligands is described in <a href="/wiki/Tanabe%E2%80%93Sugano_diagram" title="Tanabe–Sugano diagram">Tanabe–Sugano diagrams</a>.
+</p><p>In cases where the ligand has low energy LUMO, such orbitals also participate in the bonding. The metal–ligand bond can be further stabilised by a formal donation of <a href="/wiki/Electron_density" title="Electron density">electron density</a> back to the ligand in a process known as <i><a class="mw-redirect" href="/wiki/Back-bonding" title="Back-bonding">back-bonding</a>.</i> In this case a filled, central-atom-based orbital donates density into the LUMO of the (coordinated) ligand. Carbon monoxide is the preeminent example a ligand that engages metals via back-donation. Complementarily, ligands with low-energy filled orbitals of pi-symmetry can serve as pi-donor.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Metal-EDTA.svg"><img alt="" class="thumbimage" data-file-height="1052" data-file-width="744" height="283" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Metal-EDTA.svg/200px-Metal-EDTA.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Metal-EDTA.svg/300px-Metal-EDTA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Metal-EDTA.svg/400px-Metal-EDTA.svg.png 2x" width="200"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Metal-EDTA.svg" title="Enlarge"></a></div>Metal–<a class="mw-redirect" href="/wiki/EDTA" title="EDTA">EDTA</a> complex, wherein the aminocarboxylate is a hexadentate (chelating) ligand.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:CoA6Cl3.png"><img alt="" class="thumbimage" data-file-height="527" data-file-width="788" height="134" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/CoA6Cl3.png/200px-CoA6Cl3.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/CoA6Cl3.png/300px-CoA6Cl3.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/CoA6Cl3.png/400px-CoA6Cl3.png 2x" width="200"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:CoA6Cl3.png" title="Enlarge"></a></div>Cobalt(III) complex containing six <a href="/wiki/Ammonia" title="Ammonia">ammonia</a> ligands, which are monodentate. The chloride is not a ligand.</div></div></div>
+<h2><span class="mw-headline" id="Classification_of_ligands_as_L_and_X">Classification of ligands as L and X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=3" title="Edit section: Classification of ligands as L and X">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Covalent_bond_classification_method" title="Covalent bond classification method">Covalent bond classification method</a></div>
+<p>Especially in the area of <a href="/wiki/Organometallic_chemistry" title="Organometallic chemistry">organometallic chemistry</a>, ligands are classified as L and X (or combinations of the two). The classification scheme – the "CBC Method" for Covalent Bond Classification – was popularized by <a href="/wiki/Malcolm_Green_(chemist)" title="Malcolm Green (chemist)">M.L.H. Green</a> and "is based on the notion that there are three basic types [of ligands]... represented by the symbols L, X, and Z, which correspond respectively to 2-electron, 1-electron and 0-electron neutral ligands."<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[5]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[6]</a></sup> Another type of ligand worthy of consideration is the LX ligand which as expected from the used conventional representation will donate three electrons if NVE (Number of Valence Electrons) required. Example is alkoxy ligands( which is regularly known as X ligand too). L ligands are derived from charge-neutral precursors and are represented by <a href="/wiki/Amine" title="Amine">amines</a>, <a href="/wiki/Phosphine" title="Phosphine">phosphines</a>, <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">CO</a>, N<sub>2</sub>, and <a href="/wiki/Alkene" title="Alkene">alkenes</a>. X ligands typically are derived from anionic precursors such as chloride but includes ligands where salts of anion do not really exist such as hydride and alkyl. Thus, the complex <a href="/wiki/Vaska%27s_complex" title="Vaska's complex">IrCl(CO)(PPh<sub>3</sub>)<sub>2</sub></a> is classified as an MXL<sub>3</sub> complex, since CO and the two PPh<sub>3</sub> ligands are classified as Ls. The <a href="/wiki/Oxidative_addition" title="Oxidative addition">oxidative addition</a> of H2 to IrCl(CO)(PPh<sub>3</sub>)<sub>2</sub> gives an 18e<sup>−</sup> ML<sub>3</sub>X<sub>3</sub> product, IrClH<sub>2</sub>(CO)(PPh<sub>3</sub>)<sub>2</sub>. <a class="mw-redirect" href="/wiki/EDTA" title="EDTA">EDTA</a><sup>4−</sup> is classified as an L<sub>2</sub>X<sub>4</sub> ligand, as it features four anions and two neutral donor sites. <a href="/wiki/Cyclopentadienyl" title="Cyclopentadienyl">Cp</a> is classified as an L<sub>2</sub>X ligand.<sup class="reference" id="cite_ref-Hartwig_8-0"><a href="#cite_note-Hartwig-8">[7]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Polydentate_and_polyhapto_ligand_motifs_and_nomenclature">Polydentate and polyhapto ligand motifs and nomenclature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=4" title="Edit section: Polydentate and polyhapto ligand motifs and nomenclature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Denticity">Denticity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=5" title="Edit section: Denticity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main articles: <a href="/wiki/Denticity" title="Denticity">Denticity</a> and <a class="mw-redirect" href="/wiki/Chelate" title="Chelate">chelate</a></div>
+<p>Denticity (represented by <i><a href="/wiki/Kappa" title="Kappa">κ</a></i>) refers to the number of times a ligand bonds to a metal through noncontiguous donor sites. Many ligands are capable of binding metal ions through multiple sites, usually because the ligands have <a href="/wiki/Lone_pair" title="Lone pair">lone pairs</a> on more than one atom. Ligands that bind via more than one atom are often termed <i><a href="/wiki/Chelation" title="Chelation">chelating</a></i>. A ligand that binds through two sites is classified as <i><a class="mw-redirect" href="/wiki/Bidentate" title="Bidentate">bidentate</a></i>, and three sites as <i><a class="mw-redirect" href="/wiki/Tridentate" title="Tridentate">tridentate</a></i>. The "<a href="/wiki/Bite_angle" title="Bite angle">bite angle</a>" refers to the angle between the two bonds of a bidentate chelate. Chelating ligands are commonly formed by linking donor groups via organic linkers. A classic bidentate ligand is <a href="/wiki/Ethylenediamine" title="Ethylenediamine">ethylenediamine</a>, which is derived by the linking of two ammonia groups with an ethylene (−CH<sub>2</sub>CH<sub>2</sub>−) linker. A classic example of a polydentate ligand is the <a class="mw-redirect" href="/wiki/Hexadentate" title="Hexadentate">hexadentate</a> chelating agent <a class="mw-redirect" href="/wiki/EDTA" title="EDTA">EDTA</a>, which is able to bond through six sites, completely surrounding some metals. The number of times a polydentate ligand binds to a metal centre is symbolized by "<i>κ<sup>n</sup></i>", where <i>n</i> indicates the number of sites by which a ligand attaches to a metal. EDTA<sup>4−</sup>, when it is hexidentate, binds as a <i>κ</i><sup>6</sup>-ligand, the amines and the carboxylate oxygen atoms are not contiguous. In practice, the n value of a ligand is not indicated explicitly but rather assumed. The binding affinity of a chelating system depends on the chelating angle or <a href="/wiki/Bite_angle" title="Bite angle">bite angle</a>.
+</p><p>Complexes of polydentate ligands are called <i>chelate</i> complexes. They tend to be more stable than complexes derived from <a href="/wiki/Denticity" title="Denticity">monodentate</a> ligands. This enhanced stability, the <a class="mw-redirect" href="/wiki/Chelate_effect" title="Chelate effect">chelate effect</a>, is usually attributed to effects of <a href="/wiki/Entropy" title="Entropy">entropy</a>, which favors the displacement of many ligands by one polydentate ligand. When the chelating ligand forms a large ring that at least partially surrounds the central atom and bonds to it, leaving the central atom at the centre of a large ring. The more rigid and the higher its denticity, the more inert will be the macrocyclic complex. <a href="/wiki/Heme" title="Heme">Heme</a> is a good example: the <a href="/wiki/Iron" title="Iron">iron</a> atom is at the centre of a <a href="/wiki/Porphyrin" title="Porphyrin">porphyrin</a> macrocycle, being bound to four nitrogen atoms of the tetrapyrrole macrocycle. The very stable dimethylglyoximate complex of nickel is a synthetic macrocycle derived from the anion of <a href="/wiki/Dimethylglyoxime" title="Dimethylglyoxime">dimethylglyoxime</a>.
+</p>
+<h3><span class="mw-headline" id="Hapticity">Hapticity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=6" title="Edit section: Hapticity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Hapticity" title="Hapticity">Hapticity</a></div>
+<p><b>Hapticity</b> (represented by <i><a class="mw-redirect" href="/wiki/Eta_(letter)" title="Eta (letter)">η</a></i>) refers to the number of <i>contiguous</i> atoms that comprise a donor site and attach to a metal center. <a class="mw-redirect" href="/wiki/Butadiene" title="Butadiene">Butadiene</a> forms both <i>η</i><sup>2</sup> and <i>η</i><sup>4</sup> complexes depending on the number of carbon atoms that are bonded to the metal.<sup class="reference" id="cite_ref-Hartwig_8-1"><a href="#cite_note-Hartwig-8">[7]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Ligand_motifs">Ligand motifs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=7" title="Edit section: Ligand motifs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Trans-spanning_ligands">Trans-spanning ligands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=8" title="Edit section: Trans-spanning ligands">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Trans-spanning_ligand" title="Trans-spanning ligand">Trans-spanning ligand</a></div>
+<p>Trans-spanning ligands are bidentate ligands that can span coordination positions on opposite sides of a coordination complex.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[8]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Ambidentate_ligand">Ambidentate ligand</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=9" title="Edit section: Ambidentate ligand">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Linkage_isomerism" title="Linkage isomerism">Linkage isomerism</a></div>
+<p>Unlike polydentate ligands, ambidentate ligands can attach to the central atom in two places. A good example of this is <a href="/wiki/Thiocyanate" title="Thiocyanate">thiocyanate</a>, SCN<sup>−</sup>, which can attach at either the sulfur atom or the nitrogen atom. Such compounds give rise to <a href="/wiki/Linkage_isomerism" title="Linkage isomerism">linkage isomerism</a>. Polyfunctional ligands, see especially proteins, can bond to a metal center through different ligand atoms to form various isomers.
+</p>
+<h3><span class="mw-headline" id="Bridging_ligand">Bridging ligand</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=10" title="Edit section: Bridging ligand">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Bridging_ligand" title="Bridging ligand">Bridging ligand</a></div>
+<p>A bridging ligand links two or more metal centers. Virtually all inorganic solids with simple formulas are <a href="/wiki/Coordination_polymer" title="Coordination polymer">coordination polymers</a>, consisting of metal ion centres linked by bridging ligands. This group of materials includes all anhydrous binary metal ion halides and pseudohalides. Bridging ligands also persist in solution. Polyatomic ligands such as <a href="/wiki/Carbonate" title="Carbonate">carbonate</a> are ambidentate and thus are found to often bind to two or three metals simultaneously. Atoms that bridge metals are sometimes indicated with the prefix "<a href="/wiki/Mu_(letter)" title="Mu (letter)"><i>μ</i></a>". Most inorganic solids are polymers by virtue of the presence of multiple bridging ligands. Bridging ligands, capable of coordinating multiple metal ions, have been attracting considerable interest because of their potential use as building blocks for the fabrication of functional multimetallic assemblies.&lt;Sauvage,
+J.-P.; Collin, J.-P.; Chambron, J.-C.; Guillerez, S.; Coudret, C.; Balzani, V.; Barigelletti, F.; De Cola, L.; Flamigni, L. Chem. ReV. 1994, 94, 993-1019&gt;
+</p>
+<h3><span class="mw-headline" id="Binucleating_ligand">Binucleating ligand</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=11" title="Edit section: Binucleating ligand">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Binucleating ligands bind two metals.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[9]</a></sup>  Usually binucleating ligands feature bridging ligands, such as phenoxide, pyrazolate, or pyrazine, as well as other donor groups that bind to only one of the two metals.
+</p>
+<h3><span id="Metal.E2.80.93ligand_multiple_bond"></span><span class="mw-headline" id="Metal–ligand_multiple_bond">Metal–ligand multiple bond</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=12" title="Edit section: Metal–ligand multiple bond">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Metal%E2%80%93ligand_multiple_bond" title="Metal–ligand multiple bond">Metal–ligand multiple bond</a></div>
+<p><a class="mw-redirect" href="/wiki/Metal_ligand_multiple_bond" title="Metal ligand multiple bond">Metal ligand multiple bonds</a> some ligands can bond to a metal center through the same atom but with a different number of <a href="/wiki/Lone_pair" title="Lone pair">lone pairs</a>. The <a href="/wiki/Bond_order" title="Bond order">bond order</a> of the metal ligand bond can be in part distinguished through the metal ligand <a class="mw-redirect" href="/wiki/Bond_angle" title="Bond angle">bond angle</a> (M−X−R). This bond angle is often referred to as being linear or bent with further discussion concerning the degree to which the angle is bent. For example, an imido ligand in the ionic form has three lone pairs. One lone pair is used as a sigma X donor, the other two lone pairs are available as L-type pi donors. If both lone pairs are used in pi bonds then the M−N−R geometry is linear. However, if one or both these lone pairs is nonbonding then the M−N−R bond is bent and the extent of the bend speaks to how much pi bonding there may be. <i>η</i><sup>1</sup>-Nitric oxide can coordinate to a metal center in linear or bent manner.
+</p>
+<h3><span class="mw-headline" id="Spectator_ligand">Spectator ligand</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=13" title="Edit section: Spectator ligand">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Spectator_ligand" title="Spectator ligand">Spectator ligand</a></div>
+<p>A spectator ligand is a tightly coordinating polydentate ligand that does not participate in chemical reactions but removes active sites on a metal. Spectator ligands influence the reactivity of the metal center to which they are bound.
+</p>
+<h3><span class="mw-headline" id="Bulky_ligands">Bulky ligands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=14" title="Edit section: Bulky ligands">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Ligand_cone_angle" title="Ligand cone angle">Ligand cone angle</a></div>
+<p>Bulky ligands are used to control the steric properties of a metal center. They are used for many reasons, both practical and academic. On the practical side, they influence the selectivity of metal catalysts, e.g., in <a href="/wiki/Hydroformylation" title="Hydroformylation">hydroformylation</a>. Of academic interest, bulky ligands stabilize unusual coordination sites, e.g., reactive coligands or low coordination numbers. Often bulky ligands are employed to simulate the steric protection afforded by proteins to metal-containing active sites. Of course excessive steric bulk can prevent the coordination of certain ligands.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:1,3-bis(2,4,6-trimethylphenyl)imidazol-2-ylidene_(aka_IMes).png"><img alt="" class="thumbimage" data-file-height="286" data-file-width="1075" height="59" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/1%2C3-bis%282%2C4%2C6-trimethylphenyl%29imidazol-2-ylidene_%28aka_IMes%29.png/220px-1%2C3-bis%282%2C4%2C6-trimethylphenyl%29imidazol-2-ylidene_%28aka_IMes%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/1%2C3-bis%282%2C4%2C6-trimethylphenyl%29imidazol-2-ylidene_%28aka_IMes%29.png/330px-1%2C3-bis%282%2C4%2C6-trimethylphenyl%29imidazol-2-ylidene_%28aka_IMes%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/1%2C3-bis%282%2C4%2C6-trimethylphenyl%29imidazol-2-ylidene_%28aka_IMes%29.png/440px-1%2C3-bis%282%2C4%2C6-trimethylphenyl%29imidazol-2-ylidene_%28aka_IMes%29.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:1,3-bis(2,4,6-trimethylphenyl)imidazol-2-ylidene_(aka_IMes).png" title="Enlarge"></a></div>The <a class="mw-redirect" href="/wiki/N-heterocyclic_carbene" title="N-heterocyclic carbene"><i>N</i>-heterocyclic carbene</a> ligand called <a href="/wiki/IMes" title="IMes">IMes</a> is a bulky ligand by virtue of the pair of mesityl groups.</div></div></div>
+<h3><span class="mw-headline" id="Chiral_ligands">Chiral ligands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=15" title="Edit section: Chiral ligands">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a class="mw-redirect" href="/wiki/Chiral_ligand" title="Chiral ligand">Chiral ligand</a></div>
+<p>Chiral ligands are useful for inducing asymmetry within the coordination sphere. Often the ligand is employed as an optically pure group. In some cases, such as secondary amines, the asymmetry arises upon coordination. Chiral ligands are used in <a href="/wiki/Homogeneous_catalysis" title="Homogeneous catalysis">homogeneous catalysis</a>, such as <a href="/wiki/Asymmetric_hydrogenation" title="Asymmetric hydrogenation">asymmetric hydrogenation</a>.
+</p>
+<h3><span class="mw-headline" id="Hemilabile_ligands">Hemilabile ligands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=16" title="Edit section: Hemilabile ligands">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Hemilability" title="Hemilability">hemilability</a></div>
+<p>Hemilabile ligands contain at least two electronically different coordinating groups and form complexes where one of these is easily displaced from the metal center while the other remains firmly bound, a behaviour which has been found to increase the reactivity of catalysts when compared to the use of more traditional ligands.
+</p>
+<h3><span class="mw-headline" id="Non-innocent_ligand">Non-innocent ligand</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=17" title="Edit section: Non-innocent ligand">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Non-innocent_ligand" title="Non-innocent ligand">Non-innocent ligand</a></div>
+<p>Non-innocent ligands bond with metals in such a manner that the distribution of electron density between the metal center and ligand is unclear. Describing the bonding of non-innocent ligands often involves writing multiple <a href="/wiki/Resonance_(chemistry)" title="Resonance (chemistry)">resonance forms</a> that have partial contributions to the overall state.
+</p>
+<h2><span class="mw-headline" id="Common_ligands">Common ligands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=18" title="Edit section: Common ligands">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a class="mw-redirect" href="/wiki/Complex_(chemistry)#Naming_complexes" title="Complex (chemistry)">Complex (chemistry) § Naming complexes</a></div>
+<p>Virtually every molecule and every ion can serve as a ligand for (or "coordinate to") metals. Monodentate ligands include virtually all anions and all simple Lewis bases. Thus, the <a href="/wiki/Halide" title="Halide">halides</a> and <a class="mw-redirect" href="/wiki/Pseudohalide" title="Pseudohalide">pseudohalides</a> are important anionic ligands whereas <a href="/wiki/Ammonia" title="Ammonia">ammonia</a>, <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a>, and <a href="/wiki/Properties_of_water" title="Properties of water">water</a> are particularly common charge-neutral ligands. Simple organic species are also very common, be they anionic (<a href="/wiki/Alkoxide" title="Alkoxide">RO<sup>−</sup></a> and <a href="/wiki/Carboxylate" title="Carboxylate"><span class="chemf nowrap">RCO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a>) or neutral (<a href="/wiki/Ether" title="Ether">R<sub>2</sub>O</a>, <a href="/wiki/Thioether" title="Thioether">R<sub>2</sub>S</a>, <a href="/wiki/Amine" title="Amine">R<sub>3−<i>x</i></sub>NH<sub><i>x</i></sub></a>, and <a href="/wiki/Phosphine" title="Phosphine">R<sub>3</sub>P</a>). The steric properties of some ligands are evaluated in terms of their <a class="mw-redirect" href="/wiki/Cone_angle" title="Cone angle">cone angles</a>.
+</p><p>Beyond the classical Lewis bases and anions, all unsaturated molecules are also ligands, utilizing their pi electrons in forming the coordinate bond. Also, metals can bind to the σ bonds in for example <a href="/wiki/Silane" title="Silane">silanes</a>, <a href="/wiki/Hydrocarbon" title="Hydrocarbon">hydrocarbons</a>, and <a class="mw-redirect" href="/wiki/Dihydrogen" title="Dihydrogen">dihydrogen</a> (see also: <a href="/wiki/Agostic_interaction" title="Agostic interaction">agostic interaction</a>).
+</p><p>In complexes of <a href="/wiki/Non-innocent_ligand" title="Non-innocent ligand">non-innocent ligands</a>, the ligand is bonded to metals via conventional bonds, but the ligand is also redox-active.
+</p>
+<h3><span id="Examples_of_common_ligands_.28by_field_strength.29"></span><span class="mw-headline" id="Examples_of_common_ligands_(by_field_strength)">Examples of common ligands (by field strength)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=19" title="Edit section: Examples of common ligands (by field strength)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the following table the ligands are sorted by field strength (weak field ligands first):
+</p>
+<table class="wikitable" style="margin: 1em auto 1em auto 1em auto 1em auto">
+<tbody><tr>
+<th>Ligand</th>
+<th>formula (bonding atom(s) in bold)</th>
+<th>Charge</th>
+<th>Most common denticity</th>
+<th>Remark(s)
+</th></tr>
+<tr>
+<td><a href="/wiki/Iodide" title="Iodide">Iodide</a> (iodo)</td>
+<td><b>I</b><sup>−</sup></td>
+<td><a class="extiw" href="https://en.wiktionary.org/wiki/monoanionic" title="wikt:monoanionic">monoanionic</a></td>
+<td><a href="/wiki/Denticity" title="Denticity">monodentate</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bromide" title="Bromide">Bromide</a> (bromido)</td>
+<td><b>Br</b><sup>−</sup></td>
+<td>monoanionic</td>
+<td>monodentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sulfide" title="Sulfide">Sulfide</a> (thio or less commonly "bridging thiolate")</td>
+<td><b>S</b><sup>2−</sup></td>
+<td>dianionic</td>
+<td>monodentate (M=S), or bidentate bridging (M−S−M′)</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Thiocyanate" title="Thiocyanate">Thiocyanate</a> (<i>S</i>-thiocyanato)</td>
+<td><b>S</b>−CN<sup>−</sup></td>
+<td>monoanionic</td>
+<td>monodentate</td>
+<td>ambidentate (see also isothiocyanate, below)
+</td></tr>
+<tr>
+<td><a href="/wiki/Chloride" title="Chloride">Chloride</a> (chlorido)</td>
+<td><b>Cl</b><sup>−</sup></td>
+<td>monoanionic</td>
+<td>monodentate</td>
+<td>also found bridging
+</td></tr>
+<tr>
+<td><a href="/wiki/Nitrate" title="Nitrate">Nitrate</a> (nitrato)</td>
+<td><b>O</b>−<span class="chemf nowrap">NO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></td>
+<td>monoanionic</td>
+<td>monodentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Azide" title="Azide">Azide</a> (azido)</td>
+<td><b>N</b>−<span class="chemf nowrap">N<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></td>
+<td>monoanionic</td>
+<td>monodentate</td>
+<td>Very Toxic
+</td></tr>
+<tr>
+<td><a href="/wiki/Fluoride" title="Fluoride">Fluoride</a> (fluoro)</td>
+<td><b>F</b><sup>−</sup></td>
+<td>monoanionic</td>
+<td>monodentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Hydroxide" title="Hydroxide">Hydroxide</a> (hydroxido)</td>
+<td><b>O</b>−H<sup>−</sup></td>
+<td>monoanionic</td>
+<td>monodentate</td>
+<td>often found as a bridging ligand
+</td></tr>
+<tr>
+<td><a href="/wiki/Oxalate" title="Oxalate">Oxalate</a> (oxalato)</td>
+<td>[<b>O</b>−CO−CO−<b>O</b>]<sup>2−</sup></td>
+<td>dianionic</td>
+<td>bidentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Properties_of_water" title="Properties of water">Water</a> (aqua)</td>
+<td><b>O</b>−H<sub>2</sub></td>
+<td>neutral</td>
+<td>monodentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Nitrite" title="Nitrite">Nitrite</a> (nitrito)</td>
+<td><b>O</b>−N−O<sup>−</sup></td>
+<td>monoanionic</td>
+<td>monodentate</td>
+<td>ambidentate (see also nitro)
+</td></tr>
+<tr>
+<td><a href="/wiki/Isothiocyanate" title="Isothiocyanate">Isothiocyanate</a> (isothiocyanato)</td>
+<td><b>N</b>=C=S<sup>−</sup></td>
+<td>monoanionic</td>
+<td>monodentate</td>
+<td>ambidentate (see also thiocyanate, above)
+</td></tr>
+<tr>
+<td><a href="/wiki/Acetonitrile" title="Acetonitrile">Acetonitrile</a> (acetonitrilo)</td>
+<td>CH<sub>3</sub>C<b>N</b></td>
+<td>neutral</td>
+<td>monodentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pyridine" title="Pyridine">Pyridine</a> (py)</td>
+<td>C<sub>5</sub>H<sub>5</sub><b>N</b></td>
+<td>neutral</td>
+<td>monodentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ammonia" title="Ammonia">Ammonia</a> (ammine or less commonly "ammino")</td>
+<td><b>N</b>H<sub>3</sub></td>
+<td>neutral</td>
+<td>monodentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ethylenediamine" title="Ethylenediamine">Ethylenediamine</a> (en)</td>
+<td><b>N</b>H<sub>2</sub>−CH<sub>2</sub>−CH<sub>2</sub>−<b>N</b>H<sub>2</sub></td>
+<td>neutral</td>
+<td>bidentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/2,2%27-Bipyridine" title="2,2'-Bipyridine">2,2′-Bipyridine</a> (bipy)</td>
+<td><b>N</b>C<sub>5</sub>H<sub>4</sub>−C<sub>5</sub>H<sub>4</sub><b>N</b></td>
+<td>neutral</td>
+<td>bidentate</td>
+<td>easily reduced to its (radical) anion or even to its dianion
+</td></tr>
+<tr>
+<td><a href="/wiki/Phenanthroline" title="Phenanthroline">1,10-Phenanthroline</a> (phen)</td>
+<td>C<sub>12</sub>H<sub>8</sub><b>N<sub>2</sub></b></td>
+<td>neutral</td>
+<td>bidentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Nitrite" title="Nitrite">Nitrite</a> (nitro)</td>
+<td><b>N</b>−<span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></td>
+<td>monoanionic</td>
+<td>monodentate</td>
+<td>ambidentate (see also nitrito)
+</td></tr>
+<tr>
+<td><a href="/wiki/Triphenylphosphine" title="Triphenylphosphine">Triphenylphosphine</a></td>
+<td><b>P</b>−(C<sub>6</sub>H<sub>5</sub>)<sub>3</sub></td>
+<td>neutral</td>
+<td>monodentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cyanide" title="Cyanide">Cyanide</a> (cyano)</td>
+<td><b>C</b>≡N<sup>−</sup><br/><b>N</b>≡C<sup>−</sup></td>
+<td>monoanionic</td>
+<td>monodentate</td>
+<td>can bridge between metals (both metals bound to C, or one to C and one to N)
+</td></tr>
+<tr>
+<td><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a> (carbonyl)</td>
+<td><b>C</b>O</td>
+<td>neutral</td>
+<td>monodentate</td>
+<td>can bridge between metals (both metals bound to C)
+</td></tr></tbody></table>
+<p>Note: The entries in the table are sorted by field strength, binding through the stated atom (i.e. as a terminal ligand), the 'strength' of the ligand changes when the ligand binds in an alternative binding mode (e.g., when it bridges between metals) or when the conformation of the ligand gets distorted (e.g., a linear ligand that is forced through steric interactions to bind in a nonlinear fashion).
+</p>
+<h3><span id="Other_generally_encountered_ligands_.28alphabetical.29"></span><span class="mw-headline" id="Other_generally_encountered_ligands_(alphabetical)">Other generally encountered ligands (alphabetical)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=20" title="Edit section: Other generally encountered ligands (alphabetical)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In this table other common ligands are listed in alphabetical order.
+</p>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Ligand</th>
+<th>formula (bonding atom(s) in bold)</th>
+<th>Charge</th>
+<th>Most common denticity</th>
+<th>Remark(s)
+</th></tr>
+<tr>
+<td><a href="/wiki/Acetylacetone" title="Acetylacetone">Acetylacetonate</a> (acac)</td>
+<td>CH<sub>3</sub>−C<b>O</b>−CH<sub>2</sub>−C<b>O</b>−CH<sub>3</sub></td>
+<td>monoanionic</td>
+<td>bidentate</td>
+<td>In general bidentate, bound through both oxygens, but sometimes bound through the central carbon only,<br/> see also analogous ketimine analogues
+</td></tr>
+<tr>
+<td><a href="/wiki/Alkene" title="Alkene">Alkenes</a></td>
+<td>R<sub>2</sub><b>C=C</b>R<sub>2</sub></td>
+<td>neutral</td>
+<td></td>
+<td>compounds with a C−C double bond
+</td></tr>
+<tr>
+<td><a href="/wiki/Aminopolycarboxylic_acid" title="Aminopolycarboxylic acid">Aminopolycarboxylic acids</a> (APCAs)</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> 
+</td></tr>
+<tr>
+<td><a href="/wiki/BAPTA" title="BAPTA">BAPTA</a> (1,2-bis(o-aminophenoxy)ethane-N,N,N′,N′-tetraacetic acid)</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> 
+</td></tr>
+<tr>
+<td><a href="/wiki/Benzene" title="Benzene">Benzene</a></td>
+<td><b>C<sub>6</sub></b>H<sub>6</sub></td>
+<td>neutral</td>
+<td></td>
+<td>and other arenes
+</td></tr>
+<tr>
+<td><a href="/wiki/1,2-Bis(diphenylphosphino)ethane" title="1,2-Bis(diphenylphosphino)ethane">1,2-Bis(diphenylphosphino)ethane</a> (dppe)</td>
+<td>(C<sub>6</sub>H<sub>5</sub>)<sub>2</sub><b>P</b>−C<sub>2</sub>H<sub>4</sub>−<b>P</b>(C<sub>6</sub>H<sub>5</sub>)<sub>2</sub></td>
+<td>neutral</td>
+<td>bidentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/1,1-Bis(diphenylphosphino)methane" title="1,1-Bis(diphenylphosphino)methane">1,1-Bis(diphenylphosphino)methane</a> (dppm)</td>
+<td>(C<sub>6</sub>H<sub>5</sub>)<sub>2</sub><b>P</b>−CH<sub>2</sub>−<b>P</b>(C<sub>6</sub>H<sub>5</sub>)<sub>2</sub></td>
+<td>neutral</td>
+<td></td>
+<td>Can bond to two metal atoms at once, forming dimers
+</td></tr>
+<tr>
+<td><a href="/wiki/Corrole" title="Corrole">Corroles</a></td>
+<td></td>
+<td></td>
+<td>tetradentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crown_ether" title="Crown ether">Crown ethers</a></td>
+<td></td>
+<td>neutral</td>
+<td></td>
+<td>primarily for alkali and alkaline earth metal cations
+</td></tr>
+<tr>
+<td><a href="/wiki/Cryptand" title="Cryptand">2,2,2-cryptand</a></td>
+<td></td>
+<td></td>
+<td>hexadentate</td>
+<td>primarily for alkali and alkaline earth metal cations
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Cryptate" title="Cryptate">Cryptates</a></td>
+<td></td>
+<td>neutral</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cyclopentadienyl_complex" title="Cyclopentadienyl complex">Cyclopentadienyl</a> (Cp)</td>
+<td><span class="chemf nowrap"><b>C</b><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"><b>5</b></sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span></span></td>
+<td>monoanionic</td>
+<td></td>
+<td>Although monoanionic, by the nature of its occupied molecular orbitals, it is capable of acting as a tridentate ligand.
+</td></tr>
+<tr>
+<td><a href="/wiki/Diethylenetriamine" title="Diethylenetriamine">Diethylenetriamine</a> (dien)</td>
+<td>C<sub>4</sub>H<sub>13</sub><b>N<sub>3</sub></b></td>
+<td>neutral</td>
+<td>tridentate</td>
+<td>related to TACN, but not constrained to facial complexation
+</td></tr>
+<tr>
+<td><a href="/wiki/Dimethylglyoxime" title="Dimethylglyoxime">Dimethylglyoximate</a> (dmgH<sup>−</sup>)</td>
+<td></td>
+<td>monoanionic</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/DOTA_(chelator)" title="DOTA (chelator)">1,4,7,10-tetraazacyclododecane-1,4,7,10-tetraacetic acid</a> (DOTA)</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> 
+</td></tr>
+<tr>
+<td>Diethylenetriaminepentaacetic acid (DTPA) (<a href="/wiki/Pentetic_acid" title="Pentetic acid">pentetic acid</a>)</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> 
+</td></tr>
+<tr>
+<td><a href="/wiki/Ethylenediaminetetraacetic_acid" title="Ethylenediaminetetraacetic acid">Ethylenediaminetetraacetic acid</a> (EDTA) (edta<sup>4−</sup>)</td>
+<td>(<sup>−</sup>O<b>O</b>C−CH<sub>2</sub>)<sub>2</sub><b>N</b>−C<sub>2</sub>H<sub>4</sub>−<b>N</b>(CH<sub>2</sub>-C<b>O</b>O<sup>−</sup>)<sub>2</sub></td>
+<td>tetraanionic</td>
+<td>hexadentate</td>
+<td>
+</td></tr>
+<tr>
+<td>Ethylenediaminetriacetate</td>
+<td><sup>−</sup>O<b>O</b>C−CH<sub>2</sub><b>N</b>H−C<sub>2</sub>H<sub>4</sub>−<b>N</b>(CH<sub>2</sub>-C<b>O</b>O<sup>−</sup>)<sub>2</sub></td>
+<td>trianionic</td>
+<td>pentadentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/EGTA_(chemical)" title="EGTA (chemical)">Ethyleneglycolbis(oxyethylenenitrilo)tetraacetate</a> (egta<sup>4−</sup>)</td>
+<td>(<sup>−</sup>O<b>O</b>C−CH<sub>2</sub>)<sub>2</sub><b>N</b>−C<sub>2</sub>H<sub>4</sub>−<b>O</b>−C<sub>2</sub>H<sub>4</sub>−<b>O</b>−C<sub>2</sub>H<sub>4</sub>−<b>N</b>(CH<sub>2</sub>−C<b>O</b>O<sup>−</sup>)<sub>2</sub></td>
+<td>tetraanionic</td>
+<td>octodentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fura-2" title="Fura-2">Fura-2</a></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> 
+</td></tr>
+<tr>
+<td><a href="/wiki/Glycine" title="Glycine">Glycinate</a> (glycinato)</td>
+<td><b>N</b>H<sub>2</sub>CH<sub>2</sub>C<b>O</b>O<sup>−</sup></td>
+<td>monoanionic</td>
+<td>bidentate</td>
+<td>other α-amino acid anions are comparable (but chiral)
+</td></tr>
+<tr>
+<td><a href="/wiki/Heme" title="Heme">Heme</a></td>
+<td></td>
+<td>dianionic</td>
+<td>tetradentate</td>
+<td>macrocyclic ligand
+</td></tr>
+<tr>
+<td><a href="/wiki/Iminodiacetic_acid" title="Iminodiacetic acid">Iminodiacetic acid</a> (IDA)</td>
+<td> </td>
+<td> </td>
+<td>tridentate</td>
+<td>Used extensively to make <a href="/wiki/Radioactive_tracer" title="Radioactive tracer">radiotracers</a> for <a href="/wiki/Scintigraphy" title="Scintigraphy">scintigraphy</a> by complexing the metastable radionuclide <a href="/wiki/Technetium-99m" title="Technetium-99m">technetium-99m</a>. For example, in <a href="/wiki/Cholescintigraphy" title="Cholescintigraphy">cholescintigraphy</a>, HIDA, BrIDA, PIPIDA, and DISIDA are used
+</td></tr>
+<tr>
+<td>Nicotianamine</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>Ubiquitous in higher <a href="/wiki/Plant" title="Plant">plants</a>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Nitrosyl" title="Nitrosyl">Nitrosyl</a></td>
+<td><b>N</b>O<sup>+</sup></td>
+<td>cationic</td>
+<td></td>
+<td>bent (1e<sup>−</sup>) and linear (3e<sup>−</sup>) bonding mode
+</td></tr>
+<tr>
+<td><a href="/wiki/Nitrilotriacetic_acid" title="Nitrilotriacetic acid">Nitrilotriacetic acid</a> (NTA)</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> 
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Oxo_(ligand)" title="Oxo (ligand)">Oxo</a></td>
+<td><b>O</b><sup>2−</sup></td>
+<td>dianion</td>
+<td>monodentate</td>
+<td>sometimes bridging
+</td></tr>
+<tr>
+<td><a href="/wiki/Pyrazine" title="Pyrazine">Pyrazine</a></td>
+<td><b>N</b><sub>2</sub>C<sub>4</sub>H<sub>4</sub></td>
+<td>neutral</td>
+<td>ditopic</td>
+<td>sometimes bridging
+</td></tr>
+<tr>
+<td><a href="/wiki/Scorpionate_ligand" title="Scorpionate ligand">Scorpionate ligand</a></td>
+<td></td>
+<td></td>
+<td>tridentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sulfite" title="Sulfite">Sulfite</a></td>
+<td><b>O</b>−<span class="chemf nowrap">SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span><br/><b>S</b>−<span class="chemf nowrap">O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span></td>
+<td>monoanionic</td>
+<td>monodentate</td>
+<td>ambidentate
+</td></tr>
+<tr>
+<td><a href="/wiki/Terpyridine" title="Terpyridine">2,2′;6′,2″-Terpyridine</a> (terpy)</td>
+<td><b>N</b>C<sub>5</sub>H<sub>4</sub>−C<sub>5</sub>H<sub>3</sub><b>N</b>−C<sub>5</sub>H<sub>4</sub><b>N</b></td>
+<td>neutral</td>
+<td>tridentate</td>
+<td>meridional bonding only
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Triazacyclononane" title="Triazacyclononane">Triazacyclononane</a> (tacn)</td>
+<td>(C<sub>2</sub>H<sub>4</sub>)<sub>3</sub>(<b>N</b>R)<sub>3</sub></td>
+<td>neutral</td>
+<td>tridentate</td>
+<td>macrocyclic ligand<br/> see also the <i>N</i>,<i>N</i>′,<i>N</i>″-trimethylated analogue
+</td></tr>
+<tr>
+<td><a href="/wiki/Tricyclohexylphosphine" title="Tricyclohexylphosphine">Tricyclohexylphosphine</a></td>
+<td><b>P</b>(C<sub>6</sub>H<sub>11</sub>)<sub>3</sub> or <b>P</b>Cy<sub>3</sub></td>
+<td>neutral</td>
+<td>monodentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Triethylenetetramine" title="Triethylenetetramine">Triethylenetetramine</a> (trien)</td>
+<td>C<sub>6</sub>H<sub>18</sub><b>N<sub>4</sub></b></td>
+<td>neutral</td>
+<td>tetradentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Trimethylphosphine" title="Trimethylphosphine">Trimethylphosphine</a></td>
+<td><b>P</b>(CH<sub>3</sub>)<sub>3</sub></td>
+<td>neutral</td>
+<td>monodentate</td>
+<td>
+</td></tr>
+<tr>
+<td>Tri(<i>o</i>-tolyl)phosphine</td>
+<td><b>P</b>(<i>o</i>-tolyl)<sub>3</sub></td>
+<td>neutral</td>
+<td>monodentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Tris(2-aminoethyl)amine" title="Tris(2-aminoethyl)amine">Tris(2-aminoethyl)amine</a> (tren)</td>
+<td>(<b>N</b>H<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>)<sub>3</sub><b>N</b></td>
+<td>neutral</td>
+<td>tetradentate</td>
+<td>
+</td></tr>
+<tr>
+<td>Tris(2-diphenylphosphineethyl)amine (np<sub>3</sub>)</td>
+<td></td>
+<td>neutral</td>
+<td>tetradentate</td>
+<td>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Tropylium" title="Tropylium">Tropylium</a></td>
+<td><span class="chemf nowrap"><b>C</b><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"><b>7</b></sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">7</sub></span></span></td>
+<td>cationic</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></td>
+<td><b>CO<sub>2</sub></b><br/>various bonding systems</td>
+<td></td>
+<td></td>
+<td>see <a href="/wiki/Metal_carbon_dioxide_complex" title="Metal carbon dioxide complex">metal carbon dioxide complex</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Ligand_exchange">Ligand exchange</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=21" title="Edit section: Ligand exchange">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A <b>ligand exchange</b> (also <b>ligand substitution</b>) is a type of <a href="/wiki/Chemical_reaction" title="Chemical reaction">chemical reaction</a> in which a ligand in a compound is replaced by another. One type of pathway for substitution is the <a href="/wiki/Ligand_dependent_pathway" title="Ligand dependent pathway">ligand dependent pathway</a>. In organometallic chemistry this can take place via <a href="/wiki/Associative_substitution" title="Associative substitution">associative substitution</a> or by <a href="/wiki/Dissociative_substitution" title="Dissociative substitution">dissociative substitution</a>. Another form of ligand exchange is seen in the <a href="/wiki/Nucleophilic_abstraction" title="Nucleophilic abstraction">nucleophilic abstraction</a> reaction.
+</p>
+<h2><span id="Ligand.E2.80.93protein_binding_database"></span><span class="mw-headline" id="Ligand–protein_binding_database">Ligand–protein binding database</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=22" title="Edit section: Ligand–protein binding database">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="external text" href="http://zhanglab.ccmb.med.umich.edu/BioLiP/" rel="nofollow">BioLiP</a> is a comprehensive ligand–protein interaction database, with the 3D structure of the ligand–protein interactions taken from the <a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">Protein Data Bank</a>. <a class="external text" href="http://manoraa.org/" rel="nofollow">MANORAA</a> is a webserver for analyzing conserved and differential molecular interaction of the ligand in complex with protein structure homologs from the <a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">Protein Data Bank</a>. It provides the linkage to protein targets such as its location in the biochemical pathways, SNPs and protein/RNA baseline expression in target organ.<sup class="reference" id="cite_ref-tanramluk_11-0"><a href="#cite_note-tanramluk-11">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=23" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="mw-redirect" href="/wiki/Bridging_carbonyl" title="Bridging carbonyl">Bridging carbonyl</a></li>
+<li><a class="mw-redirect" href="/wiki/Coordination_chemistry" title="Coordination chemistry">Coordination chemistry</a></li>
+<li><a href="/wiki/Crystal_field_theory" title="Crystal field theory">Crystal field theory</a></li>
+<li><a class="mw-redirect" href="/wiki/DNA_binding_ligand" title="DNA binding ligand">DNA binding ligand</a></li>
+<li><a href="/wiki/Inorganic_chemistry" title="Inorganic chemistry">Inorganic chemistry</a></li>
+<li><a href="/wiki/Josiphos_ligands" title="Josiphos ligands">Josiphos ligands</a></li>
+<li><a href="/wiki/Ligand_dependent_pathway" title="Ligand dependent pathway">Ligand dependent pathway</a></li>
+<li><a href="/wiki/Ligand_field_theory" title="Ligand field theory">Ligand field theory</a></li>
+<li><a href="/wiki/Ligand_isomerism" title="Ligand isomerism">Ligand isomerism</a></li>
+<li><a href="/wiki/Spectrochemical_series" title="Spectrochemical series">Spectrochemical series</a></li>
+<li><a href="/wiki/Tanabe%E2%80%93Sugano_diagram" title="Tanabe–Sugano diagram">Tanabe–Sugano diagram</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=24" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-help-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-help_1-0">^</a></b></span> <span class="reference-text">The word <i>ligand</i> comes from Latin <i><a class="extiw" href="https://en.wiktionary.org/wiki/ligare#Latin" title="wikt:ligare">ligare</a></i>, to bind/tie. It is pronounced either <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="'l' in 'lie'">l</span><span title="/aɪ/: 'i' in 'tide'">aɪ</span><span title="/ɡ/: 'g' in 'guy'">ɡ</span><span title="/ə/: 'a' in 'about'">ə</span><span title="'n' in 'nigh'">n</span><span title="'d' in 'dye'">d</span></span>/</a></span></span> or <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="'l' in 'lie'">l</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="/ɡ/: 'g' in 'guy'">ɡ</span><span title="/ə/: 'a' in 'about'">ə</span><span title="'n' in 'nigh'">n</span><span title="'d' in 'dye'">d</span></span>/</a></span></span>; both are very common.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=25" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Cotton, Frank Albert; Geoffrey Wilkinson; Carlos A. Murillo (1999). <i>Advanced Inorganic Chemistry</i>. Wiley-Interscience. p. 1355. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0471199571" title="Special:BookSources/978-0471199571">978-0471199571</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Advanced+Inorganic+Chemistry&amp;rft.pages=1355&amp;rft.pub=Wiley-Interscience&amp;rft.date=1999&amp;rft.isbn=978-0471199571&amp;rft.aulast=Cotton&amp;rft.aufirst=Frank+Albert&amp;rft.au=Geoffrey+Wilkinson&amp;rft.au=Carlos+A.+Murillo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALigand"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Miessler, Gary L.; Paul J. Fischer; Donald Arthur Tarr (2013). <i>Inorganic Chemistry</i>. Prentice Hall. p. 696. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0321811059" title="Special:BookSources/978-0321811059">978-0321811059</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Inorganic+Chemistry&amp;rft.pages=696&amp;rft.pub=Prentice+Hall&amp;rft.date=2013&amp;rft.isbn=978-0321811059&amp;rft.aulast=Miessler&amp;rft.aufirst=Gary+L.&amp;rft.au=Paul+J.+Fischer&amp;rft.au=Donald+Arthur+Tarr&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALigand"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jackson, W. Gregory; Josephine A. McKeon; Silvia Cortez (1 October 2004). "Alfred Werner's Inorganic Counterparts of Racemic and Mesomeric Tartaric Acid: A Milestone Revisited". <i>Inorganic Chemistry</i>. <b>43</b> (20): 6249–6254. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fic040042e" rel="nofollow">10.1021/ic040042e</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15446870" rel="nofollow">15446870</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Inorganic+Chemistry&amp;rft.atitle=Alfred+Werner%27s+Inorganic+Counterparts+of+Racemic+and+Mesomeric+Tartaric+Acid%3A+A+Milestone+Revisited&amp;rft.volume=43&amp;rft.issue=20&amp;rft.pages=6249-6254&amp;rft.date=2004-10-01&amp;rft_id=info%3Adoi%2F10.1021%2Fic040042e&amp;rft_id=info%3Apmid%2F15446870&amp;rft.aulast=Jackson&amp;rft.aufirst=W.+Gregory&amp;rft.au=Josephine+A.+McKeon&amp;rft.au=Silvia+Cortez&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALigand"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bowman-James, Kristin (2005). "Alfred Werner Revisited: The Coordination Chemistry of Anions". <i>Accounts of Chemical Research</i>. <b>38</b> (8): 671–678. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Far040071t" rel="nofollow">10.1021/ar040071t</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16104690" rel="nofollow">16104690</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Accounts+of+Chemical+Research&amp;rft.atitle=Alfred+Werner+Revisited%3A+The+Coordination+Chemistry+of+Anions&amp;rft.volume=38&amp;rft.issue=8&amp;rft.pages=671-678&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1021%2Far040071t&amp;rft_id=info%3Apmid%2F16104690&amp;rft.aulast=Bowman-James&amp;rft.aufirst=Kristin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALigand"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Green, M. L. H. (20 September 1995). "A new approach to the formal classification of covalent compounds of the elements". <i>Journal of Organometallic Chemistry</i>. <b>500</b> (1–2): 127–148. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0022-328X%2895%2900508-N" rel="nofollow">10.1016/0022-328X(95)00508-N</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0022-328X" rel="nofollow">0022-328X</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Organometallic+Chemistry&amp;rft.atitle=A+new+approach+to+the+formal+classification+of+covalent+compounds+of+the+elements&amp;rft.volume=500&amp;rft.issue=1%E2%80%932&amp;rft.pages=127-148&amp;rft.date=1995-09-20&amp;rft_id=info%3Adoi%2F10.1016%2F0022-328X%2895%2900508-N&amp;rft.issn=0022-328X&amp;rft.aulast=Green&amp;rft.aufirst=M.+L.+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALigand"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.columbia.edu/cu/chemistry/groups/parkin/mlxz.htm" rel="nofollow">"mlxz plots – Columbia University"</a>, Columbia University, New York.</span>
+</li>
+<li id="cite_note-Hartwig-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hartwig_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hartwig_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Hartwig, J. F. Organotransition Metal Chemistry, from Bonding to Catalysis; University Science Books: New York, 2010. <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-891389-53-X" title="Special:BookSources/1-891389-53-X">1-891389-53-X</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">von Zelewsky, A. "Stereochemistry of Coordination Compounds" John Wiley: Chichester, 1995. <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/047195599X" title="Special:BookSources/047195599X">047195599X</a>.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Gavrilova, A. L.; Bosnich, B., "Principles of Mononucleating and Binucleating Ligand Design", Chem. Rev. 2004, volume 104, 349-383. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1021%2Fcr020604g" rel="nofollow">10.1021/cr020604g</a></span>
+</li>
+<li id="cite_note-tanramluk-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-tanramluk_11-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tanramluk D, Naripiyakul L, Akavipat R, Gong S, Charoensawan V (2016). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4987895" rel="nofollow">"MANORAA (Mapping Analogous Nuclei Onto Residue And Affinity) for identifying protein-ligand fragment interaction, pathways and SNPs"</a>. <i>Nucleic Acids Research</i>: W514–21. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1093%2Fnar%2Fgkw314" rel="nofollow">10.1093/nar/gkw314</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4987895" rel="nofollow">4987895</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/27131358" rel="nofollow">27131358</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nucleic+Acids+Research&amp;rft.atitle=MANORAA+%28Mapping+Analogous+Nuclei+Onto+Residue+And+Affinity%29+for+identifying+protein-ligand+fragment+interaction%2C+pathways+and+SNPs&amp;rft.pages=W514-21&amp;rft.date=2016&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4987895&amp;rft_id=info%3Apmid%2F27131358&amp;rft_id=info%3Adoi%2F10.1093%2Fnar%2Fgkw314&amp;rft.aulast=Tanramluk&amp;rft.aufirst=D&amp;rft.au=Naripiyakul%2C+L&amp;rft.au=Akavipat%2C+R&amp;rft.au=Gong%2C+S&amp;rft.au=Charoensawan%2C+V&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4987895&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALigand"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ligand&amp;action=edit&amp;section=26" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Ligands" title="commons:Category:Ligands">Ligand</a></b></i>.</td></tr></tbody></table>
+<ul><li>See the modeling of ligand–receptor–ligand binding in Vu-Quoc, L., <a class="external text" href="http://clesm.mae.ufl.edu/wiki.pub/index.php/Configuration_integral_%28statistical_mechanics%29" rel="nofollow">Configuration integral (statistical mechanics)</a>, 2008. this wiki site is down; see <a class="external text" href="https://web.archive.org/web/20120428193950/http://clesm.mae.ufl.edu/wiki.pub/index.php/Configuration_integral_%28statistical_mechanics%29" rel="nofollow">this article in the web archive on 2012 April 28</a>.</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw2225
+Cached time: 20181003195521
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.528 seconds
+Real time usage: 0.651 seconds
+Preprocessor visited node count: 3000/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 61900/2097152 bytes
+Template argument size: 5889/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 22970/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.198/10.000 seconds
+Lua memory usage: 4.59 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  470.990      1 -total
+ 54.52%  256.776      2 Template:Reflist
+ 16.46%   77.513      4 Template:Cite_journal
+ 16.35%   77.004      2 Template:Cite_book
+ 14.33%   67.480      8 Template:Chem
+ 12.38%   58.299      8 Template:Chem/link
+  9.96%   46.917     28 Template:Chem/atom
+  9.27%   43.673      2 Template:ISBN
+  8.64%   40.706      1 Template:About
+  5.63%   26.500      1 Template:Use_dmy_dates
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18589-0!canonical and timestamp 20181003195520 and revision id 861780411
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ligand&amp;oldid=861780411">https://en.wikipedia.org/w/index.php?title=Ligand&amp;oldid=861780411</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ligands" title="Category:Ligands">Ligands</a></li><li><a href="/wiki/Category:Coordination_chemistry" title="Category:Coordination chemistry">Coordination chemistry</a></li><li><a href="/wiki/Category:Chemical_bonding" title="Category:Chemical bonding">Chemical bonding</a></li><li><a href="/wiki/Category:Chelating_agents" title="Category:Chelating agents">Chelating agents</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_July_2012" title="Category:Use dmy dates from July 2012">Use dmy dates from July 2012</a></li><li><a href="/wiki/Category:Commons_category_with_page_title_different_than_on_Wikidata" title="Category:Commons category with page title different than on Wikidata">Commons category with page title different than on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ligand" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Ligand" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Ligand" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Ligand" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Ligand">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Ligand&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Ligand&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Ligand" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Ligand" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ligand&amp;oldid=861780411" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ligand&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q193161" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ligand&amp;id=861780411" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ligand">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ligand&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Ligand&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Ligands" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Ligand" hreflang="af" lang="af" title="Ligand – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B1%D8%A8%D9%8A%D8%B7%D8%A9" hreflang="ar" lang="ar" title="ربيطة – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%B2%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1" hreflang="bn" lang="bn" title="লিগ্যান্ড – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Ligand" hreflang="bs" lang="bs" title="Ligand – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Lligand" hreflang="ca" lang="ca" title="Lligand – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Ligand" hreflang="cs" lang="cs" title="Ligand – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Ligand" hreflang="de" lang="de" title="Ligand – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Ligand" hreflang="et" lang="et" title="Ligand – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Ligando" hreflang="es" lang="es" title="Ligando – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%84%DB%8C%DA%AF%D8%A7%D9%86%D8%AF" hreflang="fa" lang="fa" title="لیگاند – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Ligand_(chimie)" hreflang="fr" lang="fr" title="Ligand (chimie) – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Liogann" hreflang="ga" lang="ga" title="Liogann – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Ligando_(qu%C3%ADmica_inorg%C3%A1nica)" hreflang="gl" lang="gl" title="Ligando (química inorgánica) – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%A6%AC%EA%B0%84%EB%93%9C" hreflang="ko" lang="ko" title="리간드 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Ligand" hreflang="hr" lang="hr" title="Ligand – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Ligando" hreflang="io" lang="io" title="Ligando – Ido">Ido</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Ligando" hreflang="it" lang="it" title="Ligando – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9C%D7%99%D7%92%D7%A0%D7%93" hreflang="he" lang="he" title="ליגנד – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B3%D0%B0%D0%BD%D0%B4" hreflang="kk" lang="kk" title="Лиганд – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Ligandum_(szervetlen_k%C3%A9mia)" hreflang="hu" lang="hu" title="Ligandum (szervetlen kémia) – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Ligan" hreflang="ms" lang="ms" title="Ligan – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Ligand" hreflang="nl" lang="nl" title="Ligand – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%85%8D%E4%BD%8D%E5%AD%90" hreflang="ja" lang="ja" title="配位子 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Ligand_(quimia)" hreflang="oc" lang="oc" title="Ligand (quimia) – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Ligand_(chemia)" hreflang="pl" lang="pl" title="Ligand (chemia) – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Ligante" hreflang="pt" lang="pt" title="Ligante – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Ligand" hreflang="ro" lang="ro" title="Ligand – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B3%D0%B0%D0%BD%D0%B4" hreflang="ru" lang="ru" title="Лиганд – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Ligand" hreflang="simple" lang="simple" title="Ligand – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Ligand" hreflang="sr" lang="sr" title="Ligand – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Ligand" hreflang="sh" lang="sh" title="Ligand – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Ligandi_(kemia)" hreflang="fi" lang="fi" title="Ligandi (kemia) – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Ligand" hreflang="sv" lang="sv" title="Ligand – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%88%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%A3%E0%AF%88%E0%AE%B5%E0%AE%BF" hreflang="ta" lang="ta" title="ஈந்தணைவி – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%A5%E0%B8%B4%E0%B9%81%E0%B8%81%E0%B8%99%E0%B8%94%E0%B9%8C" hreflang="th" lang="th" title="ลิแกนด์ – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Ligand_(kimya)" hreflang="tr" lang="tr" title="Ligand (kimya) – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D0%B3%D0%B0%D0%BD%D0%B4_(%D1%85%D1%96%D0%BC%D1%96%D1%8F)" hreflang="uk" lang="uk" title="Ліганд (хімія) – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%85%8D%E9%AB%94" hreflang="zh" lang="zh" title="配體 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q193161#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 29 September 2018, at 23:47<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Ligand&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.528","walltime":"0.651","ppvisitednodes":{"value":3000,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":61900,"limit":2097152},"templateargumentsize":{"value":5889,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":22970,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  470.990      1 -total"," 54.52%  256.776      2 Template:Reflist"," 16.46%   77.513      4 Template:Cite_journal"," 16.35%   77.004      2 Template:Cite_book"," 14.33%   67.480      8 Template:Chem"," 12.38%   58.299      8 Template:Chem/link","  9.96%   46.917     28 Template:Chem/atom","  9.27%   43.673      2 Template:ISBN","  8.64%   40.706      1 Template:About","  5.63%   26.500      1 Template:Use_dmy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.198","limit":"10.000"},"limitreport-memusage":{"value":4808486,"limit":52428800}},"cachereport":{"origin":"mw2225","timestamp":"20181003195521","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":760,"wgHostname":"mw2225"});});</script>
+</body>
+</html>

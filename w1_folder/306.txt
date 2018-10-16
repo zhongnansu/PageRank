@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Fermentation in winemaking - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fermentation_in_winemaking","wgTitle":"Fermentation in winemaking","wgCurRevisionId":844260400,"wgRevisionId":844260400,"wgArticleId":13824744,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Fermentation in food processing","Winemaking"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Fermentation_in_winemaking","wgRelevantArticleId":13824744,"wgRequestId":"W7x34grAIFcAAL4aZxQAAAGY","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3007963","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mthomebrew_must.JPG" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Fermentation_in_winemaking" rel="alternate"/>
+<link href="/w/index.php?title=Fermentation_in_winemaking&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Fermentation_in_winemaking&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Fermentation_in_winemaking" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Fermentation_in_winemaking rootpage-Fermentation_in_winemaking skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Fermentation in winemaking</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a class="image" href="/wiki/File:Mthomebrew_must.JPG"><img alt="" class="thumbimage" data-file-height="340" data-file-width="899" height="132" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mthomebrew_must.JPG/350px-Mthomebrew_must.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mthomebrew_must.JPG/525px-Mthomebrew_must.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mthomebrew_must.JPG/700px-Mthomebrew_must.JPG 2x" width="350"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Mthomebrew_must.JPG" title="Enlarge"></a></div>Fermenting <a href="/wiki/Must" title="Must">must</a></div></div></div>
+<p>The process of  <b><a class="mw-redirect" href="/wiki/Fermentation_(biochemistry)" title="Fermentation (biochemistry)">fermentation</a></b> in <b><a href="/wiki/Winemaking" title="Winemaking">winemaking</a></b> turns <a href="/wiki/Grape_juice" title="Grape juice">grape juice</a> into an <a class="mw-redirect" href="/wiki/Alcoholic_beverage" title="Alcoholic beverage">alcoholic beverage</a>. During fermentation, <a href="/wiki/Yeast" title="Yeast">yeasts</a> transform <a href="/wiki/Sugar" title="Sugar">sugars</a> present in the juice into <a href="/wiki/Ethanol" title="Ethanol">ethanol</a> and <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> (as a <a href="/wiki/By-product" title="By-product">by-product</a>). In winemaking, the <a href="/wiki/Temperature" title="Temperature">temperature</a> and speed of fermentation are important considerations as well as the levels of <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> present in the <a href="/wiki/Must" title="Must">must</a> at the start of the fermentation. The risk of <a href="/wiki/Stuck_fermentation" title="Stuck fermentation">stuck fermentation</a> and the development of several <a href="/wiki/Wine_fault" title="Wine fault">wine faults</a> can also occur during this stage, which can last anywhere from 5 to 14 days for <i>primary fermentation</i> and potentially another 5 to 10 days for a <i><a href="/wiki/Secondary_fermentation_(wine)" title="Secondary fermentation (wine)">secondary fermentation</a></i>. Fermentation may be done in stainless steel tanks, which is common with many white wines like <a href="/wiki/Riesling" title="Riesling">Riesling</a>, in an open wooden vat, inside a <a class="mw-redirect" href="/wiki/Wine_barrel" title="Wine barrel">wine barrel</a> and inside the <a href="/wiki/Wine_bottle" title="Wine bottle">wine bottle</a> itself as in <a href="/wiki/Sparkling_wine_production" title="Sparkling wine production">the production</a> of many <a href="/wiki/Sparkling_wine" title="Sparkling wine">sparkling wines</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Process"><span class="tocnumber">2</span> <span class="toctext">Process</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Other_compounds_involved"><span class="tocnumber">2.1</span> <span class="toctext">Other compounds involved</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Winemaking_considerations"><span class="tocnumber">3</span> <span class="toctext">Winemaking considerations</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Other_types_of_fermentation"><span class="tocnumber">4</span> <span class="toctext">Other types of fermentation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Bottle_fermentation"><span class="tocnumber">4.1</span> <span class="toctext">Bottle fermentation</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Carbonic_maceration"><span class="tocnumber">4.2</span> <span class="toctext">Carbonic maceration</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Malolactic_fermentation"><span class="tocnumber">4.3</span> <span class="toctext">Malolactic fermentation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fermentation_in_winemaking&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/History_of_wine" title="History of wine">History of wine</a></div>
+<p>The natural occurrence of fermentation means it was probably first observed long ago by humans.<sup class="reference" id="cite_ref-Johnson_pg_16_3-0"><a href="#cite_note-Johnson_pg_16-3">[3]</a></sup> The earliest uses of the word "fermentation" in relation to winemaking was in reference to the apparent "boiling" within the must that came from the <a class="mw-redirect" href="/wiki/Fermentation_(biochemistry)" title="Fermentation (biochemistry)">anaerobic reaction</a> of the yeast to the <a href="/wiki/Sugars_in_wine" title="Sugars in wine">sugars</a> in the grape juice and the release of carbon dioxide. The <a href="/wiki/Latin" title="Latin">Latin</a> <i>fervere</i> means, literally, <i>to boil</i>. In the mid-19th century, <a href="/wiki/Louis_Pasteur" title="Louis Pasteur">Louis Pasteur</a> noted the connection between yeast and the process of the fermentation in which the yeast act as catalyst and mediator through a series of a reaction that convert sugar into alcohol. The discovery of the <a href="/wiki/Glycolysis" title="Glycolysis">Embden–Meyerhof–Parnas</a> pathway by <a href="/wiki/Gustav_Embden" title="Gustav Embden">Gustav Embden</a>, <a href="/wiki/Otto_Fritz_Meyerhof" title="Otto Fritz Meyerhof">Otto Fritz Meyerhof</a> and <a href="/wiki/Jakub_Karol_Parnas" title="Jakub Karol Parnas">Jakub Karol Parnas</a> in the early 20th century contributed more to the understanding of the complex chemical processes involved in the conversion of sugar to alcohol.<sup class="reference" id="cite_ref-Oxford_pg_267_4-0"><a href="#cite_note-Oxford_pg_267-4">[4]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Process">Process</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fermentation_in_winemaking&amp;action=edit&amp;section=2" title="Edit section: Process">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Yeast_in_winemaking" title="Yeast in winemaking">Yeast in winemaking</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Yeast_on_grapes.jpg"><img alt="" class="thumbimage" data-file-height="1704" data-file-width="2272" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Yeast_on_grapes.jpg/220px-Yeast_on_grapes.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Yeast_on_grapes.jpg/330px-Yeast_on_grapes.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Yeast_on_grapes.jpg/440px-Yeast_on_grapes.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Yeast_on_grapes.jpg" title="Enlarge"></a></div>"Bloom", visible as a dusting on the berries</div></div></div>
+<p>In winemaking, there are distinctions made between <i>ambient yeast</i>s which are naturally present in wine cellars, vineyards and on the grapes themselves (sometimes known as a grape's "bloom" or "blush") and <i>cultured yeast</i> which are specifically isolated and inoculated for use in winemaking. The most common <a href="/wiki/Genus" title="Genus">genera</a> of wild yeasts found in winemaking include <i><a class="mw-redirect" href="/wiki/Candida_(genus)" title="Candida (genus)">Candida</a>, <a class="new" href="/w/index.php?title=Kl%C3%B6ckera/Hanseniaspora&amp;action=edit&amp;redlink=1" title="Klöckera/Hanseniaspora (page does not exist)">Klöckera/Hanseniaspora</a>, <a href="/wiki/Metschnikowiaceae" title="Metschnikowiaceae">Metschnikowiaceae</a>, <a href="/wiki/Pichia" title="Pichia">Pichia</a></i> and <i><a href="/wiki/Zygosaccharomyces" title="Zygosaccharomyces">Zygosaccharomyces</a></i>. Wild yeasts can produce high-quality, unique-flavored wines; however, they are often unpredictable and may introduce less desirable traits to the wine, and can even contribute to spoilage. Few yeast, and lactic and acetic acid bacterial colonies naturally live on the surface of grapes,<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> but traditional wine makers, particularly in Europe, advocate use of ambient yeast as a characteristic of the region's <i><a href="/wiki/Terroir" title="Terroir">terroir</a></i>; nevertheless, many winemakers prefer to control fermentation with predictable cultured yeast. The cultured yeasts most commonly used in winemaking belong to the <i><a href="/wiki/Saccharomyces_cerevisiae" title="Saccharomyces cerevisiae">Saccharomyces cerevisiae</a></i> (also known as "sugar yeast") species. Within this species are several hundred different <a href="/wiki/Strain_(biology)" title="Strain (biology)">strains</a> of yeast that can be used during fermentation to affect the heat or vigor of the process and enhance or suppress certain flavor characteristics of the <a href="/wiki/Varietal" title="Varietal">varietal</a>. The use of different strains of yeasts is a major contributor to the diversity of wine, even among the same grape variety.<sup class="reference" id="cite_ref-Oxford_pg_778-779_6-0"><a href="#cite_note-Oxford_pg_778-779-6">[6]</a></sup> Alternative, non-<i>Saccharomyces cerevisiae</i>, yeasts are being used more prevalently in the industry to add greater complexity to wine. After a winery has been in operation for a number of years, few yeast strains are actively involved in the fermentation process. The use of active dry yeasts reduces the variety of strains that appear in spontaneous fermentation by outcompeting those strains that are naturally present.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p><p>The addition of cultured yeast normally occurs with the yeast first in a dried or "inactive" state and is  reactivated in warm water or diluted grape juice prior to being added to the <a href="/wiki/Must" title="Must">must</a>. To thrive and be active in fermentation, the yeast needs access to a continuous supply of <a href="/wiki/Carbon" title="Carbon">carbon</a>, <a href="/wiki/Yeast_assimilable_nitrogen" title="Yeast assimilable nitrogen">nitrogen</a>, <a href="/wiki/Sulfur" title="Sulfur">sulfur</a>, <a href="/wiki/Phosphorus" title="Phosphorus">phosphorus</a> as well as access to various <a class="mw-redirect" href="/wiki/Vitamins" title="Vitamins">vitamins</a> and <a class="mw-redirect" href="/wiki/Dietary_mineral" title="Dietary mineral">minerals</a>. These components are naturally present in the grape <a href="/wiki/Must" title="Must">must</a> but their amount may be corrected by adding nutrients to the wine, in order to foster a more encouraging environment for the yeast. Newly formulated time-release nutrients, specifically manufactured for wine fermentations, offer the most advantageous conditions for yeast. <a href="/wiki/Oxygen" title="Oxygen">Oxygen</a> is needed as well, but in wine making, the risk of <a class="mw-redirect" href="/wiki/Oxidation" title="Oxidation">oxidation</a> and the lack of alcohol production from oxygenated yeast requires the exposure of oxygen to be kept at a minimum.<sup class="reference" id="cite_ref-Oxford_pg_779_8-0"><a href="#cite_note-Oxford_pg_779-8">[8]</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Yeast_and_nutrients.JPG"><img alt="" class="thumbimage" data-file-height="446" data-file-width="664" height="148" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Yeast_and_nutrients.JPG/220px-Yeast_and_nutrients.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Yeast_and_nutrients.JPG/330px-Yeast_and_nutrients.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Yeast_and_nutrients.JPG/440px-Yeast_and_nutrients.JPG 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Yeast_and_nutrients.JPG" title="Enlarge"></a></div>Dry winemaking yeast (left) and yeast nutrients used in the rehydration process to stimulate yeast cells.</div></div></div>
+<p>Upon the introduction of active yeasts to the grape must, <a href="/wiki/Phosphate" title="Phosphate">phosphates</a> are attached to the sugar and the six-carbon sugar <a href="/wiki/Molecule" title="Molecule">molecules</a> begin to be split into three-carbon pieces and go through a series of <a href="/wiki/Rearrangement_reaction" title="Rearrangement reaction">rearrangement reactions</a>. During this process, the <a class="mw-redirect" href="/wiki/Carboxylic" title="Carboxylic">carboxylic</a> carbon atom is released in the form of carbon dioxide with the remaining components becoming <a href="/wiki/Acetaldehyde" title="Acetaldehyde">acetaldehyde</a>. The absence of oxygen in this <a class="extiw" href="https://en.wiktionary.org/wiki/anaerobic" title="wikt:anaerobic">anaerobic</a> process allows the acetaldehyde to be eventually converted, by reduction, to <a href="/wiki/Ethanol" title="Ethanol">ethanol</a>. During the conversion of acetaldehyde, a small amount is converted, by oxidation, to <a href="/wiki/Acetic_acid" title="Acetic acid">acetic acid</a> which, in excess, can contribute to the wine fault known as <a href="/wiki/Wine_fault#Acetic_acid" title="Wine fault">volatile acidity</a> (vinegar taint). After the yeast has exhausted its life cycle, they fall to the bottom of the fermentation tank as sediment known as <a href="/wiki/Lees_(fermentation)" title="Lees (fermentation)">lees</a>.<sup class="reference" id="cite_ref-Oxford_pg_268_9-0"><a href="#cite_note-Oxford_pg_268-9">[9]</a></sup> Yeast ceases its activity whenever all of the sugar in must has been converted into other chemicals or whenever the alcohol content has reached 15% alcohol per unit volume; a concentration strong enough to halt the enzymatic activity of almost all strains of yeast.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Other_compounds_involved">Other compounds involved</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fermentation_in_winemaking&amp;action=edit&amp;section=3" title="Edit section: Other compounds involved">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Metabolism" title="Metabolism">metabolism</a> of <a href="/wiki/Amino_acid" title="Amino acid">amino acids</a> and breakdown of sugars by yeasts has the effect of creating other biochemical compounds that can contribute to the flavor and <a href="/wiki/Aroma_of_wine" title="Aroma of wine">aroma of wine</a>. These compounds can be considered "<a href="/wiki/Volatile_organic_compound" title="Volatile organic compound">volatile</a>" like <a href="/wiki/Aldehyde" title="Aldehyde">aldehydes</a>, <a href="/wiki/Ethyl_acetate" title="Ethyl acetate">ethyl acetate</a>, <a href="/wiki/Ester" title="Ester">ester</a>, <a href="/wiki/Fatty_acid" title="Fatty acid">fatty acids</a>, <a class="mw-redirect" href="/wiki/Fusel_oils" title="Fusel oils">fusel oils</a>, <a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">hydrogen sulfide</a>, <a href="/wiki/Ketone" title="Ketone">ketones</a>  and <a class="mw-redirect" href="/wiki/Mercaptans" title="Mercaptans">mercaptans</a> or "non-volatile" like <a href="/wiki/Glycerol" title="Glycerol">glycerol</a>, acetic acid and <a href="/wiki/Succinic_acid" title="Succinic acid">succinic acid</a>. Yeast also has the effect during fermentation of releasing <a href="/wiki/Glycoside_hydrolase" title="Glycoside hydrolase">glycoside hydrolase</a> which can <a class="mw-redirect" href="/wiki/Hydrolyse" title="Hydrolyse">hydrolyse</a> the flavor precursors of <a class="mw-redirect" href="/wiki/Aliphatics" title="Aliphatics">aliphatics</a> (a flavor component that reacts with <a href="/wiki/Oak_(wine)" title="Oak (wine)">oak</a>), <a href="/wiki/Benzene" title="Benzene">benzene</a> derivatives, <a href="/wiki/Monoterpene" title="Monoterpene">monoterpenes</a> (responsible for floral aromas from grapes like <a class="mw-redirect" href="/wiki/Muscat_(grape_and_wine)" title="Muscat (grape and wine)">Muscat</a> and <a class="mw-redirect" href="/wiki/Traminer" title="Traminer">Traminer</a>), <a class="mw-redirect" href="/wiki/Norisoprenoid" title="Norisoprenoid">norisoprenoids</a> (responsible for some of the spice notes in <a href="/wiki/Chardonnay" title="Chardonnay">Chardonnay</a>), and <a class="mw-redirect" href="/wiki/Natural_phenols_in_wine" title="Natural phenols in wine">phenols</a>.
+</p><p>Some strains of yeasts can generate volatile <a href="/wiki/Thiol" title="Thiol">thiols</a> which contribute to the fruity aromas in many wines such as the <a href="/wiki/Gooseberry" title="Gooseberry">gooseberry</a> scent commonly associated with <a href="/wiki/Sauvignon_blanc" title="Sauvignon blanc">Sauvignon blanc</a>. <br/><i><a href="/wiki/Brettanomyces" title="Brettanomyces">Brettanomyces</a></i> yeasts are responsible for the "barnyard aroma" characteristic in some red wines like <a href="/wiki/Burgundy_wine" title="Burgundy wine">Burgundy</a> and <a href="/wiki/Pinot_noir" title="Pinot noir">Pinot noir</a>.<sup class="reference" id="cite_ref-Oxford_pg_780_11-0"><a href="#cite_note-Oxford_pg_780-11">[11]</a></sup>
+</p><p>Methanol is not a major constituent of wine. The usual concentration range is between 0.1 g/liter and 0.2 g/liter. These small traces have no adverse effect on people and no direct effect on the senses.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Winemaking_considerations">Winemaking considerations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fermentation_in_winemaking&amp;action=edit&amp;section=4" title="Edit section: Winemaking considerations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Fermenting.jpg"><img alt="" class="thumbimage" data-file-height="211" data-file-width="300" height="155" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Fermenting.jpg/220px-Fermenting.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/7/77/Fermenting.jpg 1.5x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Fermenting.jpg" title="Enlarge"></a></div>Carbon dioxide is visible during the fermentation process in the form of bubbles in the must.</div></div></div>
+<p>During fermentation, there are several factors that winemakers take into consideration, with the most influential to ethanol production being sugar content in the must, the yeast strain used, and the fermentation temperature.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> The biochemical process of fermentation itself creates a lot of residual <a href="/wiki/Heat" title="Heat">heat</a> which can take the  must out of the ideal temperature range for the wine. Typically, white wine is fermented between 18-20 °C (64-68 °F)  though a wine maker may choose to use a higher temperature to bring out some of the complexity of the wine. Red wine is typically fermented at higher temperatures up to 29 °C (85 °F). Fermentation at higher temperatures may have adverse effect on the wine in stunning the yeast to inactivity and even "boiling off" some of the flavors of the wines. Some winemakers may ferment their red wines at cooler temperatures, more typical of white wines, in order to bring out more fruit flavors.<sup class="reference" id="cite_ref-Oxford_pg_268_9-1"><a href="#cite_note-Oxford_pg_268-9">[9]</a></sup>
+</p><p>To control the heat generated during fermentation, the winemaker must choose a suitable vessel size or else use a cooling device. Various kinds of cooling devices are available, ranging from the ancient <a href="/wiki/Bordeaux_wine" title="Bordeaux wine">Bordeaux</a> practice of placing the fermentation vat atop blocks of ice to sophisticated fermentation tanks that have built-in cooling rings.<sup class="reference" id="cite_ref-Robinson_pg_82_14-0"><a href="#cite_note-Robinson_pg_82-14">[14]</a></sup>
+</p><p>A risk factor involved with fermentation is the development of chemical residue and spoilage which can be corrected with the addition of <a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">sulfur dioxide</a> (SO<sub>2</sub>), although excess SO<sub>2</sub> can lead to a wine fault. A winemaker who wishes to make a wine with high levels of <a class="mw-redirect" href="/wiki/Residual_sugar" title="Residual sugar">residual sugar</a> (like a <a href="/wiki/Dessert_wine" title="Dessert wine">dessert wine</a>) may stop fermentation early either by dropping the temperature of the must to stun the yeast or by adding a high level of alcohol (like <a href="/wiki/Brandy" title="Brandy">brandy</a>) to the must to kill off the yeast and create a <a href="/wiki/Fortified_wine" title="Fortified wine">fortified wine</a>.<sup class="reference" id="cite_ref-Oxford_pg_268_9-2"><a href="#cite_note-Oxford_pg_268-9">[9]</a></sup>
+</p><p>The ethanol produced through fermentation acts as an important co-solvent to the non-polar compound that water cannot dissolve, such as pigments from grape skins, giving wine varieties their distinct color, and other aromatics. Ethanol and the acidity of wine act as an inhibitor to bacterial growth, allowing wine to be safely kept for years in the absence of air.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Other_types_of_fermentation">Other types of fermentation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fermentation_in_winemaking&amp;action=edit&amp;section=5" title="Edit section: Other types of fermentation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Barrel_fermented_California_Chard.jpg"><img alt="" class="thumbimage" data-file-height="2592" data-file-width="1936" height="295" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Barrel_fermented_California_Chard.jpg/220px-Barrel_fermented_California_Chard.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Barrel_fermented_California_Chard.jpg/330px-Barrel_fermented_California_Chard.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Barrel_fermented_California_Chard.jpg/440px-Barrel_fermented_California_Chard.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Barrel_fermented_California_Chard.jpg" title="Enlarge"></a></div>A California Chardonnay that shows it has been barrel fermented.</div></div></div>
+<p>In winemaking, there are different processes that fall under the title of "Fermentation" but might not follow the same procedure commonly associated with wine fermentation.
+</p>
+<h3><span class="mw-headline" id="Bottle_fermentation">Bottle fermentation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fermentation_in_winemaking&amp;action=edit&amp;section=6" title="Edit section: Bottle fermentation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Bottle fermentation is a method of <a href="/wiki/Sparkling_wine_production" title="Sparkling wine production">sparkling wine production</a>, originating in the <a href="/wiki/Champagne_(wine_region)" title="Champagne (wine region)">Champagne</a> region where after the <a class="mw-redirect" href="/wiki/Cuvee" title="Cuvee">cuvee</a> has gone through a secondary yeast fermentation the wine is then bottled and goes through a secondary fermentation where sugar and additional yeast known as <i>liqueur de tirage</i> is added to the wine. This secondary fermentation is what creates the carbon dioxide bubbles that sparkling wine is known for.<sup class="reference" id="cite_ref-MacNeil_pg_168-169_16-0"><a href="#cite_note-MacNeil_pg_168-169-16">[16]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Carbonic_maceration">Carbonic maceration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fermentation_in_winemaking&amp;action=edit&amp;section=7" title="Edit section: Carbonic maceration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The process of <a href="/wiki/Carbonic_maceration" title="Carbonic maceration">carbonic maceration</a> is also known as <b>whole grape fermentation</b> where instead of yeast being added, the grapes fermentation is encouraged to take place inside the individual grape berries. This method is common in the creation of <a href="/wiki/Beaujolais" title="Beaujolais">Beaujolais</a> wine and involves whole clusters of grapes being stored in a closed container with the oxygen in the container being replaced with carbon dioxide.<sup class="reference" id="cite_ref-MacNeil_pg_33-34_17-0"><a href="#cite_note-MacNeil_pg_33-34-17">[17]</a></sup> Unlike normal fermentation where yeast converts sugar into alcohol, carbonic maceration works by enzymes within the grape breaking down the cellular matter to form <a href="/wiki/Ethanol" title="Ethanol">ethanol</a> and other chemical properties. The resulting wines are typically soft and fruity.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Malolactic_fermentation">Malolactic fermentation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fermentation_in_winemaking&amp;action=edit&amp;section=8" title="Edit section: Malolactic fermentation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Instead of yeast, <a href="/wiki/Bacteria" title="Bacteria">bacteria</a> play a fundamental role in <a href="/wiki/Malolactic_fermentation" title="Malolactic fermentation">malolactic fermentation</a> which is essentially the conversion of <a href="/wiki/Malic_acid" title="Malic acid">malic acid</a> into <a href="/wiki/Lactic_acid" title="Lactic acid">lactic acid</a>. This has the benefit of reducing some of the tartness and making the resulting wine taste softer. Depending on the style of wine that the winemaker is trying to produce, malolactic fermentation may take place at the very same time as the yeast fermentation.<sup class="reference" id="cite_ref-MacNeil_pg_35_19-0"><a href="#cite_note-MacNeil_pg_35-19">[19]</a></sup> Alternatively, some strains of yeast may be developed that can convert L-malate to L-lactate during alcohol fermentation.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> For example, <i>Saccharomyces cerevisiae</i> strain ML01 (<i>S. cerevisiae strain</i> ML01), which carries a gene encoding malolactic enzyme from <i>Oenococcus oeni</i> and a gene encoding malate permease from <i>Schizosaccharomyces pombe</i>. <i>S. cerevisiae strain</i> ML01 has received regulatory approval in both Canada and the United States.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>
+</p>
+<ul><li><a href="/wiki/Co-fermentation" title="Co-fermentation">Co-fermentation</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fermentation_in_winemaking&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 33em; -webkit-column-width: 33em; column-width: 33em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">J. Robinson (ed) <i>"The Oxford Companion to Wine"</i> Third Edition  pg 267-269 Oxford University Press 2006 <style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-19-860990-6" title="Special:BookSources/0-19-860990-6">0-19-860990-6</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">J. Robinson <i>Jancis Robinson's Wine Course</i> Third Edition pg 74-84 Abbeville Press 2003 <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7892-0883-0" title="Special:BookSources/0-7892-0883-0">0-7892-0883-0</a></span>
+</li>
+<li id="cite_note-Johnson_pg_16-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Johnson_pg_16_3-0">^</a></b></span> <span class="reference-text">H. Johnson <i>Vintage: The Story of Wine</i> pg 16 Simon and Schuster 1989 <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-671-68702-6" title="Special:BookSources/0-671-68702-6">0-671-68702-6</a></span>
+</li>
+<li id="cite_note-Oxford_pg_267-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Oxford_pg_267_4-0">^</a></b></span> <span class="reference-text">J. Robinson (ed) <i>"The Oxford Companion to Wine"</i> Third Edition  pg 267 Oxford University Press 2006 <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-19-860990-6" title="Special:BookSources/0-19-860990-6">0-19-860990-6</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Gemma Beltran, Maria Jesus Torija, Maite Novo, Noemi Ferrer, Montserrat Poblet, Jose M. Guillamon, Nicholas Rozes, and Albert Mas. “Analysis of Yeast Populations During Alcohol Fermentation: A Six Year Follow-up Study”. pg3-4 Systematic and Applied Microbiology 25.2 (2002): 287-293. Web. 19 Aug. 2012.</span>
+</li>
+<li id="cite_note-Oxford_pg_778-779-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Oxford_pg_778-779_6-0">^</a></b></span> <span class="reference-text">J. Robinson (ed) <i>"The Oxford Companion to Wine"</i> Third Edition  pg 778-779 Oxford University Press 2006 <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-19-860990-6" title="Special:BookSources/0-19-860990-6">0-19-860990-6</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Gemma Beltran, Maria Jesus Torija, Maite Novo, Noemi Ferrer, Montserrat Poblet, Jose M. Guillamon, Nicholas Rozes, and Albert Mas. “Analysis of Yeast Populations During Alcohol Fermentation: A Six Year Follow-up Study”.  Systematic and Applied Microbiology 25.2 (2002): 287-293. Web. 19 Aug. 2012.</span>
+</li>
+<li id="cite_note-Oxford_pg_779-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Oxford_pg_779_8-0">^</a></b></span> <span class="reference-text">J. Robinson (ed) <i>"The Oxford Companion to Wine"</i> Third Edition  pg 779 Oxford University Press 2006 <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-19-860990-6" title="Special:BookSources/0-19-860990-6">0-19-860990-6</a></span>
+</li>
+<li id="cite_note-Oxford_pg_268-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Oxford_pg_268_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Oxford_pg_268_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Oxford_pg_268_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">J. Robinson (ed) <i>"The Oxford Companion to Wine"</i> Third Edition  pg 268 Oxford University Press 2006 <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-19-860990-6" title="Special:BookSources/0-19-860990-6">0-19-860990-6</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">"fermentation." <i>Oddbins Dictionary of Wine</i>. London: Bloomsbury Publishing Ltd, 2004. Credo Reference. Web. 17 September 2012.</span>
+</li>
+<li id="cite_note-Oxford_pg_780-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Oxford_pg_780_11-0">^</a></b></span> <span class="reference-text">J. Robinson (ed) <i>The Oxford Companion to Wine</i> Third Edition  pg 780 Oxford University Press 2006 <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-19-860990-6" title="Special:BookSources/0-19-860990-6">0-19-860990-6</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Jackson, Ronald S. <i>Wine Science Principles and Applications</i>. pg 277 San Diego, California: Academic Press, 2008. Print.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Jackson, Ronald S. Wine Science Principles and Applications. pg276 San Diego, California: Academic Press, 2008. Print.</span>
+</li>
+<li id="cite_note-Robinson_pg_82-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Robinson_pg_82_14-0">^</a></b></span> <span class="reference-text">J. Robinson <i>Jancis Robinson's Wine Course</i> Third Edition pg 82 Abbeville Press 2003 <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7892-0883-0" title="Special:BookSources/0-7892-0883-0">0-7892-0883-0</a></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Jackson, Ronald S. <i>Wine Science Principles and Applications</i>. pg 276 San Diego, California: Academic Press, 2008. Print.</span>
+</li>
+<li id="cite_note-MacNeil_pg_168-169-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-MacNeil_pg_168-169_16-0">^</a></b></span> <span class="reference-text">K. MacNeil <i>The Wine Bible</i> pg 168-169 Workman Publishing 2001 <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-56305-434-5" title="Special:BookSources/1-56305-434-5">1-56305-434-5</a></span>
+</li>
+<li id="cite_note-MacNeil_pg_33-34-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-MacNeil_pg_33-34_17-0">^</a></b></span> <span class="reference-text">K. MacNeil <i>The Wine Bible</i> pg 33-34 Workman Publishing 2001 <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-56305-434-5" title="Special:BookSources/1-56305-434-5">1-56305-434-5</a></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">D. Bird "<i>Understanding Wine Technology</i>" pg 89-92 DBQA Publishing 2005 <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-891267-91-4" title="Special:BookSources/1-891267-91-4">1-891267-91-4</a></span>
+</li>
+<li id="cite_note-MacNeil_pg_35-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-MacNeil_pg_35_19-0">^</a></b></span> <span class="reference-text">K. MacNeil <i>The Wine Bible</i> pg 35 Workman Publishing 2001 <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-56305-434-5" title="Special:BookSources/1-56305-434-5">1-56305-434-5</a></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a class="external free" href="http://landfood.ubc.ca/wine/vanvuuren/vanvuuren_malolatic-yeast.html" rel="nofollow">http://landfood.ubc.ca/wine/vanvuuren/vanvuuren_malolatic-yeast.html</a></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.ec.gc.ca/subsnouvelles-newsubs/default.asp?lang=En&amp;n=EA0C2846-1" rel="nofollow">http://www.ec.gc.ca/subsnouvelles-newsubs/default.asp?lang=En&amp;n=EA0C2846-1</a></span>
+</li>
+</ol></div>
+<div aria-labelledby="Wines_and_winemaking" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Wines" title="Template:Wines"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Wines" title="Template talk:Wines"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wines&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Wines_and_winemaking" style="font-size:114%;margin:0 4em"><a href="/wiki/Wine" title="Wine">Wines</a> and <a href="/wiki/Winemaking" title="Winemaking">winemaking</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="General" style="font-size:114%;margin:0 4em">General</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acids_in_wine" title="Acids in wine">Acids in wine</a></li>
+<li><a href="/wiki/Aging_of_wine" title="Aging of wine">Aging of wine</a></li>
+<li><a href="/wiki/Annual_growth_cycle_of_grapevines" title="Annual growth cycle of grapevines">Annual growth cycle of grapevines</a></li>
+<li><a href="/wiki/Aroma_of_wine" title="Aroma of wine">Aroma of wine</a></li>
+<li><a href="/wiki/Alternative_wine_closure" title="Alternative wine closure">Alternative wine closure</a></li>
+<li><a href="/wiki/Cork_(material)" title="Cork (material)">Cork</a></li>
+<li><a href="/wiki/History_of_wine" title="History of wine">History</a></li>
+<li><a href="/wiki/Oak_(wine)" title="Oak (wine)">Oak</a></li>
+<li><a href="/wiki/Oenology" title="Oenology">Oenology</a></li>
+<li><a href="/wiki/Screw_cap_(wine)" title="Screw cap (wine)">Screw cap</a></li>
+<li><a href="/wiki/Sommelier" title="Sommelier">Sommelier</a></li>
+<li><i><a href="/wiki/Terroir" title="Terroir">Terroir</a></i></li>
+<li><a href="/wiki/Vineyard" title="Vineyard">Vineyard</a></li>
+<li><a href="/wiki/Viticulture" title="Viticulture">Viticulture</a></li>
+<li><a href="/wiki/Wine_and_food_matching" title="Wine and food matching">Wine and food matching</a></li>
+<li><a href="/wiki/Wine_fault" title="Wine fault">Wine fault</a></li>
+<li><a href="/wiki/List_of_wine_personalities" title="List of wine personalities">Wine personalities</a></li>
+<li><a href="/wiki/Wine_tasting" title="Wine tasting">Wine tasting</a></li>
+<li><a href="/wiki/Wine_tasting_descriptors" title="Wine tasting descriptors">Wine tasting descriptors</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="Styles_and_methods_of_production" style="font-size:114%;margin:0 4em">Styles and methods of production</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aromatised_wine" title="Aromatised wine">Aromatized</a></li>
+<li><a href="/wiki/Biodynamic_wine" title="Biodynamic wine">Biodynamic</a></li>
+<li><a href="/wiki/Dessert_wine" title="Dessert wine">Dessert</a></li>
+<li><a href="/wiki/Fortified_wine" title="Fortified wine">Fortified</a></li>
+<li><a href="/wiki/Ice_wine" title="Ice wine">Ice</a></li>
+<li><a href="/wiki/Kosher_wine" title="Kosher wine">Kosher</a></li>
+<li><a href="/wiki/Noble_rot" title="Noble rot">Noble rot</a></li>
+<li><a href="/wiki/Natural_wine" title="Natural wine">Natural wine</a></li>
+<li><a href="/wiki/Skin-contact_wine" title="Skin-contact wine">Orange</a></li>
+<li><a href="/wiki/Organic_wine" title="Organic wine">Organic</a></li>
+<li><a href="/wiki/Red_wine" title="Red wine">Red</a></li>
+<li><a href="/wiki/Ros%C3%A9" title="Rosé">Rosé</a></li>
+<li><a href="/wiki/Sparkling_wine" title="Sparkling wine">Sparkling</a></li>
+<li><a href="/wiki/Straw_wine" title="Straw wine">Straw</a></li>
+<li><a href="/wiki/Table_wine" title="Table wine">Table</a></li>
+<li><a href="/wiki/White_wine" title="White wine">White</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="Grape_varieties" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_grape_varieties" title="List of grape varieties">Grape varieties</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">International</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal;"><a href="/wiki/White_wine" title="White wine">White</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chardonnay" title="Chardonnay">Chardonnay</a></li>
+<li><a href="/wiki/Chenin_blanc" title="Chenin blanc">Chenin blanc</a></li>
+<li><a href="/wiki/Gew%C3%BCrztraminer" title="Gewürztraminer">Gewürztraminer</a></li>
+<li><a href="/wiki/Muscat_(grape)" title="Muscat (grape)">Muscat</a></li>
+<li><a href="/wiki/Riesling" title="Riesling">Riesling</a></li>
+<li><a href="/wiki/Sauvignon_blanc" title="Sauvignon blanc">Sauvignon blanc</a></li>
+<li><a href="/wiki/S%C3%A9millon" title="Sémillon">Sémillon</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal;"><a href="/wiki/Red_wine" title="Red wine">Red</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cabernet_Sauvignon" title="Cabernet Sauvignon">Cabernet Sauvignon</a></li>
+<li><a href="/wiki/Merlot" title="Merlot">Merlot</a></li>
+<li><a href="/wiki/Pinot_noir" title="Pinot noir">Pinot noir</a></li>
+<li><a href="/wiki/Syrah" title="Syrah">Syrah / Shiraz</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Regional</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">White</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agh_Shani" title="Agh Shani">Agh Shani</a></li>
+<li><a href="/wiki/Albari%C3%B1o" title="Albariño">Albariño</a></li>
+<li><a href="/wiki/Aligot%C3%A9" title="Aligoté">Aligoté</a></li>
+<li><a href="/wiki/Arneis" title="Arneis">Arneis</a></li>
+<li><a href="/wiki/Assyrtiko" title="Assyrtiko">Assyrtiko</a></li>
+<li><a href="/wiki/Chinuri" title="Chinuri">Chinuri</a></li>
+<li><a href="/wiki/Colombard" title="Colombard">Colombard</a></li>
+<li><a href="/wiki/Furmint" title="Furmint">Furmint</a></li>
+<li><a href="/wiki/Garganega" title="Garganega">Garganega</a></li>
+<li><a href="/wiki/Glera_(grape)" title="Glera (grape)">Glera</a></li>
+<li><a href="/wiki/Gr%C3%BCner_Veltliner" title="Grüner Veltliner">Grüner Veltliner</a></li>
+<li><a href="/wiki/Kerner_(grape)" title="Kerner (grape)">Kerner</a></li>
+<li><a class="new" href="/w/index.php?title=Khikhvi&amp;action=edit&amp;redlink=1" title="Khikhvi (page does not exist)">Khikhvi</a></li>
+<li><a class="new" href="/w/index.php?title=Krakhuna&amp;action=edit&amp;redlink=1" title="Krakhuna (page does not exist)">Krakhuna</a></li>
+<li><a href="/wiki/Krsta%C4%8D" title="Krstač">Krstač</a></li>
+<li><a href="/wiki/Malvasia" title="Malvasia">Malvasia</a></li>
+<li><a class="new" href="/w/index.php?title=Manata&amp;action=edit&amp;redlink=1" title="Manata (page does not exist)">Manata</a></li>
+<li><a href="/wiki/Marsanne" title="Marsanne">Marsanne</a></li>
+<li><a href="/wiki/Mtsvane" title="Mtsvane">Mtsvani</a></li>
+<li><a href="/wiki/M%C3%BCller-Thurgau" title="Müller-Thurgau">Müller-Thurgau</a></li>
+<li><a href="/wiki/Pinot_blanc" title="Pinot blanc">Pinot blanc</a></li>
+<li><a href="/wiki/Pinot_gris" title="Pinot gris">Pinot gris / Pinot grigio</a></li>
+<li><a href="/wiki/Ribolla_Gialla" title="Ribolla Gialla">Ribolla Gialla</a></li>
+<li><a href="/wiki/Rkatsiteli" title="Rkatsiteli">Rkatsiteli</a></li>
+<li><a href="/wiki/Roussanne" title="Roussanne">Roussanne</a></li>
+<li><a href="/wiki/Shesh_i_Bardh%C3%AB" title="Shesh i Bardhë">Shesh i Bardhë</a></li>
+<li><a href="/wiki/Silvaner" title="Silvaner">Silvaner</a></li>
+<li><a href="/wiki/Smederevka" title="Smederevka">Smederevka</a></li>
+<li><a href="/wiki/Tamjanika" title="Tamjanika">Tamjanika</a></li>
+<li><a class="new" href="/w/index.php?title=Tetra_(grape)&amp;action=edit&amp;redlink=1" title="Tetra (grape) (page does not exist)">Tetra</a></li>
+<li><a href="/wiki/Torront%C3%A9s" title="Torrontés">Torrontés</a></li>
+<li><a href="/wiki/Trebbiano" title="Trebbiano">Ugni blanc / Trebbiano</a></li>
+<li><a class="new" href="/w/index.php?title=Tsitska&amp;action=edit&amp;redlink=1" title="Tsitska (page does not exist)">Tsitska</a></li>
+<li><a href="/wiki/Tsolikouri" title="Tsolikouri">Tsolikouri</a></li>
+<li><a href="/wiki/Verdejo" title="Verdejo">Verdejo</a></li>
+<li><a href="/wiki/Verdelho" title="Verdelho">Verdelho</a></li>
+<li><a href="/wiki/Verdicchio" title="Verdicchio">Verdicchio</a></li>
+<li><a href="/wiki/Viognier" title="Viognier">Viognier</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">Red</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abbuoto" title="Abbuoto">Abbuoto</a></li>
+<li><a href="/wiki/Agiorgitiko" title="Agiorgitiko">Agiorgitiko</a></li>
+<li><a href="/wiki/Aglianico" title="Aglianico">Aglianico</a></li>
+<li><a class="new" href="/w/index.php?title=Aladasturi&amp;action=edit&amp;redlink=1" title="Aladasturi (page does not exist)">Aladasturi</a></li>
+<li><a href="/wiki/Aleksandrouli" title="Aleksandrouli">Aleksandrouli</a></li>
+<li><a href="/wiki/Alicante_Bouschet" title="Alicante Bouschet">Alicante Bouschet</a></li>
+<li><a class="new" href="/w/index.php?title=Asuretuli&amp;action=edit&amp;redlink=1" title="Asuretuli (page does not exist)">Asuretuli</a></li>
+<li><a href="/wiki/B%C4%83beasc%C4%83_neagr%C4%83" title="Băbească neagră">Băbească neagră</a></li>
+<li><a href="/wiki/Barbera" title="Barbera">Barbera</a></li>
+<li><a href="/wiki/Blaufr%C3%A4nkisch" title="Blaufränkisch">Blaufränkisch</a></li>
+<li><a href="/wiki/Bobal" title="Bobal">Bobal</a></li>
+<li><a href="/wiki/Cabernet_Franc" title="Cabernet Franc">Cabernet Franc</a></li>
+<li><a href="/wiki/Cai%C3%B1o_tinto" title="Caiño tinto">Caiño tinto</a></li>
+<li><a href="/wiki/Caladoc" title="Caladoc">Caladoc</a></li>
+<li><a href="/wiki/Calitor" title="Calitor">Calitor</a></li>
+<li><a href="/wiki/%C3%87alkaras%C4%B1" title="Çalkarası">Çalkarası</a></li>
+<li><a href="/wiki/Camaraou_noir" title="Camaraou noir">Camaraou</a></li>
+<li><a href="/wiki/Canaiolo" title="Canaiolo">Canaiolo</a></li>
+<li><a href="/wiki/Carignan" title="Carignan">Carignan</a></li>
+<li><a href="/wiki/Carm%C3%A9n%C3%A8re" title="Carménère">Carménère</a></li>
+<li><a href="/wiki/Castel%C3%A3o_(grape)" title="Castelão (grape)">Castelão</a></li>
+<li><a href="/wiki/Catanese_nero" title="Catanese nero">Catanese</a></li>
+<li><a href="/wiki/Cesanese_Comune" title="Cesanese Comune">Cesanese</a></li>
+<li><a href="/wiki/C%C3%A9sar_(grape)" title="César (grape)">César</a></li>
+<li><a href="/wiki/Chatus_(wine_grape)" title="Chatus (wine grape)">Chatus</a></li>
+<li><a href="/wiki/Cienna" title="Cienna">Cienna</a></li>
+<li><a href="/wiki/Ciliegiolo" title="Ciliegiolo">Ciliegiolo</a></li>
+<li><a href="/wiki/Cinsaut" title="Cinsaut">Cinsaut</a></li>
+<li><a href="/wiki/Counoise" title="Counoise">Counoise</a></li>
+<li><a href="/wiki/Cornalin_d%27Aoste" title="Cornalin d'Aoste">Cornalin d'Aoste</a></li>
+<li><a href="/wiki/Corvina" title="Corvina">Corvina</a></li>
+<li><a href="/wiki/Dolcetto" title="Dolcetto">Dolcetto</a></li>
+<li><a class="new" href="/w/index.php?title=Dzvelshava&amp;action=edit&amp;redlink=1" title="Dzvelshava (page does not exist)">Dzvelshava</a></li>
+<li><a href="/wiki/Enfarin%C3%A9_noir" title="Enfariné noir">Enfariné noir</a></li>
+<li><a href="/wiki/Espadeiro" title="Espadeiro">Espadeiro</a></li>
+<li><a href="/wiki/%C3%89traire_de_la_Dui" title="Étraire de la Dui">Étraire</a></li>
+<li><a href="/wiki/Fer" title="Fer">Fer</a></li>
+<li><a href="/wiki/Feteasc%C4%83_neagr%C4%83" title="Fetească neagră">Fetească neagră</a></li>
+<li><a href="/wiki/Forcallat_tinta" title="Forcallat tinta">Forcallat tinta</a></li>
+<li><a href="/wiki/Fortana" title="Fortana">Fortana</a></li>
+<li><a href="/wiki/Frappato" title="Frappato">Frappato</a></li>
+<li><a href="/wiki/Freisa" title="Freisa">Freisa</a></li>
+<li><a href="/wiki/Fr%C3%BChroter_Veltliner" title="Frühroter Veltliner">Frühroter Veltliner</a></li>
+<li><a href="/wiki/Fuella" title="Fuella">Fuella</a></li>
+<li><a href="/wiki/Gaglioppo" title="Gaglioppo">Gaglioppo</a></li>
+<li><a href="/wiki/Gamaret" title="Gamaret">Gamaret</a></li>
+<li><a href="/wiki/Gamay" title="Gamay">Gamay</a></li>
+<li><a href="/wiki/Garanoir" title="Garanoir">Garanoir</a></li>
+<li><a href="/wiki/Garr%C3%B3" title="Garró">Garró</a></li>
+<li><a class="new" href="/w/index.php?title=Gibrita&amp;action=edit&amp;redlink=1" title="Gibrita (page does not exist)">Gibrita</a></li>
+<li><a href="/wiki/Gir%C3%B2" title="Girò">Girò</a></li>
+<li><a href="/wiki/Gouget_noir" title="Gouget noir">Gouget noir</a></li>
+<li><a href="/wiki/Graciano" title="Graciano">Graciano</a></li>
+<li><a href="/wiki/Grand_Noir_de_la_Calmette" title="Grand Noir de la Calmette">Grand Noir de la Calmette</a></li>
+<li><a href="/wiki/Grenache" title="Grenache">Grenache / Garnacha</a></li>
+<li><a href="/wiki/Grignolino" title="Grignolino">Grignolino</a></li>
+<li><a href="/wiki/Grisa_nera" title="Grisa nera">Grisa nera</a></li>
+<li><a href="/wiki/Grolleau_(grape)" title="Grolleau (grape)">Grolleau</a></li>
+<li><a href="/wiki/Groppello" title="Groppello">Groppello</a></li>
+<li><a href="/wiki/Gros_Verdot" title="Gros Verdot">Gros Verdot</a></li>
+<li><a href="/wiki/Gueuche_noir" title="Gueuche noir">Gueuche noir</a></li>
+<li><a href="/wiki/Helfensteiner" title="Helfensteiner">Helfensteiner</a></li>
+<li><a href="/wiki/Heroldrebe" title="Heroldrebe">Heroldrebe</a></li>
+<li><a href="/wiki/Hondarribi_Beltza" title="Hondarribi Beltza">Hondarribi Beltza</a></li>
+<li><a href="/wiki/Hron_(grape)" title="Hron (grape)">Hron</a></li>
+<li><a href="/wiki/Izabella" title="Izabella">Izabella</a></li>
+<li><a href="/wiki/Ja%C3%A9n_tinto_(grape)" title="Jaén tinto (grape)">Jaén tinto</a></li>
+<li><a href="/wiki/Joubertin" title="Joubertin">Joubertin</a></li>
+<li><a href="/wiki/Juan_Garc%C3%ADa_(grape)" title="Juan García (grape)">Juan García</a></li>
+<li><a href="/wiki/Kadarka" title="Kadarka">Kadarka</a></li>
+<li><a href="/wiki/Kalecik_Karas%C4%B1" title="Kalecik Karası">Kalecik Karası</a></li>
+<li><a href="/wiki/Kotsifali" title="Kotsifali">Kotsifali</a></li>
+<li><a href="/wiki/Krasnostop_Zolotovsky" title="Krasnostop Zolotovsky">Krasnostop</a></li>
+<li><a href="/wiki/Kratosija" title="Kratosija">Kratosija</a></li>
+<li><a href="/wiki/Lacrima_(grape)" title="Lacrima (grape)">Lacrima</a></li>
+<li><a href="/wiki/Lagrein" title="Lagrein">Lagrein</a></li>
+<li><a href="/wiki/Lambrusco" title="Lambrusco">Lambrusco</a></li>
+<li><a href="/wiki/Liatiko" title="Liatiko">Liatiko</a></li>
+<li><a href="/wiki/Limnio" title="Limnio">Limnio</a></li>
+<li><a href="/wiki/List%C3%A1n_negro" title="Listán negro">Listán negro</a></li>
+<li><a href="/wiki/Madrasa_(grape)" title="Madrasa (grape)">Madrasa</a></li>
+<li><a href="/wiki/Magarach_Ruby" title="Magarach Ruby">Magarach Ruby</a></li>
+<li><a href="/wiki/Magliocco_Canino" title="Magliocco Canino">Magliocco Canino</a></li>
+<li><a href="/wiki/Magliocco_Dolce" title="Magliocco Dolce">Magliocco Dolce</a></li>
+<li><a href="/wiki/Mammolo" title="Mammolo">Mammolo</a></li>
+<li><a href="/wiki/Mandilaria" title="Mandilaria">Mandilaria</a></li>
+<li><a href="/wiki/Manseng_noir" title="Manseng noir">Manseng</a></li>
+<li><a href="/wiki/Manto_negro" title="Manto negro">Manto negro</a></li>
+<li><a href="/wiki/Malbec" title="Malbec">Malbec</a></li>
+<li><a href="/wiki/Maratheftiko" title="Maratheftiko">Maratheftiko</a></li>
+<li><a href="/wiki/Marselan" title="Marselan">Marselan</a></li>
+<li><a href="/wiki/Marzemino" title="Marzemino">Marzemino</a></li>
+<li><a href="/wiki/Mauzac_noir" title="Mauzac noir">Mauzac noir</a></li>
+<li><a href="/wiki/Mavro" title="Mavro">Mavro</a></li>
+<li><a href="/wiki/Mavrodafni" title="Mavrodafni">Mavrodafni</a></li>
+<li><a href="/wiki/Mavrud" title="Mavrud">Mavrud</a></li>
+<li><a href="/wiki/Mencia" title="Mencia">Mencía / Jaen</a></li>
+<li><a href="/wiki/Mission_(grape)" title="Mission (grape)">Mission</a></li>
+<li><a href="/wiki/Montepulciano_(grape)" title="Montepulciano (grape)">Montepulciano</a></li>
+<li><a href="/wiki/Mujuretuli" title="Mujuretuli">Mujuretuli</a></li>
+<li><a href="/wiki/Mourv%C3%A8dre" title="Mourvèdre">Mourvèdre / Monastrell / Mataro</a></li>
+<li><a href="/wiki/Nebbiolo" title="Nebbiolo">Nebbiolo</a></li>
+<li><a href="/wiki/Negroamaro" title="Negroamaro">Negroamaro</a></li>
+<li><a href="/wiki/Nero_d%27Avola" title="Nero d'Avola">Nero d'Avola</a></li>
+<li><a class="new" href="/w/index.php?title=Ojaleshi&amp;action=edit&amp;redlink=1" title="Ojaleshi (page does not exist)">Ojaleshi</a></li>
+<li><a href="/wiki/Petit_Verdot" title="Petit Verdot">Petit Verdot</a></li>
+<li><a href="/wiki/Durif" title="Durif">Petite sirah / Durif</a></li>
+<li><a href="/wiki/Piedirosso" title="Piedirosso">Piedirosso</a></li>
+<li><a href="/wiki/Pinot_Meunier" title="Pinot Meunier">Pinot Meunier</a></li>
+<li><a href="/wiki/Pinotage" title="Pinotage">Pinotage</a></li>
+<li><a href="/wiki/Plavac_Mali" title="Plavac Mali">Plavac Mali</a></li>
+<li><a href="/wiki/Poulsard" title="Poulsard">Poulsard</a></li>
+<li><a href="/wiki/Prokupac" title="Prokupac">Prokupac</a></li>
+<li><a href="/wiki/Sagrantino" title="Sagrantino">Sagrantino</a></li>
+<li><a href="/wiki/Sangiovese" title="Sangiovese">Sangiovese</a></li>
+<li><a href="/wiki/Saperavi" title="Saperavi">Saperavi</a></li>
+<li><a href="/wiki/Shesh_i_Zi" title="Shesh i Zi">Shesh i Zi</a></li>
+<li><a href="/wiki/Tannat" title="Tannat">Tannat</a></li>
+<li><a class="new" href="/w/index.php?title=Tavkveri&amp;action=edit&amp;redlink=1" title="Tavkveri (page does not exist)">Tavkveri</a></li>
+<li><a href="/wiki/Tempranillo" title="Tempranillo">Tempranillo</a></li>
+<li><a href="/wiki/Touriga_Nacional" title="Touriga Nacional">Touriga Nacional</a></li>
+<li><a href="/wiki/Trollinger" title="Trollinger">Trollinger</a></li>
+<li><a href="/wiki/Usakhelauri" title="Usakhelauri">Usakhelauri</a></li>
+<li><a href="/wiki/Vermentino" title="Vermentino">Vermentino</a></li>
+<li><a href="/wiki/Vranac" title="Vranac">Vranac</a></li>
+<li><a href="/wiki/Xinomavro" title="Xinomavro">Xinomavro</a></li>
+<li><a href="/wiki/%C5%BDametovka" title="Žametovka">Žametovka</a></li>
+<li><a href="/wiki/Zinfandel" title="Zinfandel">Zinfandel / Primitivo</a></li>
+<li><a href="/wiki/Zweigelt" title="Zweigelt">Zweigelt</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="font-weight:bold;"><div>
+<ul><li><a href="/wiki/Glossary_of_wine_terms" title="Glossary of wine terms">Glossary</a></li>
+<li><a href="/wiki/Outline_of_wine" title="Outline of wine">Outline</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Winemaking" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Winemaking" title="Template:Winemaking"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Winemaking" title="Template talk:Winemaking"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Winemaking&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Winemaking" style="font-size:114%;margin:0 4em"><a href="/wiki/Winemaking" title="Winemaking">Winemaking</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Harvest_(wine)" title="Harvest (wine)">Harvest</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Late_harvest_wine" title="Late harvest wine">Late harvest wine</a></li>
+<li><a href="/wiki/Noble_rot" title="Noble rot">Noble rot</a></li>
+<li><a href="/wiki/Vintage" title="Vintage">Vintage</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pressing_(wine)" title="Pressing (wine)">Pressing</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acids_in_wine" title="Acids in wine">Deacidification</a></li>
+<li><a class="mw-redirect" href="/wiki/Destemming" title="Destemming">Destemming</a></li>
+<li><a href="/wiki/Chaptalization" title="Chaptalization">Chaptalization</a></li>
+<li><a class="mw-redirect" href="/wiki/Pigeage" title="Pigeage">Pigeage</a></li>
+<li><a href="/wiki/Wine_press" title="Wine press">Wine press</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Fermentation_(wine)" title="Fermentation (wine)">Fermentation</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbonic_maceration" title="Carbonic maceration">Carbonic maceration</a></li>
+<li><a href="/wiki/Maceration_(wine)" title="Maceration (wine)">Maceration</a></li>
+<li><a href="/wiki/Malolactic_fermentation" title="Malolactic fermentation">Malolactic fermentation</a></li>
+<li><a href="/wiki/Sparkling_wine_production" title="Sparkling wine production">Sparkling wine production</a></li>
+<li><a href="/wiki/Sugars_in_wine" title="Sugars in wine">Sugars in wine</a></li>
+<li><a class="mw-redirect" href="/wiki/S%C3%BCssreserve" title="Süssreserve">Süssreserve</a></li>
+<li><a href="/wiki/Traditional_method" title="Traditional method">Traditional method</a></li>
+<li><a href="/wiki/Yeast_assimilable_nitrogen" title="Yeast assimilable nitrogen">Yeast assimilable nitrogen</a></li>
+<li><a href="/wiki/Yeast_in_winemaking" title="Yeast in winemaking">Yeast in winemaking</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Aging_of_wine" title="Aging of wine">Aging</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Oak_(wine)" title="Oak (wine)">Oak</a></li>
+<li><a href="/wiki/Solera" title="Solera">Solera</a></li>
+<li><a href="/wiki/Storage_of_wine" title="Storage of wine">Storage of wine</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Bottling</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alternative_wine_closure" title="Alternative wine closure">Alternative wine closure</a></li>
+<li><a href="/wiki/Bung" title="Bung">Bung</a></li>
+<li><a href="/wiki/Clarification_and_stabilization_of_wine" title="Clarification and stabilization of wine">Clarification and stabilization of wine</a></li>
+<li><a href="/wiki/Cork_(material)" title="Cork (material)">Cork</a></li>
+<li><a href="/wiki/Muselet" title="Muselet">Muselet</a></li>
+<li><a href="/wiki/Screw_cap" title="Screw cap">Screw cap</a></li>
+<li><a href="/wiki/Ullage_(wine)" title="Ullage (wine)">Ullage</a></li>
+<li><a href="/wiki/Wine_bottle" title="Wine bottle">Wine bottle</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/History_of_wine" title="History of wine">History</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ancient_Greece_and_wine" title="Ancient Greece and wine">Ancient Greece</a></li>
+<li><a href="/wiki/Ancient_Rome_and_wine" title="Ancient Rome and wine">Ancient Rome</a></li>
+<li><a href="/wiki/History_of_Bordeaux_wine" title="History of Bordeaux wine">Bordeaux</a></li>
+<li><a href="/wiki/History_of_Champagne" title="History of Champagne">Champagne</a></li>
+<li><a href="/wiki/History_of_Chianti" title="History of Chianti">Chianti</a></li>
+<li><a href="/wiki/History_of_French_wine" title="History of French wine">French</a></li>
+<li><a class="mw-redirect" href="/wiki/Wine_in_the_Middle_East" title="Wine in the Middle East">Middle East</a></li>
+<li><a href="/wiki/Areni-1_winery" title="Areni-1 winery">Oldest prehistoric winery</a></li>
+<li><a href="/wiki/Phoenicians_and_wine" title="Phoenicians and wine">Phoenicians</a></li>
+<li><a href="/wiki/History_of_Portuguese_wine" title="History of Portuguese wine">Portuguese</a></li>
+<li><a href="/wiki/History_of_Rioja_wine" title="History of Rioja wine">Rioja</a></li>
+<li><a href="/wiki/History_of_Sherry" title="History of Sherry">Sherry</a></li>
+<li><a href="/wiki/History_of_South_African_wine" title="History of South African wine">South African</a></li>
+<li><a href="/wiki/History_of_the_wine_press" title="History of the wine press">Wine press</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">See also</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Glossary_of_viticulture_terms" title="Glossary of viticulture terms">Glossary of viticulture terms</a></li>
+<li><a href="/wiki/Glossary_of_wine_terms" title="Glossary of wine terms">Glossary of wine terms</a></li>
+<li><a href="/wiki/Glossary_of_winemaking_terms" title="Glossary of winemaking terms">Glossary of winemaking terms</a></li>
+<li><a href="/wiki/Oenology" title="Oenology">Oenology</a></li>
+<li><a href="/wiki/Viticulture" title="Viticulture">Viticulture</a></li>
+<li><a href="/wiki/Wine" title="Wine">Wine</a></li>
+<li><a href="/wiki/Wine_chemistry" title="Wine chemistry">Wine chemistry</a></li>
+<li><a href="/wiki/Wine_glass" title="Wine glass">Wine glass</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-label="Portals" class="noprint metadata navbox" role="navigation" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:Goblet_Glass_(Banquet).svg"><img alt="Goblet Glass (Banquet).svg" data-file-height="408" data-file-width="239" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Goblet_Glass_%28Banquet%29.svg/12px-Goblet_Glass_%28Banquet%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Goblet_Glass_%28Banquet%29.svg/19px-Goblet_Glass_%28Banquet%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Goblet_Glass_%28Banquet%29.svg/24px-Goblet_Glass_%28Banquet%29.svg.png 2x" width="12"/></a></span><a href="/wiki/Portal:Drink" title="Portal:Drink">Drink portal</a></span></li></ul></div>
+<!-- 
+NewPP limit report
+Parsed by mw2187
+Cached time: 20181009081624
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.384 seconds
+Real time usage: 0.443 seconds
+Preprocessor visited node count: 3324/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 91588/2097152 bytes
+Template argument size: 9437/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 30826/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.071/10.000 seconds
+Lua memory usage: 1.89 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  292.486      1 -total
+ 61.23%  179.096      1 Template:Reflist
+ 50.16%  146.713     13 Template:ISBN
+ 28.69%   83.929     13 Template:Catalog_lookup_link
+ 20.25%   59.232      1 Template:Wines
+ 18.92%   55.346      1 Template:Navbox_with_collapsible_groups
+  8.07%   23.596      2 Template:See_also
+  7.96%   23.280      4 Template:Navbox
+  6.66%   19.485     13 Template:Error-small
+  6.30%   18.415     39 Template:Yesno-no
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:13824744-0!canonical and timestamp 20181009081623 and revision id 844260400
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fermentation_in_winemaking&amp;oldid=844260400">https://en.wikipedia.org/w/index.php?title=Fermentation_in_winemaking&amp;oldid=844260400</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Fermentation_in_food_processing" title="Category:Fermentation in food processing">Fermentation in food processing</a></li><li><a href="/wiki/Category:Winemaking" title="Category:Winemaking">Winemaking</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Fermentation+in+winemaking" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Fermentation+in+winemaking" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Fermentation_in_winemaking" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Fermentation_in_winemaking" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Fermentation_in_winemaking">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Fermentation_in_winemaking&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Fermentation_in_winemaking&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Fermentation_in_winemaking" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Fermentation_in_winemaking" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Fermentation_in_winemaking&amp;oldid=844260400" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Fermentation_in_winemaking&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3007963" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Fermentation_in_winemaking&amp;id=844260400" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Fermentation+in+winemaking">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Fermentation+in+winemaking&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Fermentation_in_winemaking&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Fermentaci%C3%B3n_del_vino" hreflang="es" lang="es" title="Fermentación del vino – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Cuvaison" hreflang="fr" lang="fr" title="Cuvaison – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%8F%AC%EB%8F%84%EC%A3%BC_%EB%B0%9C%ED%9A%A8" hreflang="ko" lang="ko" title="포도주 발효 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Alkoholno_vrenje" hreflang="hr" lang="hr" title="Alkoholno vrenje – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%99%BC%E9%85%B5_(%E8%91%A1%E8%90%84%E9%85%92)" hreflang="zh" lang="zh" title="發酵 (葡萄酒) – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3007963#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 3 June 2018, at 19:25<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Fermentation_in_winemaking&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.384","walltime":"0.443","ppvisitednodes":{"value":3324,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":91588,"limit":2097152},"templateargumentsize":{"value":9437,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":30826,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  292.486      1 -total"," 61.23%  179.096      1 Template:Reflist"," 50.16%  146.713     13 Template:ISBN"," 28.69%   83.929     13 Template:Catalog_lookup_link"," 20.25%   59.232      1 Template:Wines"," 18.92%   55.346      1 Template:Navbox_with_collapsible_groups","  8.07%   23.596      2 Template:See_also","  7.96%   23.280      4 Template:Navbox","  6.66%   19.485     13 Template:Error-small","  6.30%   18.415     39 Template:Yesno-no"]},"scribunto":{"limitreport-timeusage":{"value":"0.071","limit":"10.000"},"limitreport-memusage":{"value":1986108,"limit":52428800}},"cachereport":{"origin":"mw2187","timestamp":"20181009081624","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw2199"});});</script>
+</body>
+</html>

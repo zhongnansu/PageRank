@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Calcium looping - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Calcium_looping","wgTitle":"Calcium looping","wgCurRevisionId":834136954,"wgRevisionId":834136954,"wgArticleId":42268134,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Carbon dioxide","Chemical engineering","Chemical processes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Calcium_looping","wgRelevantArticleId":42268134,"wgRequestId":"W8H7bwpAMF0AADgSQ8UAAAAB","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q15991512","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Calcium_looping" rel="alternate"/>
+<link href="/w/index.php?title=Calcium_looping&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Calcium_looping&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Calcium_looping" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Calcium_looping rootpage-Calcium_looping skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Calcium looping</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Calcium looping</b> (CaL), or the <b>regenerative calcium cycle</b> (RCC), is a second-generation <a href="/wiki/Carbon_capture_and_storage#Capture" title="Carbon capture and storage">carbon capture</a> technology. It is the most developed form of carbonate looping, where a metal (M) is reversibly reacted between its carbonate form (MCO<sub>3</sub>) and its oxide form (MO) to separate carbon dioxide from other gases coming from either power generation or an industrial plant. In the calcium looping process, the two species are <a href="/wiki/Calcium_carbonate" title="Calcium carbonate">calcium carbonate</a> (CaCO<sub>3</sub>) and <a href="/wiki/Calcium_oxide" title="Calcium oxide">calcium oxide</a> (CaO). The captured carbon dioxide can then be <a href="/wiki/Carbon_capture_and_storage#Transport" title="Carbon capture and storage">transported</a> to a <a href="/wiki/Carbon_sequestration" title="Carbon sequestration">storage site</a>, used in <a href="/wiki/Enhanced_oil_recovery" title="Enhanced oil recovery">enhanced oil recovery</a> or used as a <a class="mw-redirect" href="/wiki/Carbon_capture_and_utilization" title="Carbon capture and utilization">chemical feedstock</a>. Calcium oxide is often referred to as the <i>sorbent</i>.
+</p><p>Calcium looping is being developed as it is a more efficient, less toxic alternative to current post-combustion capture processes such as <a class="mw-redirect" href="/wiki/Amine_scrubbing" title="Amine scrubbing">amine scrubbing</a>.<sup class="reference" id="cite_ref-Ahn_et_al_2013_1-0"><a href="#cite_note-Ahn_et_al_2013-1">[1]</a></sup> It also has interesting potential for integration with the <a href="/wiki/Cement" title="Cement">cement</a> industry.<sup class="reference" id="cite_ref-Dean_et_al_CaL_for_powergen,_cem_+_H2_2-0"><a href="#cite_note-Dean_et_al_CaL_for_powergen,_cem_+_H2-2">[2]</a></sup><sup class="reference" id="cite_ref-Dean_et_al_11_Potential_Synergy_3-0"><a href="#cite_note-Dean_et_al_11_Potential_Synergy-3">[3]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Basic_concept"><span class="tocnumber">1</span> <span class="toctext">Basic concept</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Background"><span class="tocnumber">2</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Process_description"><span class="tocnumber">3</span> <span class="toctext">Process description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Provision_of_energy_to_the_calciner"><span class="tocnumber">3.1</span> <span class="toctext">Provision of energy to the calciner</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Recovery_of_energy_from_the_carbonator"><span class="tocnumber">4</span> <span class="toctext">Recovery of energy from the carbonator</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Sorbent_degradation"><span class="tocnumber">5</span> <span class="toctext">Sorbent degradation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Attrition"><span class="tocnumber">5.1</span> <span class="toctext">Attrition</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Sulfation"><span class="tocnumber">5.2</span> <span class="toctext">Sulfation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Technical_implications"><span class="tocnumber">6</span> <span class="toctext">Technical implications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Closure_of_small_pores"><span class="tocnumber">6.1</span> <span class="toctext">Closure of small pores</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Sintering"><span class="tocnumber">6.2</span> <span class="toctext">Sintering</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Disposal_of_waste_sorbent"><span class="tocnumber">7</span> <span class="toctext">Disposal of waste sorbent</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Properties_of_waste_sorbent"><span class="tocnumber">7.1</span> <span class="toctext">Properties of waste sorbent</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Disposal_routes"><span class="tocnumber">7.2</span> <span class="toctext">Disposal routes</span></a>
+<ul>
+<li class="toclevel-3 tocsection-15"><a href="#Use_in_cement_manufacture"><span class="tocnumber">7.2.1</span> <span class="toctext">Use in cement manufacture</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Economic_implications"><span class="tocnumber">8</span> <span class="toctext">Economic implications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Cost_per_metric_ton_for_CO2_captured"><span class="tocnumber">8.1</span> <span class="toctext">Cost per metric ton for CO<sub>2</sub> captured</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Cost_of_CO2_emissions_avoided_through_Ca-looping"><span class="tocnumber">8.2</span> <span class="toctext">Cost of CO<sub>2</sub> emissions avoided through Ca-looping</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Cement_production"><span class="tocnumber">8.3</span> <span class="toctext">Cement production</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Political_and_environmental_implications"><span class="tocnumber">9</span> <span class="toctext">Political and environmental implications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Political_implications"><span class="tocnumber">9.1</span> <span class="toctext">Political implications</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Environmental_implications"><span class="tocnumber">9.2</span> <span class="toctext">Environmental implications</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#Advantages_and_drawbacks"><span class="tocnumber">10</span> <span class="toctext">Advantages and drawbacks</span></a>
+<ul>
+<li class="toclevel-2 tocsection-24"><a href="#Advantages_of_the_process"><span class="tocnumber">10.1</span> <span class="toctext">Advantages of the process</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Drawbacks"><span class="tocnumber">10.2</span> <span class="toctext">Drawbacks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#Benefits_of_calcium_looping_compared_with_other_post-combustion_capture_processes"><span class="tocnumber">11</span> <span class="toctext">Benefits of calcium looping compared with other post-combustion capture processes</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#Sample_evaluation"><span class="tocnumber">12</span> <span class="toctext">Sample evaluation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-28"><a href="#Assumptions"><span class="tocnumber">12.1</span> <span class="toctext">Assumptions</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Calculations"><span class="tocnumber">12.2</span> <span class="toctext">Calculations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-30"><a href="#References"><span class="tocnumber">13</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Basic_concept">Basic concept</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=1" title="Edit section: Basic concept">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {CaCO3&lt;=&gt;{CaO}+CO2\qquad \qquad \Delta H}}=+178\ {\ce {kJ/mol}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>CaCO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mrow class="MJX-TeXAtom-REL">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<mrow class="MJX-TeXAtom-ORD">
+<mpadded depth="0" height="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">↽<!-- ↽ --></mo>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</mpadded>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">⇀<!-- ⇀ --></mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+</mover>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CaO</mtext>
+</mrow>
+<mo>+</mo>
+<msubsup>
+<mtext>CO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mspace width="2em"></mspace>
+<mspace width="2em"></mspace>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mtext>H</mtext>
+</mrow>
+<mo>=</mo>
+<mo>+</mo>
+<mn>178</mn>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>kJ</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mtext>mol</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {CaCO3&lt;=&gt;{CaO}+CO2\qquad \qquad \Delta H}}=+178\ {\ce {kJ/mol}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {CaCO3&lt;=&gt;{CaO}+CO2\qquad \qquad \Delta H}}=+178\ {\ce {kJ/mol}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f3a034c6978c7302898932bca3df1b00afafc33a" style="vertical-align: -1.005ex; width:53.333ex; height:3.343ex;"/></span></dd></dl>
+<p>There are two main steps in CaL:<sup class="reference" id="cite_ref-Blamey_review_4-0"><a href="#cite_note-Blamey_review-4">[4]</a></sup>
+</p>
+<ul><li><a href="/wiki/Calcination" title="Calcination">Calcination</a>: Solid calcium carbonate is fed into a <a class="mw-redirect" href="/wiki/Calciner" title="Calciner">calciner</a>, where it is heated to 850-950 °C to cause it to thermally decompose into gaseous carbon dioxide and solid calcium oxide (CaO). The almost-pure stream of CO<sub>2</sub> is then removed and purified so that it is suitable for storage or use. This is the 'forward' reaction in the equation above.</li>
+<li><a href="/wiki/Carbonation" title="Carbonation">Carbonation</a>: The solid CaO is removed from the calciner and fed into the <i>carbonator</i>. It is cooled to approximately 650 °C and is brought into contact with a flue gas containing a low to medium concentration of CO<sub>2</sub>. The CaO and CO<sub>2</sub> react to form CaCO<sub>3</sub>, thus reducing the CO<sub>2</sub> concentration in the flue gas to a level suitable for emission to the atmosphere. This is the 'backward' reaction in the equation above.</li></ul>
+<p>Note that carbonation is calcination in reverse.
+</p><p>Whilst the process can be theoretically performed an infinite amount of times, the calcium oxide sorbent degrades as it is cycled.<sup class="reference" id="cite_ref-Blamey_review_4-1"><a href="#cite_note-Blamey_review-4">[4]</a></sup> For this reason, it is necessary to remove (<i>purge</i>) some of the sorbent from the system and replace it with fresh sorbent (often in the carbonate form). The size of the purge stream compared with the amount of sorbent going round the cycle affects the process considerably.<sup class="reference" id="cite_ref-Rodriguez_08_Calciner_heat_requirements_5-0"><a href="#cite_note-Rodriguez_08_Calciner_heat_requirements-5">[5]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=2" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the Ca-looping process, a CaO-based sorbent, typically derived from limestone, reacts via the reversible reaction described in Equation (1) and is repeatedly cycled between 2 vessels.
+</p>
+<dl><dd>
+<table style="border-collapse:collapse; background:none; margin:0; border:none;">
+<tbody><tr>
+<td class="nowrap" style="vertical-align:middle; border:none; padding:0.08em;"><p style="margin:0;">ΔH = +178kJ/mol </p>
+</td>
+<td style="vertical-align:middle; width:99%; border:none; padding:0.08em;">
+<div style="margin:0;">
+<table style="border-collapse:collapse; background:none; margin:0; border:none; width:99%;">
+<tbody><tr>
+<td rowspan="2" style="border:none; padding:0.08em;"><p style="margin:0; font-size:4pt;"> </p>
+</td>
+<td style="width:100%; border:none; padding:0.08em;"><p style="margin:0; font-size:1pt;"> </p>
+</td>
+<td rowspan="2" style="border:none; padding:0.08em;"><p style="margin:0; font-size:4pt;"> </p>
+</td></tr>
+<tr>
+<td style="border-left:none; border-top:1px dashed; border-right:none; border-bottom:none; padding:0.08em;">
+<p style="margin:0; font-size:1pt;"> </p>
+</td></tr></tbody></table>
+</div>
+</td>
+<td class="nowrap" style="vertical-align:middle; border:none; padding:0.08em;"><p style="margin:0pt;"><b>(<span class="reference nourlexpansion" id="math_1" style="font-weight:bold; font-style:italic;">1</span>)</b></p>
+</td></tr></tbody></table></dd></dl>
+<p>The forward, <a class="mw-redirect" href="/wiki/Endothermic" title="Endothermic">endothermic</a> step is called <a href="/wiki/Calcination" title="Calcination">calcination</a> while the backward, <a class="mw-redirect" href="/wiki/Exothermic" title="Exothermic">exothermic</a> step is <a href="/wiki/Carbonation" title="Carbonation">carbonation</a>.
+</p><p>A typical Ca-looping process for post-combustion CO<sub>2</sub>  capture is shown in Figure 1, followed by a more detailed description.
+</p><p>Flue gas containing CO<sub>2</sub> is fed to the first vessel (the carbonator), where <a href="/wiki/Carbonation" title="Carbonation">carbonation</a> occurs. The CaCO<sub>3</sub> formed is passed to another vessel (the calciner). <a href="/wiki/Calcination" title="Calcination">Calcination</a> occurs at this stage, and the regenerated CaO is quickly passed back to the carbonator, leaving a pure CO<sub>2</sub>  stream behind. As this cycle continues, CaO sorbent is constantly replaced by fresh (reactive) sorbent.<sup class="reference" id="cite_ref-Blamey,_J._2010,_p._260-279_6-0"><a href="#cite_note-Blamey,_J._2010,_p._260-279-6">[6]</a></sup> The highly concentrated CO<sub>2</sub> from the calciner is suitable for <a href="/wiki/Carbon_sequestration" title="Carbon sequestration">sequestration</a>, and the spent CaO has potential uses elsewhere, most notably in the cement industry.  The heat necessary for calcination can be provided by <a class="mw-redirect" href="/wiki/Oxy-combustion" title="Oxy-combustion">oxy-combustion</a> of coal below.
+</p><p>Oxy-combustion of coal: Pure oxygen rather than air is used for combustion, eliminating the large amount of nitrogen in the flue-gas stream. After particulate matter is removed, flue gas consists only of water vapor and CO<sub>2</sub>, plus smaller amounts of other pollutants. After compression of the flue gas to remove water vapor and additional removal of air pollutants, a nearly pure CO<sub>2</sub> stream suitable for storage is produced.
+</p><p>The carbonator's operating temperature of 650-700 <sup>o</sup>C is chosen as a compromise between higher equilibrium (maximum) capture at lower temperatures due to the <a class="mw-redirect" href="/wiki/Exothermic" title="Exothermic">exothermic</a> nature of the carbonation step, and a decreased reaction rate. Similarly, the temperature of &gt;850 <sup>o</sup>C in the calcinator strikes a balance between increased rate of calcination at higher temperatures and reduced rate of degradation of CaO sorbent at lower temperatures.
+</p>
+<h2><span class="mw-headline" id="Process_description">Process description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=3" title="Edit section: Process description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>CaL is usually designed using a <a class="mw-redirect" href="/wiki/Fluidised_bed" title="Fluidised bed">dual fluidised bed system</a> to ensure sufficient contact between the gas streams and the sorbent.<sup class="reference" id="cite_ref-Blamey_review_4-2"><a href="#cite_note-Blamey_review-4">[4]</a></sup><sup class="reference" id="cite_ref-Rodriguez_08_Hot_lime_7-0"><a href="#cite_note-Rodriguez_08_Hot_lime-7">[7]</a></sup><sup class="reference" id="cite_ref-Shimizu_99_original_concept_8-0"><a href="#cite_note-Shimizu_99_original_concept-8">[8]</a></sup><sup class="reference" id="cite_ref-Fennell_07_Bed_of_hot_sand_9-0"><a href="#cite_note-Fennell_07_Bed_of_hot_sand-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> The calciner and carbonator are fluidised beds with associated process equipment for separating the gases and solids attached (such as <a href="/wiki/Cyclonic_separation" title="Cyclonic separation">cyclones</a>). Calcination is an endothermic process and as such requires the application of heat to the calciner. The opposite reaction, carbonation, is exothermic and heat must be removed. Since the exothermic reaction happens at about 650 °C and the endothermic reaction at 850-950 °C, the heat from the carbonator cannot be directly used to heat the calciner.
+</p><p>The fluidisation of the solid bed in the carbonator is achieved by passing the flue gas through the bed. In the calciner, some of the recovered CO<sub>2</sub> is recycled through the system.<sup class="reference" id="cite_ref-Blamey_review_4-3"><a href="#cite_note-Blamey_review-4">[4]</a></sup> Some oxygen may also be passed through the reactor if fuel is being burned in the calciner to provide energy.
+</p>
+<h3><span class="mw-headline" id="Provision_of_energy_to_the_calciner">Provision of energy to the calciner</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=4" title="Edit section: Provision of energy to the calciner">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Heat can be provided for the endothermic calcination step either directly or indirectly.
+</p><p>Direct provision of heat involves the combustion of fuel in the calciner itself (<a href="/wiki/Fluidized_bed_combustion" title="Fluidized bed combustion">fluidised bed combustion</a>). This is generally assumed to be done under <a href="/wiki/Oxy-fuel_combustion_process" title="Oxy-fuel combustion process">oxy-fuel</a> conditions; i.e. oxygen rather than air is used to burn the fuel to prevent dilution of the CO<sub>2</sub> with nitrogen. The provision of oxygen for the combustion uses lots of electricity; other <a href="/wiki/Air_separation#Cryogenic_liquification_process" title="Air separation">air separation processes</a> are being developed.<sup class="reference" id="cite_ref-CCS_Update_11-0"><a href="#cite_note-CCS_Update-11">[11]</a></sup>
+</p><p>Indirect provision of heat to the calciner involves either:
+</p>
+<ul><li>Combustion of fuel outside the vessel and conduction of energy in to the vessel<sup class="reference" id="cite_ref-Calix_12-0"><a href="#cite_note-Calix-12">[12]</a></sup></li>
+<li>Combustion of fuel in another vessel and use of a heat transfer medium.<sup class="reference" id="cite_ref-Rodriguez_08_Hot_lime_7-1"><a href="#cite_note-Rodriguez_08_Hot_lime-7">[7]</a></sup></li></ul>
+<p>Indirect methods are generally less efficient but do not require the provision of oxygen for combustion within the calciner to prevent dilution. The flue gas from the combustion of fuel in the indirect method could be mixed with the flue gas from the process that the CaL plant is attached to and passed through the carbonator to capture the CO<sub>2</sub>.
+</p>
+<h2><span class="mw-headline" id="Recovery_of_energy_from_the_carbonator">Recovery of energy from the carbonator</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=5" title="Edit section: Recovery of energy from the carbonator">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although the heat from the carbonator is not at a high enough temperature to be used in the calciner, the high temperatures involved (&gt;600 °C) mean that a relatively efficient <a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a> for generating electricity can be operated.<sup class="reference" id="cite_ref-Romeo_08_Efficiency_and_Cost_13-0"><a href="#cite_note-Romeo_08_Efficiency_and_Cost-13">[13]</a></sup>
+</p><p>Note that the waste heat from the market-leading <a class="mw-redirect" href="/wiki/Amine_scrubbing" title="Amine scrubbing">amine scrubbing CO<sub>2</sub> capture process</a> is emitted at a maximum of 150 °C.<sup class="reference" id="cite_ref-CCS_Update_11-1"><a href="#cite_note-CCS_Update-11">[11]</a></sup> The low temperature of this heat means that it contains much less <a href="/wiki/Exergy" title="Exergy">exergy</a> and can generate much less electricity through a Rankine or <a href="/wiki/Organic_Rankine_cycle" title="Organic Rankine cycle">organic Rankine cycle</a>.
+</p><p>This electricity generation is one of the main benefits of CaL over lower-temperature post-combustion capture processes as the electricity is an extra revenue stream (or reduces costs).
+</p>
+<h2><span class="mw-headline" id="Sorbent_degradation">Sorbent degradation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=6" title="Edit section: Sorbent degradation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It has been shown that the activity of the sorbent reduces quite markedly in laboratory, bench-scale and pilot plant tests. This degradation has been attributed to three main mechanisms, as shown below.<sup class="reference" id="cite_ref-Blamey_review_4-4"><a href="#cite_note-Blamey_review-4">[4]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Attrition">Attrition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=7" title="Edit section: Attrition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Calcium oxide is friable, that is, quite brittle. In fluidised beds, the calcium oxide particles can break apart upon collision with the other particles in the fluidised bed or the vessel containing it. [REF] The problem seems to be greater in pilot plant tests<sup class="reference" id="cite_ref-Lu_et_al_08_Pilot_plant_attrition_14-0"><a href="#cite_note-Lu_et_al_08_Pilot_plant_attrition-14">[14]</a></sup> than at a bench scale.
+</p><p><br/>
+</p>
+<h3><span class="mw-headline" id="Sulfation">Sulfation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=8" title="Edit section: Sulfation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sulfation is a relatively slow reaction (several hours) compared with carbonation (&lt;10 minutes); thus it is more likely that SO<sub>2</sub> will come into contact with CaCO<sub>3</sub> than CaO. However, both reactions are possible, and are shown below.
+</p>
+<dl><dd>Indirect sulfation: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {CaO + SO2 + 1/2 O2 -&gt; CaSO4}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CaO</mtext>
+<mo>+</mo>
+<msubsup>
+<mtext>SO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+<msubsup>
+<mtext>O</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<msubsup>
+<mtext>CaSO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {CaO + SO2 + 1/2 O2 -&gt; CaSO4}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {CaO + SO2 + 1/2 O2 -&gt; CaSO4}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/862ab7ea17bc90e14d7b1acac770b1a10db691b1" style="vertical-align: -1.171ex; width:31.096ex; height:3.509ex;"/></span></dd>
+<dd>Direct sulfation: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {CaCO3 + SO2 + 1/2 O2 -&gt; CaSO4 + CO2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>CaCO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msubsup>
+<mtext>SO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mstyle>
+<msubsup>
+<mtext>O</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<msubsup>
+<mtext>CaSO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msubsup>
+<mtext>CO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {CaCO3 + SO2 + 1/2 O2 -&gt; CaSO4 + CO2}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {CaCO3 + SO2 + 1/2 O2 -&gt; CaSO4 + CO2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/07a4a08ff4600a7140095c7515f83e7efc99f8df" style="vertical-align: -1.171ex; width:41.209ex; height:3.509ex;"/></span></dd></dl>
+<p>Because <a href="/wiki/Calcium_sulfate" title="Calcium sulfate">calcium sulfate</a> has a greater molar volume than either CaO or CaCO<sub>3</sub> a sulfated layer will form on the outside of the particle, which can prevent the uptake of CO<sub>2</sub> by the CaO further inside the particle.<sup class="reference" id="cite_ref-Blamey_review_4-5"><a href="#cite_note-Blamey_review-4">[4]</a></sup> Furthermore, the temperature at which calcium sulfate dissociates to CaO and SO<sub>2</sub> is relatively high, precluding sulfation's reversibility at the conditions present in CaL.
+</p>
+<h2><span class="mw-headline" id="Technical_implications">Technical implications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=9" title="Edit section: Technical implications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Calcium looping technology offers several technical advantages over <a class="mw-redirect" href="/wiki/Amine_scrubbing" title="Amine scrubbing">amine scrubbing</a> for carbon capture. Firstly, both carbonator and calciner can use <a href="/wiki/Fluidized_bed" title="Fluidized bed">fluidized bed</a> technology, due to the good gas-solid contacting and uniform bed temperature. Fluidized bed technology has already been demonstrated at large scale: large (460MWe) atmospheric and pressurized systems exist, and there is not a need for intensive scaling up as there is for the solvent scrubbing towers used in <a class="mw-redirect" href="/wiki/Amine_scrubbing" title="Amine scrubbing">amine scrubbing</a>.<sup class="reference" id="cite_ref-Blamey,_J._2010_15-0"><a href="#cite_note-Blamey,_J._2010-15">[15]</a></sup>
+</p><p>Also, the calcium looping process is energy efficient.  The heat required for the endothermic calcination of CaCO<sub>3</sub> and the heat required to raise the temperature of fresh limestone from ambient temperature, can be provided by in-situ oxy-fired combustion of fuel in the calciner.  Although additional energy is required to separate O<sub>2</sub> from N<sub>2</sub>, the majority of the energy input can be recovered because the carbonator reaction is exothermic and CO<sub>2</sub> from the calciner can be used to power a steam cycle. A solid purge heat exchanger can also be utilized to recover energy from the deactivated CaO and coal ashes from the calciner.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> As a result, a relatively small efficiency penalty is imposed on the power process, where the efficiency penalty refers to the power losses for CO<sub>2</sub> compression, air separation and steam generation.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> It is estimated at 6-8 % points, compared to 9.5-12.5 % from post combustion amine capture.<sup class="reference" id="cite_ref-ReferenceA_18-0"><a href="#cite_note-ReferenceA-18">[18]</a></sup>
+</p><p>The main shortcoming of Ca-looping technology is the decreased reactivity of CaO through multiple calcination-carbonation cycles. This can be attributed to sintering and the permanent closure of small pores during <a href="/wiki/Carbonation" title="Carbonation">carbonation</a>.
+</p><p>Figure 2 Repeated calcination/carbonation cycles of limestone in a TGA (Blamey et al, 2010)
+</p>
+<h3><span class="mw-headline" id="Closure_of_small_pores">Closure of small pores</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=10" title="Edit section: Closure of small pores">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Carbonation" title="Carbonation">carbonation</a> step is characterized by a fast initial reaction rate abruptly followed by a slow reaction rate (Figure 2).  The carrying capacity of the sorbent is defined as the number of moles of CO<sub>2</sub> reacted in the period of fast reaction rate with respect to that of the reaction stoichiometry for complete conversion of CaO to CaCO<sub>3</sub>. As seen in Figure 2, while mass after calcination remains constant, the mass change upon carbonation- the carrying capacity- reduces with a large number of cycles. In calcination, porous CaO (molar volume =16.9cm3/g) is formed in place of CaCO<sub>3</sub> (36.9cm3/g.). On the other hand, in carbonation, the CaCO<sub>3</sub> formed on the surface of a CaO particle occupies a larger molar volume. As a result, once a layer of carbonate has formed on the surface (including on the large internal surface of porous CaO), it impedes further CO<sub>2</sub> capture. This product layer grows over the pores and seals them off, forcing carbonation to follow a slower, <a href="/wiki/Diffusion" title="Diffusion">diffusion</a> dependent mechanism.
+</p>
+<h3><span class="mw-headline" id="Sintering">Sintering</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=11" title="Edit section: Sintering">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>CaO is also prone to <a href="/wiki/Sintering" title="Sintering">sintering</a>, or change in pore shape, shrinkage and grain growth during heating.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> Ionic compounds such as CaO mostly sinter because of volume diffusion or <a class="mw-redirect" href="/wiki/Lattice_diffusion" title="Lattice diffusion">lattice diffusion</a> mechanics. As described by sintering theory,<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> vacancies generated by temperature sensitive defects direct void sites from smaller to larger ones, explaining the observed growth of large pores and the shrinkage of small pores in cycled limestone.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> It was found that sintering of CaO increases at higher temperatures and longer calcination durations, whereas carbonation time has minimal effect on particle sintering. A sharp increase in sintering of particles is observed at temperatures above 1173 K,<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> causing a reduction in reactive surface area and a corresponding decrease in reactivity.
+</p><p>Solutions: Several options to reduce sorbent deactivation are currently being researched. An ideal sorbent would be mechanically strong, maintain its reactive surface through repeated cycles, and be reasonably inexpensive. Using thermally pre-activated particles or reactivating spent sorbents through hydration are two promising options.  Thermally pre-activated particles have been found to retain activity for up to a thousand cycles. Similarly, particles reactivated by hydration show improved long term (after~20 cycles) conversions.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Disposal_of_waste_sorbent">Disposal of waste sorbent</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=12" title="Edit section: Disposal of waste sorbent">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Properties_of_waste_sorbent">Properties of waste sorbent</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=13" title="Edit section: Properties of waste sorbent">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After cycling several times and being removed from the calcium loop, the waste sorbent will have attrited, sulfated and become mixed with the ash from any fuel used. The amount of ash in the waste sorbent will depend on the fraction of the sorbent being removed and the ash and calorific content of the fuel. The size fraction of the sorbent is dependent on the original size fraction but also the number of cycles used and the type of limestone used.<sup class="reference" id="cite_ref-Belen_thesis_24-0"><a href="#cite_note-Belen_thesis-24">[24]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Disposal_routes">Disposal routes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=14" title="Edit section: Disposal routes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Proposed disposal routes of waste sorbent include:
+</p>
+<ul><li>Landfill;</li>
+<li>Disposal at sea;</li>
+<li>Use in cement manufacture;</li>
+<li>Use in flue gas desulfurisation (FGD).</li></ul>
+<p>The lifecycle CO<sub>2</sub> emissions for power generation with CaL and the first three disposal techniques have been calculated.<sup class="reference" id="cite_ref-Hurst_LCA_25-0"><a href="#cite_note-Hurst_LCA-25">[25]</a></sup> Before disposal of the CaO coal power with CaL has a similar level of lifecycle emissions as amine scrubbing but with the CO<sub>2</sub>-absorbing properties of CaO CaL becomes significantly less polluting. Ocean disposal was found to be the best, but <a class="mw-redirect" href="/wiki/London_Convention_(1972)" title="London Convention (1972)">current laws relating to dumping waste at sea prevent this</a>. Next best was use in cement manufacture, reducing emissions over an unabated coal plant by 93%.
+</p>
+<h4><span class="mw-headline" id="Use_in_cement_manufacture">Use in cement manufacture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=15" title="Edit section: Use in cement manufacture">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Portland_cement" title="Portland cement">Portland cement</a> is approximately two-thirds calcium oxide by mass and its manufacture is responsible for approximately 8% of the world's CO<sub>2</sub>  emissions. 60% of this CO<sub>2</sub>  comes from the calcination of calcium carbonate as shown earlier in this article, and the other 40% from fossil fuel combustion. By replacing some or all of the calcium carbonate entering the plant with waste calcium oxide, the CO<sub>2</sub>  caused from calcination can be avoided, as well as some of the CO<sub>2</sub>  from fossil fuel combustion.
+</p><p>This calcium oxide could be sourced from other point sources of CO<sub>2</sub>  such as power stations, but most effort has been focussed on integrating calcium looping with Portland cement manufacture. By replacing the calciner in the cement plant with a calcium looping plant, it should be possible to capture 90% or more of the CO<sub>2</sub>  relatively inexpensively. There are alternative set-ups such as placing the calcium looping plant in the preheater section so as to make the plant as efficient as possible.
+</p><p>Some work has been undertaken into whether calcium looping affects the quality of the Portland cement produced, but results so far seem to suggest that the production of strength-giving phases such as <a href="/wiki/Alite" title="Alite">alite</a> are similar for calcium looped and non-calcium looped cement.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Economic_implications">Economic implications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=16" title="Edit section: Economic implications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Calcium looping has several economic advantages.
+</p>
+<h3><span class="mw-headline" id="Cost_per_metric_ton_for_CO2_captured">Cost per metric ton for CO<sub>2</sub> captured</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=17" title="Edit section: Cost per metric ton for CO2 captured">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Firstly, Ca-looping offers greater cost advantage compared to conventional amine-scrubbing technologies. The cost/metric ton for CO<sub>2</sub> captured through Ca-looping is ~$23.70 whereas that for CO<sub>2</sub> captured through <a class="mw-redirect" href="/wiki/Amine_scrubbing" title="Amine scrubbing">amine scrubbing</a> is about $35–$96.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup>  This can be attributed to the high availability and low cost of the CaO sorbent (derived from limestone) as compared to MEA. Also, as discussed in section 2, Ca-looping imposes a lower energy penalty than amine scrubbing, resulting in lower energy costs. The amine scrubbing process is energy intensive, with approximately 67% of the operating costs going into steam requirements for solvent regeneration. A more detailed comparison of Ca-looping and amine scrubbing is shown below.
+</p>
+<table class="wikitable">
+<caption>Comparison of Ca-looping and Amine Scrubbing
+</caption>
+<tbody><tr>
+<td>
+</td>
+<th>Amine Scrubbing
+</th>
+<th>Ca-Looping
+</th></tr>
+<tr>
+<th>Cost/CO<sub>2</sub> avoided
+</th>
+<td>~ $35–96/ton
+</td>
+<td>~$23.70/ ton
+</td></tr>
+<tr>
+<th>Raw material cost<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup>
+</th>
+<td>$1,250/ton MEA
+</td>
+<td>$25/ton CaCO3
+</td></tr>
+<tr>
+<th>Efficiency Penalty
+</th>
+<td>6-12%
+</td>
+<td>6-8%
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Cost_of_CO2_emissions_avoided_through_Ca-looping">Cost of CO<sub>2</sub> emissions avoided through Ca-looping</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=18" title="Edit section: Cost of CO2 emissions avoided through Ca-looping">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In addition, the cost of CO<sub>2</sub> emissions avoided through Ca-looping is lower than the cost of emissions avoided via an oxyfuel combustion process (~$23.8USD/t). This can be explained by the fact that, despite the capital costs incurred in constructing the carbonator for Ca-looping, CO<sub>2</sub> will not only be captured from the oxy-fired combustion, but also from the main combustor (before the carbonator). The oxygen required in the calciners is only 1/3 that required for an oxyfuel process, lowering air separation unit capital costs and operating costs.<sup class="reference" id="cite_ref-Blamey,_J._2010_15-1"><a href="#cite_note-Blamey,_J._2010-15">[15]</a></sup>
+Sensitivity Analysis: Figure 3 shows how varying 8 separate parameters affects the cost/metric ton of CO<sub>2</sub> captured through Ca-looping. It is evident that the dominant variables that affect cost are related to sorbent use, the Ca/C ratio and the CaO deactivation ratio. This is because the large sorbent quantities required dominate the economics of the capture process.
+</p><p>These variables should therefore be taken into account to achieve further cost reductions in the Ca-looping process. The cost of limestone is largely driven by market forces, and is outside the control of the plant. Currently, carbonators require a Ca/C ratio of 4 for effective CO<sub>2</sub> capture. However, if the Ca/C ratio or CaO deactivation is reduced (i.e. the sorbent can be made to work more efficiently), the reduction in material consumption and waste can lower feedstock demand and operating costs.
+</p>
+<h3><span class="mw-headline" id="Cement_production">Cement production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=19" title="Edit section: Cement production">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Finally, favorable economics can be achieved by using the purged material from the calcium looping cycle in cement production. The raw feed for cement production includes ~ 85 wt% limestone with the remaining material consisting of clay and additives (e.g. SiO<sub>2</sub>, Al<sub>2</sub>O<sub>3</sub> etc.).<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> The first step in the process involves calcinating limestone to produce CaO, which is then mixed with other materials in a kiln to produce clinker.
+</p><p>Using purged material from a Ca-looping system would reduce the raw material costs for cement production. Waste CaO and ash can be used in place of CaCO<sub>3</sub> (the main constituent cement feed). The ash could also fulfill the aluminosilicate requirements otherwise supplied by additives. Since over 60% of the energy used in cement production goes into heat input for the precalciner, this integration with Ca-looping and the consequent reduced need for a calcination step, could lead to substantial energy savings (EU, 2001). However, there are problems with using the waste CaO in cement manufacture. For example, adding Ca-looping to all coal-fired plants in the UK would generate enough waste for 33 Mtonnes/yr of cement production, whereas current cement production in the UK is only 12.5 Mtonnes/yr. Hence, if the technology is applied on a large scale, the purge rate of CaO should be optimized to minimize waste.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Political_and_environmental_implications">Political and environmental implications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=20" title="Edit section: Political and environmental implications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>To fully gauge the viability of calcium looping as a capture process, it is necessary to consider the political, environmental, and health effects of the process as well.
+</p>
+<h3><span class="mw-headline" id="Political_implications">Political implications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=21" title="Edit section: Political implications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Though many recent scientific reports (e.g.: the seven-wedge stabilization plan by Pacala and Socolow) convey an urgent need to deploy CCS, this urgency has not spread to the political establishment,<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup> mainly due to the high costs and energy penalty of CCS <sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup> The economics of calcium looping are integral to its political viability.  One economic and political advantage is the ability for Ca-looping to be retrofitted onto existing power plants, rather than requiring new plants to be built. The IEA sees power plants as an important target for carbon capture, and has set the goal to have all fossil fuel based power plants deploy CCS systems by 2040.<sup class="reference" id="cite_ref-ReferenceB_33-0"><a href="#cite_note-ReferenceB-33">[33]</a></sup> However, power plants are expensive to build, and long lived. Retrofitting of post-combustion capture systems, such as Ca-looping, seems to be the only politically and economically viable way to achieve the IEA’s goal.
+</p><p>A further political advantage is the potential synergy between calcium looping and cement production.  An IEA report concludes that to meet emission reduction goals, there should be 450 CCS projects in India and China by 2050.<sup class="reference" id="cite_ref-ReferenceB_33-1"><a href="#cite_note-ReferenceB-33">[33]</a></sup> However, this could be politically difficult, especially with these nations’ numerous other development goals. After all, for a politician to commit money to CCS might be less advantageous than to commit it to job schemes or agricultural subsidies. Here, the integration of calcium looping with the prosperous and (particularly with infrastructure expansion in the developing world) vital cement industry might prove compelling to the political establishment.
+</p><p>This potential synergy with the cement industry also provides environmental benefits by simultaneously reducing the waste output of the looping process and decarbonizing cement production.  Cement manufacture is energy and resource intensive, consuming 1.5 tonnes of material per tonne of cement produced.<sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup> In the developing world, economic growth will drive infrastructure growth, increasing cement demand. Deploying a waste product for cement production could therefore have a large, positive environmental impact.
+</p>
+<h3><span class="mw-headline" id="Environmental_implications">Environmental implications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=22" title="Edit section: Environmental implications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The starting material for calcium looping is limestone, which is environmentally benign and widely available, accounting for over 10% (by volume) of all sedimentary rock. Limestone is already mined and cheaply obtainable. The mining process has no major known adverse environmental effects, beyond the unavoidable intrusiveness of any mining operation. However, as the following calculation shows, despite integration with cement industry, waste from Ca-looping can still be a problem.
+</p><p>From the environmental and health standpoint, Ca-looping compares favorably with amine scrubbing. Amine scrubbing is known to generate air pollutants, including amines and ammonia, which can react to form carcinogenic nitrosamines.<sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup> Calcium looping, on the other hand, does not produce harmful pollutants. In addition, not only does it capture CO<sub>2</sub>, but it also removes the pollutant SO<sub>2</sub> from the flue gas.<sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup>  This is both an advantage and disadvantage, as the air quality improves, but the captured SO<sub>2</sub> has a detrimental effect on the cement that is generated from the calcium looping wastes.
+</p>
+<h2><span class="mw-headline" id="Advantages_and_drawbacks">Advantages and drawbacks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=23" title="Edit section: Advantages and drawbacks">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Advantages_of_the_process">Advantages of the process</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=24" title="Edit section: Advantages of the process">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Calcium looping is considered as potential promising solutions to reduce CO<sub>2</sub>  capture energy penalty.<sup class="reference" id="cite_ref-37"><a href="#cite_note-37">[37]</a></sup> There are many advantages from the calcium looping methods. Firstly, the method has been proved to yield a low efficiency penalties (5-8% points) while other mature CO<sub>2</sub>   capture systems yield a higher efficiency penalties (8-12.5%).<sup class="reference" id="cite_ref-38"><a href="#cite_note-38">[38]</a></sup> Moreover, the method is well suited for a wide range of flue gases. Calcium looping is applicable for new builds and retrofits to existing power stations or other stationary industrial CO<sub>2</sub> sources because the method can be implemented using large-scale circulating fluidized beds while other methods such as amine scrubbing is required a vastly upscale solvent scrubbing towers.<sup class="reference" id="cite_ref-dx.doi.org_39-0"><a href="#cite_note-dx.doi.org-39">[39]</a></sup>  In addition, crushed limestone used in calcium looping as the sorbent is a natural product, which is well distributed all over the world, non-hazardous and inexpensive. Many cement manufacturers or power plants located close to limestone sources could conceivably employ Calcium looping for CO<sub>2</sub>  capture. The waste sorbent can be used in cement manufacture.
+</p>
+<h3><span class="mw-headline" id="Drawbacks">Drawbacks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=25" title="Edit section: Drawbacks">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Apart from these advantages, there are several disadvantages needed to take into considerations.  The plant integrating Ca-Looping might require a high construction investment because of the high thermal power of the post-combustion calcium loop. The sorbent capacity decreases significantly with the number of cycles for every <a href="/wiki/Carbonation" title="Carbonation">carbonation</a>-<a href="/wiki/Calcination" title="Calcination">calcination</a> cycle so the calcium-looping unit will require a constant flow of limestone. In order to increase the long-term reactivity of the sorbent or to reactivate the sorbent, some methods are under investigation such as thermal pretreatment, <a class="mw-redirect" href="/wiki/Chemical_doping" title="Chemical doping">chemical doping</a> and the production of artificial sorbents.<sup class="reference" id="cite_ref-dx.doi.org_39-1"><a href="#cite_note-dx.doi.org-39">[39]</a></sup> The method applying the concept of fluidized bed reactor, but there are some problems causing the uncertainty for the process. Attrition of the limestone can be a problem during repeated cycling.<sup class="reference" id="cite_ref-ReferenceA_18-1"><a href="#cite_note-ReferenceA-18">[18]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Benefits_of_calcium_looping_compared_with_other_post-combustion_capture_processes">Benefits of calcium looping compared with other post-combustion capture processes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=26" title="Edit section: Benefits of calcium looping compared with other post-combustion capture processes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Calcium looping compares favorably with several post-combustion <a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">capture technologies</a>. <a class="mw-redirect" href="/wiki/Amine_scrubbing" title="Amine scrubbing">Amine scrubbing</a> is the capture technology closest to being market-ready, and calcium looping has several marked benefits over it. When modeled on a 580 MW coal-fired power plant, Calcium looping experienced not only a smaller efficiency penalty (6.7-7.9% points compared to 9.5% for <a class="mw-redirect" href="/wiki/Monoethanolamine" title="Monoethanolamine">monoethanolamine</a> and 9% for chilled ammonia) but also a less complex retrofitting process. Both technologies would require the plant to be retrofitted for adoption, but the calcium looping retrofitting process would result in twice the net power output of the scrubbing technology.<sup class="reference" id="cite_ref-40"><a href="#cite_note-40">[40]</a></sup> Furthermore, this advantage can be compounded by introducing technology such as cryogenic O<sub>2</sub> storage systems. This ups the efficiency of the calcium looping technology by increasing the energy density by 57.4%, making the already low energy penalties even less of an issue.<sup class="reference" id="cite_ref-41"><a href="#cite_note-41">[41]</a></sup>
+</p><p>Calcium looping already has an energy advantage over <a class="mw-redirect" href="/wiki/Amine_scrubbing" title="Amine scrubbing">amine scrubbing</a>, but the main problem is that amine scrubbing is the more <i>market-ready technology</i>. However, the accompanying infrastructure for amine scrubbing include large solvent scrubbing towers, the likes of which have never been used on an industrial scale.<sup class="reference" id="cite_ref-ReferenceA_18-2"><a href="#cite_note-ReferenceA-18">[18]</a></sup> The accompanying infrastructure for calcium looping capture technologies are circulating fluidized beds, which have already been implemented on an industrial scale. Although the individual technologies differ in terms of current technological viability, the fact that the infrastructure needed to properly implement an amine scrubbing system has yet to be developed keeps calcium looping competitive from a viability standpoint.
+</p>
+<h2><span class="mw-headline" id="Sample_evaluation">Sample evaluation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=27" title="Edit section: Sample evaluation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Assumptions">Assumptions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=28" title="Edit section: Assumptions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ol><li>For a Ca-looping cycle installed on a 500 MW power plant, the purge rate is 12.6 kg CaO/s.<sup class="reference" id="cite_ref-Blamey,_J._2010,_p._260-279_6-1"><a href="#cite_note-Blamey,_J._2010,_p._260-279-6">[6]</a></sup></li>
+<li>For the cement production process, 0.65 kg CaO is required/ kg cement produced.<sup class="reference" id="cite_ref-Blamey,_J._2010,_p._260-279_6-2"><a href="#cite_note-Blamey,_J._2010,_p._260-279-6">[6]</a></sup></li>
+<li>U.S. electric generation capacity (only fossil fuels): Natural gas = 415 GW, Coal= 318 GW &amp; Petroleum = 51 GW <sup class="reference" id="cite_ref-42"><a href="#cite_note-42">[42]</a></sup></li>
+<li>Cement consumption in U.S. = 110,470 × 10<sup>3</sup> metric tons = 1.10470 × 10<sup>8</sup> metric tons = 1.10470 × 10<sup>11</sup> kg.<sup class="reference" id="cite_ref-43"><a href="#cite_note-43">[43]</a></sup></li></ol>
+<h3><span class="mw-headline" id="Calculations">Calculations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=29" title="Edit section: Calculations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For a single Ca-looping cycle installed on a 500MW power plant:
+</p>
+<ol><li>Amount of CaO from purge annually = 12.6 kg CaO/s × 365 days/year × 24 hr/day × 3600s / hour = 3.97 × 10<sup>8</sup> kg CaO/ year</li>
+<li>Cement that can be obtained from purge annually= 3.97 × 10<sup>8</sup> kg CaO/ year × 1 kg cement/ 0.65 kg CaO = 6.11 × 10<sup>8</sup> kg cement/year</li>
+<li>Net electricity generation in US:  (415 + 318 + 51) GW = 784 GW = 7.84 × 10<sup>11</sup> W</li>
+<li>Number of 500 MW power plants: 7.84 × 10<sup>11</sup> W / 5.00 × 10<sup>8</sup> W = 1568 power plants</li>
+<li>Amount of cement that can be produced from Ca-looping waste: 1568 × 6.11 × 10<sup>8</sup> kg cement/ year = 9.58 × 10<sup>11</sup> kg cement/year</li>
+<li>Production from Ca-looping waste as percent of total annual cement consumption = [(9.58 × 10<sup>11</sup> kg)/ (1.10470 × 10<sup>11</sup> kg)] × 100 = 870%</li></ol>
+<p>Therefore, amount of cement production from Ca-looping waste of all fossil fuel based electric power plants in US will be far greater than net consumption. To make Ca-looping more viable, waste must be minimized (i.e. sorbent degradation reduced) to ideally about 1/10th of current levels.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calcium_looping&amp;action=edit&amp;section=30" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Ahn_et_al_2013-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ahn_et_al_2013_1-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ahn, Hyungwoong; Luberti, Mauro; Liu, Zhengyi; Brandani, Stefano (August 2013). <a class="external text" href="http://www.research.ed.ac.uk/portal/files/7478246/Final_published_paper_IJGGC2013.pdf" rel="nofollow">"Process configuration studies of the amine capture process for coal-fired power plants"</a> <span class="cs1-format">(PDF)</span>. <i>International Journal of Greenhouse Gas Control</i>. <b>16</b>: 29–40. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.ijggc.2013.03.002" rel="nofollow">10.1016/j.ijggc.2013.03.002</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Greenhouse+Gas+Control&amp;rft.atitle=Process+configuration+studies+of+the+amine+capture+process+for+coal-fired+power+plants&amp;rft.volume=16&amp;rft.pages=29-40&amp;rft.date=2013-08&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ijggc.2013.03.002&amp;rft.aulast=Ahn&amp;rft.aufirst=Hyungwoong&amp;rft.au=Luberti%2C+Mauro&amp;rft.au=Liu%2C+Zhengyi&amp;rft.au=Brandani%2C+Stefano&amp;rft_id=http%3A%2F%2Fwww.research.ed.ac.uk%2Fportal%2Ffiles%2F7478246%2FFinal_published_paper_IJGGC2013.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Dean_et_al_CaL_for_powergen,_cem_+_H2-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Dean_et_al_CaL_for_powergen,_cem_+_H2_2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dean, C.C.; Blamey, J.; Florin, N.H.; Al-Jeboori, M.J.; Fennell, P.S. (June 2011). "The calcium looping cycle for CO2 capture from power generation, cement manufacture and hydrogen production". <i>Chemical Engineering Research and Design</i>. <b>89</b> (6): 836–855. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.cherd.2010.10.013" rel="nofollow">10.1016/j.cherd.2010.10.013</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemical+Engineering+Research+and+Design&amp;rft.atitle=The+calcium+looping+cycle+for+CO2+capture+from+power+generation%2C+cement+manufacture+and+hydrogen+production&amp;rft.volume=89&amp;rft.issue=6&amp;rft.pages=836-855&amp;rft.date=2011-06&amp;rft_id=info%3Adoi%2F10.1016%2Fj.cherd.2010.10.013&amp;rft.aulast=Dean&amp;rft.aufirst=C.C.&amp;rft.au=Blamey%2C+J.&amp;rft.au=Florin%2C+N.H.&amp;rft.au=Al-Jeboori%2C+M.J.&amp;rft.au=Fennell%2C+P.S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Dean_et_al_11_Potential_Synergy-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Dean_et_al_11_Potential_Synergy_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dean, Charles C.; Dugwell, Denis; Fennell, Paul S. (2011). "Investigation into potential synergy between power generation, cement manufacture and CO2 abatement using the calcium looping cycle". <i>Energy &amp; Environmental Science</i>. <b>4</b> (6): 2050. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1039%2FC1EE01282G" rel="nofollow">10.1039/C1EE01282G</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Energy+%26+Environmental+Science&amp;rft.atitle=Investigation+into+potential+synergy+between+power+generation%2C+cement+manufacture+and+CO2+abatement+using+the+calcium+looping+cycle&amp;rft.volume=4&amp;rft.issue=6&amp;rft.pages=2050&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.1039%2FC1EE01282G&amp;rft.aulast=Dean&amp;rft.aufirst=Charles+C.&amp;rft.au=Dugwell%2C+Denis&amp;rft.au=Fennell%2C+Paul+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Blamey_review-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Blamey_review_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Blamey_review_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Blamey_review_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Blamey_review_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Blamey_review_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Blamey_review_4-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Blamey, J.; Anthony, E.J.; Wang, J.; Fennell, P.S. (April 2010). "The calcium looping cycle for large-scale CO2 capture". <i>Progress in Energy and Combustion Science</i>. <b>36</b> (2): 260–279. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.pecs.2009.10.001" rel="nofollow">10.1016/j.pecs.2009.10.001</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Progress+in+Energy+and+Combustion+Science&amp;rft.atitle=The+calcium+looping+cycle+for+large-scale+CO2+capture&amp;rft.volume=36&amp;rft.issue=2&amp;rft.pages=260-279&amp;rft.date=2010-04&amp;rft_id=info%3Adoi%2F10.1016%2Fj.pecs.2009.10.001&amp;rft.aulast=Blamey&amp;rft.aufirst=J.&amp;rft.au=Anthony%2C+E.J.&amp;rft.au=Wang%2C+J.&amp;rft.au=Fennell%2C+P.S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Rodriguez_08_Calciner_heat_requirements-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rodriguez_08_Calciner_heat_requirements_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rodriguez, N.; Alonso, M.; Grasa, G.; Abanades, J. Carlos (May 2008). "<a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">capture system</a>". <i>Chemical Engineering Journal</i>. <b>138</b> (1–3): 148–154. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.cej.2007.06.005" rel="nofollow">10.1016/j.cej.2007.06.005</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemical+Engineering+Journal&amp;rft.atitle=Heat+requirements+in+a+calciner+of+CaCO3+integrated+in+a+CO%3Csub%3E2%3C%2Fsub%3E+capture+system+using+CaO&amp;rft.volume=138&amp;rft.issue=1%E2%80%933&amp;rft.pages=148-154&amp;rft.date=2008-05&amp;rft_id=info%3Adoi%2F10.1016%2Fj.cej.2007.06.005&amp;rft.aulast=Rodriguez&amp;rft.aufirst=N.&amp;rft.au=Alonso%2C+M.&amp;rft.au=Grasa%2C+G.&amp;rft.au=Abanades%2C+J.+Carlos&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Blamey,_J._2010,_p._260-279-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Blamey,_J._2010,_p._260-279_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Blamey,_J._2010,_p._260-279_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Blamey,_J._2010,_p._260-279_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Blamey, J.; Anthony, E.J.; Wang, J.; Fennell, P.S. 2010, The Calcium Looping Cycle for large-scale CO2 capture. Progress in Energy and Combustion Science vol. 36 (2) p. 260-279</span>
+</li>
+<li id="cite_note-Rodriguez_08_Hot_lime-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Rodriguez_08_Hot_lime_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Rodriguez_08_Hot_lime_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Rodríguez, N.; Alonso, M.; Grasa, G.; Abanades, J. Carlos (15 September 2008). "Process for Capturing CO2 Arising from the Calcination of the CaCO3 Used in Cement Manufacture". <i>Environmental Science &amp; Technology</i>. <b>42</b> (18): 6980–6984. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fes800507c" rel="nofollow">10.1021/es800507c</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Environmental+Science+%26+Technology&amp;rft.atitle=Process+for+Capturing+CO2+Arising+from+the+Calcination+of+the+CaCO3+Used+in+Cement+Manufacture&amp;rft.volume=42&amp;rft.issue=18&amp;rft.pages=6980-6984&amp;rft.date=2008-09-15&amp;rft_id=info%3Adoi%2F10.1021%2Fes800507c&amp;rft.aulast=Rodr%C3%ADguez&amp;rft.aufirst=N.&amp;rft.au=Alonso%2C+M.&amp;rft.au=Grasa%2C+G.&amp;rft.au=Abanades%2C+J.+Carlos&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Shimizu_99_original_concept-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Shimizu_99_original_concept_8-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Shimizu, T.; Hirama, T.; Hosoda, H.; Kitano, K.; Inagaki, M.; Tejima, K. (January 1999). "A Twin Fluid-Bed Reactor for Removal of CO2 from Combustion Processes". <i>Chemical Engineering Research and Design</i>. <b>77</b> (1): 62–68. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1205%2F026387699525882" rel="nofollow">10.1205/026387699525882</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemical+Engineering+Research+and+Design&amp;rft.atitle=A+Twin+Fluid-Bed+Reactor+for+Removal+of+CO2+from+Combustion+Processes&amp;rft.volume=77&amp;rft.issue=1&amp;rft.pages=62-68&amp;rft.date=1999-01&amp;rft_id=info%3Adoi%2F10.1205%2F026387699525882&amp;rft.aulast=Shimizu&amp;rft.aufirst=T.&amp;rft.au=Hirama%2C+T.&amp;rft.au=Hosoda%2C+H.&amp;rft.au=Kitano%2C+K.&amp;rft.au=Inagaki%2C+M.&amp;rft.au=Tejima%2C+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Fennell_07_Bed_of_hot_sand-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fennell_07_Bed_of_hot_sand_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Fennell, Paul S.; Pacciani, Roberta; Dennis, John S.; Davidson, John F.; Hayhurst, Allan N. (July 2007). "The Effects of Repeated Cycles of Calcination and Carbonation on a Variety of Different Limestones, as Measured in a Hot Fluidized Bed of Sand". <i>Energy &amp; Fuels</i>. <b>21</b> (4): 2072–2081. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fef060506o" rel="nofollow">10.1021/ef060506o</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Energy+%26+Fuels&amp;rft.atitle=The+Effects+of+Repeated+Cycles+of+Calcination+and+Carbonation+on+a+Variety+of+Different+Limestones%2C+as+Measured+in+a+Hot+Fluidized+Bed+of+Sand&amp;rft.volume=21&amp;rft.issue=4&amp;rft.pages=2072-2081&amp;rft.date=2007-07&amp;rft_id=info%3Adoi%2F10.1021%2Fef060506o&amp;rft.aulast=Fennell&amp;rft.aufirst=Paul+S.&amp;rft.au=Pacciani%2C+Roberta&amp;rft.au=Dennis%2C+John+S.&amp;rft.au=Davidson%2C+John+F.&amp;rft.au=Hayhurst%2C+Allan+N.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Florin, Nicholas H.; Blamey, John; Fennell, Paul S. (19 August 2010). "Synthetic CaO-Based Sorbent for CO2 Capture from Large-Point Sources". <i>Energy &amp; Fuels</i>. <b>24</b> (8): 4598–4604. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fef100447c" rel="nofollow">10.1021/ef100447c</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Energy+%26+Fuels&amp;rft.atitle=Synthetic+CaO-Based+Sorbent+for+CO2+Capture+from+Large-Point+Sources&amp;rft.volume=24&amp;rft.issue=8&amp;rft.pages=4598-4604&amp;rft.date=2010-08-19&amp;rft_id=info%3Adoi%2F10.1021%2Fef100447c&amp;rft.aulast=Florin&amp;rft.aufirst=Nicholas+H.&amp;rft.au=Blamey%2C+John&amp;rft.au=Fennell%2C+Paul+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-CCS_Update-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-CCS_Update_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CCS_Update_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Boot-Handford, Matthew E.; Abanades, Juan C.; Anthony, Edward J.; Blunt, Martin J.; Brandani, Stefano; Mac Dowell, Niall; Fernández, José R.; Ferrari, Maria-Chiara; Gross, Robert; Hallett, Jason P.; Haszeldine, R. Stuart; Heptonstall, Philip; Lyngfelt, Anders; Makuch, Zen; Mangano, Enzo; Porter, Richard T. J.; Pourkashanian, Mohamed; Rochelle, Gary T.; Shah, Nilay; Yao, Joseph G.; Fennell, Paul S. (2014). "Carbon capture and storage update". <i>Energy &amp; Environmental Science</i>. <b>7</b> (1): 130–189. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1039%2FC3EE42350F" rel="nofollow">10.1039/C3EE42350F</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Energy+%26+Environmental+Science&amp;rft.atitle=Carbon+capture+and+storage+update&amp;rft.volume=7&amp;rft.issue=1&amp;rft.pages=130-189&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.1039%2FC3EE42350F&amp;rft.aulast=Boot-Handford&amp;rft.aufirst=Matthew+E.&amp;rft.au=Abanades%2C+Juan+C.&amp;rft.au=Anthony%2C+Edward+J.&amp;rft.au=Blunt%2C+Martin+J.&amp;rft.au=Brandani%2C+Stefano&amp;rft.au=Mac+Dowell%2C+Niall&amp;rft.au=Fern%C3%A1ndez%2C+Jos%C3%A9+R.&amp;rft.au=Ferrari%2C+Maria-Chiara&amp;rft.au=Gross%2C+Robert&amp;rft.au=Hallett%2C+Jason+P.&amp;rft.au=Haszeldine%2C+R.+Stuart&amp;rft.au=Heptonstall%2C+Philip&amp;rft.au=Lyngfelt%2C+Anders&amp;rft.au=Makuch%2C+Zen&amp;rft.au=Mangano%2C+Enzo&amp;rft.au=Porter%2C+Richard+T.+J.&amp;rft.au=Pourkashanian%2C+Mohamed&amp;rft.au=Rochelle%2C+Gary+T.&amp;rft.au=Shah%2C+Nilay&amp;rft.au=Yao%2C+Joseph+G.&amp;rft.au=Fennell%2C+Paul+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Calix-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Calix_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.calix.com.au/catalytic_flash_calcination__cfc__technology.html" rel="nofollow">"Catalytic Flash Calcination (CFC) Technology"</a>. Calix Limited<span class="reference-accessdate">. Retrieved <span class="nowrap">21 March</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Catalytic+Flash+Calcination+%28CFC%29+Technology&amp;rft.pub=Calix+Limited&amp;rft_id=http%3A%2F%2Fwww.calix.com.au%2Fcatalytic_flash_calcination__cfc__technology.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Romeo_08_Efficiency_and_Cost-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Romeo_08_Efficiency_and_Cost_13-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Romeo, Luis M.; Abanades, J. Carlos; Escosa, Jesús M.; Paño, Jara; Giménez, Antonio; Sánchez-Biezma, Andrés; Ballesteros, Juan C. (October 2008). "Oxyfuel carbonation/calcination cycle for low cost CO2 capture in existing power plants". <i>Energy Conversion and Management</i>. <b>49</b> (10): 2809–2814. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.enconman.2008.03.022" rel="nofollow">10.1016/j.enconman.2008.03.022</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Energy+Conversion+and+Management&amp;rft.atitle=Oxyfuel+carbonation%2Fcalcination+cycle+for+low+cost+CO2+capture+in+existing+power+plants&amp;rft.volume=49&amp;rft.issue=10&amp;rft.pages=2809-2814&amp;rft.date=2008-10&amp;rft_id=info%3Adoi%2F10.1016%2Fj.enconman.2008.03.022&amp;rft.aulast=Romeo&amp;rft.aufirst=Luis+M.&amp;rft.au=Abanades%2C+J.+Carlos&amp;rft.au=Escosa%2C+Jes%C3%BAs+M.&amp;rft.au=Pa%C3%B1o%2C+Jara&amp;rft.au=Gim%C3%A9nez%2C+Antonio&amp;rft.au=S%C3%A1nchez-Biezma%2C+Andr%C3%A9s&amp;rft.au=Ballesteros%2C+Juan+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Lu_et_al_08_Pilot_plant_attrition-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lu_et_al_08_Pilot_plant_attrition_14-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lu, Dennis Y.; Hughes, Robin W.; Anthony, Edward J. (December 2008). "Ca-based sorbent looping combustion for CO2 capture in pilot-scale dual fluidized beds". <i>Fuel Processing Technology</i>. <b>89</b> (12): 1386–1395. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.fuproc.2008.06.011" rel="nofollow">10.1016/j.fuproc.2008.06.011</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Fuel+Processing+Technology&amp;rft.atitle=Ca-based+sorbent+looping+combustion+for+CO2+capture+in+pilot-scale+dual+fluidized+beds&amp;rft.volume=89&amp;rft.issue=12&amp;rft.pages=1386-1395&amp;rft.date=2008-12&amp;rft_id=info%3Adoi%2F10.1016%2Fj.fuproc.2008.06.011&amp;rft.aulast=Lu&amp;rft.aufirst=Dennis+Y.&amp;rft.au=Hughes%2C+Robin+W.&amp;rft.au=Anthony%2C+Edward+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Blamey,_J._2010-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Blamey,_J._2010_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Blamey,_J._2010_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Blamey, J.; Anthony, E.J.; Wang, J.; Fennell, P.S. (2010). "The Calcium Looping Cycle for large-scale CO<sub>2</sub> capture". <i>Progress in Energy and Combustion Science</i>. <b>36</b> (2): 260–279. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.pecs.2009.10.001" rel="nofollow">10.1016/j.pecs.2009.10.001</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Progress+in+Energy+and+Combustion+Science&amp;rft.atitle=The+Calcium+Looping+Cycle+for+large-scale+CO%3Csub%3E2%3C%2Fsub%3E+capture&amp;rft.volume=36&amp;rft.issue=2&amp;rft.pages=260-279&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1016%2Fj.pecs.2009.10.001&amp;rft.aulast=Blamey&amp;rft.aufirst=J.&amp;rft.au=Anthony%2C+E.J.&amp;rft.au=Wang%2C+J.&amp;rft.au=Fennell%2C+P.S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Romeo LM, Abanades JC, Escosa JM, Pano J, Giminez A, Sanchez-Biezma A,et al. Oxyfuel carbonation/calcination cycle for low cost CO<sub>2</sub> capture in existing power plants. <i>Energy Conversion and Management</i> 2008;49(10):2809–14</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Abanades, JC; Anthony, EJ; Wang, J; Oakey, JE (2005). "<a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">CO<sub>2</sub> capture</a>". <i>Environmental Science &amp; Technology</i>. <b>39</b> (8): 2861. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fes0496221" rel="nofollow">10.1021/es0496221</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Environmental+Science+%26+Technology&amp;rft.atitle=Fluidized+bed+combustion+systems+integrating+CO%3Csub%3E2%3C%2Fsub%3E+capture+with+CaO&amp;rft.volume=39&amp;rft.issue=8&amp;rft.pages=2861&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1021%2Fes0496221&amp;rft.aulast=Abanades&amp;rft.aufirst=JC&amp;rft.au=Anthony%2C+EJ&amp;rft.au=Wang%2C+J&amp;rft.au=Oakey%2C+JE&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-ReferenceA-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_18-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ReferenceA_18-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Blamey J., Anthony EJ, Wang J, Fennell PS, The calcium looping cycle for large-scale CO2 capture, <i>Progress in Energy and Combustion Science</i> 2010</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Blamey J., Anthony EJ, Wang J, Fennell PS, "The calcium looping cycle for large-scale CO<sub>2</sub> capture, <i>Progress in Energy and Combustion Science</i> 2010</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">German RM. Sintering Theory and Practice. New York: Wiley, 1996.</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sun, P; Grace, JR; Lim, CJ; Anthony, EJ (2007). "The effect of CaO sintering on cyclic CO2 capture in energy systems". <i>AIChE Journal</i>. <b>53</b> (9): 2432–42. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Faic.11251" rel="nofollow">10.1002/aic.11251</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=AIChE+Journal&amp;rft.atitle=The+effect+of+CaO+sintering+on+cyclic+CO2+capture+in+energy+systems&amp;rft.volume=53&amp;rft.issue=9&amp;rft.pages=2432-42&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1002%2Faic.11251&amp;rft.aulast=Sun&amp;rft.aufirst=P&amp;rft.au=Grace%2C+JR&amp;rft.au=Lim%2C+CJ&amp;rft.au=Anthony%2C+EJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation journal">Borgwardt, RH (1989). "Sintering of nascent calcium oxide". <i>Chemical Engineering Science</i>. <b>44</b> (1): 53–60. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0009-2509%2889%2985232-7" rel="nofollow">10.1016/0009-2509(89)85232-7</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemical+Engineering+Science&amp;rft.atitle=Sintering+of+nascent+calcium+oxide&amp;rft.volume=44&amp;rft.issue=1&amp;rft.pages=53-60&amp;rft.date=1989&amp;rft_id=info%3Adoi%2F10.1016%2F0009-2509%2889%2985232-7&amp;rft.aulast=Borgwardt&amp;rft.aufirst=RH&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation journal">Manovic, V; Anthony, EJ (2008). "Thermal activation of CaO-based sorbent and self reactivation during CO2 capture looping cycles". <i>Environmental Science &amp; Technology</i>. <b>42</b> (11): 4170–4. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fes800152s" rel="nofollow">10.1021/es800152s</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Environmental+Science+%26+Technology&amp;rft.atitle=Thermal+activation+of+CaO-based+sorbent+and+self+reactivation+during+CO2+capture+looping+cycles&amp;rft.volume=42&amp;rft.issue=11&amp;rft.pages=4170-4&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1021%2Fes800152s&amp;rft.aulast=Manovic&amp;rft.aufirst=V&amp;rft.au=Anthony%2C+EJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Belen_thesis-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Belen_thesis_24-0">^</a></b></span> <span class="reference-text"><cite class="citation book">González, Belén (May 2010). <i>Comportiamento de CaO Como Sorbente Regenerable para la Captura de CO2 (in Spanish)</i>. Spain: Universidad de Oviedo.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Comportiamento+de+CaO+Como+Sorbente+Regenerable+para+la+Captura+de+CO2+%28in+Spanish%29&amp;rft.place=Spain&amp;rft.pub=Universidad+de+Oviedo&amp;rft.date=2010-05&amp;rft.aulast=Gonz%C3%A1lez&amp;rft.aufirst=Bel%C3%A9n&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Hurst_LCA-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hurst_LCA_25-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hurst, Thomas F.; Cockerill, Timothy T.; Florin, Nicholas H. (2012). "Life cycle greenhouse gas assessment of a coal-fired power station with calcium looping CO2 capture and offshore geological storage". <i>Energy &amp; Environmental Science</i>. <b>5</b> (5): 7132. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1039%2FC2EE21204H" rel="nofollow">10.1039/C2EE21204H</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Energy+%26+Environmental+Science&amp;rft.atitle=Life+cycle+greenhouse+gas+assessment+of+a+coal-fired+power+station+with+calcium+looping+CO2+capture+and+offshore+geological+storage&amp;rft.volume=5&amp;rft.issue=5&amp;rft.pages=7132&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1039%2FC2EE21204H&amp;rft.aulast=Hurst&amp;rft.aufirst=Thomas+F.&amp;rft.au=Cockerill%2C+Timothy+T.&amp;rft.au=Florin%2C+Nicholas+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dean, Charles.; Hills, Thomas.; Florin, Nick.; Dugwell, Denis.; Fennell, Paul S. (2013). "Integrating Calcium Looping CO2 Capture with the Manufacture of Cement". <i>Energy Procedia</i>. <b>37</b>: 7078–7090. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.egypro.2013.06.644" rel="nofollow">10.1016/j.egypro.2013.06.644</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Energy+Procedia&amp;rft.atitle=Integrating+Calcium+Looping+CO2+Capture+with+the+Manufacture+of+Cement&amp;rft.volume=37&amp;rft.pages=7078-7090&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1016%2Fj.egypro.2013.06.644&amp;rft.aulast=Dean&amp;rft.aufirst=Charles.&amp;rft.au=Hills%2C+Thomas.&amp;rft.au=Florin%2C+Nick.&amp;rft.au=Dugwell%2C+Denis.&amp;rft.au=Fennell%2C+Paul+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation journal">MacKenzie, A; Granatstein, DL; Anthony, EJ; Abanades, JC (2007). "Economics of CO2 capture using the calcium cycle with a pressurized fluidized bed combustion". <i>Energy &amp; Fuels</i>. <b>21</b> (2): 920–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fef0603378" rel="nofollow">10.1021/ef0603378</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Energy+%26+Fuels&amp;rft.atitle=Economics+of+CO2+capture+using+the+calcium+cycle+with+a+pressurized+fluidized+bed+combustion&amp;rft.volume=21&amp;rft.issue=2&amp;rft.pages=920-6&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1021%2Fef0603378&amp;rft.aulast=MacKenzie&amp;rft.aufirst=A&amp;rft.au=Granatstein%2C+DL&amp;rft.au=Anthony%2C+EJ&amp;rft.au=Abanades%2C+JC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Rao and Rubin, 2002</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Alsop, P. A., Chen, H., Tseng, H., 2007. The Cement Plant Operations Handbook, Fifth Edition, Tradeship Publications, Surrey, UK. Chapter 17.</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation journal">MacKenzie, A; Granatstein, DL; Anthony, EJ; Abanades, JC (2007). "Economics of CO<sub>2</sub> capture using the calcium cycle with a pressurized fluidized bed combustor". <i>Energy &amp; Fuels</i>. <b>21</b> (2): 920–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fef0603378" rel="nofollow">10.1021/ef0603378</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Energy+%26+Fuels&amp;rft.atitle=Economics+of+CO%3Csub%3E2%3C%2Fsub%3E+capture+using+the+calcium+cycle+with+a+pressurized+fluidized+bed+combustor&amp;rft.volume=21&amp;rft.issue=2&amp;rft.pages=920-6&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1021%2Fef0603378&amp;rft.aulast=MacKenzie&amp;rft.aufirst=A&amp;rft.au=Granatstein%2C+DL&amp;rft.au=Anthony%2C+EJ&amp;rft.au=Abanades%2C+JC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Pacala S., Socolow R. Stabilizations Wedges: Solving the Climate Problem for the Next 50 Years with Current Technologies. Science, 2004. 305(5686), 968-972</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">Haszeldine R. Carbon Capture and Storage: How Green Can Black Be? Science, 2009. 325(5948), 1647-1652</span>
+</li>
+<li id="cite_note-ReferenceB-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceB_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceB_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">IEA. Technology Roadmap: Carbon Capture and Storage. 2009</span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">Jankovic, Alex. Walter Valery, Eugene Davis, "Cement grinding optimisation, <i>Minerals Engineering</i>, Volume 17, Issues 11–12, November–December 2004, Pages 1075-1081</span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text">Lag M., Lindeman B., Instanes C., Brunborg B., &amp; Schwarze P. Health effects of amines and derivatives associated with CO<sub>2</sub> capture. Norwegian Institute of Public Health: 2011</span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text">Coppola A., Montagnaro F., Salatino P., Scala F. Fluidized bed calcium looping: The effect of SO2 on sorbent attrition and CO<sub>2</sub> capture capacity, Chemical Engineering Journal, Volumes 207–208, 1 October 2012, 445-449</span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.aidic.it/cet/13/35/070.pdf" rel="nofollow">http://www.aidic.it/cet/13/35/070.pdf</a></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><a class="external free" href="http://pubs.rsc.org/en/content/articlelanding/2016/ee/c5ee02950c#!divAbstract" rel="nofollow">http://pubs.rsc.org/en/content/articlelanding/2016/ee/c5ee02950c#!divAbstract</a></span>
+</li>
+<li id="cite_note-dx.doi.org-39"><span class="mw-cite-backlink">^ <a href="#cite_ref-dx.doi.org_39-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dx.doi.org_39-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Blamey, J.; Anthony, E.J.; Wang, J.; Fennell, P.S. (2010). "The calcium looping cycle for large-scale CO<sub>2</sub> capture". <i>Progress in Energy and Combustion Science</i>. <b>36</b> (2): 260–279. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.pecs.2009.10.001" rel="nofollow">10.1016/j.pecs.2009.10.001</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Progress+in+Energy+and+Combustion+Science&amp;rft.atitle=The+calcium+looping+cycle+for+large-scale+CO%3Csub%3E2%3C%2Fsub%3E+capture&amp;rft.volume=36&amp;rft.issue=2&amp;rft.pages=260-279&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1016%2Fj.pecs.2009.10.001&amp;rft.aulast=Blamey&amp;rft.aufirst=J.&amp;rft.au=Anthony%2C+E.J.&amp;rft.au=Wang%2C+J.&amp;rft.au=Fennell%2C+P.S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hanak, D.; Biliyok, C; Anthony, E; Manovic, V. "Modelling and comparison of calcium looping and chemical solvent scrubbing retrofits for CO2 capture from coal-fired power plant". <i>International Journal of Greenhouse Gas Control</i>. <b>2015</b>: 226–236.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Greenhouse+Gas+Control&amp;rft.atitle=Modelling+and+comparison+of+calcium+looping+and+chemical+solvent+scrubbing+retrofits+for+CO2+capture+from+coal-fired+power+plant&amp;rft.volume=2015&amp;rft.pages=226-236&amp;rft.aulast=Hanak&amp;rft.aufirst=D.&amp;rft.au=Biliyok%2C+C&amp;rft.au=Anthony%2C+E&amp;rft.au=Manovic%2C+V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalcium+looping"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text">Hanak D., Biliyok C, Manovic V. Calcium looping with inherent energy storage for <a class="mw-redirect" href="/wiki/Decarbonization" title="Decarbonization">decarbonization</a> of coal-fired power plant. Energy and Environmental Science 2016</span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text">EIA. Electricity: Electricity Generating Capacity (2013). <a class="external free" href="http://www.eia.gov/electricity/capacity/" rel="nofollow">http://www.eia.gov/electricity/capacity/</a></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text">USGS Mineral Resources Program. Cement. &lt;<a class="external free" href="http://minerals.usgs.gov/minerals/pubs/commodity/cement/170400.pdf" rel="nofollow">http://minerals.usgs.gov/minerals/pubs/commodity/cement/170400.pdf</a>&gt;</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1226
+Cached time: 20181011172449
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.524 seconds
+Real time usage: 0.854 seconds
+Preprocessor visited node count: 1787/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 48681/2097152 bytes
+Template argument size: 218/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 81507/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.255/10.000 seconds
+Lua memory usage: 3.43 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  412.515      1 -total
+ 84.07%  346.787      1 Template:Reflist
+ 65.28%  269.274     23 Template:Cite_journal
+  7.11%   29.350      1 Template:NumBlk
+  1.92%    7.921      1 Template:Cite_book
+  1.54%    6.338      1 Template:Cite_web
+  0.99%    4.086      2 Template:Str_len
+  0.61%    2.509      1 Template:Main_other
+  0.59%    2.441      1 Template:EquationRef
+  0.59%    2.434      1 Template:=
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:42268134-0!canonical!math=5 and timestamp 20181011172448 and revision id 834136954
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Calcium_looping&amp;oldid=834136954">https://en.wikipedia.org/w/index.php?title=Calcium_looping&amp;oldid=834136954</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Carbon_dioxide" title="Category:Carbon dioxide">Carbon dioxide</a></li><li><a href="/wiki/Category:Chemical_engineering" title="Category:Chemical engineering">Chemical engineering</a></li><li><a href="/wiki/Category:Chemical_processes" title="Category:Chemical processes">Chemical processes</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Calcium+looping" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Calcium+looping" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Calcium_looping" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Calcium_looping" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Calcium_looping">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Calcium_looping&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Calcium_looping&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Calcium_looping" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Calcium_looping" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Calcium_looping&amp;oldid=834136954" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Calcium_looping&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q15991512" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Calcium_looping&amp;id=834136954" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Calcium+looping">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Calcium+looping&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Calcium_looping&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q15991512#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 4 April 2018, at 03:44<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Calcium_looping&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.524","walltime":"0.854","ppvisitednodes":{"value":1787,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":48681,"limit":2097152},"templateargumentsize":{"value":218,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":81507,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  412.515      1 -total"," 84.07%  346.787      1 Template:Reflist"," 65.28%  269.274     23 Template:Cite_journal","  7.11%   29.350      1 Template:NumBlk","  1.92%    7.921      1 Template:Cite_book","  1.54%    6.338      1 Template:Cite_web","  0.99%    4.086      2 Template:Str_len","  0.61%    2.509      1 Template:Main_other","  0.59%    2.441      1 Template:EquationRef","  0.59%    2.434      1 Template:="]},"scribunto":{"limitreport-timeusage":{"value":"0.255","limit":"10.000"},"limitreport-memusage":{"value":3595089,"limit":52428800}},"cachereport":{"origin":"mw1226","timestamp":"20181011172449","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw1258"});});</script>
+</body>
+</html>

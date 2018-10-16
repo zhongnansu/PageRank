@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Manufacturing - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Manufacturing","wgTitle":"Manufacturing","wgCurRevisionId":863651517,"wgRevisionId":863651517,"wgArticleId":39388,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Wikipedia articles incorporating a citation from the New International Encyclopedia","Manufacturing","Production and manufacturing"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Manufacturing","wgRelevantArticleId":39388,"wgRequestId":"W8HbLgpAMFoAAGJfNWwAAACE","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q187939","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Geely_assembly_line_in_Beilun%2C_Ningbo.JPG/1200px-Geely_assembly_line_in_Beilun%2C_Ningbo.JPG" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Manufacturing" rel="alternate"/>
+<link href="/w/index.php?title=Manufacturing&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Manufacturing&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Manufacturing" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Manufacturing rootpage-Manufacturing skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Manufacturing</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Geely_assembly_line_in_Beilun,_Ningbo.JPG"><img alt="" class="thumbimage" data-file-height="2448" data-file-width="3264" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Geely_assembly_line_in_Beilun%2C_Ningbo.JPG/220px-Geely_assembly_line_in_Beilun%2C_Ningbo.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Geely_assembly_line_in_Beilun%2C_Ningbo.JPG/330px-Geely_assembly_line_in_Beilun%2C_Ningbo.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Geely_assembly_line_in_Beilun%2C_Ningbo.JPG/440px-Geely_assembly_line_in_Beilun%2C_Ningbo.JPG 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Geely_assembly_line_in_Beilun,_Ningbo.JPG" title="Enlarge"></a></div>Car manufacturing in China</div></div></div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of a <a href="/wiki/Category:Industry" title="Category:Industry">series</a> of articles on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a class="mw-selflink selflink">Manufacturing</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><a class="image" href="/wiki/File:Factory.svg" title="Mill"><img alt="Mill" data-file-height="438" data-file-width="502" height="87" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Factory.svg/100px-Factory.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Factory.svg/150px-Factory.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Factory.svg/200px-Factory.svg.png 2x" width="100"/></a></td></tr><tr><th style="padding:0.1em">
+Manufacturing methods</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Batch_production" title="Batch production">Batch production</a></li>
+<li><a href="/wiki/Job_production" title="Job production">Job production</a></li>
+<li><a href="/wiki/Mass_production" title="Mass production">Flow production</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+Improvement methods</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Reliability-centered_maintenance" title="Reliability-centered maintenance">RCM</a></li>
+<li><a href="/wiki/Total_productive_maintenance" title="Total productive maintenance">TPM</a></li>
+<li><a href="/wiki/Value-driven_maintenance" title="Value-driven maintenance">VDM</a></li>
+<li><a href="/wiki/Quick_response_manufacturing" title="Quick response manufacturing">QRM</a></li>
+<li><a href="/wiki/Theory_of_constraints" title="Theory of constraints">TOC</a></li>
+<li><a href="/wiki/Lean_manufacturing" title="Lean manufacturing">Lean</a></li>
+<li><a href="/wiki/Six_Sigma" title="Six Sigma">Six Sigma</a></li>
+<li><a href="/wiki/Total_quality_management" title="Total quality management">TQM</a></li>
+<li><a href="/wiki/Zero_Defects" title="Zero Defects">ZD</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+Information and communication</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/ISA-88" title="ISA-88">ISA-88</a></li>
+<li><a href="/wiki/ANSI/ISA-95" title="ANSI/ISA-95">ISA-95</a></li>
+<li><a href="/wiki/Enterprise_resource_planning" title="Enterprise resource planning">ERP</a></li>
+<li><a href="/wiki/SAP_ERP" title="SAP ERP">SAP</a></li>
+<li><a href="/wiki/IEC_62264" title="IEC 62264">IEC 62264</a></li>
+<li><a href="/wiki/B2MML" title="B2MML">B2MML</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+Process control</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Programmable_logic_controller" title="Programmable logic controller">PLC</a></li>
+<li><a href="/wiki/Distributed_control_system" title="Distributed control system">DCS</a></li>
+<li><a href="/wiki/SCADA" title="SCADA">SCADA</a></li></ul></td>
+</tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Manufacturing" title="Template:Manufacturing"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Manufacturing" title="Template talk:Manufacturing"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Manufacturing&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Manufacturing</b> is the production of <a class="mw-redirect" href="/wiki/Merchandise" title="Merchandise">merchandise</a> for use or sale using labor and <a href="/wiki/Machine" title="Machine">machines</a>, <a href="/wiki/Tool" title="Tool">tools</a>, chemical and biological processing, or formulation. The term may refer to a range of human activity, from <a href="/wiki/Handicraft" title="Handicraft">handicraft</a> to <a class="mw-redirect" href="/wiki/High_tech_manufacturing" title="High tech manufacturing">high tech</a>, but is most commonly applied to <a href="/wiki/Industry" title="Industry">industrial</a> production, in which <a href="/wiki/Raw_material" title="Raw material">raw materials</a> are transformed into <a href="/wiki/Finished_good" title="Finished good">finished goods</a> on a large scale. Such finished goods may be sold to other manufacturers for the production of other, more complex products, such as <a href="/wiki/Aircraft" title="Aircraft">aircraft</a>, <a href="/wiki/Major_appliance" title="Major appliance">household appliances</a>, <a href="/wiki/Furniture" title="Furniture">furniture</a>, <a href="/wiki/Sports_equipment" title="Sports equipment">sports equipment</a> or <a class="mw-redirect" href="/wiki/Automobiles" title="Automobiles">automobiles</a>, or sold to <a class="mw-redirect" href="/wiki/Wholesale" title="Wholesale">wholesalers</a>, who in turn sell them to <a class="mw-redirect" href="/wiki/Retailer" title="Retailer">retailers</a>, who then sell them to <a href="/wiki/End_user" title="End user">end users</a> and <a href="/wiki/Consumer" title="Consumer">consumers</a>.
+</p><p><a href="/wiki/Manufacturing_engineering" title="Manufacturing engineering">Manufacturing engineering</a> or <b>manufacturing process</b> are the steps through which raw materials are transformed into a final product. The manufacturing process begins with the product design, and materials specification from which the product is made. These materials are then modified through manufacturing processes to become the required part.
+</p><p>Modern manufacturing includes all intermediate processes required in the production and integration of a product's components. Some industries, such as <a class="mw-redirect" href="/wiki/Fabrication_(semiconductor)" title="Fabrication (semiconductor)">semiconductor</a> and <a class="mw-redirect" href="/wiki/Fabrication_(metal)" title="Fabrication (metal)">steel</a> manufacturers use the term <i>fabrication</i> instead.
+</p><p>The manufacturing sector is closely connected with <a href="/wiki/Engineering" title="Engineering">engineering</a> and <a href="/wiki/Industrial_design" title="Industrial design">industrial design</a>. Examples of major manufacturers in <a href="/wiki/North_America" title="North America">North America</a> include <a class="mw-redirect" href="/wiki/General_Motors_Corporation" title="General Motors Corporation">General Motors Corporation</a>, <a href="/wiki/General_Electric" title="General Electric">General Electric</a>, <a href="/wiki/Procter_%26_Gamble" title="Procter &amp; Gamble">Procter &amp; Gamble</a>, <a href="/wiki/General_Dynamics" title="General Dynamics">General Dynamics</a>, <a href="/wiki/Boeing" title="Boeing">Boeing</a>, <a href="/wiki/Pfizer" title="Pfizer">Pfizer</a>, and <a class="mw-redirect" href="/wiki/Precision_Castparts" title="Precision Castparts">Precision Castparts</a>. Examples in Europe include <a href="/wiki/Volkswagen_Group" title="Volkswagen Group">Volkswagen Group</a>, <a href="/wiki/Siemens" title="Siemens">Siemens</a>, <a href="/wiki/Fiat_Chrysler_Automobiles" title="Fiat Chrysler Automobiles">FCA</a>  and <a href="/wiki/Michelin" title="Michelin">Michelin</a>. Examples in Asia include <a href="/wiki/Toyota_Industries" title="Toyota Industries">Toyota</a>, <a class="mw-redirect" href="/wiki/Yamaha" title="Yamaha">Yamaha</a>, <a href="/wiki/Panasonic" title="Panasonic">Panasonic</a>, <a class="mw-redirect" href="/wiki/LG" title="LG">LG</a>, <a href="/wiki/Samsung" title="Samsung">Samsung</a> and <a href="/wiki/Tata_Motors" title="Tata Motors">Tata Motors</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History_and_development"><span class="tocnumber">1</span> <span class="toctext">History and development</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Manufacturing_systems:_changes_in_methods_of_manufacturing"><span class="tocnumber">1.1</span> <span class="toctext">Manufacturing systems: changes in methods of manufacturing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Industrial_policy"><span class="tocnumber">2</span> <span class="toctext">Industrial policy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Economics_of_manufacturing"><span class="tocnumber">2.1</span> <span class="toctext">Economics of manufacturing</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Manufacturing_and_investment"><span class="tocnumber">2.2</span> <span class="toctext">Manufacturing and investment</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Countries_by_manufacturing_output_using_the_most_recent_known_data"><span class="tocnumber">3</span> <span class="toctext">Countries by manufacturing output using the most recent known data</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Manufacturing_processes"><span class="tocnumber">4</span> <span class="toctext">Manufacturing processes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Control"><span class="tocnumber">5</span> <span class="toctext">Control</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Sources"><span class="tocnumber">8</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="History_and_development">History and development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manufacturing&amp;action=edit&amp;section=1" title="Edit section: History and development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Regenerative_thermal_oxidizer_manufacturing.jpg"><img alt="" class="thumbimage" data-file-height="720" data-file-width="960" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Regenerative_thermal_oxidizer_manufacturing.jpg/220px-Regenerative_thermal_oxidizer_manufacturing.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Regenerative_thermal_oxidizer_manufacturing.jpg/330px-Regenerative_thermal_oxidizer_manufacturing.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Regenerative_thermal_oxidizer_manufacturing.jpg/440px-Regenerative_thermal_oxidizer_manufacturing.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Regenerative_thermal_oxidizer_manufacturing.jpg" title="Enlarge"></a></div>Finished regenerative <a href="/wiki/Thermal_oxidizer" title="Thermal oxidizer">thermal oxidizer</a> at manufacturing plant</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Boeing_787_Section_41_final_assembly.jpg"><img alt="" class="thumbimage" data-file-height="1152" data-file-width="1728" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Boeing_787_Section_41_final_assembly.jpg/220px-Boeing_787_Section_41_final_assembly.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Boeing_787_Section_41_final_assembly.jpg/330px-Boeing_787_Section_41_final_assembly.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Boeing_787_Section_41_final_assembly.jpg/440px-Boeing_787_Section_41_final_assembly.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Boeing_787_Section_41_final_assembly.jpg" title="Enlarge"></a></div>Assembly of Section 41 of a <a href="/wiki/Boeing_787_Dreamliner" title="Boeing 787 Dreamliner">Boeing 787 Dreamliner</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Worker_9.JPG"><img alt="" class="thumbimage" data-file-height="927" data-file-width="1195" height="171" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Worker_9.JPG/220px-Worker_9.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Worker_9.JPG/330px-Worker_9.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Worker_9.JPG/440px-Worker_9.JPG 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Worker_9.JPG" title="Enlarge"></a></div>An industrial <a class="mw-redirect" href="/wiki/Worker" title="Worker">worker</a> amidst heavy steel semi-products (KINEX BEARINGS, <a href="/wiki/Byt%C4%8Da" title="Bytča">Bytča</a>, <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a>, c. 1995–2000)</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Hyundai_car_assembly_line.jpg"><img alt="" class="thumbimage" data-file-height="2144" data-file-width="2848" height="166" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hyundai_car_assembly_line.jpg/220px-Hyundai_car_assembly_line.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hyundai_car_assembly_line.jpg/330px-Hyundai_car_assembly_line.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hyundai_car_assembly_line.jpg/440px-Hyundai_car_assembly_line.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Hyundai_car_assembly_line.jpg" title="Enlarge"></a></div>A modern <a class="mw-redirect" href="/wiki/Automobile" title="Automobile">automobile</a> <a href="/wiki/Assembly_line" title="Assembly line">assembly line</a></div></div></div>
+<ul><li>In its earliest form, manufacturing was usually carried out by a single skilled <a href="/wiki/Artisan" title="Artisan">artisan</a> with assistants. Training was by <a href="/wiki/Apprenticeship" title="Apprenticeship">apprenticeship</a>. In much of the pre-industrial world, the <a href="/wiki/Guild" title="Guild">guild</a> system protected the privileges and <a href="/wiki/Trade_secret" title="Trade secret">trade secrets</a> of urban artisans.</li>
+<li>Before the <a href="/wiki/Industrial_Revolution" title="Industrial Revolution">Industrial Revolution</a>, most manufacturing occurred in rural areas, where household-based manufacturing served as a supplemental subsistence strategy to <a href="/wiki/Agriculture" title="Agriculture">agriculture</a> (and continues to do so in places). Entrepreneurs organized a number of manufacturing households into a single enterprise through the <a href="/wiki/Putting-out_system" title="Putting-out system">putting-out system</a>.</li>
+<li>Toll manufacturing is an arrangement whereby a first firm with specialized equipment processes raw materials or semi-finished goods for a second firm.</li></ul>
+<h3><span class="mw-headline" id="Manufacturing_systems:_changes_in_methods_of_manufacturing">Manufacturing systems: changes in methods of manufacturing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manufacturing&amp;action=edit&amp;section=2" title="Edit section: Manufacturing systems: changes in methods of manufacturing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a class="mw-redirect" href="/wiki/Manufacturing_Engineering" title="Manufacturing Engineering">Manufacturing Engineering</a></li>
+<li><a href="/wiki/Agile_manufacturing" title="Agile manufacturing">Agile manufacturing</a></li>
+<li><a href="/wiki/American_system_of_manufacturing" title="American system of manufacturing">American system of manufacturing</a></li>
+<li>British <a href="/wiki/Factory_system" title="Factory system">factory system</a> of manufacturing</li>
+<li>Craft or <a href="/wiki/Guild" title="Guild">guild system</a></li>
+<li><a class="mw-redirect" href="/wiki/Fabrication_(metal)" title="Fabrication (metal)">Fabrication</a></li>
+<li><a class="mw-redirect" href="/wiki/Flexible_manufacturing" title="Flexible manufacturing">Flexible manufacturing</a></li>
+<li><a class="mw-redirect" href="/wiki/Just_in_time_(business)" title="Just in time (business)">Just-in-time manufacturing</a></li>
+<li><a href="/wiki/Lean_manufacturing" title="Lean manufacturing">Lean manufacturing</a></li>
+<li><a href="/wiki/Mass_customization" title="Mass customization">Mass customization</a> (2000s) – <a href="/wiki/3D_printing" title="3D printing">3D printing</a>, design-your-own web sites for <a href="/wiki/Sneakers" title="Sneakers">sneakers</a>, <a href="/wiki/Fast_fashion" title="Fast fashion">fast fashion</a></li>
+<li><a href="/wiki/Mass_production" title="Mass production">Mass production</a></li>
+<li><a href="/wiki/Ownership" title="Ownership">Ownership</a></li>
+<li><a href="/wiki/Packaging_and_labeling" title="Packaging and labeling">Packaging and labeling</a></li>
+<li><a href="/wiki/Prefabrication" title="Prefabrication">Prefabrication</a></li>
+<li><a href="/wiki/Putting-out_system" title="Putting-out system">Putting-out system</a></li>
+<li><a class="mw-redirect" href="/wiki/Rapid_manufacturing" title="Rapid manufacturing">Rapid manufacturing</a></li>
+<li><a href="/wiki/Reconfigurable_manufacturing_system" title="Reconfigurable manufacturing system">Reconfigurable manufacturing system</a></li>
+<li><a class="mw-redirect" href="/wiki/Soviet_collectivism" title="Soviet collectivism">Soviet collectivism</a> in manufacturing</li>
+<li><a href="/wiki/History_of_numerical_control" title="History of numerical control">History of numerical control</a></li></ul>
+<h2><span class="mw-headline" id="Industrial_policy">Industrial policy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manufacturing&amp;action=edit&amp;section=3" title="Edit section: Industrial policy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Industrial_policy" title="Industrial policy">Industrial policy</a></div>
+<h3><span class="mw-headline" id="Economics_of_manufacturing">Economics of manufacturing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manufacturing&amp;action=edit&amp;section=4" title="Edit section: Economics of manufacturing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Emerging_technologies" title="Emerging technologies">Emerging technologies</a> have provided some new growth in advanced manufacturing employment opportunities in the <a href="/wiki/Rust_Belt" title="Rust Belt">Manufacturing Belt</a> in the <a href="/wiki/United_States" title="United States">United States</a>. Manufacturing provides important material support for national <a href="/wiki/Infrastructure" title="Infrastructure">infrastructure</a> and for <a class="mw-redirect" href="/wiki/Defense_(military)" title="Defense (military)">national defense</a>.
+</p><p>On the other hand, most manufacturing may involve significant social and environmental costs. The clean-up costs of <a href="/wiki/Hazardous_waste" title="Hazardous waste">hazardous waste</a>, for example, may outweigh the benefits of a product that creates it. Hazardous materials may expose <a class="mw-redirect" href="/wiki/Workers" title="Workers">workers</a> to health risks. These costs are now well known and there is effort to address them by improving <a href="/wiki/Efficiency" title="Efficiency">efficiency</a>, reducing waste, using <a href="/wiki/Industrial_symbiosis" title="Industrial symbiosis">industrial symbiosis</a>, and eliminating harmful chemicals.
+</p><p>The negative costs of manufacturing can also be addressed legally. Developed countries regulate manufacturing activity with <a class="mw-redirect" href="/wiki/Labor_laws" title="Labor laws">labor laws</a> and <a href="/wiki/Environmental_policy" title="Environmental policy">environmental</a> laws. Across the globe, manufacturers can be subject to regulations and pollution taxes to offset the <a class="mw-redirect" href="/wiki/Environmental_impact_of_manufacturing" title="Environmental impact of manufacturing">environmental costs of manufacturing activities</a>. <a class="mw-redirect" href="/wiki/Labor_unions" title="Labor unions">Labor unions</a> and <a class="mw-redirect" href="/wiki/Craft_guilds" title="Craft guilds">craft guilds</a> have played a historic role in the negotiation of worker rights and wages. Environment laws and labor protections that are available in developed nations may not be available in the <a class="mw-redirect" href="/wiki/Third_world" title="Third world">third world</a>. <a class="mw-redirect" href="/wiki/Tort_law" title="Tort law">Tort law</a> and <a href="/wiki/Product_liability" title="Product liability">product liability</a> impose additional costs on manufacturing.  These are significant dynamics in the ongoing process, occurring over the last few decades, of manufacture-based industries relocating operations to "developing-world" economies where the costs of production are significantly lower than in "developed-world" economies.
+</p>
+<h3><span class="mw-headline" id="Manufacturing_and_investment">Manufacturing and investment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manufacturing&amp;action=edit&amp;section=5" title="Edit section: Manufacturing and investment">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:KapaAuslUSABRDEngl.png"><img alt="" class="thumbimage" data-file-height="633" data-file-width="978" height="142" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/KapaAuslUSABRDEngl.png/220px-KapaAuslUSABRDEngl.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/KapaAuslUSABRDEngl.png/330px-KapaAuslUSABRDEngl.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/KapaAuslUSABRDEngl.png/440px-KapaAuslUSABRDEngl.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:KapaAuslUSABRDEngl.png" title="Enlarge"></a></div>Capacity utilization in manufacturing in the <a href="/wiki/Germany" title="Germany">FRG</a> and in the USA</div></div></div>
+<p>Surveys and analyses of trends and issues in manufacturing and investment around the world focus on such things as:
+</p>
+<ul><li>The nature and sources of the considerable variations that occur cross-nationally in levels of manufacturing and wider industrial-economic growth;</li>
+<li>Competitiveness; and</li>
+<li>Attractiveness to foreign direct investors.</li></ul>
+<p>In addition to general overviews, researchers have examined the features and factors affecting particular key aspects of manufacturing development. They have compared production and investment in a range of Western and non-Western countries and presented case studies of growth and performance in important individual industries and market-economic sectors.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p><p>On June 26, 2009, <a href="/wiki/Jeff_Immelt" title="Jeff Immelt">Jeff Immelt</a>, the CEO of General Electric, called for the <a href="/wiki/United_States" title="United States">United States</a> to increase its manufacturing base employment to 20% of the workforce, commenting that the U.S. has outsourced too much in some areas and can no longer rely on the financial sector and consumer spending to drive demand.<sup class="reference" id="cite_ref-Immelt_3-0"><a href="#cite_note-Immelt-3">[3]</a></sup> Further, while U.S. manufacturing performs well compared to the rest of the U.S. economy, research shows that it performs poorly compared to manufacturing in other high-wage countries.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> A total of 3.2 million – one in six U.S. manufacturing jobs – have disappeared between 2000 and 2007.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> In the UK, <a class="new" href="/w/index.php?title=EEF_the_manufacturers_organization&amp;action=edit&amp;redlink=1" title="EEF the manufacturers organization (page does not exist)">EEF the manufacturers organization</a> has led calls for the UK economy to be rebalanced to rely less on financial services and has actively promoted the manufacturing agenda.
+</p>
+<h2><span class="mw-headline" id="Countries_by_manufacturing_output_using_the_most_recent_known_data">Countries by manufacturing output using the most recent known data</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manufacturing&amp;action=edit&amp;section=6" title="Edit section: Countries by manufacturing output using the most recent known data">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>List of top 20 manufacturing countries by total value of manufacturing in US dollars for its noted year according to <a class="mw-redirect" href="/wiki/Worldbank" title="Worldbank">Worldbank</a>.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p>
+<table class="wikitable sortable" style="margin-left:auto;margin-right:auto">
+<tbody><tr>
+<th style="width:2em;">Rank</th>
+<th>Country/Region</th>
+<th>Millions of $US
+</th>
+<th>Year
+</th></tr>
+<tr style="font-weight:bold;background:#f0f0f0">
+<td></td>
+<td><span class="flagicon" style="padding-left:25px;"> </span><i><a href="/wiki/Gross_world_product" title="Gross world product">World</a></i></td>
+<td>12,578,627</td>
+<td>2014
+</td></tr>
+<tr>
+<td>1</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" width="23"/> </span><a href="/wiki/China" title="China">China</a></td>
+<td>3,713,300</td>
+<td>2014
+</td></tr>
+<tr>
+<td><span style="display:none;">9999999</span></td>
+<td><i><span class="flagicon"><img alt="" class="thumbborder" data-file-height="540" data-file-width="810" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" width="23"/> </span><a href="/wiki/European_Union" title="European Union">European Union</a></i></td>
+<td><span class="sortkey" style="display:none">7006256607000000000♠</span>2,566,070</td>
+<td>2014
+</td></tr>
+<tr>
+<td>2</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="650" data-file-width="1235" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/> </span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td>2,068,080</td>
+<td>2014
+</td></tr>
+<tr>
+<td><span style="display:none;">9999999</span></td>
+<td><i><a class="image" href="/wiki/File:Logo_European_Central_Bank.svg"><img alt="Logo European Central Bank.svg" data-file-height="329" data-file-width="399" height="18" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_European_Central_Bank.svg/22px-Logo_European_Central_Bank.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_European_Central_Bank.svg/33px-Logo_European_Central_Bank.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logo_European_Central_Bank.svg/44px-Logo_European_Central_Bank.svg.png 2x" width="22"/></a> <a href="/wiki/Eurozone" title="Eurozone">Eurozone</a></i></td>
+<td><span class="sortkey" style="display:none">7006194685700000000♠</span>1,946,857</td>
+<td>2014
+</td></tr>
+<tr>
+<td>3</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" width="23"/> </span><a href="/wiki/Japan" title="Japan">Japan</a></td>
+<td>850,902</td>
+<td>2014
+</td></tr>
+<tr>
+<td>4</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1000" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" width="23"/> </span><a href="/wiki/Germany" title="Germany">Germany</a></td>
+<td>787,503</td>
+<td>2014
+</td></tr>
+<tr>
+<td>5</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/35px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/45px-Flag_of_South_Korea.svg.png 2x" width="23"/> </span><a href="/wiki/South_Korea" title="South Korea">South Korea</a></td>
+<td>389,582</td>
+<td>2014
+</td></tr>
+<tr>
+<td>6</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="900" data-file-width="1350" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" width="23"/> </span><a href="/wiki/India" title="India">India</a></td>
+<td>321,721</td>
+<td>2014
+</td></tr>
+<tr>
+<td>7
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="1000" data-file-width="1500" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" width="23"/> </span><a href="/wiki/Italy" title="Italy">Italy</a>
+</td>
+<td>296,611
+</td>
+<td>2014
+</td></tr>
+<tr>
+<td>8
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" width="23"/> </span><a href="/wiki/France" title="France">France</a>
+</td>
+<td>283,664
+</td>
+<td>2014
+</td></tr>
+<tr>
+<td>9</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/> </span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+<td>282,675</td>
+<td>2014
+</td></tr>
+<tr>
+<td>10</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" width="23"/> </span><a href="/wiki/Russia" title="Russia">Russia</a></td>
+<td>248,481</td>
+<td>2014
+</td></tr>
+<tr>
+<td>11</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="504" data-file-width="720" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" width="22"/> </span><a href="/wiki/Brazil" title="Brazil">Brazil</a></td>
+<td>218,799</td>
+<td>2014
+</td></tr>
+<tr>
+<td>12</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="480" data-file-width="840" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" width="23"/> </span><a href="/wiki/Mexico" title="Mexico">Mexico</a></td>
+<td>216,773</td>
+<td>2014
+</td></tr>
+<tr>
+<td>13</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="300" data-file-width="450" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/35px-Flag_of_Indonesia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/45px-Flag_of_Indonesia.svg.png 2x" width="23"/> </span><a href="/wiki/Indonesia" title="Indonesia">Indonesia</a></td>
+<td>186,744</td>
+<td>2014
+</td></tr>
+<tr>
+<td>14
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="500" data-file-width="750" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" width="23"/> </span><a href="/wiki/Spain" title="Spain">Spain</a>
+</td>
+<td>166,594
+</td>
+<td>2014
+</td></tr>
+<tr>
+<td>15</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="500" data-file-width="1000" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" width="23"/> </span><a href="/wiki/Canada" title="Canada">Canada</a></td>
+<td>162,074</td>
+<td>2014
+</td></tr>
+<tr>
+<td>16
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="1000" data-file-width="1000" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" width="16"/>  </span><a href="/wiki/Switzerland" title="Switzerland">Switzerland</a>
+</td>
+<td>128,881
+</td>
+<td>2014
+</td></tr>
+<tr>
+<td>17</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="800" data-file-width="1200" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" width="23"/> </span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+<td>126,365</td>
+<td>2014
+</td></tr>
+<tr>
+<td>18</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" width="23"/> </span><a href="/wiki/Thailand" title="Thailand">Thailand</a></td>
+<td>112,214</td>
+<td>2014
+</td></tr>
+<tr>
+<td>19
+</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" width="23"/> </span><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>
+</td>
+<td>95,683
+</td>
+<td>2014
+</td></tr>
+<tr>
+<td>20</td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="640" data-file-width="1280" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/35px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/46px-Flag_of_Australia.svg.png 2x" width="23"/> </span><a href="/wiki/Australia" title="Australia">Australia</a></td>
+<td>93,461</td>
+<td>2016
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Manufacturing_processes">Manufacturing processes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manufacturing&amp;action=edit&amp;section=7" title="Edit section: Manufacturing processes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_manufacturing_processes" title="List of manufacturing processes">List of manufacturing processes</a></li>
+<li><a class="mw-redirect" href="/wiki/Manufacturing_Process_Management" title="Manufacturing Process Management">Manufacturing Process Management</a></li></ul>
+<h2><span class="mw-headline" id="Control">Control</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manufacturing&amp;action=edit&amp;section=8" title="Edit section: Control">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Management" title="Management">Management</a>
+<ul><li><a class="mw-redirect" href="/wiki/List_of_management_topics" title="List of management topics">List of management topics</a></li>
+<li><a href="/wiki/Total_quality_management" title="Total quality management">Total quality management</a></li></ul></li>
+<li><a href="/wiki/Quality_control" title="Quality control">Quality control</a>
+<ul><li><a href="/wiki/Six_Sigma" title="Six Sigma">Six Sigma</a></li></ul></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manufacturing&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="28" data-file-width="32" height="28" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/48px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/64px-Portal-puzzle.svg.png 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Manufacturing" title="Portal:Manufacturing">Manufacturing portal</a></span></li></ul></div>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Outline_of_manufacturing" title="Outline of manufacturing">Outline of manufacturing</a></div>
+<ul><li><a href="/wiki/List_of_largest_manufacturing_companies_by_revenue" title="List of largest manufacturing companies by revenue">List of largest manufacturing companies by revenue</a></li>
+<li><a href="/wiki/Industrial_robot" title="Industrial robot">Industrial robot</a></li>
+<li><a href="/wiki/Manufacturing_engineering" title="Manufacturing engineering">Manufacturing engineering</a></li>
+<li><a href="/wiki/Manufacturing_in_the_United_States" title="Manufacturing in the United States">Manufacturing in the United States</a></li>
+<li><a href="/wiki/Industrial_engineering" title="Industrial engineering">Industrial engineering</a></li>
+<li><a href="/wiki/Advanced_manufacturing" title="Advanced manufacturing">Advanced manufacturing</a></li>
+<li><a href="/wiki/Metal_fabrication" title="Metal fabrication">Metal fabrication</a></li>
+<li><a href="/wiki/Microfabrication" title="Microfabrication">Microfabrication</a></li>
+<li><a class="mw-redirect" href="/wiki/Optics_fabrication" title="Optics fabrication">Optics fabrication</a></li>
+<li><a href="/wiki/Semiconductor_device_fabrication" title="Semiconductor device fabrication">Semiconductor device fabrication</a></li>
+<li><a href="/wiki/Biomanufacturing" title="Biomanufacturing">Biomanufacturing</a></li>
+<li><a class="mw-redirect" href="/wiki/Mesoscale_Manufacturing" title="Mesoscale Manufacturing">Mesoscale Manufacturing</a></li>
+<li><a href="/wiki/Cyber_manufacturing" title="Cyber manufacturing">Cyber manufacturing</a></li>
+<li><a href="/wiki/Scientific_management" title="Scientific management">Taylorism/Scientific management</a></li>
+<li><a href="/wiki/Fordism" title="Fordism">Fordism</a></li>
+<li><a class="external text" href="https://www.cdc.gov/niosh/nora/sectors/manuf/default.html" rel="nofollow">Manufacturing Program</a> of the US <a href="/wiki/National_Institute_for_Occupational_Safety_and_Health" title="National Institute for Occupational Safety and Health">National Institute for Occupational Safety and Health</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manufacturing&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><i>Manufacturing &amp; Investment Around The World: An International Survey Of Factors Affecting Growth &amp; Performance</i>, ISR Publications/Google Books, revised second edition, 2002. <style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-906321-25-6" title="Special:BookSources/978-0-906321-25-6">978-0-906321-25-6</a>.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Research, Industrial Systems (2002-05-20). <a class="external text" href="https://books.google.com/books?id=4H07TL4rvyYC&amp;dq=ISBN0906321255" rel="nofollow">"Manufacturing and Investment Around the World: An International Survey of Factors Affecting Growth and Performance"</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-906321-25-6" title="Special:BookSources/978-0-906321-25-6">978-0-906321-25-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Manufacturing+and+Investment+Around+the+World%3A+An+International+Survey+of+Factors+Affecting+Growth+and+Performance&amp;rft.date=2002-05-20&amp;rft.isbn=978-0-906321-25-6&amp;rft.aulast=Research&amp;rft.aufirst=Industrial+Systems&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D4H07TL4rvyYC%26dq%3DISBN0906321255&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManufacturing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Immelt-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Immelt_3-0">^</a></b></span> <span class="reference-text">Bailey, David and Soyoung Kim (June 26, 2009).<a class="external text" href="https://www.theguardian.com/business/feedarticle/8578904" rel="nofollow">GE's Immelt says U.S. economy needs industrial renewal</a>. <i>UK Guardian</i>. Retrieved on June 28, 2009.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.brookings.edu/~/media/research/files/papers/2012/2/22%20manufacturing%20helper%20krueger%20wial/0222_manufacturing_helper_krueger_wial" rel="nofollow">Brookings Institution, <i>Why Does Manufacturing Matter? Which Manufacturing Matters?</i>, February 2012</a> <a class="external text" href="https://web.archive.org/web/20121008093333/http://www.brookings.edu/~/media/research/files/papers/2012/2/22%20manufacturing%20helper%20krueger%20wial/0222_manufacturing_helper_krueger_wial" rel="nofollow">Archived</a> 2012-10-08 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">"<a class="external text" href="https://www.usatoday.com/money/economy/2007-04-20-4155011268_x.htm" rel="nofollow">Factory jobs: 3 million lost since 2000</a>". USATODAY.com. April 20, 2007.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">"<a class="external text" href="http://data.worldbank.org/indicator/NV.IND.MANF.CD/countries/1W?order=wbapi_data_value_2010%20wbapi_data_value&amp;sort=desc&amp;display=default" rel="nofollow">Manufacturing, value added (current US$)</a>". access in February 20, 2013.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">"<a class="external text" href="http://data.worldbank.org/indicator/NV.IND.MANF.CD/countries/1W-EU-XC?display=graph" rel="nofollow">Manufacturing, value added (current US$) for EU and Eurozone</a>". access in February 20, 2013.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manufacturing&amp;action=edit&amp;section=11" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book">Kalpakjian, Serope; Steven Schmid (August 2005). <i>Manufacturing, Engineering &amp; Technology</i>. <a href="/wiki/Prentice_Hall" title="Prentice Hall">Prentice Hall</a>. pp. 22–36, 951–88. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-13-148965-8" title="Special:BookSources/0-13-148965-8">0-13-148965-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Manufacturing%2C+Engineering+%26+Technology&amp;rft.pages=22-36%2C+951-88&amp;rft.pub=Prentice+Hall&amp;rft.date=2005-08&amp;rft.isbn=0-13-148965-8&amp;rft.aulast=Kalpakjian&amp;rft.aufirst=Serope&amp;rft.au=Steven+Schmid&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManufacturing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manufacturing&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/manufacturing" title="wiktionary:Special:Search/manufacturing">manufacturing</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Manufacturing" title="commons:Category:Manufacturing">Manufacturing</a></b></i>.</td></tr></tbody></table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="355" data-file-width="300" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" width="34"/></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a class="extiw" href="https://en.wikiquote.org/wiki/Special:Search/Manufacturing" title="q:Special:Search/Manufacturing">Manufacturing</a></b></i></td></tr></tbody></table>
+<ul><li><a class="external text" href="http://manufacturing.stanford.edu" rel="nofollow">How Everyday Things Are Made</a>: video presentations</li>
+<li><a class="external text" href="http://arquivo.pt/wayback/20160517091852/http://www.internationalbusinessreport.com/files/ibr2008_manufacturing_lo.pdf" rel="nofollow">Grant Thornton IBR 2008 Manufacturing industry focus</a></li>
+<li><a class="external text" href="https://www.manufacturingtechnologyinsights.com/" rel="nofollow">"Manufacturing Technology Insights by CXO" (A review on Global Manufacturing Technology Industry.)</a></li>
+<li><a class="external text" href="http://www.eef.org.uk/default.htm" rel="nofollow">EEF, the manufacturers' organisation – industry group representing uk manufacturers </a></li>
+<li><a class="external text" href="http://www.industrytoday.com" rel="nofollow">Industry Today – Industrial and Manufacturing Methodologies</a></li>
+<li><a class="external text" href="https://www.nist.gov/el/msid/infotest/digital-thread-manufacturing.cfm" rel="nofollow">Enabling the Digital Thread for Smart Manufacturing</a></li>
+<li><img alt="Wikisource-logo.svg" data-file-height="430" data-file-width="410" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" width="12"/> <cite class="citation encyclopaedia">"<a class="extiw" href="https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Manufactures" title="s:The New International Encyclopædia/Manufactures">Manufactures</a>". <i><a href="/wiki/New_International_Encyclopedia" title="New International Encyclopedia">New International Encyclopedia</a></i>. 1905.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Manufactures&amp;rft.btitle=New+International+Encyclopedia&amp;rft.date=1905&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManufacturing"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<div aria-labelledby="Major_industries" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Industries" title="Template:Industries"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Industries" title="Template talk:Industries"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Industries&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Major_industries" style="font-size:114%;margin:0 4em"><a href="/wiki/Outline_of_industry" title="Outline of industry">Major industries</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Heavy&amp;#10;*_Light">
+<ul><li><a href="/wiki/Heavy_industry" title="Heavy industry">Heavy</a></li>
+<li><a href="/wiki/Light_industry" title="Light industry">Light</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Primary_sector_of_the_economy" title="Primary sector of the economy">Primary industry</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Industrial_agriculture" title="Industrial agriculture">Agriculture</a>
+<ul><li><a href="/wiki/Floral_industry" title="Floral industry">Flowers</a></li>
+<li><a href="/wiki/Horticulture_industry" title="Horticulture industry">Horticulture</a></li>
+<li><a class="mw-redirect" href="/wiki/Coffee_industry" title="Coffee industry">Coffee</a></li>
+<li><a href="/wiki/Meat_industry" title="Meat industry">Meat</a></li></ul></li>
+<li><a href="/wiki/Fishing_industry" title="Fishing industry">Fishing</a></li>
+<li><a href="/wiki/Forestry" title="Forestry">Forestry</a></li>
+<li><a href="/wiki/Mining" title="Mining">Mining</a></li>
+<li><a href="/wiki/Petroleum_industry" title="Petroleum industry">Petroleum</a>
+<ul><li><a href="/wiki/Oil_shale_industry" title="Oil shale industry">Oil shale</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Secondary_sector_of_the_economy" title="Secondary sector of the economy">Secondary industry</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Manufacturing</a>
+<ul><li><a href="/wiki/Aerospace_manufacturer" title="Aerospace manufacturer">Aerospace</a></li>
+<li><a href="/wiki/Arms_industry" title="Arms industry">Arms</a></li>
+<li><a href="/wiki/Automotive_industry" title="Automotive industry">Automotive</a></li>
+<li><a href="/wiki/Shipbuilding#Worldwide_shipbuilding_industry" title="Shipbuilding">Shipbuilding</a></li></ul></li>
+<li><a href="/wiki/Chemical_industry" title="Chemical industry">Chemical</a>
+<ul><li><a href="/wiki/Plastics_industry" title="Plastics industry">Plastics</a></li></ul></li>
+<li><a href="/wiki/Meat_packing_industry" title="Meat packing industry">Meat packing</a></li>
+<li><a href="/wiki/Textile_industry" title="Textile industry">Textile</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Tertiary_sector_of_the_economy" title="Tertiary sector of the economy">Tertiary industry</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Creative_industries" title="Creative industries">Creative</a>
+<ul><li><a href="/wiki/Advertising_industry" title="Advertising industry">Advertising</a></li>
+<li><a class="mw-redirect" href="/wiki/Fashion_industry" title="Fashion industry">Fashion</a></li>
+<li><a href="/wiki/Film_industry" title="Film industry">Film</a></li>
+<li><a href="/wiki/Music_industry" title="Music industry">Music</a></li>
+<li><a href="/wiki/Video_game_industry" title="Video game industry">Video games</a></li></ul></li>
+<li><a href="/wiki/Education" title="Education">Education</a></li>
+<li><a href="/wiki/Financial_services" title="Financial services">Financial services</a>
+<ul><li><a class="mw-redirect" href="/wiki/Insurance_industry" title="Insurance industry">Insurance industry</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Health_care_industry" title="Health care industry">Health care</a></li>
+<li><a href="/wiki/Hospitality_industry" title="Hospitality industry">Hospitality</a></li>
+<li><a href="/wiki/Professional_services" title="Professional services">Professional services</a></li>
+<li><a href="/wiki/Software_industry" title="Software industry">Software</a></li>
+<li><a class="mw-redirect" href="/wiki/Tourism_industry" title="Tourism industry">Tourism</a></li></ul>
+</div></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alcohol_industry" title="Alcohol industry">Alcohol</a></li>
+<li><a href="/wiki/Bicycle_industry" title="Bicycle industry">Bicycle</a></li>
+<li><a href="/wiki/Computer_industry" title="Computer industry">Computer</a></li>
+<li><a href="/wiki/Construction" title="Construction">Construction</a>
+<ul><li><a href="/wiki/Dredging#Major_dredging_companies" title="Dredging">Dredging</a></li></ul></li>
+<li><a href="/wiki/Electric_power_industry" title="Electric power industry">Electric power</a></li>
+<li><a href="/wiki/Electronics_industry" title="Electronics industry">Electronics</a>
+<ul><li><a href="/wiki/Semiconductor_industry" title="Semiconductor industry">Semiconductor</a></li></ul></li>
+<li><a href="/wiki/Energy_industry" title="Energy industry">Energy</a>
+<ul><li><a href="/wiki/Renewable_energy_commercialization" title="Renewable energy commercialization">Renewable energy</a></li></ul></li>
+<li><a href="/wiki/Engineering" title="Engineering">Engineering</a></li>
+<li><a href="/wiki/Show_business" title="Show business">Entertainment</a></li>
+<li><a href="/wiki/Food_industry" title="Food industry">Food</a>
+<ul><li><a href="/wiki/History_of_the_bushfood_industry" title="History of the bushfood industry">Bushfood</a></li></ul></li>
+<li><a href="/wiki/Fur_trade" title="Fur trade">Fur</a></li>
+<li><a href="/wiki/Casino" title="Casino">Gaming</a>
+<ul><li><a href="/wiki/Online_gambling" title="Online gambling">Online gambling</a></li></ul></li>
+<li><a href="/wiki/Information_industry" title="Information industry">Information</a></li>
+<li><a href="/wiki/Language_industry" title="Language industry">Language</a></li>
+<li><a href="/wiki/Leisure_industry" title="Leisure industry">Leisure</a></li>
+<li><a href="/wiki/Naval_stores_industry" title="Naval stores industry">Naval stores</a></li>
+<li><a href="/wiki/Payment_card_industry" title="Payment card industry">Payment card</a></li>
+<li><a href="/wiki/Personal_care" title="Personal care">Personal care</a></li>
+<li><a href="/wiki/Pharmaceutical_industry" title="Pharmaceutical industry">Pharmaceutical</a></li>
+<li><a href="/wiki/Poverty_industry" title="Poverty industry">Poverty</a></li>
+<li><a href="/wiki/Pulp_and_paper_industry" title="Pulp and paper industry">Pulp and paper</a></li>
+<li><a href="/wiki/Radio_industry" title="Radio industry">Radio</a></li>
+<li><a href="/wiki/Real_estate" title="Real estate">Real estate</a>
+<ul><li><a href="/wiki/Housing_industry" title="Housing industry">Housing</a></li></ul></li>
+<li><a href="/wiki/Security_Industry_Authority" title="Security Industry Authority">Security</a></li>
+<li><a href="/wiki/Sex_industry" title="Sex industry">Sex</a></li>
+<li><a href="/wiki/Space_industry" title="Space industry">Space</a></li>
+<li><a href="/wiki/Sport_industry" title="Sport industry">Sport</a></li>
+<li><a href="/wiki/Tobacco_industry" title="Tobacco industry">Tobacco</a></li>
+<li><a href="/wiki/Water_industry" title="Water industry">Water</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1324
+Cached time: 20181013111015
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.388 seconds
+Real time usage: 0.517 seconds
+Preprocessor visited node count: 2914/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 43185/2097152 bytes
+Template argument size: 3193/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 10768/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.060/10.000 seconds
+Lua memory usage: 2.94 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  340.601      1 -total
+ 36.68%  124.930      1 Template:Reflist
+ 20.77%   70.753      1 Template:ISBN
+ 20.75%   70.672     21 Template:Flag
+ 14.25%   48.531      1 Template:Catalog_lookup_link
+ 10.12%   34.463      1 Template:Cite_journal
+  8.72%   29.715      1 Template:Manufacturing
+  8.05%   27.408      1 Template:Sidebar
+  6.84%   23.309      1 Template:Commons_category
+  4.94%   16.821      1 Template:Cite_NIE
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:39388-0!canonical and timestamp 20181013111015 and revision id 863651517
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Manufacturing&amp;oldid=863651517">https://en.wikipedia.org/w/index.php?title=Manufacturing&amp;oldid=863651517</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Manufacturing" title="Category:Manufacturing">Manufacturing</a></li><li><a href="/wiki/Category:Production_and_manufacturing" title="Category:Production and manufacturing">Production and manufacturing</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_New_International_Encyclopedia" title="Category:Wikipedia articles incorporating a citation from the New International Encyclopedia">Wikipedia articles incorporating a citation from the New International Encyclopedia</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Manufacturing" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Manufacturing" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Manufacturing" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Manufacturing" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Manufacturing">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Manufacturing&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Manufacturing&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Manufacturing" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Manufacturing" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Manufacturing&amp;oldid=863651517" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Manufacturing&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q187939" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Manufacturing&amp;id=863651517" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Manufacturing">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Manufacturing&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Manufacturing&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Manufacturing" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Manufacturing" hreflang="en">Wikiquote</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%D9%8A%D8%B9" hreflang="ar" lang="ar" title="تصنيع – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Manufactura" hreflang="ast" lang="ast" title="Manufactura – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-gn"><a class="interlanguage-link-target" href="https://gn.wikipedia.org/wiki/Apo" hreflang="gn" lang="gn" title="Apo – Guarani">Avañe'ẽ</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/%C4%B0stehsalat" hreflang="az" lang="az" title="İstehsalat – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%89%E0%A7%8E%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%A8" hreflang="bn" lang="bn" title="উৎপাদন – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Ch%C3%A8-ch%C5%8D-gia%CC%8Dp" hreflang="zh-min-nan" lang="zh-min-nan" title="Chè-chō-gia̍p – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE" hreflang="bg" lang="bg" title="Производство – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/V%C3%BDroba" hreflang="cs" lang="cs" title="Výroba – Czech">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Gweithgynhyrchu" hreflang="cy" lang="cy" title="Gweithgynhyrchu – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Fabrikation" hreflang="da" lang="da" title="Fabrikation – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Verarbeitendes_Gewerbe" hreflang="de" lang="de" title="Verarbeitendes Gewerbe – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/T%C3%B6%C3%B6tlev_t%C3%B6%C3%B6stus" hreflang="et" lang="et" title="Töötlev tööstus – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Manufactura" hreflang="es" lang="es" title="Manufactura – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Muntado" hreflang="eo" lang="eo" title="Muntado – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Manufaktura" hreflang="eu" lang="eu" title="Manufaktura – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%AE%D8%AA" hreflang="fa" lang="fa" title="ساخت – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Industrie_manufacturi%C3%A8re" hreflang="fr" lang="fr" title="Industrie manufacturière – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%A1%B0%EC%97%85" hreflang="ko" lang="ko" title="제조업 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A3" hreflang="hi" lang="hi" title="विनिर्माण – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Manufaktur" hreflang="id" lang="id" title="Manufaktur – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Framlei%C3%B0sla" hreflang="is" lang="is" title="Framleiðsla – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Attivit%C3%A0_manifatturiera" hreflang="it" lang="it" title="Attività manifatturiera – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%99%D7%99%D7%A6%D7%95%D7%A8" hreflang="he" lang="he" title="ייצור – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D3%A8%D0%BD%D0%B4%D1%96%D1%80%D1%96%D1%81" hreflang="kk" lang="kk" title="Өндіріс – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ltg"><a class="interlanguage-link-target" href="https://ltg.wikipedia.org/wiki/P%C4%ABgatave" hreflang="ltg" lang="ltg" title="Pīgatave – Latgalian">Latgaļu</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Rerum_fabricatio" hreflang="la" lang="la" title="Rerum fabricatio – Latin">Latina</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Gamyba" hreflang="lt" lang="lt" title="Gamyba – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Pengilangan" hreflang="ms" lang="ms" title="Pengilangan – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-my"><a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%91%E1%80%AF%E1%80%90%E1%80%BA%E1%80%9C%E1%80%AF%E1%80%95%E1%80%BA%E1%80%99%E1%80%BE%E1%80%AF" hreflang="my" lang="my" title="ထုတ်လုပ်မှု – Burmese">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%A3%BD%E9%80%A0%E6%A5%AD" hreflang="ja" lang="ja" title="製造業 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Industriteknikk" hreflang="no" lang="no" title="Industriteknikk – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-jam"><a class="interlanguage-link-target" href="https://jam.wikipedia.org/wiki/Manifakchrin" hreflang="jam" lang="jam" title="Manifakchrin – Jamaican Creole English">Patois</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Ind%C3%BAstria_manufatureira" hreflang="pt" lang="pt" title="Indústria manufatureira – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Fabrica%C8%9Bie" hreflang="ro" lang="ro" title="Fabricație – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" hreflang="ru" lang="ru" title="Обрабатывающая промышленность – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Manufacturin" hreflang="sco" lang="sco" title="Manufacturin – Scots">Scots</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Prodhimi" hreflang="sq" lang="sq" title="Prodhimi – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Manufacturing" hreflang="simple" lang="simple" title="Manufacturing – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/V%C3%BDroba_(proces)" hreflang="sk" lang="sk" title="Výroba (proces) – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Tuotantotekniikka" hreflang="fi" lang="fi" title="Tuotantotekniikka – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Tillverkningsindustri" hreflang="sv" lang="sv" title="Tillverkningsindustri – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Pagmamanupaktura" hreflang="tl" lang="tl" title="Pagmamanupaktura – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%89%E0%AE%B1%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF" hreflang="ta" lang="ta" title="உற்பத்தி – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D2%96%D0%B8%D1%82%D0%B5%D1%88%D1%82%D0%B5%D1%80%D2%AF" hreflang="tt" lang="tt" title="Җитештерү – Tatar">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95" hreflang="th" lang="th" title="อุตสาหกรรมการผลิต – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/%C4%B0malat" hreflang="tr" lang="tr" title="İmalat – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%AA%D8%B5%D9%86%DB%8C%D8%B9" hreflang="ur" lang="ur" title="تصنیع – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Khu_v%E1%BB%B1c_ch%E1%BA%BF_t%E1%BA%A1o" hreflang="vi" lang="vi" title="Khu vực chế tạo – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-yi"><a class="interlanguage-link-target" href="https://yi.wikipedia.org/wiki/%D7%A4%D7%90%D7%91%D7%A8%D7%99%D7%A7%D7%90%D7%A6%D7%99%D7%A2" hreflang="yi" lang="yi" title="פאבריקאציע – Yiddish">ייִדיש</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E8%A3%BD%E9%80%A0%E6%A5%AD" hreflang="zh-yue" lang="zh-yue" title="製造業 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-bat-smg"><a class="interlanguage-link-target" href="https://bat-smg.wikipedia.org/wiki/Gam%C4%97n%C4%97ms" hreflang="bat-smg" lang="bat-smg" title="Gamėnėms – Samogitian">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%88%B6%E9%80%A0%E4%B8%9A" hreflang="zh" lang="zh" title="制造业 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q187939#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 12 October 2018, at 03:27<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Manufacturing&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.388","walltime":"0.517","ppvisitednodes":{"value":2914,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":43185,"limit":2097152},"templateargumentsize":{"value":3193,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":10768,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  340.601      1 -total"," 36.68%  124.930      1 Template:Reflist"," 20.77%   70.753      1 Template:ISBN"," 20.75%   70.672     21 Template:Flag"," 14.25%   48.531      1 Template:Catalog_lookup_link"," 10.12%   34.463      1 Template:Cite_journal","  8.72%   29.715      1 Template:Manufacturing","  8.05%   27.408      1 Template:Sidebar","  6.84%   23.309      1 Template:Commons_category","  4.94%   16.821      1 Template:Cite_NIE"]},"scribunto":{"limitreport-timeusage":{"value":"0.060","limit":"10.000"},"limitreport-memusage":{"value":3080275,"limit":52428800}},"cachereport":{"origin":"mw1324","timestamp":"20181013111015","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1255"});});</script>
+</body>
+</html>

@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Triple point - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Triple_point","wgTitle":"Triple point","wgCurRevisionId":861989490,"wgRevisionId":861989490,"wgArticleId":30462,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Chemical properties","Phase transitions","Thermodynamics","Threshold temperatures","Gases","1873 introductions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Triple_point","wgRelevantArticleId":30462,"wgRequestId":"W7UJ@grAIEsAACY7mBIAAABN","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q106410","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.23" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Triple_point" rel="alternate"/>
+<link href="/w/index.php?title=Triple_point&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Triple_point&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Triple_point" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Triple_point rootpage-Triple_point skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Triple point</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a href="/wiki/Tripoint" title="Tripoint">Tripoint</a> and <a class="mw-disambig" href="/wiki/Tripoint_(disambiguation)" title="Tripoint (disambiguation)">Tripoint (disambiguation)</a>.</div>
+<p>In <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a>, the <b>triple point</b> of a substance is the <a href="/wiki/Temperature" title="Temperature">temperature</a> and <a href="/wiki/Pressure" title="Pressure">pressure</a> at which the three <a href="/wiki/Phase_(matter)" title="Phase (matter)">phases</a> (<a href="/wiki/Gas" title="Gas">gas</a>, <a href="/wiki/Liquid" title="Liquid">liquid</a>, and <a href="/wiki/Solid" title="Solid">solid</a>) of that substance coexist in <a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">thermodynamic equilibrium</a>.<sup class="reference" id="cite_ref-gold_1-0"><a href="#cite_note-gold-1">[1]</a></sup> For example, the triple point of <a href="/wiki/Mercury_(element)" title="Mercury (element)">mercury</a> occurs at a temperature of −38.83440 °C and a pressure of 0.2 <a class="mw-redirect" href="/wiki/Milli" title="Milli">m</a><a href="/wiki/Pascal_(unit)" title="Pascal (unit)">Pa</a>.
+</p><p>In addition to the triple point for solid, liquid, and gas phases, a triple point may involve more than one solid phase, for substances with multiple <a href="/wiki/Polymorphism_(materials_science)" title="Polymorphism (materials science)">polymorphs</a>. <a href="/wiki/Helium-4" title="Helium-4">Helium-4</a> is a special case that presents a triple point involving two different fluid phases (<a href="/wiki/Lambda_point" title="Lambda point">lambda point</a>).<sup class="reference" id="cite_ref-gold_1-1"><a href="#cite_note-gold-1">[1]</a></sup>
+</p><p>The triple point of <a href="/wiki/Water" title="Water">water</a> is used to define the <a href="/wiki/Kelvin" title="Kelvin">kelvin</a>, the <a href="/wiki/SI_base_unit" title="SI base unit">base unit</a> of thermodynamic temperature in the <a href="/wiki/International_System_of_Units" title="International System of Units">International System of Units</a> (SI).<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> The value of the triple point of water is fixed by definition, rather than measured. The triple points of several substances are used to define points in the <a class="mw-redirect" href="/wiki/ITS-90" title="ITS-90">ITS-90</a> international temperature scale, ranging from the triple point of hydrogen (13.8033 K) to the triple point of water (273.16 K, 0.01 °C, or 32.018 °F).
+</p><p>The term "triple point" was coined in 1873 by <a href="/wiki/James_Thomson_(engineer)" title="James Thomson (engineer)">James Thomson</a>, brother of <a href="/wiki/William_Thomson,_1st_Baron_Kelvin" title="William Thomson, 1st Baron Kelvin">Lord Kelvin</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Triple_point_of_water"><span class="tocnumber">1</span> <span class="toctext">Triple point of water</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Gas–liquid–solid_triple_point"><span class="tocnumber">1.1</span> <span class="toctext">Gas–liquid–solid triple point</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#High_pressure_phases"><span class="tocnumber">1.2</span> <span class="toctext">High pressure phases</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Triple_point_cells"><span class="tocnumber">2</span> <span class="toctext">Triple point cells</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Table_of_triple_points"><span class="tocnumber">3</span> <span class="toctext">Table of triple points</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Triple_point_of_water">Triple point of water</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_point&amp;action=edit&amp;section=1" title="Edit section: Triple point of water">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Gas.E2.80.93liquid.E2.80.93solid_triple_point"></span><span class="mw-headline" id="Gas–liquid–solid_triple_point">Gas–liquid–solid triple point</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_point&amp;action=edit&amp;section=2" title="Edit section: Gas–liquid–solid triple point">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Properties_of_water#Triple_point" title="Properties of water">Properties of water § Triple point</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:352px;"><a class="image" href="/wiki/File:Phase-diag2.svg"><img alt="" class="thumbimage" data-file-height="443" data-file-width="530" height="293" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Phase-diag2.svg/350px-Phase-diag2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Phase-diag2.svg/525px-Phase-diag2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Phase-diag2.svg/700px-Phase-diag2.svg.png 2x" width="350"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Phase-diag2.svg" title="Enlarge"></a></div>A typical phase diagram. The solid green line applies to most substances; the dotted green line gives the anomalous behavior of water</div></div></div>
+<p>The single combination of pressure and temperature at which liquid <a href="/wiki/Water" title="Water">water</a>, solid <a href="/wiki/Ice" title="Ice">ice</a>, and <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a> can coexist in a stable equilibrium occurs at exactly 273.16 K (0.01 °C; 32.02 °F) and a partial vapor pressure of 611.657 pascals (6.11657 mbar; 0.00603659 atm).<sup class="reference" id="cite_ref-Wagner_4-0"><a href="#cite_note-Wagner-4">[4]</a></sup><sup class="reference" id="cite_ref-Murphy_5-0"><a href="#cite_note-Murphy-5">[5]</a></sup> At that point, it is possible to change all of the substance to ice, water, or vapor by making arbitrarily small changes in pressure and temperature. Even if the total pressure of a system is well above the triple point of water, provided that the <a href="/wiki/Partial_pressure" title="Partial pressure">partial pressure</a> of the water vapor is 611.657 pascals, then the system can still be brought to the triple point of water. Strictly speaking, the surfaces separating the different phases should also be perfectly flat, to negate the effects of surface tension.
+</p><p>The gas–liquid–solid triple point of water corresponds to the minimum pressure at which liquid water can exist. At pressures below the triple point (as in <a href="/wiki/Outer_space" title="Outer space">outer space</a>), solid ice when heated at constant pressure is converted directly into water vapor in a process known as <a href="/wiki/Sublimation_(phase_transition)" title="Sublimation (phase transition)">sublimation</a>. Above the triple point, solid ice when heated at constant pressure first melts to form liquid water, and then evaporates or boils to form vapor at a higher temperature.
+</p><p>For most substances the gas–liquid–solid triple point is also the minimum temperature at which the liquid can exist. For water, however, this is not true because the melting point of ordinary ice decreases as a function of pressure, as shown by the dotted green line in the phase diagram. At temperatures just below the triple point, compression at constant temperature transforms water vapor first to solid and then to liquid (water ice has lower density than liquid water, so increasing pressure leads to a <a href="/wiki/Liquefaction" title="Liquefaction">liquefaction</a>).
+</p><p>The triple point pressure of water was used during the <a href="/wiki/Mariner_9" title="Mariner 9">Mariner 9</a> mission to <a href="/wiki/Mars" title="Mars">Mars</a> as a reference point to define "sea level". More recent missions use <a class="mw-redirect" href="/wiki/Laser_altimetry" title="Laser altimetry">laser altimetry</a> and gravity measurements instead of pressure to define elevation on Mars.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p>
+<h3><span class="mw-headline" id="High_pressure_phases">High pressure phases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_point&amp;action=edit&amp;section=3" title="Edit section: High pressure phases">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At high pressures, water has a complex phase diagram with 15 known <a href="/wiki/Ice#Phases" title="Ice">phases of ice</a> and several triple points including ten whose coordinates are shown in the diagram. For example, the triple point at 251 K (−22 °C) and 210 MPa (2070 atm) corresponds to the conditions for the coexistence of <a href="/wiki/Ice_Ih" title="Ice Ih">ice Ih</a> (ordinary ice), <a href="/wiki/Ice_III" title="Ice III">ice III</a> and liquid water, all at equilibrium. There are also triple points for the coexistence of three solid phases, for example <a href="/wiki/Ice_II" title="Ice II">ice II</a>, ice V and ice VI at 218 K (−55 °C) and 620 MPa (6120 atm).
+</p><p>For those high-pressure forms of ice which can exist in equilibrium with liquid, the diagram shows that melting points increase with pressure. At temperatures above <span class="nowrap"><span class="sortkey" style="display:none">7002273000000000000♠</span>273 K</span> (0 °C), increasing the pressure on water vapor results first in liquid water and then a high-pressure form of ice. In the range <span class="nowrap"><span class="sortkey" style="display:none">7002251000000000000♠</span>251–273 K</span>, ice I is formed first, followed by liquid water and then ice III or ice V, followed by other still denser high-pressure forms.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:727px;"><a class="image" href="/wiki/File:Phase_diagram_of_water.svg"><img alt="" class="thumbimage" data-file-height="432" data-file-width="512" height="612" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Phase_diagram_of_water.svg/725px-Phase_diagram_of_water.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Phase_diagram_of_water.svg/1088px-Phase_diagram_of_water.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Phase_diagram_of_water.svg/1450px-Phase_diagram_of_water.svg.png 2x" width="725"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Phase_diagram_of_water.svg" title="Enlarge"></a></div>Phase diagram of water including high-pressure forms ice II, ice III, etc. The pressure axis is logarithmic. For detailed descriptions of these phases, see <a href="/wiki/Ice#Phases" title="Ice">Ice</a>.</div></div></div>
+<table class="wikitable">
+<caption>The various triple points of water
+
+</caption>
+<tbody><tr>
+<th>Phases in stable equilibrium
+</th>
+<th>Pressure
+</th>
+<th>Temperature
+</th></tr>
+<tr>
+<td>liquid water, <a href="/wiki/Ice_Ih" title="Ice Ih">ice I<sub>h</sub></a>, and water vapor
+</td>
+<td>611.657 Pa<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</td>
+<td>273.16 K (0.01 °C)
+</td></tr>
+<tr>
+<td>liquid water, ice I<sub>h</sub>, and <a href="/wiki/Ice_III" title="Ice III">ice III</a>
+</td>
+<td>209.9 MPa
+</td>
+<td>251 K (−22 °C)
+</td></tr>
+<tr>
+<td>liquid water, ice III, and <a href="/wiki/Ice_V" title="Ice V">ice V</a>
+</td>
+<td>350.1 MPa
+</td>
+<td>−17.0 °C
+</td></tr>
+<tr>
+<td>liquid water, ice V, and <a class="mw-redirect" href="/wiki/Ice_VI" title="Ice VI">ice VI</a>
+</td>
+<td>632.4 MPa
+</td>
+<td>0.16 °C
+</td></tr>
+<tr>
+<td>ice I<sub>h</sub>, <a href="/wiki/Ice_II" title="Ice II">Ice II</a>, and ice III
+</td>
+<td>213 MPa
+</td>
+<td>−35 °C
+</td></tr>
+<tr>
+<td>ice II, ice III, and ice V
+</td>
+<td>344 MPa
+</td>
+<td>−24 °C
+</td></tr>
+<tr>
+<td>ice II, ice V, and ice VI
+</td>
+<td>626 MPa
+</td>
+<td>−70 °C
+</td></tr></tbody></table>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Triple_point_cells">Triple point cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_point&amp;action=edit&amp;section=4" title="Edit section: Triple point cells">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Triple point cells are used in the <a href="/wiki/Calibration" title="Calibration">calibration</a> of <a href="/wiki/Thermometer" title="Thermometer">thermometers</a>.  For exacting work, triple point cells are typically filled with a highly pure chemical substance such as hydrogen, argon, mercury, or water (depending on the desired temperature).  The purity of these substances can be such that only one part in a million is a contaminant, called "six nines" because it is 99.9999% pure.  When it is a water-based cell, a special <a href="/wiki/Isotope" title="Isotope">isotopic</a> composition called <a href="/wiki/Vienna_Standard_Mean_Ocean_Water" title="Vienna Standard Mean Ocean Water">VSMOW</a> is used because it is very pure and produces temperatures that are more comparable from lab to lab.  Triple point cells are so effective at achieving highly precise, reproducible temperatures, an international calibration standard for thermometers called <a href="/wiki/International_Temperature_Scale_of_1990" title="International Temperature Scale of 1990">ITS–90</a> relies upon triple point cells of <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a>, <a href="/wiki/Neon" title="Neon">neon</a>, <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>, <a href="/wiki/Argon" title="Argon">argon</a>, <a href="/wiki/Mercury_(element)" title="Mercury (element)">mercury</a>, and <a class="mw-redirect" href="/wiki/Water_(molecule)" title="Water (molecule)">water</a> for delineating six of its defined temperature points.
+</p>
+<h2><span class="mw-headline" id="Table_of_triple_points">Table of triple points</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_point&amp;action=edit&amp;section=5" title="Edit section: Table of triple points">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This table lists the gas–liquid–solid triple points of several substances. Unless otherwise noted, the data come from the U.S. <a class="mw-redirect" href="/wiki/National_Bureau_of_Standards" title="National Bureau of Standards">National Bureau of Standards</a> (now <a class="mw-redirect" href="/wiki/NIST" title="NIST">NIST</a>, National Institute of Standards and Technology).<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p>
+<table class="wikitable sortable" style="text-align:center">
+<tbody><tr>
+<th width="170">Substance</th>
+<th data-sort-type="number" width="160">T [<a href="/wiki/Kelvin" title="Kelvin">K</a>] (<a href="/wiki/Celsius" title="Celsius">°C</a>)</th>
+<th data-sort-type="number" width="230">p [<a href="/wiki/Pascal_(unit)" title="Pascal (unit)">kPa</a>]*  (<a href="/wiki/Atmosphere_(unit)" title="Atmosphere (unit)">atm</a>)
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/Acetylene" title="Acetylene">Acetylene</a>
+</td>
+<td><span class="sortkey" style="display:none">7002192400000000000♠</span>192.4 K (−80.7 °C)</td>
+<td><span class="sortkey" style="display:none">7005120000000000000♠</span>120 kPa (1.2 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Ammonia" title="Ammonia">Ammonia</a>
+</td>
+<td><span class="sortkey" style="display:none">7002195400000000000♠</span>195.40 K (−77.75 °C)</td>
+<td><span class="sortkey" style="display:none">7003606000000000000♠</span>6.060 kPa (0.05981 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Argon" title="Argon">Argon</a>
+</td>
+<td><span class="sortkey" style="display:none">7001838100000000000♠</span>83.81 K (−189.34 °C)</td>
+<td><span class="sortkey" style="display:none">7004689000000000000♠</span>68.9 kPa (0.680 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Arsenic" title="Arsenic">Arsenic</a>
+</td>
+<td><span class="sortkey" style="display:none">7003109000000000000♠</span>1,090 K (820 °C)</td>
+<td><span class="sortkey" style="display:none">7006362800000000000♠</span>3,628 kPa (35.81 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Butane" title="Butane">Butane</a><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</td>
+<td><span class="sortkey" style="display:none">7002134600000000000♠</span>134.6 K (−138.6 °C)</td>
+<td><span class="sortkey" style="display:none">6999700000000000000♠</span>7<span style="margin:0 .15em 0 .25em">×</span>10<sup>−4</sup> kPa (6.9<span style="margin:0 .15em 0 .25em">×</span>10<sup>−6</sup> atm)
+</td></tr>
+<tr>
+<td align="left">Carbon (<a href="/wiki/Graphite" title="Graphite">graphite</a>)
+</td>
+<td><span class="sortkey" style="display:none">7003476500000000000♠</span>4,765 K (4,492 °C)</td>
+<td><span class="sortkey" style="display:none">7007101320000000000♠</span>10,132 kPa (100.00 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a>
+</td>
+<td><span class="sortkey" style="display:none">7002216550000000000♠</span>216.55 K (−56.60 °C)</td>
+<td><span class="sortkey" style="display:none">7005517000000000000♠</span>517 kPa (5.10 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a>
+</td>
+<td><span class="sortkey" style="display:none">7001681000000000000♠</span>68.10 K (−205.05 °C)</td>
+<td><span class="sortkey" style="display:none">7004153700000000000♠</span>15.37 kPa (0.1517 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Chloroform" title="Chloroform">Chloroform</a><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</td>
+<td><span class="sortkey" style="display:none">7002175430000000000♠</span>175.43 K (−97.72 °C)</td>
+<td><span class="sortkey" style="display:none">7002870000000000000♠</span>0.870 kPa (0.00859 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Deuterium" title="Deuterium">Deuterium</a>
+</td>
+<td><span class="sortkey" style="display:none">7001186300000000000♠</span>18.63 K (−254.52 °C)</td>
+<td><span class="sortkey" style="display:none">7004171000000000000♠</span>17.1 kPa (0.169 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Ethane" title="Ethane">Ethane</a>
+</td>
+<td><span class="sortkey" style="display:none">7001898900000000000♠</span>89.89 K (−183.26 °C)</td>
+<td><span class="sortkey" style="display:none">6999800000000000000♠</span>8<span style="margin:0 .15em 0 .25em">×</span>10<sup>−4</sup> kPa (7.9<span style="margin:0 .15em 0 .25em">×</span>10<sup>−6</sup> atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Ethanol" title="Ethanol">Ethanol</a><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</td>
+<td><span class="sortkey" style="display:none">7002150000000000000♠</span>150 K (−123 °C)</td>
+<td><span class="sortkey" style="display:none">6996430000000000000♠</span>4.3<span style="margin:0 .15em 0 .25em">×</span>10<sup>−7</sup> kPa (4.2<span style="margin:0 .15em 0 .25em">×</span>10<sup>−9</sup> atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Ethylene" title="Ethylene">Ethylene</a>
+</td>
+<td><span class="sortkey" style="display:none">7002104000000000000♠</span>104.0 K (−169.2 °C)</td>
+<td><span class="sortkey" style="display:none">7002120000000000000♠</span>0.12 kPa (0.0012 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Formic_acid" title="Formic acid">Formic acid</a><sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</td>
+<td><span class="sortkey" style="display:none">7002281399999999999♠</span>281.40 K (8.25 °C)</td>
+<td><span class="sortkey" style="display:none">7003220000000000000♠</span>2.2 kPa (0.022 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Helium-4" title="Helium-4">Helium-4</a> (<a href="/wiki/Lambda_point" title="Lambda point">lambda point</a>)<sup class="reference" id="cite_ref-Donnelly_13-0"><a href="#cite_note-Donnelly-13">[13]</a></sup>
+</td>
+<td><span class="sortkey" style="display:none">7000217680000000000♠</span>2.1768 K (−270.9732 °C)</td>
+<td><span class="sortkey" style="display:none">7003504800000000000♠</span>5.048 kPa (0.04982 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Helium-4" title="Helium-4">Helium-4</a> (<a class="mw-redirect" href="/wiki/Hexagonal_close-packed" title="Hexagonal close-packed">hcp</a>−<a class="mw-redirect" href="/wiki/Body-centered_cubic" title="Body-centered cubic">bcc</a>−He-II)<sup class="reference" id="cite_ref-Hoffer_14-0"><a href="#cite_note-Hoffer-14">[14]</a></sup>
+</td>
+<td><span class="sortkey" style="display:none">7000146300000000000♠</span>1.463 K (−271.687 °C)</td>
+<td><span class="sortkey" style="display:none">7004260360000000000♠</span>26.036 kPa (0.25696 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Helium-4" title="Helium-4">Helium-4</a> (bcc−He-I−He-II)<sup class="reference" id="cite_ref-Hoffer_14-1"><a href="#cite_note-Hoffer-14">[14]</a></sup>
+</td>
+<td><span class="sortkey" style="display:none">7000176200000000000♠</span>1.762 K (−271.388 °C)</td>
+<td><span class="sortkey" style="display:none">7004297250000000000♠</span>29.725 kPa (0.29336 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Helium-4" title="Helium-4">Helium-4</a> (hcp−bcc−He-I)<sup class="reference" id="cite_ref-Hoffer_14-2"><a href="#cite_note-Hoffer-14">[14]</a></sup>
+</td>
+<td><span class="sortkey" style="display:none">7000177200000000000♠</span>1.772 K (−271.378 °C)</td>
+<td><span class="sortkey" style="display:none">7004300160000000000♠</span>30.016 kPa (0.29623 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Hexafluoroethane" title="Hexafluoroethane">Hexafluoroethane</a><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</td>
+<td><span class="sortkey" style="display:none">7002173080000000000♠</span>173.08 K (−100.07 °C)</td>
+<td><span class="sortkey" style="display:none">7004266000000000000♠</span>26.60 kPa (0.2625 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Hydrogen" title="Hydrogen">Hydrogen</a>
+</td>
+<td><span class="sortkey" style="display:none">7001138400000000000♠</span>13.84 K (−259.31 °C)</td>
+<td><span class="sortkey" style="display:none">7003704000000000000♠</span>7.04 kPa (0.0695 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Hydrogen_chloride" title="Hydrogen chloride">Hydrogen chloride</a>
+</td>
+<td><span class="sortkey" style="display:none">7002158960000000000♠</span>158.96 K (−114.19 °C)</td>
+<td><span class="sortkey" style="display:none">7004139000000000000♠</span>13.9 kPa (0.137 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Iodine" title="Iodine">Iodine</a><sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>
+</td>
+<td><span class="sortkey" style="display:none">7002386650000000000♠</span>386.65 K (113.50 °C)</td>
+<td><span class="sortkey" style="display:none">7004120700000000000♠</span>12.07 kPa (0.1191 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Isobutane" title="Isobutane">Isobutane</a><sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</td>
+<td><span class="sortkey" style="display:none">7002113550000000000♠</span>113.55 K (−159.60 °C)</td>
+<td><span class="sortkey" style="display:none">6998194809999999999♠</span>1.9481<span style="margin:0 .15em 0 .25em">×</span>10<sup>−5</sup> kPa (1.9226<span style="margin:0 .15em 0 .25em">×</span>10<sup>−7</sup> atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Krypton" title="Krypton">Krypton</a>
+</td>
+<td><span class="sortkey" style="display:none">7002115760000000000♠</span>115.76 K (−157.39 °C)</td>
+<td><span class="sortkey" style="display:none">7004741200000000000♠</span>74.12 kPa (0.7315 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Mercury_(element)" title="Mercury (element)">Mercury</a>
+</td>
+<td><span class="sortkey" style="display:none">7002234200000000000♠</span>234.2 K (−39.0 °C)</td>
+<td><span class="sortkey" style="display:none">6996165000000000000♠</span>1.65<span style="margin:0 .15em 0 .25em">×</span>10<sup>−7</sup> kPa (1.63<span style="margin:0 .15em 0 .25em">×</span>10<sup>−9</sup> atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Methane" title="Methane">Methane</a>
+</td>
+<td><span class="sortkey" style="display:none">7001906800000000000♠</span>90.68 K (−182.47 °C)</td>
+<td><span class="sortkey" style="display:none">7004117000000000000♠</span>11.7 kPa (0.115 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Neon" title="Neon">Neon</a>
+</td>
+<td><span class="sortkey" style="display:none">7001245700000000000♠</span>24.57 K (−248.58 °C)</td>
+<td><span class="sortkey" style="display:none">7004432000000000000♠</span>43.2 kPa (0.426 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Nitric_oxide" title="Nitric oxide">Nitric oxide</a>
+</td>
+<td><span class="sortkey" style="display:none">7002109500000000000♠</span>109.50 K (−163.65 °C)</td>
+<td><span class="sortkey" style="display:none">7004219200000000000♠</span>21.92 kPa (0.2163 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Nitrogen" title="Nitrogen">Nitrogen</a>
+</td>
+<td><span class="sortkey" style="display:none">7001631800000000000♠</span>63.18 K (−209.97 °C)</td>
+<td><span class="sortkey" style="display:none">7004126000000000000♠</span>12.6 kPa (0.124 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Nitrous_oxide" title="Nitrous oxide">Nitrous oxide</a>
+</td>
+<td><span class="sortkey" style="display:none">7002182340000000000♠</span>182.34 K (−90.81 °C)</td>
+<td><span class="sortkey" style="display:none">7004878500000000000♠</span>87.85 kPa (0.8670 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Oxygen" title="Oxygen">Oxygen</a>
+</td>
+<td><span class="sortkey" style="display:none">7001543600000000000♠</span>54.36 K (−218.79 °C)</td>
+<td><span class="sortkey" style="display:none">7002152000000000000♠</span>0.152 kPa (0.00150 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Palladium" title="Palladium">Palladium</a>
+</td>
+<td><span class="sortkey" style="display:none">7003182500000000000♠</span>1,825 K (1,552 °C)</td>
+<td><span class="sortkey" style="display:none">7000350000000000000♠</span>3.5<span style="margin:0 .15em 0 .25em">×</span>10<sup>−3</sup> kPa (3.5<span style="margin:0 .15em 0 .25em">×</span>10<sup>−5</sup> atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Platinum" title="Platinum">Platinum</a>
+</td>
+<td><span class="sortkey" style="display:none">7003204500000000000♠</span>2,045 K (1,772 °C)</td>
+<td><span class="sortkey" style="display:none">6999200000000000000♠</span>2<span style="margin:0 .15em 0 .25em">×</span>10<sup>−4</sup> kPa (2.0<span style="margin:0 .15em 0 .25em">×</span>10<sup>−6</sup> atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Radon" title="Radon">Radon</a>
+</td>
+<td><span class="sortkey" style="display:none">7002202000000000000♠</span>202 K (−71 °C)</td>
+<td><span class="sortkey" style="display:none">7004700000000000000♠</span>70 kPa (0.69 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Silane" title="Silane">(mono)Silane</a><sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup>
+</td>
+<td><span class="sortkey" style="display:none">7001884800000000000♠</span>88.48 K (−184.67 °C)</td>
+<td><span class="sortkey" style="display:none">7001196439999999999♠</span>0.019644 kPa (0.00019387 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">Sulfur dioxide</a>
+</td>
+<td><span class="sortkey" style="display:none">7002197690000000000♠</span>197.69 K (−75.46 °C)</td>
+<td><span class="sortkey" style="display:none">7003167000000000000♠</span>1.67 kPa (0.0165 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Titanium" title="Titanium">Titanium</a>
+</td>
+<td><span class="sortkey" style="display:none">7003194100000000000♠</span>1,941 K (1,668 °C)</td>
+<td><span class="sortkey" style="display:none">7000530000000000000♠</span>5.3<span style="margin:0 .15em 0 .25em">×</span>10<sup>−3</sup> kPa (5.2<span style="margin:0 .15em 0 .25em">×</span>10<sup>−5</sup> atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Uranium_hexafluoride" title="Uranium hexafluoride">Uranium hexafluoride</a>
+</td>
+<td><span class="sortkey" style="display:none">7002337170000000000♠</span>337.17 K (64.02 °C)</td>
+<td><span class="sortkey" style="display:none">7005151700000000000♠</span>151.7 kPa (1.497 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Water" title="Water">Water</a><sup class="reference" id="cite_ref-Wagner_4-1"><a href="#cite_note-Wagner-4">[4]</a></sup><sup class="reference" id="cite_ref-Murphy_5-1"><a href="#cite_note-Murphy-5">[5]</a></sup>
+</td>
+<td><span class="sortkey" style="display:none">7002273160000000000♠</span>273.16 K (0.01 °C)</td>
+<td><span class="sortkey" style="display:none">7002611657000000000♠</span>0.611657 kPa (0.00603659 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Xenon" title="Xenon">Xenon</a>
+</td>
+<td><span class="sortkey" style="display:none">7002161300000000000♠</span>161.3 K (−111.8 °C)</td>
+<td><span class="sortkey" style="display:none">7004815000000000000♠</span>81.5 kPa (0.804 atm)
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Zinc" title="Zinc">Zinc</a>
+</td>
+<td><span class="sortkey" style="display:none">7002692650000000000♠</span>692.65 K (419.50 °C)</td>
+<td><span class="sortkey" style="display:none">7001650000000000000♠</span>0.065 kPa (0.00064 atm)
+</td></tr></tbody></table><p> * Note: for comparison, typical atmospheric pressure is 101.325 kPa (1 atm).
+</p><h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_point&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Critical_point_(thermodynamics)" title="Critical point (thermodynamics)">Critical point (thermodynamics)</a></li>
+<li><a class="mw-redirect" href="/wiki/Gibbs%27_phase_rule" title="Gibbs' phase rule">Gibbs' phase rule</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Triple_point&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-gold-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-gold_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gold_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">IUPAC</a>, <i><a class="mw-redirect" href="/wiki/Compendium_of_Chemical_Terminology" title="Compendium of Chemical Terminology">Compendium of Chemical Terminology</a></i>, 2nd ed. (the "Gold Book") (1997). Online corrected version:  (1994) "<a class="external text" href="http://goldbook.iupac.org/T06502.html" rel="nofollow">Triple point</a>".</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www1.bipm.org/en/si/base_units/" rel="nofollow">Definition of the kelvin</a> at BIPM</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">James Thomson (1873) <a class="external text" href="https://babel.hathitrust.org/cgi/pt?id=hvd.32044106377062;view=1up;seq=47" rel="nofollow">"A quantitative investigation of certain relations between the gaseous, the liquid, and the solid states of water-substance,"</a> <i>Proceedings of the Royal Society</i>, <b>22</b> :  27–36.  From a footnote on page 28:  " … the three curves would meet or cross each other in one point, which I have called the <i>triple point</i>."</span>
+</li>
+<li id="cite_note-Wagner-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wagner_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wagner_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="https://www.nist.gov/srd/upload/jpcrd477.pdf" rel="nofollow">International Equations for the Pressure along the Melting and along the Sublimation Curve of Ordinary Water Substance</a> W. Wagner, A. Saul and A. Pruss (1994), J. Phys. Chem. Ref. Data, <b>23</b>, 515.</span>
+</li>
+<li id="cite_note-Murphy-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Murphy_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Murphy_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Murphy, D. M. (2005). "Review of the vapour pressures of ice and supercooled water for atmospheric applications". <i>Quarterly Journal of the Royal Meteorological Society</i>. <b>131</b> (608): 1539–1565. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2005QJRMS.131.1539M" rel="nofollow">2005QJRMS.131.1539M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1256%2Fqj.04.94" rel="nofollow">10.1256/qj.04.94</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Quarterly+Journal+of+the+Royal+Meteorological+Society&amp;rft.atitle=Review+of+the+vapour+pressures+of+ice+and+supercooled+water+for+atmospheric+applications&amp;rft.volume=131&amp;rft.issue=608&amp;rft.pages=1539-1565&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1256%2Fqj.04.94&amp;rft_id=info%3Abibcode%2F2005QJRMS.131.1539M&amp;rft.aulast=Murphy&amp;rft.aufirst=D.+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+point"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Carr, Michael H. (2007). <i>The Surface of Mars</i>. Cambridge University Press. p. 5. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-521-87201-4" title="Special:BookSources/0-521-87201-4">0-521-87201-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Surface+of+Mars&amp;rft.pages=5&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2007&amp;rft.isbn=0-521-87201-4&amp;rft.aulast=Carr&amp;rft.aufirst=Michael+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+point"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Murphy, D. M. (2005). "Review of the vapour pressures of ice and supercooled water for atmospheric applications". <i>Quarterly Journal of the Royal Meteorological Society</i>. <b>131</b>: 1539–1565. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2005QJRMS.131.1539M" rel="nofollow">2005QJRMS.131.1539M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1256%2Fqj.04.94" rel="nofollow">10.1256/qj.04.94</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Quarterly+Journal+of+the+Royal+Meteorological+Society&amp;rft.atitle=Review+of+the+vapour+pressures+of+ice+and+supercooled+water+for+atmospheric+applications&amp;rft.volume=131&amp;rft.pages=1539-1565&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1256%2Fqj.04.94&amp;rft_id=info%3Abibcode%2F2005QJRMS.131.1539M&amp;rft.aulast=Murphy&amp;rft.aufirst=D.+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+point"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Cengel, Yunus A.; Turner, Robert H. (2004). <i>Fundamentals of thermal-fluid sciences</i>. Boston: McGraw-Hill. p. 78. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-07-297675-6" title="Special:BookSources/0-07-297675-6">0-07-297675-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fundamentals+of+thermal-fluid+sciences&amp;rft.place=Boston&amp;rft.pages=78&amp;rft.pub=McGraw-Hill&amp;rft.date=2004&amp;rft.isbn=0-07-297675-6&amp;rft.aulast=Cengel&amp;rft.aufirst=Yunus+A.&amp;rft.au=Turner%2C+Robert+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+point"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">See <a href="/wiki/Butane_(data_page)" title="Butane (data page)">Butane (data page)</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">See <a href="/wiki/Chloroform_(data_page)" title="Chloroform (data page)">Chloroform (data page)</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">See <a href="/wiki/Ethanol_(data_page)" title="Ethanol (data page)">Ethanol (data page)</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">See <a href="/wiki/Formic_acid_(data_page)" title="Formic acid (data page)">Formic acid (data page)</a></span>
+</li>
+<li id="cite_note-Donnelly-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Donnelly_13-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Donnelly, Russell J.; Barenghi, Carlo F. (1998). "The Observed Properties of Liquid Helium at the Saturated Vapor Pressure". <i><a href="/wiki/Journal_of_Physical_and_Chemical_Reference_Data" title="Journal of Physical and Chemical Reference Data">Journal of Physical and Chemical Reference Data</a></i>. <b>27</b> (6): 1217–1274. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1998JPCRD..27.1217D" rel="nofollow">1998JPCRD..27.1217D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1063%2F1.556028" rel="nofollow">10.1063/1.556028</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Physical+and+Chemical+Reference+Data&amp;rft.atitle=The+Observed+Properties+of+Liquid+Helium+at+the+Saturated+Vapor+Pressure&amp;rft.volume=27&amp;rft.issue=6&amp;rft.pages=1217-1274&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1063%2F1.556028&amp;rft_id=info%3Abibcode%2F1998JPCRD..27.1217D&amp;rft.aulast=Donnelly&amp;rft.aufirst=Russell+J.&amp;rft.au=Barenghi%2C+Carlo+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+point"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Hoffer-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hoffer_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hoffer_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Hoffer_14-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Hoffer, J. K.; Gardner, W. R.; Waterfield, C. G.; Phillips, N. E. (April 1976). "Thermodynamic properties of <sup>4</sup>He. II. The bcc phase and the P-T and VT phase diagrams below 2 K". <i><a href="/wiki/Journal_of_Low_Temperature_Physics" title="Journal of Low Temperature Physics">Journal of Low Temperature Physics</a></i>. <b>23</b> (1): 63–102. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1976JLTP...23...63H" rel="nofollow">1976JLTP...23...63H</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2FBF00117245" rel="nofollow">10.1007/BF00117245</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Low+Temperature+Physics&amp;rft.atitle=Thermodynamic+properties+of+%3Csup%3E4%3C%2Fsup%3EHe.+II.+The+bcc+phase+and+the+P-T+and+VT+phase+diagrams+below+2+K&amp;rft.volume=23&amp;rft.issue=1&amp;rft.pages=63-102&amp;rft.date=1976-04&amp;rft_id=info%3Adoi%2F10.1007%2FBF00117245&amp;rft_id=info%3Abibcode%2F1976JLTP...23...63H&amp;rft.aulast=Hoffer&amp;rft.aufirst=J.+K.&amp;rft.au=Gardner%2C+W.+R.&amp;rft.au=Waterfield%2C+C.+G.&amp;rft.au=Phillips%2C+N.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+point"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">See <a href="/wiki/Hexafluoroethane_(data_page)" title="Hexafluoroethane (data page)">Hexafluoroethane (data page)</a></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation book">Walas, S. M. (1990). <i>Chemical Process Equipment – Selection and Design</i>. Amsterdam: Elsevier. p. 639. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7506-7510-1" title="Special:BookSources/0-7506-7510-1">0-7506-7510-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chemical+Process+Equipment+%E2%80%93+Selection+and+Design&amp;rft.place=Amsterdam&amp;rft.pages=639&amp;rft.pub=Elsevier&amp;rft.date=1990&amp;rft.isbn=0-7506-7510-1&amp;rft.aulast=Walas&amp;rft.aufirst=S.+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+point"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">See <a href="/wiki/Isobutane_(data_page)" title="Isobutane (data page)">Isobutane (data page)</a></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://encyclopedia.airliquide.com/silane" rel="nofollow">"Silane-Gas Encyclopedia"</a>. <i>Gas Encyclopedia</i>. Air Liquide<span class="reference-accessdate">. Retrieved <span class="nowrap">1 October</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gas+Encyclopedia&amp;rft.atitle=Silane-Gas+Encyclopedia&amp;rft_id=https%3A%2F%2Fencyclopedia.airliquide.com%2Fsilane&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATriple+point"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<div aria-labelledby="States_of_matter_(list)" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:States_of_matter" title="Template:States of matter"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:States_of_matter" title="Template talk:States of matter"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:States_of_matter&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="States_of_matter_(list)" style="font-size:114%;margin:0 4em"><a href="/wiki/State_of_matter" title="State of matter">States of matter</a> (<a href="/wiki/List_of_states_of_matter" title="List of states of matter">list</a>)</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">State</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a class="mw-redirect" href="/wiki/Baryonic_matter" title="Baryonic matter">Baryonic matter</a>
+<ul><li><a href="/wiki/Solid" title="Solid">Solid</a></li>
+<li><a href="/wiki/Liquid" title="Liquid">Liquid</a></li>
+<li><a href="/wiki/Gas" title="Gas">Gas</a> / <a href="/wiki/Vapor" title="Vapor">Vapor</a></li>
+<li><a href="/wiki/Plasma_(physics)" title="Plasma (physics)">Plasma</a></li></ul></div></td><td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:Phase_change_-_en.svg"><img alt="Phase change - en.svg" data-file-height="524" data-file-width="493" height="266" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/250px-Phase_change_-_en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/375px-Phase_change_-_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/500px-Phase_change_-_en.svg.png 2x" width="250"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Low energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<li><a href="/wiki/Bose%E2%80%93Einstein_condensate" title="Bose–Einstein condensate">Bose–Einstein condensate</a></li>
+<li><a href="/wiki/Fermionic_condensate" title="Fermionic condensate">Fermionic condensate</a></li>
+<li><a href="/wiki/Degenerate_matter" title="Degenerate matter">Degenerate matter</a></li>
+<li><a href="/wiki/Quantum_Hall_effect" title="Quantum Hall effect">Quantum Hall</a></li>
+<li><a href="/wiki/Rydberg_matter" title="Rydberg matter">Rydberg matter</a></li>
+<li><a href="/wiki/Rydberg_polaron" title="Rydberg polaron">Rydberg polaron</a></li>
+<li><a href="/wiki/Strange_matter" title="Strange matter">Strange matter</a></li>
+<li><a href="/wiki/Superfluidity" title="Superfluidity">Superfluid</a></li>
+<li><a href="/wiki/Supersolid" title="Supersolid">Supersolid</a></li>
+<li><a class="mw-redirect" href="/wiki/Photonic_matter" title="Photonic matter">Photonic matter</a></li>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">High energy</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/QCD_matter" title="QCD matter">QCD matter</a></li>
+<li><a href="/wiki/Lattice_QCD" title="Lattice QCD">Lattice QCD</a></li>
+<li><a href="/wiki/Quark%E2%80%93gluon_plasma" title="Quark–gluon plasma">Quark–gluon plasma</a></li>
+<li><a href="/wiki/Color-glass_condensate" title="Color-glass condensate">Color-glass condensate</a></li>
+<li><a href="/wiki/Supercritical_fluid" title="Supercritical fluid">Supercritical fluid</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other states</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Colloid" title="Colloid">Colloid</a></li>
+<li><a href="/wiki/Glass" title="Glass">Glass</a></li>
+<li><a href="/wiki/Crystal" title="Crystal">Crystal</a></li>
+<li><a href="/wiki/Liquid_crystal" title="Liquid crystal">Liquid crystal</a></li>
+<li><a href="/wiki/Time_crystal" title="Time crystal">Time crystal</a></li>
+<li><a href="/wiki/Quantum_spin_liquid" title="Quantum spin liquid">Quantum spin liquid</a></li>
+<li><a href="/wiki/Exotic_matter" title="Exotic matter">Exotic matter</a></li>
+<li><a href="/wiki/Programmable_matter" title="Programmable matter">Programmable matter</a></li>
+<li><a href="/wiki/Dark_matter" title="Dark matter">Dark matter</a></li>
+<li><a href="/wiki/Antimatter" title="Antimatter">Antimatter</a></li>
+<li>Magnetically ordered
+<ul><li><a href="/wiki/Antiferromagnetism" title="Antiferromagnetism">Antiferromagnet</a></li>
+<li><a href="/wiki/Ferrimagnetism" title="Ferrimagnetism">Ferrimagnet</a></li>
+<li><a href="/wiki/Ferromagnetism" title="Ferromagnetism">Ferromagnet</a></li></ul></li>
+<li><a href="/wiki/String-net_liquid" title="String-net liquid">String-net liquid</a></li>
+<li><a href="/wiki/Superglass" title="Superglass">Superglass</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Phase_transition" title="Phase transition">Transitions</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boiling" title="Boiling">Boiling</a></li>
+<li><a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a></li>
+<li><a href="/wiki/Condensation" title="Condensation">Condensation</a></li>
+<li><a href="/wiki/Critical_line_(thermodynamics)" title="Critical line (thermodynamics)">Critical line</a></li>
+<li><a href="/wiki/Critical_point_(thermodynamics)" title="Critical point (thermodynamics)">Critical point</a></li>
+<li><a href="/wiki/Crystallization" title="Crystallization">Crystallization</a></li>
+<li><a href="/wiki/Deposition_(phase_transition)" title="Deposition (phase transition)">Deposition</a></li>
+<li><a href="/wiki/Evaporation" title="Evaporation">Evaporation</a></li>
+<li><a href="/wiki/Flash_evaporation" title="Flash evaporation">Flash evaporation</a></li>
+<li><a href="/wiki/Freezing" title="Freezing">Freezing</a></li>
+<li><a href="/wiki/Chemical_ionization" title="Chemical ionization">Chemical ionization</a></li>
+<li><a href="/wiki/Ionization" title="Ionization">Ionization</a></li>
+<li><a href="/wiki/Lambda_point" title="Lambda point">Lambda point</a></li>
+<li><a href="/wiki/Melting" title="Melting">Melting</a></li>
+<li><a href="/wiki/Melting_point" title="Melting point">Melting point</a></li>
+<li><a href="/wiki/Plasma_recombination" title="Plasma recombination">Recombination</a></li>
+<li><a href="/wiki/Regelation" title="Regelation">Regelation</a></li>
+<li><a href="/wiki/Vapor%E2%80%93liquid_equilibrium" title="Vapor–liquid equilibrium">Saturated fluid</a></li>
+<li><a href="/wiki/Sublimation_(phase_transition)" title="Sublimation (phase transition)">Sublimation</a></li>
+<li><a href="/wiki/Supercooling" title="Supercooling">Supercooling</a></li>
+<li><a class="mw-selflink selflink">Triple point</a></li>
+<li><a href="/wiki/Vaporization" title="Vaporization">Vaporization</a></li>
+<li><a href="/wiki/Vitrification" title="Vitrification">Vitrification</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Quantities</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Enthalpy_of_fusion" title="Enthalpy of fusion">Enthalpy of fusion</a></li>
+<li><a href="/wiki/Enthalpy_of_sublimation" title="Enthalpy of sublimation">Enthalpy of sublimation</a></li>
+<li><a href="/wiki/Enthalpy_of_vaporization" title="Enthalpy of vaporization">Enthalpy of vaporization</a></li>
+<li><a href="/wiki/Latent_heat" title="Latent heat">Latent heat</a></li>
+<li><a href="/wiki/Latent_internal_energy" title="Latent internal energy">Latent internal energy</a></li>
+<li><a href="/wiki/Trouton%27s_ratio" title="Trouton's ratio">Trouton's ratio</a></li>
+<li><a href="/wiki/Volatility_(chemistry)" title="Volatility (chemistry)">Volatility</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Concepts</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Binodal" title="Binodal">Binodal</a></li>
+<li><a href="/wiki/Compressed_fluid" title="Compressed fluid">Compressed fluid</a></li>
+<li><a href="/wiki/Cooling_curve" title="Cooling curve">Cooling curve</a></li>
+<li><a href="/wiki/Equation_of_state" title="Equation of state">Equation of state</a></li>
+<li><a href="/wiki/Leidenfrost_effect" title="Leidenfrost effect">Leidenfrost effect</a></li>
+<li><a href="/wiki/Macroscopic_quantum_phenomena" title="Macroscopic quantum phenomena">Macroscopic quantum phenomena</a></li>
+<li><a href="/wiki/Mpemba_effect" title="Mpemba effect">Mpemba effect</a></li>
+<li><a class="mw-redirect" href="/wiki/Order_and_disorder_(physics)" title="Order and disorder (physics)">Order and disorder (physics)</a></li>
+<li><a href="/wiki/Spinodal" title="Spinodal">Spinodal</a></li>
+<li><a href="/wiki/Superconductivity" title="Superconductivity">Superconductivity</a></li>
+<li><a href="/wiki/Superheated_water" title="Superheated water">Superheated vapor</a></li>
+<li><a href="/wiki/Superheating" title="Superheating">Superheating</a></li>
+<li><a href="/wiki/Thermo-dielectric_effect" title="Thermo-dielectric effect">Thermo-dielectric effect</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2258
+Cached time: 20181001192034
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.504 seconds
+Real time usage: 0.563 seconds
+Preprocessor visited node count: 2091/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 49765/2097152 bytes
+Template argument size: 102/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 26153/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.266/10.000 seconds
+Lua memory usage: 4.65 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  444.147      1 -total
+ 39.02%  173.295      1 Template:Reflist
+ 38.61%  171.502     84 Template:Convert
+ 26.84%  119.195      4 Template:Cite_journal
+  7.11%   31.590      1 Template:Other_uses
+  3.85%   17.111      2 Template:Val
+  3.71%   16.499      1 Template:Phase_of_matter
+  3.12%   13.858      3 Template:Cite_book
+  2.84%   12.606      1 Template:Navbox
+  2.51%   11.150      1 Template:Cite_web
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:30462-0!canonical and timestamp 20181001192033 and revision id 861989490
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Triple_point&amp;oldid=861989490">https://en.wikipedia.org/w/index.php?title=Triple_point&amp;oldid=861989490</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chemical_properties" title="Category:Chemical properties">Chemical properties</a></li><li><a href="/wiki/Category:Phase_transitions" title="Category:Phase transitions">Phase transitions</a></li><li><a href="/wiki/Category:Thermodynamics" title="Category:Thermodynamics">Thermodynamics</a></li><li><a href="/wiki/Category:Threshold_temperatures" title="Category:Threshold temperatures">Threshold temperatures</a></li><li><a href="/wiki/Category:Gases" title="Category:Gases">Gases</a></li><li><a href="/wiki/Category:1873_introductions" title="Category:1873 introductions">1873 introductions</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Triple+point" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Triple+point" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Triple_point" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Triple_point" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Triple_point">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Triple_point&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Triple_point&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Triple_point" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Triple_point" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Triple_point&amp;oldid=861989490" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Triple_point&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q106410" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Triple_point&amp;id=861989490" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Triple+point">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Triple+point&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Triple_point&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%B7%D8%A9_%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9" hreflang="ar" lang="ar" title="نقطة ثلاثية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-an"><a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Punto_triple" hreflang="an" lang="an" title="Punto triple – Aragonese">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Puntu_triple" hreflang="ast" lang="ast" title="Puntu triple – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%88%E0%A6%A7_%E0%A6%AC%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%81" hreflang="bn" lang="bn" title="ত্রৈধ বিন্দু – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Sam-si%C3%B2ng-ti%C3%A1m" hreflang="zh-min-nan" lang="zh-min-nan" title="Sam-siòng-tiám – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B9%D0%BD%D0%B0_%D1%82%D0%BE%D1%87%D0%BA%D0%B0" hreflang="bg" lang="bg" title="Тройна точка – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Trojna_ta%C4%8Dka" hreflang="bs" lang="bs" title="Trojna tačka – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Poent_tric%27hement" hreflang="br" lang="br" title="Poent tric'hement – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Punt_triple" hreflang="ca" lang="ca" title="Punt triple – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Trojn%C3%BD_bod" hreflang="cs" lang="cs" title="Trojný bod – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Tripelpunkt" hreflang="da" lang="da" title="Tripelpunkt – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Tripelpunkt" hreflang="de" lang="de" title="Tripelpunkt – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Kolmikpunkt" hreflang="et" lang="et" title="Kolmikpunkt – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Punto_triple" hreflang="es" lang="es" title="Punto triple – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Triobla_punkto" hreflang="eo" lang="eo" title="Triobla punkto – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Puntu_hirukoitz" hreflang="eu" lang="eu" title="Puntu hirukoitz – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%86%D9%82%D8%B7%D9%87_%D8%B3%D9%87%E2%80%8C%DA%AF%D8%A7%D9%86%D9%87" hreflang="fa" lang="fa" title="نقطه سه‌گانه – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Point_triple" hreflang="fr" lang="fr" title="Point triple – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Punto_triplo" hreflang="gl" lang="gl" title="Punto triplo – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%82%BC%EC%A4%91%EC%A0%90" hreflang="ko" lang="ko" title="삼중점 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B5%D5%BC%D5%A1%D5%AF%D5%AB_%D5%AF%D5%A5%D5%BF" hreflang="hy" lang="hy" title="Եռակի կետ – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%97%E0%A5%81%E0%A4%A3_%E0%A4%AC%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%81" hreflang="hi" lang="hi" title="त्रिगुण बिंदु – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Trojna_to%C4%8Dka" hreflang="hr" lang="hr" title="Trojna točka – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Titik_tripel" hreflang="id" lang="id" title="Titik tripel – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Puncto_triple" hreflang="ia" lang="ia" title="Puncto triple – Interlingua">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/%C3%9Er%C3%ADpunktur" hreflang="is" lang="is" title="Þrípunktur – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Punto_triplo" hreflang="it" lang="it" title="Punto triplo – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A0%D7%A7%D7%95%D7%93%D7%94_%D7%9E%D7%A9%D7%95%D7%9C%D7%A9%D7%AA" hreflang="he" lang="he" title="נקודה משולשת – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D2%AE%D1%88%D1%82%D1%96%D0%BA_%D0%BD%D2%AF%D0%BA%D1%82%D0%B5" hreflang="kk" lang="kk" title="Үштік нүкте – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Kiwango_utatu" hreflang="sw" lang="sw" title="Kiwango utatu – Swahili">Kiswahili</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Punctum_triplex" hreflang="la" lang="la" title="Punctum triplex – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Tr%C4%ABsk%C4%81r%C5%A1ais_punkts" hreflang="lv" lang="lv" title="Trīskāršais punkts – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/H%C3%A1rmaspont" hreflang="hu" lang="hu" title="Hármaspont – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D1%98%D0%BD%D0%B0_%D1%82%D0%BE%D1%87%D0%BA%D0%B0" hreflang="mk" lang="mk" title="Тројна точка – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%BF%E0%B4%95_%E0%B4%AC%E0%B4%BF%E0%B4%A8%E0%B5%8D%E0%B4%A6%E0%B5%81" hreflang="ml" lang="ml" title="ത്രിക ബിന്ദു – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-mn"><a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%93%D1%83%D1%80%D0%B2%D0%B0%D0%BD_%D1%84%D0%B0%D0%B7%D1%8B%D0%BD_%D1%86%D1%8D%D0%B3" hreflang="mn" lang="mn" title="Гурван фазын цэг – Mongolian">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Tripelpunt" hreflang="nl" lang="nl" title="Tripelpunt – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E4%B8%89%E9%87%8D%E7%82%B9" hreflang="ja" lang="ja" title="三重点 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Trippelpunkt" hreflang="no" lang="no" title="Trippelpunkt – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Trippelpunkt" hreflang="nn" lang="nn" title="Trippelpunkt – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Ponch_triple" hreflang="oc" lang="oc" title="Ponch triple – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-pnb"><a class="interlanguage-link-target" href="https://pnb.wikipedia.org/wiki/%D8%AA%DA%AF%D9%86%D8%A7_%D9%BE%D9%88%D8%A7%D9%86%D9%B9" hreflang="pnb" lang="pnb" title="تگنا پوانٹ – Western Punjabi">پنجابی</a></li><li class="interlanguage-link interwiki-pms"><a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Pont_tripl" hreflang="pms" lang="pms" title="Pont tripl – Piedmontese">Piemontèis</a></li><li class="interlanguage-link interwiki-nds"><a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Tripelpunkt" hreflang="nds" lang="nds" title="Tripelpunkt – Low German">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Punkt_potr%C3%B3jny" hreflang="pl" lang="pl" title="Punkt potrójny – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Ponto_triplo" hreflang="pt" lang="pt" title="Ponto triplo – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Punct_triplu" hreflang="ro" lang="ro" title="Punct triplu – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B9%D0%BD%D0%B0%D1%8F_%D1%82%D0%BE%D1%87%D0%BA%D0%B0" hreflang="ru" lang="ru" title="Тройная точка – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Threeple_pynt" hreflang="sco" lang="sco" title="Threeple pynt – Scots">Scots</a></li><li class="interlanguage-link interwiki-si"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%AD%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%92%E0%B6%9A_%E0%B6%BD%E0%B6%9A%E0%B7%8A%E0%B7%82%E0%B7%8A%E2%80%8D%E0%B6%BA%E0%B6%BA" hreflang="si" lang="si" title="ත්‍රික ලක්ෂ්‍යය – Sinhala">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Triple_point" hreflang="simple" lang="simple" title="Triple point – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Trojn%C3%BD_bod" hreflang="sk" lang="sk" title="Trojný bod – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Trojna_to%C4%8Dka" hreflang="sl" lang="sl" title="Trojna točka – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D1%98%D0%BD%D0%B0_%D1%82%D0%B0%D1%87%D0%BA%D0%B0" hreflang="sr" lang="sr" title="Тројна тачка – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Trojna_ta%C4%8Dka" hreflang="sh" lang="sh" title="Trojna tačka – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kolmoispiste" hreflang="fi" lang="fi" title="Kolmoispiste – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Trippelpunkt" hreflang="sv" lang="sv" title="Trippelpunkt – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%81%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AF%88%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AF%81%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%BF" hreflang="ta" lang="ta" title="மும்மைப் புள்ளி – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D1%80%D1%96%D0%B9%D0%BD%D0%B0_%D1%82%D0%BE%D1%87%D0%BA%D0%B0" hreflang="uk" lang="uk" title="Потрійна точка – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%86%D9%82%D8%B7%DB%82_%D8%AB%D9%84%D8%A7%D8%AB%DB%8C%DB%81" hreflang="ur" lang="ur" title="نقطۂ ثلاثیہ – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%83m_ba_tr%E1%BA%A1ng_th%C3%A1i" hreflang="vi" lang="vi" title="Điểm ba trạng thái – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E4%B8%89%E7%9B%B8%E9%BB%9E" hreflang="zh-yue" lang="zh-yue" title="三相點 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E4%B8%89%E7%9B%B8%E7%82%B9" hreflang="zh" lang="zh" title="三相点 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q106410#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 1 October 2018, at 13:09<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Triple_point&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.504","walltime":"0.563","ppvisitednodes":{"value":2091,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":49765,"limit":2097152},"templateargumentsize":{"value":102,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":26153,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  444.147      1 -total"," 39.02%  173.295      1 Template:Reflist"," 38.61%  171.502     84 Template:Convert"," 26.84%  119.195      4 Template:Cite_journal","  7.11%   31.590      1 Template:Other_uses","  3.85%   17.111      2 Template:Val","  3.71%   16.499      1 Template:Phase_of_matter","  3.12%   13.858      3 Template:Cite_book","  2.84%   12.606      1 Template:Navbox","  2.51%   11.150      1 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.266","limit":"10.000"},"limitreport-memusage":{"value":4879989,"limit":52428800}},"cachereport":{"origin":"mw2258","timestamp":"20181001192034","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw2187"});});</script>
+</body>
+</html>

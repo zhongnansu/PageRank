@@ -1,0 +1,828 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Arterial blood gas test - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Arterial_blood_gas_test","wgTitle":"Arterial blood gas test","wgCurRevisionId":862641723,"wgRevisionId":862641723,"wgArticleId":304227,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing clarification from July 2018","Respiratory physiology","Blood tests","Respiratory therapy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Arterial_blood_gas_test","wgRelevantArticleId":304227,"wgRequestId":"W7kMMQrAEDkAAK6n-KcAAACV","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q648497","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/7/78/Davenport_fig_10.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Arterial_blood_gas_test" rel="alternate"/>
+<link href="/w/index.php?title=Arterial_blood_gas_test&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Arterial_blood_gas_test&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Arterial_blood_gas_test" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Arterial_blood_gas_test rootpage-Arterial_blood_gas_test skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Arterial blood gas test</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightblue">Arterial-blood gas test</th></tr><tr><td colspan="2" style="text-align:center">
+<i><a href="/wiki/Medical_diagnosis" title="Medical diagnosis">Medical diagnostics</a></i></td></tr><tr><td colspan="2" style="text-align:center">
+<a class="image" href="/wiki/File:Davenport_fig_10.jpg"><img alt="Davenport fig 10.jpg" data-file-height="679" data-file-width="588" height="346" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Davenport_fig_10.jpg/300px-Davenport_fig_10.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Davenport_fig_10.jpg/450px-Davenport_fig_10.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/7/78/Davenport_fig_10.jpg 2x" width="300"/></a></td></tr><tr><th scope="row"><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a></th><td>
+<span class="reflink plainlinks nourlexpansion"><a class="external text" href="https://www.nlm.nih.gov/cgi/mesh/2011/MB_cgi?field=uid&amp;term=D001784" rel="nofollow">D001784</a></span></td></tr><tr><th scope="row"><a href="/wiki/MedlinePlus" title="MedlinePlus">MedlinePlus</a></th><td>
+<span class="reflink plainlinks nourlexpansion"><a class="external text" href="https://medlineplus.gov/ency/article/003855.htm" rel="nofollow">003855</a></span></td></tr><tr><th scope="row"><a href="/wiki/LOINC" title="LOINC">LOINC</a></th><td>
+<a class="external text" href="https://search.loinc.org/search.zul?query=24336-0" rel="nofollow">24336-0</a></td></tr></tbody></table>
+<p>An <b>arterial-blood gas</b> (<b>ABG</b>) test measures the amounts of arterial gases, such as <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> and <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>. An ABG test requires that a small volume of blood be drawn from the <a href="/wiki/Radial_artery" title="Radial artery">radial artery</a> with a <a href="/wiki/Syringe" title="Syringe">syringe</a> and a thin <a href="/wiki/Hypodermic_needle" title="Hypodermic needle">needle</a>,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> but sometimes the <a href="/wiki/Femoral_artery" title="Femoral artery">femoral artery</a> in the <a href="/wiki/Groin" title="Groin">groin</a> or another site is used. The blood can also be drawn from an <a class="mw-redirect" href="/wiki/Arterial_catheter" title="Arterial catheter">arterial catheter</a>. An ABG test measures the <a class="new" href="/w/index.php?title=Blood-gas_tension&amp;action=edit&amp;redlink=1" title="Blood-gas tension (page does not exist)">blood-gas tension</a> values of the <a href="/wiki/Oxygen#Partial_pressure" title="Oxygen">arterial partial pressure of oxygen</a>, and the <a class="mw-redirect" href="/wiki/PaCO2" title="PaCO2">arterial partial pressure of carbon dioxide</a>, and the blood's <a href="/wiki/PH" title="PH">pH</a>. In addition, the arterial <a href="/wiki/Oxygen_saturation_(medicine)" title="Oxygen saturation (medicine)">oxygen saturation</a> can be determined. Such information is vital when caring for patients with critical illnesses or respiratory disease. Therefore, the ABG test is one of the most common tests performed on patients in <a class="mw-redirect" href="/wiki/Intensive-care_unit" title="Intensive-care unit">intensive-care units</a>. In other <a href="/wiki/Therapy#Levels_of_care" title="Therapy">levels of care</a>, <a href="/wiki/Pulse_oximetry" title="Pulse oximetry">pulse oximetry</a> plus transcutaneous carbon-dioxide measurement is a less invasive, alternative method of obtaining similar information.
+</p><p>An ABG test can also measure the level of <a href="/wiki/Bicarbonate" title="Bicarbonate">bicarbonate</a> in the blood.  Many blood-gas analyzers will also report concentrations of <a href="/wiki/Lactic_acid" title="Lactic acid">lactate</a>, <a href="/wiki/Hemoglobin" title="Hemoglobin">hemoglobin</a>, several <a href="/wiki/Electrolyte" title="Electrolyte">electrolytes</a>, <a class="mw-redirect" href="/wiki/Oxyhemoglobin" title="Oxyhemoglobin">oxyhemoglobin</a>, <a href="/wiki/Carboxyhemoglobin" title="Carboxyhemoglobin">carboxyhemoglobin</a>, and <a href="/wiki/Methemoglobin" title="Methemoglobin">methemoglobin</a>. ABG testing is mainly used in <a href="/wiki/Pulmonology" title="Pulmonology">pulmonology</a> and critical-care medicine to determine <a href="/wiki/Gas_exchange" title="Gas exchange">gas exchange</a> across the alveolar-capillary membrane.  ABG testing also has a variety of applications in other areas of medicine. Combinations of disorders can be complex and difficult to interpret, so calculators,<sup class="reference" id="cite_ref-ABG_interpreter_2-0"><a href="#cite_note-ABG_interpreter-2">[2]</a></sup> <a class="mw-redirect" href="/wiki/Nomograms" title="Nomograms">nomograms</a>, and rules of thumb<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> are commonly used.
+</p><p>ABG <a href="/wiki/Sampling_(medicine)" title="Sampling (medicine)">samples</a> originally were sent from the clinic to the <a href="/wiki/Medical_laboratory" title="Medical laboratory">medical laboratory</a> for analysis. Today, the analysis can be done either in the laboratory or as <a href="/wiki/Point-of-care_testing" title="Point-of-care testing">point-of-care testing</a>, depending on the equipment available in each clinic.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Sampling_and_analysis"><span class="tocnumber">1</span> <span class="toctext">Sampling and analysis</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Calculations"><span class="tocnumber">1.1</span> <span class="toctext">Calculations</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Guidelines"><span class="tocnumber">1.2</span> <span class="toctext">Guidelines</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Parameters_and_reference_ranges"><span class="tocnumber">2</span> <span class="toctext">Parameters and reference ranges</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#pH"><span class="tocnumber">2.1</span> <span class="toctext">pH</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Sampling_and_analysis">Sampling and analysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arterial_blood_gas_test&amp;action=edit&amp;section=1" title="Edit section: Sampling and analysis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Arterial_blood_gas_device.jpg"><img alt="" class="thumbimage" data-file-height="2236" data-file-width="2708" height="182" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Arterial_blood_gas_device.jpg/220px-Arterial_blood_gas_device.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Arterial_blood_gas_device.jpg/330px-Arterial_blood_gas_device.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Arterial_blood_gas_device.jpg/440px-Arterial_blood_gas_device.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Arterial_blood_gas_device.jpg" title="Enlarge"></a></div>Bench top analyzer ABL800 FLEX - <a href="/wiki/Radiometer_(company)" title="Radiometer (company)">Radiometer Medical</a></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Cobas221A.png"><img alt="" class="thumbimage" data-file-height="1456" data-file-width="1743" height="184" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cobas221A.png/220px-Cobas221A.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cobas221A.png/330px-Cobas221A.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cobas221A.png/440px-Cobas221A.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Cobas221A.png" title="Enlarge"></a></div>Modern, blood-gas analyzer. This device is capable of reporting pH, <a href="/wiki/PCO2" title="PCO2">pCO<sub>2</sub></a>, pO<sub>2</sub>, SatO<sub>2</sub>, Na<sup>+</sup>, K<sup>+</sup>, Cl<sup>−</sup>, Ca<sup>2+</sup>, Hemoglobin (total and derivatives: O<sub>2</sub>Hb, MetHb, COHb, HHb, CNHb, SHb ), Hematocrit, Total bilirubin, Glucose, Lactate and Urea. (Cobas b 221 - Roche Diagnostics).</div></div></div>
+<p>Arterial blood for blood-gas analysis is usually drawn by a <a href="/wiki/Respiratory_therapist" title="Respiratory therapist">respiratory therapist</a> and sometimes a <a class="mw-redirect" href="/wiki/Phlebotomist" title="Phlebotomist">phlebotomist</a>, a <a class="mw-redirect" href="/wiki/Nurse" title="Nurse">nurse</a>, a <a href="/wiki/Paramedic" title="Paramedic">paramedic</a> or a doctor.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Blood is most commonly drawn from the <a href="/wiki/Radial_artery" title="Radial artery">radial artery</a> because it is easily accessible, can be compressed to control bleeding, and has less risk for occlusion. The selection of which radial artery to draw from is based on the outcome of an <a href="/wiki/Allen%27s_test" title="Allen's test">Allen's test</a>. The <a href="/wiki/Brachial_artery" title="Brachial artery">brachial artery</a> (or less often, the <a href="/wiki/Femoral_artery" title="Femoral artery">femoral artery</a>) is also used, especially during emergency situations or with children. Blood can also be taken from an arterial catheter already placed in one of these arteries.
+</p><p>There are plastic and glass syringes used for blood gas samples.  Most syringes come pre-packaged and contain a small amount of <a href="/wiki/Heparin" title="Heparin">heparin</a>, to prevent <a href="/wiki/Coagulation" title="Coagulation">coagulation</a>. Other syringes may need to be heparinised, by drawing up a small amount of liquid heparin and squirting it out again to remove air bubbles. Once the sample is obtained, care is taken to eliminate visible gas bubbles, as these bubbles can dissolve into the sample and cause inaccurate results.  The sealed syringe is taken to a <a class="new" href="/w/index.php?title=Blood_gas_analyzer&amp;action=edit&amp;redlink=1" title="Blood gas analyzer (page does not exist)">blood gas analyzer</a>.  If a plastic blood gas syringe is used, the sample should be transported and kept at room temperature and analyzed within 30 min.  If prolonged time delays are expected (i.e., greater than 30 min) prior to analysis, the sample should be drawn in a glass syringe and immediately placed on ice.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>  Standard blood tests can also be performed on arterial blood, such as measuring <a href="/wiki/Glucose" title="Glucose">glucose</a>, <a href="/wiki/Lactic_acid" title="Lactic acid">lactate</a>, <a class="mw-redirect" href="/wiki/Hemoglobins" title="Hemoglobins">hemoglobins</a>, dys-haemoglobins, <a href="/wiki/Bilirubin" title="Bilirubin">bilirubin</a> and  <a href="/wiki/Electrolyte" title="Electrolyte">electrolytes</a>.
+</p><p>Derived parameters include bicarbonate concentration, SaO2, and base excess.  Bicarbonate concentration is calculated from the measured pH and PCO2 using the Henderson-Hasselbalch equation.  SaO2 is derived from the measured PO2 and calculated based on the assumption that all measured hemoglobin is normal (oxy- or deoxy-) hemoglobin.<sup class="reference" id="cite_ref-:0_6-0"><a href="#cite_note-:0-6">[6]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Calculations">Calculations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arterial_blood_gas_test&amp;action=edit&amp;section=2" title="Edit section: Calculations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Cobas_b_121_Measurement_Chamber_(detail).jpg"><img alt="" class="thumbimage" data-file-height="1456" data-file-width="2592" height="124" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cobas_b_121_Measurement_Chamber_%28detail%29.jpg/220px-Cobas_b_121_Measurement_Chamber_%28detail%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cobas_b_121_Measurement_Chamber_%28detail%29.jpg/330px-Cobas_b_121_Measurement_Chamber_%28detail%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cobas_b_121_Measurement_Chamber_%28detail%29.jpg/440px-Cobas_b_121_Measurement_Chamber_%28detail%29.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Cobas_b_121_Measurement_Chamber_(detail).jpg" title="Enlarge"></a></div>Detail of measurement chamber of a modern blood gas analyzer showing the measurement electrodes. (Cobas b 121 - Roche Diagnostics)</div></div></div>
+<p>The machine used for analysis aspirates this blood from the syringe and measures the <a href="/wiki/PH" title="PH">pH</a> and the <a href="/wiki/Partial_pressure" title="Partial pressure">partial pressures</a> of oxygen and carbon dioxide. The bicarbonate concentration is also calculated. These results are usually available for interpretation within five minutes.
+</p><p>Two methods have been used in medicine in the management of blood gases  of patients in hypothermia: pH-stat method and alpha-stat method. Recent studies suggest that the α-stat method is superior.
+</p>
+<ul><li>pH-stat: The pH and other ABG results are measured at the patient's actual temperature. The goal is to maintain a pH of 7.40 and the arterial carbon dioxide tension (paCO<sub>2</sub>) at 5.3 kPa (40 mmHg) at the actual patient temperature. It is necessary to add CO<sub>2</sub> to the oxygenator to accomplish this goal.</li>
+<li>α-stat (alpha-stat): The pH and other ABG results are measured at 37 °C, despite the patient's actual temperature. The goal is to maintain the arterial carbon dioxide tension at 5.3 kPa (40mmHg) and the pH at 7.40 when measured at +37 °C.</li></ul>
+<p>Both the pH-stat and alpha-stat strategies have theoretical disadvantages. α-stat method is the method of choice for optimal myocardial function. The pH-stat method may result in loss of autoregulation in the brain (coupling of the cerebral blood flow with the metabolic rate in the brain). By increasing the cerebral blood flow beyond the metabolic requirements, the pH-stat method may lead to cerebral microembolisation and intracranial hypertension.<sup class="reference" id="cite_ref-:0_6-1"><a href="#cite_note-:0-6">[6]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Guidelines">Guidelines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arterial_blood_gas_test&amp;action=edit&amp;section=3" title="Edit section: Guidelines">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ol><li>A 1 mmHg change in PaCO<sub>2</sub> above or below 40 mmHg results in 0.008 unit change in pH in the opposite direction.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></li>
+<li>The PaCO<sub>2</sub> will decrease by about 1 mmHg for every 1 mEq/L reduction in [<span class="chemf nowrap">HCO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>] below 24 mEq/L</li>
+<li>A change in [<span class="chemf nowrap">HCO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>] of 10 mEq/L will result in a change in pH of approximately 0.15 pH units in the same direction.</li>
+<li>Assess relation of pCO<sub>2</sub> with pH: If pCO<sub>2</sub> &amp; pH are moving in opposite directions i.e., pCO<sub>2</sub> ↑ when pH is &lt;7.4 or pCO<sub>2</sub> ↓ when pH &gt; 7.4, it is a primary respiratory disorder. If pCO<sub>2</sub> &amp; pH are moving in same direction i.e., pCO<sub>2</sub> ↑when pH is &gt;7.4 or pCO<sub>2</sub> ↓ when pH &lt; 7.4, it is a primary metabolic disorder.<sup class="reference" id="cite_ref-EduLanche_8-0"><a href="#cite_note-EduLanche-8">[8]</a></sup></li></ol>
+<h2><span class="mw-headline" id="Parameters_and_reference_ranges">Parameters and reference ranges</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arterial_blood_gas_test&amp;action=edit&amp;section=4" title="Edit section: Parameters and reference ranges">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>These are typical <a class="mw-redirect" href="/wiki/Reference_ranges" title="Reference ranges">reference ranges</a>, although various analysers and laboratories may employ different ranges.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Analyte
+</th>
+<th style="width: 8em;">Range
+</th>
+<th>Interpretation
+</th></tr>
+<tr>
+<td>pH
+</td>
+<td>7.34–7.44<sup class="reference" id="cite_ref-southwest_9-0"><a href="#cite_note-southwest-9">[9]</a></sup>
+</td>
+<td rowspan="2">The <a href="/wiki/PH" title="PH">pH</a> or H<sup>+</sup> indicates if a person is acidemic (pH &lt; 7.35; H<sup>+</sup> &gt;45) or alkalemic (pH &gt; 7.45; H<sup>+</sup> &lt; 35).
+</td></tr>
+<tr>
+<td>H<sup>+</sup>
+</td>
+<td>35–45 n<a href="/wiki/Mole_(unit)" title="Mole (unit)">mol</a>/<a href="/wiki/Litre" title="Litre">L</a> (n<a href="/wiki/Concentration#Molality" title="Concentration">M</a>)
+</td></tr>
+<tr>
+<td><span id="oxygen"></span>Arterial <a class="mw-redirect" href="/wiki/Oxygen_partial_pressure" title="Oxygen partial pressure">oxygen partial pressure</a> (P<sub>a</sub>O<sub>2</sub>)
+</td>
+<td>10–13 kPa<br/>75–100 mmHg<sup class="reference" id="cite_ref-southwest_9-1"><a href="#cite_note-southwest-9">[9]</a></sup>
+</td>
+<td>A low PaO<sub>2</sub> indicates that the person is not oxygenating properly, and is hypoxemic. (Note that a low PaO<sub>2</sub> is not required for the person to have <a href="/wiki/Hypoxia_(medical)" title="Hypoxia (medical)">hypoxia</a>.)<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title=" (July 2018)">why?</span></a></i>]</sup> At a P<sub>a</sub>O<sub>2</sub> of less than 60 mm Hg, <a class="mw-redirect" href="/wiki/Supplemental_oxygen" title="Supplemental oxygen">supplemental oxygen</a> should be administered.
+</td></tr>
+<tr>
+<td><span id="carbon_dioxide"></span>Arterial <a class="mw-redirect" href="/wiki/Carbon_dioxide_partial_pressure" title="Carbon dioxide partial pressure">carbon dioxide partial pressure</a> (P<sub>a</sub>CO<sub>2</sub>)
+</td>
+<td>4.7–6.0 kPa<br/>35–45 mmHg<sup class="reference" id="cite_ref-southwest_9-2"><a href="#cite_note-southwest-9">[9]</a></sup>
+</td>
+<td>The carbon dioxide partial pressure (Pa<a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a>) is an indicator of CO<sub>2</sub> production and elimination: for a constant metabolic rate, the Pa<a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a> is determined entirely by its elimination through <a class="mw-redirect" href="/wiki/Ventilation_(physiology)" title="Ventilation (physiology)">ventilation</a>.<sup class="reference" id="cite_ref-02_calc_10-0"><a href="#cite_note-02_calc-10">[10]</a></sup> A high Pa<a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a> (<a href="/wiki/Respiratory_acidosis" title="Respiratory acidosis">respiratory acidosis</a>, alternatively <a href="/wiki/Hypercapnia" title="Hypercapnia">hypercapnia</a>) indicates underventilation (or, more rarely, a <a href="/wiki/Malignant_hyperthermia" title="Malignant hyperthermia">hypermetabolic disorder</a>), a low Pa<a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a> (<a href="/wiki/Respiratory_alkalosis" title="Respiratory alkalosis">respiratory alkalosis</a>, alternatively <a href="/wiki/Hypocapnia" title="Hypocapnia">hypocapnia</a>) hyper- or overventilation.
+</td></tr>
+<tr>
+<td><a href="/wiki/Bicarbonate" title="Bicarbonate">HCO<sub>3</sub></a><sup>–</sup>
+</td>
+<td>22–26 mEq/L
+</td>
+<td>The <a href="/wiki/Bicarbonate" title="Bicarbonate">HCO<sub>3</sub></a><sup>–</sup> ion indicates whether a <a href="/wiki/Metabolism" title="Metabolism">metabolic</a> problem is present (such as <a href="/wiki/Ketoacidosis" title="Ketoacidosis">ketoacidosis</a>). A low <a href="/wiki/Bicarbonate" title="Bicarbonate">HCO<sub>3</sub></a><sup>–</sup> indicates <a href="/wiki/Metabolic_acidosis" title="Metabolic acidosis">metabolic acidosis</a>, a high <a href="/wiki/Bicarbonate" title="Bicarbonate">HCO<sub>3</sub></a><sup>–</sup> indicates <a href="/wiki/Metabolic_alkalosis" title="Metabolic alkalosis">metabolic alkalosis</a>. As this value when given with blood gas results is often calculated by the analyzer, correlation should be checked with <a href="/wiki/Carbon_dioxide#Human_physiology" title="Carbon dioxide">total CO<sub>2</sub> levels</a> as directly measured (see below).
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Standard_bicarbonate_concentration" title="Standard bicarbonate concentration">SBC<sub>e</sub></a>
+</td>
+<td>21 to 27 mmol/L
+</td>
+<td>the bicarbonate concentration in the blood at a <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a> of 5.33 kPa, full oxygen saturation and 37 Celsius.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Base_excess" title="Base excess">Base excess</a>
+</td>
+<td>−2 to +2 mmol/L
+</td>
+<td>The base excess is used for the assessment of the metabolic component of acid-base disorders, and indicates whether the person has metabolic acidosis or metabolic alkalosis. Contrasted with the bicarbonate levels, the base excess is a calculated value intended to completely isolate the non-respiratory portion of the pH change.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+<p>There are two calculations for base excess (extra cellular fluid - BE(ecf); blood - BE(b)).  The calculation used for the BE(ecf) = c<a href="/wiki/Bicarbonate" title="Bicarbonate">HCO<sub>3</sub></a><sup>–</sup> − 24.8 + 16.2 × (pH − 7.4). The calculation used for BE(b) = (1 − 0.014 × hgb) × (c<a href="/wiki/Bicarbonate" title="Bicarbonate">HCO<sub>3</sub></a><sup>–</sup> − 24.8 + (1.43 × hgb + 7.7) × (pH − 7.4).
+</p>
+</td></tr>
+<tr>
+<td><i>total</i> CO<sub>2</sub> (tCO<sub>2</sub> (P)<sub>c</sub>)
+</td>
+<td>23–30 mmol/L<sup class="reference" id="cite_ref-brookside_13-0"><a href="#cite_note-brookside-13">[13]</a></sup><br/>100–132 mg/dL<sup class="reference" id="cite_ref-co2-molar_14-0"><a href="#cite_note-co2-molar-14">[14]</a></sup>
+</td>
+<td>This is the total amount of CO<sub>2</sub>, and is the sum of <a href="/wiki/Bicarbonate" title="Bicarbonate">HCO<sub>3</sub></a><sup>–</sup> and <a href="/wiki/PCO2" title="PCO2">PCO<sub>2</sub></a> by the formula: tCO<sub>2</sub> = [<a href="/wiki/Bicarbonate" title="Bicarbonate">HCO<sub>3</sub></a><sup>–</sup>] + <i>α</i>×PCO<sub>2</sub>, where α=0.226 mM/kPa, <a href="/wiki/Bicarbonate" title="Bicarbonate">HCO<sub>3</sub></a><sup>–</sup> is expressed in <a href="/wiki/Concentration#Molality" title="Concentration">millimolar concentration</a> (mM) (mmol/L) and PCO<sub>2</sub> is expressed in kPa
+</td></tr>
+<tr>
+<td>O<sub>2</sub> Content (C<sub>a</sub>O<sub>2</sub>, C<sub>v</sub>O<sub>2</sub>, C<sub>c</sub>O<sub>2</sub>)
+</td>
+<td>vol%<br/>(mL O<sub>2</sub>/dL blood)
+</td>
+<td>This is the sum of oxygen dissolved in plasma and chemically bound to <a href="/wiki/Hemoglobin" title="Hemoglobin">hemoglobin</a> as determined by the calculation: CaO<sub>2</sub> = (PaO<sub>2</sub> × 0.003) + (SaO<sub>2</sub> × 1.34 × Hgb) where hemoglobin concentration is expressed in g/dL.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</td></tr></tbody></table>
+<p>Contamination of the sample with room air will result in abnormally low carbon dioxide and possibly elevated oxygen levels, and a concurrent elevation in pH.  Delaying analysis (without chilling the sample) may result in inaccurately low oxygen and high carbon dioxide levels as a result of ongoing cellular respiration.
+</p>
+<h3><span class="mw-headline" id="pH">pH</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arterial_blood_gas_test&amp;action=edit&amp;section=5" title="Edit section: pH">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table style="font-size:70%; border:3px solid black; float:right; margin:10px">
+<caption><a href="/wiki/Pathophysiology" title="Pathophysiology">Pathophysiology</a> <a href="/wiki/Reference_ranges_for_blood_tests" title="Reference ranges for blood tests">sample values</a>
+</caption>
+<tbody><tr style="background:MistyRose;">
+<td align="center" colspan="4"><b><a href="/wiki/Basic_metabolic_panel" title="Basic metabolic panel">BMP</a>/<a href="/wiki/Electrolyte" title="Electrolyte">ELECTROLYTES</a>:</b>
+</td></tr>
+<tr style="background:MistyRose;">
+<td><a class="mw-redirect" href="/wiki/Serum_sodium" title="Serum sodium">Na<sup>+</sup></a> = 140
+</td>
+<td><a href="/wiki/Serum_chloride" title="Serum chloride">Cl<sup>−</sup></a> = 100
+</td>
+<td><a href="/wiki/Blood_urea_nitrogen" title="Blood urea nitrogen">BUN</a> = 20
+</td>
+<td>/
+</td></tr>
+<tr style="background:MistyRose;">
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><a href="/wiki/Glucose" title="Glucose">Glu</a> = 150
+</td></tr>
+<tr style="background:MistyRose;">
+<td><a href="/wiki/Potassium#Potassium_cations_in_the_body" title="Potassium">K<sup>+</sup></a> = 4
+</td>
+<td><a href="/wiki/Carbon_dioxide#Human_physiology" title="Carbon dioxide">CO<sub>2</sub></a> = 22
+</td>
+<td><a href="/wiki/Creatinine#Plasma_creatinine_.28PCr.29" title="Creatinine">PCr</a> = 1.0
+</td>
+<td>\
+</td></tr>
+<tr style="background:MistyRose;">
+<td align="center" colspan="4"><b><a class="mw-redirect" href="/wiki/Arterial_blood_gas" title="Arterial blood gas">ARTERIAL BLOOD GAS</a>:</b>
+</td></tr>
+<tr style="background:MistyRose;">
+<td><a href="/wiki/Bicarbonate" title="Bicarbonate">HCO<sub>3</sub><sup>−</sup></a> = 24
+</td>
+<td><a href="/wiki/Pulmonary_gas_pressures#Partial_pressure_of_carbon_dioxide" title="Pulmonary gas pressures">p</a><sub>a</sub><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a> = 40
+</td>
+<td><a href="/wiki/Pulmonary_gas_pressures#Partial_pressure_of_oxygen" title="Pulmonary gas pressures">p</a><sub>a</sub><a href="/wiki/Oxygen" title="Oxygen">O<sub>2</sub></a> = 95
+</td>
+<td><a href="/wiki/PH#Living_systems" title="PH">pH</a> = 7.40
+</td></tr>
+<tr style="background:MistyRose;">
+<td align="center" colspan="4"><b><a href="/wiki/Alveolar_gas_equation" title="Alveolar gas equation">ALVEOLAR GAS</a>:</b>
+</td></tr>
+<tr style="background:MistyRose;">
+<td>
+</td>
+<td><a href="/wiki/Pulmonary_gas_pressures" title="Pulmonary gas pressures">p</a><sub>A</sub><a href="/wiki/Carbon_dioxide#Human_physiology" title="Carbon dioxide">CO<sub>2</sub></a> = 36
+</td>
+<td><a href="/wiki/Pulmonary_gas_pressures" title="Pulmonary gas pressures">p</a><sub>A</sub><a href="/wiki/Oxygen" title="Oxygen">O<sub>2</sub></a> = 105
+</td>
+<td><a href="/wiki/Alveolar%E2%80%93arterial_gradient" title="Alveolar–arterial gradient">A-a g</a> = 10
+</td></tr>
+<tr style="background:MistyRose;">
+<td align="center" colspan="4"><b>OTHER:</b>
+</td></tr>
+<tr style="background:MistyRose;">
+<td><a href="/wiki/Calcium" title="Calcium">Ca</a> = 9.5
+</td>
+<td><a href="/wiki/Magnesium_in_biology" title="Magnesium in biology">Mg<sup>2+</sup></a> = 2.0
+</td>
+<td><a href="/wiki/Phosphate#Cellular_function" title="Phosphate">PO<sub>4</sub></a> = 1
+</td>
+<td>
+</td></tr>
+<tr style="background:MistyRose;">
+<td><a href="/wiki/Creatine_kinase" title="Creatine kinase">CK</a> = 55
+</td>
+<td><a href="/wiki/Base_excess" title="Base excess">BE</a> = −0.36
+</td>
+<td><a href="/wiki/Anion_gap#Without_potassium" title="Anion gap">AG</a> = 16
+</td>
+<td>
+</td></tr>
+<tr style="background:#BBEEBB;">
+<td align="center" colspan="4"><b><a class="mw-redirect" href="/wiki/Osmolarity" title="Osmolarity">SERUM OSMOLARITY</a>/<a href="/wiki/Renal_physiology" title="Renal physiology">RENAL</a>:</b>
+</td></tr>
+<tr style="background:#BBEEBB;">
+<td><a href="/wiki/Plasma_osmolality#Measured_osmolality_.28MO.29" title="Plasma osmolality">PMO</a>  =  300
+</td>
+<td><a href="/wiki/Plasma_osmolality#Calculated_osmolality_.28CO.29" title="Plasma osmolality">PCO</a> = 295
+</td>
+<td><a class="mw-redirect" href="/wiki/Serum_osmolal_gap" title="Serum osmolal gap">POG</a> = 5
+</td>
+<td><a href="/wiki/BUN-to-creatinine_ratio" title="BUN-to-creatinine ratio">BUN:Cr</a> = 20
+</td></tr>
+<tr style="background:#BBEEBB;">
+<td align="center" colspan="4"><b><a class="mw-redirect" href="/wiki/Urinalysis" title="Urinalysis">URINALYSIS</a>:</b>
+</td></tr>
+<tr style="background:#BBEEBB;">
+<td><a href="/wiki/Renal_sodium_reabsorption" title="Renal sodium reabsorption">UNa<sup>+</sup></a> = 80
+</td>
+<td><a href="/wiki/Renal_chloride_reabsorption" title="Renal chloride reabsorption">UCl<sup>−</sup></a> = 100
+</td>
+<td><a href="/wiki/Urine_anion_gap" title="Urine anion gap">UAG</a> = 5
+</td>
+<td><a class="mw-redirect" href="/wiki/Fractional_sodium_excretion" title="Fractional sodium excretion">FENa</a> = 0.95
+</td></tr>
+<tr style="background:#BBEEBB;">
+<td><a href="/wiki/Potassium#Filtration_and_excretion" title="Potassium">UK<sup>+</sup></a> = 25
+</td>
+<td><a href="/wiki/Urine_specific_gravity" title="Urine specific gravity">USG</a> = 1.01
+</td>
+<td><a href="/wiki/Creatinine#Urine_creatinine_.28UCr.29" title="Creatinine">UCr</a> = 60
+</td>
+<td><a href="/wiki/Urine_osmolality" title="Urine osmolality">UO</a> = 800
+</td></tr>
+<tr style="background:#fd6;">
+<td align="center" colspan="4"><b><a href="/wiki/Protein" title="Protein">PROTEIN</a>/<a href="/wiki/Gastrointestinal_physiology" title="Gastrointestinal physiology">GI</a>/<a href="/wiki/Liver_function_tests" title="Liver function tests">LIVER FUNCTION TESTS</a>:</b>
+</td></tr>
+<tr style="background:#fd6;">
+<td><a href="/wiki/Lactate_dehydrogenase" title="Lactate dehydrogenase">LDH</a> = 100
+</td>
+<td><a href="/wiki/Serum_total_protein" title="Serum total protein">TP</a> = 7.6
+</td>
+<td><a href="/wiki/Aspartate_transaminase" title="Aspartate transaminase">AST</a> = 25
+</td>
+<td><a href="/wiki/Bilirubin#Blood_tests" title="Bilirubin">TBIL</a> = 0.7
+</td></tr>
+<tr style="background:#fd6;">
+<td><a href="/wiki/Alkaline_phosphatase" title="Alkaline phosphatase">ALP</a> = 71
+</td>
+<td><a href="/wiki/Human_serum_albumin" title="Human serum albumin">Alb</a> = 4.0
+</td>
+<td><a href="/wiki/Alanine_transaminase" title="Alanine transaminase">ALT</a> = 40
+</td>
+<td><a href="/wiki/Bilirubin#Blood_tests" title="Bilirubin">BC</a> = 0.5
+</td></tr>
+<tr style="background:#fd6;">
+<td>
+</td>
+<td>
+</td>
+<td><a href="/wiki/AST/ALT_ratio" title="AST/ALT ratio">AST/ALT</a> = 0.6
+</td>
+<td><a href="/wiki/Bilirubin#Blood_tests" title="Bilirubin">BU</a> = 0.2
+</td></tr>
+<tr style="background:#fd6;">
+<td><a class="mw-redirect" href="/wiki/Ascitic_fluid_albumin" title="Ascitic fluid albumin">AF alb</a> = 3.0
+</td>
+<td><a href="/wiki/Serum-ascites_albumin_gradient" title="Serum-ascites albumin gradient">SAAG</a> = 1.0
+</td>
+<td>
+</td>
+<td><a class="mw-redirect" href="/wiki/Stool_osmolal_gap" title="Stool osmolal gap">SOG</a> = 60
+</td></tr>
+<tr style="background:LightYellow;">
+<td align="center" colspan="4"><b><a href="/wiki/Cerebrospinal_fluid" title="Cerebrospinal fluid">CSF</a>:</b>
+</td></tr>
+<tr style="background:LightYellow;">
+<td><a href="/wiki/CSF_albumin" title="CSF albumin">CSF alb</a> = 30
+</td>
+<td><a href="/wiki/CSF_glucose" title="CSF glucose">CSF glu</a> = 60
+</td>
+<td><a href="/wiki/CSF/serum_albumin_ratio" title="CSF/serum albumin ratio">CSF/S alb</a> = 7.5
+</td>
+<td><a href="/wiki/CSF/serum_glucose_ratio" title="CSF/serum glucose ratio">CSF/S glu</a> = 0.4
+</td></tr></tbody></table>
+<p>The normal range for pH is 7.35–7.45. As the pH decreases (&lt; 7.35), it implies <a href="/wiki/Acidosis" title="Acidosis">acidosis</a>, while if the pH increases (&gt; 7.45) it implies <a href="/wiki/Alkalosis" title="Alkalosis">alkalosis</a>. In the context of arterial blood gases, the most common occurrence will be that of <a href="/wiki/Respiratory_acidosis" title="Respiratory acidosis">respiratory acidosis</a>.  Carbon dioxide is dissolved in the blood as carbonic acid, a weak acid; however, in large concentrations, it can affect the pH drastically. Whenever there is poor pulmonary ventilation, the carbon dioxide levels in the blood are expected to rise. This leads to a rise of carbonic acid, leading to a decrease in pH. The first buffer of pH will be the plasma proteins, since these can accept some H<sup>+</sup> ions to try to maintain homeostasis. As carbon dioxide concentrations continue to increase (<i>Pa</i>CO<sub>2</sub> &gt; 45 mmHg), a condition known as respiratory acidosis occurs. The body tries to maintain homeostasis by increasing the respiratory rate, a condition known as tachypnea. This allows much more carbon dioxide to escape the body through the lungs, thus increasing the pH by having less carbonic acid. If a person is in a critical setting and intubated, one must increase the number of breaths mechanically.
+</p><p><a href="/wiki/Respiratory_alkalosis" title="Respiratory alkalosis">Respiratory alkalosis</a> (<i>Pa</i> CO<sub>2</sub> &lt; 35 mmHg) occurs when there is too little carbon dioxide in the blood. This may be due to hyperventilation or else excessive breaths given via a mechanical ventilator in a critical care setting. The action to be taken is to calm the person and try to reduce the number of breaths being taken to normalize the pH. The respiratory pathway tries to compensate for the change in pH in a matter of 2–4 hours. If this is not enough, the metabolic pathway takes place.
+</p><p>Under normal conditions, the <a href="/wiki/Henderson%E2%80%93Hasselbalch_equation" title="Henderson–Hasselbalch equation">Henderson–Hasselbalch equation</a> will give the blood pH
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {pH}}=6.1+\log _{10}\left({\frac {[{\ce {HCO3^-}}]}{0.03\times Pa{\ce {CO2}}}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>pH</mtext>
+</mrow>
+<mo>=</mo>
+<mn>6.1</mn>
+<mo>+</mo>
+<msub>
+<mi>log</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>HCO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+</mrow>
+<mo stretchy="false">]</mo>
+</mrow>
+<mrow>
+<mn>0.03</mn>
+<mo>×<!-- × --></mo>
+<mi>P</mi>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>CO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {pH}}=6.1+\log _{10}\left({\frac {[{\ce {HCO3^-}}]}{0.03\times Pa{\ce {CO2}}}}\right)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {pH}}=6.1+\log _{10}\left({\frac {[{\ce {HCO3^-}}]}{0.03\times Pa{\ce {CO2}}}}\right)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3884b205575677308f0e22448b2ee3f465dee15b" style="vertical-align: -3.171ex; width:35.802ex; height:7.509ex;"/></span></dd></dl>
+<p>where:
+</p>
+<ul><li>6.1 is the <a href="/wiki/Acid_dissociation_constant" title="Acid dissociation constant">acid dissociation constant</a> (p<i>K</i><sub>a</sub>) of <a href="/wiki/Carbonic_acid" title="Carbonic acid">carbonic acid</a> (<span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>) at normal body temperature</li>
+<li><a href="/wiki/Bicarbonate" title="Bicarbonate">HCO<sub>3</sub></a><sup>–</sup> is the concentration of bicarbonate in the blood in mEq/L</li>
+<li><i>Pa</i>CO<sub>2</sub> is the partial pressure of carbon dioxide in the arterial blood in torr</li></ul>
+<p>The kidney and the liver are two main organs responsible for the metabolic homeostasis of pH. Bicarbonate is a base that helps to accept excess hydrogen ions whenever there is acidaemia. However, this mechanism is slower than the respiratory pathway and may take from a few hours to 3 days to take effect. In acidaemia, the bicarbonate levels rise, so that they can neutralize the excess acid, while the contrary happens when there is alkalaemia. Thus when an arterial blood gas test reveals, for example, an elevated bicarbonate, the problem has been present for a couple of days, and metabolic compensation took place over a blood acedemia problem.
+</p><p>In general, it is much easier to correct acute pH derangement by adjusting respiration. Metabolic compensations take place at a much later stage. However, in a critical setting, a person with a normal pH, a high CO<sub>2</sub>, and a high bicarbonate means that, although there is a high carbon dioxide level, there is metabolic compensation. As a result, one must be careful as to not artificially adjust breaths to lower the carbon dioxide. In such case, lowering the carbon dioxide abruptly means that the bicarbonate will be in excess and will cause a metabolic alkalosis. In such a case, carbon dioxide levels should be slowly diminished.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arterial_blood_gas_test&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a class="mw-redirect" href="/wiki/Acid-base_homeostasis" title="Acid-base homeostasis">Acid-base homeostasis</a></li>
+<li><a href="/wiki/Anion_gap" title="Anion gap">Anion gap</a></li>
+<li><a href="/wiki/Mechanical_ventilation" title="Mechanical ventilation">Mechanical ventilation</a></li>
+<li><a href="/wiki/Radial_artery_puncture" title="Radial artery puncture">Radial artery puncture</a></li>
+<li><a href="/wiki/Acidosis" title="Acidosis">Acidosis</a></li>
+<li><a href="/wiki/Alkalosis" title="Alkalosis">Alkalosis</a></li>
+<li><a href="/wiki/Chemical_equilibrium" title="Chemical equilibrium">Chemical equilibrium</a></li>
+<li><a href="/wiki/Hemoximetry" title="Hemoximetry">Hemoximetry</a></li>
+<li><a href="/wiki/PCO2" title="PCO2">pCO2</a></li>
+<li><a href="/wiki/PH" title="PH">pH</a></li>
+<li><a class="mw-redirect" href="/wiki/PKa" title="PKa">pKa</a></li>
+<li><a href="/wiki/Arteriovenous_oxygen_difference" title="Arteriovenous oxygen difference">Arteriovenous oxygen difference</a></li>
+<li><a href="/wiki/Oxygen_saturation_(medicine)" title="Oxygen saturation (medicine)">Oxygen saturation (medicine)</a></li></ul></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arterial_blood_gas_test&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Dr Colin Tidy (26 Jan 2015). <a class="external text" href="http://www.patient.info/doctor/Arterial-Blood-Gases-Indications-and-Interpretation.htm" rel="nofollow">"Arterial Blood Gases - Indications and Interpretation"</a>. <i>Patient</i>. Reviewed by Dr Adrian Bonsall<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-02</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Patient&amp;rft.atitle=Arterial+Blood+Gases+-+Indications+and+Interpretation&amp;rft.date=2015-01-26&amp;rft.au=Dr+Colin+Tidy&amp;rft_id=http%3A%2F%2Fwww.patient.info%2Fdoctor%2FArterial-Blood-Gases-Indications-and-Interpretation.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArterial+blood+gas+test"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-ABG_interpreter-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-ABG_interpreter_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Baillie K. <a class="external text" href="http://www.prognosis.org/arterial_blood_gas_calculator.php" rel="nofollow">"Arterial Blood Gas Interpreter"</a>. prognosis.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-07-05</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Arterial+Blood+Gas+Interpreter&amp;rft.pub=prognosis.org&amp;rft.au=Baillie+K&amp;rft_id=http%3A%2F%2Fwww.prognosis.org%2Farterial_blood_gas_calculator.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArterial+blood+gas+test"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/> - Online arterial blood gas analysis</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Baillie, JK (2008). "Simple, easily memorised 'rules of thumb' for the rapid assessment of physiological compensation for acid-base disorders". <i>Thorax</i>. <b>63</b> (3): 289–90. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1136%2Fthx.2007.091223" rel="nofollow">10.1136/thx.2007.091223</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18308967" rel="nofollow">18308967</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Thorax&amp;rft.atitle=Simple%2C+easily+memorised+%27rules+of+thumb%27+for+the+rapid+assessment+of+physiological+compensation+for+acid-base+disorders&amp;rft.volume=63&amp;rft.issue=3&amp;rft.pages=289-90&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1136%2Fthx.2007.091223&amp;rft_id=info%3Apmid%2F18308967&amp;rft.aulast=Baillie&amp;rft.aufirst=JK&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArterial+blood+gas+test"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Aaron SD, Vandemheen KL, Naftel SA, Lewis MJ, Rodger MA (2003). "Topical tetracaine prior to arterial puncture: a randomized, placebo-controlled, clinical trial". <i>Respir Med</i>. <b>97</b> (11): 1195–1199. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0954-6111%2803%2900226-9" rel="nofollow">10.1016/S0954-6111(03)00226-9</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14635973" rel="nofollow">14635973</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Respir+Med.&amp;rft.atitle=Topical+tetracaine+prior+to+arterial+puncture%3A+a+randomized%2C+placebo-controlled%2C+clinical+trial&amp;rft.volume=97&amp;rft.issue=11&amp;rft.pages=1195-1199&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1016%2FS0954-6111%2803%2900226-9&amp;rft_id=info%3Apmid%2F14635973&amp;rft.aulast=Aaron&amp;rft.aufirst=SD&amp;rft.au=Vandemheen%2C+KL&amp;rft.au=Naftel%2C+SA&amp;rft.au=Lewis%2C+MJ&amp;rft.au=Rodger%2C+MA&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArterial+blood+gas+test"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book"><a class="external text" href="http://shop.clsi.org/general-lab-documents/GP43-A4.html" rel="nofollow"><i>Procedures for the Collection of Arterial Blood Specimens; Approved Standard—Fourth Edition (Procedures for the Collection of Arterial Blood Specimens; Approved Standard—Fourth Edition )</i></a>. Clinical and Laboratory Standards Institute. 2004. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-56238-545-3" title="Special:BookSources/1-56238-545-3">1-56238-545-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Procedures+for+the+Collection+of+Arterial+Blood+Specimens%3B+Approved+Standard%E2%80%94Fourth+Edition+%28Procedures+for+the+Collection+of+Arterial+Blood+Specimens%3B+Approved+Standard%E2%80%94Fourth+Edition+%29&amp;rft.pub=Clinical+and+Laboratory+Standards+Institute&amp;rft.date=2004&amp;rft.isbn=1-56238-545-3&amp;rft_id=http%3A%2F%2Fshop.clsi.org%2Fgeneral-lab-documents%2FGP43-A4.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArterial+blood+gas+test"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-:0-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Kofstad J (1996). "Blood Gases and Hypothermia: Some Theoretical and Practical Considerations". <i>Scand J Clin Lab Invest. (Suppl)</i>. <b>224</b>: 21–26. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/8865418" rel="nofollow">8865418</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Scand+J+Clin+Lab+Invest.+%28Suppl%29&amp;rft.atitle=Blood+Gases+and+Hypothermia%3A+Some+Theoretical+and+Practical+Considerations&amp;rft.volume=224&amp;rft.pages=21-26&amp;rft.date=1996&amp;rft_id=info%3Apmid%2F8865418&amp;rft.au=Kofstad+J&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArterial+blood+gas+test"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Stoelting: Basics of Anesthesia, 5th ed. p 321.</span>
+</li>
+<li id="cite_note-EduLanche-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-EduLanche_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://edulanche.com/arterial-blood-gas-abg-4-steps" rel="nofollow">"Arterial Blood Gas (ABG) In 4 Steps"</a>. <i>www.edulanche.com/</i>. EduLanche<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-13</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.edulanche.com%2F&amp;rft.atitle=Arterial+Blood+Gas+%28ABG%29+In+4+Steps&amp;rft_id=https%3A%2F%2Fedulanche.com%2Farterial-blood-gas-abg-4-steps&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArterial+blood+gas+test"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-southwest-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-southwest_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-southwest_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-southwest_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="https://web.archive.org/web/19980424232639/http://pathcuric1.swmed.edu/PathDemo/NRRT.htm" rel="nofollow">Normal Reference Range Table</a> from The University of Texas Southwestern Medical Center at Dallas. Used in Interactive Case Study Companion to Pathologic basis of disease.</span>
+</li>
+<li id="cite_note-02_calc-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-02_calc_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Baillie K, Simpson A. <a class="external text" href="http://www.altitude.org/oxygen_levels.php" rel="nofollow">"Altitude oxygen calculator"</a>. Apex (Altitude Physiology Expeditions)<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-08-10</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Altitude+oxygen+calculator&amp;rft.pub=Apex+%28Altitude+Physiology+Expeditions%29&amp;rft.aulast=Baillie&amp;rft.aufirst=K&amp;rft.au=Simpson%2C+A&amp;rft_id=http%3A%2F%2Fwww.altitude.org%2Foxygen_levels.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArterial+blood+gas+test"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/> - Online interactive oxygen delivery calculator</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a class="external text" href="https://web.archive.org/web/20020613020114/http://www.nda.ox.ac.uk/wfsa/html/u13/u1312_03.htm" rel="nofollow">Acid Base Balance (page 3)</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.rcpamanual.edu.au/sections/pathologytest.asp?s=33&amp;i=410" rel="nofollow">RCPA Manual: Base Excess (arterial blood)</a></span>
+</li>
+<li id="cite_note-brookside-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-brookside_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.brooksidepress.org/Products/OperationalMedicine/DATA/operationalmed/Lab/ABG_ArterialBloodGas.htm" rel="nofollow">"ABG (Arterial Blood Gas)"</a>. <i>Brookside Associates</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-02</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Brookside+Associates&amp;rft.atitle=ABG+%28Arterial+Blood+Gas%29&amp;rft_id=http%3A%2F%2Fwww.brooksidepress.org%2FProducts%2FOperationalMedicine%2FDATA%2Foperationalmed%2FLab%2FABG_ArterialBloodGas.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArterial+blood+gas+test"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-co2-molar-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-co2-molar_14-0">^</a></b></span> <span class="reference-text">Derived from molar values using molar mass of 44.010 g/mol</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.meddean.luc.edu/lumen/MedEd/MEDICINE/pulmonar/physio/pf10.htm" rel="nofollow">Hemoglobin and Oxygen Transport. Charles L. Webber, Jr., Ph.D.</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arterial_blood_gas_test&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.prognosis.org/arterial_blood_gas_calculator.php" rel="nofollow">Online arterial blood gas calculator</a></li>
+<li><a class="external text" href="http://www.altitude.org/oxygen_levels.php" rel="nofollow">An online model of arterial blood gas changes with respiration</a></li>
+<li><a class="external text" href="http://www.adamw.org/med/apps/abg.cgi" rel="nofollow">Interactive ABG quiz</a></li>
+<li><a class="external text" href="http://sites.google.com/site/doctorkipp/" rel="nofollow">Practice interpreting sample arterial blood gas presentations</a></li></ul>
+<div aria-labelledby="Cardiopulmonary_therapy" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Cardiopulmonary_therapy" title="Template:Cardiopulmonary therapy"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cardiopulmonary_therapy" title="Template talk:Cardiopulmonary therapy"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cardiopulmonary_therapy&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Cardiopulmonary_therapy" style="font-size:114%;margin:0 4em"><a class="mw-redirect" href="/wiki/Respiratory_therapy" title="Respiratory therapy">Cardiopulmonary therapy</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Medical_diagnosis" title="Medical diagnosis">Diagnostic</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pulmonary_function_testing" title="Pulmonary function testing">Pulmonary function testing</a></li>
+<li><a href="/wiki/Polysomnography" title="Polysomnography">Polysomnography</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Disease" title="Disease">Disease</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Asthma" title="Asthma">Asthma</a></li>
+<li><a href="/wiki/Bronchiectasis" title="Bronchiectasis">Bronchiectasis</a></li>
+<li><a class="mw-redirect" href="/wiki/COPD" title="COPD">COPD</a></li>
+<li><a href="/wiki/Cystic_fibrosis" title="Cystic fibrosis">Cystic fibrosis</a></li>
+<li><a href="/wiki/Tuberculosis" title="Tuberculosis">Tuberculosis</a></li>
+<li><a href="/wiki/Pneumonia" title="Pneumonia">Pneumonia</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Therapy" title="Therapy">Therapy</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hyperinflation_therapy" title="Hyperinflation therapy">Hyperinflation therapy</a></li>
+<li><a href="/wiki/Pulmonary_hygiene" title="Pulmonary hygiene">Pulmonary hygiene</a></li>
+<li><a href="/wiki/Mechanical_ventilation" title="Mechanical ventilation">Mechanical ventilation</a></li>
+<li><a href="/wiki/Oxygen_therapy" title="Oxygen therapy">Oxygen therapy</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">See also</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Template:Health_care" title="Template:Health care">Health care</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Respiratory_physiology" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Respiratory_physiology" title="Template:Respiratory physiology"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Respiratory_physiology" title="Template talk:Respiratory physiology"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Respiratory_physiology&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Respiratory_physiology" style="font-size:114%;margin:0 4em"><a class="mw-redirect" href="/wiki/Respiratory_physiology" title="Respiratory physiology">Respiratory physiology</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Respiration</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Breath" title="Breath">breath</a>
+<ul><li><a href="/wiki/Inhalation" title="Inhalation">inhalation</a></li>
+<li><a href="/wiki/Exhalation" title="Exhalation">exhalation</a></li></ul></li>
+<li><a href="/wiki/Respiratory_rate" title="Respiratory rate">respiratory rate</a></li>
+<li><a href="/wiki/Respirometer" title="Respirometer">respirometer</a></li>
+<li><a href="/wiki/Pulmonary_surfactant" title="Pulmonary surfactant">pulmonary surfactant</a></li>
+<li><a class="mw-redirect" href="/wiki/Pulmonary_compliance" title="Pulmonary compliance">compliance</a></li>
+<li><a href="/wiki/Elastic_recoil" title="Elastic recoil">elastic recoil</a></li>
+<li><a href="/wiki/Hysteresivity" title="Hysteresivity">hysteresivity</a></li>
+<li><a href="/wiki/Airway_resistance" title="Airway resistance">airway resistance</a></li>
+<li>bronchial
+<ul><li><a href="/wiki/Bronchial_hyperresponsiveness" title="Bronchial hyperresponsiveness">hyperresponsiveness</a></li>
+<li><a href="/wiki/Bronchoconstriction" title="Bronchoconstriction">constriction</a></li>
+<li><a href="/wiki/Bronchodilatation" title="Bronchodilatation">dilatation</a></li></ul></li>
+<li><a href="/wiki/Mechanical_ventilation" title="Mechanical ventilation">mechanical ventilation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Control_of_ventilation" title="Control of ventilation">Control</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Pons" title="Pons">pons</a></i>
+<ul><li><a class="mw-redirect" href="/wiki/Pneumotaxic_center" title="Pneumotaxic center">pneumotaxic center</a></li>
+<li><a class="mw-redirect" href="/wiki/Apneustic_center" title="Apneustic center">apneustic center</a></li></ul></li>
+<li><i><a href="/wiki/Medulla_oblongata" title="Medulla oblongata">medulla</a></i>
+<ul><li><a href="/wiki/Dorsal_respiratory_group" title="Dorsal respiratory group">dorsal respiratory group</a></li>
+<li><a href="/wiki/Ventral_respiratory_group" title="Ventral respiratory group">ventral respiratory group</a></li></ul></li>
+<li><i><a href="/wiki/Chemoreceptor" title="Chemoreceptor">chemoreceptors</a></i>
+<ul><li><a href="/wiki/Central_chemoreceptors" title="Central chemoreceptors">central</a></li>
+<li><a href="/wiki/Peripheral_chemoreceptors" title="Peripheral chemoreceptors">peripheral</a></li></ul></li>
+<li><a href="/wiki/Pulmonary_stretch_receptors" title="Pulmonary stretch receptors">pulmonary stretch receptors</a>
+<ul><li><a href="/wiki/Hering%E2%80%93Breuer_reflex" title="Hering–Breuer reflex">Hering–Breuer reflex</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Lung_volumes" title="Lung volumes">Lung volumes</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vital_capacity" title="Vital capacity">VC</a></li>
+<li><a href="/wiki/Functional_residual_capacity" title="Functional residual capacity">FRC</a></li>
+<li><a href="/wiki/Tidal_volume" title="Tidal volume">Vt</a></li>
+<li><a href="/wiki/Dead_space_(physiology)" title="Dead space (physiology)">dead space</a></li>
+<li><a href="/wiki/Closing_capacity" title="Closing capacity">CC</a></li>
+<li><a href="/wiki/Peak_expiratory_flow" title="Peak expiratory flow">PEF</a></li></ul>
+<dl><dt>calculations</dt>
+<dd></dd>
+<dd><a href="/wiki/Respiratory_minute_volume" title="Respiratory minute volume">respiratory minute volume</a></dd>
+<dd><a href="/wiki/FEV1/FVC_ratio" title="FEV1/FVC ratio">FEV1/FVC ratio</a></dd></dl>
+<dl><dt><a class="mw-redirect" href="/wiki/Lung_function_test" title="Lung function test">Lung function tests</a></dt>
+<dd></dd>
+<dd><a href="/wiki/Spirometry" title="Spirometry">spirometry</a></dd>
+<dd><a class="mw-redirect" href="/wiki/Body_plethysmography" title="Body plethysmography">body plethysmography</a></dd>
+<dd><a class="mw-redirect" href="/wiki/Peak_flow_meter" title="Peak flow meter">peak flow meter</a></dd>
+<dd><a href="/wiki/Nitrogen_washout" title="Nitrogen washout">nitrogen washout</a></dd></dl>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Circulation</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pulmonary_circulation" title="Pulmonary circulation">pulmonary circulation</a></li>
+<li><a href="/wiki/Hypoxic_pulmonary_vasoconstriction" title="Hypoxic pulmonary vasoconstriction">hypoxic pulmonary vasoconstriction</a></li>
+<li><a href="/wiki/Pulmonary_shunt" title="Pulmonary shunt">pulmonary shunt</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Interactions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Ventilation_(physiology)" title="Ventilation (physiology)">ventilation (V)</a></li>
+<li><a href="/wiki/Perfusion" title="Perfusion">Perfusion</a> (Q)
+<ul><li><a href="/wiki/Ventilation/perfusion_ratio" title="Ventilation/perfusion ratio">Ventilation/perfusion ratio</a></li>
+<li><a href="/wiki/Ventilation/perfusion_scan" title="Ventilation/perfusion scan">V/Q scan</a></li></ul></li>
+<li><a href="/wiki/Zones_of_the_lung" title="Zones of the lung">zones of the lung</a></li>
+<li><a href="/wiki/Gas_exchange" title="Gas exchange">gas exchange</a></li>
+<li><a href="/wiki/Pulmonary_gas_pressures" title="Pulmonary gas pressures">pulmonary gas pressures</a></li>
+<li><a href="/wiki/Alveolar_gas_equation" title="Alveolar gas equation">alveolar gas equation</a></li>
+<li><a href="/wiki/Alveolar%E2%80%93arterial_gradient" title="Alveolar–arterial gradient">alveolar–arterial gradient</a></li>
+<li><a href="/wiki/Hemoglobin" title="Hemoglobin">hemoglobin</a></li>
+<li><a class="mw-redirect" href="/wiki/Oxygen%E2%80%93haemoglobin_dissociation_curve" title="Oxygen–haemoglobin dissociation curve">oxygen–haemoglobin dissociation curve</a> (<a href="/wiki/Oxygen_saturation" title="Oxygen saturation">Oxygen saturation</a></li>
+<li><a href="/wiki/2,3-Bisphosphoglyceric_acid" title="2,3-Bisphosphoglyceric acid">2,3-BPG</a></li>
+<li><a href="/wiki/Bohr_effect" title="Bohr effect">Bohr effect</a></li>
+<li><a href="/wiki/Haldane_effect" title="Haldane effect">Haldane effect</a>)</li>
+<li><a href="/wiki/Carbonic_anhydrase" title="Carbonic anhydrase">carbonic anhydrase</a> (<a href="/wiki/Chloride_shift" title="Chloride shift">chloride shift</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Oxyhemoglobin" title="Oxyhemoglobin">oxyhemoglobin</a></li>
+<li><a href="/wiki/Respiratory_quotient" title="Respiratory quotient">respiratory quotient</a></li>
+<li><a class="mw-redirect" href="/wiki/Arterial_blood_gas" title="Arterial blood gas">arterial blood gas</a></li>
+<li><a class="mw-redirect" href="/wiki/Diffusion_capacity" title="Diffusion capacity">diffusion capacity</a> (<a href="/wiki/DLCO" title="DLCO">DLCO</a>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Insufficiency</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Effects_of_high_altitude_on_humans" title="Effects of high altitude on humans">high altitude</a></li>
+<li><a href="/wiki/Oxygen_toxicity" title="Oxygen toxicity">oxygen toxicity</a></li>
+<li><a href="/wiki/Hypoxia_(medical)" title="Hypoxia (medical)">hypoxia</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Physiology_of_the_kidneys_and_acid-base_physiology" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Renal_physiology" title="Template:Renal physiology"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Renal_physiology" title="Template talk:Renal physiology"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Renal_physiology&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Physiology_of_the_kidneys_and_acid-base_physiology" style="font-size:114%;margin:0 4em"><a href="/wiki/Renal_physiology" title="Renal physiology">Physiology of the kidneys</a> and <a class="mw-redirect" href="/wiki/Acid-base_physiology" title="Acid-base physiology">acid-base physiology</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Renal_function" title="Renal function">Renal function</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Secretion</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Clearance_(medicine)" title="Clearance (medicine)">clearance</a></li>
+<li><a href="/wiki/Pharmacokinetics" title="Pharmacokinetics">Pharmacokinetics</a></li>
+<li><a class="mw-redirect" href="/wiki/Table_of_medication_secreted_in_kidney" title="Table of medication secreted in kidney">Clearance of medications</a></li>
+<li><a href="/wiki/Urine_flow_rate" title="Urine flow rate">Urine flow rate</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Reabsorption</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Solvent_drag" title="Solvent drag">Solvent drag</a></li>
+<li><a href="/wiki/Renal_sodium_reabsorption" title="Renal sodium reabsorption">sodium</a></li>
+<li><a href="/wiki/Renal_chloride_reabsorption" title="Renal chloride reabsorption">chloride</a></li>
+<li><a href="/wiki/Renal_urea_handling" title="Renal urea handling">urea</a></li>
+<li><a href="/wiki/Renal_glucose_reabsorption" title="Renal glucose reabsorption">glucose</a></li>
+<li><a href="/wiki/Renal_oligopeptide_reabsorption" title="Renal oligopeptide reabsorption">oligopeptides</a></li>
+<li><a href="/wiki/Renal_protein_reabsorption" title="Renal protein reabsorption">protein</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Renal_function" title="Renal function">Renal function</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Glomerular_filtration_rate" title="Glomerular filtration rate">Glomerular filtration rate</a></li>
+<li><a class="mw-redirect" href="/wiki/Creatinine_clearance" title="Creatinine clearance">Creatinine clearance</a></li>
+<li><a href="/wiki/Renal_clearance_ratio" title="Renal clearance ratio">Renal clearance ratio</a></li>
+<li><a href="/wiki/Urea_reduction_ratio" title="Urea reduction ratio">Urea reduction ratio</a></li>
+<li><a href="/wiki/Kt/V" title="Kt/V">Kt/V</a></li>
+<li><a href="/wiki/Standardized_Kt/V" title="Standardized Kt/V">Standardized Kt/V</a></li>
+<li><a class="mw-redirect" href="/wiki/Measures_of_dialysis" title="Measures of dialysis">Measures of dialysis</a>
+<ul><li><a href="/wiki/Hemodialysis_product" title="Hemodialysis product">Hemodialysis product</a></li></ul></li>
+<li><a href="/wiki/PAH_clearance" title="PAH clearance">PAH clearance</a> (<a href="/wiki/Effective_renal_plasma_flow" title="Effective renal plasma flow">Effective renal plasma flow</a></li>
+<li><a href="/wiki/Extraction_ratio" title="Extraction ratio">Extraction ratio</a>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Filtration" title="Filtration">Filtration</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Renal_blood_flow" title="Renal blood flow">Renal blood flow</a></li>
+<li><a href="/wiki/Ultrafiltration_(renal)" title="Ultrafiltration (renal)">Ultrafiltration</a></li>
+<li><a href="/wiki/Countercurrent_exchange" title="Countercurrent exchange">Countercurrent exchange</a></li>
+<li><a href="/wiki/Filtration_fraction" title="Filtration fraction">Filtration fraction</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Hormones</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vasopressin" title="Vasopressin">Antidiuretic hormone</a></li>
+<li><a href="/wiki/Aldosterone" title="Aldosterone">Aldosterone</a></li>
+<li><a href="/wiki/Atrial_natriuretic_peptide" title="Atrial natriuretic peptide">Atrial natriuretic peptide</a></li>
+<li><a href="/wiki/Renin" title="Renin">Renin</a></li>
+<li><a href="/wiki/Erythropoietin" title="Erythropoietin">Erythropoietin</a></li>
+<li><a href="/wiki/Calcitriol" title="Calcitriol">Calcitriol</a></li>
+<li><a href="/wiki/Prostaglandin" title="Prostaglandin">Prostaglandins</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Acid-base_homeostasis" title="Acid-base homeostasis">Acid-base balance</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Fluid_balance" title="Fluid balance">Fluid balance</a></li>
+<li><a href="/wiki/Darrow_Yannet_diagram" title="Darrow Yannet diagram">Darrow Yannet diagram</a></li></ul>
+<p><a href="/wiki/Body_water" title="Body water">Body water</a>: <a href="/wiki/Cytosol" title="Cytosol">Intracellular fluid/Cytosol</a>
+</p>
+<ul><li><a href="/wiki/Extracellular_fluid" title="Extracellular fluid">Extracellular fluid</a></li>
+<li>(<a class="mw-redirect" href="/wiki/Interstitial_fluid" title="Interstitial fluid">Interstitial fluid</a></li>
+<li><a href="/wiki/Blood_plasma" title="Blood plasma">Plasma</a></li>
+<li><a href="/wiki/Transcellular_fluid" title="Transcellular fluid">Transcellular fluid</a>)</li></ul>
+<ul><li><a href="/wiki/Base_excess" title="Base excess">Base excess</a></li>
+<li><a href="/wiki/Davenport_diagram" title="Davenport diagram">Davenport diagram</a></li>
+<li><a href="/wiki/Anion_gap" title="Anion gap">Anion gap</a></li>
+<li><a class="mw-redirect" href="/wiki/Arterial_blood_gas" title="Arterial blood gas">Arterial blood gas</a></li>
+<li><a href="/wiki/Winters%27_formula" title="Winters' formula">Winters' formula</a></li></ul>
+<ul><li>Buffering
+<ul><li><a href="/wiki/Bicarbonate_buffer_system" title="Bicarbonate buffer system">Bicarbonate buffer system</a></li>
+<li><a href="/wiki/Respiratory_compensation" title="Respiratory compensation">Respiratory compensation</a></li>
+<li><a href="/wiki/Renal_compensation" title="Renal compensation">Renal compensation</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Fractional_sodium_excretion" title="Fractional sodium excretion">Fractional sodium excretion</a></li>
+<li><a href="/wiki/BUN-to-creatinine_ratio" title="BUN-to-creatinine ratio">BUN-to-creatinine ratio</a></li>
+<li><a href="/wiki/Tubuloglomerular_feedback" title="Tubuloglomerular feedback">Tubuloglomerular feedback</a></li>
+<li><a href="/wiki/Natriuresis" title="Natriuresis">Natriuresis</a></li>
+<li><a href="/wiki/Urine" title="Urine">Urine</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Common_for_blood_tests_(CPT_82000–84999)" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="text-align: center;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Clinical_biochemistry_blood_tests" title="Template:Clinical biochemistry blood tests"><abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Clinical_biochemistry_blood_tests" title="Template talk:Clinical biochemistry blood tests"><abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Clinical_biochemistry_blood_tests&amp;action=edit"><abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Common_for_blood_tests_(CPT_82000–84999)" style="font-size:114%;margin:0 4em">Common for <a href="/wiki/Blood_test" title="Blood test">blood tests</a> (<a href="/wiki/Current_Procedural_Terminology" title="Current Procedural Terminology">CPT</a> 82000–84999)</div></th></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Electrolyte" title="Electrolyte">Electrolytes</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Serum_sodium" title="Serum sodium">Sodium</a></li>
+<li><a href="/wiki/Potassium_in_biology" title="Potassium in biology">Potassium</a></li>
+<li><a href="/wiki/Serum_chloride" title="Serum chloride">Chloride</a></li>
+<li><a href="/wiki/Calcium_in_biology" title="Calcium in biology">Calcium</a></li>
+<li><a href="/wiki/Renal_function" title="Renal function">Renal function</a>
+<ul><li><a href="/wiki/Creatinine" title="Creatinine">Creatinine</a></li>
+<li><a href="/wiki/Blood_urea_nitrogen" title="Blood urea nitrogen">Urea</a></li>
+<li><a href="/wiki/BUN-to-creatinine_ratio" title="BUN-to-creatinine ratio">BUN-to-creatinine ratio</a></li></ul></li>
+<li><a href="/wiki/Plasma_osmolality" title="Plasma osmolality">Plasma osmolality</a></li>
+<li><a class="mw-redirect" href="/wiki/Serum_osmolal_gap" title="Serum osmolal gap">Serum osmolal gap</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Acid%E2%80%93base_homeostasis" title="Acid–base homeostasis">Acid-base</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anion_gap" title="Anion gap">Anion gap</a></li>
+<li><a class="mw-redirect" href="/wiki/Arterial_blood_gas" title="Arterial blood gas">Arterial blood gas</a></li>
+<li><a href="/wiki/Base_excess" title="Base excess">Base excess</a></li>
+<li><a href="/wiki/Bicarbonate" title="Bicarbonate">Bicarbonate</a></li>
+<li><a href="/wiki/CO2_content" title="CO2 content">CO<sub>2</sub> content</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Iron_tests" title="Iron tests">Iron tests</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ferritin" title="Ferritin">Ferritin</a></li>
+<li><a href="/wiki/Serum_iron" title="Serum iron">Serum iron</a></li>
+<li><a href="/wiki/Transferrin_saturation" title="Transferrin saturation">Transferrin saturation</a></li>
+<li><a href="/wiki/Total_iron-binding_capacity" title="Total iron-binding capacity">Total iron-binding capacity</a></li>
+<li><a href="/wiki/Transferrin" title="Transferrin">Transferrin</a></li>
+<li><a href="/wiki/Transferrin_receptor" title="Transferrin receptor">Transferrin receptor</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Endocrine_system" title="Endocrine system">Hormones</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ACTH_stimulation_test" title="ACTH stimulation test">ACTH stimulation test</a></li>
+<li><a href="/wiki/Thyroid_function_tests" title="Thyroid function tests">Thyroid function tests</a>
+<ul><li><a href="/wiki/Thyroid-stimulating_hormone" title="Thyroid-stimulating hormone">Thyroid-stimulating hormone</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Metabolism" title="Metabolism">Metabolism</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blood_lipids" title="Blood lipids">Blood lipids</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a class="mw-redirect" href="/wiki/Cardiovascular_system" title="Cardiovascular system">Cardiovascular</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cardiac_marker" title="Cardiac marker">Cardiac marker</a>
+<ul><li><a class="mw-redirect" href="/wiki/Troponin_test" title="Troponin test">Troponin test</a></li></ul></li>
+<li><a href="/wiki/CPK-MB_test" title="CPK-MB test">CPK-MB test</a></li>
+<li><a href="/wiki/Lactate_dehydrogenase" title="Lactate dehydrogenase">Lactate dehydrogenase</a></li>
+<li><a href="/wiki/Myoglobin" title="Myoglobin">Myoglobin</a></li>
+<li><a href="/wiki/Glycogen_phosphorylase_isoenzyme_BB" title="Glycogen phosphorylase isoenzyme BB">Glycogen phosphorylase isoenzyme BB</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Liver_function_tests" title="Liver function tests">Liver function tests</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Proteins
+<ul><li><a href="/wiki/Human_serum_albumin" title="Human serum albumin">Human serum albumin</a></li>
+<li><a href="/wiki/Serum_total_protein" title="Serum total protein">Serum total protein</a></li></ul></li>
+<li><a href="/wiki/Alkaline_phosphatase" title="Alkaline phosphatase">ALP</a></li>
+<li><i><a href="/wiki/Transaminase" title="Transaminase">transaminases</a></i>
+<ul><li><a href="/wiki/Alanine_transaminase" title="Alanine transaminase">ALT</a></li>
+<li><a href="/wiki/Aspartate_transaminase" title="Aspartate transaminase">AST</a></li>
+<li><a href="/wiki/AST/ALT_ratio" title="AST/ALT ratio">AST/ALT ratio</a></li></ul></li>
+<li><a href="/wiki/Bilirubin" title="Bilirubin">Bilirubin</a>
+<ul><li><a href="/wiki/Bilirubin#Unconjugated" title="Bilirubin">Unconjugated</a></li>
+<li><a href="/wiki/Bilirubin#Conjugated" title="Bilirubin">Conjugated</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Pancreas" title="Pancreas">Pancreas</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amylase" title="Amylase">Amylase</a></li>
+<li><a href="/wiki/Lipase" title="Lipase">Lipase</a>
+<ul><li><a class="mw-redirect" href="/wiki/Pancreatic_lipase" title="Pancreatic lipase">Pancreatic lipase</a></li></ul></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2163
+Cached time: 20181005181641
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.492 seconds
+Real time usage: 0.607 seconds
+Preprocessor visited node count: 1990/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 96179/2097152 bytes
+Template argument size: 3337/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 27378/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.203/10.000 seconds
+Lua memory usage: 5.35 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  396.476      1 -total
+ 44.69%  177.186      1 Template:Reflist
+ 24.45%   96.931      5 Template:Cite_web
+ 13.28%   52.665      3 Template:Cite_journal
+ 10.28%   40.770      1 Template:Why?
+  9.67%   38.344      1 Template:Infobox_diagnostic
+  8.96%   35.509      1 Template:Infobox
+  8.74%   34.664      1 Template:Fix
+  8.09%   32.066      5 Template:Navbox
+  7.17%   28.415      2 Template:Cvt
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:304227-0!canonical!math=5 and timestamp 20181005181640 and revision id 862641723
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Arterial_blood_gas_test&amp;oldid=862641723">https://en.wikipedia.org/w/index.php?title=Arterial_blood_gas_test&amp;oldid=862641723</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Respiratory_physiology" title="Category:Respiratory physiology">Respiratory physiology</a></li><li><a href="/wiki/Category:Blood_tests" title="Category:Blood tests">Blood tests</a></li><li><a href="/wiki/Category:Respiratory_therapy" title="Category:Respiratory therapy">Respiratory therapy</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_July_2018" title="Category:Wikipedia articles needing clarification from July 2018">Wikipedia articles needing clarification from July 2018</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Arterial+blood+gas+test" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Arterial+blood+gas+test" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Arterial_blood_gas_test" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Arterial_blood_gas_test" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Arterial_blood_gas_test">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Arterial_blood_gas_test&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Arterial_blood_gas_test&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Arterial_blood_gas_test" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Arterial_blood_gas_test" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Arterial_blood_gas_test&amp;oldid=862641723" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Arterial_blood_gas_test&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q648497" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Arterial_blood_gas_test&amp;id=862641723" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Arterial+blood+gas+test">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Arterial+blood+gas+test&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Arterial_blood_gas_test&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Arterial_blood_gas_test" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA_%D8%A7%D9%84%D8%AF%D9%85_%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%A7%D9%86%D9%8A" hreflang="ar" lang="ar" title="غازات الدم الشرياني – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Gasometria_arterial" hreflang="ca" lang="ca" title="Gasometria arterial – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Blutgasanalyse" hreflang="de" lang="de" title="Blutgasanalyse – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Gasometr%C3%ADa_arterial" hreflang="es" lang="es" title="Gasometría arterial – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%AF%D8%A7%D8%B2_%D8%AE%D9%88%D9%86_%D8%B4%D8%B1%DB%8C%D8%A7%D9%86%DB%8C" hreflang="fa" lang="fa" title="گاز خون شریانی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Gazom%C3%A9trie_art%C3%A9rielle" hreflang="fr" lang="fr" title="Gazométrie artérielle – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Emogasanalisi" hreflang="it" lang="it" title="Emogasanalisi – Italian">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Bloedgas" hreflang="nl" lang="nl" title="Bloedgas – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%A1%80%E6%B6%B2%E3%82%AC%E3%82%B9%E5%88%86%E6%9E%90" hreflang="ja" lang="ja" title="血液ガス分析 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Blodgassanalyse" hreflang="no" lang="no" title="Blodgassanalyse – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Gazometria" hreflang="pl" lang="pl" title="Gazometria – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Gasometria_arterial" hreflang="pt" lang="pt" title="Gasometria arterial – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Gazometrie_sanguin%C4%83" hreflang="ro" lang="ro" title="Gazometrie sanguină – Romanian">Română</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%93%D0%B0%D1%81%D0%BD%D0%B5_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B5" hreflang="sr" lang="sr" title="Гасне анализе – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Blodgas" hreflang="sv" lang="sv" title="Blodgas – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Kan_gaz%C4%B1_analizi" hreflang="tr" lang="tr" title="Kan gazı analizi – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Kh%C3%AD_m%C3%A1u_%C4%91%E1%BB%99ng_m%E1%BA%A1ch" hreflang="vi" lang="vi" title="Khí máu động mạch – Vietnamese">Tiếng Việt</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q648497#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 5 October 2018, at 18:16<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Arterial_blood_gas_test&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.492","walltime":"0.607","ppvisitednodes":{"value":1990,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":96179,"limit":2097152},"templateargumentsize":{"value":3337,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":27378,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  396.476      1 -total"," 44.69%  177.186      1 Template:Reflist"," 24.45%   96.931      5 Template:Cite_web"," 13.28%   52.665      3 Template:Cite_journal"," 10.28%   40.770      1 Template:Why?","  9.67%   38.344      1 Template:Infobox_diagnostic","  8.96%   35.509      1 Template:Infobox","  8.74%   34.664      1 Template:Fix","  8.09%   32.066      5 Template:Navbox","  7.17%   28.415      2 Template:Cvt"]},"scribunto":{"limitreport-timeusage":{"value":"0.203","limit":"10.000"},"limitreport-memusage":{"value":5604666,"limit":52428800}},"cachereport":{"origin":"mw2163","timestamp":"20181005181641","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw2258"});});</script>
+</body>
+</html>

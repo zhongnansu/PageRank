@@ -1,0 +1,756 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Reduction potential - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Reduction_potential","wgTitle":"Reduction potential","wgCurRevisionId":851121604,"wgRevisionId":851121604,"wgArticleId":2234192,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from October 2011","All articles needing additional references","Wikipedia articles needing clarification from February 2012","All articles with unsourced statements","Articles with unsourced statements from April 2012","Articles needing additional references from May 2008","Electrochemistry","Potentials"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Reduction_potential","wgRelevantArticleId":2234192,"wgRequestId":"W7faTQrAIDgAAIVkG0IAAAAB","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q186487","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Reduction_potential" rel="alternate"/>
+<link href="/w/index.php?title=Reduction_potential&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Reduction_potential&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Reduction_potential" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Reduction_potential rootpage-Reduction_potential skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Reduction potential</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-one_source" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="Question book-new.svg" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>relies largely or entirely on a single <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">source</a></b>.<span class="hide-when-compact"> Relevant discussion may be found on the <a href="/wiki/Talk:Reduction_potential##" title="Talk:Reduction potential">talk page</a>. Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Reduction_potential&amp;action=edit">improve this article</a> by introducing <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> to additional sources.</span> <small><i>(October 2011)</i></small></div></td></tr></tbody></table>
+<p><b>Reduction potential</b> (also known as <b>redox potential</b>, <b>oxidation / reduction potential</b>, <b>ORP</b>, <b>pE</b>, <b>ε</b>, or <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{h}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{h}}</annotation>
+</semantics>
+</math></span><img alt="E_{{h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa200246fd00460ad123dd7140dc00eb537d8cc0" style="vertical-align: -0.671ex; width:2.894ex; height:2.509ex;"/></span>) is a measure of the tendency of a <a href="/wiki/Chemical_species" title="Chemical species">chemical species</a> to acquire <a href="/wiki/Electron" title="Electron">electrons</a> and thereby be <a href="/wiki/Redox" title="Redox">reduced</a>. Reduction potential is measured in <a href="/wiki/Volt" title="Volt">volts</a> (V), or millivolts (mV).  Each species has its own intrinsic reduction potential; the more positive the potential, the greater the species' affinity for electrons and tendency to be reduced.  ORP is a common measurement for water quality.<sup class="reference" id="cite_ref-suslow_1-0"><a href="#cite_note-suslow-1">[1]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Measurement_and_interpretation"><span class="tocnumber">1</span> <span class="toctext">Measurement and interpretation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Explanation"><span class="tocnumber">2</span> <span class="toctext">Explanation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Standard_reduction_potential"><span class="tocnumber">3</span> <span class="toctext">Standard reduction potential</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Half_cells"><span class="tocnumber">4</span> <span class="toctext">Half cells</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Nernst_equation"><span class="tocnumber">5</span> <span class="toctext">Nernst equation</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Biochemistry"><span class="tocnumber">6</span> <span class="toctext">Biochemistry</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Environmental_chemistry"><span class="tocnumber">7</span> <span class="toctext">Environmental chemistry</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Water_quality"><span class="tocnumber">8</span> <span class="toctext">Water quality</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Geology"><span class="tocnumber">9</span> <span class="toctext">Geology</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Weblinks"><span class="tocnumber">11</span> <span class="toctext">Weblinks</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Additional_notes"><span class="tocnumber">13</span> <span class="toctext">Additional notes</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">14</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Measurement_and_interpretation">Measurement and interpretation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reduction_potential&amp;action=edit&amp;section=1" title="Edit section: Measurement and interpretation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Aqueous_solution" title="Aqueous solution">aqueous solutions</a>,   reduction potential is a measure of the tendency of the solution to either gain or lose electrons when it is subjected to change by introduction of a new species. A solution with a higher (more positive) reduction potential than the new species will have a tendency to gain electrons from the new species (i.e. to be reduced by oxidizing the new species) and a solution with a lower (more negative) reduction potential will have a tendency to lose electrons to the new species (i.e. to be oxidized by reducing the new species). 
+Because the <a href="/wiki/Absolute_electrode_potential" title="Absolute electrode potential">absolute potentials</a> are difficult to accurately measure, reduction potentials are defined relative to a reference electrode.  Reduction potentials of aqueous solutions are determined by measuring the potential difference between an inert sensing electrode in contact with the solution and a stable reference electrode connected to the solution by a <a href="/wiki/Salt_bridge" title="Salt bridge">salt bridge</a>.<sup class="reference" id="cite_ref-Environmental_Chemistry_(vanLoon)_2-0"><a href="#cite_note-Environmental_Chemistry_(vanLoon)-2">[2]</a></sup>
+</p><p>The sensing electrode acts as a platform for electron transfer to or from the reference <a class="mw-redirect" href="/wiki/Half_cell" title="Half cell">half cell</a>. It is typically <a href="/wiki/Platinum" title="Platinum">platinum</a>, although <a href="/wiki/Gold" title="Gold">gold</a> and <a href="/wiki/Graphite" title="Graphite">graphite</a> can be used as well. The reference half cell consists of a redox standard of known potential.  The <a href="/wiki/Standard_hydrogen_electrode" title="Standard hydrogen electrode">standard hydrogen electrode</a> (SHE) is the reference from which all standard redox potentials are determined and has been assigned an arbitrary half cell potential of 0.0 mV. However, it is fragile and impractical for routine laboratory use.  Therefore, other more stable reference electrodes such as <a href="/wiki/Silver_chloride_electrode" title="Silver chloride electrode">silver chloride</a> and <a href="/wiki/Saturated_calomel_electrode" title="Saturated calomel electrode">saturated calomel</a> (SCE) are commonly used because of their more reliable performance.
+</p><p>Although measurement of the reduction potential in aqueous solutions is relatively straightforward, many factors limit its interpretation, such as effects of solution temperature and pH, <a href="/wiki/Reversible_reaction" title="Reversible reaction">irreversible reactions</a>, slow electrode kinetics, non-equilibrium, presence of multiple redox couples, electrode poisoning, small exchange currents and inert redox couples. Consequently, practical measurements seldom correlate with calculated values. Nevertheless, reduction potential measurement has proven useful as an analytical tool in monitoring changes in a system rather than determining their absolute value (e.g. process control and <a href="/wiki/Titration" title="Titration">titrations</a>).
+</p>
+<h2><span class="mw-headline" id="Explanation">Explanation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reduction_potential&amp;action=edit&amp;section=2" title="Edit section: Explanation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Just as the transfer of <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> ions between chemical species determines the <a href="/wiki/PH" title="PH">pH</a> of an aqueous solution, the transfer of electrons between chemical species determines the reduction potential of an aqueous solution. Like pH, the reduction potential represents how strongly electrons are transferred to or from species in solution. It does not characterize the amount of electrons available for oxidation or reduction, in much the same way that pH does not characterize the buffering capacity.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (February 2012)">clarification needed</span></a></i>]</sup>
+</p><p>In fact, it is possible to define pE, the negative logarithm of electron concentration (-log[e]) in a solution, which will be directly proportional to the redox potential.<sup class="reference" id="cite_ref-Environmental_Chemistry_(vanLoon)_2-1"><a href="#cite_note-Environmental_Chemistry_(vanLoon)-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Sometimes pE is used as a unit of reduction potential instead of Eh, for example in environmental chemistry.<sup class="reference" id="cite_ref-Environmental_Chemistry_(vanLoon)_2-2"><a href="#cite_note-Environmental_Chemistry_(vanLoon)-2">[2]</a></sup> If we normalize pE of hydrogen to zero, we will have the relation pE=16.9 Eh at room temperature. This point of view is useful for understanding redox potential, although the transfer of electrons, rather than the absolute concentration of free electrons in thermal equilibrium, is how one usually thinks of redox potential. Theoretically, however, the two approaches are equivalent.
+</p><p>Conversely, one could define a potential corresponding to pH as a potential difference between a solute and pH neutral water, separated by porous membrane (that is permeable to hydrogen ions). Such potential differences actually do occur from differences in acidity on biological membranes. This potential (where pH neutral water is set to 0 V) is analogous with redox potential (where standardized hydrogen solution is set to 0 V), but instead of hydrogen ions, electrons are transferred across in the redox case. Both pH and redox potentials are properties of solutions, not of elements or chemical compounds per se, and depend on concentrations, temperature etc.
+</p>
+<h2><span class="mw-headline" id="Standard_reduction_potential">Standard reduction potential</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reduction_potential&amp;action=edit&amp;section=3" title="Edit section: Standard reduction potential">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Standard_hydrogen_electrode" title="Standard hydrogen electrode">Standard hydrogen electrode</a></div>
+<p>The standard reduction potential (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{0}}</annotation>
+</semantics>
+</math></span><img alt="E_{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/411d268de7b1cf300d7481e3fe59f3b20887e0d0" style="vertical-align: -0.671ex; width:2.769ex; height:2.509ex;"/></span>) is measured under <a class="mw-redirect" href="/wiki/Standard_conditions" title="Standard conditions">standard conditions</a>: 25 <a href="/wiki/Celsius" title="Celsius">°C</a>, a 1 <a class="mw-redirect" href="/wiki/Activity_(chemistry)" title="Activity (chemistry)">activity</a> for each <a href="/wiki/Ion" title="Ion">ion</a> participating in the <a href="/wiki/Chemical_reaction" title="Chemical reaction">reaction</a>, a <a href="/wiki/Partial_pressure" title="Partial pressure">partial pressure</a> of 1 <a href="/wiki/Bar_(unit)" title="Bar (unit)">bar</a> for each <a href="/wiki/Gas" title="Gas">gas</a> that is part of the reaction, and <a href="/wiki/Metal" title="Metal">metals</a> in their pure state.  The standard reduction potential is defined relative to a <a href="/wiki/Standard_hydrogen_electrode" title="Standard hydrogen electrode">standard hydrogen electrode</a> (SHE) reference electrode, which is arbitrarily given a potential of 0.00 V. However, because these can also be referred to as "redox potentials", the terms "reduction potentials" and "oxidation potentials" are preferred by the IUPAC. The two may be explicitly distinguished in symbols as <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{0}^{r}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{0}^{r}}</annotation>
+</semantics>
+</math></span><img alt="E_{{0}}^{{r}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffa2051723ea094bedb7c65b462b6288352b0882" style="vertical-align: -1.005ex; width:2.769ex; height:2.843ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{0}^{o}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>o</mi>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{0}^{o}}</annotation>
+</semantics>
+</math></span><img alt="E_{{0}}^{{o}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8ecc4feaf61325254aa6c1e8bd52f94606d6bc51" style="vertical-align: -1.005ex; width:2.823ex; height:2.843ex;"/></span>.
+</p>
+<h2><span class="mw-headline" id="Half_cells">Half cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reduction_potential&amp;action=edit&amp;section=4" title="Edit section: Half cells">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The relative <a href="/wiki/Reactivity_(chemistry)" title="Reactivity (chemistry)">reactivities</a> of different <a class="mw-redirect" href="/wiki/Half_cell" title="Half cell">half cells</a> can be compared to predict the direction of electron flow. A higher <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{0}}</annotation>
+</semantics>
+</math></span><img alt="E_{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/411d268de7b1cf300d7481e3fe59f3b20887e0d0" style="vertical-align: -0.671ex; width:2.769ex; height:2.509ex;"/></span> means there is a greater tendency for reduction to occur, while a lower one means there is a greater tendency for oxidation to occur.
+</p><p>Any system or environment that accepts electrons from a normal hydrogen electrode is a half cell that is defined as having a positive redox potential; any system donating electrons to the hydrogen electrode is defined as having a negative redox potential. <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{h}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{h}}</annotation>
+</semantics>
+</math></span><img alt="E_{{h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa200246fd00460ad123dd7140dc00eb537d8cc0" style="vertical-align: -0.671ex; width:2.894ex; height:2.509ex;"/></span> is measured in millivolts (mV). A high positive <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{h}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{h}}</annotation>
+</semantics>
+</math></span><img alt="E_{{h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa200246fd00460ad123dd7140dc00eb537d8cc0" style="vertical-align: -0.671ex; width:2.894ex; height:2.509ex;"/></span> indicates an environment that favors oxidation reaction such as free <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>. A low negative <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{h}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{h}}</annotation>
+</semantics>
+</math></span><img alt="E_{{h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa200246fd00460ad123dd7140dc00eb537d8cc0" style="vertical-align: -0.671ex; width:2.894ex; height:2.509ex;"/></span> indicates a strong reducing environment, such as free metals.
+</p><p>Sometimes when <a href="/wiki/Electrolysis" title="Electrolysis">electrolysis</a> is carried out in an <a href="/wiki/Aqueous_solution" title="Aqueous solution">aqueous solution</a>, water, rather than the solute, is oxidized or reduced. For example, if an aqueous solution of <a href="/wiki/Sodium_chloride" title="Sodium chloride">NaCl</a> is electrolyzed, water may be reduced at the <a href="/wiki/Cathode" title="Cathode">cathode</a> to produce <a href="/wiki/Hydrogen" title="Hydrogen">H<sub>2(g)</sub></a> and <a href="/wiki/Hydroxide" title="Hydroxide">OH<sup>−</sup></a> ions, instead of Na<sup>+</sup> being reduced to <a href="/wiki/Sodium" title="Sodium">Na</a><sub>(s)</sub>, as occurs in the absence of water. It is the reduction potential of each species present that will determine which species will be oxidized or reduced.
+</p><p>Absolute reduction potentials can be determined if we find the actual potential between electrode and electrolyte for any one reaction. Surface polarization interferes with measurements, but various sources give an estimated potential for the standard hydrogen electrode of 4.4 V to 4.6 V (the electrolyte being positive.)
+</p><p>Half-cell equations can be combined if one is reversed to an oxidation in a manner that cancels out the electrons to obtain an equation without electrons in it.
+</p>
+<h2><span class="mw-headline" id="Nernst_equation">Nernst equation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reduction_potential&amp;action=edit&amp;section=5" title="Edit section: Nernst equation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Nernst_equation" title="Nernst equation">Nernst equation</a></div>
+<p>The <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{h}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{h}}</annotation>
+</semantics>
+</math></span><img alt="E_{{h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa200246fd00460ad123dd7140dc00eb537d8cc0" style="vertical-align: -0.671ex; width:2.894ex; height:2.509ex;"/></span> and <a href="/wiki/PH" title="PH">pH</a> of a solution are related.  For a <a class="mw-redirect" href="/wiki/Half_cell" title="Half cell">half cell</a> equation, conventionally written as reduction (electrons on the left side):
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle aA+bB+n[e^{-}]+h[{{\ce {H+}}}]=cC+dD}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+<mi>A</mi>
+<mo>+</mo>
+<mi>b</mi>
+<mi>B</mi>
+<mo>+</mo>
+<mi>n</mi>
+<mo stretchy="false">[</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msup>
+<mo stretchy="false">]</mo>
+<mo>+</mo>
+<mi>h</mi>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mo stretchy="false">]</mo>
+<mo>=</mo>
+<mi>c</mi>
+<mi>C</mi>
+<mo>+</mo>
+<mi>d</mi>
+<mi>D</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle aA+bB+n[e^{-}]+h[{{\ce {H+}}}]=cC+dD}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle aA+bB+n[e^{-}]+h[{\ce {H+}}]=cC+dD}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8eca87edfb6d0e6b8d746920061d325a4679dc8e" style="vertical-align: -0.838ex; width:37.277ex; height:3.009ex;"/></span></dd></dl>
+<p>The half cell <a href="/wiki/Standard_electrode_potential" title="Standard electrode potential">standard potential</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{0}}</annotation>
+</semantics>
+</math></span><img alt="E_{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/411d268de7b1cf300d7481e3fe59f3b20887e0d0" style="vertical-align: -0.671ex; width:2.769ex; height:2.509ex;"/></span> is given by:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{0}({\textrm {volts}})=-{\frac {\Delta G^{\ominus }}{nF}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>volts</mtext>
+</mrow>
+</mrow>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msup>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>⊖<!-- ⊖ --></mo>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mi>n</mi>
+<mi>F</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{0}({\textrm {volts}})=-{\frac {\Delta G^{\ominus }}{nF}}}</annotation>
+</semantics>
+</math></span><img alt="E_{{0}}({\textrm  {volts}})=-{\frac  {\Delta G^{\ominus }}{nF}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/da7fdf623cd04833ce9c09b606ea2ab4be925c51" style="vertical-align: -1.838ex; width:20.453ex; height:5.509ex;"/></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta G^{\ominus }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msup>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>⊖<!-- ⊖ --></mo>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta G^{\ominus }}</annotation>
+</semantics>
+</math></span><img alt="\Delta G^{\ominus }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/783df781bd2cde06d7956470e952c27226a4e203" style="vertical-align: -0.338ex; width:5.273ex; height:2.509ex;"/></span> is the standard <a href="/wiki/Gibbs_free_energy" title="Gibbs free energy">Gibbs free energy</a> change, <span class="texhtml mvar" style="font-style:italic;">n</span> is the number of electrons involved, and <span class="texhtml mvar" style="font-style:italic;">F</span> is <a class="mw-redirect" href="/wiki/Faraday%27s_constant" title="Faraday's constant">Faraday's constant</a>. The Nernst equation relates pH and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{h}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{h}}</annotation>
+</semantics>
+</math></span><img alt="E_{{h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa200246fd00460ad123dd7140dc00eb537d8cc0" style="vertical-align: -0.671ex; width:2.894ex; height:2.509ex;"/></span>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{h}=E_{0}+{\frac {0.05916}{n}}\log \left({\frac {\{A\}^{a}\{B\}^{b}}{\{C\}^{c}\{D\}^{d}}}\right)-{\frac {0.05916h}{n}}{\text{pH}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>0.05916</mn>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<mi>log</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo fence="false" stretchy="false">{</mo>
+<mi>A</mi>
+<msup>
+<mo fence="false" stretchy="false">}</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msup>
+<mo fence="false" stretchy="false">{</mo>
+<mi>B</mi>
+<msup>
+<mo fence="false" stretchy="false">}</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mo fence="false" stretchy="false">{</mo>
+<mi>C</mi>
+<msup>
+<mo fence="false" stretchy="false">}</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msup>
+<mo fence="false" stretchy="false">{</mo>
+<mi>D</mi>
+<msup>
+<mo fence="false" stretchy="false">}</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>0.05916</mn>
+<mi>h</mi>
+</mrow>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>pH</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{h}=E_{0}+{\frac {0.05916}{n}}\log \left({\frac {\{A\}^{a}\{B\}^{b}}{\{C\}^{c}\{D\}^{d}}}\right)-{\frac {0.05916h}{n}}{\text{pH}}}</annotation>
+</semantics>
+</math></span><img alt="E_{{h}}=E_{{0}}+{\frac  {0.05916}{n}}\log \left({\frac  {\{A\}^{{a}}\{B\}^{{b}}}{\{C\}^{{c}}\{D\}^{{d}}}}\right)-{\frac  {0.05916h}{n}}{\text{pH}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f4cffa5cc180b694b27d1cd91a45f715384fc31a" style="vertical-align: -3.171ex; width:53.986ex; height:7.509ex;"/></span></dd></dl>
+<p>where curly brackets indicate <a class="mw-redirect" href="/wiki/Activity_(chemistry)" title="Activity (chemistry)">activities</a> and exponents are shown in the conventional manner. This equation is the equation of a straight line for <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{h}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{h}}</annotation>
+</semantics>
+</math></span><img alt="E_{{h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa200246fd00460ad123dd7140dc00eb537d8cc0" style="vertical-align: -0.671ex; width:2.894ex; height:2.509ex;"/></span> as a function of pH with a slope of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle -0.05916h/n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>−<!-- − --></mo>
+<mn>0.05916</mn>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>n</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle -0.05916h/n}</annotation>
+</semantics>
+</math></span><img alt="-0.05916h/n" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/072205cd4d0d4c6718fe0af64f7d7ccad5353fe8" style="vertical-align: -0.838ex; width:13.326ex; height:2.843ex;"/></span> volt (pH has no units.)  This equation predicts lower <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{h}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{h}}</annotation>
+</semantics>
+</math></span><img alt="E_{{h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa200246fd00460ad123dd7140dc00eb537d8cc0" style="vertical-align: -0.671ex; width:2.894ex; height:2.509ex;"/></span> at higher pH values.  This is observed for reduction of O<sub>2</sub> to OH<sup>−</sup> and for reduction of H<sup>+</sup> to H<sub>2</sub>.  If H<sup>+</sup> were on the opposite side of the equation from H<sup>+</sup>, the slope of the line  would be reversed (higher <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{h}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{h}}</annotation>
+</semantics>
+</math></span><img alt="E_{{h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa200246fd00460ad123dd7140dc00eb537d8cc0" style="vertical-align: -0.671ex; width:2.894ex; height:2.509ex;"/></span> at higher pH).  
+An example of that would be the formation of <a href="/wiki/Magnetite" title="Magnetite">magnetite</a> (Fe<sub>3</sub>O<sub>4</sub>) from HFeO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2 (aq)</sub></span>:<sup class="reference" id="cite_ref-garrels_4-0"><a href="#cite_note-garrels-4">[4]</a></sup>
+</p>
+<dl><dd>3 <span class="chemf nowrap">HFeO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>  +  H<sup>+</sup>  =  Fe<sub>3</sub>O<sub>4</sub>  +  2 H<sub>2</sub>O  +  2 [[e<sup>−</sup>]]</dd></dl>
+<p>where <span class="texhtml"><i>E<sub>h</sub></i> = −1.1819 − 0.0885 log([<span class="chemf nowrap">HFeO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>]<sup>3</sup>) + 0.0296 pH</span>.  Note that the slope of the line is −1/2 the −0.05916 value above, since <span class="texhtml"><i>h</i>/<i>n</i> = −1/2</span>.
+</p>
+<h2><span class="mw-headline" id="Biochemistry">Biochemistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reduction_potential&amp;action=edit&amp;section=6" title="Edit section: Biochemistry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many <a href="/wiki/Enzyme" title="Enzyme">enzymatic</a> reactions are oxidation-reduction reactions in which one compound is oxidized and another compound is reduced. The ability of an organism to carry out oxidation-reduction reactions depends on the oxidation-reduction state of the environment, or its reduction potential (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{h}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{h}}</annotation>
+</semantics>
+</math></span><img alt="E_{{h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa200246fd00460ad123dd7140dc00eb537d8cc0" style="vertical-align: -0.671ex; width:2.894ex; height:2.509ex;"/></span>).
+</p><p>Strictly <a class="mw-redirect" href="/wiki/Aerobe" title="Aerobe">aerobic microorganisms</a> are generally active at positive <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{h}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{h}}</annotation>
+</semantics>
+</math></span><img alt="E_{{h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa200246fd00460ad123dd7140dc00eb537d8cc0" style="vertical-align: -0.671ex; width:2.894ex; height:2.509ex;"/></span> values, whereas strict <a class="mw-redirect" href="/wiki/Anaerobe" title="Anaerobe">anaerobes</a> are generally active at negative <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{h}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{h}}</annotation>
+</semantics>
+</math></span><img alt="E_{{h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa200246fd00460ad123dd7140dc00eb537d8cc0" style="vertical-align: -0.671ex; width:2.894ex; height:2.509ex;"/></span> values. Redox affects the solubility of <a href="/wiki/Nutrient" title="Nutrient">nutrients</a>, especially metal ions.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p><p>There are organisms that can adjust their metabolism to their environment, such as facultative anaerobes.  Facultative anaerobes can be active at positive Eh values, and at negative Eh values in the presence of oxygen bearing inorganic compounds, such as nitrates and sulfates.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2012)">citation needed</span></a></i>]</sup>
+</p>
+<h2><span class="mw-headline" id="Environmental_chemistry">Environmental chemistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reduction_potential&amp;action=edit&amp;section=7" title="Edit section: Environmental chemistry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Pourbaix_diagram" title="Pourbaix diagram">Pourbaix diagram</a></div>
+<p>In the field of environmental chemistry, the reduction potential is used to determine if oxidizing or reducing conditions are prevalent in water or soil, and to <a href="/wiki/Pourbaix_diagram" title="Pourbaix diagram">predict the states of different chemical species in the water</a>, such as dissolved metals. pE values in water range from -12 to 25; the levels where the water itself becomes reduced or oxidized, respectively.<sup class="reference" id="cite_ref-Environmental_Chemistry_(vanLoon)_2-3"><a href="#cite_note-Environmental_Chemistry_(vanLoon)-2">[2]</a></sup>
+</p><p>The reduction potentials in natural systems often lie comparatively near one of the boundaries of the stability region of water. Aerated surface water, rivers, lakes, oceans, rainwater and <a class="mw-redirect" href="/wiki/Acid_mine_water" title="Acid mine water">acid mine water</a>, usually have oxidizing conditions (positive potentials). In places with limitations in air supply, such as submerged soils, swamps and marine sediments, reducing conditions (negative potentials) are the norm. Intermediate values are rare and usually a temporary condition found in systems moving to higher or lower pE values.<sup class="reference" id="cite_ref-Environmental_Chemistry_(vanLoon)_2-4"><a href="#cite_note-Environmental_Chemistry_(vanLoon)-2">[2]</a></sup>
+</p><p>In environmental situations, it is common to have complex non-equilibrium conditions between a large number of species, meaning that it is often not possible to make accurate and precise measurements of the reduction potential. However, it is usually possible to obtain an approximate value and define the conditions as being in the oxidizing or reducing regime.<sup class="reference" id="cite_ref-Environmental_Chemistry_(vanLoon)_2-5"><a href="#cite_note-Environmental_Chemistry_(vanLoon)-2">[2]</a></sup>
+</p><p>In the soil there are two main redox constituents: 1) anorganic redox systems (mainly ox/red compounds of Fe and Mn) and measurement in water extracts; 2) natural soil samples with all microbial and root components and measurement by direct method [Husson O. et al.: Practical improvements in soil redox potential (Eh) measurement for characterisation of soil properties. Application for comparison of conventional and conservation agriculture cropping systems. Anal. Chim. Acta 906 (2016): 98-109].
+</p>
+<h2><span class="mw-headline" id="Water_quality">Water quality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reduction_potential&amp;action=edit&amp;section=8" title="Edit section: Water quality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Oxidation reduction potential (ORP) can be used for water system monitoring with the benefit of a single-value measure of the disinfection potential, showing the activity of the disinfectant rather than the applied dose.<sup class="reference" id="cite_ref-suslow_1-1"><a href="#cite_note-suslow-1">[1]</a></sup>  For example, <i><a class="mw-redirect" href="/wiki/E._coli" title="E. coli">E. coli</a></i>, <i><a href="/wiki/Salmonella" title="Salmonella">Salmonella</a></i>, <i><a href="/wiki/Listeria" title="Listeria">Listeria</a></i> and other pathogens have survival times of under 30 s when the ORP is above 665 mV, compared against &gt;300 s when it is below 485 mV.<sup class="reference" id="cite_ref-suslow_1-2"><a href="#cite_note-suslow-1">[1]</a></sup>
+</p><p>A study was conducted comparing traditional parts per million chlorination reading and ORP in Hennepin County, Minnesota. The results of this study argue for the inclusion of ORP above 650mV in local health codes.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Geology">Geology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reduction_potential&amp;action=edit&amp;section=9" title="Edit section: Geology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Pourbaix_diagram" title="Pourbaix diagram">Pourbaix diagram</a></div>
+<p>Eh-pH (Pourbaix) diagrams are commonly used in mining and geology for assessment of the stability fields of minerals and dissolved species.  Under conditions where a mineral (solid) phase is the most stable form of an element, these diagrams show that mineral.  As with results from all thermodynamic (equilibrium) evaluations, these diagrams should be used with caution.  Although the formation of a mineral or its dissolution may be predicted to occur under a set of conditions, the process may be negligible because its rate is so slow.  Under those circumstances, kinetic evaluations are necessary.  However, the equilibrium conditions can be used to evaluate the direction of spontaneous changes and the magnitude of the driving force behind them.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reduction_potential&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Galvanic_cell" title="Galvanic cell">Galvanic cell</a></li>
+<li><a href="/wiki/Electrolytic_cell" title="Electrolytic cell">Electrolytic cell</a></li>
+<li><a href="/wiki/Electromotive_force" title="Electromotive force">Electromotive force</a></li>
+<li><a href="/wiki/Electrochemical_potential" title="Electrochemical potential">Electrochemical potential</a></li>
+<li><a href="/wiki/Standard_electrode_potential" title="Standard electrode potential">Standard electrode potential</a></li>
+<li><a href="/wiki/Solvated_electron" title="Solvated electron">Solvated electron</a>
+<ul><li><a class="mw-redirect" href="/wiki/Table_of_standard_electrode_potentials" title="Table of standard electrode potentials">Table of standard electrode potentials</a></li></ul></li>
+<li><a href="/wiki/Oxygen_radical_absorbance_capacity" title="Oxygen radical absorbance capacity">Oxygen radical absorbance capacity</a></li>
+<li><a href="/wiki/Redox" title="Redox">Redox</a></li></ul>
+<h2><span class="mw-headline" id="Weblinks">Weblinks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reduction_potential&amp;action=edit&amp;section=11" title="Edit section: Weblinks">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.wolkersdorfer.info/en/redoxprobes.html" rel="nofollow">Online Calculator Redoxpotential („Redox Compensation”)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reduction_potential&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-suslow-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-suslow_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-suslow_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-suslow_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">
+Trevor V. Suslow, 2004. <i>Oxidation-Reduction Potential for Water Disinfection Monitoring, Control, and Documentation</i>, University of California Davis, <a class="external free" href="http://anrcatalog.ucdavis.edu/pdf/8149.pdf" rel="nofollow">http://anrcatalog.ucdavis.edu/pdf/8149.pdf</a></span>
+</li>
+<li id="cite_note-Environmental_Chemistry_(vanLoon)-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Environmental_Chemistry_(vanLoon)_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Environmental_Chemistry_(vanLoon)_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Environmental_Chemistry_(vanLoon)_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Environmental_Chemistry_(vanLoon)_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Environmental_Chemistry_(vanLoon)_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Environmental_Chemistry_(vanLoon)_2-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">vanLoon, Gary; Duffy, Stephen (2011). <i>Environmental Chemistry -(*Gary Wallace) a global perspective</i> (3rd ed.). Oxford University Press. pp. 235–248. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-19-922886-7" title="Special:BookSources/978-0-19-922886-7">978-0-19-922886-7</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Environmental+Chemistry+-%28%2AGary+Wallace%29+a+global+perspective&amp;rft.pages=235-248&amp;rft.edition=3rd&amp;rft.pub=Oxford+University+Press&amp;rft.date=2011&amp;rft.isbn=978-0-19-922886-7&amp;rft.aulast=vanLoon&amp;rft.aufirst=Gary&amp;rft.au=Duffy%2C+Stephen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReduction+potential"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">1981 Stumm, W. and Morgan, J. J. (1981): Aquatic chemistry, 2nd Ed.; John Wiley &amp; Sons, New York</span>
+</li>
+<li id="cite_note-garrels-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-garrels_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Garrels, R.M.; Christ, C.L. (1990). <i>Minerals, Solutions, and Equilibria</i>. London: <a class="mw-redirect" href="/wiki/Jones_and_Bartlett" title="Jones and Bartlett">Jones and Bartlett</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Minerals%2C+Solutions%2C+and+Equilibria&amp;rft.place=London&amp;rft.pub=Jones+and+Bartlett&amp;rft.date=1990&amp;rft.au=Garrels%2C+R.M.&amp;rft.au=Christ%2C+C.L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReduction+potential"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Chuan, M.; Liu, G. Shu. J (1996). "Solubility of heavy metals in a contaminated soil: Effects of redox potential and pH". <i>Water, Air, &amp; Soil Pollution</i>. <b>90</b>: 543–556. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1996WASP...90..543C" rel="nofollow">1996WASP...90..543C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2FBF00282668" rel="nofollow">10.1007/BF00282668</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Water%2C+Air%2C+%26+Soil+Pollution&amp;rft.atitle=Solubility+of+heavy+metals+in+a+contaminated+soil%3A+Effects+of+redox+potential+and+pH&amp;rft.volume=90&amp;rft.pages=543-556&amp;rft.date=1996&amp;rft_id=info%3Adoi%2F10.1007%2FBF00282668&amp;rft_id=info%3Abibcode%2F1996WASP...90..543C&amp;rft.aulast=Chuan&amp;rft.aufirst=M.&amp;rft.au=Liu%2C+G.+Shu.+J&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReduction+potential"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bastian, Tiana; Brondum, Jack (2009). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2646482" rel="nofollow">"Do Traditional Measures of Water Quality in Swimming Pools and Spas Correspond with Beneficial Oxidation Reduction Potential?"</a>. <i>Public Health Rep</i>. <b>124</b>: 255–61. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2646482" rel="nofollow">2646482</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19320367" rel="nofollow">19320367</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Public+Health+Rep&amp;rft.atitle=Do+Traditional+Measures+of+Water+Quality+in+Swimming+Pools+and+Spas+Correspond+with+Beneficial+Oxidation+Reduction+Potential%3F&amp;rft.volume=124&amp;rft.pages=255-61&amp;rft.date=2009&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2646482&amp;rft_id=info%3Apmid%2F19320367&amp;rft.aulast=Bastian&amp;rft.aufirst=Tiana&amp;rft.au=Brondum%2C+Jack&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2646482&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReduction+potential"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Reduction_potential&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(May 2008)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<h2><span class="mw-headline" id="Additional_notes">Additional notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reduction_potential&amp;action=edit&amp;section=13" title="Edit section: Additional notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><cite class="citation journal">Onishi, j; Kondo W; Uchiyama Y (1960). "Preliminary report on the oxidation-reduction potential obtained on surfaces of gingiva and tongue and in interdental space". <i>Bull Tokyo Med Dent Univ</i> (7): 161.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bull+Tokyo+Med+Dent+Univ&amp;rft.atitle=Preliminary+report+on+the+oxidation-reduction+potential+obtained+on+surfaces+of+gingiva+and+tongue+and+in+interdental+space.&amp;rft.issue=7&amp;rft.pages=161&amp;rft.date=1960&amp;rft.aulast=Onishi&amp;rft.aufirst=j&amp;rft.au=Kondo+W&amp;rft.au=Uchiyama+Y&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReduction+potential"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/>
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reduction_potential&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/R/RedoxPotentials.html" rel="nofollow">Redox potential definition</a></li>
+<li><a class="external text" href="http://www.northland.cc.mn.us/Chemistry/standard_reduction_potentials.htm" rel="nofollow">Large table of potentials</a> (Site broken. <a class="external text" href="https://web.archive.org/web/20070518092613/http://www.northland.cc.mn.us/Chemistry/standard_reduction_potentials.htm" rel="nofollow">Archived version</a> on the <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a>.)</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw2194
+Cached time: 20180929134326
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.256 seconds
+Real time usage: 0.472 seconds
+Preprocessor visited node count: 1333/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 29503/2097152 bytes
+Template argument size: 2390/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 15962/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.118/10.000 seconds
+Lua memory usage: 3.65 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  256.543      1 -total
+ 42.92%  110.119      1 Template:Reflist
+ 22.24%   57.048      2 Template:Cite_book
+ 17.48%   44.851      1 Template:One_source
+ 15.93%   40.869      3 Template:Cite_journal
+ 12.63%   32.391      2 Template:Ambox
+ 11.65%   29.893      1 Template:Clarify
+ 10.80%   27.709      1 Template:Fix-span
+  5.53%   14.188      2 Template:Chem
+  5.41%   13.877      1 Template:Replace
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2234192-0!canonical!math=5 and timestamp 20180929134326 and revision id 851121604
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Reduction_potential&amp;oldid=851121604">https://en.wikipedia.org/w/index.php?title=Reduction_potential&amp;oldid=851121604</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electrochemistry" title="Category:Electrochemistry">Electrochemistry</a></li><li><a href="/wiki/Category:Potentials" title="Category:Potentials">Potentials</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_October_2011" title="Category:Articles needing additional references from October 2011">Articles needing additional references from October 2011</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_February_2012" title="Category:Wikipedia articles needing clarification from February 2012">Wikipedia articles needing clarification from February 2012</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2012" title="Category:Articles with unsourced statements from April 2012">Articles with unsourced statements from April 2012</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2008" title="Category:Articles needing additional references from May 2008">Articles needing additional references from May 2008</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Reduction+potential" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Reduction+potential" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Reduction_potential" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Reduction_potential" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Reduction_potential">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Reduction_potential&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Reduction_potential&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Reduction_potential" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Reduction_potential" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Reduction_potential&amp;oldid=851121604" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Reduction_potential&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q186487" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Reduction_potential&amp;id=851121604" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Reduction+potential">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Reduction+potential&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Reduction_potential&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AC%D9%87%D8%AF_%D8%A7%D8%AE%D8%AA%D8%B2%D8%A7%D9%84" hreflang="ar" lang="ar" title="جهد اختزال – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Potencial_de_reducci%C3%B3" hreflang="ca" lang="ca" title="Potencial de reducció – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Redoxn%C3%AD_potenci%C3%A1l" hreflang="cs" lang="cs" title="Redoxní potenciál – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Redoxpotential" hreflang="de" lang="de" title="Redoxpotential – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Redokspotentsiaal" hreflang="et" lang="et" title="Redokspotentsiaal – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CE%BD%CE%BF%CE%BD%CE%B9%CE%BA%CF%8C_%CE%B4%CF%85%CE%BD%CE%B1%CE%BC%CE%B9%CE%BA%CF%8C_%CE%BF%CE%BE%CE%B5%CE%B9%CE%B4%CE%BF%CE%B1%CE%BD%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%CF%82" hreflang="el" lang="el" title="Κανονικό δυναμικό οξειδοαναγωγής – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Potencial_de_reducci%C3%B3n" hreflang="es" lang="es" title="Potencial de reducción – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%BE%D8%AA%D8%A7%D9%86%D8%B3%DB%8C%D9%84_%D8%A7%DA%A9%D8%B3%DB%8C%D8%AF_%D9%88_%D8%A7%D8%AD%DB%8C%D8%A7" hreflang="fa" lang="fa" title="پتانسیل اکسید و احیا – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Potentiel_d%27oxydor%C3%A9duction" hreflang="fr" lang="fr" title="Potentiel d'oxydoréduction – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Potencial_de_reduci%C3%B3n" hreflang="gl" lang="gl" title="Potencial de redución – Galician">Galego</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%95%D6%84%D5%BD%D5%AB%D5%A4%D5%A1-%D5%BE%D5%A5%D6%80%D5%A1%D5%AF%D5%A1%D5%B6%D5%A3%D5%B6%D5%B4%D5%A1%D5%B6_%D5%BA%D5%B8%D5%BF%D5%A5%D5%B6%D6%81%D5%AB%D5%A1%D5%AC" hreflang="hy" lang="hy" title="Օքսիդա-վերականգնման պոտենցիալ – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Potenziale_di_riduzione" hreflang="it" lang="it" title="Potenziale di riduzione – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%85%B8%E5%8C%96%E9%82%84%E5%85%83%E9%9B%BB%E4%BD%8D" hreflang="ja" lang="ja" title="酸化還元電位 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Potencja%C5%82_redoks" hreflang="pl" lang="pl" title="Potencjał redoks – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Potencial_de_redu%C3%A7%C3%A3o" hreflang="pt" lang="pt" title="Potencial de redução – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Poten%C8%9Bial_de_reducere" hreflang="ro" lang="ro" title="Potențial de reducere – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE-%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%82%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB" hreflang="ru" lang="ru" title="Окислительно-восстановительный потенциал – Russian">Русский</a></li><li class="interlanguage-link interwiki-ckb"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D8%A6%DB%95%D8%B1%DA%A9%DB%8C_%D9%84%DB%8E%DA%A9%D8%B1%D8%AF%D9%86%DB%95%D9%88%DB%95" hreflang="ckb" lang="ckb" title="ئەرکی لێکردنەوە – Central Kurdish">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B4%D0%BE%D0%BA%D1%81-%D0%BF%D0%BE%D1%82%D0%B5%D0%BD%D1%86%D0%B8%D1%98%D0%B0%D0%BB" hreflang="sr" lang="sr" title="Редокс-потенцијал – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Redoks-potencijal" hreflang="sh" lang="sh" title="Redoks-potencijal – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Redoxpotentiaali" hreflang="fi" lang="fi" title="Redoxpotentiaali – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Redoxpotential" hreflang="sv" lang="sv" title="Redoxpotential – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9E%D0%BA%D0%B8%D1%81%D0%BD%D0%BE-%D0%B2%D1%96%D0%B4%D0%BD%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9_%D0%BF%D0%BE%D1%82%D0%B5%D0%BD%D1%86%D1%96%D0%B0%D0%BB" hreflang="uk" lang="uk" title="Окисно-відновний потенціал – Ukrainian">Українська</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q186487#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 20 July 2018, at 06:57<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Reduction_potential&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.256","walltime":"0.472","ppvisitednodes":{"value":1333,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":29503,"limit":2097152},"templateargumentsize":{"value":2390,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15962,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  256.543      1 -total"," 42.92%  110.119      1 Template:Reflist"," 22.24%   57.048      2 Template:Cite_book"," 17.48%   44.851      1 Template:One_source"," 15.93%   40.869      3 Template:Cite_journal"," 12.63%   32.391      2 Template:Ambox"," 11.65%   29.893      1 Template:Clarify"," 10.80%   27.709      1 Template:Fix-span","  5.53%   14.188      2 Template:Chem","  5.41%   13.877      1 Template:Replace"]},"scribunto":{"limitreport-timeusage":{"value":"0.118","limit":"10.000"},"limitreport-memusage":{"value":3824381,"limit":52428800}},"cachereport":{"origin":"mw2194","timestamp":"20180929134326","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw2168"});});</script>
+</body>
+</html>

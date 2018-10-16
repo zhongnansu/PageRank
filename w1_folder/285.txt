@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Anaerobic respiration - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Anaerobic_respiration","wgTitle":"Anaerobic respiration","wgCurRevisionId":860695549,"wgRevisionId":860695549,"wgArticleId":435420,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Explicit use of et al.","All accuracy disputes","Articles with disputed statements from July 2014","Anaerobic digestion","Biodegradation","Cellular respiration"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Anaerobic_respiration","wgRelevantArticleId":435420,"wgRequestId":"W8HipwpAMFsAAFUTjvoAAAAX","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q181713","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Anaerobic_respiration" rel="alternate"/>
+<link href="/w/index.php?title=Anaerobic_respiration&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Anaerobic_respiration&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Anaerobic_respiration" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Anaerobic_respiration rootpage-Anaerobic_respiration skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Anaerobic respiration</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Anaerobic respiration</b> is <a href="/wiki/Cellular_respiration" title="Cellular respiration">respiration</a> using <a class="mw-redirect" href="/wiki/Electron_acceptors" title="Electron acceptors">electron acceptors</a> other than <a href="/wiki/Allotropes_of_oxygen" title="Allotropes of oxygen">molecular oxygen</a> (O<sub>2</sub>). Although oxygen is not used as the final electron acceptor, the process still uses a respiratory electron transport chain called physolmere; it is respiration without oxygen.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p><p>In <a class="mw-redirect" href="/wiki/Aerobic_organisms" title="Aerobic organisms">aerobic organisms</a> undergoing respiration, electrons are shuttled to an <a href="/wiki/Electron_transport_chain" title="Electron transport chain">electron transport chain</a>, and the final electron acceptor is oxygen. <a class="mw-redirect" href="/wiki/Molecular_oxygen" title="Molecular oxygen">Molecular oxygen</a> is a highly <a href="/wiki/Oxidizing_agent" title="Oxidizing agent">oxidizing agent</a> and, therefore, is an excellent electron acceptor. In <a class="mw-redirect" href="/wiki/Anaerobes" title="Anaerobes">anaerobes</a>, other less-oxidizing substances such as <a href="/wiki/Sulfate" title="Sulfate">sulfate</a> (SO<sub>4</sub><sup>2−</sup>), <a href="/wiki/Nitrate" title="Nitrate">nitrate</a> (NO<sub>3</sub><sup>−</sup>), <a class="mw-redirect" href="/wiki/Sulphur" title="Sulphur">sulphur</a> (S), or <a class="mw-redirect" href="/wiki/Fumarate" title="Fumarate">fumarate</a> are used. These terminal electron acceptors have smaller <a href="/wiki/Reduction_potential" title="Reduction potential">reduction potentials</a> than O<sub>2</sub>, meaning that less energy is released per oxidized molecule. Therefore, generally speaking, anaerobic respiration is less efficient than aerobic.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#As_compared_with_fermentation"><span class="tocnumber">1</span> <span class="toctext">As compared with fermentation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Ecological_importance"><span class="tocnumber">2</span> <span class="toctext">Ecological importance</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Economic_relevance"><span class="tocnumber">3</span> <span class="toctext">Economic relevance</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Examples_of_respiration"><span class="tocnumber">4</span> <span class="toctext">Examples of respiration</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="As_compared_with_fermentation">As compared with fermentation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anaerobic_respiration&amp;action=edit&amp;section=1" title="Edit section: As compared with fermentation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are two important microbial methane formation pathways, through carbonate reduction (respiration), and acetate fermentation.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p><p>Cellular respiration (both <a class="mw-redirect" href="/wiki/Aerobic_respiration" title="Aerobic respiration">aerobic</a> and anaerobic) utilizes highly reduced chemical compounds such as <a class="mw-redirect" href="/wiki/NADH" title="NADH">NADH</a> and <a class="mw-redirect" href="/wiki/FADH2" title="FADH2">FADH2</a> (for example produced during <a href="/wiki/Glycolysis" title="Glycolysis">glycolysis</a> and the <a href="/wiki/Citric_acid_cycle" title="Citric acid cycle">citric acid cycle</a>) to establish an <a href="/wiki/Electrochemical_gradient" title="Electrochemical gradient">electrochemical gradient</a> (often a proton gradient) across a membrane, resulting in an <a class="mw-redirect" href="/wiki/Electrical_potential" title="Electrical potential">electrical potential</a> or ion <a href="/wiki/Concentration" title="Concentration">concentration</a> difference across the membrane. The reduced chemical compounds are oxidized by a series of respiratory <a class="mw-redirect" href="/wiki/Integral_membrane_proteins" title="Integral membrane proteins">integral membrane proteins</a> with sequentially increasing reduction potentials with the final electron acceptor being <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> (in <a class="mw-redirect" href="/wiki/Aerobic_respiration" title="Aerobic respiration">aerobic respiration</a>) or another chemical substance (in anaerobic respiration). A <a class="mw-redirect" href="/wiki/Proton_motive_force" title="Proton motive force">proton motive force</a> drives <a class="mw-redirect" href="/wiki/Protons" title="Protons">protons</a> down the gradient (across the membrane) through the proton channel of <a href="/wiki/ATP_synthase" title="ATP synthase">ATP synthase</a>. The resulting current drives ATP synthesis from <a href="/wiki/Adenosine_diphosphate" title="Adenosine diphosphate">ADP</a> and inorganic phosphate.
+</p><p><a class="mw-redirect" href="/wiki/Fermentation_(biochemistry)" title="Fermentation (biochemistry)">Fermentation</a>, in contrast, does not utilize an electrochemical gradient. Fermentation instead only uses <a href="/wiki/Substrate-level_phosphorylation" title="Substrate-level phosphorylation">substrate-level phosphorylation</a> to produce ATP. The electron acceptor <a class="mw-redirect" href="/wiki/NAD%2B" title="NAD+">NAD+</a> is regenerated from <a class="mw-redirect" href="/wiki/NADH" title="NADH">NADH</a> formed in oxidative steps of the fermentation pathway by the reduction of oxidized compounds. These oxidized compounds are often formed during the fermentation pathway itself, but may also be external. For example, in homofermentative lactic acid bacteria, NADH formed during the oxidation of <a class="mw-redirect" href="/wiki/Glyceraldehyde-3-phosphate" title="Glyceraldehyde-3-phosphate">glyceraldehyde-3-phosphate</a> is oxidized back to NAD+ by the reduction of <a class="mw-redirect" href="/wiki/Pyruvate" title="Pyruvate">pyruvate</a> to <a href="/wiki/Lactic_acid" title="Lactic acid">lactic acid</a> at a later stage in the pathway. In <a href="/wiki/Yeast" title="Yeast">yeast</a>, <a href="/wiki/Acetaldehyde" title="Acetaldehyde">acetaldehyde</a> is reduced to <a href="/wiki/Ethanol" title="Ethanol">ethanol</a> to regenerate NAD+.  The two processes thus generate ATP in very different ways, and the terms should not be treated as synonyms.
+</p>
+<h2><span class="mw-headline" id="Ecological_importance">Ecological importance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anaerobic_respiration&amp;action=edit&amp;section=2" title="Edit section: Ecological importance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Anaerobic respiration is a critical component of the global <a href="/wiki/Nitrogen_cycle" title="Nitrogen cycle">nitrogen</a>, <a href="/wiki/Iron" title="Iron">iron</a>, <a href="/wiki/Sulfur_cycle" title="Sulfur cycle">sulfur</a>, and <a href="/wiki/Carbon_cycle" title="Carbon cycle">carbon</a> cycles through the reduction of the oxyanions of nitrogen, sulfur, and carbon to more-reduced compounds.  The <a href="/wiki/Biogeochemical_cycle" title="Biogeochemical cycle">biogeochemical cycling</a> of these compounds, which depends upon anaerobic respiration, significantly impacts the <a href="/wiki/Carbon_cycle" title="Carbon cycle">carbon cycle</a> and <a href="/wiki/Global_warming" title="Global warming">global warming</a>. Anaerobic respiration occurs in many environments, including freshwater and marine sediments, soil, subsurface aquifers, deep subsurface environments, and biofilms. Even environments, such as soil, that contain oxygen also have micro-environments that lack oxygen due to the slow diffusion characteristics of <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> gas.
+</p><p>An example of the ecological importance of anaerobic respiration is the use of nitrate as a terminal electron acceptor, or dissimilatory <a href="/wiki/Denitrification" title="Denitrification">denitrification</a>, which is the main route by which fixed <a href="/wiki/Nitrogen_fixation" title="Nitrogen fixation">nitrogen</a> is returned to the atmosphere as molecular nitrogen gas.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Another example is <a href="/wiki/Methanogenesis" title="Methanogenesis">methanogenesis</a>, a form of carbonate respiration, that is used to produce <a href="/wiki/Methane" title="Methane">methane</a> gas by <a href="/wiki/Anaerobic_digestion" title="Anaerobic digestion">anaerobic digestion</a>. Biogenic methane is used as a sustainable alternative to fossil fuels. On the negative side, uncontrolled methanogenesis in landfill sites releases large volumes of methane into the atmosphere, where it acts as a powerful <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gas</a>.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> <a class="mw-redirect" href="/wiki/Sulfate-reducing_bacteria" title="Sulfate-reducing bacteria">Sulfate respiration</a> produces <a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">hydrogen sulfide</a>, which is responsible for the characteristic 'rotten egg' smell of coast wetlands and has the capacity to precipitate heavy metal ions from solution, leading to the deposition of <a href="/wiki/Sulfide_minerals" title="Sulfide minerals">sulfidic metal ores</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Economic_relevance">Economic relevance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anaerobic_respiration&amp;action=edit&amp;section=3" title="Edit section: Economic relevance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dissimilatory <a href="/wiki/Denitrification" title="Denitrification">denitrification</a> is widely used in the removal of <a href="/wiki/Nitrate" title="Nitrate">nitrate</a> and <a href="/wiki/Nitrite" title="Nitrite">nitrite</a> from municipal wastewater. An excess of nitrate can lead to <a href="/wiki/Eutrophication" title="Eutrophication">eutrophication</a> of waterways into which treated water is released. Elevated nitrite levels in drinking water can lead to problems due to its toxicity. Denitrification converts both compounds into harmless nitrogen gas.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Anaerobic_Denitrification_(ETC_System).svg"><img alt="" class="thumbimage" data-file-height="347" data-file-width="512" height="149" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Anaerobic_Denitrification_%28ETC_System%29.svg/220px-Anaerobic_Denitrification_%28ETC_System%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Anaerobic_Denitrification_%28ETC_System%29.svg/330px-Anaerobic_Denitrification_%28ETC_System%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Anaerobic_Denitrification_%28ETC_System%29.svg/440px-Anaerobic_Denitrification_%28ETC_System%29.svg.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Anaerobic_Denitrification_(ETC_System).svg" title="Enlarge"></a></div>Anaerobic Denitrification (ETC System) <br/> <br/>English: The model above shows the process of anaerobic respiration through denitrification which takes place in some bacteria. The process shown takes place in the plasma membrane of prokaryotes. NO3 goes through respiratory dehydrogenase and reduces through each step from the Ubiquinose through the bc1 complex through the ATP Synthase protein as well. Each reductase loses oxygen through each step so that the final product of anaerobic respiration is N2. <br/> <br/>1. Cytoplasm <br/>2. Periplasm</div></div></div>
+<p><br/>
+Specific types of anaerobic respiration are also critical in <a href="/wiki/Bioremediation" title="Bioremediation">bioremediation</a>, which uses microorganisms to convert toxic chemicals into less-harmful molecules to clean up contaminated beaches, aquifers, lakes, and oceans. For example, toxic <a href="/wiki/Arsenate" title="Arsenate">arsenate</a> or <a href="/wiki/Selenate" title="Selenate">selenate</a> can be reduced to less toxic compounds by various anaerobic bacteria via anaerobic respiration. The reduction of <a href="/wiki/Organochloride" title="Organochloride">chlorinated chemical pollutants</a>, such as <a href="/wiki/Vinyl_chloride" title="Vinyl chloride">vinyl chloride</a> and <a href="/wiki/Carbon_tetrachloride" title="Carbon tetrachloride">carbon tetrachloride</a>, also occurs through anaerobic respiration.
+</p><p>Anaerobic respiration is useful in generating electricity in <a href="/wiki/Microbial_fuel_cell" title="Microbial fuel cell">microbial fuel cell</a>s, which employ bacteria that respire solid electron acceptors (such as oxidized iron) to transfer electrons from reduced compounds to an electrode. This process can simultaneously degrade organic carbon waste and generate electricity.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Examples_of_respiration">Examples of respiration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anaerobic_respiration&amp;action=edit&amp;section=4" title="Edit section: Examples of respiration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th>Type
+</th>
+<th>Lifestyle
+</th>
+<th>Electron acceptor
+</th>
+<th>Products
+</th>
+<th><a href="/wiki/Reduction_potential" title="Reduction potential">E<sup>o'</sup> [V]</a>
+</th>
+<th>Example organisms
+</th></tr>
+<tr>
+<td>aerobic <a href="/wiki/Cellular_respiration" title="Cellular respiration">respiration</a>
+</td>
+<td><a href="/wiki/Obligate_aerobe" title="Obligate aerobe">obligate aerobes</a> and <a class="mw-redirect" href="/wiki/Facultative_anaerobe" title="Facultative anaerobe">facultative anaerobes</a>
+</td>
+<td>O<sub>2</sub>
+</td>
+<td>H<sub>2</sub>O,  CO<sub>2</sub>
+</td>
+<td>+ 0.82
+</td>
+<td><a class="mw-redirect" href="/wiki/Eukaryotes" title="Eukaryotes">eukaryotes</a> and <a href="/wiki/Aerobic_organism" title="Aerobic organism">aerobic</a> <a class="mw-redirect" href="/wiki/Prokaryotes" title="Prokaryotes">prokaryotes</a>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Dissimilatory_metal-reducing_bacteria" title="Dissimilatory metal-reducing bacteria">iron reduction</a>
+</td>
+<td><a class="mw-redirect" href="/wiki/Facultative_anaerobe" title="Facultative anaerobe">facultative anaerobes</a> and <a href="/wiki/Obligate_anaerobe" title="Obligate anaerobe">obligate anaerobes</a>
+</td>
+<td>Fe(III)
+</td>
+<td>Fe(II)
+</td>
+<td>+ 0.75
+</td>
+<td>Organisms within the order <i><a href="/wiki/Desulfuromonadales" title="Desulfuromonadales">Desulfuromonadales</a></i> <a href="/wiki/Geobacter" title="Geobacter">(such as <i>Geobacter</i></a>, <i>Geothermobacter</i>, <i><a href="/wiki/Geopsychrobacter_electrodiphilus" title="Geopsychrobacter electrodiphilus">Geopsychrobacter</a></i>, <i><a href="/wiki/Pelobacter_carbinolicus" title="Pelobacter carbinolicus">Pelobacter</a></i><a href="/wiki/Pelobacter_carbinolicus" title="Pelobacter carbinolicus">)</a> and <i>Shewanella</i> species <sup class="reference" id="cite_ref-:0_8-0"><a href="#cite_note-:0-8">[8]</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Manganese" title="Manganese">manganese</a>
+</td>
+<td><a class="mw-redirect" href="/wiki/Facultative_anaerobe" title="Facultative anaerobe">facultative anaerobes</a> and <a href="/wiki/Obligate_anaerobe" title="Obligate anaerobe">obligate anaerobes</a>
+</td>
+<td>Mn(IV)
+</td>
+<td>Mn(II)
+</td>
+<td>
+</td>
+<td><i><a href="/wiki/Desulfuromonadales" title="Desulfuromonadales">Desulfuromonadales</a></i> and <i>Shewanella</i> species <sup class="reference" id="cite_ref-:0_8-1"><a href="#cite_note-:0-8">[8]</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cobalt" title="Cobalt">cobalt</a> reduction
+</td>
+<td><a class="mw-redirect" href="/wiki/Facultative_anaerobe" title="Facultative anaerobe">facultative anaerobes</a> and <a href="/wiki/Obligate_anaerobe" title="Obligate anaerobe">obligate anaerobes</a>
+</td>
+<td>Co(III)
+</td>
+<td>Co(II)
+</td>
+<td>
+</td>
+<td><i>Geobacter sulfurreducens</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/Uranium" title="Uranium">uranium</a> reduction
+</td>
+<td><a class="mw-redirect" href="/wiki/Facultative_anaerobe" title="Facultative anaerobe">facultative anaerobes</a> and <a href="/wiki/Obligate_anaerobe" title="Obligate anaerobe">obligate anaerobes</a>
+</td>
+<td>U(VI)
+</td>
+<td>U(IV)
+</td>
+<td>
+</td>
+<td><i><a href="/wiki/Geobacter_metallireducens" title="Geobacter metallireducens">Geobacter metallireducens</a></i><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a class="mw-redirect" href="/wiki/Wikipedia:Disputed_statement" title="Wikipedia:Disputed statement"><span title="This claim has reliable sources with contradicting facts (July 2014)">disputed</span></a> <span class="metadata"> – <a href="/wiki/Talk:Anaerobic_respiration" title="Talk:Anaerobic respiration">discuss</a></span></i>]</sup>, <i><a href="/wiki/Shewanella_oneidensis" title="Shewanella oneidensis">Shewanella oneidensis</a></i>
+</td></tr>
+<tr>
+<td>nitrate reduction  (<a href="/wiki/Denitrification" title="Denitrification">denitrification</a>)
+</td>
+<td><a class="mw-redirect" href="/wiki/Facultative_anaerobe" title="Facultative anaerobe">facultative anaerobes</a>
+</td>
+<td>nitrate NO<sub>3</sub><sup>−</sup>
+</td>
+<td>nitrite NO<sub>2</sub><sup>−</sup>
+</td>
+<td>+ 0.40
+</td>
+<td><i><a href="/wiki/Paracoccus_denitrificans" title="Paracoccus denitrificans">Paracoccus denitrificans</a></i>, <i><a href="/wiki/Escherichia_coli" title="Escherichia coli">Escherichia coli</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fumarate_reductase" title="Fumarate reductase">fumarate respiration</a>
+</td>
+<td><a class="mw-redirect" href="/wiki/Facultative_anaerobe" title="Facultative anaerobe">facultative anaerobes</a>
+</td>
+<td><a class="mw-redirect" href="/wiki/Fumarate" title="Fumarate">fumarate</a>
+</td>
+<td><a class="mw-redirect" href="/wiki/Succinate" title="Succinate">succinate</a>
+</td>
+<td>+ 0.03
+</td>
+<td><i><a href="/wiki/Escherichia_coli" title="Escherichia coli">Escherichia coli</a></i>
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Sulfate-reducing_bacteria" title="Sulfate-reducing bacteria">sulfate respiration</a>
+</td>
+<td><a href="/wiki/Obligate_anaerobe" title="Obligate anaerobe">obligate anaerobes</a>
+</td>
+<td><a href="/wiki/Sulfate" title="Sulfate">sulfate</a> SO<sub>4</sub><sup>2−</sup>
+</td>
+<td><a href="/wiki/Sulfide" title="Sulfide">sulfide</a> HS<sup>−</sup>
+</td>
+<td>- 0.22
+</td>
+<td>Many <a href="/wiki/Deltaproteobacteria" title="Deltaproteobacteria">Deltaproteobacteria</a> species in the orders <a href="/wiki/Desulfobacterales" title="Desulfobacterales">Desulfobacterales</a>, <a href="/wiki/Desulfovibrionales" title="Desulfovibrionales">Desulfovibrionales</a>, and <a href="/wiki/Syntrophobacterales" title="Syntrophobacterales">Syntrophobacterales</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Methanogenesis" title="Methanogenesis">methanogenesis</a> (carbonate reduction)
+</td>
+<td><a class="mw-redirect" href="/wiki/Methanogens" title="Methanogens">methanogens</a>
+</td>
+<td>carbon dioxide CO<sub>2</sub>
+</td>
+<td>methane CH<sub>4</sub>
+</td>
+<td>- 0.25
+</td>
+<td><i><a href="/wiki/Methanosarcina_barkeri" title="Methanosarcina barkeri">Methanosarcina barkeri</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sulfur-reducing_bacteria" title="Sulfur-reducing bacteria">sulfur respiration</a> (sulfur reduction)
+</td>
+<td><a class="mw-redirect" href="/wiki/Facultative_anaerobe" title="Facultative anaerobe">facultative anaerobes</a> and <a href="/wiki/Obligate_anaerobe" title="Obligate anaerobe">obligate anaerobes</a>
+</td>
+<td>sulfur S<sup>0</sup>
+</td>
+<td>sulfide HS<sup>−</sup>
+</td>
+<td>- 0.27
+</td>
+<td><i><a href="/wiki/Desulfuromonadales" title="Desulfuromonadales">Desulfuromonadales</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/Acetogenesis" title="Acetogenesis">acetogenesis</a> (carbonate reduction)
+</td>
+<td><a href="/wiki/Obligate_anaerobe" title="Obligate anaerobe">obligate anaerobes</a>
+</td>
+<td>carbon dioxide CO<sub>2</sub>
+</td>
+<td><a href="/wiki/Acetate" title="Acetate">acetate</a>
+</td>
+<td>- 0.30
+</td>
+<td><i><a class="new" href="/w/index.php?title=Acetobacterium_woodii&amp;action=edit&amp;redlink=1" title="Acetobacterium woodii (page does not exist)">Acetobacterium woodii</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/Reductive_dechlorination" title="Reductive dechlorination">dehalorespiration</a>
+</td>
+<td><a class="mw-redirect" href="/wiki/Facultative_anaerobe" title="Facultative anaerobe">facultative anaerobes</a> and <a href="/wiki/Obligate_anaerobe" title="Obligate anaerobe">obligate anaerobes</a>
+</td>
+<td><a href="/wiki/Halocarbon" title="Halocarbon">halogenated organic compounds</a> R-X
+</td>
+<td>Halide ions and dehalogenated compound X<sup>−</sup> + R-H
+</td>
+<td>+ 0.25–+ 0.60<sup class="reference" id="cite_ref-Hollinger1998_9-0"><a href="#cite_note-Hollinger1998-9">[9]</a></sup>
+</td>
+<td><i><a href="/wiki/Dehalococcoides" title="Dehalococcoides">Dehalococcoides</a></i> and <i><a href="/wiki/Dehalobacter" title="Dehalobacter">Dehalobacter</a></i> species
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anaerobic_respiration&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Hydrogenosome" title="Hydrogenosome">Hydrogenosomes</a> and <a href="/wiki/Mitosome" title="Mitosome">mitosomes</a></li>
+<li><a href="/wiki/Standard_electrode_potential_(data_page)" title="Standard electrode potential (data page)">Standard electrode potential (data page)</a></li>
+<li><a href="/wiki/Table_of_standard_reduction_potentials_for_half-reactions_important_in_biochemistry" title="Table of standard reduction potentials for half-reactions important in biochemistry">Table of standard reduction potentials for half-reactions important in biochemistry</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anaerobic_respiration&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Slonczewski, Joan L.; Foster, John W. (2011). <i>Microbiology : An Evolving Science</i> (2nd ed.). New York: W.W. Norton. p. 166. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780393934472" title="Special:BookSources/9780393934472">9780393934472</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Microbiology+%3A+An+Evolving+Science&amp;rft.place=New+York&amp;rft.pages=166&amp;rft.edition=2nd&amp;rft.pub=W.W.+Norton&amp;rft.date=2011&amp;rft.isbn=9780393934472&amp;rft.aulast=Slonczewski&amp;rft.aufirst=Joan+L.&amp;rft.au=Foster%2C+John+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnaerobic+respiration"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sapart;  et al. (2017). <a class="external text" href="http://www.biogeosciences.net/14/2283/2017" rel="nofollow">"The origin of methane in the East Siberian Arctic Shelf unraveled with triple isotope analysis"</a>. <i>Biogeosciences</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.5194%2Fbg-14-2283-2017" rel="nofollow">10.5194/bg-14-2283-2017</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biogeosciences&amp;rft.atitle=The+origin+of+methane+in+the+East+Siberian+Arctic+Shelf+unraveled+with+triple+isotope+analysis&amp;rft.date=2017&amp;rft_id=info%3Adoi%2F10.5194%2Fbg-14-2283-2017&amp;rft.au=Sapart&amp;rft_id=http%3A%2F%2Fwww.biogeosciences.net%2F14%2F2283%2F2017&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnaerobic+respiration"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>) </span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Simon, Jörg; Klotz, Martin G. (2013-02-01). <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S000527281200984X" rel="nofollow">"Diversity and evolution of bioenergetic systems involved in microbial nitrogen compound transformations"</a>. <i>Biochimica et Biophysica Acta (BBA) - Bioenergetics</i>. The evolutionary aspects of bioenergetic systems. <b>1827</b> (2): 114–135. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.bbabio.2012.07.005" rel="nofollow">10.1016/j.bbabio.2012.07.005</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biochimica+et+Biophysica+Acta+%28BBA%29+-+Bioenergetics&amp;rft.atitle=Diversity+and+evolution+of+bioenergetic+systems+involved+in+microbial+nitrogen+compound+transformations&amp;rft.volume=1827&amp;rft.issue=2&amp;rft.pages=114-135&amp;rft.date=2013-02-01&amp;rft_id=info%3Adoi%2F10.1016%2Fj.bbabio.2012.07.005&amp;rft.aulast=Simon&amp;rft.aufirst=J%C3%B6rg&amp;rft.au=Klotz%2C+Martin+G.&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS000527281200984X&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnaerobic+respiration"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bogner, Jean; Pipatti, Riitta; Hashimoto, Seiji; Diaz, Cristobal; Mareckova, Katarina; Diaz, Luis; Kjeldsen, Peter; Monni, Suvi; Faaij, Andre (2008-02-01). "Mitigation of global greenhouse gas emissions from waste: conclusions and strategies from the Intergovernmental Panel on Climate Change (IPCC) Fourth Assessment Report. Working Group III (Mitigation)". <i>Waste management &amp; research: the journal of the International Solid Wastes and Public Cleansing Association, ISWA</i>. <b>26</b> (1): 11–32. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1177%2F0734242x07088433" rel="nofollow">10.1177/0734242x07088433</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0734-242X" rel="nofollow">0734-242X</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18338699" rel="nofollow">18338699</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Waste+management+%26+research%3A+the+journal+of+the+International+Solid+Wastes+and+Public+Cleansing+Association%2C+ISWA&amp;rft.atitle=Mitigation+of+global+greenhouse+gas+emissions+from+waste%3A+conclusions+and+strategies+from+the+Intergovernmental+Panel+on+Climate+Change+%28IPCC%29+Fourth+Assessment+Report.+Working+Group+III+%28Mitigation%29&amp;rft.volume=26&amp;rft.issue=1&amp;rft.pages=11-32&amp;rft.date=2008-02-01&amp;rft.issn=0734-242X&amp;rft_id=info%3Apmid%2F18338699&amp;rft_id=info%3Adoi%2F10.1177%2F0734242x07088433&amp;rft.aulast=Bogner&amp;rft.aufirst=Jean&amp;rft.au=Pipatti%2C+Riitta&amp;rft.au=Hashimoto%2C+Seiji&amp;rft.au=Diaz%2C+Cristobal&amp;rft.au=Mareckova%2C+Katarina&amp;rft.au=Diaz%2C+Luis&amp;rft.au=Kjeldsen%2C+Peter&amp;rft.au=Monni%2C+Suvi&amp;rft.au=Faaij%2C+Andre&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnaerobic+respiration"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Pester, Michael; Knorr, Klaus-Holger; Friedrich, Michael W.; Wagner, Michael; Loy, Alexander (2012-01-01). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3289269" rel="nofollow">"Sulfate-reducing microorganisms in wetlands - fameless actors in carbon cycling and climate change"</a>. <i>Frontiers in Microbiology</i>. <b>3</b>: 72. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.3389%2Ffmicb.2012.00072" rel="nofollow">10.3389/fmicb.2012.00072</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1664-302X" rel="nofollow">1664-302X</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3289269" rel="nofollow">3289269</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22403575" rel="nofollow">22403575</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Frontiers+in+Microbiology&amp;rft.atitle=Sulfate-reducing+microorganisms+in+wetlands+-+fameless+actors+in+carbon+cycling+and+climate+change&amp;rft.volume=3&amp;rft.pages=72&amp;rft.date=2012-01-01&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3289269&amp;rft.issn=1664-302X&amp;rft_id=info%3Apmid%2F22403575&amp;rft_id=info%3Adoi%2F10.3389%2Ffmicb.2012.00072&amp;rft.aulast=Pester&amp;rft.aufirst=Michael&amp;rft.au=Knorr%2C+Klaus-Holger&amp;rft.au=Friedrich%2C+Michael+W.&amp;rft.au=Wagner%2C+Michael&amp;rft.au=Loy%2C+Alexander&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3289269&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnaerobic+respiration"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Nancharaiah, Y. V.; Venkata Mohan, S.; Lens, P. N. L. (2016-09-01). "Recent advances in nutrient removal and recovery in biological and bioelectrochemical systems". <i>Bioresource Technology</i>. <b>215</b>: 173–185. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.biortech.2016.03.129" rel="nofollow">10.1016/j.biortech.2016.03.129</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1873-2976" rel="nofollow">1873-2976</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/27053446" rel="nofollow">27053446</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bioresource+Technology&amp;rft.atitle=Recent+advances+in+nutrient+removal+and+recovery+in+biological+and+bioelectrochemical+systems&amp;rft.volume=215&amp;rft.pages=173-185&amp;rft.date=2016-09-01&amp;rft.issn=1873-2976&amp;rft_id=info%3Apmid%2F27053446&amp;rft_id=info%3Adoi%2F10.1016%2Fj.biortech.2016.03.129&amp;rft.aulast=Nancharaiah&amp;rft.aufirst=Y.+V.&amp;rft.au=Venkata+Mohan%2C+S.&amp;rft.au=Lens%2C+P.+N.+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnaerobic+respiration"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Xu, Bojun; Ge, Zheng; He, Zhen (2015-05-15). <a class="external text" href="http://xlink.rsc.org/?DOI=C5EW00020C" rel="nofollow">"Sediment microbial fuel cells for wastewater treatment: challenges and opportunities"</a>. <i>Environ. Sci.: Water Res. Technol</i>. <b>1</b> (3): 279–284. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1039%2Fc5ew00020c" rel="nofollow">10.1039/c5ew00020c</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/2053-1419" rel="nofollow">2053-1419</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Environ.+Sci.%3A+Water+Res.+Technol.&amp;rft.atitle=Sediment+microbial+fuel+cells+for+wastewater+treatment%3A+challenges+and+opportunities&amp;rft.volume=1&amp;rft.issue=3&amp;rft.pages=279-284&amp;rft.date=2015-05-15&amp;rft_id=info%3Adoi%2F10.1039%2Fc5ew00020c&amp;rft.issn=2053-1419&amp;rft.aulast=Xu&amp;rft.aufirst=Bojun&amp;rft.au=Ge%2C+Zheng&amp;rft.au=He%2C+Zhen&amp;rft_id=http%3A%2F%2Fxlink.rsc.org%2F%3FDOI%3DC5EW00020C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnaerobic+respiration"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-:0-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Richter, Katrin; Schicklberger, Marcus; Gescher, Johannes (2012-02-01). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3273014" rel="nofollow">"Dissimilatory reduction of extracellular electron acceptors in anaerobic respiration"</a>. <i>Applied and Environmental Microbiology</i>. <b>78</b> (4): 913–921. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1128%2FAEM.06803-11" rel="nofollow">10.1128/AEM.06803-11</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1098-5336" rel="nofollow">1098-5336</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3273014" rel="nofollow">3273014</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22179232" rel="nofollow">22179232</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Applied+and+Environmental+Microbiology&amp;rft.atitle=Dissimilatory+reduction+of+extracellular+electron+acceptors+in+anaerobic+respiration&amp;rft.volume=78&amp;rft.issue=4&amp;rft.pages=913-921&amp;rft.date=2012-02-01&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3273014&amp;rft.issn=1098-5336&amp;rft_id=info%3Apmid%2F22179232&amp;rft_id=info%3Adoi%2F10.1128%2FAEM.06803-11&amp;rft.aulast=Richter&amp;rft.aufirst=Katrin&amp;rft.au=Schicklberger%2C+Marcus&amp;rft.au=Gescher%2C+Johannes&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3273014&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnaerobic+respiration"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Hollinger1998-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hollinger1998_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Holliger, C.; Wohlfarth, G.; Diekert, G. (1998). "Reductive dechlorination in the energy metabolism of anaerobic bacteria". <i>FEMS Microbiology Reviews</i>. <b>22</b> (5): 383. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1111%2Fj.1574-6976.1998.tb00377.x" rel="nofollow">10.1111/j.1574-6976.1998.tb00377.x</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=FEMS+Microbiology+Reviews&amp;rft.atitle=Reductive+dechlorination+in+the+energy+metabolism+of+anaerobic+bacteria&amp;rft.volume=22&amp;rft.issue=5&amp;rft.pages=383&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1574-6976.1998.tb00377.x&amp;rft.aulast=Holliger&amp;rft.aufirst=C.&amp;rft.au=Wohlfarth%2C+G.&amp;rft.au=Diekert%2C+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnaerobic+respiration"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<div aria-labelledby="Metabolism,_catabolism,_anabolism" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Metabolism" title="Template:Metabolism"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Metabolism" title="Template talk:Metabolism"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Metabolism&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Metabolism,_catabolism,_anabolism" style="font-size:114%;margin:0 4em"><a href="/wiki/Metabolism" title="Metabolism">Metabolism</a>, <a href="/wiki/Catabolism" title="Catabolism">catabolism</a>, <a href="/wiki/Anabolism" title="Anabolism">anabolism</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Metabolic_pathway" title="Metabolic pathway">Metabolic pathway</a></li>
+<li><a href="/wiki/Metabolic_network" title="Metabolic network">Metabolic network</a></li>
+<li><a href="/wiki/Primary_nutritional_groups" title="Primary nutritional groups">Primary nutritional groups</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Bioenergetics" title="Bioenergetics">Energy<br/> metabolism</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Aerobic_respiration" title="Aerobic respiration">Aerobic respiration</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Glycolysis" title="Glycolysis">Glycolysis</a> → <a href="/wiki/Pyruvate_dehydrogenase" title="Pyruvate dehydrogenase">Pyruvate decarboxylation</a> → <a href="/wiki/Citric_acid_cycle" title="Citric acid cycle">Citric acid cycle</a> → <a href="/wiki/Oxidative_phosphorylation" title="Oxidative phosphorylation">Oxidative phosphorylation</a> (<span style="font-size:85%;"><a href="/wiki/Electron_transport_chain" title="Electron transport chain">electron transport chain</a> + <a href="/wiki/ATP_synthase" title="ATP synthase">ATP synthase</a></span>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-selflink selflink">Anaerobic respiration</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Electron acceptors are other than oxygen</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Fermentation" title="Fermentation">Fermentation</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Glycolysis" title="Glycolysis">Glycolysis</a> →</li>
+<li><a href="/wiki/Substrate-level_phosphorylation" title="Substrate-level phosphorylation">Substrate-level phosphorylation</a>
+<ul><li><a href="/wiki/Acetone%E2%80%93butanol%E2%80%93ethanol_fermentation" title="Acetone–butanol–ethanol fermentation">ABE</a></li>
+<li><a href="/wiki/Ethanol_fermentation" title="Ethanol fermentation">Ethanol</a></li>
+<li><a href="/wiki/Lactic_acid_fermentation" title="Lactic acid fermentation">Lactic acid</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Specific<br/> paths</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Protein_metabolism" title="Protein metabolism">Protein metabolism</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Protein_biosynthesis" title="Protein biosynthesis">Protein synthesis</a></li>
+<li><a href="/wiki/Protein_catabolism" title="Protein catabolism">Catabolism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Carbohydrate_metabolism" title="Carbohydrate metabolism">Carbohydrate metabolism</a><br/>(<a href="/wiki/Carbohydrate_catabolism" title="Carbohydrate catabolism">carbohydrate catabolism</a><br/>and <a href="/wiki/Anabolism" title="Anabolism">anabolism</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">Human</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Glycolysis" title="Glycolysis">Glycolysis</a> ⇄  <a href="/wiki/Gluconeogenesis" title="Gluconeogenesis">Gluconeogenesis</a></li></ul>
+</div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Glycogenolysis" title="Glycogenolysis">Glycogenolysis</a> ⇄ <a href="/wiki/Glycogenesis" title="Glycogenesis">Glycogenesis</a></li></ul>
+</div></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pentose_phosphate_pathway" title="Pentose phosphate pathway">Pentose phosphate pathway</a></li>
+<li><a href="/wiki/Fructolysis" title="Fructolysis">Fructolysis</a></li>
+<li><a href="/wiki/Galactolysis" title="Galactolysis">Galactolysis</a></li></ul>
+</div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Glycosylation" title="Glycosylation">Glycosylation</a>
+<ul><li><a href="/wiki/N-linked_glycosylation" title="N-linked glycosylation">N-linked</a></li>
+<li><a href="/wiki/O-linked_glycosylation" title="O-linked glycosylation">O-linked</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Nonhuman</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Photosynthesis" title="Photosynthesis">Photosynthesis</a></li>
+<li><a href="/wiki/Anoxygenic_photosynthesis" title="Anoxygenic photosynthesis">Anoxygenic photosynthesis</a></li>
+<li><a href="/wiki/Chemosynthesis" title="Chemosynthesis">Chemosynthesis</a></li>
+<li><a href="/wiki/Carbon_fixation" title="Carbon fixation">Carbon fixation</a></li></ul>
+</div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Xylose_metabolism" title="Xylose metabolism">Xylose metabolism</a></li>
+<li><a href="/wiki/Radiotrophic_fungus" title="Radiotrophic fungus">Radiotrophism</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Lipid_metabolism" title="Lipid metabolism">Lipid metabolism</a> <br/>(<a href="/wiki/Lipolysis" title="Lipolysis">lipolysis</a>, <a href="/wiki/Lipogenesis" title="Lipogenesis">lipogenesis</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Fatty_acid_metabolism" title="Fatty acid metabolism">Fatty acid metabolism</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Fatty_acid_degradation" title="Fatty acid degradation">Fatty acid degradation</a> (<a href="/wiki/Beta_oxidation" title="Beta oxidation">Beta oxidation</a>)</li>
+<li><a href="/wiki/Fatty_acid_synthesis" title="Fatty acid synthesis">Fatty acid synthesis</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Steroid" title="Steroid">Steroid metabolism</a></li>
+<li><a class="mw-redirect" href="/wiki/Sphingolipid_metabolism" title="Sphingolipid metabolism">Sphingolipid metabolism</a></li>
+<li><a class="mw-redirect" href="/wiki/Eicosanoid_metabolism" title="Eicosanoid metabolism">Eicosanoid metabolism</a></li>
+<li><a href="/wiki/Ketosis" title="Ketosis">Ketosis</a></li>
+<li><a href="/wiki/Reverse_cholesterol_transport" title="Reverse cholesterol transport">Reverse cholesterol transport</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Amino_acid" title="Amino acid">Amino acid</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amino_acid_synthesis" title="Amino acid synthesis">Amino acid synthesis</a></li>
+<li><a href="/wiki/Urea_cycle" title="Urea cycle">Urea cycle</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Nucleic_acid_metabolism" title="Nucleic acid metabolism">Nucleotide<br/> metabolism</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Purine_metabolism" title="Purine metabolism">Purine metabolism</a></li>
+<li><a href="/wiki/Nucleotide_salvage" title="Nucleotide salvage">Nucleotide salvage</a></li>
+<li><a href="/wiki/Pyrimidine_metabolism" title="Pyrimidine metabolism">Pyrimidine metabolism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bioinorganic_chemistry" title="Bioinorganic chemistry">Metal metabolism</a>
+<ul><li><a href="/wiki/Human_iron_metabolism" title="Human iron metabolism">Iron metabolism</a></li></ul></li>
+<li><a href="/wiki/Ethanol_metabolism" title="Ethanol metabolism">Ethanol metabolism</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div aria-labelledby="Metabolism_map" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background:#E0E0E0"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:MetabolismMap" title="Template:MetabolismMap"><abbr style=";background:#E0E0E0;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:MetabolismMap" title="Template talk:MetabolismMap"><abbr style=";background:#E0E0E0;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:MetabolismMap&amp;action=edit"><abbr style=";background:#E0E0E0;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Metabolism_map" style="font-size:114%;margin:0 4em"><a href="/wiki/Metabolism" title="Metabolism">Metabolism</a> map</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><div style="border:solid #ccc 1px;width:810px;margin: 0 auto">
+<table cellpadding="0" role="presentation" style="border-spacing:0; margin-left: auto; margin-right: auto; border: none;">
+<tbody><tr>
+<td><div class="thumb center" style="margin: 1em auto;">
+<div class="thumbinner" style="width:802px;border:0px;background-color:#fff">
+<div style="position:relative; width:800px; height:600px; overflow:hidden; border:0px; background-color:white;">
+<div style="left:0px; top:0px; width:800px; position:absolute"> <a href="/wiki/File:Metabolic_Metro_Map.svg" title="File:Metabolic Metro Map.svg"><img alt="Metro-style map of major metabolic pathways" data-file-height="945" data-file-width="1260" height="600" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Metabolic_Metro_Map_%28no_legends%29.svg/800px-Metabolic_Metro_Map_%28no_legends%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Metabolic_Metro_Map_%28no_legends%29.svg/1200px-Metabolic_Metro_Map_%28no_legends%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Metabolic_Metro_Map_%28no_legends%29.svg/1600px-Metabolic_Metro_Map_%28no_legends%29.svg.png 2x" width="800"/></a>
+</div>
+<div style="text-align:center; font-size:8px; line-height:110%;">
+<div style="background-color:transparent; color:black"><div id="annotation_225x150" style="position:absolute; left:225px; top:150px; font-size:15px; line-height:17px;"><span style="background-color:;"> <i><a href="/wiki/Carbon_fixation" title="Carbon fixation"><span style="color:#bc00bc;">Carbon<br/>Fixation</span></a></i> </span></div>
+<div id="annotation_135x185" style="position:absolute; left:135px; top:185px; font-size:15px; line-height:17px;"><span style="background-color:;"> <i><a href="/wiki/Photorespiration" title="Photorespiration"><span style="color:#5400a9;">Photo-<br/>respiration</span></a></i> </span></div>
+<div id="annotation_395x140" style="position:absolute; left:395px; top:140px; font-size:15px; line-height:17px;"><span style="background-color:;"> <i><a href="/wiki/Pentose_phosphate_pathway" title="Pentose phosphate pathway"><span style="color:#bc00bc;">Pentose<br/>Phosphate<br/>Pathway</span></a></i> </span></div>
+<div id="annotation_215x340" style="position:absolute; left:215px; top:340px; font-size:15px; line-height:17px;"><span style="background-color:;"> <i><a href="/wiki/Citric_acid_cycle" title="Citric acid cycle"><span style="color:#edb500;">Citric<br/>Acid Cycle</span></a></i> </span></div>
+<div id="annotation_365x505" style="position:absolute; left:365px; top:505px; font-size:15px; line-height:17px;"><span style="background-color:;"> <i><a href="/wiki/Glyoxylate_cycle" title="Glyoxylate cycle"><span style="color:#edb500;">Glyoxylate<br/>Cycle</span></a></i> </span></div>
+<div id="annotation_125x398" style="position:absolute; left:125px; top:398px; font-size:15px; line-height:17px;"><span style="background-color:;"> <i><a href="/wiki/Urea_cycle" title="Urea cycle"><span style="color:#89dd00;">Urea<br/>Cycle</span></a></i> </span></div>
+<div id="annotation_495x260" style="position:absolute; left:495px; top:260px; font-size:15px; line-height:17px;"><span style="background-color:;"> <i><a href="/wiki/Fatty_acid_synthesis" title="Fatty acid synthesis"><span style="color:#00d300;">Fatty<br/>Acid<br/>Synthesis</span></a></i> </span></div>
+<div id="annotation_495x335" style="position:absolute; left:495px; top:335px; font-size:15px; line-height:17px;"><span style="background-color:;"> <i><a href="/wiki/Fatty_acid_synthesis" title="Fatty acid synthesis"><span style="color:#00d300;">Fatty<br/>Acid<br/>Elongation</span></a></i> </span></div>
+<div id="annotation_497x425" style="position:absolute; left:497px; top:425px; font-size:15px; line-height:17px;"><span style="background-color:;"> <i><a href="/wiki/Beta_oxidation" title="Beta oxidation"><span style="color:#ff66cc;">Beta<br/>Oxidation</span></a></i> </span></div>
+<div id="annotation_495x495" style="position:absolute; left:495px; top:495px; font-size:12px; line-height:14px;"><span style="background-color:;"> <i><a href="/wiki/Beta_oxidation#Peroxisomal_beta-oxidation" title="Beta oxidation"><span style="color:#ff66cc;">Peroxisomal</span></a></i> </span></div>
+<div id="annotation_497x510" style="position:absolute; left:497px; top:510px; font-size:15px; line-height:17px;"><span style="background-color:;"> <i><a href="/wiki/Beta_oxidation#Peroxisomal_beta-oxidation" title="Beta oxidation"><span style="color:#ff66cc;">Beta<br/>Oxidation</span></a></i> </span></div>
+<p><br/>
+</p>
+<div id="annotation_295x42" style="position:absolute; left:295px; top:42px; font-size:9px; line-height:11px; text-align:right;"><span style="background-color:;"> <i><b><a href="/wiki/Glycogenolysis" title="Glycogenolysis"><span style="color:#8a2c2c;">Glyco-<br/>genolysis</span></a></b></i> </span></div>
+<div id="annotation_280x80" style="position:absolute; left:280px; top:80px; font-size:9px; line-height:11px; text-align:left;"><span style="background-color:;"> <i><b><a href="/wiki/Glycogenesis" title="Glycogenesis"><span style="color:#2e427e;">Glyco-<br/>genesis</span></a></b></i> </span></div>
+<div id="annotation_360x160" style="position:absolute; left:360px; top:160px; font-size:9px; line-height:11px; text-align:left;"><span style="background-color:;"> <i><b><a href="/wiki/Glycolysis" title="Glycolysis"><span style="color:#ea0000;">Glyco-<br/>lysis</span></a></b></i> </span></div>
+<div id="annotation_300x160" style="position:absolute; left:300px; top:160px; font-size:9px; line-height:11px; text-align:right;"><span style="background-color:;"> <i><b><a href="/wiki/Gluconeogenesis" title="Gluconeogenesis"><span style="color:#0033cc;">Gluconeo-<br/>genesis</span></a></b></i> </span></div>
+<div id="annotation_310x340" style="position:absolute; left:310px; top:340px; font-size:9px; line-height:11px; text-align:right;"><span style="background-color:;"> <i><b><a href="/wiki/Pyruvate_dehydrogenase" title="Pyruvate dehydrogenase"><span style="color:#ea6000;">Decarb-<br/>oxylation</span></a></b></i> </span></div>
+<div id="annotation_365x335" style="position:absolute; left:365px; top:335px; font-size:9px; line-height:11px;"><span style="background-color:;"> <i><b><a href="/wiki/Lactic_acid_fermentation" title="Lactic acid fermentation"><span style="color:#d47ff0;">Fermentation</span></a></b></i> </span></div>
+<div id="annotation_325x430" style="position:absolute; left:325px; top:430px; font-size:9px; line-height:11px; text-align:right;"><span style="background-color:;"> <i><b><a href="/wiki/Ketone_bodies" title="Ketone bodies"><span style="color:#e06c1f;">Keto-<br/>lysis</span></a></b></i> </span></div>
+<div id="annotation_365x430" style="position:absolute; left:365px; top:430px; font-size:9px; line-height:11px; text-align:left;"><span style="background-color:;"> <i><b><a href="/wiki/Ketogenesis" title="Ketogenesis"><span style="color:#5f8216;">Keto-<br/>genesis</span></a></b></i> </span></div>
+<div id="annotation_195x470" style="position:absolute; left:195px; top:470px; font-size:9px; line-height:11px; text-align:left;"><span style="background-color:;"> <i><b><a href="/wiki/Gluconeogenesis" title="Gluconeogenesis"><span style="color:#0033cc;">feeders to<br/>Gluconeo-<br/>genesis</span></a></b></i> </span></div>
+<div id="annotation_225x230" style="position:absolute; left:225px; top:230px; font-size:9px; line-height:11px; text-align:right;"><span style="background-color:;"> <i><b><a href="/wiki/Carbon_fixation#Carbon_concentrating_mechanisms" title="Carbon fixation"><span style="color:#9373d3;">Direct / C4 / CAM<br/>Carbon Intake</span></a></b></i> </span></div>
+<div id="annotation_125x143" style="position:absolute; left:125px; top:143px; font-size:9px; line-height:11px;"><span style="background-color:;"> <i><b><a href="/wiki/Light-dependent_reactions" title="Light-dependent reactions"><span style="color:#9373d3;">Light Reaction</span></a></b></i> </span></div>
+<div id="annotation_115x355" style="position:absolute; left:115px; top:355px; font-size:9px; line-height:11px;"><span style="background-color:;"> <i><b><a href="/wiki/Oxidative_phosphorylation" title="Oxidative phosphorylation"><span style="color:#c34747;">Oxidative<br/>Phosphorylation</span></a></b></i> </span></div>
+<div id="annotation_25x415" style="position:absolute; left:25px; top:415px; font-size:9px; line-height:11px;"><span style="background-color:;"> <i><b><a href="/wiki/Deamination" title="Deamination"><span style="color:#4999c2;">Amino Acid<br/>Deamination</span></a></b></i> </span></div>
+<div id="annotation_315x288" style="position:absolute; left:315px; top:288px; font-size:9px; line-height:11px;"><span style="background-color:;"> <i><b><a href="/wiki/Fatty_acid_synthesis#Glycolytic_end_products_are_used_in_the_conversion_of_carbohydrates_into_fatty_acids" title="Fatty acid synthesis"><span style="color:#00d300;">Citrate<br/>Shuttle</span></a></b></i> </span></div>
+<div id="annotation_590x415" style="position:absolute; left:590px; top:415px; font-size:9px; line-height:11px; text-align:left;"><span style="background-color:;"> <i><b><a href="/wiki/Lipogenesis" title="Lipogenesis"><span style="color:#00d300;">Lipogenesis</span></a></b></i> </span></div>
+<div id="annotation_590x455" style="position:absolute; left:590px; top:455px; font-size:9px; line-height:11px; text-align:left;"><span style="background-color:;"> <i><b><a href="/wiki/Lipolysis" title="Lipolysis"><span style="color:#ff66cc;">Lipolysis</span></a></b></i> </span></div>
+<div id="annotation_585x260" style="position:absolute; left:585px; top:260px; font-size:9px; line-height:11px;"><span style="background-color:;"> <i><b><a href="/wiki/Steroid#Steroidogenesis" title="Steroid"><span style="color:#0099cc;">Steroidogenesis</span></a></b></i> </span></div>
+<div id="annotation_470x235" style="position:absolute; left:470px; top:235px; font-size:9px; line-height:11px;"><span style="background-color:;"> <i><b><a href="/wiki/Mevalonate_pathway" title="Mevalonate pathway"><span style="color:#0099cc;">MVA Pathway</span></a></b></i> </span></div>
+<div id="annotation_460x210" style="position:absolute; left:460px; top:210px; font-size:9px; line-height:11px;"><span style="background-color:;"> <i><b><a href="/wiki/Non-mevalonate_pathway" title="Non-mevalonate pathway"><span style="color:#af753a;">MEP Pathway</span></a></b></i> </span></div>
+<div id="annotation_487x153" style="position:absolute; left:487px; top:153px; font-size:9px; line-height:11px;"><span style="background-color:;"> <i><b><a href="/wiki/Shikimate_pathway" title="Shikimate pathway"><span style="color:#00cc99;">Shikimate<br/>Pathway</span></a></b></i> </span></div>
+<div id="annotation_555x105" style="position:absolute; left:555px; top:105px; font-size:9px; line-height:11px;"><span style="background-color:;"> <i><b><a class="mw-redirect" href="/wiki/Transcription_(genetics)" title="Transcription (genetics)"><span style="color:#79793d;">Transcription &amp;</span></a><br/><a href="/wiki/DNA_replication" title="DNA replication"><span style="color:#79793d;">Replication</span></a></b></i> </span></div>
+<div id="annotation_600x83" style="position:absolute; left:600px; top:83px; font-size:9px; line-height:11px;"><span style="background-color:;"> <i><b><a href="/wiki/Translation_(biology)" title="Translation (biology)"><span style="color:#79793d;">Translation</span></a></b></i> </span></div>
+<div id="annotation_600x57" style="position:absolute; left:600px; top:57px; font-size:9px; line-height:11px;"><span style="background-color:;"> <i><b><a href="/wiki/Proteolysis" title="Proteolysis"><span style="color:#6666cc;">Proteolysis</span></a></b></i> </span></div>
+<div id="annotation_690x55" style="position:absolute; left:690px; top:55px; font-size:9px; line-height:11px;"><span style="background-color:;"> <i><b><a href="/wiki/Glycosylation" title="Glycosylation"><span style="color:#79793d;">Glycosy-<br/>lation</span></a></b></i> </span></div>
+<p><br/>
+</p>
+<div id="annotation_210x38" style="position:absolute; left:210px; top:38px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Sugar_acid" title="Sugar acid">Sugar<br/>Acids</a> </span></div>
+<div id="annotation_240x38" style="position:absolute; left:240px; top:38px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Disaccharide" title="Disaccharide">Double</a>/<a href="/wiki/Polysaccharide" title="Polysaccharide">Multiple<br/>Sugars</a> &amp; <a href="/wiki/Glycan" title="Glycan">Glycans</a> </span></div>
+<div id="annotation_340x38" style="position:absolute; left:340px; top:38px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Monosaccharide" title="Monosaccharide">Simple<br/>Sugars</a> </span></div>
+<div id="annotation_380x45" style="position:absolute; left:380px; top:45px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Inositol_phosphate" title="Inositol phosphate">Inositol-P</a> </span></div>
+<div id="annotation_160x90" style="position:absolute; left:160px; top:90px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Amino_sugar" title="Amino sugar">Amino Sugars</a><br/>&amp; <a href="/wiki/Sialic_acid" title="Sialic acid">Sialic Acids</a> </span></div>
+<div id="annotation_245x120" style="position:absolute; left:245px; top:120px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Nucleotide_sugar" title="Nucleotide sugar">Nucleotide Sugars</a> </span></div>
+<div id="annotation_365x105" style="position:absolute; left:365px; top:105px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Glucose_6-phosphate" title="Glucose 6-phosphate">Hexose-P</a> </span></div>
+<div id="annotation_315x180" style="position:absolute; left:315px; top:180px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Glyceraldehyde_3-phosphate" title="Glyceraldehyde 3-phosphate">Triose-P</a> </span></div>
+<div id="annotation_305x240" style="position:absolute; left:305px; top:240px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Glycerol" title="Glycerol">Glycerol</a> </span></div>
+<div id="annotation_300x260" style="position:absolute; left:300px; top:260px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Phosphoglycerate" title="Phosphoglycerate">P-glycerates</a> </span></div>
+<div id="annotation_425x110" style="position:absolute; left:425px; top:110px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Ribose_5-phosphate" title="Ribose 5-phosphate">Pentose-P</a> </span></div>
+<div id="annotation_470x190" style="position:absolute; left:470px; top:190px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Erythrose_4-phosphate" title="Erythrose 4-phosphate">Tetrose-P</a> </span></div>
+<div id="annotation_410x440" style="position:absolute; left:410px; top:440px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Propionyl-CoA" title="Propionyl-CoA">Propionyl<br/>-CoA</a> </span></div>
+<div id="annotation_310x495" style="position:absolute; left:310px; top:495px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Succinic_acid" title="Succinic acid">Succinate</a> </span></div>
+<div id="annotation_455x530" style="position:absolute; left:455px; top:530px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Acetyl-CoA" title="Acetyl-CoA">Acetyl<br/>-CoA</a> </span></div>
+<div id="annotation_150x155" style="position:absolute; left:150px; top:155px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Ribose_5-phosphate" title="Ribose 5-phosphate">Pentose-P</a> </span></div>
+<div id="annotation_230x210" style="position:absolute; left:230px; top:210px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Phosphoglycerate" title="Phosphoglycerate">P-glycerates</a> </span></div>
+<div id="annotation_85x180" style="position:absolute; left:85px; top:180px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Glyoxylic_acid" title="Glyoxylic acid">Glyoxylate</a> </span></div>
+<div id="annotation_65x152" style="position:absolute; left:65px; top:152px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Photosystem" title="Photosystem">Photosystems</a> </span></div>
+<div id="annotation_320x310" style="position:absolute; left:320px; top:310px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Pyruvic_acid" title="Pyruvic acid">Pyruvate</a> </span></div>
+<div id="annotation_410x308" style="position:absolute; left:410px; top:308px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Lactic_acid" title="Lactic acid">Lactate</a> </span></div>
+<div id="annotation_365x345" style="position:absolute; left:365px; top:345px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Acetyl-CoA" title="Acetyl-CoA">Acetyl<br/>-CoA</a> </span></div>
+<div id="annotation_295x380" style="position:absolute; left:295px; top:380px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Citric_acid" title="Citric acid">Citrate</a> </span></div>
+<div id="annotation_270x300" style="position:absolute; left:270px; top:300px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Oxaloacetic_acid" title="Oxaloacetic acid">Oxalo-<br/>acetate</a> </span></div>
+<div id="annotation_200x310" style="position:absolute; left:200px; top:310px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Malic_acid" title="Malic acid">Malate</a> </span></div>
+<div id="annotation_195x405" style="position:absolute; left:195px; top:405px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Succinyl-CoA" title="Succinyl-CoA">Succinyl<br/>-CoA</a> </span></div>
+<div id="annotation_275x405" style="position:absolute; left:275px; top:405px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Alpha-Ketoglutaric_acid" title="Alpha-Ketoglutaric acid">α-Keto-<br/>glutarate</a> </span></div>
+<div id="annotation_370x455" style="position:absolute; left:370px; top:455px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Ketone_bodies" title="Ketone bodies">Ketone<br/>Bodies</a> </span></div>
+<div id="annotation_70x365" style="position:absolute; left:70px; top:365px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Electron_transport_chain" title="Electron transport chain">Respiratory<br/>Chain</a> </span></div>
+<div id="annotation_370x265" style="position:absolute; left:370px; top:265px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Serine" title="Serine">Serine Group</a> </span></div>
+<div id="annotation_395x290" style="position:absolute; left:395px; top:290px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Alanine" title="Alanine">Alanine</a> </span></div>
+<div id="annotation_415x345" style="position:absolute; left:415px; top:345px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Branched-chain_amino_acid" title="Branched-chain amino acid">Branched-chain<br/>Amino Acids</a> </span></div>
+<div id="annotation_275x275" style="position:absolute; left:275px; top:275px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Aspartic_acid" title="Aspartic acid">Aspartate<br/>Group</a> </span></div>
+<div id="annotation_180x250" style="position:absolute; left:180px; top:250px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Homoserine" title="Homoserine">Homoserine<br/>Group</a><br/>&amp; <a href="/wiki/Lysine" title="Lysine">Lysine</a> </span></div>
+<div id="annotation_280x445" style="position:absolute; left:280px; top:445px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Glutamic_acid" title="Glutamic acid">Glutamate<br/>Group</a><br/>&amp; <a href="/wiki/Proline" title="Proline">Proline</a> </span></div>
+<div id="annotation_105x465" style="position:absolute; left:105px; top:465px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Arginine" title="Arginine">Arginine</a> </span></div>
+<div id="annotation_40x465" style="position:absolute; left:40px; top:465px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Creatine" title="Creatine">Creatine</a><br/>&amp; <a href="/wiki/Polyamine" title="Polyamine">Polyamines</a> </span></div>
+<div id="annotation_415x385" style="position:absolute; left:415px; top:385px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Ketogenic_amino_acid" title="Ketogenic amino acid">Ketogenic</a> &amp;<br/><a href="/wiki/Glucogenic_amino_acid" title="Glucogenic amino acid">Glucogenic<br/>Amino Acids</a> </span></div>
+<div id="annotation_550x85" style="position:absolute; left:550px; top:85px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Amino_acid" title="Amino acid">Amino Acids</a> </span></div>
+<div id="annotation_520x190" style="position:absolute; left:520px; top:190px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Shikimic_acid" title="Shikimic acid">Shikimate</a> </span></div>
+<div id="annotation_635x165" style="position:absolute; left:635px; top:165px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Aromatic_amino_acid" title="Aromatic amino acid">Aromatic Amino<br/>Acids</a> &amp; <a href="/wiki/Histidine" title="Histidine">Histidine</a> </span></div>
+<div id="annotation_158x38" style="position:absolute; left:158px; top:38px; line-height:110%"><span style="background-color:transparent;"> <a class="mw-redirect" href="/wiki/Ascorbate" title="Ascorbate">Ascorbate</a><br/>(<a href="/wiki/Vitamin_C" title="Vitamin C">Vitamin C</a>) </span></div>
+<div id="annotation_275x490" style="position:absolute; left:275px; top:490px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Aminolevulinic_acid" title="Aminolevulinic acid">δ-ALA<br/></a> </span></div>
+<div id="annotation_155x510" style="position:absolute; left:155px; top:510px; line-height:110%"><span style="background-color:transparent;"> <a class="mw-redirect" href="/wiki/Bile_pigment" title="Bile pigment">Bile<br/>Pigments</a> </span></div>
+<div id="annotation_210x520" style="position:absolute; left:210px; top:520px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Heme" title="Heme">Hemes</a> </span></div>
+<div id="annotation_245x585" style="position:absolute; left:245px; top:585px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Cobalamin" title="Cobalamin">Cobalamins</a> (<a class="mw-redirect" href="/wiki/Vitamin_B" title="Vitamin B">Vitamin B<sub>12</sub></a>) </span></div>
+<div id="annotation_425x45" style="position:absolute; left:425px; top:45px; line-height:110%"><span style="background-color:transparent;"> <a class="mw-redirect" href="/wiki/Vitamin_B" title="Vitamin B">Various<br/>Vitamin B's</a> </span></div>
+<div id="annotation_625x300" style="position:absolute; left:625px; top:300px; line-height:110%"><span style="background-color:transparent;"> <a class="mw-redirect" href="/wiki/Calciferol" title="Calciferol">Calciferols</a><br/>(<a href="/wiki/Vitamin_D" title="Vitamin D">Vitamin D</a>) </span></div>
+<div id="annotation_725x235" style="position:absolute; left:725px; top:235px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Retinoid" title="Retinoid">Retinoids</a><br/>(<a href="/wiki/Vitamin_A" title="Vitamin A">Vitamin A</a>) </span></div>
+<div id="annotation_590x190" style="position:absolute; left:590px; top:190px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Quinone" title="Quinone">Quinones</a> (<a href="/wiki/Vitamin_K" title="Vitamin K">Vitamin K</a>)<br/>&amp; <a href="/wiki/Carotenoid" title="Carotenoid">Carotenoids</a> (<a href="/wiki/Vitamin_E" title="Vitamin E">Vitamin E</a>) </span></div>
+<div id="annotation_665x140" style="position:absolute; left:665px; top:140px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Cofactor_(biochemistry)" title="Cofactor (biochemistry)">Cofactors</a> </span></div>
+<div id="annotation_745x140" style="position:absolute; left:745px; top:140px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Vitamin" title="Vitamin">Vitamins</a><br/>&amp; <a href="/wiki/Metalloprotein" title="Metalloprotein">Minerals</a> </span></div>
+<div id="annotation_720x185" style="position:absolute; left:720px; top:185px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Antioxidant" title="Antioxidant">Antioxidants</a> </span></div>
+<div id="annotation_490x140" style="position:absolute; left:490px; top:140px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Phosphoribosyl_pyrophosphate" title="Phosphoribosyl pyrophosphate">PRPP</a> </span></div>
+<div id="annotation_535x140" style="position:absolute; left:535px; top:140px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Nucleotide" title="Nucleotide">Nucleotides</a> </span></div>
+<div id="annotation_610x140" style="position:absolute; left:610px; top:140px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Nucleic_acid" title="Nucleic acid">Nucleic<br/>Acids</a> </span></div>
+<div id="annotation_665x87" style="position:absolute; left:665px; top:87px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Protein" title="Protein">Proteins</a> </span></div>
+<div id="annotation_710x87" style="position:absolute; left:710px; top:87px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Glycoprotein" title="Glycoprotein">Glycoproteins</a><br/>&amp; <a href="/wiki/Proteoglycan" title="Proteoglycan">Proteoglycans</a> </span></div>
+<div id="annotation_280x520" style="position:absolute; left:280px; top:520px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Chlorophyll" title="Chlorophyll">Chlorophylls</a> </span></div>
+<div id="annotation_410x235" style="position:absolute; left:410px; top:235px; line-height:110%"><span style="background-color:transparent;"> <a class="mw-redirect" href="/wiki/Methylerythritol_phosphate" title="Methylerythritol phosphate">MEP</a> </span></div>
+<div id="annotation_420x245" style="position:absolute; left:420px; top:245px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Mevalonic_acid" title="Mevalonic acid">MVA</a> </span></div>
+<div id="annotation_420x260" style="position:absolute; left:420px; top:260px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Acetyl-CoA" title="Acetyl-CoA">Acetyl<br/>-CoA</a> </span></div>
+<div id="annotation_440x330" style="position:absolute; left:440px; top:330px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Polyketide" title="Polyketide">Polyketides</a> </span></div>
+<div id="annotation_555x230" style="position:absolute; left:555px; top:230px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Isopentenyl_pyrophosphate" title="Isopentenyl pyrophosphate">Terpenoid<br/>Backbones</a> </span></div>
+<div id="annotation_625x235" style="position:absolute; left:625px; top:235px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Terpenoid" title="Terpenoid">Terpenoids</a><br/>&amp; <a href="/wiki/Carotenoid" title="Carotenoid">Carotenoids</a> (<a href="/wiki/Vitamin_A" title="Vitamin A">Vitamin A</a>) </span></div>
+<div id="annotation_640x287" style="position:absolute; left:640px; top:287px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Cholesterol" title="Cholesterol">Cholesterol</a> </span></div>
+<div id="annotation_720x287" style="position:absolute; left:720px; top:287px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Bile_acid" title="Bile acid">Bile Acids</a> </span></div>
+<div id="annotation_640x330" style="position:absolute; left:640px; top:330px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Glycerophospholipid" title="Glycerophospholipid">Glycero-<br/>phospholipids</a> </span></div>
+<div id="annotation_600x397" style="position:absolute; left:600px; top:397px; line-height:110%"><span style="background-color:transparent;"> <a class="mw-redirect" href="/wiki/Glycerolipid" title="Glycerolipid">Glycerolipids</a> </span></div>
+<div id="annotation_620x430" style="position:absolute; left:620px; top:430px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Acyl-CoA" title="Acyl-CoA">Acyl-CoA</a> </span></div>
+<div id="annotation_630x500" style="position:absolute; left:630px; top:500px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Fatty_acid" title="Fatty acid">Fatty<br/>Acids</a> </span></div>
+<div id="annotation_720x350" style="position:absolute; left:720px; top:350px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Glycosphingolipid" title="Glycosphingolipid">Glyco-<br/>sphingolipids</a> </span></div>
+<div id="annotation_720x397" style="position:absolute; left:720px; top:397px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Sphingolipid" title="Sphingolipid">Sphingolipids</a> </span></div>
+<div id="annotation_720x440" style="position:absolute; left:720px; top:440px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Wax" title="Wax">Waxes</a> </span></div>
+<div id="annotation_680x497" style="position:absolute; left:680px; top:497px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Polyunsaturated_fatty_acid" title="Polyunsaturated fatty acid">Polyunsaturated<br/>Fatty Acids</a> </span></div>
+<div id="annotation_470x45" style="position:absolute; left:470px; top:45px; line-height:110%"><span style="background-color:transparent;"> <a class="mw-redirect" href="/wiki/Neurotransmitters" title="Neurotransmitters">Neurotransmitters</a><br/>&amp; <a class="mw-redirect" href="/wiki/Thyroid_hormone" title="Thyroid hormone">Thyroid Hormones</a> </span></div>
+<div id="annotation_705x305" style="position:absolute; left:705px; top:305px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Steroid" title="Steroid">Steroids</a> </span></div>
+<div id="annotation_587x330" style="position:absolute; left:587px; top:330px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Endocannabinoid_system" title="Endocannabinoid system">Endo-<br/>cannabinoids</a> </span></div>
+<div id="annotation_735x465" style="position:absolute; left:735px; top:465px; line-height:110%"><span style="background-color:transparent;"> <a href="/wiki/Eicosanoid" title="Eicosanoid">Eicosanoids</a> </span></div></div>
+</div>
+</div>
+</div>
+</div>
+</td></tr></tbody></table></div><div class="thumbcaption"><div style="float:left;margin-right:0.5em"><img alt="The image above contains clickable links" data-file-height="200" data-file-width="133" height="27" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/18px-Interactive_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/27px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/36px-Interactive_icon.svg.png 2x" title="The image above contains clickable links" width="18"/></div> Major <a class="mw-redirect" href="/wiki/Metabolic_pathways" title="Metabolic pathways">metabolic pathways</a> in <a href="/wiki/Transit_map" title="Transit map">metro-style map</a>. Click any text (name of pathway or metabolites) to link to the corresponding article.<br/>Single lines: pathways common to most lifeforms. Double lines: pathways not in humans (occurs in e.g. plants, fungi, prokaryotes). <span class="nowrap"><img alt="Metabolic metro orange.svg" data-file-height="34" data-file-width="30" height="17" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Metabolic_metro_orange.svg/15px-Metabolic_metro_orange.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Metabolic_metro_orange.svg/23px-Metabolic_metro_orange.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Metabolic_metro_orange.svg/30px-Metabolic_metro_orange.svg.png 2x" width="15"/> Orange nodes: <a href="/wiki/Carbohydrate_metabolism" title="Carbohydrate metabolism">carbohydrate metabolism</a>.</span> <span class="nowrap"><img alt="Metabolic metro purple.svg" data-file-height="34" data-file-width="30" height="17" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Metabolic_metro_purple.svg/15px-Metabolic_metro_purple.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Metabolic_metro_purple.svg/23px-Metabolic_metro_purple.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Metabolic_metro_purple.svg/30px-Metabolic_metro_purple.svg.png 2x" width="15"/> Violet nodes: <a href="/wiki/Photosynthesis" title="Photosynthesis">photosynthesis</a>.</span> <span class="nowrap"><img alt="Metabolic metro red.svg" data-file-height="34" data-file-width="30" height="17" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Metabolic_metro_red.svg/15px-Metabolic_metro_red.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Metabolic_metro_red.svg/23px-Metabolic_metro_red.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Metabolic_metro_red.svg/30px-Metabolic_metro_red.svg.png 2x" width="15"/> Red nodes: <a href="/wiki/Cellular_respiration" title="Cellular respiration">cellular respiration</a>.</span> <span class="nowrap"><img alt="Metabolic metro pink.svg" data-file-height="34" data-file-width="30" height="17" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Metabolic_metro_pink.svg/15px-Metabolic_metro_pink.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Metabolic_metro_pink.svg/23px-Metabolic_metro_pink.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Metabolic_metro_pink.svg/30px-Metabolic_metro_pink.svg.png 2x" width="15"/> Pink nodes: <a href="/wiki/Cell_signaling" title="Cell signaling">cell signaling</a>.</span> <span class="nowrap"><img alt="Metabolic metro blue.svg" data-file-height="34" data-file-width="30" height="17" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Metabolic_metro_blue.svg/15px-Metabolic_metro_blue.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Metabolic_metro_blue.svg/23px-Metabolic_metro_blue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Metabolic_metro_blue.svg/30px-Metabolic_metro_blue.svg.png 2x" width="15"/> Blue nodes: <a class="mw-redirect" href="/wiki/Amino_acid_metabolism" title="Amino acid metabolism">amino acid metabolism</a>.</span> <span class="nowrap"><img alt="Metabolic metro grey.svg" data-file-height="34" data-file-width="30" height="17" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Metabolic_metro_grey.svg/15px-Metabolic_metro_grey.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Metabolic_metro_grey.svg/23px-Metabolic_metro_grey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Metabolic_metro_grey.svg/30px-Metabolic_metro_grey.svg.png 2x" width="15"/> Grey nodes: <a href="/wiki/Vitamin" title="Vitamin">vitamin</a> and <a href="/wiki/Cofactor_(biochemistry)" title="Cofactor (biochemistry)">cofactor</a> metabolism.</span> <span class="nowrap"><img alt="Metabolic metro brown.svg" data-file-height="34" data-file-width="30" height="17" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Metabolic_metro_brown.svg/15px-Metabolic_metro_brown.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Metabolic_metro_brown.svg/23px-Metabolic_metro_brown.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Metabolic_metro_brown.svg/30px-Metabolic_metro_brown.svg.png 2x" width="15"/> Brown nodes: <a href="/wiki/Nucleic_acid_metabolism" title="Nucleic acid metabolism">nucleotide</a> and <a href="/wiki/Protein_metabolism" title="Protein metabolism">protein</a> metabolism.</span> <span class="nowrap"><img alt="Metabolic metro green.svg" data-file-height="34" data-file-width="30" height="17" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Metabolic_metro_green.svg/15px-Metabolic_metro_green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Metabolic_metro_green.svg/23px-Metabolic_metro_green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Metabolic_metro_green.svg/30px-Metabolic_metro_green.svg.png 2x" width="15"/> Green nodes: <a href="/wiki/Lipid_metabolism" title="Lipid metabolism">lipid metabolism</a>.</span></div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1248
+Cached time: 20181013115216
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.488 seconds
+Real time usage: 0.578 seconds
+Preprocessor visited node count: 5894/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 243864/2097152 bytes
+Template argument size: 34797/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 28476/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.173/10.000 seconds
+Lua memory usage: 4.14 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  359.073      1 -total
+ 51.90%  186.376      1 Template:Reflist
+ 36.67%  131.668      8 Template:Navbox
+ 27.11%   97.342      8 Template:Cite_journal
+ 23.54%   84.515      1 Template:MetabolismMap
+ 20.90%   75.039      1 Template:Metabolic_metro
+ 17.56%   63.047      1 Template:Cite_book
+ 16.84%   60.474      1 Template:Annotated_image_4
+ 16.61%   59.629      1 Template:Disputed_inline
+ 12.88%   46.252    114 Template:Annotation
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:435420-0!canonical and timestamp 20181013115216 and revision id 860695549
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Anaerobic_respiration&amp;oldid=860695549">https://en.wikipedia.org/w/index.php?title=Anaerobic_respiration&amp;oldid=860695549</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Anaerobic_digestion" title="Category:Anaerobic digestion">Anaerobic digestion</a></li><li><a href="/wiki/Category:Biodegradation" title="Category:Biodegradation">Biodegradation</a></li><li><a href="/wiki/Category:Cellular_respiration" title="Category:Cellular respiration">Cellular respiration</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li><li><a href="/wiki/Category:All_accuracy_disputes" title="Category:All accuracy disputes">All accuracy disputes</a></li><li><a href="/wiki/Category:Articles_with_disputed_statements_from_July_2014" title="Category:Articles with disputed statements from July 2014">Articles with disputed statements from July 2014</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Anaerobic+respiration" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Anaerobic+respiration" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Anaerobic_respiration" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Anaerobic_respiration" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Anaerobic_respiration">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Anaerobic_respiration&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Anaerobic_respiration&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Anaerobic_respiration" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Anaerobic_respiration" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Anaerobic_respiration&amp;oldid=860695549" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Anaerobic_respiration&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q181713" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Anaerobic_respiration&amp;id=860695549" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Anaerobic+respiration">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Anaerobic+respiration&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Anaerobic_respiration&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Anaerobic_respiration" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D9%86%D9%81%D8%B3_%D9%84%D8%A7%D9%87%D9%88%D8%A7%D8%A6%D9%8A" hreflang="ar" lang="ar" title="تنفس لاهوائي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Oksigensiz_t%C9%99n%C9%99ff%C3%BCs" hreflang="az" lang="az" title="Oksigensiz tənəffüs – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Respiraci%C3%B3_anaer%C3%B2bica" hreflang="ca" lang="ca" title="Respiració anaeròbica – Catalan">Català</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Anaerob_respiration" hreflang="da" lang="da" title="Anaerob respiration – Danish">Dansk</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Anaeroobne_hingamine" hreflang="et" lang="et" title="Anaeroobne hingamine – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%91%CE%BD%CE%B1%CE%B5%CF%81%CE%BF%CE%B2%CE%B9%CE%BA%CE%AE_%CE%B1%CE%BD%CE%B1%CF%80%CE%BD%CE%BF%CE%AE" hreflang="el" lang="el" title="Αναεροβική αναπνοή – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Respiraci%C3%B3n_anaerobia" hreflang="es" lang="es" title="Respiración anaerobia – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Arnasketa_anaerobio" hreflang="eu" lang="eu" title="Arnasketa anaerobio – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Respiration_ana%C3%A9robie" hreflang="fr" lang="fr" title="Respiration anaérobie – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Respiraci%C3%B3n_anaerobia" hreflang="gl" lang="gl" title="Respiración anaerobia – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%AC%B4%EC%82%B0%EC%86%8C_%ED%98%B8%ED%9D%A1" hreflang="ko" lang="ko" title="무산소 호흡 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%B5%E0%A4%BE%E0%A4%AF%E0%A4%B5%E0%A5%80%E0%A4%AF_%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B8%E0%A4%A8" hreflang="hi" lang="hi" title="अवायवीय श्वसन – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Respirazione_anaerobica" hreflang="it" lang="it" title="Respirazione anaerobica – Italian">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Anaerob_l%C3%A9gz%C3%A9s" hreflang="hu" lang="hu" title="Anaerob légzés – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%B5%E0%B4%BE%E0%B4%AF%E0%B4%B5%E0%B4%B6%E0%B5%8D%E0%B4%B5%E0%B4%B8%E0%B4%A8%E0%B4%82" hreflang="ml" lang="ml" title="അവായവശ്വസനം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Respirasi_anaerob" hreflang="ms" lang="ms" title="Respirasi anaerob – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%AB%8C%E6%B0%97%E5%91%BC%E5%90%B8" hreflang="ja" lang="ja" title="嫌気呼吸 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Oddychanie_beztlenowe" hreflang="pl" lang="pl" title="Oddychanie beztlenowe – Polish">Polski</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Respira%C8%9Bie_anaerob%C4%83" hreflang="ro" lang="ro" title="Respirație anaerobă – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D1%8D%D1%80%D0%BE%D0%B1%D0%BD%D0%BE%D0%B5_%D0%B4%D1%8B%D1%85%D0%B0%D0%BD%D0%B8%D0%B5" hreflang="ru" lang="ru" title="Анаэробное дыхание – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Anaerobic_respiration" hreflang="simple" lang="simple" title="Anaerobic respiration – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Oksijensiz_solunum" hreflang="tr" lang="tr" title="Oksijensiz solunum – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D0%B5%D1%80%D0%BE%D0%B1%D0%BD%D0%B5_%D0%B4%D0%B8%D1%85%D0%B0%D0%BD%D0%BD%D1%8F" hreflang="uk" lang="uk" title="Анаеробне дихання – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/H%C3%B4_h%E1%BA%A5p_y%E1%BA%BFm_kh%C3%AD" hreflang="vi" lang="vi" title="Hô hấp yếm khí – Vietnamese">Tiếng Việt</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q181713#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 22 September 2018, at 12:32<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Anaerobic_respiration&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.488","walltime":"0.578","ppvisitednodes":{"value":5894,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":243864,"limit":2097152},"templateargumentsize":{"value":34797,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":28476,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  359.073      1 -total"," 51.90%  186.376      1 Template:Reflist"," 36.67%  131.668      8 Template:Navbox"," 27.11%   97.342      8 Template:Cite_journal"," 23.54%   84.515      1 Template:MetabolismMap"," 20.90%   75.039      1 Template:Metabolic_metro"," 17.56%   63.047      1 Template:Cite_book"," 16.84%   60.474      1 Template:Annotated_image_4"," 16.61%   59.629      1 Template:Disputed_inline"," 12.88%   46.252    114 Template:Annotation"]},"scribunto":{"limitreport-timeusage":{"value":"0.173","limit":"10.000"},"limitreport-memusage":{"value":4337514,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20181013115216","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1256"});});</script>
+</body>
+</html>

@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Fiber - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fiber","wgTitle":"Fiber","wgCurRevisionId":857404386,"wgRevisionId":857404386,"wgArticleId":140558,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia semi-protected pages","Articles needing additional references from April 2009","All articles needing additional references","Wikipedia articles with GND identifiers","Wikipedia articles with NARA identifiers","Wikipedia articles with NDL identifiers","Fibers","Materials","Textiles"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Fiber","wgRelevantArticleId":140558,"wgRequestId":"W8JqpgpAAEQAAAYklj0AAACP","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q161","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/7/77/Kapok_seeds_I_IMG_8004.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Fiber" rel="alternate"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Fiber" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Fiber rootpage-Fiber skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-pp-default"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected until May 22, 2020."><img alt="Page semi-protected" data-file-height="128" data-file-width="128" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/30px-Padlock-silver.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/40px-Padlock-silver.svg.png 2x" width="20"/></a></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Fiber</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Fiber_(disambiguation)" title="Fiber (disambiguation)">Fiber (disambiguation)</a>.</div>
+<p class="mw-empty-elt">
+</p>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Fiber&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(April 2009)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of a series on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a class="mw-selflink selflink">Fiber</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><a class="image" href="/wiki/File:Kapok_seeds_I_IMG_8004.jpg"><img alt="Kapok seeds I IMG 8004.jpg" data-file-height="600" data-file-width="454" height="185" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kapok_seeds_I_IMG_8004.jpg/140px-Kapok_seeds_I_IMG_8004.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kapok_seeds_I_IMG_8004.jpg/210px-Kapok_seeds_I_IMG_8004.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kapok_seeds_I_IMG_8004.jpg/280px-Kapok_seeds_I_IMG_8004.jpg 2x" width="140"/></a></td></tr><tr><th style="padding:0.1em;background-color: #e7dac1">
+<a href="/wiki/Natural_fiber" title="Natural fiber">Natural fibers</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center; padding-left: 0.4em"><a href="/wiki/Animal_fiber" title="Animal fiber">Animal</a></div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Alpaca_fiber" title="Alpaca fiber">Alpaca</a></li>
+<li><a href="/wiki/Angora_wool" title="Angora wool">Angora</a></li>
+<li><a href="/wiki/Byssus" title="Byssus">Byssus</a></li>
+<li><a href="/wiki/Camel_hair" title="Camel hair">Camel hair</a></li>
+<li><a href="/wiki/Cashmere_wool" title="Cashmere wool">Cashmere</a></li>
+<li><a href="/wiki/Catgut" title="Catgut">Catgut</a></li>
+<li><a href="/wiki/Chiengora" title="Chiengora">Chiengora</a></li>
+<li><a href="/wiki/Guanaco#Guanaco_fibre" title="Guanaco">Guanaco</a></li>
+<li><a href="/wiki/Llama#Fiber" title="Llama">Llama</a></li>
+<li><a href="/wiki/Mohair" title="Mohair">Mohair</a></li>
+<li><a href="/wiki/Pashmina" title="Pashmina">Pashmina</a></li>
+<li><a href="/wiki/Qiviut" title="Qiviut">Qiviut</a></li>
+<li><a href="/wiki/Rabbit_hair" title="Rabbit hair">Rabbit</a></li>
+<li><a href="/wiki/Silk" title="Silk">Silk</a></li>
+<li><a href="/wiki/Tendon" title="Tendon">Sinew</a></li>
+<li><a href="/wiki/Spider_silk" title="Spider silk">Spider silk</a></li>
+<li><a href="/wiki/Wool" title="Wool">Wool</a></li>
+<li><a href="/wiki/Vicu%C3%B1a#Vicuña_wool" title="Vicuña">Vicuña</a></li>
+<li><a class="mw-redirect" href="/wiki/Yak#Yak_fiber" title="Yak">Yak</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center; padding-left: 0.4em"><a href="/wiki/Fiber_crop" title="Fiber crop">Plant</a></div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Abac%C3%A1" title="Abacá">Abacá</a></li>
+<li><a href="/wiki/Bagasse" title="Bagasse">Bagasse</a></li>
+<li><a class="mw-redirect" href="/wiki/Bamboo_textiles" title="Bamboo textiles">Bamboo</a></li>
+<li><a href="/wiki/Coir" title="Coir">Coir</a></li>
+<li><a href="/wiki/Cotton" title="Cotton">Cotton</a></li>
+<li><a href="/wiki/Flax" title="Flax">Flax</a> <small>(<a href="/wiki/Linen" title="Linen">Linen</a>)</small></li>
+<li><a href="/wiki/Hemp" title="Hemp">Hemp</a></li>
+<li><a href="/wiki/Jute" title="Jute">Jute</a></li>
+<li><a href="/wiki/Ceiba_pentandra" title="Ceiba pentandra">Kapok</a></li>
+<li><a href="/wiki/Kenaf" title="Kenaf">Kenaf</a></li>
+<li><a href="/wiki/Pi%C3%B1a" title="Piña">Piña</a></li>
+<li><a href="/wiki/Vegetable_flannel" title="Vegetable flannel">Pine</a></li>
+<li><a href="/wiki/Raffia_palm" title="Raffia palm">Raffia</a></li>
+<li><a href="/wiki/Ramie" title="Ramie">Ramie</a></li>
+<li><a href="/wiki/Sisal" title="Sisal">Sisal</a></li>
+<li><a href="/wiki/Wood_fibre" title="Wood fibre">Wood</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center; padding-left: 0.4em"><a class="mw-redirect" href="/wiki/Mineral_fiber" title="Mineral fiber">Mineral</a></div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Asbestos" title="Asbestos">Asbestos</a></li></ul></div></div></td>
+</tr><tr><th style="padding:0.1em;background-color: #e7dac1">
+<a class="mw-redirect" href="/wiki/Man-made_fiber" title="Man-made fiber">Man-made fibers</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center; padding-left: 0.4em"><a class="mw-redirect" href="/wiki/Regenerated_fiber" title="Regenerated fiber">Regenerated fibers</a></div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Art_silk" title="Art silk">Art silk</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center; padding-left: 0.4em"><a class="mw-redirect" href="/wiki/Semi-synthetic_fiber" title="Semi-synthetic fiber">Semi-synthetic fibers</a></div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Cellulose_acetate" title="Cellulose acetate">Acetate</a></li>
+<li><a href="/wiki/Cellulose_diacetate" title="Cellulose diacetate">Diacetate</a></li>
+<li><a href="/wiki/Lyocell" title="Lyocell">Lyocell</a></li>
+<li><a class="mw-redirect" href="/wiki/Modal_(textile)" title="Modal (textile)">Modal</a></li>
+<li><a href="/wiki/Rayon" title="Rayon">Rayon</a></li>
+<li><a class="mw-redirect" href="/wiki/Triacetate" title="Triacetate">Triacetate</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center; padding-left: 0.4em"><a href="/wiki/Synthetic_fiber" title="Synthetic fiber">Synthetic fibers</a></div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background-color: transparent; text-align: center; padding-left: 0.4em"><a class="mw-redirect" href="/wiki/Mineral_fiber" title="Mineral fiber">Mineral</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"> <a href="/wiki/Glass_fiber" title="Glass fiber">Glass</a>
+</li><li style="line-height: inherit; margin: 0"> <a class="mw-redirect" href="/wiki/Carbon_(fiber)" title="Carbon (fiber)">Carbon</a> <small>(<a href="/wiki/Tenax" title="Tenax">Tenax</a>)</small>
+</li><li style="line-height: inherit; margin: 0"> <a href="/wiki/Basalt_fiber" title="Basalt fiber">Basalt</a>
+</li><li style="line-height: inherit; margin: 0"> <a href="/wiki/Metallic_fiber" title="Metallic fiber">Metallic</a>
+</li></ul>
+</div>
+<div class="NavFrame collapsed" style="border: none; padding: 0;">
+<div class="NavHead" style="font-size: 105%; background-color: transparent; text-align: center; padding-left: 0.4em"><a href="/wiki/Fiber#Polymer_fibers" title="Fiber">Polymer</a></div>
+<ul class="NavContent" style="list-style: none none; margin-left: 0; text-align: center font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit;"><li style="line-height: inherit; margin: 0"> <a href="/wiki/Acrylic_fiber" title="Acrylic fiber">Acrylic</a>
+</li><li style="line-height: inherit; margin: 0"> <a href="/wiki/Aramid" title="Aramid">Aramid</a> <small>(<a href="/wiki/Twaron" title="Twaron">Twaron</a>, <a href="/wiki/Kevlar" title="Kevlar">Kevlar</a>, <a href="/wiki/Technora" title="Technora">Technora</a>, <a href="/wiki/Nomex" title="Nomex">Nomex</a>)</small>
+</li><li style="line-height: inherit; margin: 0"> <a href="/wiki/Microfiber" title="Microfiber">Microfiber</a>
+</li><li style="line-height: inherit; margin: 0"> <a href="/wiki/Modacrylic" title="Modacrylic">Modacrylic</a>
+</li><li style="line-height: inherit; margin: 0"> <a href="/wiki/Nylon" title="Nylon">Nylon</a>
+</li><li style="line-height: inherit; margin: 0"> <a href="/wiki/Olefin_fiber" title="Olefin fiber">Olefin</a>
+</li><li style="line-height: inherit; margin: 0"> <a href="/wiki/Polyester" title="Polyester">Polyester</a>
+</li><li style="line-height: inherit; margin: 0"> <a href="/wiki/Polyethylene" title="Polyethylene">Polyethylene</a> <small>(<a href="/wiki/Ultra-high-molecular-weight_polyethylene" title="Ultra-high-molecular-weight polyethylene">Dyneema</a>, <a href="/wiki/Ultra-high-molecular-weight_polyethylene" title="Ultra-high-molecular-weight polyethylene">Spectra</a>)</small>
+</li><li style="line-height: inherit; margin: 0"> <a href="/wiki/Spandex" title="Spandex">Spandex</a>
+</li><li style="line-height: inherit; margin: 0"> <a href="/wiki/Vinylon" title="Vinylon">Vinylon</a>
+</li><li style="line-height: inherit; margin: 0"> <a href="/wiki/Vinyon" title="Vinyon">Vinyon</a>
+</li><li style="line-height: inherit; margin: 0"> <a href="/wiki/Zylon" title="Zylon">Zylon</a>
+</li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;">
+<div class="plainlist">
+<ul><li><a class="image" href="/wiki/File:Veranotrigo.jpg"><img alt="Veranotrigo.jpg" class="noviewer" data-file-height="1200" data-file-width="1600" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Veranotrigo.jpg/16px-Veranotrigo.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Veranotrigo.jpg/24px-Veranotrigo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Veranotrigo.jpg/32px-Veranotrigo.jpg 2x" width="16"/></a> <a href="/wiki/Portal:Agriculture_and_agronomy" title="Portal:Agriculture and agronomy">Agriculture and agronomy portal</a></li>
+<li><a class="image" href="/wiki/File:Nuvola_apps_kcmsystem.svg"><img alt="Nuvola apps kcmsystem.svg" class="noviewer" data-file-height="128" data-file-width="128" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/16px-Nuvola_apps_kcmsystem.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/24px-Nuvola_apps_kcmsystem.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/32px-Nuvola_apps_kcmsystem.svg.png 2x" width="16"/></a> <a href="/wiki/Portal:Engineering" title="Portal:Engineering">Engineering portal</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Fibers" title="Category:Fibers">Category: Fibers</a></li></ul>
+</div></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Fibre_sidebar" title="Template:Fibre sidebar"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Fibre_sidebar" title="Template talk:Fibre sidebar"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Fibre_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Fibreoptic.jpg"><img alt="" class="thumbimage" data-file-height="529" data-file-width="350" height="333" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fibreoptic.jpg/220px-Fibreoptic.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fibreoptic.jpg/330px-Fibreoptic.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/49/Fibreoptic.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Fibreoptic.jpg" title="Enlarge"></a></div>A bundle of <a class="mw-redirect" href="/wiki/Optical_fibers" title="Optical fibers">optical fibers</a></div></div></div>
+<p><b>Fiber</b> or <b>fibre</b> (see <a href="/wiki/American_and_British_English_spelling_differences#-re,_-er" title="American and British English spelling differences">spelling differences</a>, from the <a href="/wiki/Latin" title="Latin">Latin</a> fibra<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>) is a <a href="/wiki/Natural_fiber" title="Natural fiber">natural</a> or <a href="/wiki/Synthetic_fiber" title="Synthetic fiber">synthetic</a> substance that is significantly longer than it is wide.<sup class="reference" id="cite_ref-:0_2-0"><a href="#cite_note-:0-2">[2]</a></sup> Fibers are often used in the manufacture of other materials. The strongest engineering materials often incorporate fibers, for example <a href="/wiki/Carbon_fibers" title="Carbon fibers">carbon fiber</a> and <a href="/wiki/Ultra-high-molecular-weight_polyethylene" title="Ultra-high-molecular-weight polyethylene">ultra-high-molecular-weight polyethylene</a>.
+</p><p>Synthetic fibers can often be produced very cheaply and in large amounts compared to natural fibers, but for clothing natural fibers can give some benefits, such as comfort, over their synthetic counterparts.
+</p>
+<div class="toclimit-3"><div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Natural_fibers"><span class="tocnumber">1</span> <span class="toctext">Natural fibers</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Human-made_fibers"><span class="tocnumber">2</span> <span class="toctext">Human-made fibers</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Semi-synthetic_fibers"><span class="tocnumber">2.1</span> <span class="toctext">Semi-synthetic fibers</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Cellulose_regenerated_fibers"><span class="tocnumber">2.1.1</span> <span class="toctext">Cellulose regenerated fibers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#Synthetic_fibers"><span class="tocnumber">2.2</span> <span class="toctext">Synthetic fibers</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Metallic_fibers"><span class="tocnumber">2.2.1</span> <span class="toctext">Metallic fibers</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Carbon_fiber"><span class="tocnumber">2.2.2</span> <span class="toctext">Carbon fiber</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Silicon_carbide_fiber"><span class="tocnumber">2.2.3</span> <span class="toctext">Silicon carbide fiber</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Fiberglass"><span class="tocnumber">2.2.4</span> <span class="toctext">Fiberglass</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Mineral_fibers"><span class="tocnumber">2.2.5</span> <span class="toctext">Mineral fibers</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Polymer_fibers"><span class="tocnumber">2.2.6</span> <span class="toctext">Polymer fibers</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Microfibers"><span class="tocnumber">2.2.7</span> <span class="toctext">Microfibers</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="Natural_fibers">Natural fibers</span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Natural_fiber" title="Natural fiber">Natural fiber</a></div>
+<p>Natural fibers develop or occur in the fiber shape, and include those produced by plants, animals, and geological processes.<sup class="reference" id="cite_ref-:0_2-1"><a href="#cite_note-:0-2">[2]</a></sup> They can be classified according to their origin:
+</p>
+<ul><li><a href="/wiki/Fiber_crop" title="Fiber crop">Vegetable fibers</a> are generally based on arrangements of <a href="/wiki/Cellulose" title="Cellulose">cellulose</a>, often with <a href="/wiki/Lignin" title="Lignin">lignin</a>: examples include <a href="/wiki/Cotton" title="Cotton">cotton</a>, <a href="/wiki/Cannabis_sativa" title="Cannabis sativa">hemp</a>, <a href="/wiki/Jute" title="Jute">jute</a>, <a href="/wiki/Flax" title="Flax">flax</a>, <a href="/wiki/Ramie" title="Ramie">ramie</a>, <a href="/wiki/Sisal" title="Sisal">sisal</a>, <a href="/wiki/Bagasse" title="Bagasse">bagasse</a>, and <a href="/wiki/Banana#Fiber" title="Banana">banana</a>. Plant fibers are employed in the manufacture of <a href="/wiki/Paper" title="Paper">paper</a> and <a href="/wiki/Textile" title="Textile">textile</a> (cloth), and <a href="/wiki/Dietary_fiber" title="Dietary fiber">dietary fiber</a> is an important component of human nutrition.</li>
+<li><a href="/wiki/Wood_fibre" title="Wood fibre">Wood fiber</a>, distinguished from vegetable fiber, is from tree sources. Forms include <a class="new" href="/w/index.php?title=Groundwood&amp;action=edit&amp;redlink=1" title="Groundwood (page does not exist)">groundwood</a>, <a href="/wiki/Lagetta_lagetto" title="Lagetta lagetto">lacebark</a>, thermomechanical pulp (TMP), and bleached or unbleached <a href="/wiki/Kraft_process" title="Kraft process">kraft</a> or sulfite pulps. Kraft and sulfite (also called sulphite) refer to the type of pulping process used to remove the lignin bonding the original wood structure, thus freeing the fibers for use in paper and <a href="/wiki/Engineered_wood" title="Engineered wood">engineered wood</a> products such as <a href="/wiki/Fiberboard" title="Fiberboard">fiberboard</a>.</li>
+<li><a href="/wiki/Animal_fiber" title="Animal fiber">Animal fibers</a> consist largely of particular proteins. Instances are <a class="mw-redirect" href="/wiki/Silkworm" title="Silkworm">silkworm</a> <a href="/wiki/Silk" title="Silk">silk</a>, <a href="/wiki/Spider_silk" title="Spider silk">spider silk</a>, <a class="mw-redirect" href="/wiki/Sinew" title="Sinew">sinew</a>, <a href="/wiki/Catgut" title="Catgut">catgut</a>, <a href="/wiki/Wool" title="Wool">wool</a>, <a href="/wiki/Sea_silk" title="Sea silk">sea silk</a> and hair such as <a href="/wiki/Cashmere_wool" title="Cashmere wool">cashmere wool</a>, <a href="/wiki/Mohair" title="Mohair">mohair</a> and <a href="/wiki/Angora_wool" title="Angora wool">angora</a>, fur such as sheepskin, rabbit, mink, fox, beaver, etc.</li>
+<li><a class="mw-redirect" href="/wiki/Mineral_fiber" title="Mineral fiber">Mineral fibers</a> include the <a href="/wiki/Asbestos" title="Asbestos">asbestos</a> group. Asbestos is the only naturally occurring long <a href="/wiki/Mineral" title="Mineral">mineral</a> fiber. Six minerals have been classified as "asbestos" including <a href="/wiki/Chrysotile" title="Chrysotile">chrysotile</a> of the <a class="mw-redirect" href="/wiki/Serpentine_group" title="Serpentine group">serpentine</a> class and those belonging to the <a href="/wiki/Amphibole" title="Amphibole">amphibole</a> class: <a class="mw-redirect" href="/wiki/Amosite" title="Amosite">amosite</a>, <a class="mw-redirect" href="/wiki/Crocidolite" title="Crocidolite">crocidolite</a>, <a href="/wiki/Tremolite" title="Tremolite">tremolite</a>, <a href="/wiki/Anthophyllite" title="Anthophyllite">anthophyllite</a> and <a href="/wiki/Actinolite" title="Actinolite">actinolite</a>. Short, fiber-like minerals include <a href="/wiki/Wollastonite" title="Wollastonite">wollastonite</a> and <a href="/wiki/Palygorskite" title="Palygorskite">palygorskite</a>.</li>
+<li>Biological fibers also known as <a class="mw-redirect" href="/wiki/Fibrous_proteins" title="Fibrous proteins">fibrous proteins</a> or <a href="/wiki/Protein_filament" title="Protein filament">protein filaments</a> consist largely of biologically relevant and biologically very important proteins, mutations or other genetic defects can lead to <a href="/wiki/Collagen#Diseases" title="Collagen">severe diseases</a>. Instances are <a href="/wiki/Collagen" title="Collagen">collagen</a><sup class="reference" id="cite_ref-Saad_1994_3-0"><a href="#cite_note-Saad_1994-3">[3]</a></sup> family of proteins, <a href="/wiki/Tendon" title="Tendon">tendon</a>, <a class="mw-redirect" href="/wiki/Muscle_proteins" title="Muscle proteins">muscle proteins</a> like <a href="/wiki/Actin" title="Actin">actin</a>, cell proteins like <a href="/wiki/Microtubule" title="Microtubule">microtubules</a> and many others, <a href="/wiki/Spider_silk" title="Spider silk">spider silk</a>, <a class="mw-redirect" href="/wiki/Sinew" title="Sinew">sinew</a> and <a href="/wiki/Hair" title="Hair">hair</a> etc.</li></ul>
+<h2><span class="mw-headline" id="Human-made_fibers">Human-made fibers<span id="Chemical"></span></span></h2>
+<p>Human-made or chemical fibers are fibers whose chemical composition, structure, and properties are significantly modified during the manufacturing process.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Man-made fibers consist of regenerated fibers and synthetic fibers.
+</p>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a class="mw-redirect" href="/wiki/Fibre_modification" title="Fibre modification">fibre modification</a></div>
+<h3><span class="mw-headline" id="Semi-synthetic_fibers">Semi-synthetic fibers</span></h3>
+<p>Semi-synthetic fibers are made from raw materials with naturally long-chain polymer structure and are only modified and partially degraded by chemical processes, in contrast to completely synthetic fibers such as <a href="/wiki/Nylon" title="Nylon">nylon</a> (polyamide) or <a class="mw-redirect" href="/wiki/Dacron" title="Dacron">dacron</a> (polyester), which the chemist synthesizes from low-molecular weight compounds by polymerization (chain-building) reactions. The earliest semi-synthetic fiber is the cellulose regenerated fiber, <a href="/wiki/Rayon" title="Rayon">rayon</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> Most semi-synthetic fibers are cellulose regenerated fibers.
+</p>
+<h4><span class="mw-headline" id="Cellulose_regenerated_fibers">Cellulose regenerated fibers<span id="Regenerated"></span></span></h4>
+<p><a href="/wiki/Cellulose_fiber" title="Cellulose fiber">Cellulose fibers</a> are a subset of man-made fibers, regenerated from natural <a href="/wiki/Cellulose" title="Cellulose">cellulose</a>. The cellulose comes from various sources: rayon from tree wood fiber, <a class="mw-redirect" href="/wiki/Modal_(textile)" title="Modal (textile)">Modal</a> from beech trees, <a class="mw-redirect" href="/wiki/Bamboo_fiber" title="Bamboo fiber">bamboo fiber</a> from bamboo, <a class="new" href="/w/index.php?title=Seacell&amp;action=edit&amp;redlink=1" title="Seacell (page does not exist)">seacell</a> from <a href="/wiki/Seaweed" title="Seaweed">seaweed</a>, etc. In the production of these fibers, the cellulose is reduced to a fairly pure form as a viscous mass and formed into fibers by extrusion through spinnerets. Therefore, the manufacturing process leaves few characteristics distinctive of the natural source material in the finished products.
+</p><p>Some examples of this fiber type are:
+</p>
+<ul><li><a href="/wiki/Rayon" title="Rayon">rayon</a></li>
+<li><a class="mw-redirect" href="/wiki/Bamboo_textiles" title="Bamboo textiles">bamboo fiber</a></li>
+<li><a href="/wiki/Lyocell" title="Lyocell">Lyocell</a>, a brand of rayon</li>
+<li><a class="mw-redirect" href="/wiki/Modal_(textile)" title="Modal (textile)">Modal</a>, using beech trees as input</li>
+<li><a href="/wiki/Cellulose_diacetate" title="Cellulose diacetate">diacetate fiber</a></li>
+<li><a href="/wiki/Cellulose_triacetate" title="Cellulose triacetate">triacetate fiber</a>.</li></ul>
+<p>Historically, cellulose diacetate and -triacetate were classified under the term rayon, but are now considered distinct materials.
+</p>
+<h3><span class="mw-headline" id="Synthetic_fibers">Synthetic fibers</span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Synthetic_fiber" title="Synthetic fiber">Synthetic fiber</a></div>
+<p><a href="/wiki/Synthetic_fiber" title="Synthetic fiber">Synthetic</a> come entirely from synthetic materials such as <a href="/wiki/Petrochemical" title="Petrochemical">petrochemicals</a>, unlike those man-made fibers derived from such natural substances as cellulose or protein.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p><p>Fiber classification in reinforced plastics falls into two classes: (i) short fibers, also known as discontinuous fibers, with a general aspect ratio (defined as the ratio of fiber length to diameter) between 20 and 60, and (ii) long fibers, also known as continuous fibers, the general aspect ratio is between 200 and 500.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Metallic_fibers">Metallic fibers</span></h4>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Metallic_fiber" title="Metallic fiber">Metallic fiber</a></div>
+<p><a href="/wiki/Metallic_fiber" title="Metallic fiber">Metallic fibers</a> can be drawn from ductile metals such as copper, gold or silver and extruded or deposited from more brittle ones, such as nickel, aluminum or iron.
+See also <a href="/wiki/Stainless_steel_fiber" title="Stainless steel fiber">Stainless steel fibers</a>.
+</p>
+<h4><span class="mw-headline" id="Carbon_fiber">Carbon fiber</span></h4>
+<p><a class="mw-redirect" href="/wiki/Carbon_(fiber)" title="Carbon (fiber)">Carbon fibers</a> are often based on oxidized and via <a href="/wiki/Pyrolysis" title="Pyrolysis">pyrolysis</a> carbonized polymers like <a href="/wiki/Polyacrylonitrile" title="Polyacrylonitrile">PAN</a>, but the end product is almost pure carbon.
+</p>
+<h4><span class="mw-headline" id="Silicon_carbide_fiber">Silicon carbide fiber</span></h4>
+<p><a href="/wiki/Silicon_carbide" title="Silicon carbide">Silicon carbide</a> fibers, where the basic polymers are not <a href="/wiki/Hydrocarbon" title="Hydrocarbon">hydrocarbons</a> but polymers, where about 50% of the carbon atoms are replaced by silicon atoms, so-called poly-carbo-<a href="/wiki/Silane" title="Silane">silanes</a>. The pyrolysis yields an amorphous silicon carbide, including mostly other elements like oxygen, titanium, or aluminium, but with mechanical properties very similar to those of carbon fibers.
+</p>
+<h4><span class="mw-headline" id="Fiberglass">Fiberglass</span></h4>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Glass#Fiberglass" title="Glass">Glass § Fiberglass</a></div>
+<p><a href="/wiki/Fiberglass" title="Fiberglass">Fiberglass</a>, made from specific glass, and <a href="/wiki/Optical_fiber" title="Optical fiber">optical fiber</a>, made from purified natural <a href="/wiki/Quartz" title="Quartz">quartz</a>, are also man-made fibers that come from natural raw materials, <a href="/wiki/Silica_fiber" title="Silica fiber">silica fiber</a>, made from <a href="/wiki/Sodium_silicate" title="Sodium silicate">sodium silicate</a> (water glass) and <a href="/wiki/Basalt_fiber" title="Basalt fiber">basalt fiber</a> made from melted basalt.
+</p>
+<h4><span class="mw-headline" id="Mineral_fibers">Mineral fibers</span></h4>
+<p>Mineral fibers can be particularly strong because they are formed with a low number of surface defects, <a href="/wiki/Asbestos" title="Asbestos">asbestos</a> is a common one.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Polymer_fibers">Polymer fibers</span></h4>
+<ul><li>Polymer fibers are a subset of man-made fibers, which are based on synthetic chemicals (often from <a href="/wiki/Petrochemical" title="Petrochemical">petrochemical</a> sources) rather than arising from natural materials by a purely physical process. These fibers are made from:
+<ul><li>polyamide <a href="/wiki/Nylon" title="Nylon">nylon</a></li>
+<li>PET or PBT <a href="/wiki/Polyester" title="Polyester">polyester</a></li>
+<li>phenol-formaldehyde (PF)</li>
+<li>polyvinyl chloride fiber (PVC) <a href="/wiki/Vinyon" title="Vinyon">vinyon</a></li>
+<li>polyolefins (PP and PE) <a href="/wiki/Olefin_fiber" title="Olefin fiber">olefin fiber</a></li>
+<li><a href="/wiki/Acrylic_fiber" title="Acrylic fiber">acrylic</a> polyesters, pure <a href="/wiki/Polyester" title="Polyester">polyester</a> PAN fibers are used to make <a class="mw-redirect" href="/wiki/Carbon_fiber" title="Carbon fiber">carbon fiber</a> by roasting them in a low oxygen environment. Traditional acrylic fiber is used more often as a synthetic replacement for wool. Carbon fibers and PF fibers are noted as two resin-based fibers that are not thermoplastic, most others can be melted.</li>
+<li><a href="/wiki/Aramid" title="Aramid">aromatic polyamids</a> (aramids) such as <a href="/wiki/Twaron" title="Twaron">Twaron</a>, <a href="/wiki/Kevlar" title="Kevlar">Kevlar</a> and <a href="/wiki/Nomex" title="Nomex">Nomex</a> thermally degrade at high temperatures and do not melt. These fibers have strong bonding between polymer chains</li>
+<li><a href="/wiki/Polyethylene" title="Polyethylene">polyethylene</a> (PE), eventually with extremely long chains / <a class="mw-redirect" href="/wiki/Ultra_high_molecular_weight_polyethylene" title="Ultra high molecular weight polyethylene">HMPE</a> (e.g. Dyneema or Spectra).</li>
+<li><a href="/wiki/Elastomer" title="Elastomer">Elastomers</a> can even be used, e.g. <a href="/wiki/Spandex" title="Spandex">spandex</a> although urethane fibers are starting to replace spandex technology.</li>
+<li><a href="/wiki/Polyurethane" title="Polyurethane">polyurethane</a> fiber</li>
+<li><a href="/wiki/Elastolefin" title="Elastolefin">Elastolefin</a></li></ul></li>
+<li>Coextruded fibers have two distinct polymers forming the fiber, usually as a core-sheath or side-by-side. Coated fibers exist such as nickel-coated to provide static elimination, silver-coated to provide anti-bacterial properties and aluminum-coated to provide RF deflection for <a class="mw-redirect" href="/wiki/Chaff_(radar_countermeasure)" title="Chaff (radar countermeasure)">radar chaff</a>. Radar chaff is actually a spool of continuous glass tow that has been aluminum coated. An aircraft-mounted high speed cutter chops it up as it spews from a moving aircraft to confuse radar signals.</li></ul>
+<h4><span class="mw-headline" id="Microfibers">Microfibers</span></h4>
+<p><a href="/wiki/Microfiber" title="Microfiber">Microfibers</a> in <a class="mw-redirect" href="/wiki/Textiles" title="Textiles">textiles</a> refer to sub-denier fiber (such as <a href="/wiki/Polyester" title="Polyester">polyester</a> drawn to 0.5 denier). <a href="/wiki/Units_of_textile_measurement#Denier" title="Units of textile measurement">Denier</a> and <a href="/wiki/Units_of_textile_measurement#Tex" title="Units of textile measurement">Dtex</a> are two measurements of fiber yield based on weight and length. If the fiber density is known, you also have a fiber diameter, otherwise it is simpler to measure diameters in micrometers. Microfibers in technical fibers refer to ultra fine fibers (glass or meltblown <a class="mw-redirect" href="/wiki/Thermoplastics" title="Thermoplastics">thermoplastics</a>) often used in filtration. Newer fiber designs include extruding fiber that splits into multiple finer fibers. Most synthetic fibers are round in cross-section, but special designs can be hollow, oval, star-shaped or trilobal. The latter design provides more optically reflective properties. Synthetic textile fibers are often crimped to provide bulk in a woven, non woven or knitted structure. Fiber surfaces can also be dull or bright. Dull surfaces reflect more light while bright tends to transmit light and make the fiber more transparent.
+</p><p>Very short and/or irregular fibers have been called fibrils. Natural <a href="/wiki/Cellulose" title="Cellulose">cellulose</a>, such as <a href="/wiki/Cotton" title="Cotton">cotton</a> or bleached <a class="mw-redirect" href="/wiki/Kraft" title="Kraft">kraft</a>, show smaller fibrils jutting out and away from the main fiber structure.<sup class="reference" id="cite_ref-b1_9-0"><a href="#cite_note-b1-9">[9]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Fibers" title="commons:Category:Fibers">Fibers</a></b></i>.</td></tr></tbody></table>
+<ul><li><a href="/wiki/Ceramic_matrix_composite" title="Ceramic matrix composite">Ceramic matrix composite</a></li>
+<li><a href="/wiki/Dietary_fiber" title="Dietary fiber">Dietary fiber</a></li>
+<li><a href="/wiki/Fiber_crop" title="Fiber crop">Fiber crop</a></li>
+<li><a href="/wiki/Glossary_of_differential_geometry_and_topology" title="Glossary of differential geometry and topology">Fibers in Differential Geometry</a></li>
+<li><a href="/wiki/Molded_pulp" title="Molded pulp">Molded fiber</a></li>
+<li><a href="/wiki/Axon" title="Axon">Nerve fiber</a></li>
+<li><a href="/wiki/Optical_fiber" title="Optical fiber">Optical fiber</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Harper, Douglas. <a class="external text" href="http://www.etymonline.com/?term=fiber" rel="nofollow">"fiber"</a>. <i><a href="/wiki/Online_Etymology_Dictionary" title="Online Etymology Dictionary">Online Etymology Dictionary</a></i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Online+Etymology+Dictionary&amp;rft.atitle=fiber&amp;rft.aulast=Harper&amp;rft.aufirst=Douglas&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2F%3Fterm%3Dfiber&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFiber"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-:0-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Kadolph, Sara (2002). <i>Textiles</i>. <a href="/wiki/Prentice_Hall" title="Prentice Hall">Prentice Hall</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-13-025443-6" title="Special:BookSources/0-13-025443-6">0-13-025443-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Textiles&amp;rft.pub=Prentice+Hall&amp;rft.date=2002&amp;rft.isbn=0-13-025443-6&amp;rft.aulast=Kadolph&amp;rft.aufirst=Sara&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFiber"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Saad_1994-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Saad_1994_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Saad, Mohamed (Oct 1994). <a class="external text" href="https://drive.google.com/open?id=0B3L_EN9hIuFTTkhuN2lrWEU4RDQ&amp;authuser=0" rel="nofollow"><i>Low resolution structure and packing investigations of collagen crystalline domains in tendon using Synchrotron Radiation X-rays, Structure factors determination, evaluation of Isomorphous Replacement methods and other modeling</i></a>. PhD Thesis, Université Joseph Fourier Grenoble I. pp. 1–221. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.13140%2F2.1.4776.7844" rel="nofollow">10.13140/2.1.4776.7844</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Low+resolution+structure+and+packing+investigations+of+collagen+crystalline+domains+in+tendon+using+Synchrotron+Radiation+X-rays%2C+Structure+factors+determination%2C+evaluation+of+Isomorphous+Replacement+methods+and+other+modeling.&amp;rft.pages=1-221&amp;rft.pub=PhD+Thesis%2C+Universit%C3%A9+Joseph+Fourier+Grenoble+I&amp;rft.date=1994-10&amp;rft_id=info%3Adoi%2F10.13140%2F2.1.4776.7844&amp;rft.aulast=Saad&amp;rft.aufirst=Mohamed&amp;rft_id=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D0B3L_EN9hIuFTTkhuN2lrWEU4RDQ%26authuser%3D0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFiber"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia"><a class="external text" href="http://global.britannica.com/EBchecked/topic/361113/man-made-fibre" rel="nofollow">"man-made fibre"</a>. <i>Encyclopædia Britannica</i>. <a href="/wiki/Encyclop%C3%A6dia_Britannica,_Inc." title="Encyclopædia Britannica, Inc.">Encyclopædia Britannica, Inc.</a> 2013.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=man-made+fibre&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.pub=Encyclop%C3%A6dia+Britannica%2C+Inc.&amp;rft.date=2013&amp;rft_id=http%3A%2F%2Fglobal.britannica.com%2FEBchecked%2Ftopic%2F361113%2Fman-made-fibre&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFiber"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kauffman, George B. (1993). "Rayon: the first semi-synthetic fiber product". <i>Journal of Chemical Education</i>. <b>70</b> (11): 887. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1993JChEd..70..887K" rel="nofollow">1993JChEd..70..887K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fed070p887" rel="nofollow">10.1021/ed070p887</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Chemical+Education&amp;rft.atitle=Rayon%3A+the+first+semi-synthetic+fiber+product&amp;rft.volume=70&amp;rft.issue=11&amp;rft.pages=887&amp;rft.date=1993&amp;rft_id=info%3Adoi%2F10.1021%2Fed070p887&amp;rft_id=info%3Abibcode%2F1993JChEd..70..887K&amp;rft.aulast=Kauffman&amp;rft.aufirst=George+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFiber"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia"><a class="external text" href="http://global.britannica.com/EBchecked/topic/578682/synthetic-fibre" rel="nofollow">"synthetic fibre"</a>. <i>Encyclopædia Britannica</i>. Encyclopædia Britannica, Inc. 2013.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=synthetic+fibre&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.pub=Encyclop%C3%A6dia+Britannica%2C+Inc.&amp;rft.date=2013&amp;rft_id=http%3A%2F%2Fglobal.britannica.com%2FEBchecked%2Ftopic%2F578682%2Fsynthetic-fibre&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFiber"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Serope Kalpakjian, Steven R Schmid. "Manufacturing Engineering and Technology". International edition. 4th Ed. Prentice Hall, Inc. 2001. <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-13-017440-8" title="Special:BookSources/0-13-017440-8">0-13-017440-8</a>.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">James Edward Gordon; Philip Ball (2006). <a class="external text" href="https://books.google.com/books?id=jyCFQgAACAAJ" rel="nofollow"><i>The new science of strong materials, or, Why you don't fall through the floor</i></a>. <a href="/wiki/Princeton_University_Press" title="Princeton University Press">Princeton University Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-691-12548-0" title="Special:BookSources/978-0-691-12548-0">978-0-691-12548-0</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 October</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+new+science+of+strong+materials%2C+or%2C+Why+you+don%27t+fall+through+the+floor&amp;rft.pub=Princeton+University+Press&amp;rft.date=2006&amp;rft.isbn=978-0-691-12548-0&amp;rft.au=James+Edward+Gordon&amp;rft.au=Philip+Ball&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DjyCFQgAACAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFiber"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-b1-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-b1_9-0">^</a></b></span> <span class="reference-text">Hans-J. Koslowski. "Man-Made Fibers Dictionary". Second edition. Deutscher Fachverlag. 2009 <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/3-86641-163-4" title="Special:BookSources/3-86641-163-4">3-86641-163-4</a></span>
+</li>
+</ol></div></div>
+<div aria-labelledby="Fibers" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style="background-color:#e7dac1"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Fibers" title="Template:Fibers"><abbr style="background-color:#e7dac1;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Fibers" title="Template talk:Fibers"><abbr style="background-color:#e7dac1;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Fibers&amp;action=edit"><abbr style="background-color:#e7dac1;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Fibers" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Fibers</a></div></th></tr><tr><th class="navbox-group" scope="row" style="background-color:#e7dac1;width:1%"><a href="/wiki/Natural_fiber" title="Natural fiber">Natural</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="background-color:#ecdfc8;width:1%"><a href="/wiki/Fiber_crop" title="Fiber crop">Plant</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abac%C3%A1" title="Abacá">Abacá</a></li>
+<li><a href="/wiki/Bagasse" title="Bagasse">Bagasse</a></li>
+<li><a href="/wiki/Bamboo_textile" title="Bamboo textile">Bamboo</a></li>
+<li><a href="/wiki/Coir" title="Coir">Coir</a></li>
+<li><a href="/wiki/Cotton" title="Cotton">Cotton</a></li>
+<li><a href="/wiki/Fique" title="Fique">Fique</a></li>
+<li><a href="/wiki/Flax" title="Flax">Flax</a>
+<ul><li><a href="/wiki/Linen" title="Linen">Linen</a></li></ul></li>
+<li><a href="/wiki/Hemp" title="Hemp">Hemp</a></li>
+<li><a href="/wiki/Jute" title="Jute">Jute</a></li>
+<li><a href="/wiki/Ceiba_pentandra" title="Ceiba pentandra">Kapok</a></li>
+<li><a href="/wiki/Kenaf" title="Kenaf">Kenaf</a></li>
+<li><a href="/wiki/Pi%C3%B1a" title="Piña">Piña</a></li>
+<li><a href="/wiki/Vegetable_flannel" title="Vegetable flannel">Pine</a></li>
+<li><a href="/wiki/Raffia_palm" title="Raffia palm">Raffia</a></li>
+<li><a href="/wiki/Ramie" title="Ramie">Ramie</a></li>
+<li><a href="/wiki/Rattan" title="Rattan">Rattan</a></li>
+<li><a href="/wiki/Sisal" title="Sisal">Sisal</a></li>
+<li><a href="/wiki/Wood_fibre" title="Wood fibre">Wood</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background-color:#ecdfc8;width:1%"><a href="/wiki/Animal_fiber" title="Animal fiber">Animal</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alpaca_fiber" title="Alpaca fiber">Alpaca</a></li>
+<li><a href="/wiki/Angora_wool" title="Angora wool">Angora</a></li>
+<li><a href="/wiki/Byssus" title="Byssus">Byssus</a></li>
+<li><a href="/wiki/Camel_hair" title="Camel hair">Camel hair</a></li>
+<li><a href="/wiki/Cashmere_wool" title="Cashmere wool">Cashmere</a></li>
+<li><a href="/wiki/Catgut" title="Catgut">Catgut</a></li>
+<li><a href="/wiki/Chiengora" title="Chiengora">Chiengora</a></li>
+<li><a href="/wiki/Guanaco#Guanaco_fiber" title="Guanaco">Guanaco</a></li>
+<li><a href="/wiki/Hair" title="Hair">Hair</a></li>
+<li><a href="/wiki/Llama#Fiber" title="Llama">Llama</a></li>
+<li><a href="/wiki/Mohair" title="Mohair">Mohair</a></li>
+<li><a href="/wiki/Pashmina" title="Pashmina">Pashmina</a></li>
+<li><a href="/wiki/Qiviut" title="Qiviut">Qiviut</a></li>
+<li><a href="/wiki/Rabbit_hair" title="Rabbit hair">Rabbit</a></li>
+<li><a href="/wiki/Silk" title="Silk">Silk</a></li>
+<li><a href="/wiki/Tendon" title="Tendon">Tendon</a></li>
+<li><a href="/wiki/Spider_silk" title="Spider silk">Spider silk</a></li>
+<li><a href="/wiki/Wool" title="Wool">Wool</a></li>
+<li><a href="/wiki/Vicu%C3%B1a#Vicuña_wool" title="Vicuña">Vicuña</a></li>
+<li><a href="/wiki/Yak_fiber" title="Yak fiber">Yak</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background-color:#ecdfc8;width:1%"><a class="mw-redirect" href="/wiki/Mineral_fiber" title="Mineral fiber">Mineral</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Asbestos" title="Asbestos">Asbestos</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="background-color:#e7dac1;width:1%"><a class="mw-redirect" href="/wiki/Man-made_fiber" title="Man-made fiber">Man-made</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="background-color:#ecdfc8;width:1%"><a class="mw-redirect" href="/wiki/Regenerated_fiber" title="Regenerated fiber">Regenerated</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Art_silk" title="Art silk">Art silk</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background-color:#ecdfc8;width:1%"><a class="mw-redirect" href="/wiki/Semi-synthetic_fiber" title="Semi-synthetic fiber">Semi-synthetic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cellulose_acetate" title="Cellulose acetate">Acetate</a></li>
+<li><a href="/wiki/Cellulose_diacetate" title="Cellulose diacetate">Diacetate</a></li>
+<li><a href="/wiki/Lyocell" title="Lyocell">Lyocell</a></li>
+<li><a class="mw-redirect" href="/wiki/Modal_(textile)" title="Modal (textile)">Modal</a></li>
+<li><a href="/wiki/Rayon" title="Rayon">Rayon</a></li>
+<li><a href="/wiki/Cellulose_triacetate" title="Cellulose triacetate">Triacetate</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background-color:#ecdfc8;width:1%"><a href="/wiki/Synthetic_fiber" title="Synthetic fiber">Synthetic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="background-color:#ecdfc8;width:1%"><a class="mw-redirect" href="/wiki/Mineral_fiber" title="Mineral fiber">Mineral</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Glass_fiber" title="Glass fiber">Glass</a></li>
+<li><a href="/wiki/Carbon_fibers" title="Carbon fibers">Carbon</a>
+<ul><li><a href="/wiki/Tenax" title="Tenax">Tenax</a></li></ul></li>
+<li><a href="/wiki/Basalt_fiber" title="Basalt fiber">Basalt</a></li>
+<li><a href="/wiki/Metallic_fiber" title="Metallic fiber">Metallic</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background-color:#ecdfc8;width:1%"><a href="/wiki/Fiber#Polymer_fibers" title="Fiber">Polymer</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acrylic_fiber" title="Acrylic fiber">Acrylic</a></li>
+<li><a href="/wiki/Aramid" title="Aramid">Aramid</a>
+<ul><li><a href="/wiki/Twaron" title="Twaron">Twaron</a></li>
+<li><a href="/wiki/Kevlar" title="Kevlar">Kevlar</a></li>
+<li><a href="/wiki/Technora" title="Technora">Technora</a></li>
+<li><a href="/wiki/Nomex" title="Nomex">Nomex</a></li></ul></li>
+<li><a href="/wiki/Microfiber" title="Microfiber">Microfiber</a></li>
+<li><a href="/wiki/Modacrylic" title="Modacrylic">Modacrylic</a></li>
+<li><a href="/wiki/Nylon" title="Nylon">Nylon</a></li>
+<li><a href="/wiki/Olefin_fiber" title="Olefin fiber">Olefin</a></li>
+<li><a href="/wiki/Polyester" title="Polyester">Polyester</a></li>
+<li><a href="/wiki/Polyethylene" title="Polyethylene">Polyethylene</a>
+<ul><li><a href="/wiki/Ultra-high-molecular-weight_polyethylene" title="Ultra-high-molecular-weight polyethylene">Dyneema</a></li>
+<li><a href="/wiki/Ultra-high-molecular-weight_polyethylene" title="Ultra-high-molecular-weight polyethylene">Spectra</a></li></ul></li>
+<li><a href="/wiki/Spandex" title="Spandex">Spandex</a></li>
+<li><a href="/wiki/Vinylon" title="Vinylon">Vinylon</a></li>
+<li><a href="/wiki/Vinyon" title="Vinyon">Vinyon</a></li>
+<li><a href="/wiki/Zylon" title="Zylon">Zylon</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background-color:#e7dac1"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Fibers" title="Category:Fibers">Category</a></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Fibers" title="commons:Category:Fibers">Commons</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Textile_arts" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Textile_arts" title="Template:Textile arts"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Textile_arts" title="Template talk:Textile arts"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Textile_arts&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Textile_arts" style="font-size:114%;margin:0 4em"><a href="/wiki/Textile_arts" title="Textile arts">Textile arts</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Fundamentals</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Applique" title="Applique">Applique</a></li>
+<li><a href="/wiki/Beadwork" title="Beadwork">Beadwork</a></li>
+<li><a href="/wiki/Crochet" title="Crochet">Crochet</a></li>
+<li><a href="/wiki/Dyeing" title="Dyeing">Dyeing</a></li>
+<li><a href="/wiki/Embroidery" title="Embroidery">Embroidery</a></li>
+<li><a href="/wiki/Textile" title="Textile">Fabric</a></li>
+<li><a href="/wiki/Felt" title="Felt">Felting</a></li>
+<li><a class="mw-selflink selflink">Fiber</a></li>
+<li><a href="/wiki/Knitting" title="Knitting">Knitting</a></li>
+<li><a href="/wiki/Lace" title="Lace">Lace</a></li>
+<li><a href="/wiki/Macram%C3%A9" title="Macramé">Macramé</a></li>
+<li><a href="/wiki/N%C3%A5lebinding" title="Nålebinding">Nålebinding</a></li>
+<li><a href="/wiki/Needlework" title="Needlework">Needlework</a></li>
+<li><a href="/wiki/Patchwork" title="Patchwork">Patchwork</a></li>
+<li><a href="/wiki/Passementerie" title="Passementerie">Passementerie</a></li>
+<li><a href="/wiki/Plying" title="Plying">Plying</a></li>
+<li><a href="/wiki/Quilting" title="Quilting">Quilting</a></li>
+<li><a href="/wiki/Rope" title="Rope">Rope</a></li>
+<li><a href="/wiki/Rug_making" title="Rug making">Rug making</a></li>
+<li><a href="/wiki/Sewing" title="Sewing">Sewing</a></li>
+<li><a href="/wiki/Stitch_(textile_arts)" title="Stitch (textile arts)">Stitch</a></li>
+<li><a href="/wiki/Textile_printing" title="Textile printing">Textile printing</a></li>
+<li><a href="/wiki/Weaving" title="Weaving">Weaving</a></li>
+<li><a href="/wiki/Yarn" title="Yarn">Yarn</a></li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><div class="floatright"><a class="image" href="/wiki/File:Alpackaull.jpg"><img alt="Alpackaull.jpg" data-file-height="567" data-file-width="756" height="83" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alpackaull.jpg/110px-Alpackaull.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alpackaull.jpg/165px-Alpackaull.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alpackaull.jpg/220px-Alpackaull.jpg 2x" width="110"/></a></div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">History of ...</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Byzantine_silk" title="Byzantine silk">Byzantine silk</a></li>
+<li><a href="/wiki/History_of_clothing_and_textiles" title="History of clothing and textiles">Clothing and textiles</a></li>
+<li><a href="/wiki/History_of_silk" title="History of silk">Silk</a></li>
+<li><a href="/wiki/History_of_quilting" title="History of quilting">Quilting</a></li>
+<li><a href="/wiki/Silk_in_the_Indian_subcontinent" title="Silk in the Indian subcontinent">Silk in the Indian subcontinent</a></li>
+<li><a href="/wiki/Textile_manufacturing_by_pre-industrial_methods" title="Textile manufacturing by pre-industrial methods">Textile manufacturing by pre-industrial methods</a></li>
+<li><a href="/wiki/Textile_manufacture_during_the_Industrial_Revolution" title="Textile manufacture during the Industrial Revolution">Textiles in the Industrial Revolution</a></li>
+<li><a class="mw-redirect" href="/wiki/Textile_manufacture" title="Textile manufacture">Modern Industrial Textile Production</a></li>
+<li><a href="/wiki/Timeline_of_clothing_and_textiles_technology" title="Timeline of clothing and textiles technology">Timeline of textile technology</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Regional and ethnic</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/African_textiles" title="African textiles">African</a></li>
+<li><a href="/wiki/Andean_textiles" title="Andean textiles">Andean</a></li>
+<li><a href="/wiki/Australian_Aboriginal_fibrecraft" title="Australian Aboriginal fibrecraft">Australian Aboriginal</a></li>
+<li><a href="/wiki/Hmong_textile_art" title="Hmong textile art">Hmong</a></li>
+<li><a href="/wiki/Textile_arts_of_indigenous_peoples_of_the_Americas" title="Textile arts of indigenous peoples of the Americas">Indigenous peoples of the Americas</a></li>
+<li><a href="/wiki/Korean_fabric_arts" title="Korean fabric arts">Korean</a></li>
+<li><a href="/wiki/M%C4%81ori_traditional_textiles" title="Māori traditional textiles">Māori</a></li>
+<li><a href="/wiki/Mapuche_textiles" title="Mapuche textiles">Mapuche</a></li>
+<li><a href="/wiki/Maya_textiles" title="Maya textiles">Maya</a></li>
+<li><a href="/wiki/Textiles_of_Mexico" title="Textiles of Mexico">Mexican</a></li>
+<li><a href="/wiki/Navajo_weaving" title="Navajo weaving">Navajo</a></li>
+<li><a href="/wiki/Textiles_of_Oaxaca" title="Textiles of Oaxaca">Oaxacan</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blocking_(textile_arts)" title="Blocking (textile arts)">Blocking</a></li>
+<li><a href="/wiki/Fiber_art" title="Fiber art">Fiber art</a></li>
+<li><a href="/wiki/Mathematics_and_fiber_arts" title="Mathematics and fiber arts">Mathematics and fiber arts</a></li>
+<li><a href="/wiki/Textile_manufacturing" title="Textile manufacturing">Manufacturing</a></li>
+<li><a class="mw-redirect" href="/wiki/Textile_preservation" title="Textile preservation">Preservation</a></li>
+<li><a href="/wiki/Textile_recycling" title="Textile recycling">Recycling</a></li>
+<li><a href="/wiki/Textile_industry" title="Textile industry">Textile industry</a></li>
+<li><a href="/wiki/Category:Textile_museums" title="Category:Textile museums">Textile museums</a></li>
+<li><a href="/wiki/Units_of_textile_measurement" title="Units of textile measurement">Units of measurement</a></li>
+<li><a href="/wiki/Wearable_art#Wearable_fiber_art" title="Wearable art">Wearable fiber art</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Glossaries</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Glossary_of_dyeing_terms" title="Glossary of dyeing terms">Dyeing terms</a></li>
+<li><a href="/wiki/Glossary_of_sewing_terms" title="Glossary of sewing terms">Sewing terms</a></li>
+<li><a href="/wiki/Glossary_of_textile_manufacturing" title="Glossary of textile manufacturing">Textile terms</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q161&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q161&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q161" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4127566-4" rel="nofollow">4127566-4</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Archives_and_Records_Administration" title="National Archives and Records Administration">NARA</a>: <span class="uid"><a class="external text" href="https://catalog.archives.gov/id/10639192" rel="nofollow">10639192</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00570658" rel="nofollow">00570658</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1273
+Cached time: 20181013215903
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.484 seconds
+Real time usage: 0.608 seconds
+Preprocessor visited node count: 1588/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 91811/2097152 bytes
+Template argument size: 1457/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 22771/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.208/10.000 seconds
+Lua memory usage: 5.34 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  463.212      1 -total
+ 35.59%  164.837      1 Template:Reflist
+ 13.62%   63.084      1 Template:OEtymD
+ 13.06%   60.481      1 Template:Cite_web
+ 11.99%   55.521      1 Template:Fibre_sidebar
+ 10.73%   49.704      1 Template:Sidebar_with_collapsible_lists
+  9.52%   44.117      1 Template:Pp
+  7.81%   36.169      1 Template:More_citations_needed
+  7.35%   34.054      1 Template:Other_uses
+  7.30%   33.814      5 Template:Navbox
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:140558-0!canonical and timestamp 20181013215902 and revision id 857404386
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fiber&amp;oldid=857404386">https://en.wikipedia.org/w/index.php?title=Fiber&amp;oldid=857404386</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Fibers" title="Category:Fibers">Fibers</a></li><li><a href="/wiki/Category:Materials" title="Category:Materials">Materials</a></li><li><a href="/wiki/Category:Textiles" title="Category:Textiles">Textiles</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_semi-protected_pages" title="Category:Wikipedia semi-protected pages">Wikipedia semi-protected pages</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2009" title="Category:Articles needing additional references from April 2009">Articles needing additional references from April 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NARA_identifiers" title="Category:Wikipedia articles with NARA identifiers">Wikipedia articles with NARA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Fiber" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Fiber" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Fiber" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Fiber" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Fiber">Read</a></span></li><li class="collapsible" id="ca-viewsource"><span><a accesskey="e" href="/w/index.php?title=Fiber&amp;action=edit" title="This page is protected.
+You can view its source [e]">View source</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Fiber&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Fiber" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Fiber" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Fiber&amp;oldid=857404386" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Fiber&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q161" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Fiber&amp;id=857404386" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Fiber">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Fiber&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Fiber&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Fibers" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Vesel" hreflang="af" lang="af" title="Vesel – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%84%D9%8A%D9%81" hreflang="ar" lang="ar" title="ليف – Arabic">العربية</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Chhiam-%C3%BBi" hreflang="zh-min-nan" lang="zh-min-nan" title="Chhiam-ûi – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ba"><a class="interlanguage-link-target" href="https://ba.wikipedia.org/wiki/%D0%A1%D2%AF%D1%81%D1%82%D3%99%D1%80" hreflang="ba" lang="ba" title="Сүстәр – Bashkir">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%92%D0%B0%D0%BB%D0%B0%D0%BA%D0%BD%D0%BE" hreflang="be" lang="be" title="Валакно – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Vlakno" hreflang="bs" lang="bs" title="Vlakno – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-cv"><a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%A7%C4%95%D0%BB%D0%BA%C4%95%D0%BC" hreflang="cv" lang="cv" title="Чĕлкĕм – Chuvash">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Filament" hreflang="cs" lang="cs" title="Filament – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Fiber" hreflang="da" lang="da" title="Fiber – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Faser" hreflang="de" lang="de" title="Faser – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Kiud" hreflang="et" lang="et" title="Kiud – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-myv"><a class="interlanguage-link-target" href="https://myv.wikipedia.org/wiki/%D0%A1%D1%8D%D0%BB%D1%8C%D0%B3%D0%B5" hreflang="myv" lang="myv" title="Сэльге – Erzya">Эрзянь</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Fibro" hreflang="eo" lang="eo" title="Fibro – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DB%8C%D8%A7%D9%81" hreflang="fa" lang="fa" title="الیاف – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Fibre" hreflang="fr" lang="fr" title="Fibre – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Sn%C3%A1ith%C3%ADn" hreflang="ga" lang="ga" title="Snáithín – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%84%AC%EC%9C%A0" hreflang="ko" lang="ko" title="섬유 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%84%D5%A1%D5%B6%D6%80%D5%A1%D5%A9%D5%A5%D5%AC%D5%A5%D6%80" hreflang="hy" lang="hy" title="Մանրաթելեր – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%87%E0%A4%B6%E0%A4%BE" hreflang="hi" lang="hi" title="रेशा – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Vlakno" hreflang="hr" lang="hr" title="Vlakno – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Fibro" hreflang="io" lang="io" title="Fibro – Ido">Ido</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Serat" hreflang="id" lang="id" title="Serat – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Trefjar" hreflang="is" lang="is" title="Trefjar – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%91" hreflang="he" lang="he" title="סיב – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kn"><a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%A8%E0%B2%BE%E0%B2%B0%E0%B3%81" hreflang="kn" lang="kn" title="ನಾರು – Kannada">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D0%BE%D0%BA%D0%BD%D0%B8%D1%82" hreflang="kk" lang="kk" title="Волокнит – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ltg"><a class="interlanguage-link-target" href="https://ltg.wikipedia.org/wiki/%C5%A0k%C4%ABzna" hreflang="ltg" lang="ltg" title="Škīzna – Latgalian">Latgaļu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Skaidula" hreflang="lt" lang="lt" title="Skaidula – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu badge-Q17437796 badge-featuredarticle" title="featured article"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Sz%C3%A1lasanyagok" hreflang="hu" lang="hu" title="Szálasanyagok – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%A8%E0%B4%BE%E0%B4%B0%E0%B5%8D" hreflang="ml" lang="ml" title="നാര് – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Serat" hreflang="ms" lang="ms" title="Serat – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Vezel" hreflang="nl" lang="nl" title="Vezel – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%B9%8A%E7%B6%AD" hreflang="ja" lang="ja" title="繊維 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Fiber" hreflang="no" lang="no" title="Fiber – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Fiber" hreflang="nn" lang="nn" title="Fiber – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Fibra" hreflang="oc" lang="oc" title="Fibra – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/W%C5%82%C3%B3kno" hreflang="pl" lang="pl" title="Włókno – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Fibra" hreflang="pt" lang="pt" title="Fibra – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Fibr%C4%83" hreflang="ro" lang="ro" title="Fibră – Romanian">Română</a></li><li class="interlanguage-link interwiki-qu"><a class="interlanguage-link-target" href="https://qu.wikipedia.org/wiki/Q%27aytucha" hreflang="qu" lang="qu" title="Q'aytucha – Quechua">Runa Simi</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Feebre" hreflang="sco" lang="sco" title="Feebre – Scots">Scots</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Fibrat" hreflang="sq" lang="sq" title="Fibrat – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Fibre" hreflang="simple" lang="simple" title="Fibre – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sd badge-Q17437798 badge-goodarticle" title="good article"><a class="interlanguage-link-target" href="https://sd.wikipedia.org/wiki/%D8%B1%D9%8A%D8%B4%D9%88" hreflang="sd" lang="sd" title="ريشو – Sindhi">سنڌي</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D0%BA%D0%BD%D0%B0" hreflang="sr" lang="sr" title="Влакна – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Vlakno" hreflang="sh" lang="sh" title="Vlakno – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kuitu" hreflang="fi" lang="fi" title="Kuitu – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%B4%E0%AF%88" hreflang="ta" lang="ta" title="இழை – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Lif" hreflang="tr" lang="tr" title="Lif – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D0%BE%D0%BA%D0%BD%D0%BE" hreflang="uk" lang="uk" title="Волокно – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%B1%DB%8C%D8%B4%DB%81" hreflang="ur" lang="ur" title="ریشہ – Urdu">اردو</a></li><li class="interlanguage-link interwiki-wuu"><a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E7%BA%A4%E7%BB%B4" hreflang="wuu" lang="wuu" title="纤维 – Wu Chinese">吴语</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%BA%A4%E7%BB%B4" hreflang="zh" lang="zh" title="纤维 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q161#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 31 August 2018, at 13:34<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Fiber&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.484","walltime":"0.608","ppvisitednodes":{"value":1588,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":91811,"limit":2097152},"templateargumentsize":{"value":1457,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":22771,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  463.212      1 -total"," 35.59%  164.837      1 Template:Reflist"," 13.62%   63.084      1 Template:OEtymD"," 13.06%   60.481      1 Template:Cite_web"," 11.99%   55.521      1 Template:Fibre_sidebar"," 10.73%   49.704      1 Template:Sidebar_with_collapsible_lists","  9.52%   44.117      1 Template:Pp","  7.81%   36.169      1 Template:More_citations_needed","  7.35%   34.054      1 Template:Other_uses","  7.30%   33.814      5 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.208","limit":"10.000"},"limitreport-memusage":{"value":5599573,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20181013215903","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":726,"wgHostname":"mw1273"});});</script>
+</body>
+</html>

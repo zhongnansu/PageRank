@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Methanation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Methanation","wgTitle":"Methanation","wgCurRevisionId":840645911,"wgRevisionId":840645911,"wgArticleId":18344400,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","Organic reactions","Methane","Chemical processes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Methanation","wgRelevantArticleId":18344400,"wgRequestId":"W7@MmgpAICIAAA3YfmsAAADQ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q905071","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Methanation" rel="alternate"/>
+<link href="/w/index.php?title=Methanation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Methanation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Methanation" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Methanation rootpage-Methanation skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Methanation</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>Methanation is the conversion of CO<sub>x</sub> to methane CH<sub>4</sub> through <a href="/wiki/Hydrogenation" title="Hydrogenation">hydrogenation</a>. The <b>methanation</b> reactions of COx were first discovered by <a href="/wiki/Paul_Sabatier_(chemist)" title="Paul Sabatier (chemist)">Sabatier</a> and <a href="/wiki/Jean-Baptiste_Senderens" title="Jean-Baptiste Senderens">Senderens</a> in 1902.<sup class="reference" id="cite_ref-:1_1-0"><a href="#cite_note-:1-1">[1]</a></sup>
+</p><p>CO<sub><i>x</i></sub> methanation has many practical applications. It is a means of carbon oxide removal from process gases and is also being discussed as an alternative to <a href="/wiki/PROX" title="PROX">PROX</a> in fuel processors for mobile fuel cell applications.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p><p>Methanation as a means of producing synthetic natural gas has been considered since the 1970s.<sup class="reference" id="cite_ref-:1_1-1"><a href="#cite_note-:1-1">[1]</a></sup> More recently it has been considered as a way to store energy produced from solar or wind power. This would also allow it to serve as a potential <a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">carbon capture</a> mechanism.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Chemical_reactions"><span class="tocnumber">1</span> <span class="toctext">Chemical reactions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Industrial_applications"><span class="tocnumber">2</span> <span class="toctext">Industrial applications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Creation_of_synthetic_natural_gas"><span class="tocnumber">2.1</span> <span class="toctext">Creation of synthetic natural gas</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Ammonia_synthesis"><span class="tocnumber">2.2</span> <span class="toctext">Ammonia synthesis</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Chemical_reactions">Chemical reactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanation&amp;action=edit&amp;section=1" title="Edit section: Chemical reactions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following reactions describe the methanation of carbon monoxide and carbon dioxide respectively:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {{CO}+ 3H2 -&gt; {CH4}+ H2O}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>CO</mtext>
+</mrow>
+<mo>+</mo>
+<mn>3</mn>
+<mspace width="thinmathspace"></mspace>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>CH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+</mrow>
+<mo>+</mo>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>O</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {{CO}+ 3H2 -&gt; {CH4}+ H2O}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {{CO}+ 3H2 -&gt; {CH4}+ H2O}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f45e2872b77a7515bfde7038be123e84de8f8c75" style="vertical-align: -1.005ex; width:27.691ex; height:2.843ex;"/></span>  -206 kJ/mol</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {{CO2}+ 4H2 -&gt; {CH4}+ 2 H2O}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>CO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+</mrow>
+<mo>+</mo>
+<mn>4</mn>
+<mspace width="thinmathspace"></mspace>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>CH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+</mrow>
+<mo>+</mo>
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>O</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {{CO2}+ 4H2 -&gt; {CH4}+ 2 H2O}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {{CO2}+ 4H2 -&gt; {CH4}+ 2 H2O}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/efa4d69f248a3a4a8a1702c24b05991464dfa69b" style="vertical-align: -1.005ex; width:30.294ex; height:2.843ex;"/></span>  -164 kJ/mol</dd></dl>
+<p>The methanation reactions are classified as <a href="/wiki/Exothermic_reaction" title="Exothermic reaction">exothermic</a> and their energy of formations are listed.<sup class="reference" id="cite_ref-:1_1-2"><a href="#cite_note-:1-1">[1]</a></sup>
+</p><p>There is disagreement on whether the CO<sub>2</sub> methanation occurs by first associatively adsorbing an <a href="/wiki/Adatom" title="Adatom">adatom</a> hydrogen  and forming oxygen intermediates before hydrogenation or dissociating and forming a carbonyl before being hydrogenated.<sup class="reference" id="cite_ref-:0_3-0"><a href="#cite_note-:0-3">[3]</a></sup> CO methanation is believed to be methanated through a dissociative mechanism where the carbon oxygen bond is broken before hydrogenation with an associative mechanism only being observed at high H<sub>2</sub> concentrations.
+</p><p>Methanation reaction over different carried metal <a href="/wiki/Catalysis" title="Catalysis">catalysts</a> including Ni,<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Ru <sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> and Rh<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> has been widely investigated for the production of CH<sub>4</sub> from syngas and other power to gas initiatives.<sup class="reference" id="cite_ref-:0_3-1"><a href="#cite_note-:0-3">[3]</a></sup> Nickel is the most widely used catalyst due to its high selectivity and low cost.<sup class="reference" id="cite_ref-:1_1-3"><a href="#cite_note-:1-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Industrial_applications">Industrial applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanation&amp;action=edit&amp;section=2" title="Edit section: Industrial applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Creation_of_synthetic_natural_gas">Creation of synthetic natural gas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanation&amp;action=edit&amp;section=3" title="Edit section: Creation of synthetic natural gas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Methanation is an important step in the creation of synthetic or <a href="/wiki/Substitute_natural_gas" title="Substitute natural gas">substitute natural gas</a> (SNG).<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> Coal or wood undergo gasification which creates a producer gas that must undergo methanation in order to produce a usable gas that just needs to undergo a final purification step.
+</p><p>The first commercial synthetic gas plant opened in 1984 and is the <a href="/wiki/Dakota_Gasification_Company" title="Dakota Gasification Company">Great Plains Synfuel</a> plant in Beulah, North Dakota.<sup class="reference" id="cite_ref-:1_1-4"><a href="#cite_note-:1-1">[1]</a></sup> It is still operational and produces 1500 MW worth of SNG using coal as the carbon source. In the years since its opening, other commercial facilities have been opened using other carbons sources such as wood chips.<sup class="reference" id="cite_ref-:1_1-5"><a href="#cite_note-:1-1">[1]</a></sup>
+</p><p>In France, the AFUL Chantrerie, located in Nantes, started in November 2017 the demonstrator MINERVE. This methanation unit of 14 Nm3 / day was carried out by Top Industrie, with the support of Leaf. This installation is used to feed a CNG station and to inject methane into the natural gas boiler. <sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Ammonia_synthesis">Ammonia synthesis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanation&amp;action=edit&amp;section=4" title="Edit section: Ammonia synthesis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In ammonia production CO and CO<sub>2</sub> are considered <a href="/wiki/Catalyst_poisoning" title="Catalyst poisoning">poisons</a> to most commonly used catalysts.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> Methanation catalysts are added after several hydrogen producing steps to prevent carbon oxide buildup in the ammonia synthesis loop as methane does not have similar adverse effects on ammonia synthesis rates.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Methanation&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-:1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:1_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:1_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:1_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-:1_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Rönsch, Stefan; Schneider, Jens; Matthischke, Steffi; Schlüter, Michael; Götz, Manuel; Lefebvre, Jonathan; Prabhakaran, Praseeth; Bajohr, Siegfried (2016-02-15). <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0016236115011254" rel="nofollow">"Review on methanation – From fundamentals to current projects"</a>. <i>Fuel</i>. <b>166</b>: 276–296. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.fuel.2015.10.111" rel="nofollow">10.1016/j.fuel.2015.10.111</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Fuel&amp;rft.atitle=Review+on+methanation+%E2%80%93+From+fundamentals+to+current+projects&amp;rft.volume=166&amp;rft.pages=276-296&amp;rft.date=2016-02-15&amp;rft_id=info%3Adoi%2F10.1016%2Fj.fuel.2015.10.111&amp;rft.aulast=R%C3%B6nsch&amp;rft.aufirst=Stefan&amp;rft.au=Schneider%2C+Jens&amp;rft.au=Matthischke%2C+Steffi&amp;rft.au=Schl%C3%BCter%2C+Michael&amp;rft.au=G%C3%B6tz%2C+Manuel&amp;rft.au=Lefebvre%2C+Jonathan&amp;rft.au=Prabhakaran%2C+Praseeth&amp;rft.au=Bajohr%2C+Siegfried&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0016236115011254&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanation"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Yong Men, «Selective methanation of carbon oxides in a microchannel reactor—Primary screening and impact of gas additives», <i>Catalysis Today</i>, 2007, <abbr>p.</abbr> 81-87 ([doi:10.1016/j.cattod.2007.02.017 lire en ligne])</span>
+</li>
+<li id="cite_note-:0-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Miao, Bin; Ma, Su Su Khine; Wang, Xin; Su, Haibin; Chan, Siew Hwa (2016-06-13). <a class="external text" href="http://pubs.rsc.org/-/content/articlehtml/2016/cy/c6cy00478d" rel="nofollow">"Catalysis mechanisms of CO2 and CO methanation"</a>. <i>Catalysis Science &amp; Technology</i>. <b>6</b> (12): 4048. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1039%2FC6CY00478D" rel="nofollow">10.1039/C6CY00478D</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/2044-4761" rel="nofollow">2044-4761</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Catalysis+Science+%26+Technology&amp;rft.atitle=Catalysis+mechanisms+of+CO2+and+CO+methanation&amp;rft.volume=6&amp;rft.issue=12&amp;rft.pages=4048&amp;rft.date=2016-06-13&amp;rft_id=info%3Adoi%2F10.1039%2FC6CY00478D&amp;rft.issn=2044-4761&amp;rft.aulast=Miao&amp;rft.aufirst=Bin&amp;rft.au=Ma%2C+Su+Su+Khine&amp;rft.au=Wang%2C+Xin&amp;rft.au=Su%2C+Haibin&amp;rft.au=Chan%2C+Siew+Hwa&amp;rft_id=http%3A%2F%2Fpubs.rsc.org%2F-%2Fcontent%2Farticlehtml%2F2016%2Fcy%2Fc6cy00478d&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">K.O. Xavier, «Doping effects of cerium oxide on Ni/Al2O3 catalysts for methanation», <i>Catalysis Today</i>, 1999, <abbr>p.</abbr> 17-21</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Toshimasa Utaka, «CO removal from reformed fuels over Cu and precious metal catalysts», <i>Applied Catalysis A: General</i>, 2003, <abbr>p.</abbr> 117-124 ([10.1016/S0926-860X(03)00048-6 lire en ligne])</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Paraskevi Panagiotopoulou, « Selective methanation of CO over supported noble metal catalysts: Effects of the nature of the metallic phase on catalytic performance», <i>Applied Catalysis A: General</i>, 2008, <abbr>p.</abbr> 45-54 ([10.1016/j.apcata.2008.03.039 lire en ligne])</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kopyscinski, Jan; Schildhauer, Tilman J.; Biollaz, Serge M. A. (2010-08-01). <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0016236110000359" rel="nofollow">"Production of synthetic natural gas (SNG) from coal and dry biomass – A technology review from 1950 to 2009"</a>. <i>Fuel</i>. <b>89</b> (8): 1763–1783. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.fuel.2010.01.027" rel="nofollow">10.1016/j.fuel.2010.01.027</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Fuel&amp;rft.atitle=Production+of+synthetic+natural+gas+%28SNG%29+from+coal+and+dry+biomass+%E2%80%93+A+technology+review+from+1950+to+2009&amp;rft.volume=89&amp;rft.issue=8&amp;rft.pages=1763-1783&amp;rft.date=2010-08-01&amp;rft_id=info%3Adoi%2F10.1016%2Fj.fuel.2010.01.027&amp;rft.aulast=Kopyscinski&amp;rft.aufirst=Jan&amp;rft.au=Schildhauer%2C+Tilman+J.&amp;rft.au=Biollaz%2C+Serge+M.+A.&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0016236110000359&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.lemoniteur.fr/article/un-demonstrateur-power-to-gas-en-service-a-nantes-35321848" rel="nofollow">"Un démonstrateur Power to gas en service à Nantes"</a>. <i>Le Moniteur</i> (in French). 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">9 February</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Le+Moniteur&amp;rft.atitle=Un+d%C3%A9monstrateur+Power+to+gas+en+service+%C3%A0+Nantes&amp;rft.date=2018&amp;rft_id=https%3A%2F%2Fwww.lemoniteur.fr%2Farticle%2Fun-demonstrateur-power-to-gas-en-service-a-nantes-35321848&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/>.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Khorsand, Kayvan (2007). <a class="external text" href="https://www.researchgate.net/profile/Mahdi_Ahmadi_Marvast/publication/26498529_Modeling_and_simulation_of_methanation_catalytic_reactor_in_ammonia_unit/links/0deec52ad3e314aca6000000/Modeling-and-simulation-of-methanation-catalytic-reactor-in-ammonia-unit.pdf" rel="nofollow">"Modeling and simulation of methanation catalytic reactor in ammonia unit"</a> <span class="cs1-format">(PDF)</span>. <i>Petroleum &amp; Coal</i>. <b>49</b>: 46–53.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Petroleum+%26+Coal&amp;rft.atitle=Modeling+and+simulation+of+methanation+catalytic+reactor+in+ammonia+unit&amp;rft.volume=49&amp;rft.pages=46-53&amp;rft.date=2007&amp;rft.aulast=Khorsand&amp;rft.aufirst=Kayvan&amp;rft_id=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FMahdi_Ahmadi_Marvast%2Fpublication%2F26498529_Modeling_and_simulation_of_methanation_catalytic_reactor_in_ammonia_unit%2Flinks%2F0deec52ad3e314aca6000000%2FModeling-and-simulation-of-methanation-catalytic-reactor-in-ammonia-unit.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMethanation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Parsed by mw1317
+Cached time: 20181010184307
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.132 seconds
+Real time usage: 0.483 seconds
+Preprocessor visited node count: 368/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 10868/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 17715/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.081/10.000 seconds
+Lua memory usage: 2.44 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  114.312      1 -total
+ 94.34%  107.842      4 Template:Cite_journal
+  5.40%    6.169      1 Template:Cite_web
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18344400-0!canonical!math=5 and timestamp 20181010184307 and revision id 840645911
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Methanation&amp;oldid=840645911">https://en.wikipedia.org/w/index.php?title=Methanation&amp;oldid=840645911</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Organic_reactions" title="Category:Organic reactions">Organic reactions</a></li><li><a href="/wiki/Category:Methane" title="Category:Methane">Methane</a></li><li><a href="/wiki/Category:Chemical_processes" title="Category:Chemical processes">Chemical processes</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Methanation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Methanation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Methanation" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Methanation" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Methanation">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Methanation&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Methanation&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Methanation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Methanation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Methanation&amp;oldid=840645911" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Methanation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q905071" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Methanation&amp;id=840645911" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Methanation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Methanation&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Methanation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Methanisierung" hreflang="de" lang="de" title="Methanisierung – German">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/M%C3%A9thanation" hreflang="fr" lang="fr" title="Méthanation – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Metanazione" hreflang="it" lang="it" title="Metanazione – Italian">Italiano</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q905071#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 11 May 2018, at 06:18<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Methanation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.132","walltime":"0.483","ppvisitednodes":{"value":368,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":10868,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":17715,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  114.312      1 -total"," 94.34%  107.842      4 Template:Cite_journal","  5.40%    6.169      1 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.081","limit":"10.000"},"limitreport-memusage":{"value":2556155,"limit":52428800}},"cachereport":{"origin":"mw1317","timestamp":"20181010184307","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw1332"});});</script>
+</body>
+</html>

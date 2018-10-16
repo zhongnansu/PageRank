@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Haldane effect - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Haldane_effect","wgTitle":"Haldane effect","wgCurRevisionId":862709281,"wgRevisionId":862709281,"wgArticleId":4422997,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from June 2015","All articles needing additional references","Hematology","Hemoproteins","Respiratory physiology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Haldane_effect","wgRelevantArticleId":4422997,"wgRequestId":"W7zN6ArAADQAAExAlkwAAACU","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q923603","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Haldane_effect" rel="alternate"/>
+<link href="/w/index.php?title=Haldane_effect&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Haldane_effect&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Haldane_effect" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Haldane_effect rootpage-Haldane_effect skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Haldane effect</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>The <b>Haldane effect</b> is a property of <a href="/wiki/Hemoglobin" title="Hemoglobin">hemoglobin</a> first described by <a href="/wiki/John_Scott_Haldane" title="John Scott Haldane">John Scott Haldane</a>. Oxygenation of blood in the lungs displaces carbon dioxide from hemoglobin which increases the removal of carbon dioxide. This property is the Haldane effect. Conversely, oxygenated blood has a reduced affinity for carbon dioxide. Thus, the Haldane effect describes hemoglobin’s ability to carry increased amounts of CO2 in the deoxygenated state as opposed to the oxygenated state.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Carbamino"><span class="tocnumber">1</span> <span class="toctext">Carbamino</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Buffering"><span class="tocnumber">2</span> <span class="toctext">Buffering</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Clinical_significance"><span class="tocnumber">3</span> <span class="toctext">Clinical significance</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Carbamino">Carbamino</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haldane_effect&amp;action=edit&amp;section=1" title="Edit section: Carbamino">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Carbon dioxide can bind to <a class="mw-redirect" href="/wiki/Amino" title="Amino">amino</a> groups, creating <a href="/wiki/Carbamino" title="Carbamino">carbamino</a> compounds. Amino groups are available for binding at the N-terminals and at side-chains of <a href="/wiki/Arginine" title="Arginine">arginine</a> and <a href="/wiki/Lysine" title="Lysine">lysine</a> residues in haemoglobin. This forms <a class="mw-redirect" href="/wiki/Carbaminohaemoglobin" title="Carbaminohaemoglobin">carbaminohaemoglobin</a>. Carbaminohaemoglobin is the major contributor to the Haldane effect.<sup class="reference" id="cite_ref-Nunn_1-0"><a href="#cite_note-Nunn-1">[1]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Buffering">Buffering</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haldane_effect&amp;action=edit&amp;section=2" title="Edit section: Buffering">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Haldane_effect&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(June 2015)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><p><a href="/wiki/Histidine" title="Histidine">Histidine</a> residues in hemoglobin can accept protons and act as <a href="/wiki/Buffering_agent" title="Buffering agent">buffers</a>. Deoxygenated hemoglobin is a better <a href="/wiki/Base_(chemistry)" title="Base (chemistry)">proton acceptor</a> than the oxygenated form.<sup class="reference" id="cite_ref-Nunn_1-1"><a href="#cite_note-Nunn-1">[1]</a></sup>
+</p><p>In red blood cells, the enzyme <a href="/wiki/Carbonic_anhydrase" title="Carbonic anhydrase">carbonic anhydrase</a> catalyzes the conversion of dissolved carbon dioxide to <a href="/wiki/Carbonic_acid" title="Carbonic acid">carbonic acid</a>, which rapidly dissociates to <a href="/wiki/Bicarbonate" title="Bicarbonate">bicarbonate</a> and a free <a href="/wiki/Proton" title="Proton">proton</a>:<br/>CO<sub>2</sub> + H<sub>2</sub>O → H<sub>2</sub>CO<sub>3</sub> → H<sup>+</sup> + HCO<sub>3</sub><sup>−</sup><br/>
+By <a href="/wiki/Le_Chatelier%27s_principle" title="Le Chatelier's principle">Le Chatelier's principle</a>, anything that stabilizes the proton produced will cause the reaction to shift to the right, thus the enhanced affinity of deoxyhemoglobin for protons enhances synthesis of bicarbonate and accordingly increases capacity of deoxygenated blood for carbon dioxide.  The majority of carbon dioxide in the blood is in the form of bicarbonate.  Only a very small amount is actually dissolved as carbon dioxide, and the remaining amount of carbon dioxide is bound to hemoglobin.
+</p><p>In addition to enhancing removal of carbon dioxide from oxygen-consuming tissues, the Haldane effect promotes dissociation of <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> from hemoglobin in the presence of <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>. In the oxygen-rich capillaries of the lung, this property causes the displacement of carbon dioxide to plasma as low-oxygen blood enters the <a class="mw-redirect" href="/wiki/Alveolus" title="Alveolus">alveolus</a> and is vital for <a class="mw-redirect" href="/wiki/Alveolar_gas_exchange" title="Alveolar gas exchange">alveolar gas exchange</a>.
+</p><p>The general equation for the Haldane Effect is:
+H<sup>+</sup> + HbO<sub>2</sub> ←→ H<sup>+</sup>Hb + O<sub>2</sub>; however, this equation is confusing as it reflects primarily the <a href="/wiki/Bohr_effect" title="Bohr effect">Bohr effect</a>.  The significance of this equation lies in realizing that oxygenation of Hb promotes dissociation of H<sup>+</sup> from Hb, which shifts the bicarbonate buffer equilibrium towards CO<sub>2</sub> formation; therefore, CO<sub>2</sub> is released from RBCs.<sup class="reference" id="cite_ref-Siggaard_2-0"><a href="#cite_note-Siggaard-2">[2]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Clinical_significance">Clinical significance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haldane_effect&amp;action=edit&amp;section=3" title="Edit section: Clinical significance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In patients with lung disease, lungs may not be able to increase <a class="mw-redirect" href="/wiki/Alveolar_ventilation" title="Alveolar ventilation">alveolar ventilation</a> in the face of increased amounts of dissolved CO<sub>2</sub>.
+</p><p>This partially explains the observation that some patients with <a class="mw-redirect" href="/wiki/Emphysema" title="Emphysema">emphysema</a> might have an increase in P<sub>a</sub>CO<sub>2</sub> (partial pressure of arterial dissolved carbon dioxide) following administration of supplemental oxygen even if content of CO<sub>2</sub> stays equal.<sup class="reference" id="cite_ref-Hanson_3-0"><a href="#cite_note-Hanson-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haldane_effect&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Bohr_effect" title="Bohr effect">Bohr effect</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haldane_effect&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Nunn-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Nunn_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Nunn_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Lumb, AB (2000). <i>Nunn's Applied Respiratory Physiology</i> (5th ed.). Butterworth Heinemann. pp. 227–229. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7506-3107-4" title="Special:BookSources/0-7506-3107-4">0-7506-3107-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Nunn%27s+Applied+Respiratory+Physiology&amp;rft.pages=227-229&amp;rft.edition=5th&amp;rft.pub=Butterworth+Heinemann&amp;rft.date=2000&amp;rft.isbn=0-7506-3107-4&amp;rft.aulast=Lumb&amp;rft.aufirst=AB&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHaldane+effect"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Siggaard-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Siggaard_2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Siggaard, O; Garby L (1973). "The Bohr Effect and the Haldane Effect". <i>Scandinavian Journal of Clinical and Laboratory Investigation</i>. <b>31</b> (1): 1–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.3109%2F00365517309082411" rel="nofollow">10.3109/00365517309082411</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Scandinavian+Journal+of+Clinical+and+Laboratory+Investigation&amp;rft.atitle=The+Bohr+Effect+and+the+Haldane+Effect&amp;rft.volume=31&amp;rft.issue=1&amp;rft.pages=1-8&amp;rft.date=1973&amp;rft_id=info%3Adoi%2F10.3109%2F00365517309082411&amp;rft.aulast=Siggaard&amp;rft.aufirst=O&amp;rft.au=Garby+L&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHaldane+effect"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Hanson-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hanson_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hanson, CW; Marshall BE; Frasch HF; Marshall C (January 1996). "Causes of hypercarbia with oxygen therapy in patients with chronic obstructive pulmonary disease". <i>Critical Care Medicine</i>. <b>24</b> (1): 23–28. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1097%2F00003246-199601000-00007" rel="nofollow">10.1097/00003246-199601000-00007</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/8565533" rel="nofollow">8565533</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Critical+Care+Medicine&amp;rft.atitle=Causes+of+hypercarbia+with+oxygen+therapy+in+patients+with+chronic+obstructive+pulmonary+disease&amp;rft.volume=24&amp;rft.issue=1&amp;rft.pages=23-28&amp;rft.date=1996-01&amp;rft_id=info%3Adoi%2F10.1097%2F00003246-199601000-00007&amp;rft_id=info%3Apmid%2F8565533&amp;rft.aulast=Hanson&amp;rft.aufirst=CW&amp;rft.au=Marshall+BE&amp;rft.au=Frasch+HF&amp;rft.au=Marshall+C&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHaldane+effect"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haldane_effect&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://humanphysiology.tuars.com/program/section4/4ch5/s4ch5_31.htm" rel="nofollow">Physiology: 4/4ch5/s4ch5_31</a> - Essentials of Human Physiology</li>
+<li><a class="external text" href="http://physiology.umc.edu/themodelingworkshop/Integrative%20Model/Low%20Level/Haldane%20Effect/Haldane%20Effect.HTML" rel="nofollow">Overview at umc.edu</a></li>
+<li><a class="external text" href="http://www.people.vcu.edu/~mikuleck/courses/resp2/sld017.htm" rel="nofollow">Overview at vcu.edu</a></li></ul>
+<div aria-labelledby="Respiratory_physiology" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Respiratory_physiology" title="Template:Respiratory physiology"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Respiratory_physiology" title="Template talk:Respiratory physiology"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Respiratory_physiology&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Respiratory_physiology" style="font-size:114%;margin:0 4em"><a class="mw-redirect" href="/wiki/Respiratory_physiology" title="Respiratory physiology">Respiratory physiology</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Respiration</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Breath" title="Breath">breath</a>
+<ul><li><a href="/wiki/Inhalation" title="Inhalation">inhalation</a></li>
+<li><a href="/wiki/Exhalation" title="Exhalation">exhalation</a></li></ul></li>
+<li><a href="/wiki/Respiratory_rate" title="Respiratory rate">respiratory rate</a></li>
+<li><a href="/wiki/Respirometer" title="Respirometer">respirometer</a></li>
+<li><a href="/wiki/Pulmonary_surfactant" title="Pulmonary surfactant">pulmonary surfactant</a></li>
+<li><a class="mw-redirect" href="/wiki/Pulmonary_compliance" title="Pulmonary compliance">compliance</a></li>
+<li><a href="/wiki/Elastic_recoil" title="Elastic recoil">elastic recoil</a></li>
+<li><a href="/wiki/Hysteresivity" title="Hysteresivity">hysteresivity</a></li>
+<li><a href="/wiki/Airway_resistance" title="Airway resistance">airway resistance</a></li>
+<li>bronchial
+<ul><li><a href="/wiki/Bronchial_hyperresponsiveness" title="Bronchial hyperresponsiveness">hyperresponsiveness</a></li>
+<li><a href="/wiki/Bronchoconstriction" title="Bronchoconstriction">constriction</a></li>
+<li><a href="/wiki/Bronchodilatation" title="Bronchodilatation">dilatation</a></li></ul></li>
+<li><a href="/wiki/Mechanical_ventilation" title="Mechanical ventilation">mechanical ventilation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Control_of_ventilation" title="Control of ventilation">Control</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Pons" title="Pons">pons</a></i>
+<ul><li><a class="mw-redirect" href="/wiki/Pneumotaxic_center" title="Pneumotaxic center">pneumotaxic center</a></li>
+<li><a class="mw-redirect" href="/wiki/Apneustic_center" title="Apneustic center">apneustic center</a></li></ul></li>
+<li><i><a href="/wiki/Medulla_oblongata" title="Medulla oblongata">medulla</a></i>
+<ul><li><a href="/wiki/Dorsal_respiratory_group" title="Dorsal respiratory group">dorsal respiratory group</a></li>
+<li><a href="/wiki/Ventral_respiratory_group" title="Ventral respiratory group">ventral respiratory group</a></li></ul></li>
+<li><i><a href="/wiki/Chemoreceptor" title="Chemoreceptor">chemoreceptors</a></i>
+<ul><li><a href="/wiki/Central_chemoreceptors" title="Central chemoreceptors">central</a></li>
+<li><a href="/wiki/Peripheral_chemoreceptors" title="Peripheral chemoreceptors">peripheral</a></li></ul></li>
+<li><a href="/wiki/Pulmonary_stretch_receptors" title="Pulmonary stretch receptors">pulmonary stretch receptors</a>
+<ul><li><a href="/wiki/Hering%E2%80%93Breuer_reflex" title="Hering–Breuer reflex">Hering–Breuer reflex</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Lung_volumes" title="Lung volumes">Lung volumes</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vital_capacity" title="Vital capacity">VC</a></li>
+<li><a href="/wiki/Functional_residual_capacity" title="Functional residual capacity">FRC</a></li>
+<li><a href="/wiki/Tidal_volume" title="Tidal volume">Vt</a></li>
+<li><a href="/wiki/Dead_space_(physiology)" title="Dead space (physiology)">dead space</a></li>
+<li><a href="/wiki/Closing_capacity" title="Closing capacity">CC</a></li>
+<li><a href="/wiki/Peak_expiratory_flow" title="Peak expiratory flow">PEF</a></li></ul>
+<dl><dt>calculations</dt>
+<dd></dd>
+<dd><a href="/wiki/Respiratory_minute_volume" title="Respiratory minute volume">respiratory minute volume</a></dd>
+<dd><a href="/wiki/FEV1/FVC_ratio" title="FEV1/FVC ratio">FEV1/FVC ratio</a></dd></dl>
+<dl><dt><a class="mw-redirect" href="/wiki/Lung_function_test" title="Lung function test">Lung function tests</a></dt>
+<dd></dd>
+<dd><a href="/wiki/Spirometry" title="Spirometry">spirometry</a></dd>
+<dd><a class="mw-redirect" href="/wiki/Body_plethysmography" title="Body plethysmography">body plethysmography</a></dd>
+<dd><a class="mw-redirect" href="/wiki/Peak_flow_meter" title="Peak flow meter">peak flow meter</a></dd>
+<dd><a href="/wiki/Nitrogen_washout" title="Nitrogen washout">nitrogen washout</a></dd></dl>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Circulation</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pulmonary_circulation" title="Pulmonary circulation">pulmonary circulation</a></li>
+<li><a href="/wiki/Hypoxic_pulmonary_vasoconstriction" title="Hypoxic pulmonary vasoconstriction">hypoxic pulmonary vasoconstriction</a></li>
+<li><a href="/wiki/Pulmonary_shunt" title="Pulmonary shunt">pulmonary shunt</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Interactions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Ventilation_(physiology)" title="Ventilation (physiology)">ventilation (V)</a></li>
+<li><a href="/wiki/Perfusion" title="Perfusion">Perfusion</a> (Q)
+<ul><li><a href="/wiki/Ventilation/perfusion_ratio" title="Ventilation/perfusion ratio">Ventilation/perfusion ratio</a></li>
+<li><a href="/wiki/Ventilation/perfusion_scan" title="Ventilation/perfusion scan">V/Q scan</a></li></ul></li>
+<li><a href="/wiki/Zones_of_the_lung" title="Zones of the lung">zones of the lung</a></li>
+<li><a href="/wiki/Gas_exchange" title="Gas exchange">gas exchange</a></li>
+<li><a href="/wiki/Pulmonary_gas_pressures" title="Pulmonary gas pressures">pulmonary gas pressures</a></li>
+<li><a href="/wiki/Alveolar_gas_equation" title="Alveolar gas equation">alveolar gas equation</a></li>
+<li><a href="/wiki/Alveolar%E2%80%93arterial_gradient" title="Alveolar–arterial gradient">alveolar–arterial gradient</a></li>
+<li><a href="/wiki/Hemoglobin" title="Hemoglobin">hemoglobin</a></li>
+<li><a class="mw-redirect" href="/wiki/Oxygen%E2%80%93haemoglobin_dissociation_curve" title="Oxygen–haemoglobin dissociation curve">oxygen–haemoglobin dissociation curve</a> (<a href="/wiki/Oxygen_saturation" title="Oxygen saturation">Oxygen saturation</a></li>
+<li><a href="/wiki/2,3-Bisphosphoglyceric_acid" title="2,3-Bisphosphoglyceric acid">2,3-BPG</a></li>
+<li><a href="/wiki/Bohr_effect" title="Bohr effect">Bohr effect</a></li>
+<li><a class="mw-selflink selflink">Haldane effect</a>)</li>
+<li><a href="/wiki/Carbonic_anhydrase" title="Carbonic anhydrase">carbonic anhydrase</a> (<a href="/wiki/Chloride_shift" title="Chloride shift">chloride shift</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Oxyhemoglobin" title="Oxyhemoglobin">oxyhemoglobin</a></li>
+<li><a href="/wiki/Respiratory_quotient" title="Respiratory quotient">respiratory quotient</a></li>
+<li><a class="mw-redirect" href="/wiki/Arterial_blood_gas" title="Arterial blood gas">arterial blood gas</a></li>
+<li><a class="mw-redirect" href="/wiki/Diffusion_capacity" title="Diffusion capacity">diffusion capacity</a> (<a href="/wiki/DLCO" title="DLCO">DLCO</a>)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Insufficiency</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Effects_of_high_altitude_on_humans" title="Effects of high altitude on humans">high altitude</a></li>
+<li><a href="/wiki/Oxygen_toxicity" title="Oxygen toxicity">oxygen toxicity</a></li>
+<li><a href="/wiki/Hypoxia_(medical)" title="Hypoxia (medical)">hypoxia</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2253
+Cached time: 20181006051951
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.192 seconds
+Real time usage: 0.244 seconds
+Preprocessor visited node count: 396/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 25570/2097152 bytes
+Template argument size: 174/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 8430/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.095/10.000 seconds
+Lua memory usage: 2.78 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  178.227      1 -total
+ 60.49%  107.802      1 Template:Reflist
+ 31.01%   55.273      1 Template:Cite_book
+ 27.13%   48.352      1 Template:Unreferenced_section
+ 18.68%   33.284      2 Template:Cite_journal
+ 18.36%   32.729      1 Template:Unreferenced
+ 16.97%   30.245      1 Template:Ambox
+ 10.09%   17.976      1 Template:Respiratory_physiology
+  8.28%   14.761      1 Template:Navbox
+  1.51%    2.684      1 Template:Main_other
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4422997-0!canonical and timestamp 20181006051950 and revision id 862709281
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Haldane_effect&amp;oldid=862709281">https://en.wikipedia.org/w/index.php?title=Haldane_effect&amp;oldid=862709281</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Hematology" title="Category:Hematology">Hematology</a></li><li><a href="/wiki/Category:Hemoproteins" title="Category:Hemoproteins">Hemoproteins</a></li><li><a href="/wiki/Category:Respiratory_physiology" title="Category:Respiratory physiology">Respiratory physiology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2015" title="Category:Articles needing additional references from June 2015">Articles needing additional references from June 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Haldane+effect" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Haldane+effect" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Haldane_effect" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Haldane_effect" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Haldane_effect">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Haldane_effect&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Haldane_effect&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Haldane_effect" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Haldane_effect" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Haldane_effect&amp;oldid=862709281" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Haldane_effect&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q923603" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Haldane_effect&amp;id=862709281" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Haldane+effect">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Haldane+effect&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Haldane_effect&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1_%D9%87%D9%88%D9%84%D8%AF%D9%8A%D9%86" hreflang="ar" lang="ar" title="تأثير هولدين – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Efecte_Haldane" hreflang="ca" lang="ca" title="Efecte Haldane – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Haldane-Effekt" hreflang="de" lang="de" title="Haldane-Effekt – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Efecto_Haldane" hreflang="es" lang="es" title="Efecto Haldane – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Effet_Haldane" hreflang="fr" lang="fr" title="Effet Haldane – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Effetto_Haldane" hreflang="it" lang="it" title="Effetto Haldane – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%A4%D7%A7%D7%98_%D7%94%D7%9C%D7%93%D7%99%D7%99%D7%9F" hreflang="he" lang="he" title="אפקט הלדיין – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Haldane-effect" hreflang="nl" lang="nl" title="Haldane-effect – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Efeito_de_Haldane" hreflang="pt" lang="pt" title="Efeito de Haldane – Portuguese">Português</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Haldaneeffekten" hreflang="sv" lang="sv" title="Haldaneeffekten – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Hi%E1%BB%87u_%E1%BB%A9ng_Haldane" hreflang="vi" lang="vi" title="Hiệu ứng Haldane – Vietnamese">Tiếng Việt</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q923603#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 6 October 2018, at 05:19<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Haldane_effect&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.192","walltime":"0.244","ppvisitednodes":{"value":396,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":25570,"limit":2097152},"templateargumentsize":{"value":174,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8430,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  178.227      1 -total"," 60.49%  107.802      1 Template:Reflist"," 31.01%   55.273      1 Template:Cite_book"," 27.13%   48.352      1 Template:Unreferenced_section"," 18.68%   33.284      2 Template:Cite_journal"," 18.36%   32.729      1 Template:Unreferenced"," 16.97%   30.245      1 Template:Ambox"," 10.09%   17.976      1 Template:Respiratory_physiology","  8.28%   14.761      1 Template:Navbox","  1.51%    2.684      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.095","limit":"10.000"},"limitreport-memusage":{"value":2910490,"limit":52428800}},"cachereport":{"origin":"mw2253","timestamp":"20181006051951","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":72,"wgHostname":"mw2227"});});</script>
+</body>
+</html>

@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Autoregulation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Autoregulation","wgTitle":"Autoregulation","wgCurRevisionId":846494574,"wgRevisionId":846494574,"wgArticleId":8275269,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Physiology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Autoregulation","wgRelevantArticleId":8275269,"wgRequestId":"W8InVgpAICoAAI@PoaIAAADB","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1364253","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Autoregulation" rel="alternate"/>
+<link href="/w/index.php?title=Autoregulation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Autoregulation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Autoregulation" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Autoregulation rootpage-Autoregulation skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Autoregulation</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Autoregulation</b> is a process within many biological systems, resulting from an internal adaptive mechanism that works to adjust (or mitigate) that system's response to stimuli.  While most systems of the body show some degree of autoregulation, it is most clearly observed in the <a href="/wiki/Kidney" title="Kidney">kidney</a>, the <a href="/wiki/Heart" title="Heart">heart</a>, and the <a href="/wiki/Brain" title="Brain">brain</a>.<sup class="reference" id="cite_ref-cvphysiology_1-0"><a href="#cite_note-cvphysiology-1">[1]</a></sup> <a href="/wiki/Perfusion" title="Perfusion">Perfusion</a> of these organs is essential for life, and through autoregulation the body can divert blood (and thus, <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>) where it is most needed.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Cerebral_autoregulation"><span class="tocnumber">1</span> <span class="toctext">Cerebral autoregulation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Homeometric_and_heterometric_autoregulation_of_the_heart"><span class="tocnumber">2</span> <span class="toctext">Homeometric and heterometric autoregulation of the heart</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Coronary_circulatory_autoregulation"><span class="tocnumber">3</span> <span class="toctext">Coronary circulatory autoregulation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Renal_autoregulation"><span class="tocnumber">4</span> <span class="toctext">Renal autoregulation</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Autoregulation_of_genes"><span class="tocnumber">5</span> <span class="toctext">Autoregulation of genes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Cerebral_autoregulation">Cerebral autoregulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autoregulation&amp;action=edit&amp;section=1" title="Edit section: Cerebral autoregulation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Cerebral_autoregulation" title="Cerebral autoregulation">Cerebral autoregulation</a></div>
+<p>More so than most other organs, the brain is very sensitive to increased or decreased blood flow, and several mechanisms (metabolic, myogenic, and neurogenic) are involved in maintaining an appropriate cerebral blood pressure. Brain blood flow autoregulation is abolished in several disease states such as <a href="/wiki/Traumatic_brain_injury" title="Traumatic brain injury">traumatic brain injury</a>,<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> <a href="/wiki/Stroke" title="Stroke">stroke</a>,<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> brain tumors, or persistent abnormally high CO2 levels.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Homeometric_and_heterometric_autoregulation_of_the_heart">Homeometric and heterometric autoregulation of the heart</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autoregulation&amp;action=edit&amp;section=2" title="Edit section: Homeometric and heterometric autoregulation of the heart">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Homeometric autoregulation</b>, in the context of the <a href="/wiki/Circulatory_system" title="Circulatory system">circulatory system</a>, is the heart's ability to increase <a href="/wiki/Contractility" title="Contractility">contractility</a> and restore <a href="/wiki/Stroke_volume" title="Stroke volume">stroke volume</a> when <a href="/wiki/Afterload" title="Afterload">afterload</a> increases.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>  Homeometric autoregulation occurs <b>independently of cardiomyocyte fiber length,</b> via the Bowditch and/or Anrep effects.<sup class="reference" id="cite_ref-:0_7-0"><a href="#cite_note-:0-7">[7]</a></sup>
+</p>
+<ul><li>Via the <a href="/wiki/Bowditch_effect" title="Bowditch effect">Bowditch effect</a>, positive <a href="/wiki/Inotrope" title="Inotrope">inotropy</a> occurs secondary to an increased cardiac frequency. The exact mechanism for this remains unknown, but it appears to be the result of an increased exposure of the heart to contractile substances arising from the increased flow caused by an increased cardiac frequency.<sup class="reference" id="cite_ref-:0_7-1"><a href="#cite_note-:0-7">[7]</a></sup></li>
+<li>Via the <a href="/wiki/Anrep_effect" title="Anrep effect">Anrep effect</a>, positive inotropy occurs secondary to increased ventricular pressure.<sup class="reference" id="cite_ref-:0_7-2"><a href="#cite_note-:0-7">[7]</a></sup></li></ul>
+<p>This is in contrast to <a class="mw-redirect" href="/wiki/Frank%E2%80%93Starling_law_of_the_heart" title="Frank–Starling law of the heart"><b>heterometric regulation</b></a>, governed by the Frank-Starling law, which results from a more favorable positioning of actin and myosin filaments in cardiomyocytes <b>as a result of changing fiber lengths</b>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Coronary_circulatory_autoregulation">Coronary circulatory autoregulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autoregulation&amp;action=edit&amp;section=3" title="Edit section: Coronary circulatory autoregulation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since the heart is a very aerobic organ, needing oxygen for the efficient production of ATP &amp; Creatine Phosphate from fatty acids (and to a smaller extent, glucose &amp; very little lactate), the coronary circulation is auto regulated so that the heart receives the right flow of blood &amp; hence sufficient supply of oxygen. If a sufficient flow of oxygen is met and the resistance in the coronary circulation rises (perhaps due to vasoconstriction), then the coronary perfusion pressure (CPP) increases proportionally, to maintain the same flow. In this way, the same flow through the coronary circulation is maintained over a range of pressures. This part of coronary circulatory regulation is known as auto regulation and it occurs over a plateau, reflecting the constant blood flow at varying CPP &amp; resistance. The slope of a CBF (coronary blood flow) vs. CPP graph gives 1/Resistance.
+</p>
+<h2><span class="mw-headline" id="Renal_autoregulation">Renal autoregulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autoregulation&amp;action=edit&amp;section=4" title="Edit section: Renal autoregulation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Tubuloglomerular_feedback" title="Tubuloglomerular feedback">Tubuloglomerular feedback</a></div>
+<p>Regulation of renal blood flow is important to maintaining a stable glomerular filtration rate (GFR) despite changes in systemic blood pressure (within about 80-180 mmHg).  In a mechanism called <a href="/wiki/Tubuloglomerular_feedback" title="Tubuloglomerular feedback">tubuloglomerular feedback</a>, the kidney changes its own blood flow in response to changes in sodium concentration.  The sodium chloride levels in the urinary filtrate are sensed by the <a href="/wiki/Macula_densa" title="Macula densa">macula densa</a> cells at the end of the <a href="/wiki/Ascending_limb_of_loop_of_Henle" title="Ascending limb of loop of Henle">ascending limb</a>.  When sodium levels are moderately increased, the macula densa releases <a href="/wiki/Adenosine_triphosphate" title="Adenosine triphosphate">ATP</a><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> and reduces <a href="/wiki/Prostaglandin_E2" title="Prostaglandin E2">prostaglandin E2</a> release<sup class="reference" id="cite_ref-Komlosi_2004_463–469_10-0"><a href="#cite_note-Komlosi_2004_463–469-10">[10]</a></sup> to the <a class="mw-redirect" href="/wiki/Juxtaglomerular_cells" title="Juxtaglomerular cells">juxtaglomerular cells</a> nearby. The juxtaglomerular cells in the afferent arteriole constrict, and juxtaglomerular cells in both the afferent and efferent arteriole decrease their renin secretion.  These actions function to lower GFR.  Further increase in sodium concentration leads to the release of <a href="/wiki/Nitric_oxide" title="Nitric oxide">nitric oxide</a>, a vasodilating substance, to prevent excessive vasoconstriction.<sup class="reference" id="cite_ref-Komlosi_2004_463–469_10-1"><a href="#cite_note-Komlosi_2004_463–469-10">[10]</a></sup>  In the opposite case, juxtaglomerular cells are stimulated to release more renin, which stimulates the <a href="/wiki/Renin%E2%80%93angiotensin_system" title="Renin–angiotensin system">renin–angiotensin system</a>, producing angiotensin I which is converted by Angio-Tensin Converting Enzyme  (ACE) to <a class="mw-redirect" href="/wiki/Angiotensin_II" title="Angiotensin II">angiotensin II</a>. Angiotensin II then causes preferential constriction of the efferent arteriole of the glomerulus and increases the GFR.
+</p>
+<h2><span class="mw-headline" id="Autoregulation_of_genes">Autoregulation of genes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autoregulation&amp;action=edit&amp;section=5" title="Edit section: Autoregulation of genes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This is so-called "steady-state system". An example is a system in which a protein P that is a product of gene G "positively regulates its own production by binding to a regulatory element of the gene coding for it,"<sup class="reference" id="cite_ref-Jablonka_11-0"><a href="#cite_note-Jablonka-11">[11]</a></sup> and the protein gets used or lost at a rate that increases as its concentration increases. This feedback loop creates two possible states "on" and "off". If an outside factor makes the concentration of P increase to some threshold level, the production of protein P is "on", i.e. P will maintain its own concentration at a certain level, until some other stimulus will lower it down below the threshold level, when concentration of P will be insufficient to make gene G express at the rate that would overcome the loss or use of the protein P.
+This state ("on" or "off") gets inherited after cell division, since the concentration of protein a usually remains the same after mitosis. However, the state can be easily disrupted by outside factors.
+<sup class="reference" id="cite_ref-Jablonka_11-1"><a href="#cite_note-Jablonka-11">[11]</a></sup>
+</p><p>Similarly, this phenomenon is not only restricted to genes but may also apply to other genetic units, including mRNA transcripts. Regulatory segments of mRNA called a <a href="/wiki/Riboswitch" title="Riboswitch">Riboswitch</a> can autoregulate its transcription by sequestering cis-regulatory elements (particularly the <a class="mw-redirect" href="/wiki/Shine-Dalgarno" title="Shine-Dalgarno">Shine-Dalgarno</a> sequence) located on the same transcript as the Riboswitch. The Riboswitch stem-loop has a region complementary to the Shine-Dalgarno but is sequestered by complimentary base pairing in the loop. With sufficient ligand, the ligand may bind to the stem-loop and disrupt intermolecular bonding, resulting in the complimentary Shine-Dalgarno stem-loop segment binding to the complimentary Riboswitch segment, preventing Ribosome from binding, inhibiting translation.
+<sup class="reference" id="cite_ref-arXiv:1210.6998_[q-bio.MN]_12-0"><a href="#cite_note-arXiv:1210.6998_[q-bio.MN]-12">[12]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autoregulation&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/autoregulation" title="wiktionary:autoregulation">autoregulation</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<ul><li><a href="/wiki/Homeostasis" title="Homeostasis">Homeostasis</a></li>
+<li><a href="/wiki/Renin%E2%80%93angiotensin_system" title="Renin–angiotensin system">Renin–angiotensin system</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Autoregulation&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-cvphysiology-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-cvphysiology_1-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.cvphysiology.com/Blood%20Flow/BF004.htm" rel="nofollow">Autoregulation</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Figaji, Anthony A.; Eugene Zwane; A. Graham Fieggen; Andrew C. Argent; Peter D. Le Roux; Peter Siesjo; Jonathan C. Peter (2009). "Pressure autoregulation, intracranial pressure, and brain tissue oxygenation in children with severe traumatic brain injury". <i>Journal of Neurosurgery. Pediatrics</i>. <b>4</b> (5): 420–428. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.3171%2F2009.6.PEDS096" rel="nofollow">10.3171/2009.6.PEDS096</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1933-0715" rel="nofollow">1933-0715</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19877773" rel="nofollow">19877773</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Neurosurgery.+Pediatrics&amp;rft.atitle=Pressure+autoregulation%2C+intracranial+pressure%2C+and+brain+tissue+oxygenation+in+children+with+severe+traumatic+brain+injury&amp;rft.volume=4&amp;rft.issue=5&amp;rft.pages=420-428&amp;rft.date=2009&amp;rft.issn=1933-0715&amp;rft_id=info%3Apmid%2F19877773&amp;rft_id=info%3Adoi%2F10.3171%2F2009.6.PEDS096&amp;rft.aulast=Figaji&amp;rft.aufirst=Anthony+A.&amp;rft.au=Eugene+Zwane&amp;rft.au=A.+Graham+Fieggen&amp;rft.au=Andrew+C.+Argent&amp;rft.au=Peter+D.+Le+Roux&amp;rft.au=Peter+Siesjo&amp;rft.au=Jonathan+C.+Peter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregulation"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Budohoski K. P.; Czosnyka M.; Kirkpatrick P. J.; Smielewski P.; Pickard J. D. (2013). "Clinical relevance of cerebral autoregulation following subarachnoid haemorrhage". <i>Nat. Rev. Neurol</i>. <b>9</b> (3): 152–63. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fnrneurol.2013.11" rel="nofollow">10.1038/nrneurol.2013.11</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23419369" rel="nofollow">23419369</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nat.+Rev.+Neurol.&amp;rft.atitle=Clinical+relevance+of+cerebral+autoregulation+following+subarachnoid+haemorrhage&amp;rft.volume=9&amp;rft.issue=3&amp;rft.pages=152-63&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1038%2Fnrneurol.2013.11&amp;rft_id=info%3Apmid%2F23419369&amp;rft.au=Budohoski+K.+P.&amp;rft.au=Czosnyka+M.&amp;rft.au=Kirkpatrick+P.+J.&amp;rft.au=Smielewski+P.&amp;rft.au=Pickard+J.+D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregulation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Paulson, O. B.; S. Strandgaard; L. Edvinsson (1990). "Cerebral autoregulation". <i>Cerebrovascular and Brain Metabolism Reviews</i>. <b>2</b> (2): 161–192. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1040-8827" rel="nofollow">1040-8827</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/2201348" rel="nofollow">2201348</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cerebrovascular+and+Brain+Metabolism+Reviews&amp;rft.atitle=Cerebral+autoregulation&amp;rft.volume=2&amp;rft.issue=2&amp;rft.pages=161-192&amp;rft.date=1990&amp;rft_id=info%3Apmid%2F2201348&amp;rft.issn=1040-8827&amp;rft.aulast=Paulson&amp;rft.aufirst=O.+B.&amp;rft.au=S.+Strandgaard&amp;rft.au=L.+Edvinsson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregulation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Panerai, R. B.; S. T. Deverson; P. Mahony; P. Hayes; D. H. Evans (1999). <a class="external text" href="http://iopscience.iop.org/0967-3334/20/3/304" rel="nofollow">"Effect of CO2 on dynamic cerebral autoregulation measurement"</a>. <i>Physiological Measurement</i>. <b>20</b> (3): 265. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1088%2F0967-3334%2F20%2F3%2F304" rel="nofollow">10.1088/0967-3334/20/3/304</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0967-3334" rel="nofollow">0967-3334</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10475580" rel="nofollow">10475580</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-01-24</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physiological+Measurement&amp;rft.atitle=Effect+of+CO2+on+dynamic+cerebral+autoregulation+measurement&amp;rft.volume=20&amp;rft.issue=3&amp;rft.pages=265&amp;rft.date=1999&amp;rft.issn=0967-3334&amp;rft_id=info%3Apmid%2F10475580&amp;rft_id=info%3Adoi%2F10.1088%2F0967-3334%2F20%2F3%2F304&amp;rft.aulast=Panerai&amp;rft.aufirst=R.+B.&amp;rft.au=S.+T.+Deverson&amp;rft.au=P.+Mahony&amp;rft.au=P.+Hayes&amp;rft.au=D.+H.+Evans&amp;rft_id=http%3A%2F%2Fiopscience.iop.org%2F0967-3334%2F20%2F3%2F304&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregulation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sarnoff SJ, Mitchell JH, Gilmore JP, Remensnyder JP (1960). <a class="external text" href="http://circres.ahajournals.org/cgi/reprint/8/5/1077.pdf" rel="nofollow">"Homeometric autoregulation in the heart"</a> <span class="cs1-format">(PDF)</span>. <i>Circulation Research</i>. <b>8</b> (5): 1077–1091. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1161%2F01.res.8.5.1077" rel="nofollow">10.1161/01.res.8.5.1077</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/13746560" rel="nofollow">13746560</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Circulation+Research&amp;rft.atitle=Homeometric+autoregulation+in+the+heart&amp;rft.volume=8&amp;rft.issue=5&amp;rft.pages=1077-1091&amp;rft.date=1960&amp;rft_id=info%3Adoi%2F10.1161%2F01.res.8.5.1077&amp;rft_id=info%3Apmid%2F13746560&amp;rft.aulast=Sarnoff&amp;rft.aufirst=SJ&amp;rft.au=Mitchell%2C+JH&amp;rft.au=Gilmore%2C+JP&amp;rft.au=Remensnyder%2C+JP&amp;rft_id=http%3A%2F%2Fcircres.ahajournals.org%2Fcgi%2Freprint%2F8%2F5%2F1077.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregulation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-:0-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Monroe, R. G.; Gamble, W. J.; Lafarge, C. G.; Vatner, S. F. (1974-01-01).  Porter, Ruth; Fitzsimons, David W., eds. <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/9780470720066.ch14/summary" rel="nofollow"><i>Ciba Foundation Symposium 24 - Physiological Basis of Starling's Law of the Heart</i></a>. John Wiley &amp; Sons, Ltd. pp. 257–290. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2F9780470720066.ch14" rel="nofollow">10.1002/9780470720066.ch14</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780470720066" title="Special:BookSources/9780470720066">9780470720066</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ciba+Foundation+Symposium+24+-+Physiological+Basis+of+Starling%27s+Law+of+the+Heart&amp;rft.pages=257-290&amp;rft.pub=John+Wiley+%26+Sons%2C+Ltd&amp;rft.date=1974-01-01&amp;rft_id=info%3Adoi%2F10.1002%2F9780470720066.ch14&amp;rft.isbn=9780470720066&amp;rft.aulast=Monroe&amp;rft.aufirst=R.+G.&amp;rft.au=Gamble%2C+W.+J.&amp;rft.au=Lafarge%2C+C.+G.&amp;rft.au=Vatner%2C+S.+F.&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2F9780470720066.ch14%2Fsummary&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregulation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Hall, John E. (2016). <i>Guyton and Hall Textbook of Medical Physiology</i>. Philadelphia: Elsevier. p. 119. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9781455770052" title="Special:BookSources/9781455770052">9781455770052</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Guyton+and+Hall+Textbook+of+Medical+Physiology&amp;rft.place=Philadelphia&amp;rft.pages=119&amp;rft.pub=Elsevier&amp;rft.date=2016&amp;rft.isbn=9781455770052&amp;rft.aulast=Hall&amp;rft.aufirst=John+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregulation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bell, P. Darwin; Peter Komlosi; Zhi-Ren Zhang (2009). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2776136" rel="nofollow">"ATP as a mediator of macula densa cell signalling"</a>. <i>Purinergic Signalling</i>. <b>5</b> (4): 461–471. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2Fs11302-009-9148-0" rel="nofollow">10.1007/s11302-009-9148-0</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1573-9538" rel="nofollow">1573-9538</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2776136" rel="nofollow">2776136</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19330465" rel="nofollow">19330465</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Purinergic+Signalling&amp;rft.atitle=ATP+as+a+mediator+of+macula+densa+cell+signalling&amp;rft.volume=5&amp;rft.issue=4&amp;rft.pages=461-471&amp;rft.date=2009&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2776136&amp;rft.issn=1573-9538&amp;rft_id=info%3Apmid%2F19330465&amp;rft_id=info%3Adoi%2F10.1007%2Fs11302-009-9148-0&amp;rft.aulast=Bell&amp;rft.aufirst=P.+Darwin&amp;rft.au=Peter+Komlosi&amp;rft.au=Zhi-Ren+Zhang&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2776136&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregulation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Komlosi_2004_463–469-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Komlosi_2004_463–469_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Komlosi_2004_463–469_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Komlosi, P.; A. Fintha; P. D. Bell (2004). "Current mechanisms of macula densa cell signalling". <i>Acta Physiologica Scandinavica</i>. <b>181</b> (4): 463–469. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1111%2Fj.1365-201X.2004.01319.x" rel="nofollow">10.1111/j.1365-201X.2004.01319.x</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0001-6772" rel="nofollow">0001-6772</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15283759" rel="nofollow">15283759</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Acta+Physiologica+Scandinavica&amp;rft.atitle=Current+mechanisms+of+macula+densa+cell+signalling&amp;rft.volume=181&amp;rft.issue=4&amp;rft.pages=463-469&amp;rft.date=2004&amp;rft.issn=0001-6772&amp;rft_id=info%3Apmid%2F15283759&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1365-201X.2004.01319.x&amp;rft.aulast=Komlosi&amp;rft.aufirst=P.&amp;rft.au=A.+Fintha&amp;rft.au=P.+D.+Bell&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregulation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Jablonka-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Jablonka_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Jablonka_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+<cite class="citation journal">Jablonka E.; Lachmann M.; Lamb M.J. (1992). "Evidence, Mechanisms and Models for the Inheritance of Acquired Characters". <i>Journal of Theoretical Biology</i>. <b>158</b> (2): 245–268. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fs0022-5193%2805%2980722-2" rel="nofollow">10.1016/s0022-5193(05)80722-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Theoretical+Biology&amp;rft.atitle=Evidence%2C+Mechanisms+and+Models+for+the+Inheritance+of+Acquired+Characters&amp;rft.volume=158&amp;rft.issue=2&amp;rft.pages=245-268&amp;rft.date=1992&amp;rft_id=info%3Adoi%2F10.1016%2Fs0022-5193%2805%2980722-2&amp;rft.au=Jablonka+E.&amp;rft.au=Lachmann+M.&amp;rft.au=Lamb+M.J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregulation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-arXiv:1210.6998_[q-bio.MN]-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-arXiv:1210.6998_[q-bio.MN]_12-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lin, Jong-Chin; Thirumalai, D. (2012-10-25). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3514527" rel="nofollow">"Gene Regulation by Riboswitches with and without Negative Feedback Loop"</a>. <i>Biophysical Journal</i>. <b>103</b> (11): 12. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//arxiv.org/abs/1210.6998" rel="nofollow">1210.6998</a></span>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2012BpJ...103.2320L" rel="nofollow">2012BpJ...103.2320L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.bpj.2012.10.026" rel="nofollow">10.1016/j.bpj.2012.10.026</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3514527" rel="nofollow">3514527</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23283231" rel="nofollow">23283231</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biophysical+Journal&amp;rft.atitle=Gene+Regulation+by+Riboswitches+with+and+without+Negative+Feedback+Loop&amp;rft.volume=103&amp;rft.issue=11&amp;rft.pages=12&amp;rft.date=2012-10-25&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3514527&amp;rft_id=info%3Abibcode%2F2012BpJ...103.2320L&amp;rft_id=info%3Aarxiv%2F1210.6998&amp;rft_id=info%3Apmid%2F23283231&amp;rft_id=info%3Adoi%2F10.1016%2Fj.bpj.2012.10.026&amp;rft.aulast=Lin&amp;rft.aufirst=Jong-Chin&amp;rft.au=Thirumalai%2C+D.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3514527&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAutoregulation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<div aria-labelledby="Physiology_of_the_cardiovascular_system" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Cardiovascular_physiology" title="Template:Cardiovascular physiology"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cardiovascular_physiology" title="Template talk:Cardiovascular physiology"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cardiovascular_physiology&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Physiology_of_the_cardiovascular_system" style="font-size:114%;margin:0 4em"><a href="/wiki/Cardiovascular_physiology" title="Cardiovascular physiology">Physiology of the cardiovascular system</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Heart" title="Heart">Heart</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Cardiac_output" title="Cardiac output">Cardiac output</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cardiac_cycle" title="Cardiac cycle">Cardiac cycle</a></li>
+<li><a href="/wiki/Cardiac_output" title="Cardiac output">Cardiac output</a>
+<ul><li><a href="/wiki/Heart_rate" title="Heart rate">Heart rate</a></li>
+<li><a href="/wiki/Stroke_volume" title="Stroke volume">Stroke volume</a></li></ul></li>
+<li><a href="/wiki/Stroke_volume" title="Stroke volume">Stroke volume</a>
+<ul><li><a href="/wiki/End-diastolic_volume" title="End-diastolic volume">End-diastolic volume</a></li>
+<li><a href="/wiki/End-systolic_volume" title="End-systolic volume">End-systolic volume</a></li></ul></li>
+<li><a href="/wiki/Afterload" title="Afterload">Afterload</a></li>
+<li><a href="/wiki/Preload_(cardiology)" title="Preload (cardiology)">Preload</a></li>
+<li><a href="/wiki/Frank%E2%80%93Starling_law" title="Frank–Starling law">Frank–Starling law</a></li>
+<li><a href="/wiki/Cardiac_function_curve" title="Cardiac function curve">Cardiac function curve</a></li>
+<li><a href="/wiki/Venous_return_curve" title="Venous return curve">Venous return curve</a></li>
+<li><a href="/wiki/Wiggers_diagram" title="Wiggers diagram">Wiggers diagram</a></li>
+<li><a class="mw-redirect" href="/wiki/Pressure_volume_diagram" title="Pressure volume diagram">Pressure volume diagram</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Echocardiography" title="Echocardiography">Ultrasound</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ventricle_(heart)#Dimensions" title="Ventricle (heart)">Fractional shortening</a> = (<a class="mw-redirect" href="/wiki/End-diastolic_dimension" title="End-diastolic dimension">End-diastolic dimension</a></li>
+<li><a class="mw-redirect" href="/wiki/End-systolic_dimension" title="End-systolic dimension">End-systolic dimension</a>) / End-diastolic dimension</li>
+<li><a href="/wiki/Aortic_valve_area_calculation" title="Aortic valve area calculation">Aortic valve area calculation</a></li>
+<li><a href="/wiki/Ejection_fraction" title="Ejection fraction">Ejection fraction</a></li>
+<li><a href="/wiki/Cardiac_index" title="Cardiac index">Cardiac index</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Heart_rate" title="Heart rate">Heart rate</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cardiac_pacemaker" title="Cardiac pacemaker">Cardiac pacemaker</a></li>
+<li><a href="/wiki/Chronotropic" title="Chronotropic">Chronotropic</a> (<a href="/wiki/Heart_rate" title="Heart rate">Heart rate</a>)</li>
+<li><a href="/wiki/Dromotropic" title="Dromotropic">Dromotropic</a> (<a href="/wiki/Nerve_conduction_velocity" title="Nerve conduction velocity">Conduction velocity</a>)</li>
+<li><a href="/wiki/Inotrope" title="Inotrope">Inotropic</a> (Contractility)</li>
+<li><a href="/wiki/Bathmotropic" title="Bathmotropic">Bathmotropic</a> (Excitability)</li>
+<li><a href="/wiki/Lusitropy" title="Lusitropy">Lusitropic</a> (Relaxation)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Conduction</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Electrical_conduction_system_of_the_heart" title="Electrical conduction system of the heart">Conduction system</a></li>
+<li><a href="/wiki/Cardiac_electrophysiology" title="Cardiac electrophysiology">Cardiac electrophysiology</a></li>
+<li>Action potential
+<ul><li><a href="/wiki/Cardiac_action_potential" title="Cardiac action potential">cardiac </a></li>
+<li><a href="/wiki/Atrial_action_potential" title="Atrial action potential">atrial</a></li>
+<li><a href="/wiki/Ventricular_action_potential" title="Ventricular action potential">ventricular</a></li></ul></li>
+<li><a href="/wiki/Effective_refractory_period" title="Effective refractory period">Effective refractory period</a></li>
+<li><a href="/wiki/Pacemaker_potential" title="Pacemaker potential">Pacemaker potential</a></li>
+<li><a href="/wiki/Electrocardiography" title="Electrocardiography">Electrocardiography</a>
+<ul><li><a href="/wiki/P_wave_(electrocardiography)" title="P wave (electrocardiography)">P wave</a></li>
+<li><a href="/wiki/PR_interval" title="PR interval">PR interval</a></li>
+<li><a href="/wiki/QRS_complex" title="QRS complex">QRS complex</a></li>
+<li><a href="/wiki/QT_interval" title="QT interval">QT interval</a></li>
+<li><a href="/wiki/ST_segment" title="ST segment">ST segment</a></li>
+<li><a href="/wiki/T_wave" title="T wave">T wave</a></li>
+<li><a href="/wiki/U_wave" title="U wave">U wave</a></li></ul></li>
+<li><a href="/wiki/Hexaxial_reference_system" title="Hexaxial reference system">Hexaxial reference system</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Chamber pressure</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Central_venous_pressure" title="Central venous pressure">Central venous</a></li>
+<li>Right
+<ul><li><a href="/wiki/Right_atrial_pressure" title="Right atrial pressure">atrial</a></li>
+<li><a class="mw-redirect" href="/wiki/Right_ventricular_pressure" title="Right ventricular pressure">ventricular</a></li></ul></li>
+<li><a class="mw-redirect" href="/wiki/Pulmonary_artery_pressure" title="Pulmonary artery pressure">pulmonary artery</a>
+<ul><li><a href="/wiki/Pulmonary_wedge_pressure" title="Pulmonary wedge pressure">wedge</a></li></ul></li>
+<li>Left
+<ul><li><a href="/wiki/Pulmonary_wedge_pressure" title="Pulmonary wedge pressure">atrial</a></li>
+<li><a class="mw-redirect" href="/wiki/Left_ventricular_pressure" title="Left ventricular pressure">ventricular</a></li></ul></li>
+<li><a href="/wiki/Aortic_pressure" title="Aortic pressure">Aortic</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ventricular_remodeling" title="Ventricular remodeling">Ventricular remodeling</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Circulatory_system" title="Circulatory system">Vascular system</a>/<br/><a href="/wiki/Hemodynamics" title="Hemodynamics">Hemodynamics</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Hemodynamics" title="Hemodynamics">Blood flow</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Compliance_(physiology)" title="Compliance (physiology)">Compliance</a></li>
+<li><a href="/wiki/Vascular_resistance" title="Vascular resistance">Vascular resistance</a></li>
+<li><a href="/wiki/Pulse" title="Pulse">Pulse</a></li>
+<li><a href="/wiki/Perfusion" title="Perfusion">Perfusion</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Blood_pressure" title="Blood pressure">Blood pressure</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pulse_pressure" title="Pulse pressure">Pulse pressure</a>
+<ul><li><a href="/wiki/Systole" title="Systole">Systolic</a></li>
+<li><a href="/wiki/Diastole" title="Diastole">Diastolic</a></li></ul></li>
+<li><a href="/wiki/Mean_arterial_pressure" title="Mean arterial pressure">Mean arterial pressure</a></li>
+<li><a href="/wiki/Jugular_venous_pressure" title="Jugular venous pressure">Jugular venous pressure</a></li>
+<li><a href="/wiki/Portal_venous_pressure" title="Portal venous pressure">Portal venous pressure</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Cardiovascular_physiology#Regulation_of_blood_pressure" title="Cardiovascular physiology">Regulation of BP</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baroreflex" title="Baroreflex">Baroreflex</a></li>
+<li><a href="/wiki/Kinin%E2%80%93kallikrein_system" title="Kinin–kallikrein system">Kinin–kallikrein system</a></li>
+<li><a href="/wiki/Renin%E2%80%93angiotensin_system" title="Renin–angiotensin system">Renin–angiotensin system</a></li>
+<li><a href="/wiki/Vasoconstriction" title="Vasoconstriction">Vasoconstrictors</a></li>
+<li><a href="/wiki/Vasodilation" title="Vasodilation">Vasodilators</a></li>
+<li><a class="mw-selflink selflink">Autoregulation</a>
+<ul><li><a href="/wiki/Myogenic_mechanism" title="Myogenic mechanism">Myogenic mechanism</a></li>
+<li><a href="/wiki/Tubuloglomerular_feedback" title="Tubuloglomerular feedback">Tubuloglomerular feedback</a></li>
+<li><a href="/wiki/Cerebral_autoregulation" title="Cerebral autoregulation">Cerebral autoregulation</a></li></ul></li>
+<li><a href="/wiki/Paraganglion" title="Paraganglion">Paraganglia</a>
+<ul><li><a href="/wiki/Aortic_body" title="Aortic body">Aortic body</a></li>
+<li><a href="/wiki/Carotid_body" title="Carotid body">Carotid body</a></li>
+<li><a href="/wiki/Glomus_cell" title="Glomus cell">Glomus cell</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1265
+Cached time: 20181010144825
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.376 seconds
+Real time usage: 0.770 seconds
+Preprocessor visited node count: 897/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 57189/2097152 bytes
+Template argument size: 214/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 35258/5000000 bytes
+Number of Wikibase entities loaded: 5/400
+Lua time usage: 0.212/10.000 seconds
+Lua memory usage: 3.98 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  673.437      1 -total
+ 51.31%  345.565      1 Template:Reflist
+ 44.68%  300.873      9 Template:Cite_journal
+ 20.92%  140.875      2 Template:Main
+ 19.01%  128.042      3 Template:Navbox
+ 18.41%  124.011      1 Template:Cardiovascular_physiology
+  7.83%   52.727      1 Template:Wiktionary
+  2.35%   15.824      1 Template:Sister_project
+  1.91%   12.894      2 Template:Cite_book
+  1.61%   10.863      1 Template:Side_box
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:8275269-0!canonical and timestamp 20181010144824 and revision id 846494574
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Autoregulation&amp;oldid=846494574">https://en.wikipedia.org/w/index.php?title=Autoregulation&amp;oldid=846494574</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Physiology" title="Category:Physiology">Physiology</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Autoregulation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Autoregulation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Autoregulation" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Autoregulation" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Autoregulation">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Autoregulation&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Autoregulation&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Autoregulation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Autoregulation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Autoregulation&amp;oldid=846494574" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Autoregulation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1364253" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Autoregulation&amp;id=846494574" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Autoregulation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Autoregulation&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Autoregulation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D9%86%D8%B8%D9%8A%D9%85_%D8%B0%D8%A7%D8%AA%D9%8A_(%D8%B7%D8%A8)" hreflang="ar" lang="ar" title="تنظيم ذاتي (طب) – Arabic">العربية</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Selbstregulation" hreflang="de" lang="de" title="Selbstregulation – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Iseregulatsioon" hreflang="et" lang="et" title="Iseregulatsioon – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Autor%C3%A9gulation" hreflang="fr" lang="fr" title="Autorégulation – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Autorregulaci%C3%B3n" hreflang="gl" lang="gl" title="Autorregulación – Galician">Galego</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Autoregolazione" hreflang="it" lang="it" title="Autoregolazione – Italian">Italiano</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D0%B0%D1%86%D0%B8%D1%98%D0%B0" hreflang="sr" lang="sr" title="Саморегулација – Serbian">Српски / srpski</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1364253#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 19 June 2018, at 03:23<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Autoregulation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.376","walltime":"0.770","ppvisitednodes":{"value":897,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":57189,"limit":2097152},"templateargumentsize":{"value":214,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":35258,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00%  673.437      1 -total"," 51.31%  345.565      1 Template:Reflist"," 44.68%  300.873      9 Template:Cite_journal"," 20.92%  140.875      2 Template:Main"," 19.01%  128.042      3 Template:Navbox"," 18.41%  124.011      1 Template:Cardiovascular_physiology","  7.83%   52.727      1 Template:Wiktionary","  2.35%   15.824      1 Template:Sister_project","  1.91%   12.894      2 Template:Cite_book","  1.61%   10.863      1 Template:Side_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.212","limit":"10.000"},"limitreport-memusage":{"value":4172737,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20181010144825","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":69,"wgHostname":"mw1321"});});</script>
+</body>
+</html>

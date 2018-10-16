@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Embodied energy - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Embodied_energy","wgTitle":"Embodied energy","wgCurRevisionId":863519078,"wgRevisionId":863519078,"wgArticleId":1520238,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Energy development","Systems ecology","Ecological economics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Embodied_energy","wgRelevantArticleId":1520238,"wgRequestId":"W8HmxQpAMFIAAHdCKLoAAAAG","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1153531","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/6/6e/Diagram_of_natural_resource_flows.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Embodied_energy" rel="alternate"/>
+<link href="/w/index.php?title=Embodied_energy&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Embodied_energy&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Embodied_energy" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Embodied_energy rootpage-Embodied_energy skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Embodied energy</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Ecological_economics" title="Category:Ecological economics">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Diagram_of_natural_resource_flows.jpg"><img alt="Diagram of natural resource flows.jpg" class="thumbborder" data-file-height="421" data-file-width="538" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Diagram_of_natural_resource_flows.jpg/170px-Diagram_of_natural_resource_flows.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Diagram_of_natural_resource_flows.jpg/255px-Diagram_of_natural_resource_flows.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Diagram_of_natural_resource_flows.jpg/340px-Diagram_of_natural_resource_flows.jpg 2x" width="170"/></a></div></div><div style="padding-top:0.2em;line-height:1.2em;font-size:90%;white-space:nowrap;padding-bottom:0.2em; background: none;">Man's economic system viewed as a <br/> subsystem of the global environment</div></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:transparent;border-top:1px solid #aaa;text-align:center;">Concepts</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul><li><a href="/wiki/Carrying_capacity" title="Carrying capacity">Carrying capacity</a></li>
+<li><a href="/wiki/Market_failure#Ecological" title="Market failure">Ecological market failure</a></li>
+<li><a href="/wiki/Ecological_model_of_competition" title="Ecological model of competition">Ecological model of competition</a></li>
+<li><a href="/wiki/Ecosystem_services" title="Ecosystem services">Ecosystem services</a></li>
+<li><a class="mw-selflink selflink">Embodied energy</a></li>
+<li><a href="/wiki/Energy_accounting" title="Energy accounting">Energy accounting</a></li>
+<li><a class="mw-redirect" href="/wiki/Entropy_pessimism" title="Entropy pessimism">Entropy pessimism</a></li>
+<li><a href="/wiki/Index_of_Sustainable_Economic_Welfare" title="Index of Sustainable Economic Welfare">Index of Sustainable Economic Welfare</a></li>
+<li><a href="/wiki/Metabolic_rift" title="Metabolic rift">Metabolic rift</a></li>
+<li><a href="/wiki/Natural_capital" title="Natural capital">Natural capital</a></li>
+<li><a href="/wiki/Social_metabolism" title="Social metabolism">Social metabolism</a></li>
+<li><a href="/wiki/Spaceship_Earth" title="Spaceship Earth">Spaceship Earth</a></li>
+<li><a href="/wiki/Steady-state_economy" title="Steady-state economy">Steady-state economy</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Uneconomic_growth" title="Uneconomic growth">Uneconomic growth</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:transparent;border-top:1px solid #aaa;text-align:center;">People</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul><li><a href="/wiki/Sergei_Podolinsky" title="Sergei Podolinsky">Sergei Podolinsky</a></li>
+<li><a href="/wiki/Frederick_Soddy" title="Frederick Soddy">Frederick Soddy</a></li>
+<li><a href="/wiki/Nicholas_Georgescu-Roegen" title="Nicholas Georgescu-Roegen">Nicholas Georgescu-Roegen</a></li>
+<li><a href="/wiki/Kenneth_E._Boulding" title="Kenneth E. Boulding">Kenneth E. Boulding</a></li>
+<li><a class="mw-redirect" href="/wiki/E.F._Schumacher" title="E.F. Schumacher">E.F. Schumacher</a></li>
+<li><a href="/wiki/Robert_Ayres_(scientist)" title="Robert Ayres (scientist)">Robert Ayres</a></li>
+<li><a href="/wiki/Herman_Daly" title="Herman Daly">Herman Daly</a></li>
+<li><a href="/wiki/Joan_Martinez_Alier" title="Joan Martinez Alier">Joan Martinez Alier</a></li>
+<li><a href="/wiki/Richard_B._Norgaard" title="Richard B. Norgaard">Richard B. Norgaard</a></li>
+<li><a href="/wiki/Robert_Costanza" title="Robert Costanza">Robert Costanza</a></li>
+<li><a href="/wiki/Tim_Jackson_(economist)" title="Tim Jackson (economist)">Tim Jackson</a></li>
+<li><a href="/wiki/Clive_Spash" title="Clive Spash">Clive Spash</a></li></ul>
+<p><i>Organizations:</i>
+</p>
+<ul><li><a href="/wiki/International_Society_for_Ecological_Economics" title="International Society for Ecological Economics">International Society for Ecological Economics</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:transparent;border-top:1px solid #aaa;text-align:center;">Works</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul><li><i><a href="/wiki/Wealth,_Virtual_Wealth_and_Debt" title="Wealth, Virtual Wealth and Debt">Wealth, Virtual Wealth and Debt</a></i></li>
+<li><i><a class="mw-redirect" href="/wiki/The_Entropy_Law_and_the_Economic_Process" title="The Entropy Law and the Economic Process">The Entropy Law and the Economic Process</a></i></li>
+<li><i><a href="/wiki/The_Limits_to_Growth" title="The Limits to Growth">The Limits to Growth</a></i></li>
+<li><i><a href="/wiki/Small_Is_Beautiful" title="Small Is Beautiful">Small Is Beautiful</a></i></li>
+<li><i><a href="/wiki/Prosperity_Without_Growth" title="Prosperity Without Growth">Prosperity Without Growth</a></i></li>
+<li><i><a href="/wiki/Ecological_Economics_(journal)" title="Ecological Economics (journal)">Ecological Economics</a></i> (journal)</li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:transparent;border-top:1px solid #aaa;text-align:center;">Related topics</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul><li><a href="/wiki/Degrowth" title="Degrowth">Degrowth</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Externality" title="Externality">Externality</a></li>
+<li><a href="/wiki/Green_politics" title="Green politics">Green politics</a></li>
+<li><a href="/wiki/Planetary_boundaries" title="Planetary boundaries">Planetary boundaries</a></li>
+<li><a href="/wiki/Post-growth" title="Post-growth">Post-growth</a></li>
+<li><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/Thermoeconomics" title="Thermoeconomics">Thermoeconomics</a></li>
+<li><a href="/wiki/Weak_and_strong_sustainability" title="Weak and strong sustainability">Weak and strong sustainability</a></li></ul></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Ecological_economics" title="Template:Ecological economics"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Ecological_economics" title="Template talk:Ecological economics"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ecological_economics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Embodied energy</b> is the sum of all the energy required to produce any goods or services, considered as if that energy was incorporated or 'embodied' in the product itself. The concept can be useful in determining the effectiveness of energy-producing or energy-saving devices, or the "real" replacement cost of a building, and, because energy-inputs usually entail <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gas</a> emissions, in deciding whether a product contributes to or mitigates <a href="/wiki/Global_warming" title="Global warming">global warming</a>. One fundamental purpose for measuring this quantity is to compare the amount of energy produced or saved by the product in question to the amount of energy consumed in producing it.
+</p><p>Embodied energy is an accounting method which aims to find the sum total of the energy necessary for an entire product life-cycle. Determining what constitutes this life-cycle includes assessing the relevance and extent of energy into raw material extraction, transport, manufacture, assembly, installation, disassembly, deconstruction and/or decomposition as well as human and secondary resources.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Methodologies"><span class="tocnumber">2</span> <span class="toctext">Methodologies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Standards"><span class="tocnumber">2.1</span> <span class="toctext">Standards</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Related_methodologies"><span class="tocnumber">2.2</span> <span class="toctext">Related methodologies</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#In_common_materials"><span class="tocnumber">3</span> <span class="toctext">In common materials</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#In_transportation"><span class="tocnumber">4</span> <span class="toctext">In transportation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#In_automobiles"><span class="tocnumber">4.1</span> <span class="toctext">In automobiles</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Manufacturing"><span class="tocnumber">4.1.1</span> <span class="toctext">Manufacturing</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Fuel"><span class="tocnumber">4.1.2</span> <span class="toctext">Fuel</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Road_construction"><span class="tocnumber">4.1.3</span> <span class="toctext">Road construction</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Other_figures_available"><span class="tocnumber">4.1.4</span> <span class="toctext">Other figures available</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#In_buildings"><span class="tocnumber">5</span> <span class="toctext">In buildings</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#In_the_energy_field"><span class="tocnumber">6</span> <span class="toctext">In the energy field</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#EROEI"><span class="tocnumber">6.1</span> <span class="toctext">EROEI</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Electricity"><span class="tocnumber">6.2</span> <span class="toctext">Electricity</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Data_processing"><span class="tocnumber">7</span> <span class="toctext">Data processing</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Bibliography"><span class="tocnumber">10</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The history of constructing a system of accounts which records the energy flows through an environment can be traced back to the origins of <a href="/wiki/Accounting" title="Accounting">accounting</a> itself. As a distinct method, it is often associated with the <a class="mw-redirect" href="/wiki/Physiocrat" title="Physiocrat">Physiocrat</a>'s "substance" theory of value,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> and later the agricultural energetics of <a href="/wiki/Sergei_Podolinsky" title="Sergei Podolinsky">Sergei Podolinsky</a>, a Ukrainian physician,<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> and the ecological energetics of <a class="new" href="/w/index.php?title=Vladmir_Stanchinsky&amp;action=edit&amp;redlink=1" title="Vladmir Stanchinsky (page does not exist)">Vladmir Stanchinsky</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p><p>The main methods of embodied energy accounting as they are used today grew out of <a href="/wiki/Wassily_Leontief" title="Wassily Leontief">Wassily Leontief</a>'s <a class="mw-redirect" href="/wiki/Input-output_model" title="Input-output model">input-output model</a> and are called <i>Input-Output Embodied Energy analysis</i>. Leontief's input-output model was in turn an adaptation of the <a href="/wiki/Neoclassical_economics" title="Neoclassical economics">neo-classical</a> theory of <a href="/wiki/General_equilibrium_theory" title="General equilibrium theory">general equilibrium</a> with application to "the empirical study of the quantitative interdependence between interrelated economic activities".<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> According to Tennenbaum<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> Leontief's Input-Output method was adapted to embodied energy analysis by Hannon<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> to describe ecosystem energy flows. Hannon's adaptation tabulated the total direct and indirect energy requirements (the <i>energy intensity</i>) for each output made by the system. The total amount of energies, direct and indirect, for the entire amount of production was called the <i>embodied energy</i>.
+</p>
+<h2><span class="mw-headline" id="Methodologies">Methodologies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=2" title="Edit section: Methodologies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Embodied energy analysis is interested in what energy goes to supporting a consumer, and so all energy depreciation is assigned to the final demand of consumer. Different methodologies use different scales of data to calculate energy embodied in products and services of nature and human civilization. International consensus on the appropriateness of data scales and methodologies is pending. This difficulty can give a wide range in embodied energy values for any given material. In the absence of a comprehensive global embodied energy public dynamic database, embodied energy calculations may omit important data on, for example, the rural road/highway construction and maintenance needed to move a product, human marketing, advertising, catering services, non-human services and the like. Such omissions can be a source of significant methodological error in embodied energy estimations.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>  Without an estimation and declaration of the embodied energy error, it is difficult to calibrate the <a href="/wiki/Sustainability#Sustainability_definition_as_a_ratio:_please_do_not_change_spelling_-_see_note" title="Sustainability">sustainability index</a>, and so the <a href="/wiki/Value_theory" title="Value theory">value</a> of any given material, process or service to environmental and human economic processes.
+</p>
+<h3><span class="mw-headline" id="Standards">Standards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=3" title="Edit section: Standards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The SBTool, UK <a href="/wiki/Code_for_Sustainable_Homes" title="Code for Sustainable Homes">Code for Sustainable Homes</a> and USA LEED  are methods in which the embodied energy of a product or material is rated, along with other factors, to assess a building's <a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">environmental impact</a>. Embodied energy is a concept for which scientists have not yet agreed absolute universal values because there are many variables to take into account, but most agree that products can be compared to each other to see which has more and which has less embodied energy. Comparative lists (for an example, see the University of Bath <i>Embodied Energy &amp; Carbon Material Inventory</i><sup class="reference" id="cite_ref-ICE_Database_8-0"><a href="#cite_note-ICE_Database-8">[8]</a></sup>) contain average absolute values, and explain the factors which have been taken into account when compiling the lists.
+</p><p>Typical embodied energy units used are MJ/kg (mega<a class="mw-redirect" href="/wiki/Joules" title="Joules">joules</a> of energy needed to make a kilogram of product), tCO<sub>2</sub> (tonnes of <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> created by the energy needed to make a kilogram of product). Converting MJ to tCO<sub>2</sub> is not straightforward because different types of energy (oil, wind, solar, nuclear and so on) emit different amounts of carbon dioxide, so the actual amount of carbon dioxide emitted when a product is made will be dependent on the type of energy used in the manufacturing process. For example, the Australian Government<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> gives a global average of 0.098 tCO<sub>2</sub> = 1 GJ. This is the same as 1 MJ = 0.098 kgCO<sub>2</sub> = 98 gCO<sub>2</sub> or 1 kgCO<sub>2</sub> = 10.204 MJ.
+</p>
+<h3><span class="mw-headline" id="Related_methodologies">Related methodologies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=4" title="Edit section: Related methodologies">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the 2000s drought conditions in <a href="/wiki/Australia" title="Australia">Australia</a> have generated interest in the application of embodied energy analysis methods to water. This has led to use of the concept of <a class="mw-redirect" href="/wiki/Embodied_water" title="Embodied water">embodied water</a>.
+</p>
+<h2><span class="mw-headline" id="In_common_materials">In common materials</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=5" title="Edit section: In common materials">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Selected data from the Inventory of Carbon and Energy ('ICE') prepared by the University of Bath (UK) <sup class="reference" id="cite_ref-ICE_Database_8-1"><a href="#cite_note-ICE_Database-8">[8]</a></sup>
+</p>
+<table class="wikitable sortable">
+<tbody><tr>
+<th><b>Material</b></th>
+<th><b>Energy</b> MJ per kg</th>
+<th><b>Carbon</b> kg CO<sub>2</sub> per kg</th>
+<th><b>Density</b> kg /m<sup>3</sup>
+</th></tr>
+<tr>
+<td>Aggregate</td>
+<td>0.083</td>
+<td>0.0048</td>
+<td>2240
+</td></tr>
+<tr>
+<td><a href="/wiki/Concrete" title="Concrete">Concrete</a> (1:1.5:3)</td>
+<td>1.11</td>
+<td>0.159</td>
+<td>2400
+</td></tr>
+<tr>
+<td>Bricks (common)</td>
+<td>3</td>
+<td>0.24</td>
+<td>1700
+</td></tr>
+<tr>
+<td>Concrete block (Medium density)</td>
+<td>0.67</td>
+<td>0.073</td>
+<td>1450
+</td></tr>
+<tr>
+<td>Aerated block</td>
+<td>3.5</td>
+<td>0.3</td>
+<td>750
+</td></tr>
+<tr>
+<td>Limestone block</td>
+<td>0.85</td>
+<td></td>
+<td>2180
+</td></tr>
+<tr>
+<td>Marble</td>
+<td>2</td>
+<td>0.116</td>
+<td>2500
+</td></tr>
+<tr>
+<td>Cement mortar (1:3)</td>
+<td>1.33</td>
+<td>0.208</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Steel" title="Steel">Steel</a> (general, av. recycled content)</td>
+<td>20.1</td>
+<td>1.37</td>
+<td>7800
+</td></tr>
+<tr>
+<td><a href="/wiki/Stainless_steel" title="Stainless steel">Stainless steel</a></td>
+<td>56.7</td>
+<td>6.15</td>
+<td>7850
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Timber" title="Timber">Timber</a> (general, excludes sequestration)</td>
+<td>8.5</td>
+<td>0.46</td>
+<td>480–720
+</td></tr>
+<tr>
+<td>Glue laminated timber</td>
+<td>12</td>
+<td>0.87</td>
+<td>
+</td></tr>
+<tr>
+<td>Cellulose insulation (loose fill)</td>
+<td>0.94–3.3</td>
+<td></td>
+<td>43
+</td></tr>
+<tr>
+<td>Cork insulation</td>
+<td>26</td>
+<td></td>
+<td>160
+</td></tr>
+<tr>
+<td>Glass fibre insulation (glass wool)</td>
+<td>28</td>
+<td>1.35</td>
+<td>12
+</td></tr>
+<tr>
+<td>Flax insulation</td>
+<td>39.5</td>
+<td>1.7</td>
+<td>30
+</td></tr>
+<tr>
+<td>Rockwool (slab)</td>
+<td>16.8</td>
+<td>1.05</td>
+<td>24
+</td></tr>
+<tr>
+<td>Expanded Polystyrene insulation</td>
+<td>88.6</td>
+<td>2.55</td>
+<td>15–30
+</td></tr>
+<tr>
+<td>Polyurethane insulation (rigid foam)</td>
+<td>101.5</td>
+<td>3.48</td>
+<td>30
+</td></tr>
+<tr>
+<td>Wool (recycled) insulation</td>
+<td>20.9</td>
+<td></td>
+<td>25
+</td></tr>
+<tr>
+<td>Straw bale</td>
+<td>0.91</td>
+<td></td>
+<td>100–110
+</td></tr>
+<tr>
+<td>Mineral fibre roofing tile</td>
+<td>37</td>
+<td>2.7</td>
+<td>1850
+</td></tr>
+<tr>
+<td><a href="/wiki/Slate" title="Slate">Slate</a></td>
+<td>0.1–1.0</td>
+<td>0.006–0.058</td>
+<td>1600
+</td></tr>
+<tr>
+<td>Clay tile</td>
+<td>6.5</td>
+<td>0.45</td>
+<td>1900
+</td></tr>
+<tr>
+<td>Aluminium (general &amp; incl 33% recycled)</td>
+<td>155</td>
+<td>8.24</td>
+<td>2700
+</td></tr>
+<tr>
+<td>Bitumen (general)</td>
+<td>51</td>
+<td>0.38–0.43</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Medium-density_fibreboard" title="Medium-density fibreboard">Medium-density fibreboard</a></td>
+<td>11</td>
+<td>0.72</td>
+<td>680–760
+</td></tr>
+<tr>
+<td><a href="/wiki/Plywood" title="Plywood">Plywood</a></td>
+<td>15</td>
+<td>1.07</td>
+<td>540–700
+</td></tr>
+<tr>
+<td>Plasterboard</td>
+<td>6.75</td>
+<td>0.38</td>
+<td>800
+</td></tr>
+<tr>
+<td>Gypsum plaster</td>
+<td>1.8</td>
+<td>0.12</td>
+<td>1120
+</td></tr>
+<tr>
+<td><a href="/wiki/Glass" title="Glass">Glass</a></td>
+<td>15</td>
+<td>0.85</td>
+<td>2500
+</td></tr>
+<tr>
+<td>PVC (general)</td>
+<td>77.2</td>
+<td>2.41</td>
+<td>1380
+</td></tr>
+<tr>
+<td>Vinyl flooring</td>
+<td>65.64</td>
+<td>2.92</td>
+<td>1200
+</td></tr>
+<tr>
+<td>Terrazzo tiles</td>
+<td>1.4</td>
+<td>0.12</td>
+<td>1750
+</td></tr>
+<tr>
+<td>Ceramic tiles</td>
+<td>12</td>
+<td>0.74</td>
+<td>2000
+</td></tr>
+<tr>
+<td>Wool carpet</td>
+<td>106</td>
+<td>5.53</td>
+<td>
+</td></tr>
+<tr>
+<td>Wallpaper</td>
+<td>36.4</td>
+<td>1.93</td>
+<td>
+</td></tr>
+<tr>
+<td>Vitrified clay pipe (DN 500)</td>
+<td>7.9</td>
+<td>0.52</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Iron" title="Iron">Iron</a> (general)</td>
+<td>25</td>
+<td>1.91</td>
+<td>7870
+</td></tr>
+<tr>
+<td><a href="/wiki/Copper" title="Copper">Copper</a> (average incl. 37% recycled)</td>
+<td>42</td>
+<td>2.6</td>
+<td>8600
+</td></tr>
+<tr>
+<td><a href="/wiki/Lead" title="Lead">Lead</a> (incl 61% recycled)</td>
+<td>25.21</td>
+<td>1.57</td>
+<td>11340
+</td></tr>
+<tr>
+<td>Ceramic sanitary ware</td>
+<td>29</td>
+<td>1.51</td>
+<td>
+</td></tr>
+<tr>
+<td>Paint - Water-borne</td>
+<td>59</td>
+<td>2.12</td>
+<td>
+</td></tr>
+<tr>
+<td>Paint - Solvent-borne</td>
+<td>97</td>
+<td>3.13</td>
+<td>
+</td></tr></tbody></table>
+<table class="wikitable">
+<tbody><tr>
+<td><b>Photovoltaic (PV) Cells Type</b></td>
+<td>Energy MJ per m<sup>2</sup></td>
+<td>Carbon kg CO<sub>2</sub> per m<sup>2</sup>
+</td></tr>
+<tr>
+<td>Monocrystalline (average)</td>
+<td>4750</td>
+<td>242
+</td></tr>
+<tr>
+<td>Polycrystalline (average)</td>
+<td>4070</td>
+<td>208
+</td></tr>
+<tr>
+<td>Thin film (average)</td>
+<td>1305</td>
+<td>67
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="In_transportation">In transportation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=6" title="Edit section: In transportation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Theoretically, embodied energy stands for the energy used to extract materials from mines, to manufacture vehicles, assemble, transport, maintain, transform them and to transport energy, and ultimately to recycle these vehicles. Besides, the energy needed to build and maintain transport networks, whether road or rail, should be taken into account as well. The process to be implemented is so complex that no one dares to put forward a figure.
+</p><p>According to the <a class="extiw" href="https://fr.wikipedia.org/wiki/Institut_du_d%C3%A9veloppement_durable_et_des_relations_internationales" title="fr:Institut du développement durable et des relations internationales">fr:Institut du développement durable et des relations internationales</a>, in the field of transportation, "it is striking to note that we consume more embodied energy in our transportation expenditures than direct energy [...]. Put in other words, we consume less energy to move around in our personal vehicles than we consume the energy we need to produce, sell and transport the cars, trains or buses we use "<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>.
+</p><p><a href="/wiki/Jean-Marc_Jancovici" title="Jean-Marc Jancovici">Jean-Marc Jancovici</a> advocates a carbon footprint analysis of any transportation infrastructure project, prior to its construction<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>.
+</p>
+<h3><span class="mw-headline" id="In_automobiles">In automobiles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=7" title="Edit section: In automobiles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:332px;"><a class="image" href="/w/index.php?title=File:Car_life_cycle.svg&amp;lang=en"><img alt="" class="thumbimage" data-file-height="1525" data-file-width="1525" height="330" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Car_life_cycle.svg/330px-Car_life_cycle.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Car_life_cycle.svg/495px-Car_life_cycle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Car_life_cycle.svg/660px-Car_life_cycle.svg.png 2x" width="330"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Car_life_cycle.svg" title="Enlarge"></a></div>Car life cycle</div></div></div>
+<h4><span class="mw-headline" id="Manufacturing">Manufacturing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=8" title="Edit section: Manufacturing">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>According to  <a href="/wiki/Volkswagen" title="Volkswagen">Volkswagen</a>, the embodied energy contents of a Golf A3 with a <a href="/wiki/Petrol_engine" title="Petrol engine">petrol engine</a> amounts to 18 000 kWh (i.e. 12%  of  545 GJ as shown in the report<sup class="reference" id="cite_ref-VW_12-0"><a href="#cite_note-VW-12">[12]</a></sup>). A  Golf A4 (equipped with a <a href="/wiki/Turbocharged_direct_injection" title="Turbocharged direct injection">turbocharged direct injection</a>) will show an embodied energy amounting to 22 000 kWh (i.e. 15% of 545 GJ as shown in the report<sup class="reference" id="cite_ref-VW_12-1"><a href="#cite_note-VW-12">[12]</a></sup>). According to the French energy and environment agency ADEME <sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> a motor car has an embodied energy contents of 20 800 kWh whereas an <a href="/wiki/Electric_vehicle" title="Electric vehicle">electric vehicle</a> shows an embodied energy contents amounting to 34 700 kWh.
+</p>
+<h4><span class="mw-headline" id="Fuel">Fuel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=9" title="Edit section: Fuel">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>As regards energy itself, the factor <a href="/wiki/Energy_returned_on_energy_invested" title="Energy returned on energy invested">energy returned on energy invested</a> (EROEI) of fuel can be estimated at 8, which means that to some amount of useful energy provided by fuel should be added 1/7 of that amount in embodied energy of the fuel. In other words, the fuel consumption should be augmented by 14% due to the fuel EROEI.
+</p>
+<h4><span class="mw-headline" id="Road_construction">Road construction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=10" title="Edit section: Road construction">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>We have to work here with figures, which prove still more difficult to obtain. In the case of road construction, the embodied energy would amount to 1/18 of the fuel consumption (i.e. 6%).<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Other_figures_available">Other figures available</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=11" title="Edit section: Other figures available">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Treloar, <i>et al.</i> have estimated the embodied energy in an average automobile in Australia as 0.27 <a href="/wiki/Joule#Multiples" title="Joule">terajoules</a> (i.e. 75 000 kWh) as one component in an overall analysis of the energy involved in road transportation.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</p>
+<h2><span class="mw-headline" id="In_buildings">In buildings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=12" title="Edit section: In buildings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although most of the focus for improving energy efficiency in buildings has been on their operational emissions, it is estimated that about 30% of all energy consumed throughout the lifetime of a building can be in its embodied energy (this percentage varies based on factors such as age of building, climate, and materials).  In the past, this percentage was much lower, but as much focus has been placed on reducing operational emissions (such as efficiency improvements in heating and cooling systems), the embodied energy contribution has come much more into play. Examples of embodied energy include: the energy used to extract raw resources, process materials, assemble product components, transport between each step, construction, maintenance and repair, deconstruction and disposal. As such, it is important to employ a whole-life carbon accounting framework in analyzing the carbon emissions in buildings.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>
+</p>
+<h2><span class="mw-headline" id="In_the_energy_field">In the energy field</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=13" title="Edit section: In the energy field">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="EROEI">EROEI</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=14" title="Edit section: EROEI">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a class="mw-redirect" href="/wiki/EROEI" title="EROEI">EROEI</a> provides a basis for evaluating the embodied energy due to energy.
+</p><p>Final energy  has to be multiplied by <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {\hbox{1}}{\hbox{EROEI}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>1</mtext>
+</mstyle>
+<mstyle displaystyle="false" scriptlevel="0">
+<mtext>EROEI</mtext>
+</mstyle>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {\hbox{1}}{\hbox{EROEI}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {\hbox{1}}{\hbox{EROEI}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ac9a7dc3d61282f80302e21f7afd55ee2f4024d4" style="vertical-align: -2.005ex; width:8.36ex; height:5.343ex;"/></span> in order to get the embodied energy.
+</p><p>Given an EROEI amounting to eight e.g., an eighth of the final energy corresponds to the embodied energy.
+</p><p>Not only that, for really obtaining overall embodied energy, embodied energy due to the construction and maintenance of power plants should be taken into account, too. Here, figures are badly needed.
+</p>
+<h3><span class="mw-headline" id="Electricity">Electricity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=15" title="Edit section: Electricity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the <a href="/wiki/BP" title="BP">BP</a> <i>Statistical Review of World Energy June 2018</i>, <a href="/wiki/Tonne_of_oil_equivalent" title="Tonne of oil equivalent">toe</a> are converted into <a href="/wiki/Kilowatt_hour" title="Kilowatt hour">kWh</a> "on the basis of thermal equivalence assuming 38% conversion efficiency in a modern thermal power station".
+</p><p>In <a href="/wiki/France" title="France">France</a>, by convention, the ratio between  primary energy and final energy in electricity amounts to 2.58,<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> corresponding to  an efficiency of 0.3875 or 38.8%.
+</p><p>In <a href="/wiki/Germany" title="Germany">Germany</a>, on the contrary, because of the swift development of the renewable energies, the ratio between  primary energy and final energy in electricity amounts to only 1.8,<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> corresponding to an efficiency of 55.5%.
+</p>
+<h2><span class="mw-headline" id="Data_processing">Data processing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=16" title="Edit section: Data processing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to <a href="/wiki/Association_n%C3%A9gaWatt" title="Association négaWatt">association négaWatt</a>, embodied energy related to digital services amounted to 3.5 TWh/a for networks and 10.0 TWh/a for data centres (half for the servers per se, i. e. 5 TWh/a, and the other half for the buildings in which they are housed, i. e. 5 TWh/a), figures valid in France, in 2015. The organization is optimistic about the evolution of the energy consumption in the digital field, underlining the technical progress being made<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Crystal_energy.svg"><img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li></ul></div>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a class="mw-redirect" href="/wiki/Biophysical_economics" title="Biophysical economics">Biophysical economics</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Energy_accounting" title="Energy accounting">Energy accounting</a></li>
+<li><a href="/wiki/Energy_cannibalism" title="Energy cannibalism">Energy cannibalism</a></li>
+<li><a href="/wiki/Energy_economics" title="Energy economics">Energy economics</a></li>
+<li><a href="/wiki/Environmental_accounting" title="Environmental accounting">Environmental accounting</a></li>
+<li><a class="mw-redirect" href="/wiki/Life_cycle_assessment" title="Life cycle assessment">Life cycle assessment</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Mirowski, Philip (1991). <a class="external text" href="https://books.google.com/books?id=rmVhZnHId-oC&amp;pg=PA154" rel="nofollow"><i>More Heat Than Light: Economics as Social Physics, Physics as Nature's Economics</i></a>. Cambridge University Press. pp. 154–163. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-521-42689-3" title="Special:BookSources/978-0-521-42689-3">978-0-521-42689-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=More+Heat+Than+Light%3A+Economics+as+Social+Physics%2C+Physics+as+Nature%27s+Economics&amp;rft.pages=154-163&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1991&amp;rft.isbn=978-0-521-42689-3&amp;rft.aulast=Mirowski&amp;rft.aufirst=Philip&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DrmVhZnHId-oC%26pg%3DPA154&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEmbodied+energy"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Martinez-Alier, J. (1990). <i>Ecological Economics: Energy Environment and Society</i>. Oxford: Basil Blackwell. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0631171460" title="Special:BookSources/0631171460">0631171460</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ecological+Economics%3A+Energy+Environment+and+Society&amp;rft.place=Oxford&amp;rft.pub=Basil+Blackwell&amp;rft.date=1990&amp;rft.isbn=0631171460&amp;rft.aulast=Martinez-Alier&amp;rft.aufirst=J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEmbodied+energy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Weiner, Douglas R. (2000). <a class="external text" href="https://books.google.com/books?id=b8_2PvhwnO8C&amp;pg=PA70" rel="nofollow"><i>Models of Nature: Ecology, Conservation, and Cultural Revolution in Soviet Russia</i></a>. University of Pittsburgh Pre. pp. 70–71, 78–82. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-8229-7215-0" title="Special:BookSources/978-0-8229-7215-0">978-0-8229-7215-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Models+of+Nature%3A+Ecology%2C+Conservation%2C+and+Cultural+Revolution+in+Soviet+Russia&amp;rft.pages=70-71%2C+78-82&amp;rft.pub=University+of+Pittsburgh+Pre&amp;rft.date=2000&amp;rft.isbn=978-0-8229-7215-0&amp;rft.aulast=Weiner&amp;rft.aufirst=Douglas+R.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Db8_2PvhwnO8C%26pg%3DPA70&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEmbodied+energy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Leontief, W. (1966). <i>Input-Output Economics</i>. New York: Oxford University Press. p. 134.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Input-Output+Economics&amp;rft.place=New+York&amp;rft.pages=134&amp;rft.pub=Oxford+University+Press&amp;rft.date=1966&amp;rft.aulast=Leontief&amp;rft.aufirst=W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEmbodied+energy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation thesis">Tennenbaum, Stephen E. (1988). <a class="external text" href="https://web.archive.org/web/20070930190108/http://www.esnips.com/doc/ac5215f1-e91d-4c30-8648-2eee1f31488c/Network_Energy_Thesis.pdf" rel="nofollow"><i>Network Energy Expenditures for Subsystem Production</i></a> <span class="cs1-format">(PDF)</span> (MS). <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a class="external text" href="//www.worldcat.org/oclc/20211746" rel="nofollow">20211746</a>. Docket CFW-88-08. Archived from <a class="external text" href="http://www.esnips.com/doc/ac5215f1-e91d-4c30-8648-2eee1f31488c/Network_Energy_Thesis.pdf" rel="nofollow">the original</a> <span class="cs1-format">(PDF)</span> on 2007-09-30.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=Network+Energy+Expenditures+for+Subsystem+Production&amp;rft.date=1988&amp;rft_id=info%3Aoclcnum%2F20211746&amp;rft.aulast=Tennenbaum&amp;rft.aufirst=Stephen+E.&amp;rft_id=http%3A%2F%2Fwww.esnips.com%2Fdoc%2Fac5215f1-e91d-4c30-8648-2eee1f31488c%2FNetwork_Energy_Thesis.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEmbodied+energy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hannon, B. (October 1973). <a class="external text" href="http://urizen-geography.nsm.du.edu/~psutton/Sutton_Courses/Geog_3890_Ecological_Economics/SeminalEEpapers/B_HannonStructureOfEcosystems.pdf" rel="nofollow">"The Structure of ecosystems"</a> <span class="cs1-format">(PDF)</span>. <i>Journal of Theoretical Biology</i>. <b>41</b> (3): 535–546. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0022-5193%2873%2990060-X" rel="nofollow">10.1016/0022-5193(73)90060-X</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Theoretical+Biology&amp;rft.atitle=The+Structure+of+ecosystems&amp;rft.volume=41&amp;rft.issue=3&amp;rft.pages=535-546&amp;rft.date=1973-10&amp;rft_id=info%3Adoi%2F10.1016%2F0022-5193%2873%2990060-X&amp;rft.aulast=Hannon&amp;rft.aufirst=B.&amp;rft_id=http%3A%2F%2Furizen-geography.nsm.du.edu%2F~psutton%2FSutton_Courses%2FGeog_3890_Ecological_Economics%2FSeminalEEpapers%2FB_HannonStructureOfEcosystems.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEmbodied+energy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a href="#CITEREFLenzen2001">Lenzen 2001</a></span>
+</li>
+<li id="cite_note-ICE_Database-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-ICE_Database_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ICE_Database_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">G.P.Hammond and C.I.Jones (2006) <i><a class="external text" href="http://www.circularecology.com/embodied-energy-and-carbon-footprint-database.html" rel="nofollow">Embodied energy and carbon footprint database</a></i>, Department of Mechanical Engineering, University of Bath, United Kingdom</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.cmit.csiro.au/brochures/tech/embodied/" rel="nofollow">CSIRO on embodied energy: Australia's foremost scientific institution</a> <a class="external text" href="https://web.archive.org/web/20060225154902/http://www.cmit.csiro.au/brochures/tech/embodied/" rel="nofollow">Archived</a> 2006-02-25 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">(fr) <a class="external text" href="http://www.iddri.org/Publications/L-energie-grise-la-face-cachee-de-nos-consommations-d-energie" rel="nofollow">L’énergie grise : la face cachée de nos consommations d’énergie</a> website iddri. org</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">(fr) <a class="external text" href="https://jancovici.com/publications-et-co/articles-de-presse/pour-un-bilan-carbone-des-projets-dinfrastructures-de-transport/" rel="nofollow">Pour un bilan carbone des projets d’infrastructures de transport</a> website jancovici. com</span>
+</li>
+<li id="cite_note-VW-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-VW_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-VW_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">(de) <a class="external text" href="http://www.volkswagen.de/content/medialib/vwd4/de/Volkswagen/Nachhaltigkeit/service/download/umweltberichte/umweltbericht_20012002deutsch48mb/_jcr_content/renditions/rendition.file/umweltberichte_par_0009_file.pdf" rel="nofollow">Volkswagen environmental report 2001/2002</a> <a class="external text" href="https://web.archive.org/web/20160303192010/http://www.volkswagen.de/content/medialib/vwd4/de/Volkswagen/Nachhaltigkeit/service/download/umweltberichte/umweltbericht_20012002deutsch48mb/_jcr_content/renditions/rendition.file/umweltberichte_par_0009_file.pdf" rel="nofollow">Archived</a> 2016-03-03 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. see page 27</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">(fr) <a class="external text" href="http://www.ademe.fr/sites/default/files/assets/documents/90511_acv-comparative-ve-vt-resume.pdf" rel="nofollow">Life cycle assessment</a>  website www.ademe.fr see page 9</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.pavementinteractive.org/2012/02/21/energy-and-road-construction-whats-the-mileage-of-roadway/" rel="nofollow">energy-and-road-construction</a> website www.pavementinteractive.org</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a class="external text" href="https://www.researchgate.net/profile/Peter_Love2/publication/228770848_Hybrid_life-cycle_inventory_for_road_construction_and_use/links/02bfe50f8f59609519000000.pdf" rel="nofollow">Hybrid life-cycle inventory for road construction and use</a> website resaerchgate.net</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ibn-Mohammed, T.; Greenough, R.; Taylor, S.; Ozawa-Meida, L.; Acquaye, A. (2013-11-01). <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0378778813004143" rel="nofollow">"Operational vs. embodied emissions in buildings—A review of current trends"</a>. <i>Energy and Buildings</i>. <b>66</b>: 232–245. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.enbuild.2013.07.026" rel="nofollow">10.1016/j.enbuild.2013.07.026</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Energy+and+Buildings&amp;rft.atitle=Operational+vs.+embodied+emissions+in+buildings%E2%80%94A+review+of+current+trends&amp;rft.volume=66&amp;rft.pages=232-245&amp;rft.date=2013-11-01&amp;rft_id=info%3Adoi%2F10.1016%2Fj.enbuild.2013.07.026&amp;rft.aulast=Ibn-Mohammed&amp;rft.aufirst=T.&amp;rft.au=Greenough%2C+R.&amp;rft.au=Taylor%2C+S.&amp;rft.au=Ozawa-Meida%2C+L.&amp;rft.au=Acquaye%2C+A.&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0378778813004143&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEmbodied+energy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">(fr) <a class="external text" href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000788395" rel="nofollow">Decree of 15th September 2006 on the energy performance diagnosis of existing buildings for sale in mainland France</a>, website legifrance.gouv.fr</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">(de) <a class="external text" href="http://www.gesetze-im-internet.de/enev_2007/BJNR151900007.html" rel="nofollow">laws in Internet</a> site web gesetze-im-internet.de see section 2.1.1</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">(fr) <a class="external text" href="http://decrypterlenergie.org/la-revolution-numerique-fera-t-elle-exploser-nos-consommations-denergie" rel="nofollow">Will digital revolution increase our energy consumption?</a> website decrypterlenergie.org, website of <a href="/wiki/Association_n%C3%A9gaWatt" title="Association négaWatt">association négaWatt</a>.</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=19" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book">Clark, D.H.; Treloar, G.J.; Blair, R. (2003). <a class="external text" href="http://hdl.handle.net/10536/DRO/DU:30009596" rel="nofollow">"Estimating the increasing cost of commercial buildings in Australia due to greenhouse emissions trading"</a>.  In Yang, J.; Brandon, P.S.; Sidwell, A.C. <i>Proceedings of the CIB 2003 International Conference on Smart and Sustainable Built Environment, Brisbane, Australia</i>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1741070414" title="Special:BookSources/1741070414">1741070414</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a class="external text" href="//www.worldcat.org/oclc/224896901" rel="nofollow">224896901</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Estimating+the+increasing+cost+of+commercial+buildings+in+Australia+due+to+greenhouse+emissions+trading&amp;rft.btitle=Proceedings+of+the+CIB+2003+International+Conference+on+Smart+and+Sustainable+Built+Environment%2C+Brisbane%2C+Australia&amp;rft.date=2003&amp;rft_id=info%3Aoclcnum%2F224896901&amp;rft.isbn=1741070414&amp;rft.aulast=Clark&amp;rft.aufirst=D.H.&amp;rft.au=Treloar%2C+G.J.&amp;rft.au=Blair%2C+R.&amp;rft_id=http%3A%2F%2Fhdl.handle.net%2F10536%2FDRO%2FDU%3A30009596&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEmbodied+energy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation thesis">Costanza, R. (1979). <a class="external text" href="http://ufdc.ufl.edu/UF00089540/00001/1" rel="nofollow"><i>Embodied Energy Basis for Economic-Ecologic Systems</i></a> (Ph.D.). University of Florida. <a href="/wiki/OCLC" title="OCLC">OCLC</a> <a class="external text" href="//www.worldcat.org/oclc/05720193" rel="nofollow">05720193</a>. UF00089540:00001.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=Embodied+Energy+Basis+for+Economic-Ecologic+Systems&amp;rft.inst=University+of+Florida&amp;rft.date=1979&amp;rft_id=info%3Aoclcnum%2F05720193&amp;rft.aulast=Costanza&amp;rft.aufirst=R.&amp;rft_id=http%3A%2F%2Fufdc.ufl.edu%2FUF00089540%2F00001%2F1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEmbodied+energy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">Crawford, R.H. (2005). <a class="external text" href="http://www.worldscientific.com/doi/abs/10.1142/S1609945105000250" rel="nofollow">"Validation of the Use of Input-Output Data for Embodied Energy Analysis of the Australian Construction Industry"</a>. <i>Journal of Construction Research</i>. <b>6</b> (1): 71–90. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1142%2FS1609945105000250" rel="nofollow">10.1142/S1609945105000250</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Construction+Research&amp;rft.atitle=Validation+of+the+Use+of+Input-Output+Data+for+Embodied+Energy+Analysis+of+the+Australian+Construction+Industry&amp;rft.volume=6&amp;rft.issue=1&amp;rft.pages=71-90&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1142%2FS1609945105000250&amp;rft.aulast=Crawford&amp;rft.aufirst=R.H.&amp;rft_id=http%3A%2F%2Fwww.worldscientific.com%2Fdoi%2Fabs%2F10.1142%2FS1609945105000250&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEmbodied+energy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation web">Crawford, R.H.; Treloar, G.J. (2010). <a class="external text" href="https://figshare.com/articles/Database_of_Embodied_Energy_and_Water_Values_for_Materials/4595623" rel="nofollow">"Database of embodied energy and water values for materials"</a>. University of Melbourne. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.4225%2F49%2F588eeeeda28af" rel="nofollow">10.4225/49/588eeeeda28af</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Database+of+embodied+energy+and+water+values+for+materials&amp;rft.pub=University+of+Melbourne&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.4225%2F49%2F588eeeeda28af&amp;rft.aulast=Crawford&amp;rft.aufirst=R.H.&amp;rft.au=Treloar%2C+G.J.&amp;rft_id=https%3A%2F%2Ffigshare.com%2Farticles%2FDatabase_of_Embodied_Energy_and_Water_Values_for_Materials%2F4595623&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEmbodied+energy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal" id="CITEREFLenzen2001">Lenzen, M. (2001). <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1162/10881980052541981/abstract" rel="nofollow">"Errors in conventional and input-output-based life-cycle inventories"</a>. <i>Journal of Industrial Ecology</i>. <b>4</b> (4): 127–148. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1162%2F10881980052541981" rel="nofollow">10.1162/10881980052541981</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Industrial+Ecology&amp;rft.atitle=Errors+in+conventional+and+input-output-based+life-cycle+inventories&amp;rft.volume=4&amp;rft.issue=4&amp;rft.pages=127-148&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1162%2F10881980052541981&amp;rft.aulast=Lenzen&amp;rft.aufirst=M.&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1162%2F10881980052541981%2Fabstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEmbodied+energy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">Lenzen, M.; Treloar, G.J. (February 2002). <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0301421501001422" rel="nofollow">"Embodied energy in buildings: wood versus concrete-reply to Börjesson and Gustavsson"</a>. <i>Energy Policy</i>. <b>30</b> (3): 249–255. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0301-4215%2801%2900142-2" rel="nofollow">10.1016/S0301-4215(01)00142-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Energy+Policy&amp;rft.atitle=Embodied+energy+in+buildings%3A+wood+versus+concrete-reply+to+B%C3%B6rjesson+and+Gustavsson&amp;rft.volume=30&amp;rft.issue=3&amp;rft.pages=249-255&amp;rft.date=2002-02&amp;rft_id=info%3Adoi%2F10.1016%2FS0301-4215%2801%2900142-2&amp;rft.aulast=Lenzen&amp;rft.aufirst=M.&amp;rft.au=Treloar%2C+G.J.&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0301421501001422&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEmbodied+energy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">Treloar, G.J. (1997). <a class="external text" href="http://www.tandfonline.com/doi/abs/10.1080/09535319700000032" rel="nofollow">"Extracting Embodied Energy Paths from Input-Output Tables: Towards an Input-Output-based Hybrid Energy Analysis Method"</a>. <i>Economic Systems Research</i>. <b>9</b> (4): 375–391. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1080%2F09535319700000032" rel="nofollow">10.1080/09535319700000032</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Economic+Systems+Research&amp;rft.atitle=Extracting+Embodied+Energy+Paths+from+Input-Output+Tables%3A+Towards+an+Input-Output-based+Hybrid+Energy+Analysis+Method&amp;rft.volume=9&amp;rft.issue=4&amp;rft.pages=375-391&amp;rft.date=1997&amp;rft_id=info%3Adoi%2F10.1080%2F09535319700000032&amp;rft.aulast=Treloar&amp;rft.aufirst=G.J.&amp;rft_id=http%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Fabs%2F10.1080%2F09535319700000032&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEmbodied+energy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation thesis">Treloar, Graham J. (1998). <a class="external text" href="http://hdl.handle.net/10536/DRO/DU:30023444" rel="nofollow"><i>A comprehensive embodied energy analysis framework</i></a> (Ph.D.). Deakin University.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=A+comprehensive+embodied+energy+analysis+framework&amp;rft.inst=Deakin+University&amp;rft.date=1998&amp;rft.aulast=Treloar&amp;rft.aufirst=Graham+J.&amp;rft_id=http%3A%2F%2Fhdl.handle.net%2F10536%2FDRO%2FDU%3A30023444&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEmbodied+energy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">Treloar, G.J.; Owen, C.; Fay, R. (2001). <a class="external text" href="http://www.emeraldinsight.com/journals.htm?articleid=844750&amp;show=abstract" rel="nofollow">"Environmental assessment of rammed earth construction systems"</a>. <i>Structural survey</i>. <b>19</b> (2): 99–105. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1108%2F02630800110393680" rel="nofollow">10.1108/02630800110393680</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Structural+survey&amp;rft.atitle=Environmental+assessment+of+rammed+earth+construction+systems&amp;rft.volume=19&amp;rft.issue=2&amp;rft.pages=99-105&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1108%2F02630800110393680&amp;rft.aulast=Treloar&amp;rft.aufirst=G.J.&amp;rft.au=Owen%2C+C.&amp;rft.au=Fay%2C+R.&amp;rft_id=http%3A%2F%2Fwww.emeraldinsight.com%2Fjournals.htm%3Farticleid%3D844750%26show%3Dabstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEmbodied+energy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation journal">Treloar, G.J.; Love, P.E.D.; Holt, G.D. (2001). <a class="external text" href="http://www.tandfonline.com/doi/abs/10.1080/014461901452076" rel="nofollow">"Using national input-output data for embodied energy analysis of individual residential buildings"</a>. <i>Construction Management and Economics</i>. <b>19</b> (1): 49–61. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1080%2F014461901452076" rel="nofollow">10.1080/014461901452076</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Construction+Management+and+Economics&amp;rft.atitle=Using+national+input-output+data+for+embodied+energy+analysis+of+individual+residential+buildings&amp;rft.volume=19&amp;rft.issue=1&amp;rft.pages=49-61&amp;rft.date=2001&amp;rft_id=info%3Adoi%2F10.1080%2F014461901452076&amp;rft.aulast=Treloar&amp;rft.aufirst=G.J.&amp;rft.au=Love%2C+P.E.D.&amp;rft.au=Holt%2C+G.D.&amp;rft_id=http%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Fabs%2F10.1080%2F014461901452076&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEmbodied+energy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Embodied_energy&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.thrive-research.com.au/embodied-energy/" rel="nofollow">Embodied energy data and research at The University of Melbourne</a></li>
+<li><a class="external text" href="http://www.isa.org.usyd.edu.au" rel="nofollow">Research on embodied energy at the University of Sydney, Australia</a></li>
+<li><a class="external text" href="http://www.climatechange.gov.au/" rel="nofollow">Australian Greenhouse Office, Department of the Environment and Heritage</a></li>
+<li><a class="external text" href="http://www.circularecology.com/ice-database.html" rel="nofollow">University of Bath (UK), Inventory of Carbon &amp; Energy (ICE) Material Inventory</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1321
+Cached time: 20181013115749
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.365 seconds
+Preprocessor visited node count: 1192/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 47363/2097152 bytes
+Template argument size: 210/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 41383/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.160/10.000 seconds
+Lua memory usage: 4.95 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  260.766      1 -total
+ 56.86%  148.266      1 Template:Reflist
+ 28.67%   74.762      5 Template:Cite_book
+ 20.53%   53.547      8 Template:Cite_journal
+ 14.16%   36.937      3 Template:Cite_thesis
+  9.71%   25.311      1 Template:Ecological_economics
+  8.54%   22.274      1 Template:Sidebar_with_collapsible_lists
+  3.46%    9.034      2 Template:Webarchive
+  2.98%    7.764      1 Template:Div_col
+  2.84%    7.412      1 Template:Portal
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1520238-0!canonical!math=5 and timestamp 20181013115749 and revision id 863519078
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Embodied_energy&amp;oldid=863519078">https://en.wikipedia.org/w/index.php?title=Embodied_energy&amp;oldid=863519078</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Energy_development" title="Category:Energy development">Energy development</a></li><li><a href="/wiki/Category:Systems_ecology" title="Category:Systems ecology">Systems ecology</a></li><li><a href="/wiki/Category:Ecological_economics" title="Category:Ecological economics">Ecological economics</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Embodied+energy" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Embodied+energy" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Embodied_energy" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Embodied_energy" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Embodied_energy">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Embodied_energy&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Embodied_energy&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Embodied_energy" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Embodied_energy" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Embodied_energy&amp;oldid=863519078" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Embodied_energy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1153531" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Embodied_energy&amp;id=863519078" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Embodied+energy">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Embodied+energy&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Embodied_energy&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9_%D8%A7%D9%84%D9%85%D8%AC%D8%B3%D8%AF%D8%A9" hreflang="ar" lang="ar" title="الطاقة المجسدة – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Siva_energija" hreflang="bs" lang="bs" title="Siva energija – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Graue_Energie" hreflang="de" lang="de" title="Graue Energie – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Energ%C3%ADa_gris" hreflang="es" lang="es" title="Energía gris – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89nergie_grise" hreflang="fr" lang="fr" title="Énergie grise – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%B2%B4%ED%99%94_%EC%97%90%EB%84%88%EC%A7%80" hreflang="ko" lang="ko" title="체화 에너지 – Korean">한국어</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Energia_grigia" hreflang="it" lang="it" title="Energia grigia – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%89%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%9F%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AF_%E0%AE%86%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%B2%E0%AF%8D" hreflang="ta" lang="ta" title="உள்ளடங்கிய ஆற்றல் – Tamil">தமிழ்</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1153531#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 11 October 2018, at 08:35<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Embodied_energy&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.300","walltime":"0.365","ppvisitednodes":{"value":1192,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":47363,"limit":2097152},"templateargumentsize":{"value":210,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":41383,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  260.766      1 -total"," 56.86%  148.266      1 Template:Reflist"," 28.67%   74.762      5 Template:Cite_book"," 20.53%   53.547      8 Template:Cite_journal"," 14.16%   36.937      3 Template:Cite_thesis","  9.71%   25.311      1 Template:Ecological_economics","  8.54%   22.274      1 Template:Sidebar_with_collapsible_lists","  3.46%    9.034      2 Template:Webarchive","  2.98%    7.764      1 Template:Div_col","  2.84%    7.412      1 Template:Portal"]},"scribunto":{"limitreport-timeusage":{"value":"0.160","limit":"10.000"},"limitreport-memusage":{"value":5192670,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20181013115749","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1247"});});</script>
+</body>
+</html>

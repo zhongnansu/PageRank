@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Free-radical halogenation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Free-radical_halogenation","wgTitle":"Free-radical halogenation","wgCurRevisionId":805422730,"wgRevisionId":805422730,"wgArticleId":1222839,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Free radical reactions","Halogenation reactions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Free-radical_halogenation","wgRelevantArticleId":1222839,"wgRequestId":"W8IM-wpAICAAAEZbem8AAACD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3098657","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Free-radical_halogenation" rel="alternate"/>
+<link href="/w/index.php?title=Free-radical_halogenation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Free-radical_halogenation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Free-radical_halogenation" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Free-radical_halogenation rootpage-Free-radical_halogenation skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Free-radical halogenation</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>In <a href="/wiki/Organic_chemistry" title="Organic chemistry">organic chemistry</a>, <b>free-radical halogenation</b> is a type of <a href="/wiki/Halogenation" title="Halogenation">halogenation</a>. This <a href="/wiki/Chemical_reaction" title="Chemical reaction">chemical reaction</a> is typical of <a href="/wiki/Alkane" title="Alkane">alkanes</a> and <a href="/wiki/Alkyl" title="Alkyl">alkyl</a>-substituted <a class="mw-redirect" href="/wiki/Aromatic" title="Aromatic">aromatics</a> under application of <a class="mw-redirect" href="/wiki/UV_light" title="UV light">UV light</a>. The reaction is used for the industrial synthesis of <a href="/wiki/Chloroform" title="Chloroform">chloroform</a> (CHCl<sub>3</sub>), <a href="/wiki/Dichloromethane" title="Dichloromethane">dichloromethane</a> (CH<sub>2</sub>Cl<sub>2</sub>), and <a href="/wiki/Hexachlorobutadiene" title="Hexachlorobutadiene">hexachlorobutadiene</a>. It proceeds by a <a class="mw-redirect" href="/wiki/Free-radical" title="Free-radical">free-radical</a> chain mechanism.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#General_mechanism"><span class="tocnumber">1</span> <span class="toctext">General mechanism</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Control_of_halogenation"><span class="tocnumber">2</span> <span class="toctext">Control of halogenation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="General_mechanism">General mechanism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free-radical_halogenation&amp;action=edit&amp;section=1" title="Edit section: General mechanism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The chain mechanism is as follows, using the chlorination of <a href="/wiki/Methane" title="Methane">methane</a> as a typical example:
+</p>
+<dl><dd><b>1.</b> <a href="/wiki/Initiation_(chemistry)" title="Initiation (chemistry)">Initiation</a>: Splitting or <a href="/wiki/Homolysis_(chemistry)" title="Homolysis (chemistry)">homolysis</a> of a chlorine molecule to form two chlorine atoms, initiated by <a class="mw-redirect" href="/wiki/Ultraviolet_radiation" title="Ultraviolet radiation">ultraviolet radiation</a> or sunlight. A chlorine atom has an unpaired electron and acts as a <a class="mw-redirect" href="/wiki/Free_radical" title="Free radical">free radical</a>.
+<dl><dd><a class="image" href="/wiki/File:MethaneChlorinationMechanismInitiation.svg" title="Methane chlorination: initiation"><img alt="Methane chlorination: initiation" data-file-height="66" data-file-width="260" height="66" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/MethaneChlorinationMechanismInitiation.svg/260px-MethaneChlorinationMechanismInitiation.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/MethaneChlorinationMechanismInitiation.svg/390px-MethaneChlorinationMechanismInitiation.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/MethaneChlorinationMechanismInitiation.svg/520px-MethaneChlorinationMechanismInitiation.svg.png 2x" width="260"/></a></dd></dl></dd>
+<dd><b>2.</b> <a href="/wiki/Chain_propagation" title="Chain propagation">chain propagation</a> (two steps): a hydrogen atom is pulled off from methane leaving a primary methyl radical. The methyl radical then pulls a Cl• from Cl<sub>2</sub>.</dd></dl>
+<p><a class="image" href="/wiki/File:MethaneChlorinationPropagationStep.svg" title="Methane chlorination: propagation"><img alt="Methane chlorination: propagation" data-file-height="166" data-file-width="400" height="166" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/MethaneChlorinationPropagationStep.svg/400px-MethaneChlorinationPropagationStep.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/MethaneChlorinationPropagationStep.svg/600px-MethaneChlorinationPropagationStep.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/MethaneChlorinationPropagationStep.svg/800px-MethaneChlorinationPropagationStep.svg.png 2x" width="400"/></a>
+</p>
+<dl><dd>This results in the desired product plus another chlorine radical. This radical will then go on to take part in another propagation reaction causing a <a href="/wiki/Chain_reaction" title="Chain reaction">chain reaction</a>. If there is sufficient chlorine, other products such as CH<sub>2</sub>Cl<sub>2</sub> may be formed.</dd>
+<dd><b>3.</b> <a href="/wiki/Chain_termination" title="Chain termination">chain termination</a>: recombination of two free radicals:</dd>
+<dd><a class="image" href="/wiki/File:MethaneChlorinationTermination.svg" title="Methane chlorination: termination"><img alt="Methane chlorination: termination" data-file-height="233" data-file-width="358" height="233" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/MethaneChlorinationTermination.svg/358px-MethaneChlorinationTermination.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/MethaneChlorinationTermination.svg/537px-MethaneChlorinationTermination.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/MethaneChlorinationTermination.svg/716px-MethaneChlorinationTermination.svg.png 2x" width="358"/></a></dd>
+<dd>The last possibility in the termination step will result in an impurity in the final mixture; notably this results in an organic molecule with a longer carbon chain than the reactants.</dd></dl>
+<p>The net reaction is:
+</p>
+<dl><dd><a class="image" href="/wiki/File:MethaneRadicalChlorination.svg" title="Methane chlorination overall reaction"><img alt="Methane chlorination overall reaction" data-file-height="88" data-file-width="348" height="88" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/MethaneRadicalChlorination.svg/348px-MethaneRadicalChlorination.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/MethaneRadicalChlorination.svg/522px-MethaneRadicalChlorination.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/MethaneRadicalChlorination.svg/696px-MethaneRadicalChlorination.svg.png 2x" width="348"/></a></dd></dl>
+<p>In the case of methane or ethane, all the hydrogen atoms are equivalent and thus have an equal chance of being replaced. This leads to what is known as a <i>statistical product distribution</i>. For <a href="/wiki/Propane" title="Propane">propane</a> and higher alkanes, the hydrogen atoms which form part of CH<sub>2</sub> (or CH) groups are preferentially replaced.
+</p><p>The reactivity of the different halogens varies considerably. The relative rates are: <a href="/wiki/Fluorine" title="Fluorine">fluorine</a> (108) &gt; <a href="/wiki/Chlorine" title="Chlorine">chlorine</a> (1) &gt; <a href="/wiki/Bromine" title="Bromine">bromine</a> (7 × 10<sup>−11</sup>) &gt; <a href="/wiki/Iodine" title="Iodine">iodine</a> (2 × 10<sup>−22</sup>). Hence, the reaction of <a href="/wiki/Alkane" title="Alkane">alkanes</a> with fluorine is difficult to control, that with chlorine is moderate to fast, that with bromine is slow and requires high levels of UV irradiation while the reaction with iodine is practically nonexistent and <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamically</a> unfavorable.
+</p><p>A common method in organic synthesis employing is the <a class="mw-redirect" href="/wiki/Wohl%E2%80%93Ziegler_reaction" title="Wohl–Ziegler reaction">Wohl–Ziegler reaction</a>, which employs <a href="/wiki/N-Bromosuccinimide" title="N-Bromosuccinimide"><i>N</i>-bromosuccinimide</a>, which can undergo <a href="/wiki/Homolysis_(chemistry)" title="Homolysis (chemistry)">homolysis</a> to yield a bromine radical and is a free-radical halogenation variant.
+</p>
+<h2><span class="mw-headline" id="Control_of_halogenation">Control of halogenation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free-radical_halogenation&amp;action=edit&amp;section=2" title="Edit section: Control of halogenation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Halogenation often does not stop at monosubstitution. Depending on reaction conditions, the chlorination of methane yields <a href="/wiki/Dichloromethane" title="Dichloromethane">dichloromethane</a>, <a href="/wiki/Chloroform" title="Chloroform">chloroform</a> and <a href="/wiki/Carbon_tetrachloride" title="Carbon tetrachloride">carbon tetrachloride</a>.</li>
+<li>In most <a href="/wiki/Hydrocarbon" title="Hydrocarbon">hydrocarbons,</a> more than one possible product exists depending on which hydrogen is replaced.  <a href="/wiki/Butane" title="Butane">Butane</a> (CH<sub>3</sub>−CH<sub>2</sub>−CH<sub>2</sub>−CH<sub>3</sub>), for example, can be chlorinated at the "1" position to give 1-chlorobutane (CH<sub>3</sub>−CH<sub>2</sub>−CH<sub>2</sub>−CH<sub>2</sub>Cl) or at the "2" position to give 2-chlorobutane (CH<sub>3</sub>−CH<sub>2</sub>−CHCl−CH<sub>3</sub>).  The product distribution depends on relative reaction rates: in this case the "2" position of butane reacts faster and 2-chlorobutane is the major product.</li>
+<li>Chlorination is generally less selective than bromination. Fluorination is not only even less selective than chlorination, but also highly <a class="mw-redirect" href="/wiki/Exothermic" title="Exothermic">exothermic</a> and care must be taken to prevent an explosion or a runaway reaction. This relationship is often used as a demonstration of the <a href="/wiki/Reactivity%E2%80%93selectivity_principle" title="Reactivity–selectivity principle">reactivity–selectivity principle</a> and can be explained with the aid of the <a class="mw-redirect" href="/wiki/Hammond_postulate" title="Hammond postulate">Hammond postulate</a>. A bromine radical is not very reactive and the <a href="/wiki/Transition_state" title="Transition state">transition state</a> for hydrogen abstraction has much radical character and is reached late. The reactive chlorine radical develops a transition state resembling the reactant with little radical character. When the alkyl radical is fully formed in the transition state,  it can benefit fully from any <a class="mw-redirect" href="/wiki/Resonance_stabilization" title="Resonance stabilization">resonance stabilization</a> present thereby maximizing selectivity.</li>
+<li>We can also look at the <a class="mw-redirect" href="/wiki/Bond_dissociation_energy" title="Bond dissociation energy">bond dissociation energies</a> (BDEs) to understand the selectivity of bromination. The BDE of a bond is the energy required to break it by homolytic cleavage, and these values can be used to determine if a reaction or step in a reaction is <a class="mw-redirect" href="/wiki/Exothermic" title="Exothermic">exothermic</a> or <a class="mw-redirect" href="/wiki/Endothermic" title="Endothermic">endothermic</a>. In a chain reaction step of a Br radical reacting with a hydrogen on a <a href="/wiki/Secondary_carbon" title="Secondary carbon">secondary carbon</a> to cleave the H−C bond requires 397 kJ/mol and an H−Br is formed.  We can look at the BDE of H−Br (= 366 kJ/mol) and subtract this value from 397 kJ/mol to get +31 kJ/mol. This positive value tells us that this step in the reaction requires energy (endothermic) and the reactants are more stable than the products. Comparing this with the same situation of a Cl radical we see that this step is exothermic (397 − 431 kJ/mol = −20 kJ/mol). From these values, we can conclude that in bromination it is more important that the most stable radical (tertiary) be formed during this step and thus it is more selective than chlorination. This is because less energy is required to form the H–Br and tertiary radical (380 − 366 kJ/mol = +14 kJ/mol). This value is 17 kJ/mol less than the secondary radical formation. Iodine does not even participate in free-radical halogenation because the entire reaction is endothermic.</li>
+<li>It is possible to predict the product distribution of different monochloro derivatives resulting from the chlorination of an alkane with non-equivalent hydrogens.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>  From experimentation, it has been determined that the relative rates of chlorination to primary, secondary, and tertiary positions are 1, 3.8, and 5 respectively (this ratio is used in the example following this paragraph). This corresponds with alkyl <a href="/wiki/Radical_(chemistry)" title="Radical (chemistry)">radical</a> stability: tertiary radical species are more stable than secondary radical species, and secondary radical species are more stable than primary radical species—thus any single chlorination will favor substitution at the most substituted carbon. Because of this trend, the percentages of each product formed from the parent radical can be estimated with relatively high accuracy. For example, 2-methyl butane ((CH<sub>3</sub>)<sub>2</sub>CHCH<sub>2</sub>CH<sub>3</sub>) exhibits the following results:</li></ul>
+<dl><dd>For clarity, the unique hydrogens will be labeled as follows:
+<dl><dd>a = (CH<sub>3</sub>)<sub>2</sub> (primary),  b = CH (tertiary),  c = CH<sub>2</sub> (secondary), d = CH<sub>3</sub> (also primary)</dd></dl></dd>
+<dd>Applying the aforementioned substitution ratios in the formula: ([number of hydrogens] × [ratio factor]) / [(primary hydrogens × 1) + (secondary hydrogens × 3.8) + (tertiary hydrogens × 5)]
+<dl><dd>a: 6 × 1   = 6<span class="nowrap">          </span>    a = 6/21.6   = 28%</dd>
+<dd>b: 1 × 5   = 5<span class="nowrap">          </span>    b = 5/21.6   = 23%</dd>
+<dd>c: 2 × 3.8 = 7.6<span class="nowrap">    </span>   c = 7.6/21.6 = 35%</dd>
+<dd>d: 3 × 1   = 3<span class="nowrap">          </span>    d = 3/21.6   = 14%</dd></dl></dd>
+<dd>Denominator total for this species = 6 + 5 + 7.6 + 3 = 21.6</dd></dl>
+<p>Because all six "a" hydrogens, both "c" hydrogens, and the three "d" hydrogens are chemically equivalent with the others in their three classifications (i.e., any "a" hydrogen is equivalent with any other "a" hydrogen), these rates accurately reflect where a single chlorination may take place for 2-methylbutane.  The single tertiary hydrogen "b" is nearly as susceptible as the six, primary "a" hydrogens, and almost doubly susceptible as any of the three, also primary "d" hydrogens, illustrating the radical stability differences between tertiary and primary hydrogens (the secondary "c" hydrogens also follow the radical stability order as previously mentioned).
+</p><p>Free-radical iodination is usually not possible because iodine is too unreactive to form a radical. For the other halogens, free-radical halogenation generally proceeds in the following order:
+</p>
+<ul><li>Carbons with one or more <a href="/wiki/Aryl" title="Aryl">aryl</a> substituents (benzylic positions) react faster than:</li>
+<li>Carbons with three <a href="/wiki/Alkyl" title="Alkyl">alkyl</a> substituents (tertiary positions), which react faster than:</li>
+<li>Carbons with two alkyl substituents (secondary positions), which react faster than:</li>
+<li>Carbons with one or zero substituents (primary positions)</li></ul>
+<p><a href="/wiki/Oxygen" title="Oxygen">Oxygen</a> is a halogenation <a href="/wiki/Reaction_inhibitor" title="Reaction inhibitor">inhibitor</a>.
+</p><p>An example of radical bromination of <a href="/wiki/Toluene" title="Toluene">toluene</a> is given below:<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<dl><dd><a class="image" href="/wiki/File:TolueneBromination2006.png" title="bromination of toluene with hydrobromic acid and hydrogen peroxide in water"><img alt="bromination of toluene with hydrobromic acid and hydrogen peroxide in water" data-file-height="202" data-file-width="1047" height="77" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/TolueneBromination2006.png/400px-TolueneBromination2006.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/TolueneBromination2006.png/600px-TolueneBromination2006.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/TolueneBromination2006.png/800px-TolueneBromination2006.png 2x" width="400"/></a></dd></dl>
+<p>This reaction takes place <a href="/wiki/On_water_reaction" title="On water reaction">on water</a> instead of an organic solvent and the bromine is obtained by <a class="mw-redirect" href="/wiki/Oxidation" title="Oxidation">oxidation</a> of <a href="/wiki/Hydrobromic_acid" title="Hydrobromic acid">hydrobromic acid</a> with <a href="/wiki/Hydrogen_peroxide" title="Hydrogen peroxide">hydrogen peroxide</a>. An <a href="/wiki/Incandescent_light_bulb" title="Incandescent light bulb">incandescent light bulb</a> is sufficient for bromine radical generation.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free-radical_halogenation&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Radical_fluorination" title="Radical fluorination">Radical fluorination</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Free-radical_halogenation&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Carey, F.A.  Organic Chemistry, Sixth Edition. New York, NY: McGraw Hill. 2006.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Peters, W.  Chemistry 3421 Lecture Notes.  University of Colorado, Denver.  Radical Halogenation, Fall 2006.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><i>Free radical bromination by the H<sub>2</sub>O<sub>2</sub>–HBr system on water</i> Ajda Podgoršek, Stojan Stavber, Marko Zupana, and Jernej Iskraa <a href="/wiki/Tetrahedron_Letters" title="Tetrahedron Letters">Tetrahedron Letters</a> 47 (<b>2006</b>) 7245–7247 <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1016%2Fj.tetlet.2006.07.109" rel="nofollow">10.1016/j.tetlet.2006.07.109</a></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1327
+Cached time: 20181010155522
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.056 seconds
+Real time usage: 0.079 seconds
+Preprocessor visited node count: 290/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 1536/2097152 bytes
+Template argument size: 334/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1292/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.006/10.000 seconds
+Lua memory usage: 791 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   43.092      1 -total
+ 52.28%   22.527      1 Template:Reflist
+ 45.47%   19.592      4 Template:Spaces
+ 23.93%   10.311      1 Template:DOI
+ 10.59%    4.564      2 Template:Hide_in_print
+  6.41%    2.764      1 Template:Str_left
+  5.30%    2.283      1 Template:Main_other
+  4.19%    1.804      1 Template:Only_in_print
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1222839-0!canonical and timestamp 20181010155522 and revision id 805422730
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Free-radical_halogenation&amp;oldid=805422730">https://en.wikipedia.org/w/index.php?title=Free-radical_halogenation&amp;oldid=805422730</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Free_radical_reactions" title="Category:Free radical reactions">Free radical reactions</a></li><li><a href="/wiki/Category:Halogenation_reactions" title="Category:Halogenation reactions">Halogenation reactions</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Free-radical+halogenation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Free-radical+halogenation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Free-radical_halogenation" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Free-radical_halogenation" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Free-radical_halogenation">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Free-radical_halogenation&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Free-radical_halogenation&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Free-radical_halogenation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Free-radical_halogenation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Free-radical_halogenation&amp;oldid=805422730" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Free-radical_halogenation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3098657" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Free-radical_halogenation&amp;id=805422730" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Free-radical+halogenation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Free-radical+halogenation&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Free-radical_halogenation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Halogenaci%C3%B3n_radicalaria" hreflang="es" lang="es" title="Halogenación radicalaria – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%87%D8%A7%D9%84%D9%88%DA%98%D9%86%E2%80%8C%D8%AF%D8%A7%D8%B1_%DA%A9%D8%B1%D8%AF%D9%86_%D8%B1%D8%A7%D8%AF%DB%8C%DA%A9%D8%A7%D9%84%DB%8C" hreflang="fa" lang="fa" title="هالوژن‌دار کردن رادیکالی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Halog%C3%A9nation_radicalaire" hreflang="fr" lang="fr" title="Halogénation radicalaire – French">Français</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Radicalaire_halogenering" hreflang="nl" lang="nl" title="Radicalaire halogenering – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Halogena%C3%A7%C3%A3o_radical" hreflang="pt" lang="pt" title="Halogenação radical – Portuguese">Português</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3098657#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 15 October 2017, at 08:30<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Free-radical_halogenation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.056","walltime":"0.079","ppvisitednodes":{"value":290,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":1536,"limit":2097152},"templateargumentsize":{"value":334,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1292,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   43.092      1 -total"," 52.28%   22.527      1 Template:Reflist"," 45.47%   19.592      4 Template:Spaces"," 23.93%   10.311      1 Template:DOI"," 10.59%    4.564      2 Template:Hide_in_print","  6.41%    2.764      1 Template:Str_left","  5.30%    2.283      1 Template:Main_other","  4.19%    1.804      1 Template:Only_in_print"]},"scribunto":{"limitreport-timeusage":{"value":"0.006","limit":"10.000"},"limitreport-memusage":{"value":809970,"limit":52428800}},"cachereport":{"origin":"mw1327","timestamp":"20181010155522","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw1330"});});</script>
+</body>
+</html>

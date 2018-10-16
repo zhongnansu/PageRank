@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Carbon dioxide sensor - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Carbon_dioxide_sensor","wgTitle":"Carbon dioxide sensor","wgCurRevisionId":836798274,"wgRevisionId":836798274,"wgArticleId":6080682,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Archived copy as title","Articles lacking in-text citations from September 2017","All articles lacking in-text citations","Wikipedia articles needing clarification from August 2014","Sensors","Gas sensors"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Carbon_dioxide_sensor","wgRelevantArticleId":6080682,"wgRequestId":"W8JSTgpAAEQAAEsnsHIAAAAW","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5037960","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Carbon_dioxide_sensor" rel="alternate"/>
+<link href="/w/index.php?title=Carbon_dioxide_sensor&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Carbon_dioxide_sensor&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Carbon_dioxide_sensor" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Carbon_dioxide_sensor rootpage-Carbon_dioxide_sensor skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Carbon dioxide sensor</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/></div></td><td class="mbox-text"><div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>.<span class="hide-when-compact"> Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(September 2017)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>A <b>carbon dioxide sensor</b> or <b>CO<sub>2</sub> sensor</b> is an instrument for the measurement of <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> gas. The most common principles for CO<sub>2</sub> sensors are infrared gas sensors (<a class="mw-redirect" href="/wiki/NDIR" title="NDIR">NDIR</a>) and chemical gas sensors. Measuring carbon dioxide is important in monitoring <a href="/wiki/Indoor_air_quality" title="Indoor air quality">indoor air quality</a>, the function of the lungs in the form of a <a class="mw-redirect" href="/wiki/Capnograph" title="Capnograph">capnograph</a> device, and many industrial processes.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Nondispersive_Infrared_(NDIR)_CO2_Sensors"><span class="tocnumber">1</span> <span class="toctext">Nondispersive Infrared (NDIR) CO<sub>2</sub> Sensors</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Chemical_CO2_sensors"><span class="tocnumber">2</span> <span class="toctext">Chemical CO<sub>2</sub> sensors</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Applications"><span class="tocnumber">3</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span id="Nondispersive_Infrared_.28NDIR.29_CO2_Sensors"></span><span class="mw-headline" id="Nondispersive_Infrared_(NDIR)_CO2_Sensors">Nondispersive Infrared (NDIR) CO<sub>2</sub> Sensors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbon_dioxide_sensor&amp;action=edit&amp;section=1" title="Edit section: Nondispersive Infrared (NDIR) CO2 Sensors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Nondispersive_infrared_sensor" title="Nondispersive infrared sensor">Nondispersive infrared sensor</a></div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Capnography" title="Capnography">Capnography</a></div>
+<p><a class="mw-redirect" href="/wiki/NDIR" title="NDIR">NDIR</a> sensors are <a href="/wiki/Spectroscopy" title="Spectroscopy">spectroscopic</a> sensors to detect CO<sub>2</sub> in a gaseous environment by its characteristic absorption. The key components are an <a href="/wiki/Infrared" title="Infrared">infrared</a> source, a <a href="/wiki/Light" title="Light">light</a> tube, an interference (wavelength) filter, and an infrared detector. The gas is pumped or diffuses into the light tube, and the electronics measure the absorption of the characteristic <a href="/wiki/Wavelength" title="Wavelength">wavelength</a> of light. NDIR sensors are most often used for measuring carbon dioxide.<sup class="reference" id="cite_ref-Lang_1-0"><a href="#cite_note-Lang-1">[1]</a></sup> The best of these have sensitivities of 20–50 <a class="mw-redirect" href="/wiki/Parts_per_million" title="Parts per million">PPM</a>.<sup class="reference" id="cite_ref-Lang_1-1"><a href="#cite_note-Lang-1">[1]</a></sup> Typical NDIR sensors cost in the (US) $100 to $1000 range.
+</p><p>New developments include using <a href="/wiki/Microelectromechanical_systems" title="Microelectromechanical systems">microelectromechanical systems</a> to bring down the costs of this sensor and to create smaller devices (for example for use in <a href="/wiki/Air_conditioning" title="Air conditioning">air conditioning</a> applications). NDIR CO<sub>2</sub> sensors are also used for dissolved CO<sub>2</sub> for applications such as beverage carbonation, pharmaceutical fermentation and <a class="mw-redirect" href="/wiki/Carbon_dioxide_capture_and_storage" title="Carbon dioxide capture and storage">CO<sub>2</sub> sequestration</a> applications. In this case they are mated to an ATR (attenuated total reflection) optic and measure the gas in situ.
+</p><p>Another method (<a class="mw-redirect" href="/wiki/Henry%27s_Law" title="Henry's Law">Henry's Law</a>) can be also be used to measure the amount of dissolved CO<sub>2</sub> in a liquid, if the amount of foreign gases is insignificant.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag needs further explanation. (August 2014)">further explanation needed</span></a></i>]</sup>
+</p>
+<h2><span class="mw-headline" id="Chemical_CO2_sensors">Chemical CO<sub>2</sub> sensors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbon_dioxide_sensor&amp;action=edit&amp;section=2" title="Edit section: Chemical CO2 sensors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Chemical CO<sub>2</sub> gas sensors with sensitive layers based on polymer- or heteropolysiloxane have the principal advantage of a very low energy consumption, and can be reduced in size to fit into microelectronic-based systems. On the downside, short- and long term drift effects as well as a rather low overall lifetime are major obstacles when compared with the NDIR measurement principle.<sup class="reference" id="cite_ref-Zhou_2-0"><a href="#cite_note-Zhou-2">[2]</a></sup> Most CO₂ sensors are fully calibrated prior to shipping from the factory. Over time, the zero point of the sensor needs to be calibrated to maintain the long term stability of the sensor.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbon_dioxide_sensor&amp;action=edit&amp;section=3" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Examples:
+<ul><li><a href="/wiki/Modified_atmosphere" title="Modified atmosphere">Modified atmospheres</a></li>
+<li><a href="/wiki/Indoor_air_quality" title="Indoor air quality">Indoor air quality</a></li>
+<li><a href="/wiki/Stowaway" title="Stowaway">Stowaway</a> detection</li>
+<li>Cellar and gas stores</li>
+<li><a class="mw-redirect" href="/wiki/Marine_vessel" title="Marine vessel">Marine vessels</a></li>
+<li><a href="/wiki/Greenhouse" title="Greenhouse">Greenhouses</a></li>
+<li><a href="/wiki/Landfill" title="Landfill">Landfill</a> gas</li>
+<li><a href="/wiki/Confined_space" title="Confined space">Confined spaces</a></li>
+<li><a href="/wiki/Cryogenics" title="Cryogenics">Cryogenics</a></li>
+<li><a href="/wiki/Ventilation_(architecture)" title="Ventilation (architecture)">Ventilation</a> management</li>
+<li><a href="/wiki/Mining" title="Mining">Mining</a></li>
+<li><a href="/wiki/Rebreather" title="Rebreather">Rebreathers</a> (SCUBA)</li></ul></li>
+<li>For indoor human <a href="/wiki/Occupancy_sensor" title="Occupancy sensor">occupancy counting</a><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></li>
+<li>For <a href="/wiki/HVAC" title="HVAC">HVAC</a> applications, CO<sub>2</sub> sensors can be used to monitor the quality of air and the tailored need for fresh air, respectively. Measuring CO<sub>2</sub> levels indirectly determines how many people are in a room, and ventilation can be adjusted accordingly. See <a class="mw-redirect" href="/wiki/Demand-controlled_ventilation" title="Demand-controlled ventilation">demand controlled ventilation (DCV)</a>.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></li>
+<li>In applications where direct <a href="/wiki/Temperature_measurement" title="Temperature measurement">temperature measurement</a> is not applicable, <a href="#Nondispersive_Infrared_.28NDIR.29_CO2_Sensors">NDIR sensors</a> can be used. The sensors absorb ambient <a href="/wiki/Infrared" title="Infrared">infrared radiation (IR)</a> given off by a heated surface.</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbon_dioxide_sensor&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Exhaust_gas_analyzer" title="Exhaust gas analyzer">Exhaust gas analyzer</a></li>
+<li><a href="/wiki/Oxygen_sensor" title="Oxygen sensor">Oxygen sensor</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carbon_dioxide_sensor&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Lang-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lang_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lang_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Carbonate Based CO<sub>2</sub> Sensors with High Performance, Th. Lang, H.-D. Wiemhöfer and W. Göpel, Conf.Proc.Eurosensors IX, Stockholm (S) (1995); Sensors and Actuators B, 34, 1996, 383–387.</span>
+</li>
+<li id="cite_note-Zhou-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Zhou_2-0">^</a></b></span> <span class="reference-text">Reliable CO<sub>2</sub> Sensors Based with Silicon-based Polymers on Quartz Microbalance Transducers, R. Zhou, S. Vaihinger, K.E. Geckeler and W. Göpel, Conf.Proc.Eurosensors VII, Budapest (H) (1993); Sensors and Actuators B, 18–19, 1994, 415–420.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Co2 Auto-Calibration Guide <cite class="citation web"><a class="external text" href="https://web.archive.org/web/20140819214423/http://sstsensing.com/sites/default/files/AN0117_4_CO2SensorAutoCalibrationNote.pdf" rel="nofollow">"Archived copy"</a> <span class="cs1-format">(PDF)</span>. Archived from <a class="external text" href="http://sstsensing.com/sites/default/files/AN0117_4_CO2SensorAutoCalibrationNote.pdf" rel="nofollow">the original</a> <span class="cs1-format">(PDF)</span> on 2014-08-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-08-19</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fsstsensing.com%2Fsites%2Fdefault%2Ffiles%2FAN0117_4_CO2SensorAutoCalibrationNote.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+dioxide+sensor"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Archived copy as title (<a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">link</a>) </span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Arief-Ang, I.B.; Hamilton, M.; Salim, F. (2018-06-01). <a class="external text" href="https://www.sciencedirect.com/science/article/pii/S1574119217303930" rel="nofollow">"RUP: Large Room Utilisation Prediction with carbon dioxide sensor"</a>. <i>Pervasive and Mobile Computing</i>. <b>46</b>: 49–72. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.pmcj.2018.03.001" rel="nofollow">10.1016/j.pmcj.2018.03.001</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1873-1589" rel="nofollow">1873-1589</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pervasive+and+Mobile+Computing&amp;rft.atitle=RUP%3A+Large+Room+Utilisation+Prediction+with+carbon+dioxide+sensor&amp;rft.volume=46&amp;rft.pages=49-72&amp;rft.date=2018-06-01&amp;rft_id=info%3Adoi%2F10.1016%2Fj.pmcj.2018.03.001&amp;rft.issn=1873-1589&amp;rft.aulast=Arief-Ang&amp;rft.aufirst=I.B.&amp;rft.au=Hamilton%2C+M.&amp;rft.au=Salim%2C+F.&amp;rft_id=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1574119217303930&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+dioxide+sensor"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Arief-Ang, I.B.; Salim, F.D.; Hamilton, M. (2018-04-14). <a class="external text" href="https://link.springer.com/chapter/10.1007/978-981-13-0292-3_8" rel="nofollow"><i>Data Mining</i></a> [<i>SD-HOC: Seasonal Decomposition Algorithm for Mining Lagged Time Series</i>]. Springer, Singapore. pp. 125–143. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2F978-981-13-0292-3_8" rel="nofollow">10.1007/978-981-13-0292-3_8</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-981-13-0291-6" title="Special:BookSources/978-981-13-0291-6">978-981-13-0291-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Data+Mining&amp;rft.pages=125-143&amp;rft.pub=Springer%2C+Singapore&amp;rft.date=2018-04-14&amp;rft_id=info%3Adoi%2F10.1007%2F978-981-13-0292-3_8&amp;rft.isbn=978-981-13-0291-6&amp;rft.aulast=Arief-Ang&amp;rft.aufirst=I.B.&amp;rft.au=Salim%2C+F.D.&amp;rft.au=Hamilton%2C+M.&amp;rft_id=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-981-13-0292-3_8&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarbon+dioxide+sensor"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">KMC Controls. (2013). Demand Control Ventilation Benefits for Your Building. Retrieved 25 March 2013, from <a class="external free" href="http://www.kmccontrols.com/docs/DCV_Benefits_White_Paper_KMC_RevB.pdf" rel="nofollow">http://www.kmccontrols.com/docs/DCV_Benefits_White_Paper_KMC_RevB.pdf</a></span>
+</li>
+</ol></div>
+<div aria-labelledby="Sensors" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sensors" title="Template:Sensors"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sensors" title="Template talk:Sensors"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sensors&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Sensors" style="font-size:114%;margin:0 4em"><a href="/wiki/Sensor" title="Sensor">Sensors</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Acoustic, sound, vibration</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Geophone" title="Geophone">Geophone</a></li>
+<li><a href="/wiki/Hydrophone" title="Hydrophone">Hydrophone</a></li>
+<li><a href="/wiki/Microphone" title="Microphone">Microphone</a></li>
+<li><a href="/wiki/Seismometer" title="Seismometer">Seismometer</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Automotive, transportation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Air%E2%80%93fuel_ratio_meter" title="Air–fuel ratio meter">Air–fuel ratio meter</a></li>
+<li><a href="/wiki/Blind_spot_monitor" title="Blind spot monitor">Blind spot monitor</a></li>
+<li><a href="/wiki/Crankshaft_position_sensor" title="Crankshaft position sensor">Crankshaft position sensor</a></li>
+<li><a href="/wiki/Curb_feeler" title="Curb feeler">Curb feeler</a></li>
+<li><a href="/wiki/Defect_detector" title="Defect detector">Defect detector</a></li>
+<li><a class="mw-redirect" href="/wiki/Engine_coolant_temperature_sensor" title="Engine coolant temperature sensor">Engine coolant temperature sensor</a></li>
+<li><a href="/wiki/Hall_effect_sensor" title="Hall effect sensor">Hall effect sensor</a></li>
+<li><a href="/wiki/MAP_sensor" title="MAP sensor">MAP sensor</a></li>
+<li><a href="/wiki/Mass_flow_sensor" title="Mass flow sensor">Mass flow sensor</a></li>
+<li><a href="/wiki/Omniview_technology" title="Omniview technology">Omniview technology</a></li>
+<li><a href="/wiki/Oxygen_sensor" title="Oxygen sensor">Oxygen sensor</a></li>
+<li><a class="mw-redirect" href="/wiki/Parking_sensors" title="Parking sensors">Parking sensors</a></li>
+<li><a href="/wiki/Radar_gun" title="Radar gun">Radar gun</a></li>
+<li><a class="mw-redirect" href="/wiki/Speed_sensor" title="Speed sensor">Speed sensor</a></li>
+<li><a href="/wiki/Speedometer" title="Speedometer">Speedometer</a></li>
+<li><a href="/wiki/Throttle_position_sensor" title="Throttle position sensor">Throttle position sensor</a></li>
+<li><a href="/wiki/Tire-pressure_monitoring_system" title="Tire-pressure monitoring system">Tire-pressure monitoring system</a></li>
+<li><a href="/wiki/Torque_sensor" title="Torque sensor">Torque sensor</a></li>
+<li><a href="/wiki/Transmission_control_unit#Transmission_fluid_Temperature_sensor_(TFT)" title="Transmission control unit">Transmission fluid temperature sensor</a></li>
+<li><a href="/wiki/Transmission_control_unit#Turbine_speed_sensor_(TSS)" title="Transmission control unit">Turbine speed sensor</a></li>
+<li><a href="/wiki/Variable_reluctance_sensor" title="Variable reluctance sensor">Variable reluctance sensor</a></li>
+<li><a href="/wiki/Transmission_control_unit#Vehicle_speed_sensor_(VSS)" title="Transmission control unit">Vehicle speed sensor</a></li>
+<li><a href="/wiki/Water_sensor" title="Water sensor">Water sensor</a></li>
+<li><a href="/wiki/Wheel_speed_sensor" title="Wheel speed sensor">Wheel speed sensor</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Chemical</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Breathalyzer" title="Breathalyzer">Breathalyzer</a></li>
+<li><a class="mw-selflink selflink">Carbon dioxide sensor</a></li>
+<li><a href="/wiki/Carbon_monoxide_detector" title="Carbon monoxide detector">Carbon monoxide detector</a></li>
+<li><a href="/wiki/Catalytic_bead_sensor" title="Catalytic bead sensor">Catalytic bead sensor</a></li>
+<li><a href="/wiki/Chemical_field-effect_transistor" title="Chemical field-effect transistor">Chemical field-effect transistor</a></li>
+<li><a href="/wiki/Electrochemical_gas_sensor" title="Electrochemical gas sensor">Electrochemical gas sensor</a></li>
+<li><a href="/wiki/Electrolyte%E2%80%93insulator%E2%80%93semiconductor_sensor" title="Electrolyte–insulator–semiconductor sensor">Electrolyte–insulator–semiconductor sensor</a></li>
+<li><a href="/wiki/Electronic_nose" title="Electronic nose">Electronic nose</a></li>
+<li><a href="/wiki/Fluorescent_chloride_sensors" title="Fluorescent chloride sensors">Fluorescent chloride sensors</a></li>
+<li><a href="/wiki/Holographic_sensor" title="Holographic sensor">Holographic sensor</a></li>
+<li><a href="/wiki/Hydrocarbon_dew_point" title="Hydrocarbon dew point">Hydrocarbon dew point</a> analyzer</li>
+<li><a href="/wiki/Hydrogen_sensor" title="Hydrogen sensor">Hydrogen sensor</a></li>
+<li><a href="/wiki/Hydrogen_sulfide_sensor" title="Hydrogen sulfide sensor">Hydrogen sulfide sensor</a></li>
+<li><a href="/wiki/Infrared_point_sensor" title="Infrared point sensor">Infrared point sensor</a></li>
+<li><a href="/wiki/Ion_selective_electrode" title="Ion selective electrode">Ion selective electrode</a></li>
+<li><a href="/wiki/Microwave_chemistry_sensor" title="Microwave chemistry sensor">Microwave chemistry sensor</a></li>
+<li><a href="/wiki/Nitrogen_oxide_sensor" title="Nitrogen oxide sensor">Nitrogen oxide sensor</a></li>
+<li><a href="/wiki/Nondispersive_infrared_sensor" title="Nondispersive infrared sensor">Nondispersive infrared sensor</a></li>
+<li><a href="/wiki/Olfactometer" title="Olfactometer">Olfactometer</a></li>
+<li><a href="/wiki/Optode" title="Optode">Optode</a></li>
+<li><a href="/wiki/Oxygen_sensor" title="Oxygen sensor">Oxygen sensor</a></li>
+<li><a href="/wiki/Pellistor" title="Pellistor">Pellistor</a></li>
+<li><a class="mw-redirect" href="/wiki/PH_glass_electrode" title="PH glass electrode">pH glass electrode</a></li>
+<li><a href="/wiki/Potentiometric_sensor" title="Potentiometric sensor">Potentiometric sensor</a></li>
+<li><a class="mw-redirect" href="/wiki/Redox_electrode" title="Redox electrode">Redox electrode</a></li>
+<li><a href="/wiki/Smoke_detector" title="Smoke detector">Smoke detector</a></li>
+<li><a href="/wiki/Zinc_oxide_nanorod_sensor" title="Zinc oxide nanorod sensor">Zinc oxide nanorod sensor</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Electric, magnetic, radio</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Current_sensor" title="Current sensor">Current sensor</a></li>
+<li><a href="/wiki/Electroscope" title="Electroscope">Electroscope</a></li>
+<li><a href="/wiki/Galvanometer" title="Galvanometer">Galvanometer</a></li>
+<li><a href="/wiki/Hall_effect_sensor" title="Hall effect sensor">Hall effect sensor</a></li>
+<li><a class="mw-redirect" href="/wiki/Hall_probe" title="Hall probe">Hall probe</a></li>
+<li><a href="/wiki/Magnetic_anomaly_detector" title="Magnetic anomaly detector">Magnetic anomaly detector</a></li>
+<li><a href="/wiki/Magnetometer" title="Magnetometer">Magnetometer</a></li>
+<li><a href="/wiki/MEMS_magnetic_field_sensor" title="MEMS magnetic field sensor">MEMS magnetic field sensor</a></li>
+<li><a href="/wiki/Metal_detector" title="Metal detector">Metal detector</a></li>
+<li><a href="/wiki/Planar_Hall_sensor" title="Planar Hall sensor">Planar Hall sensor</a></li>
+<li><a href="/wiki/Radio_direction_finder" title="Radio direction finder">Radio direction finder</a></li>
+<li><a href="/wiki/Test_light" title="Test light">Test light</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Environment, weather,<br/> moisture</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Actinometer" title="Actinometer">Actinometer</a></li>
+<li><a href="/wiki/Bedwetting_alarm" title="Bedwetting alarm">Bedwetting alarm</a></li>
+<li><a href="/wiki/Ceilometer" title="Ceilometer">Ceilometer</a></li>
+<li><a href="/wiki/Dew_warning" title="Dew warning">Dew warning</a></li>
+<li><a href="/wiki/Electrochemical_gas_sensor" title="Electrochemical gas sensor">Electrochemical gas sensor</a></li>
+<li><a href="/wiki/Fish_counter" title="Fish counter">Fish counter</a></li>
+<li><a href="/wiki/Frequency_domain_sensor" title="Frequency domain sensor">Frequency domain sensor</a></li>
+<li><a href="/wiki/Gas_detector" title="Gas detector">Gas detector</a></li>
+<li><a href="/wiki/Hook_gauge_evaporimeter" title="Hook gauge evaporimeter">Hook gauge evaporimeter</a></li>
+<li><a href="/wiki/Humistor" title="Humistor">Humistor</a></li>
+<li><a href="/wiki/Hygrometer" title="Hygrometer">Hygrometer</a></li>
+<li><a href="/wiki/Leaf_sensor" title="Leaf sensor">Leaf sensor</a></li>
+<li><a class="mw-redirect" href="/wiki/Psychrometer" title="Psychrometer">Psychrometer</a></li>
+<li><a href="/wiki/Pyranometer" title="Pyranometer">Pyranometer</a></li>
+<li><a href="/wiki/Pyrgeometer" title="Pyrgeometer">Pyrgeometer</a></li>
+<li><a href="/wiki/Rain_gauge" title="Rain gauge">Rain gauge</a></li>
+<li><a href="/wiki/Rain_sensor" title="Rain sensor">Rain sensor</a></li>
+<li><a href="/wiki/SNOTEL" title="SNOTEL">SNOTEL</a></li>
+<li><a href="/wiki/Snow_gauge" title="Snow gauge">Snow gauge</a></li>
+<li><a href="/wiki/Soil_moisture_sensor" title="Soil moisture sensor">Soil moisture sensor</a></li>
+<li><a href="/wiki/Stream_gauge" title="Stream gauge">Stream gauge</a></li>
+<li><a href="/wiki/Tide_gauge" title="Tide gauge">Tide gauge</a></li>
+<li><a href="/wiki/Weather_radar" title="Weather radar">Weather radar</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Flow, fluid velocity</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Air_flow_meter" title="Air flow meter">Air flow meter</a></li>
+<li><a href="/wiki/Anemometer" title="Anemometer">Anemometer</a></li>
+<li><a class="mw-redirect" href="/wiki/Flow_sensor" title="Flow sensor">Flow sensor</a></li>
+<li><a href="/wiki/Gas_meter" title="Gas meter">Gas meter</a></li>
+<li><a href="/wiki/Mass_flow_sensor" title="Mass flow sensor">Mass flow sensor</a></li>
+<li><a href="/wiki/Water_metering" title="Water metering">Water metering</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Ionising radiation,<br/> subatomic particles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bubble_chamber" title="Bubble chamber">Bubble chamber</a></li>
+<li><a href="/wiki/Cloud_chamber" title="Cloud chamber">Cloud chamber</a></li>
+<li><a href="/wiki/Geiger%E2%80%93M%C3%BCller_tube" title="Geiger–Müller tube">Geiger–Müller tube</a></li>
+<li><a href="/wiki/Geiger_counter" title="Geiger counter">Geiger counter</a></li>
+<li><a href="/wiki/Ionization_chamber" title="Ionization chamber">Ionization chamber</a></li>
+<li><a href="/wiki/Neutron_detection" title="Neutron detection">Neutron detection</a></li>
+<li><a href="/wiki/Particle_detector" title="Particle detector">Particle detector</a></li>
+<li><a href="/wiki/Proportional_counter" title="Proportional counter">Proportional counter</a></li>
+<li><a href="/wiki/Scintillation_counter" title="Scintillation counter">Scintillation counter</a></li>
+<li><a href="/wiki/Semiconductor_detector" title="Semiconductor detector">Semiconductor detector</a></li>
+<li><a href="/wiki/Scintillator" title="Scintillator">Scintillator</a></li>
+<li><a href="/wiki/Thermoluminescent_dosimeter" title="Thermoluminescent dosimeter">Thermoluminescent dosimeter</a></li>
+<li><a href="/wiki/Wire_chamber" title="Wire chamber">Wire chamber</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Navigation instruments</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Airspeed_indicator" title="Airspeed indicator">Airspeed indicator</a></li>
+<li><a href="/wiki/Machmeter" title="Machmeter">Machmeter</a></li>
+<li><a href="/wiki/Altimeter" title="Altimeter">Altimeter</a></li>
+<li><a href="/wiki/Attitude_indicator" title="Attitude indicator">Attitude indicator</a></li>
+<li><a href="/wiki/Depth_gauge" title="Depth gauge">Depth gauge</a></li>
+<li><a href="/wiki/Fluxgate_compass" title="Fluxgate compass">Fluxgate compass</a></li>
+<li><a href="/wiki/Gyroscope" title="Gyroscope">Gyroscope</a></li>
+<li><a href="/wiki/Inertial_navigation_system" title="Inertial navigation system">Inertial navigation system</a></li>
+<li><a href="/wiki/Inertial_reference_unit" title="Inertial reference unit">Inertial reference unit</a></li>
+<li><a class="mw-redirect" href="/wiki/Magnetic_compass" title="Magnetic compass">Magnetic compass</a></li>
+<li><a class="mw-redirect" href="/wiki/MHD_sensor" title="MHD sensor">MHD sensor</a></li>
+<li><a href="/wiki/Ring_laser_gyroscope" title="Ring laser gyroscope">Ring laser gyroscope</a></li>
+<li><a class="mw-redirect" href="/wiki/Turn_coordinator" title="Turn coordinator">Turn coordinator</a></li>
+<li><a href="/wiki/Variometer" title="Variometer">Variometer</a></li>
+<li><a href="/wiki/Vibrating_structure_gyroscope" title="Vibrating structure gyroscope">Vibrating structure gyroscope</a></li>
+<li><a href="/wiki/Yaw-rate_sensor" title="Yaw-rate sensor">Yaw-rate sensor</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Position, angle,<br/> displacement</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Accelerometer" title="Accelerometer">Accelerometer</a></li>
+<li><a href="/wiki/Angular_rate_sensor" title="Angular rate sensor">Angular rate sensor</a></li>
+<li><a href="/wiki/Auxanometer" title="Auxanometer">Auxanometer</a></li>
+<li><a href="/wiki/Capacitive_displacement_sensor" title="Capacitive displacement sensor">Capacitive displacement sensor</a></li>
+<li><a href="/wiki/Capacitive_sensing" title="Capacitive sensing">Capacitive sensing</a></li>
+<li><a href="/wiki/Gravimeter" title="Gravimeter">Gravimeter</a></li>
+<li><a href="/wiki/Inclinometer" title="Inclinometer">Inclinometer</a></li>
+<li><a class="mw-redirect" href="/wiki/Integrated_circuit_piezoelectric_sensor" title="Integrated circuit piezoelectric sensor">Integrated circuit piezoelectric sensor</a></li>
+<li><a href="/wiki/Laser_rangefinder" title="Laser rangefinder">Laser rangefinder</a></li>
+<li><a href="/wiki/Laser_surface_velocimeter" title="Laser surface velocimeter">Laser surface velocimeter</a></li>
+<li><a href="/wiki/Lidar" title="Lidar">Lidar</a></li>
+<li><a href="/wiki/Linear_encoder" title="Linear encoder">Linear encoder</a></li>
+<li><a href="/wiki/Linear_variable_differential_transformer" title="Linear variable differential transformer">Linear variable differential transformer</a></li>
+<li><a href="/wiki/Liquid_capacitive_inclinometers" title="Liquid capacitive inclinometers">Liquid capacitive inclinometers</a></li>
+<li><a href="/wiki/Odometer" title="Odometer">Odometer</a></li>
+<li><a href="/wiki/Photoelectric_sensor" title="Photoelectric sensor">Photoelectric sensor</a></li>
+<li><a href="/wiki/Piezoelectric_accelerometer" title="Piezoelectric accelerometer">Piezoelectric accelerometer</a></li>
+<li><a href="/wiki/Position_sensor" title="Position sensor">Position sensor</a></li>
+<li><a href="/wiki/Rotary_encoder" title="Rotary encoder">Rotary encoder</a></li>
+<li><a href="/wiki/Rotary_variable_differential_transformer" title="Rotary variable differential transformer">Rotary variable differential transformer</a></li>
+<li><a class="mw-redirect" href="/wiki/Selsyn" title="Selsyn">Selsyn</a></li>
+<li><a href="/wiki/Sudden_Motion_Sensor" title="Sudden Motion Sensor">Sudden Motion Sensor</a></li>
+<li><a href="/wiki/Tachometer" title="Tachometer">Tachometer</a></li>
+<li><a class="mw-redirect" href="/wiki/Tilt_sensor" title="Tilt sensor">Tilt sensor</a></li>
+<li><a href="/wiki/Ultrasonic_thickness_gauge" title="Ultrasonic thickness gauge">Ultrasonic thickness gauge</a></li>
+<li><a href="/wiki/Variable_reluctance_sensor" title="Variable reluctance sensor">Variable reluctance sensor</a></li>
+<li><a href="/wiki/Velocity_receiver" title="Velocity receiver">Velocity receiver</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Optical, light, imaging</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Active_pixel_sensor" title="Active pixel sensor">Active pixel sensor</a></li>
+<li><a href="/wiki/Angle%E2%80%93sensitive_pixel" title="Angle–sensitive pixel">Angle–sensitive pixel</a></li>
+<li><a href="/wiki/Back-illuminated_sensor" title="Back-illuminated sensor">Back-illuminated sensor</a></li>
+<li><a href="/wiki/Charge-coupled_device" title="Charge-coupled device">Charge-coupled device</a></li>
+<li><a href="/wiki/Contact_image_sensor" title="Contact image sensor">Contact image sensor</a></li>
+<li><a href="/wiki/Electro-optical_sensor" title="Electro-optical sensor">Electro-optical sensor</a></li>
+<li><a href="/wiki/Flame_detector" title="Flame detector">Flame detector</a></li>
+<li><a href="/wiki/Infrared" title="Infrared">Infrared</a></li>
+<li><a href="/wiki/Kinetic_inductance_detector" title="Kinetic inductance detector">Kinetic inductance detector</a></li>
+<li><a class="mw-redirect" href="/wiki/LED_as_light_sensor" title="LED as light sensor">LED as light sensor</a></li>
+<li><a href="/wiki/Light-addressable_potentiometric_sensor" title="Light-addressable potentiometric sensor">Light-addressable potentiometric sensor</a></li>
+<li><a href="/wiki/Nichols_radiometer" title="Nichols radiometer">Nichols radiometer</a></li>
+<li><a href="/wiki/Optical_fiber" title="Optical fiber">Optical fiber</a></li>
+<li><a href="/wiki/Photodetector" title="Photodetector">Photodetector</a></li>
+<li><a href="/wiki/Photodiode" title="Photodiode">Photodiode</a></li>
+<li><a href="/wiki/Photoelectric_sensor" title="Photoelectric sensor">Photoelectric sensor</a></li>
+<li><a href="/wiki/Photoionization_detector" title="Photoionization detector">Photoionization detector</a></li>
+<li><a href="/wiki/Photomultiplier" title="Photomultiplier">Photomultiplier</a></li>
+<li><a href="/wiki/Photoresistor" title="Photoresistor">Photoresistor</a></li>
+<li><a href="/wiki/Photoswitch" title="Photoswitch">Photoswitch</a></li>
+<li><a class="mw-redirect" href="/wiki/Phototransistor" title="Phototransistor">Phototransistor</a></li>
+<li><a href="/wiki/Phototube" title="Phototube">Phototube</a></li>
+<li><a href="/wiki/Position_sensitive_device" title="Position sensitive device">Position sensitive device</a></li>
+<li><a href="/wiki/Scintillometer" title="Scintillometer">Scintillometer</a></li>
+<li><a href="/wiki/Shack%E2%80%93Hartmann_wavefront_sensor" title="Shack–Hartmann wavefront sensor">Shack–Hartmann wavefront sensor</a></li>
+<li><a href="/wiki/Single-photon_avalanche_diode" title="Single-photon avalanche diode">Single-photon avalanche diode</a></li>
+<li><a href="/wiki/Superconducting_nanowire_single-photon_detector" title="Superconducting nanowire single-photon detector">Superconducting nanowire single-photon detector</a></li>
+<li><a class="mw-redirect" href="/wiki/Transition_edge_sensor" title="Transition edge sensor">Transition edge sensor</a></li>
+<li><a href="/wiki/Tristimulus_colorimeter" title="Tristimulus colorimeter">Tristimulus colorimeter</a></li>
+<li><a href="/wiki/Visible-light_photon_counter" title="Visible-light photon counter">Visible-light photon counter</a></li>
+<li><a href="/wiki/Wavefront_sensor" title="Wavefront sensor">Wavefront sensor</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Pressure</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barograph" title="Barograph">Barograph</a></li>
+<li><a href="/wiki/Barometer" title="Barometer">Barometer</a></li>
+<li><a href="/wiki/Boost_gauge" title="Boost gauge">Boost gauge</a></li>
+<li><a class="mw-redirect" href="/wiki/Bourdon_gauge" title="Bourdon gauge">Bourdon gauge</a></li>
+<li><a href="/wiki/Hot-filament_ionization_gauge" title="Hot-filament ionization gauge">Hot-filament ionization gauge</a></li>
+<li><a class="mw-redirect" href="/wiki/Ionization_gauge" title="Ionization gauge">Ionization gauge</a></li>
+<li><a href="/wiki/McLeod_gauge" title="McLeod gauge">McLeod gauge</a></li>
+<li><a href="/wiki/Oscillating_U-tube" title="Oscillating U-tube">Oscillating U-tube</a></li>
+<li><a class="mw-redirect" href="/wiki/Permanent_Downhole_Gauge" title="Permanent Downhole Gauge">Permanent Downhole Gauge</a></li>
+<li><a href="/wiki/Piezometer" title="Piezometer">Piezometer</a></li>
+<li><a href="/wiki/Pirani_gauge" title="Pirani gauge">Pirani gauge</a></li>
+<li><a class="mw-redirect" href="/wiki/Pressure_gauge" title="Pressure gauge">Pressure gauge</a></li>
+<li><a href="/wiki/Pressure_sensor" title="Pressure sensor">Pressure sensor</a></li>
+<li><a href="/wiki/Tactile_sensor" title="Tactile sensor">Tactile sensor</a></li>
+<li><a href="/wiki/Time_pressure_gauge" title="Time pressure gauge">Time pressure gauge</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Force, density, level</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bhangmeter" title="Bhangmeter">Bhangmeter</a></li>
+<li><a href="/wiki/Force_gauge" title="Force gauge">Force gauge</a></li>
+<li><a href="/wiki/Hydrometer" title="Hydrometer">Hydrometer</a></li>
+<li><a href="/wiki/Level_sensor" title="Level sensor">Level sensor</a></li>
+<li><a href="/wiki/Load_cell" title="Load cell">Load cell</a></li>
+<li><a href="/wiki/Magnetic_level_gauge" title="Magnetic level gauge">Magnetic level gauge</a></li>
+<li><a href="/wiki/Nuclear_density_gauge" title="Nuclear density gauge">Nuclear density gauge</a></li>
+<li><a href="/wiki/Piezoelectric_sensor" title="Piezoelectric sensor">Piezoelectric sensor</a></li>
+<li><a href="/wiki/Strain_gauge" title="Strain gauge">Strain gauge</a></li>
+<li><a href="/wiki/Torque_sensor" title="Torque sensor">Torque sensor</a></li>
+<li><a href="/wiki/Viscometer" title="Viscometer">Viscometer</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Thermal, heat,<br/> temperature</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bimetallic_strip" title="Bimetallic strip">Bimetallic strip</a></li>
+<li><a href="/wiki/Bolometer" title="Bolometer">Bolometer</a></li>
+<li><a href="/wiki/Calorimeter" title="Calorimeter">Calorimeter</a></li>
+<li><a href="/wiki/Exhaust_gas_temperature_gauge" title="Exhaust gas temperature gauge">Exhaust gas temperature gauge</a></li>
+<li><a class="mw-redirect" href="/wiki/Flame_detection" title="Flame detection">Flame detection</a></li>
+<li><a href="/wiki/Gardon_gauge" title="Gardon gauge">Gardon gauge</a></li>
+<li><a href="/wiki/Golay_cell" title="Golay cell">Golay cell</a></li>
+<li><a href="/wiki/Heat_flux_sensor" title="Heat flux sensor">Heat flux sensor</a></li>
+<li><a href="/wiki/Infrared_thermometer" title="Infrared thermometer">Infrared thermometer</a></li>
+<li><a href="/wiki/Microbolometer" title="Microbolometer">Microbolometer</a></li>
+<li><a href="/wiki/Microwave_radiometer" title="Microwave radiometer">Microwave radiometer</a></li>
+<li><a href="/wiki/Net_radiometer" title="Net radiometer">Net radiometer</a></li>
+<li><a href="/wiki/Quartz_thermometer" title="Quartz thermometer">Quartz thermometer</a></li>
+<li><a href="/wiki/Resistance_thermometer" title="Resistance thermometer">Resistance thermometer</a></li>
+<li><a href="/wiki/Silicon_bandgap_temperature_sensor" title="Silicon bandgap temperature sensor">Silicon bandgap temperature sensor</a></li>
+<li><a href="/wiki/Special_sensor_microwave/imager" title="Special sensor microwave/imager">Special sensor microwave/imager</a></li>
+<li><a href="/wiki/Thermistor" title="Thermistor">Thermistor</a></li>
+<li><a href="/wiki/Thermocouple" title="Thermocouple">Thermocouple</a></li>
+<li><a href="/wiki/Thermometer" title="Thermometer">Thermometer</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Proximity, presence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alarm_sensor" title="Alarm sensor">Alarm sensor</a></li>
+<li><a href="/wiki/Doppler_radar" title="Doppler radar">Doppler radar</a></li>
+<li><a href="/wiki/Motion_detector" title="Motion detector">Motion detector</a></li>
+<li><a href="/wiki/Occupancy_sensor" title="Occupancy sensor">Occupancy sensor</a></li>
+<li><a href="/wiki/Passive_infrared_sensor" title="Passive infrared sensor">Passive infrared sensor</a></li>
+<li><a href="/wiki/Proximity_sensor" title="Proximity sensor">Proximity sensor</a></li>
+<li><a href="/wiki/Reed_switch" title="Reed switch">Reed switch</a></li>
+<li><a href="/wiki/Stud_finder" title="Stud finder">Stud finder</a></li>
+<li><a href="/wiki/Touch_switch" title="Touch switch">Touch switch</a></li>
+<li><a href="/wiki/Triangulation_sensor" title="Triangulation sensor">Triangulation sensor</a></li>
+<li><a href="/wiki/Wired_glove" title="Wired glove">Wired glove</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Sensor technology</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Active_pixel_sensor" title="Active pixel sensor">Active pixel sensor</a></li>
+<li><a href="/wiki/Back-illuminated_sensor" title="Back-illuminated sensor">Back-illuminated sensor</a></li>
+<li><a href="/wiki/Biochip" title="Biochip">Biochip</a></li>
+<li><a href="/wiki/Biosensor" title="Biosensor">Biosensor</a></li>
+<li><a href="/wiki/Capacitance_probe" title="Capacitance probe">Capacitance probe</a></li>
+<li><a href="/wiki/Carbon_paste_electrode" title="Carbon paste electrode">Carbon paste electrode</a></li>
+<li><a href="/wiki/Catadioptric_sensor" title="Catadioptric sensor">Catadioptric sensor</a></li>
+<li><a class="mw-redirect" href="/wiki/Digital_sensors" title="Digital sensors">Digital sensors</a></li>
+<li><a href="/wiki/Displacement_receiver" title="Displacement receiver">Displacement receiver</a></li>
+<li><a href="/wiki/Electromechanical_film" title="Electromechanical film">Electromechanical film</a></li>
+<li><a href="/wiki/Electro-optical_sensor" title="Electro-optical sensor">Electro-optical sensor</a></li>
+<li><a href="/wiki/Fabry%E2%80%93P%C3%A9rot_interferometer" title="Fabry–Pérot interferometer">Fabry–Pérot interferometer</a></li>
+<li><a href="/wiki/Fisheries_acoustics" title="Fisheries acoustics">Fisheries acoustics</a></li>
+<li><a href="/wiki/Image_sensor" title="Image sensor">Image sensor</a></li>
+<li><a href="/wiki/Image_sensor_format" title="Image sensor format">Image sensor format</a></li>
+<li><a href="/wiki/Inductive_sensor" title="Inductive sensor">Inductive sensor</a></li>
+<li><a href="/wiki/Intelligent_sensor" title="Intelligent sensor">Intelligent sensor</a></li>
+<li><a href="/wiki/Lab-on-a-chip" title="Lab-on-a-chip">Lab-on-a-chip</a></li>
+<li><a href="/wiki/Leaf_sensor" title="Leaf sensor">Leaf sensor</a></li>
+<li><a href="/wiki/Machine_vision" title="Machine vision">Machine vision</a></li>
+<li><a href="/wiki/Microelectromechanical_systems" title="Microelectromechanical systems">Microelectromechanical systems</a></li>
+<li><a href="/wiki/Photoelasticity" title="Photoelasticity">Photoelasticity</a></li>
+<li><a href="/wiki/Quantum_sensor" title="Quantum sensor">Quantum sensor</a></li>
+<li><a href="/wiki/Radar" title="Radar">Radar</a>
+<ul><li><a href="/wiki/Ground-penetrating_radar" title="Ground-penetrating radar">Ground-penetrating radar</a></li>
+<li><a class="mw-redirect" href="/wiki/Synthetic_aperture_radar" title="Synthetic aperture radar">Synthetic aperture radar</a></li></ul></li>
+<li><a href="/wiki/Radar_tracker" title="Radar tracker">Radar tracker</a></li>
+<li><a href="/wiki/Sensor_array" title="Sensor array">Sensor array</a></li>
+<li><a href="/wiki/Sensor_fusion" title="Sensor fusion">Sensor fusion</a></li>
+<li><a href="/wiki/Sensor_grid" title="Sensor grid">Sensor grid</a></li>
+<li><a href="/wiki/Sensor_node" title="Sensor node">Sensor node</a></li>
+<li><a href="/wiki/Soft_sensor" title="Soft sensor">Soft sensor</a></li>
+<li><a href="/wiki/Sonar" title="Sonar">Sonar</a></li>
+<li><a href="/wiki/Staring_array" title="Staring array">Staring array</a></li>
+<li><a href="/wiki/Transducer" title="Transducer">Transducer</a></li>
+<li><a class="mw-redirect" href="/wiki/Ultrasonic_sensor" title="Ultrasonic sensor">Ultrasonic sensor</a></li>
+<li><a href="/wiki/Video_sensor_technology" title="Video sensor technology">Video sensor technology</a></li>
+<li><a href="/wiki/Visual_sensor_network" title="Visual sensor network">Visual sensor network</a></li>
+<li><a href="/wiki/Wheatstone_bridge" title="Wheatstone bridge">Wheatstone bridge</a></li>
+<li><a href="/wiki/Wireless_sensor_network" title="Wireless sensor network">Wireless sensor network</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_sensors" title="List of sensors">List of sensors</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Heating,_ventilation_and_air_conditioning" class="navbox" role="navigation" style="vertical-align: middle;;padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:HVAC" title="Template:HVAC"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:HVAC" title="Template talk:HVAC"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:HVAC&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Heating,_ventilation_and_air_conditioning" style="font-size:114%;margin:0 4em"><a href="/wiki/HVAC" title="HVAC">Heating, ventilation and air conditioning</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Fundamental concepts</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Air_changes_per_hour" title="Air changes per hour">Air changes per hour</a></li>
+<li><a href="/wiki/Bake-out" title="Bake-out">Bake-out</a></li>
+<li><a href="/wiki/Building_envelope" title="Building envelope">Building envelope</a></li>
+<li><a href="/wiki/Convection" title="Convection">Convection</a></li>
+<li><a href="/wiki/Dilution_(equation)" title="Dilution (equation)">Dilution</a></li>
+<li><a href="/wiki/Domestic_energy_consumption" title="Domestic energy consumption">Domestic energy consumption</a></li>
+<li><a href="/wiki/Enthalpy" title="Enthalpy">Enthalpy</a></li>
+<li><a href="/wiki/Fluid_dynamics" title="Fluid dynamics">Fluid dynamics</a></li>
+<li><a class="mw-redirect" href="/wiki/Gas_compressor" title="Gas compressor">Gas compressor</a></li>
+<li><a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">Heat pump and refrigeration cycle</a></li>
+<li><a href="/wiki/Heat_transfer" title="Heat transfer">Heat transfer</a></li>
+<li><a href="/wiki/Humidity" title="Humidity">Humidity</a></li>
+<li><a href="/wiki/Infiltration_(HVAC)" title="Infiltration (HVAC)">Infiltration</a></li>
+<li><a href="/wiki/Latent_heat" title="Latent heat">Latent heat</a></li>
+<li><a href="/wiki/Noise_control" title="Noise control">Noise control</a></li>
+<li><a href="/wiki/Outgassing" title="Outgassing">Outgassing</a></li>
+<li><a href="/wiki/Particulates" title="Particulates">Particulates</a></li>
+<li><a href="/wiki/Psychrometrics" title="Psychrometrics">Psychrometrics</a></li>
+<li><a href="/wiki/Sensible_heat" title="Sensible heat">Sensible heat</a></li>
+<li><a href="/wiki/Stack_effect" title="Stack effect">Stack effect</a></li>
+<li><a href="/wiki/Thermal_comfort" title="Thermal comfort">Thermal comfort</a></li>
+<li><a href="/wiki/Thermal_destratification" title="Thermal destratification">Thermal destratification</a></li>
+<li><a href="/wiki/Thermal_mass" title="Thermal mass">Thermal mass</a></li>
+<li><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/Vapour_pressure_of_water" title="Vapour pressure of water">Vapour pressure of water</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Technology</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Absorption_refrigerator" title="Absorption refrigerator">Absorption refrigerator</a></li>
+<li><a href="/wiki/Air_barrier" title="Air barrier">Air barrier</a></li>
+<li><a href="/wiki/Air_conditioning" title="Air conditioning">Air conditioning</a></li>
+<li><a href="/wiki/Antifreeze" title="Antifreeze">Antifreeze</a></li>
+<li><a href="/wiki/Automobile_air_conditioning" title="Automobile air conditioning">Automobile air conditioning</a></li>
+<li><a href="/wiki/Autonomous_building" title="Autonomous building">Autonomous building</a></li>
+<li><a href="/wiki/Building_insulation_materials" title="Building insulation materials">Building insulation materials</a></li>
+<li><a href="/wiki/Central_heating" title="Central heating">Central heating</a></li>
+<li><a href="/wiki/Central_solar_heating" title="Central solar heating">Central solar heating</a></li>
+<li><a href="/wiki/Chilled_beam" title="Chilled beam">Chilled beam</a></li>
+<li><a href="/wiki/Chilled_water" title="Chilled water">Chilled water</a></li>
+<li><a href="/wiki/Constant_air_volume" title="Constant air volume">Constant air volume</a> (CAV)</li>
+<li><a href="/wiki/Coolant" title="Coolant">Coolant</a></li>
+<li><a href="/wiki/Dedicated_outdoor_air_system" title="Dedicated outdoor air system">Dedicated outdoor air system</a> (DOAS)</li>
+<li><a href="/wiki/Deep_water_source_cooling" title="Deep water source cooling">Deep water source cooling</a></li>
+<li><a class="mw-redirect" href="/wiki/Demand-controlled_ventilation" title="Demand-controlled ventilation">Demand-controlled ventilation</a> (DCV)</li>
+<li><a href="/wiki/Displacement_ventilation" title="Displacement ventilation">Displacement ventilation</a></li>
+<li><a href="/wiki/District_cooling" title="District cooling">District cooling</a></li>
+<li><a href="/wiki/District_heating" title="District heating">District heating</a></li>
+<li><a href="/wiki/Electric_heating" title="Electric heating">Electric heating</a></li>
+<li><a href="/wiki/Energy_recovery_ventilation" title="Energy recovery ventilation">Energy recovery ventilation</a> (ERV)</li>
+<li><a href="/wiki/Firestop" title="Firestop">Firestop</a></li>
+<li><a href="/wiki/Forced-air" title="Forced-air">Forced-air</a></li>
+<li><a href="/wiki/Forced-air_gas" title="Forced-air gas">Forced-air gas</a></li>
+<li><a href="/wiki/Free_cooling" title="Free cooling">Free cooling</a></li>
+<li><a href="/wiki/Heat_recovery_ventilation" title="Heat recovery ventilation">Heat recovery ventilation</a> (HRV)</li>
+<li><a href="/wiki/Hybrid_heat" title="Hybrid heat">Hybrid heat</a></li>
+<li><a href="/wiki/Hydronics" title="Hydronics">Hydronics</a></li>
+<li><a href="/wiki/HVAC" title="HVAC">HVAC</a></li>
+<li><a href="/wiki/Ice_storage_air_conditioning" title="Ice storage air conditioning">Ice storage air conditioning</a></li>
+<li><a href="/wiki/Kitchen_ventilation" title="Kitchen ventilation">Kitchen ventilation</a></li>
+<li><a href="/wiki/Mixed-mode_ventilation" title="Mixed-mode ventilation">Mixed-mode ventilation</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Natural_ventilation" title="Natural ventilation">Natural ventilation</a></li>
+<li><a href="/wiki/Passive_cooling" title="Passive cooling">Passive cooling</a></li>
+<li><a href="/wiki/Passive_house" title="Passive house">Passive house</a></li>
+<li><a href="/wiki/Radiant_heating_and_cooling_system" title="Radiant heating and cooling system">Radiant heating and cooling system</a></li>
+<li><a href="/wiki/Radiant_cooling" title="Radiant cooling">Radiant cooling</a></li>
+<li><a href="/wiki/Radiant_heating" title="Radiant heating">Radiant heating</a></li>
+<li><a href="/wiki/Radon_mitigation" title="Radon mitigation">Radon mitigation</a></li>
+<li><a href="/wiki/Refrigeration" title="Refrigeration">Refrigeration</a></li>
+<li><a href="/wiki/Renewable_heat" title="Renewable heat">Renewable heat</a></li>
+<li><a href="/wiki/Room_air_distribution" title="Room air distribution">Room air distribution</a></li>
+<li><a href="/wiki/Solar_air_heat" title="Solar air heat">Solar air heat</a></li>
+<li><a href="/wiki/Solar_combisystem" title="Solar combisystem">Solar combisystem</a></li>
+<li><a class="mw-redirect" href="/wiki/Solar_cooling" title="Solar cooling">Solar cooling</a></li>
+<li><a class="mw-redirect" href="/wiki/Solar_heating" title="Solar heating">Solar heating</a></li>
+<li><a href="/wiki/Thermal_insulation" title="Thermal insulation">Thermal insulation</a></li>
+<li><a href="/wiki/Underfloor_air_distribution" title="Underfloor air distribution">Underfloor air distribution</a></li>
+<li><a href="/wiki/Underfloor_heating" title="Underfloor heating">Underfloor heating</a></li>
+<li><a href="/wiki/Vapor_barrier" title="Vapor barrier">Vapor barrier</a></li>
+<li><a href="/wiki/Vapor-compression_refrigeration" title="Vapor-compression refrigeration">Vapor-compression refrigeration</a> (VCRS)</li>
+<li><a href="/wiki/Variable_air_volume" title="Variable air volume">Variable air volume</a> (VAV)</li>
+<li><a href="/wiki/Variable_refrigerant_flow" title="Variable refrigerant flow">Variable refrigerant flow</a> (VRF)</li>
+<li><a href="/wiki/Ventilation_(architecture)" title="Ventilation (architecture)">Ventilation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Components</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Air_conditioner_inverter" title="Air conditioner inverter">Air conditioner inverter</a></li>
+<li><a href="/wiki/Air_door" title="Air door">Air door</a></li>
+<li><a href="/wiki/Air_filter" title="Air filter">Air filter</a></li>
+<li><a href="/wiki/Air_handler" title="Air handler">Air handler</a></li>
+<li><a href="/wiki/Air_ioniser" title="Air ioniser">Air ionizer</a></li>
+<li><a href="/wiki/Air-mixing_plenum" title="Air-mixing plenum">Air-mixing plenum</a></li>
+<li><a href="/wiki/Air_purifier" title="Air purifier">Air purifier</a></li>
+<li><a href="/wiki/Air_source_heat_pumps" title="Air source heat pumps">Air source heat pumps</a></li>
+<li><a href="/wiki/Automatic_balancing_valve" title="Automatic balancing valve">Automatic balancing valve</a></li>
+<li><a href="/wiki/Back_boiler" title="Back boiler">Back boiler</a></li>
+<li><a href="/wiki/Barrier_pipe" title="Barrier pipe">Barrier pipe</a></li>
+<li><a href="/wiki/Blast_damper" title="Blast damper">Blast damper</a></li>
+<li><a href="/wiki/Boiler" title="Boiler">Boiler</a></li>
+<li><a href="/wiki/Centrifugal_fan" title="Centrifugal fan">Centrifugal fan</a></li>
+<li><a href="/wiki/Chiller" title="Chiller">Chiller</a></li>
+<li><a href="/wiki/Condensate_pump" title="Condensate pump">Condensate pump</a></li>
+<li><a href="/wiki/Condenser_(heat_transfer)" title="Condenser (heat transfer)">Condenser</a></li>
+<li><a href="/wiki/Condensing_boiler" title="Condensing boiler">Condensing boiler</a></li>
+<li><a href="/wiki/Convection_heater" title="Convection heater">Convection heater</a></li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Damper_(flow)" title="Damper (flow)">Damper</a></li>
+<li><a href="/wiki/Dehumidifier" title="Dehumidifier">Dehumidifier</a></li>
+<li><a href="/wiki/Duct_(flow)" title="Duct (flow)">Duct</a></li>
+<li><a href="/wiki/Economizer" title="Economizer">Economizer</a></li>
+<li><a href="/wiki/Electrostatic_precipitator" title="Electrostatic precipitator">Electrostatic precipitator</a></li>
+<li><a href="/wiki/Evaporative_cooler" title="Evaporative cooler">Evaporative cooler</a></li>
+<li><a href="/wiki/Evaporator" title="Evaporator">Evaporator</a></li>
+<li><a href="/wiki/Exhaust_hood" title="Exhaust hood">Exhaust hood</a></li>
+<li><a href="/wiki/Expansion_tank" title="Expansion tank">Expansion tank</a></li>
+<li><a href="/wiki/Fan_coil_unit" title="Fan coil unit">Fan coil unit</a></li>
+<li><a href="/wiki/Fan_heater" title="Fan heater">Fan heater</a></li>
+<li><a href="/wiki/Fire_damper" title="Fire damper">Fire damper</a></li>
+<li><a href="/wiki/Fireplace" title="Fireplace">Fireplace</a></li>
+<li><a href="/wiki/Fireplace_insert" title="Fireplace insert">Fireplace insert</a></li>
+<li><a href="/wiki/Freeze_stat" title="Freeze stat">Freeze stat</a></li>
+<li><a href="/wiki/Flue" title="Flue">Flue</a></li>
+<li><a href="/wiki/Freon" title="Freon">Freon</a></li>
+<li><a href="/wiki/Fume_hood" title="Fume hood">Fume hood</a></li>
+<li><a href="/wiki/Furnace" title="Furnace">Furnace</a></li>
+<li><a href="/wiki/Furnace_room" title="Furnace room">Furnace room</a></li>
+<li><a class="mw-redirect" href="/wiki/Gas_compressor" title="Gas compressor">Gas compressor</a></li>
+<li><a href="/wiki/Gas_heater" title="Gas heater">Gas heater</a></li>
+<li><a href="/wiki/Gasoline_heater" title="Gasoline heater">Gasoline heater</a></li>
+<li><a href="/wiki/Geothermal_heat_pump" title="Geothermal heat pump">Geothermal heat pump</a></li>
+<li><a href="/wiki/Grease_duct" title="Grease duct">Grease duct</a></li>
+<li><a href="/wiki/Grille" title="Grille">Grille</a></li>
+<li><a href="/wiki/Ground-coupled_heat_exchanger" title="Ground-coupled heat exchanger">Ground-coupled heat exchanger</a></li>
+<li><a href="/wiki/Heat_exchanger" title="Heat exchanger">Heat exchanger</a></li>
+<li><a href="/wiki/Heat_pipe" title="Heat pipe">Heat pipe</a></li>
+<li><a href="/wiki/Heat_pump" title="Heat pump">Heat pump</a></li>
+<li><a href="/wiki/Heating_film" title="Heating film">Heating film</a></li>
+<li><a href="/wiki/Heating_system" title="Heating system">Heating system</a></li>
+<li><a href="/wiki/High_efficiency_glandless_circulating_pump" title="High efficiency glandless circulating pump">High efficiency glandless circulating pump</a></li>
+<li><a class="mw-redirect" href="/wiki/High-efficiency_particulate_air" title="High-efficiency particulate air">High-efficiency particulate air</a> (HEPA)</li>
+<li><a class="mw-redirect" href="/wiki/High_pressure_cut_off_switch" title="High pressure cut off switch">High pressure cut off switch</a></li>
+<li><a href="/wiki/Humidifier" title="Humidifier">Humidifier</a></li>
+<li><a href="/wiki/Infrared_heater" title="Infrared heater">Infrared heater</a></li>
+<li><a href="/wiki/Inverter_compressor" title="Inverter compressor">Inverter compressor</a></li>
+<li><a href="/wiki/Kerosene_heater" title="Kerosene heater">Kerosene heater</a></li>
+<li><a href="/wiki/Louver" title="Louver">Louver</a></li>
+<li><a class="mw-redirect" href="/wiki/Mechanical_fan" title="Mechanical fan">Mechanical fan</a></li>
+<li><a href="/wiki/Mechanical_room" title="Mechanical room">Mechanical room</a></li>
+<li><a href="/wiki/Oil_heater" title="Oil heater">Oil heater</a></li>
+<li><a href="/wiki/Packaged_terminal_air_conditioner" title="Packaged terminal air conditioner">Packaged terminal air conditioner</a></li>
+<li><a href="/wiki/Plenum_space" title="Plenum space">Plenum space</a></li>
+<li><a href="/wiki/Pressurisation_ductwork" title="Pressurisation ductwork">Pressurisation ductwork</a></li>
+<li><a href="/wiki/Process_duct_work" title="Process duct work">Process duct work</a></li>
+<li><a href="/wiki/Radiator_(heating)" title="Radiator (heating)">Radiator</a></li>
+<li><a href="/wiki/Radiator_reflector" title="Radiator reflector">Radiator reflector</a></li>
+<li><a href="/wiki/Recuperator" title="Recuperator">Recuperator</a></li>
+<li><a href="/wiki/Refrigerant" title="Refrigerant">Refrigerant</a></li>
+<li><a href="/wiki/Register_(air_and_heating)" title="Register (air and heating)">Register</a></li>
+<li><a href="/wiki/Reversing_valve" title="Reversing valve">Reversing valve</a></li>
+<li><a href="/wiki/Run-around_coil" title="Run-around coil">Run-around coil</a></li>
+<li><a href="/wiki/Scroll_compressor" title="Scroll compressor">Scroll compressor</a></li>
+<li><a href="/wiki/Solar_chimney" title="Solar chimney">Solar chimney</a></li>
+<li><a href="/wiki/Solar-assisted_heat_pump" title="Solar-assisted heat pump">Solar-assisted heat pump</a></li>
+<li><a href="/wiki/Space_heater" title="Space heater">Space heater</a></li>
+<li><a href="/wiki/Smoke_exhaust_ductwork" title="Smoke exhaust ductwork">Smoke exhaust ductwork</a></li>
+<li><a href="/wiki/Thermal_expansion_valve" title="Thermal expansion valve">Thermal expansion valve</a></li>
+<li><a href="/wiki/Thermal_wheel" title="Thermal wheel">Thermal wheel</a></li>
+<li><a href="/wiki/Thermosiphon" title="Thermosiphon">Thermosiphon</a></li>
+<li><a href="/wiki/Thermostatic_radiator_valve" title="Thermostatic radiator valve">Thermostatic radiator valve</a></li>
+<li><a href="/wiki/Trickle_vent" title="Trickle vent">Trickle vent</a></li>
+<li><a href="/wiki/Trombe_wall" title="Trombe wall">Trombe wall</a></li>
+<li><a href="/wiki/Turning_vanes_(HVAC)" title="Turning vanes (HVAC)">Turning vanes</a></li>
+<li><a href="/wiki/Ultra-low_particulate_air" title="Ultra-low particulate air">Ultra-low particulate air</a> (ULPA)</li>
+<li><a href="/wiki/Whole-house_fan" title="Whole-house fan">Whole-house fan</a></li>
+<li><a href="/wiki/Windcatcher" title="Windcatcher">Windcatcher</a></li>
+<li><a href="/wiki/Wood-burning_stove" title="Wood-burning stove">Wood-burning stove</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Measurement<br/>and control</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Air_flow_meter" title="Air flow meter">Air flow meter</a></li>
+<li><a href="/wiki/Aquastat" title="Aquastat">Aquastat</a></li>
+<li><a href="/wiki/BACnet" title="BACnet">BACnet</a></li>
+<li><a href="/wiki/Blower_door" title="Blower door">Blower door</a></li>
+<li><a href="/wiki/Building_automation" title="Building automation">Building automation</a></li>
+<li><a class="mw-selflink selflink">Carbon dioxide sensor</a></li>
+<li><a href="/wiki/Clean_Air_Delivery_Rate" title="Clean Air Delivery Rate">Clean Air Delivery Rate</a> (CADR)</li>
+<li><a class="mw-redirect" href="/wiki/Gas_sensor" title="Gas sensor">Gas sensor</a></li>
+<li><a href="/wiki/Home_energy_monitor" title="Home energy monitor">Home energy monitor</a></li>
+<li><a href="/wiki/Humidistat" title="Humidistat">Humidistat</a></li>
+<li><a href="/wiki/HVAC_control_system" title="HVAC control system">HVAC control system</a></li>
+<li><a class="mw-redirect" href="/wiki/Intelligent_buildings" title="Intelligent buildings">Intelligent buildings</a></li>
+<li><a href="/wiki/LonWorks" title="LonWorks">LonWorks</a></li>
+<li><a href="/wiki/Minimum_efficiency_reporting_value" title="Minimum efficiency reporting value">Minimum efficiency reporting value</a> (MERV)</li>
+<li><a href="/wiki/OpenTherm" title="OpenTherm">OpenTherm</a></li>
+<li><a href="/wiki/Programmable_communicating_thermostat" title="Programmable communicating thermostat">Programmable communicating thermostat</a></li>
+<li><a href="/wiki/Programmable_thermostat" title="Programmable thermostat">Programmable thermostat</a></li>
+<li><a href="/wiki/Psychrometrics" title="Psychrometrics">Psychrometrics</a></li>
+<li><a href="/wiki/Room_temperature" title="Room temperature">Room temperature</a></li>
+<li><a href="/wiki/Smart_thermostat" title="Smart thermostat">Smart thermostat</a></li>
+<li><a href="/wiki/Thermostat" title="Thermostat">Thermostat</a></li>
+<li><a href="/wiki/Thermostatic_radiator_valve" title="Thermostatic radiator valve">Thermostatic radiator valve</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Professions, trades,<br/>and services</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Architectural_acoustics" title="Architectural acoustics">Architectural acoustics</a></li>
+<li><a href="/wiki/Architectural_engineering" title="Architectural engineering">Architectural engineering</a></li>
+<li><a href="/wiki/Architectural_technologist" title="Architectural technologist">Architectural technologist</a></li>
+<li><a href="/wiki/Building_services_engineering" title="Building services engineering">Building services engineering</a></li>
+<li><a href="/wiki/Building_information_modeling" title="Building information modeling">Building information modeling</a> (BIM)</li>
+<li><a href="/wiki/Deep_energy_retrofit" title="Deep energy retrofit">Deep energy retrofit</a></li>
+<li><a href="/wiki/Duct_leakage_testing" title="Duct leakage testing">Duct leakage testing</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li>
+<li><a href="/wiki/Hydronic_balancing" title="Hydronic balancing">Hydronic balancing</a></li>
+<li><a href="/wiki/Kitchen_exhaust_cleaning" title="Kitchen exhaust cleaning">Kitchen exhaust cleaning</a></li>
+<li><a href="/wiki/Mechanical_engineering" title="Mechanical engineering">Mechanical engineering</a></li>
+<li><a href="/wiki/Mechanical,_electrical,_and_plumbing" title="Mechanical, electrical, and plumbing">Mechanical, electrical, and plumbing</a></li>
+<li><a class="mw-redirect" href="/wiki/Mold_growth,_assessment,_and_remediation" title="Mold growth, assessment, and remediation">Mold growth, assessment, and remediation</a></li>
+<li><a href="/wiki/Refrigerant_reclamation" title="Refrigerant reclamation">Refrigerant reclamation</a></li>
+<li><a href="/wiki/Testing,_adjusting,_balancing" title="Testing, adjusting, balancing">Testing, adjusting, balancing</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Industry organizations</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Air_Conditioning_Contractors_of_America" title="Air Conditioning Contractors of America">ACCA</a></li>
+<li><a href="/wiki/Air_Movement_and_Control_Association" title="Air Movement and Control Association">AMCA</a></li>
+<li><a href="/wiki/ASHRAE" title="ASHRAE">ASHRAE</a></li>
+<li><a href="/wiki/ASTM_International" title="ASTM International">ASTM International</a></li>
+<li><a href="/wiki/Building_Research_Establishment" title="Building Research Establishment">BRE</a></li>
+<li><a href="/wiki/BSRIA" title="BSRIA">BSRIA</a></li>
+<li><a href="/wiki/Chartered_Institution_of_Building_Services_Engineers" title="Chartered Institution of Building Services Engineers">CIBSE</a></li>
+<li><a href="/wiki/Leadership_in_Energy_and_Environmental_Design" title="Leadership in Energy and Environmental Design">LEED</a></li>
+<li><a href="/wiki/Sheet_Metal_and_Air_Conditioning_Contractors%27_National_Association" title="Sheet Metal and Air Conditioning Contractors' National Association">SMACNA</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Health and safety</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Indoor_air_quality" title="Indoor air quality">Indoor air quality</a> (IAQ)</li>
+<li><a href="/wiki/Passive_smoking" title="Passive smoking">Passive smoking</a></li>
+<li><a href="/wiki/Sick_building_syndrome" title="Sick building syndrome">Sick building syndrome</a> (SBS)</li>
+<li><a href="/wiki/Volatile_organic_compound" title="Volatile organic compound">Volatile organic compound</a> (VOC)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">See also</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ASHRAE_Handbook" title="ASHRAE Handbook">ASHRAE Handbook</a></li>
+<li><a href="/wiki/Building_science" title="Building science">Building science</a></li>
+<li><a href="/wiki/Fireproofing" title="Fireproofing">Fireproofing</a></li>
+<li><a href="/wiki/Glossary_of_HVAC_terms" title="Glossary of HVAC terms">Glossary of HVAC terms</a></li>
+<li><a href="/wiki/Template:Home_automation" title="Template:Home automation">Template:Home automation</a></li>
+<li><a href="/wiki/Template:Solar_energy" title="Template:Solar energy">Template:Solar energy</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1255
+Cached time: 20181011051950
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.336 seconds
+Real time usage: 0.418 seconds
+Preprocessor visited node count: 792/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 77344/2097152 bytes
+Template argument size: 656/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 10619/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.128/10.000 seconds
+Lua memory usage: 2.99 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  258.555      1 -total
+ 49.98%  129.229      1 Template:Reflist
+ 24.07%   62.222      1 Template:Cite_web
+ 20.67%   53.441      1 Template:More_footnotes
+ 13.47%   34.825      1 Template:Ambox
+ 13.28%   34.329      1 Template:Cite_journal
+ 11.89%   30.744      1 Template:Elucidate
+ 10.19%   26.344      1 Template:Fix
+  6.39%   16.520      2 Template:Navbox
+  5.85%   15.119      1 Template:Sensors
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6080682-0!canonical and timestamp 20181011051950 and revision id 836798274
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Carbon_dioxide_sensor&amp;oldid=836798274">https://en.wikipedia.org/w/index.php?title=Carbon_dioxide_sensor&amp;oldid=836798274</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Sensors" title="Category:Sensors">Sensors</a></li><li><a href="/wiki/Category:Gas_sensors" title="Category:Gas sensors">Gas sensors</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Archived_copy_as_title" title="Category:CS1 maint: Archived copy as title">CS1 maint: Archived copy as title</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_September_2017" title="Category:Articles lacking in-text citations from September 2017">Articles lacking in-text citations from September 2017</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_August_2014" title="Category:Wikipedia articles needing clarification from August 2014">Wikipedia articles needing clarification from August 2014</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Carbon+dioxide+sensor" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Carbon+dioxide+sensor" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Carbon_dioxide_sensor" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Carbon_dioxide_sensor" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Carbon_dioxide_sensor">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Carbon_dioxide_sensor&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Carbon_dioxide_sensor&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Carbon_dioxide_sensor" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Carbon_dioxide_sensor" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Carbon_dioxide_sensor&amp;oldid=836798274" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Carbon_dioxide_sensor&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5037960" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Carbon_dioxide_sensor&amp;id=836798274" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Carbon+dioxide+sensor">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Carbon+dioxide+sensor&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Carbon_dioxide_sensor&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D8%B3%D8%A7%D8%B3_%D8%BA%D8%A7%D8%B2_%D8%AB%D8%A7%D9%86%D9%8A_%D8%A3%D9%83%D8%B3%D9%8A%D8%AF_%D8%A7%D9%84%D9%83%D8%B1%D8%A8%D9%88%D9%86" hreflang="ar" lang="ar" title="حساس غاز ثاني أكسيد الكربون – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%82%B0%ED%99%94_%ED%83%84%EC%86%8C_%EC%84%BC%EC%84%9C" hreflang="ko" lang="ko" title="이산화 탄소 센서 – Korean">한국어</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5037960#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 16 April 2018, at 22:25<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Carbon_dioxide_sensor&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.336","walltime":"0.418","ppvisitednodes":{"value":792,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":77344,"limit":2097152},"templateargumentsize":{"value":656,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":10619,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  258.555      1 -total"," 49.98%  129.229      1 Template:Reflist"," 24.07%   62.222      1 Template:Cite_web"," 20.67%   53.441      1 Template:More_footnotes"," 13.47%   34.825      1 Template:Ambox"," 13.28%   34.329      1 Template:Cite_journal"," 11.89%   30.744      1 Template:Elucidate"," 10.19%   26.344      1 Template:Fix","  6.39%   16.520      2 Template:Navbox","  5.85%   15.119      1 Template:Sensors"]},"scribunto":{"limitreport-timeusage":{"value":"0.128","limit":"10.000"},"limitreport-memusage":{"value":3134497,"limit":52428800}},"cachereport":{"origin":"mw1255","timestamp":"20181011051950","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1273"});});</script>
+</body>
+</html>

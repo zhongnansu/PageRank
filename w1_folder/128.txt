@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Covalent bond - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Covalent_bond","wgTitle":"Covalent bond","wgCurRevisionId":851600077,"wgRevisionId":851600077,"wgArticleId":6246,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles lacking reliable references","Articles lacking reliable references from March 2015","CS1: Julian–Gregorian uncertainty","Wikipedia semi-protected pages","Wikipedia articles with GND identifiers","Chemical bonding"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Covalent_bond","wgRelevantArticleId":6246,"wgRequestId":"W8JsCwpAIC4AAHpRUUwAAACI","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q127920","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Covalent_bond_hydrogen.svg/1200px-Covalent_bond_hydrogen.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Covalent_bond" rel="alternate"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Covalent_bond" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Covalent_bond rootpage-Covalent_bond skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-pp-default"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected until August 13, 2020."><img alt="Page semi-protected" data-file-height="128" data-file-width="128" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/30px-Padlock-silver.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/40px-Padlock-silver.svg.png 2x" width="20"/></a></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Covalent bond</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<div class="hatnote navigation-not-searchable" role="note">"Covalent" redirects here. For other uses, see <a class="mw-disambig" href="/wiki/Covalent_(disambiguation)" title="Covalent (disambiguation)">Covalent (disambiguation)</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:Covalent_bond_hydrogen.svg"><img alt="" class="thumbimage" data-file-height="300" data-file-width="700" height="171" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Covalent_bond_hydrogen.svg/400px-Covalent_bond_hydrogen.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Covalent_bond_hydrogen.svg/600px-Covalent_bond_hydrogen.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Covalent_bond_hydrogen.svg/800px-Covalent_bond_hydrogen.svg.png 2x" width="400"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Covalent_bond_hydrogen.svg" title="Enlarge"></a></div>A covalent bond forming H<sub>2</sub> (right) where two <a href="/wiki/Hydrogen_atom" title="Hydrogen atom">hydrogen atoms</a> share the two <a href="/wiki/Electron" title="Electron">electrons</a></div></div></div>
+<p>A <b>covalent bond</b>, also called a <b>molecular bond</b>, is a <a href="/wiki/Chemical_bond" title="Chemical bond">chemical bond</a> that involves the sharing of <a href="/wiki/Electron_pair" title="Electron pair">electron pairs</a> between <a href="/wiki/Atom" title="Atom">atoms</a>. These electron pairs are known as <b>shared pairs</b> or <b>bonding pairs</b>, and the stable balance of attractive and repulsive forces between atoms, when they share <a href="/wiki/Electron" title="Electron">electrons</a>, is known as covalent bonding.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="noprint Inline-Template noprint noexcerpt Template-Fact" style="white-space:nowrap;">[<i><a class="mw-redirect" href="/wiki/Wikipedia:NOTRS" title="Wikipedia:NOTRS"><span title="This claim needs references to better sources. (March 2015)">better source needed</span></a></i>]</sup> For many <a href="/wiki/Molecule" title="Molecule">molecules</a>, the sharing of electrons allows each atom to attain the equivalent of a full outer shell, corresponding to a stable electronic configuration.
+</p><p>Covalent bonding includes many kinds of interactions, including <a href="/wiki/Sigma_bond" title="Sigma bond">σ-bonding</a>, <a href="/wiki/Pi_bond" title="Pi bond">π-bonding</a>, <a href="/wiki/Metallic_bonding" title="Metallic bonding">metal-to-metal bonding</a>, <a href="/wiki/Agostic_interaction" title="Agostic interaction">agostic interactions</a>, <a href="/wiki/Bent_bond" title="Bent bond">bent bonds</a>, and <a href="/wiki/Three-center_two-electron_bond" title="Three-center two-electron bond">three-center two-electron bonds</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> The term <i>covalent bond</i> dates from 1939.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> The prefix <i>co-</i> means <i>jointly, associated in action, partnered to a lesser degree, </i> etc.; thus a "co-valent bond", in essence, means that the atoms share "<a href="/wiki/Valence_(chemistry)" title="Valence (chemistry)">valence</a>", such as is discussed in <a href="/wiki/Valence_bond_theory" title="Valence bond theory">valence bond theory</a>.
+</p><p>In the molecule <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>, the <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> atoms share the two electrons via covalent bonding.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> Covalency is greatest between atoms of similar <a href="/wiki/Electronegativity" title="Electronegativity">electronegativities</a>. Thus, covalent bonding does not necessarily require that the two atoms be of the same elements, only that they be of comparable electronegativity. Covalent bonding that entails sharing of electrons over more than two atoms is said to be <a href="/wiki/Delocalized_electron" title="Delocalized electron">delocalized</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Types_of_covalent_bonds"><span class="tocnumber">2</span> <span class="toctext">Types of covalent bonds</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Covalent_structures"><span class="tocnumber">3</span> <span class="toctext">Covalent structures</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#One-_and_three-electron_bonds"><span class="tocnumber">4</span> <span class="toctext">One- and three-electron bonds</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Resonance"><span class="tocnumber">5</span> <span class="toctext">Resonance</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Aromaticity"><span class="tocnumber">5.1</span> <span class="toctext">Aromaticity</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Hypervalence"><span class="tocnumber">5.2</span> <span class="toctext">Hypervalence</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Electron-deficiency"><span class="tocnumber">5.3</span> <span class="toctext">Electron-deficiency</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Quantum_mechanical_description"><span class="tocnumber">6</span> <span class="toctext">Quantum mechanical description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Covalency_from_atomic_contribution_to_the_electronic_density_of_states"><span class="tocnumber">6.1</span> <span class="toctext">Covalency from atomic contribution to the electronic density of states</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Sources"><span class="tocnumber">9</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Covalent.svg"><img alt="" class="thumbimage" data-file-height="402" data-file-width="334" height="241" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Covalent.svg/200px-Covalent.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Covalent.svg/300px-Covalent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Covalent.svg/400px-Covalent.svg.png 2x" width="200"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Covalent.svg" title="Enlarge"></a></div>Early concepts in covalent bonding arose from this kind of image of the molecule of <a href="/wiki/Methane" title="Methane">methane</a>. Covalent bonding is implied in the <a href="/wiki/Lewis_structure" title="Lewis structure">Lewis structure</a> by indicating electrons shared between atoms.</div></div></div>
+<p>The term <i>covalence</i> in regard to bonding was first used in 1919 by <a href="/wiki/Irving_Langmuir" title="Irving Langmuir">Irving Langmuir</a> in a <i><a href="/wiki/Journal_of_the_American_Chemical_Society" title="Journal of the American Chemical Society">Journal of the American Chemical Society</a></i> article entitled "The Arrangement of Electrons in Atoms and Molecules". Langmuir wrote that "we shall denote by the term <i>covalence</i> the number of pairs of electrons that a given atom shares with its neighbors."<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</p><p>The idea of covalent bonding can be traced several years before 1919 to <a href="/wiki/Gilbert_N._Lewis" title="Gilbert N. Lewis">Gilbert N. Lewis</a>, who in 1916 described the sharing of electron pairs between atoms.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> He introduced the <i><a class="mw-redirect" href="/wiki/Lewis_Structure" title="Lewis Structure">Lewis notation</a></i> or <i>electron dot notation</i> or <i>Lewis dot structure</i>, in which valence electrons (those in the outer shell) are represented as dots around the atomic symbols. Pairs of electrons located between atoms represent covalent bonds. Multiple pairs represent multiple bonds, such as <a href="/wiki/Double_bond" title="Double bond">double bonds</a> and <a href="/wiki/Triple_bond" title="Triple bond">triple bonds</a>. An alternative form of representation, not shown here, has bond-forming electron pairs represented as solid lines.
+</p><p>Lewis proposed that an atom forms enough covalent bonds to form a full (or closed) outer electron shell. In the diagram of methane shown here, the carbon atom has a valence of four and is, therefore, surrounded by eight electrons (the <a href="/wiki/Octet_rule" title="Octet rule">octet rule</a>), four from the carbon itself and four from the hydrogens bonded to it. Each hydrogen has a valence of one and is surrounded by two electrons (a duet rule) – its own one electron plus one from the carbon. The numbers of electrons correspond to full shells in the quantum theory of the atom; the outer shell of a carbon atom is the <i>n</i> = 2 shell, which can hold eight electrons, whereas the outer (and only) shell of a hydrogen atom is the <i>n</i> = 1 shell, which can hold only two.
+</p><p>While the idea of shared electron pairs provides an effective qualitative picture of covalent bonding, <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum mechanics</a> is needed to understand the nature of these bonds and predict the structures and properties of simple molecules. <a href="/wiki/Walter_Heitler" title="Walter Heitler">Walter Heitler</a> and <a href="/wiki/Fritz_London" title="Fritz London">Fritz London</a> are credited with the first successful quantum mechanical explanation of a chemical bond (<a class="mw-redirect" href="/wiki/Molecular_hydrogen" title="Molecular hydrogen">molecular hydrogen</a>) in 1927.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Their work was based on the valence bond model, which assumes that a chemical bond is formed when there is good overlap between the <a class="mw-redirect" href="/wiki/Atomic_orbitals" title="Atomic orbitals">atomic orbitals</a> of participating atoms.
+</p>
+<h2><span class="mw-headline" id="Types_of_covalent_bonds">Types of covalent bonds</span></h2>
+<p>Atomic orbitals (except for s orbitals) have specific directional properties leading to different types of covalent bonds. <a href="/wiki/Sigma_bond" title="Sigma bond">Sigma (σ) bonds</a> are the strongest covalent bonds and are due to head-on overlapping of orbitals on two different atoms. A <a href="/wiki/Single_bond" title="Single bond">single bond</a> is usually a σ bond. <a href="/wiki/Pi_bond" title="Pi bond">Pi (π) bonds</a> are weaker and are due to lateral overlap between p (or d) orbitals. A <a href="/wiki/Double_bond" title="Double bond">double bond</a> between two given atoms consists of one σ and one π bond, and a <a href="/wiki/Triple_bond" title="Triple bond">triple bond</a> is one σ and two π bonds.
+</p><p>Covalent bonds are also affected by the electronegativity of the connected atoms which determines the <a href="/wiki/Chemical_polarity" title="Chemical polarity">chemical polarity</a> of the bond. Two atoms with equal electronegativity will make nonpolar covalent bonds such as H–H. An unequal relationship creates a polar covalent bond such as with H−Cl.  However polarity also requires <a href="/wiki/Geometry" title="Geometry">geometric</a> <a href="/wiki/Asymmetry" title="Asymmetry">asymmetry</a>, or else <a href="/wiki/Dipole" title="Dipole">dipoles</a> may cancel out resulting in a non-polar molecule.
+</p>
+<h2><span class="mw-headline" id="Covalent_structures">Covalent structures</span></h2>
+<p>There are several types of structures for covalent substances, including individual molecules, molecular structures, <a class="mw-redirect" href="/wiki/Macromolecular" title="Macromolecular">macromolecular</a> structures and giant covalent structures. Individual molecules have strong bonds that hold the atoms together, but there are negligible forces of attraction between molecules. Such covalent substances are usually gases, for example, <a class="mw-redirect" href="/wiki/HCl" title="HCl">HCl</a>, <a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">SO<sub>2</sub></a>, <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a>, and <a href="/wiki/Methane" title="Methane">CH<sub>4</sub></a>. In molecular structures, there are weak forces of attraction. Such covalent substances are low-boiling-temperature liquids (such as <a href="/wiki/Ethanol" title="Ethanol">ethanol</a>), and low-melting-temperature solids (such as <a href="/wiki/Iodine" title="Iodine">iodine</a> and solid CO<sub>2</sub>). Macromolecular structures have large numbers of atoms linked by covalent bonds in chains, including synthetic polymers such as <a href="/wiki/Polyethylene" title="Polyethylene">polyethylene</a> and <a href="/wiki/Nylon" title="Nylon">nylon</a>, and biopolymers such as <a href="/wiki/Protein" title="Protein">proteins</a> and <a href="/wiki/Starch" title="Starch">starch</a>. <a href="/wiki/Network_covalent_bonding" title="Network covalent bonding">Network covalent structures</a> (or giant covalent structures) contain large numbers of atoms linked in sheets (such as <a href="/wiki/Graphite" title="Graphite">graphite</a>), or 3-dimensional structures (such as <a href="/wiki/Diamond" title="Diamond">diamond</a> and <a href="/wiki/Quartz" title="Quartz">quartz</a>). These substances have high melting and boiling points, are frequently brittle, and tend to have high electrical <a class="mw-redirect" href="/wiki/Resistivity" title="Resistivity">resistivity</a>. Elements that have high <a href="/wiki/Electronegativity" title="Electronegativity">electronegativity</a>, and the ability to form three or four electron pair bonds, often form such large macromolecular structures.<sup class="reference" id="cite_ref-StranksEtAl1970_9-0"><a href="#cite_note-StranksEtAl1970-9">[9]</a></sup>
+</p>
+<h2><span class="mw-headline" id="One-_and_three-electron_bonds">One- and three-electron bonds</span></h2>
+<p>Bonds with one or three electrons can be found in <a href="/wiki/Radical_(chemistry)" title="Radical (chemistry)">radical</a> species, which have an odd number of electrons. The simplest example of a 1-electron bond is found in the <a href="/wiki/Dihydrogen_cation" title="Dihydrogen cation">dihydrogen cation</a>, <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>. One-electron bonds often have about half the bond energy of a 2-electron bond, and are therefore called "half bonds". However, there are exceptions: in the case of <a href="/wiki/Dilithium" title="Dilithium">dilithium</a>, the bond is actually stronger for the 1-electron <span class="chemf nowrap">Li<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> than for the 2-electron Li<sub>2</sub>. This exception can be explained in terms of <a href="/wiki/Orbital_hybridisation" title="Orbital hybridisation">hybridization</a> and inner-shell effects.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:152px;"><a class="image" href="/wiki/File:Graphical_comparison_of_bonds.svg"><img alt="" class="thumbimage" data-file-height="175" data-file-width="200" height="131" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Graphical_comparison_of_bonds.svg/150px-Graphical_comparison_of_bonds.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Graphical_comparison_of_bonds.svg/225px-Graphical_comparison_of_bonds.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Graphical_comparison_of_bonds.svg/300px-Graphical_comparison_of_bonds.svg.png 2x" width="150"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Graphical_comparison_of_bonds.svg" title="Enlarge"></a></div>Comparison of the electronic structure of the three-electron bond to the conventional covalent bond.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></div></div></div>
+<p>The simplest example of three-electron bonding can be found in the <a href="/wiki/Helium_dimer" title="Helium dimer">helium dimer</a> cation, <span class="chemf nowrap">He<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span>. It is considered a "half bond" because it consists of only one shared electron (rather than two); in molecular orbital terms, the third electron is in an anti-bonding orbital which cancels out half of the bond formed by the other two electrons. Another example of a molecule containing a 3-electron bond, in addition to two 2-electron bonds, is <a href="/wiki/Nitric_oxide" title="Nitric oxide">nitric oxide</a>, NO. The oxygen molecule, O<sub>2</sub> can also be regarded as having two 3-electron bonds and one 2-electron bond, which accounts for its <a href="/wiki/Paramagnetism" title="Paramagnetism">paramagnetism</a> and its formal bond order of 2.<sup class="reference" id="cite_ref-pauling_12-0"><a href="#cite_note-pauling-12">[12]</a></sup> <a href="/wiki/Chlorine_dioxide" title="Chlorine dioxide">Chlorine dioxide</a> and its heavier analogues <a href="/wiki/Bromine_dioxide" title="Bromine dioxide">bromine dioxide</a> and <a class="new" href="/w/index.php?title=Iodine_dioxide&amp;action=edit&amp;redlink=1" title="Iodine dioxide (page does not exist)">iodine dioxide</a> also contain three-electron bonds.
+</p><p>Molecules with odd-electron bonds are usually highly reactive. These types of bond are only stable between atoms with similar electronegativities.<sup class="reference" id="cite_ref-pauling_12-1"><a href="#cite_note-pauling-12">[12]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Resonance">Resonance</span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Resonance_(chemistry)" title="Resonance (chemistry)">Resonance (chemistry)</a></div>
+<p>There are situations whereby a single <a href="/wiki/Lewis_structure" title="Lewis structure">Lewis structure</a> is insufficient to explain the electron configuration in a molecule, hence a superposition of structures are needed. The same two atoms in such molecules can be bonded differently in different structures (a single bond in one, a double bond in another, or even none at all), resulting in a non-integer <a href="/wiki/Bond_order" title="Bond order">bond order</a>. The <a href="/wiki/Nitrate" title="Nitrate">nitrate</a> ion is one such example with three equivalent structures. The bond between the <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a> and each oxygen is a double bond in one structure and a single bond in the other two, so that the average bond order for each N–O interaction is <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">2 + 1 + 1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">3</span></span> = <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">4</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">3</span></span>.
+</p><p><a class="image" href="/wiki/File:Nitrate-ion-resonance-2D.png"><img alt="Nitrate-ion-resonance-2D.png" data-file-height="276" data-file-width="1100" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nitrate-ion-resonance-2D.png/400px-Nitrate-ion-resonance-2D.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nitrate-ion-resonance-2D.png/600px-Nitrate-ion-resonance-2D.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nitrate-ion-resonance-2D.png/800px-Nitrate-ion-resonance-2D.png 2x" width="400"/></a>
+</p>
+<h3><span class="mw-headline" id="Aromaticity">Aromaticity</span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Aromaticity" title="Aromaticity">Aromaticity</a></div>
+<p>In <a href="/wiki/Organic_chemistry" title="Organic chemistry">organic chemistry</a>, when a molecule with a planar ring obeys <a href="/wiki/H%C3%BCckel%27s_rule" title="Hückel's rule">Hückel's rule</a>, where the number of <a href="/wiki/Pi_bond" title="Pi bond">π electrons</a> fit the formula 4<i>n</i> + 2 (where <i>n</i> is an integer), it attains extra stability and symmetry. In <a href="/wiki/Benzene" title="Benzene">benzene</a>, the prototypical aromatic compound, there are 6 π bonding electrons (<i>n</i> = 1, 4<i>n</i> + 2 = 6). These occupy three delocalized π molecular orbitals (<a href="/wiki/Molecular_orbital_theory" title="Molecular orbital theory">molecular orbital theory</a>) or form conjugate π bonds in two resonance structures that linearly combine (<a href="/wiki/Valence_bond_theory" title="Valence bond theory">valence bond theory</a>), creating a regular <a href="/wiki/Hexagon" title="Hexagon">hexagon</a> exhibiting a greater stabilization than the hypothetical 1,3,5-cyclohexatriene.
+</p><p>In the case of <a class="mw-redirect" href="/wiki/Heterocyclic" title="Heterocyclic">heterocyclic</a> aromatics and substituted <a href="/wiki/Benzene" title="Benzene">benzenes</a>, the electronegativity differences between different parts of the ring may dominate the chemical behaviour of aromatic ring bonds, which otherwise are equivalent.
+</p>
+<h3><span class="mw-headline" id="Hypervalence">Hypervalence</span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Hypervalent_molecule" title="Hypervalent molecule">Hypervalent molecule</a></div>
+<p>Certain molecules such as <a href="/wiki/Xenon_difluoride" title="Xenon difluoride">xenon difluoride</a> and <a href="/wiki/Sulfur_hexafluoride" title="Sulfur hexafluoride">sulfur hexafluoride</a> have higher co-ordination numbers than would be possible due to strictly covalent bonding according to the <a href="/wiki/Octet_rule" title="Octet rule">octet rule</a>. This is explained by the <a href="/wiki/Three-center_four-electron_bond" title="Three-center four-electron bond">three-center four-electron bond</a> ("3c–4e") model which interprets the molecular wavefunction in terms of non-bonding <a href="/wiki/HOMO/LUMO" title="HOMO/LUMO">highest occupied molecular orbitals</a> in <a href="/wiki/Molecular_orbital_theory" title="Molecular orbital theory">molecular orbital theory</a> and ionic-covalent <a href="/wiki/Resonance_(chemistry)" title="Resonance (chemistry)">resonance</a> in <a href="/wiki/Valence_bond_theory" title="Valence bond theory">valence bond theory</a>.
+</p>
+<h3><span class="mw-headline" id="Electron-deficiency">Electron-deficiency</span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Electron_deficiency" title="Electron deficiency">Electron deficiency</a></div>
+<p>In <a href="/wiki/Three-center_two-electron_bond" title="Three-center two-electron bond">three-center two-electron bonds</a> ("3c–2e") three atoms share two electrons in bonding. This type of bonding occurs in electron deficient compounds like <a href="/wiki/Diborane" title="Diborane">diborane</a>. Each such bond (2 per molecule in diborane) contains a pair of electrons which connect the <a href="/wiki/Boron" title="Boron">boron</a> atoms to each other in a <a href="/wiki/Banana" title="Banana">banana</a> shape, with a proton (nucleus of a hydrogen atom) in the middle of the bond, sharing electrons with both boron atoms. In certain <a href="/wiki/Cluster_chemistry" title="Cluster chemistry">cluster compounds</a>, so-called <a href="/wiki/Four-center_two-electron_bond" title="Four-center two-electron bond">four-center two-electron bonds</a> also have been postulated.
+</p>
+<h2><span class="mw-headline" id="Quantum_mechanical_description">Quantum mechanical description</span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Chemical_bonding_model" title="Chemical bonding model">Chemical bonding model</a></div>
+<p>After the development of quantum mechanics, two basic theories were proposed to provide a quantum description of chemical bonding: <a href="/wiki/Valence_bond_theory" title="Valence bond theory">valence bond (VB) theory</a> and <a href="/wiki/Molecular_orbital_theory" title="Molecular orbital theory">molecular orbital (MO) theory</a>. A more recent quantum description<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> is given in terms of atomic contributions to the electronic density of states.
+</p>
+<h3><span class="mw-headline" id="Covalency_from_atomic_contribution_to_the_electronic_density_of_states">Covalency from atomic contribution to the electronic density of states</span></h3>
+<p>In COOP,<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> COHP<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> and BCOOP,<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> evaluation of bond covalency is dependent on the basis set. To overcome this issue, an alternative formulation of the bond covalency can be provided in this way.
+</p><p>The center mass <span class="texhtml"><i>cm</i>(<i>n</i>,<i>l</i>,<i>m<sub>l</sub></i>,<i>m<sub>s</sub></i>)</span> of an atomic orbital <span class="texhtml">|<i>n</i>,<i>l</i>,<i>m<sub>l</sub></i>,<i>m<sub>s</sub></i>⟩</span>,
+with quantum numbers <span class="texhtml"><i>n</i>, <i>l</i>, <i>m<sub>l</sub></i>, <i>m<sub>s</sub></i></span>, for atom A is defined as
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle cm^{\mathrm {A} }(n,l,m_{l},m_{s})={\frac {\int \limits _{E_{0}}\limits ^{E_{1}}Eg_{|n,l,m_{l},m_{s}\rangle }^{\mathrm {A} }\left(E\right)dE}{\int \limits _{E_{0}}\limits ^{E_{1}}g_{|n,l,m_{l},m_{s}\rangle }^{\mathrm {A} }\left(E\right)dE}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<msup>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">A</mi>
+</mrow>
+</mrow>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>n</mi>
+<mo>,</mo>
+<mi>l</mi>
+<mo>,</mo>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<munderover>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+</munderover>
+<mi>E</mi>
+<msubsup>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>n</mi>
+<mo>,</mo>
+<mi>l</mi>
+<mo>,</mo>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">A</mi>
+</mrow>
+</mrow>
+</msubsup>
+<mrow>
+<mo>(</mo>
+<mi>E</mi>
+<mo>)</mo>
+</mrow>
+<mi>d</mi>
+<mi>E</mi>
+</mrow>
+<mrow>
+<munderover>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+</munderover>
+<msubsup>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>n</mi>
+<mo>,</mo>
+<mi>l</mi>
+<mo>,</mo>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">A</mi>
+</mrow>
+</mrow>
+</msubsup>
+<mrow>
+<mo>(</mo>
+<mi>E</mi>
+<mo>)</mo>
+</mrow>
+<mi>d</mi>
+<mi>E</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle cm^{\mathrm {A} }(n,l,m_{l},m_{s})={\frac {\int \limits _{E_{0}}\limits ^{E_{1}}Eg_{|n,l,m_{l},m_{s}\rangle }^{\mathrm {A} }\left(E\right)dE}{\int \limits _{E_{0}}\limits ^{E_{1}}g_{|n,l,m_{l},m_{s}\rangle }^{\mathrm {A} }\left(E\right)dE}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle cm^{\mathrm {A} }(n,l,m_{l},m_{s})={\frac {\int \limits _{E_{0}}\limits ^{E_{1}}Eg_{|n,l,m_{l},m_{s}\rangle }^{\mathrm {A} }\left(E\right)dE}{\int \limits _{E_{0}}\limits ^{E_{1}}g_{|n,l,m_{l},m_{s}\rangle }^{\mathrm {A} }\left(E\right)dE}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/64c57a30b156e1d15cca16e819a1cc0a8e358445" style="vertical-align: -6.838ex; width:42.543ex; height:14.843ex;"/></span></dd></dl>
+<p>where <span class="texhtml"><i>g</i><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">A</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">|<i>n</i>,<i>l</i>,<i>m<sub>l</sub></i>,<i>m<sub>s</sub></i>⟩</sub></span>(<i>E</i>)</span> is the contribution of the atomic orbital <span class="texhtml">|<i>n</i>,<i>l</i>,<i>m<sub>l</sub></i>,<i>m<sub>s</sub></i>⟩</span> of the atom A to the total electronic density of states <span class="texhtml"><i>g</i>(<i>E</i>)</span> of the solid
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle g\left(E\right)=\sum _{\mathrm {A} }\sum _{n,l}\sum _{m_{l},m_{s}}{g_{|n,l,m_{l},m_{s}\rangle }^{\mathrm {A} }\left(E\right)}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>g</mi>
+<mrow>
+<mo>(</mo>
+<mi>E</mi>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">A</mi>
+</mrow>
+</mrow>
+</munder>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+<mo>,</mo>
+<mi>l</mi>
+</mrow>
+</munder>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+</mrow>
+</munder>
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mi>n</mi>
+<mo>,</mo>
+<mi>l</mi>
+<mo>,</mo>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">A</mi>
+</mrow>
+</mrow>
+</msubsup>
+<mrow>
+<mo>(</mo>
+<mi>E</mi>
+<mo>)</mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle g\left(E\right)=\sum _{\mathrm {A} }\sum _{n,l}\sum _{m_{l},m_{s}}{g_{|n,l,m_{l},m_{s}\rangle }^{\mathrm {A} }\left(E\right)}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle g\left(E\right)=\sum _{\mathrm {A} }\sum _{n,l}\sum _{m_{l},m_{s}}{g_{|n,l,m_{l},m_{s}\rangle }^{\mathrm {A} }\left(E\right)}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e289d88b57aeb923c9a8804e57a1f568a5d9d8e2" style="vertical-align: -3.338ex; width:34.25ex; height:5.843ex;"/></span></dd></dl>
+<p>where the outer sum runs over all atoms A of the unit cell. The energy window <span class="texhtml">[<i>E</i><sub>0</sub>,<i>E</i><sub>1</sub>]</span> is chosen in such a way that it encompasses all relevant bands participating in the bond. If the range to select is unclear, it can be identified in practice by examining the molecular orbitals that describe the electron density along the considered bond.
+</p><p>The relative position <span class="texhtml"><i>C</i><sub><i>n</i><sub>A</sub><i>l</i><sub>A</sub>,<i>n</i><sub>B</sub><i>l</i><sub>B</sub></sub></span> of the center mass of <span class="texhtml">|<i>n</i><sub>A</sub>,<i>l</i><sub>A</sub>⟩</span> levels of atom A with respect to the center mass of <span class="texhtml">|<i>n</i><sub>B</sub>,<i>l</i><sub>B</sub>⟩</span> levels of atom B is given as
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle C_{n_{\mathrm {A} }l_{\mathrm {A} },n_{\mathrm {B} }l_{\mathrm {B} }}=-\left|cm^{\mathrm {A} }(n_{\mathrm {A} },l_{\mathrm {A} })-cm^{\mathrm {B} }(n_{\mathrm {B} },l_{\mathrm {B} })\right|}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">A</mi>
+</mrow>
+</mrow>
+</msub>
+<msub>
+<mi>l</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">A</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">B</mi>
+</mrow>
+</mrow>
+</msub>
+<msub>
+<mi>l</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">B</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow>
+<mo>|</mo>
+<mrow>
+<mi>c</mi>
+<msup>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">A</mi>
+</mrow>
+</mrow>
+</msup>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">A</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>l</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">A</mi>
+</mrow>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<mi>c</mi>
+<msup>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">B</mi>
+</mrow>
+</mrow>
+</msup>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">B</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>l</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">B</mi>
+</mrow>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mrow>
+<mo>|</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle C_{n_{\mathrm {A} }l_{\mathrm {A} },n_{\mathrm {B} }l_{\mathrm {B} }}=-\left|cm^{\mathrm {A} }(n_{\mathrm {A} },l_{\mathrm {A} })-cm^{\mathrm {B} }(n_{\mathrm {B} },l_{\mathrm {B} })\right|}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle C_{n_{\mathrm {A} }l_{\mathrm {A} },n_{\mathrm {B} }l_{\mathrm {B} }}=-\left|cm^{\mathrm {A} }(n_{\mathrm {A} },l_{\mathrm {A} })-cm^{\mathrm {B} }(n_{\mathrm {B} },l_{\mathrm {B} })\right|}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e3abd5f5dc0c871d96bd8417f1adef4c8de58823" style="vertical-align: -1.171ex; width:43.819ex; height:3.509ex;"/></span></dd></dl>
+<p>where the contributions of the magnetic and spin quantum numbers are summed. According to this definition, the relative position of the A levels with respect to the B levels is
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle C_{\mathrm {A,B} }=-\left|cm^{\mathrm {A} }-cm^{\mathrm {B} }\right|}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">A</mi>
+<mo>,</mo>
+<mi mathvariant="normal">B</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow>
+<mo>|</mo>
+<mrow>
+<mi>c</mi>
+<msup>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">A</mi>
+</mrow>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mi>c</mi>
+<msup>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">B</mi>
+</mrow>
+</mrow>
+</msup>
+</mrow>
+<mo>|</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle C_{\mathrm {A,B} }=-\left|cm^{\mathrm {A} }-cm^{\mathrm {B} }\right|}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle C_{\mathrm {A,B} }=-\left|cm^{\mathrm {A} }-cm^{\mathrm {B} }\right|}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7da32345a82ffbf9d032e42a43b8d06a2083a654" style="vertical-align: -1.171ex; width:23.131ex; height:3.509ex;"/></span></dd></dl>
+<p>where, for simplicity, we may omit the dependence from the principal quantum number <span class="texhtml mvar" style="font-style:italic;">n</span> in the notation referring to <span class="texhtml"><i>C</i><sub><i>n</i><sub>A</sub><i>l</i><sub>A</sub>,<i>n</i><sub>B</sub><i>l</i><sub>B</sub></sub></span>.
+</p><p>In this formalism, the greater the value of <span class="texhtml"><i>C</i><sub>A,B</sub></span>, the higher the overlap of the selected atomic bands, and thus the electron density described by those orbitals gives a more covalent A–B bond. The quantity <span class="texhtml"><i>C</i><sub>A,B</sub></span> is denoted as the <i>covalency</i> of the A–B bond, which is specified in the same units of the energy <span class="texhtml mvar" style="font-style:italic;">E</span>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Bonding_in_solids" title="Bonding in solids">Bonding in solids</a></li>
+<li><a href="/wiki/Bond_order" title="Bond order">Bond order</a></li>
+<li><a href="/wiki/Coordinate_covalent_bond" title="Coordinate covalent bond">Coordinate covalent bond</a>, also known as a dipolar bond or a dative covalent bond</li>
+<li><a class="mw-redirect" href="/wiki/Covalent_bond_classification" title="Covalent bond classification">Covalent bond classification</a> (or LXZ notation)</li>
+<li><a href="/wiki/Covalent_radius" title="Covalent radius">Covalent radius</a></li>
+<li><a class="mw-redirect" href="/wiki/Disulfide_bond" title="Disulfide bond">Disulfide bond</a></li>
+<li><a href="/wiki/Orbital_hybridisation" title="Orbital hybridisation">Hybridization</a></li>
+<li><a href="/wiki/Hydrogen_bond" title="Hydrogen bond">Hydrogen bond</a></li>
+<li><a class="mw-redirect" href="/wiki/Ionic_bond" title="Ionic bond">Ionic bond</a></li>
+<li><a class="mw-redirect" href="/wiki/Linear_combination_of_atomic_orbitals_molecular_orbital_method" title="Linear combination of atomic orbitals molecular orbital method">Linear combination of atomic orbitals</a></li>
+<li><a href="/wiki/Metallic_bonding" title="Metallic bonding">Metallic bonding</a></li>
+<li><a class="mw-redirect" href="/wiki/Noncovalent_bonding" title="Noncovalent bonding">Noncovalent bonding</a></li>
+<li><a href="/wiki/Resonance_(chemistry)" title="Resonance (chemistry)">Resonance (chemistry)</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Campbell, Neil A.; Williamson, Brad; Heyden, Robin J. (2006). <a class="external text" href="http://www.phschool.com/el_marketing.html" rel="nofollow"><i>Biology: Exploring Life</i></a>. Boston, MA: Pearson Prentice Hall. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-13-250882-6" title="Special:BookSources/0-13-250882-6">0-13-250882-6</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-05</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Biology%3A+Exploring+Life&amp;rft.place=Boston%2C+MA&amp;rft.pub=Pearson+Prentice+Hall&amp;rft.date=2006&amp;rft.isbn=0-13-250882-6&amp;rft.aulast=Campbell&amp;rft.aufirst=Neil+A.&amp;rft.au=Williamson%2C+Brad&amp;rft.au=Heyden%2C+Robin+J.&amp;rft_id=http%3A%2F%2Fwww.phschool.com%2Fel_marketing.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><sup class="noprint Inline-Template noprint noexcerpt Template-Fact" style="white-space:nowrap;">[<i><a class="mw-redirect" href="/wiki/Wikipedia:NOTRS" title="Wikipedia:NOTRS"><span title="This claim needs references to better sources. (March 2015)">better source needed</span></a></i>]</sup></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">March, Jerry (1992). <i>Advanced Organic Chemistry: Reactions, Mechanisms, and Structure</i>. John Wiley &amp; Sons. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-471-60180-2" title="Special:BookSources/0-471-60180-2">0-471-60180-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Advanced+Organic+Chemistry%3A+Reactions%2C+Mechanisms%2C+and+Structure&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=1992&amp;rft.isbn=0-471-60180-2&amp;rft.aulast=March&amp;rft.aufirst=Jerry&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Gary L. Miessler; Donald Arthur Tarr (2004). <i>Inorganic Chemistry</i>. Prentice Hall. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-13-035471-6" title="Special:BookSources/0-13-035471-6">0-13-035471-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Inorganic+Chemistry&amp;rft.pub=Prentice+Hall&amp;rft.date=2004&amp;rft.isbn=0-13-035471-6&amp;rft.au=Gary+L.+Miessler&amp;rft.au=Donald+Arthur+Tarr&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="/wiki/Merriam-Webster" title="Merriam-Webster">Merriam-Webster</a> – Collegiate Dictionary (2000).</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://hyperphysics.phy-astr.gsu.edu/hbase/chemical/bond.html" rel="nofollow">"Chemical Bonds"</a>. Hyperphysics.phy-astr.gsu.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-06-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chemical+Bonds&amp;rft.pub=Hyperphysics.phy-astr.gsu.edu&amp;rft_id=http%3A%2F%2Fhyperphysics.phy-astr.gsu.edu%2Fhbase%2Fchemical%2Fbond.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Langmuir, Irving (1919-06-01). "The Arrangement of Electrons in Atoms and Molecules". <i>Journal of the American Chemical Society</i>. <b>41</b> (6): 868–934. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fja02227a002" rel="nofollow">10.1021/ja02227a002</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=The+Arrangement+of+Electrons+in+Atoms+and+Molecules&amp;rft.volume=41&amp;rft.issue=6&amp;rft.pages=868-934&amp;rft.date=1919-06-01&amp;rft_id=info%3Adoi%2F10.1021%2Fja02227a002&amp;rft.aulast=Langmuir&amp;rft.aufirst=Irving&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lewis, Gilbert N. (1916-04-01). "The atom and the molecule". <i>Journal of the American Chemical Society</i>. <b>38</b> (4): 762–785. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fja02261a002" rel="nofollow">10.1021/ja02261a002</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=The+atom+and+the+molecule&amp;rft.volume=38&amp;rft.issue=4&amp;rft.pages=762-785&amp;rft.date=1916-04-01&amp;rft_id=info%3Adoi%2F10.1021%2Fja02261a002&amp;rft.aulast=Lewis&amp;rft.aufirst=Gilbert+N.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Heitler, W.; London, F. (1927). "Wechselwirkung neutraler Atome und homöopolare Bindung nach der Quantenmechanik" [Interaction of neutral atoms and homeopolar bonds according to quantum mechanics]. <i>Zeitschrift für Physik</i>. <b>44</b> (6–7): 455–472. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1927ZPhy...44..455H" rel="nofollow">1927ZPhy...44..455H</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2Fbf01397394" rel="nofollow">10.1007/bf01397394</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Zeitschrift+f%C3%BCr+Physik&amp;rft.atitle=Wechselwirkung+neutraler+Atome+und+hom%C3%B6opolare+Bindung+nach+der+Quantenmechanik&amp;rft.volume=44&amp;rft.issue=6%E2%80%937&amp;rft.pages=455-472&amp;rft.date=1927&amp;rft_id=info%3Adoi%2F10.1007%2Fbf01397394&amp;rft_id=info%3Abibcode%2F1927ZPhy...44..455H&amp;rft.aulast=Heitler&amp;rft.aufirst=W.&amp;rft.au=London%2C+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/> English translation in <cite class="citation book">Hettema, H. (2000). <a class="external text" href="https://books.google.com/?id=qsidHRJmUoIC" rel="nofollow"><i>Quantum Chemistry: Classic Scientific Papers</i></a>. World Scientific. p. 140. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-981-02-2771-5" title="Special:BookSources/978-981-02-2771-5">978-981-02-2771-5</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-05</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Quantum+Chemistry%3A+Classic+Scientific+Papers&amp;rft.pages=140&amp;rft.pub=World+Scientific&amp;rft.date=2000&amp;rft.isbn=978-981-02-2771-5&amp;rft.aulast=Hettema&amp;rft.aufirst=H.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DqsidHRJmUoIC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-StranksEtAl1970-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-StranksEtAl1970_9-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Stranks, D. R.; Heffernan, M. L.; Lee Dow, K. C.; McTigue, P. T.; Withers, G. R. A. (1970). <i>Chemistry: A structural view</i>. <a href="/wiki/Carlton,_Victoria" title="Carlton, Victoria">Carlton, Vic.</a>: Melbourne University Press. p. 184. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-522-83988-6" title="Special:BookSources/0-522-83988-6">0-522-83988-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chemistry%3A+A+structural+view&amp;rft.place=Carlton%2C+Vic.&amp;rft.pages=184&amp;rft.pub=Melbourne+University+Press&amp;rft.date=1970&amp;rft.isbn=0-522-83988-6&amp;rft.aulast=Stranks&amp;rft.aufirst=D.+R.&amp;rft.au=Heffernan%2C+M.+L.&amp;rft.au=Lee+Dow%2C+K.+C.&amp;rft.au=McTigue%2C+P.+T.&amp;rft.au=Withers%2C+G.+R.+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Weinhold, F.; Landis, C. (2005). <i>Valency and Bonding</i>. Cambridge. pp. 96–100. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-521-83128-8" title="Special:BookSources/0-521-83128-8">0-521-83128-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Valency+and+Bonding&amp;rft.pages=96-100&amp;rft.pub=Cambridge&amp;rft.date=2005&amp;rft.isbn=0-521-83128-8&amp;rft.aulast=Weinhold&amp;rft.aufirst=F.&amp;rft.au=Landis%2C+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Harcourt, Richard D., ed. (2015). "Chapter 2: Pauling "3-Electron Bonds", 4-Electron 3-Centre Bonding, and the Need for an "Increased-Valence" Theory". <i>Bonding in Electron-Rich Molecules: Qualitative Valence-Bond Approach via Increased-Valence Structures</i>. Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9783319166766" title="Special:BookSources/9783319166766">9783319166766</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Chapter+2%3A+Pauling+%223-Electron+Bonds%22%2C+4-Electron+3-Centre+Bonding%2C+and+the+Need+for+an+%22Increased-Valence%22+Theory&amp;rft.btitle=Bonding+in+Electron-Rich+Molecules%3A+Qualitative+Valence-Bond+Approach+via+Increased-Valence+Structures&amp;rft.pub=Springer&amp;rft.date=2015&amp;rft.isbn=9783319166766&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-pauling-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-pauling_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pauling_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Pauling, L. (1960). <i>The Nature of the Chemical Bond</i>. Cornell University Press. pp. 340–354.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Nature+of+the+Chemical+Bond&amp;rft.pages=340-354&amp;rft.pub=Cornell+University+Press&amp;rft.date=1960&amp;rft.aulast=Pauling&amp;rft.aufirst=L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Cammarata, Antonio; Rondinelli, James M. (21 September 2014). "Covalent dependence of octahedral rotations in orthorhombic perovskite oxides". <i>Journal of Chemical Physics</i>. <b>141</b> (11): 114704. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2014JChPh.141k4704C" rel="nofollow">2014JChPh.141k4704C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1063%2F1.4895967" rel="nofollow">10.1063/1.4895967</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/25240365" rel="nofollow">25240365</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Chemical+Physics&amp;rft.atitle=Covalent+dependence+of+octahedral+rotations+in+orthorhombic+perovskite+oxides&amp;rft.volume=141&amp;rft.issue=11&amp;rft.pages=114704&amp;rft.date=2014-09-21&amp;rft_id=info%3Apmid%2F25240365&amp;rft_id=info%3Adoi%2F10.1063%2F1.4895967&amp;rft_id=info%3Abibcode%2F2014JChPh.141k4704C&amp;rft.aulast=Cammarata&amp;rft.aufirst=Antonio&amp;rft.au=Rondinelli%2C+James+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hughbanks, Timothy; Hoffmann, Roald (2002-05-01). "Chains of trans-edge-sharing molybdenum octahedra: metal-metal bonding in extended systems". <i>Journal of the American Chemical Society</i>. <b>105</b> (11): 3528–3537. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fja00349a027" rel="nofollow">10.1021/ja00349a027</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=Chains+of+trans-edge-sharing+molybdenum+octahedra%3A+metal-metal+bonding+in+extended+systems&amp;rft.volume=105&amp;rft.issue=11&amp;rft.pages=3528-3537&amp;rft.date=2002-05-01&amp;rft_id=info%3Adoi%2F10.1021%2Fja00349a027&amp;rft.aulast=Hughbanks&amp;rft.aufirst=Timothy&amp;rft.au=Hoffmann%2C+Roald&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dronskowski, Richard; Bloechl, Peter E. (2002-05-01). "Crystal orbital Hamilton populations (COHP): energy-resolved visualization of chemical bonding in solids based on density-functional calculations". <i>The Journal of Physical Chemistry</i>. <b>97</b> (33): 8617–8624. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fj100135a014" rel="nofollow">10.1021/j100135a014</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Physical+Chemistry&amp;rft.atitle=Crystal+orbital+Hamilton+populations+%28COHP%29%3A+energy-resolved+visualization+of+chemical+bonding+in+solids+based+on+density-functional+calculations&amp;rft.volume=97&amp;rft.issue=33&amp;rft.pages=8617-8624&amp;rft.date=2002-05-01&amp;rft_id=info%3Adoi%2F10.1021%2Fj100135a014&amp;rft.aulast=Dronskowski&amp;rft.aufirst=Richard&amp;rft.au=Bloechl%2C+Peter+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Grechnev, Alexei; Ahuja, Rajeev; Eriksson, Olle (2003-01-01). "Balanced crystal orbital overlap population—a tool for analysing chemical bonds in solids". <i>Journal of Physics: Condensed Matter</i>. <b>15</b> (45): 7751. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2003JPCM...15.7751G" rel="nofollow">2003JPCM...15.7751G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1088%2F0953-8984%2F15%2F45%2F014" rel="nofollow">10.1088/0953-8984/15/45/014</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0953-8984" rel="nofollow">0953-8984</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Physics%3A+Condensed+Matter&amp;rft.atitle=Balanced+crystal+orbital+overlap+population%E2%80%94a+tool+for+analysing+chemical+bonds+in+solids&amp;rft.volume=15&amp;rft.issue=45&amp;rft.pages=7751&amp;rft.date=2003-01-01&amp;rft.issn=0953-8984&amp;rft_id=info%3Adoi%2F10.1088%2F0953-8984%2F15%2F45%2F014&amp;rft_id=info%3Abibcode%2F2003JPCM...15.7751G&amp;rft.aulast=Grechnev&amp;rft.aufirst=Alexei&amp;rft.au=Ahuja%2C+Rajeev&amp;rft.au=Eriksson%2C+Olle&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Sources">Sources</span></h2>
+<ul><li><cite class="citation web"><a class="external text" href="http://www.chemguide.co.uk/atoms/bonding/covalent.html" rel="nofollow">"Covalent bonding – Single bonds"</a>. chemguide. 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-05</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Covalent+bonding+%E2%80%93+Single+bonds&amp;rft.pub=chemguide&amp;rft.date=2000&amp;rft_id=http%3A%2F%2Fwww.chemguide.co.uk%2Fatoms%2Fbonding%2Fcovalent.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation web"><a class="external text" href="http://www.chem.ox.ac.uk/vrchemistry/electronsandbonds/intro1.htm" rel="nofollow">"Electron Sharing and Covalent Bonds"</a>. Department of Chemistry University of Oxford<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-05</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Electron+Sharing+and+Covalent+Bonds&amp;rft.pub=Department+of+Chemistry+University+of+Oxford&amp;rft_id=http%3A%2F%2Fwww.chem.ox.ac.uk%2Fvrchemistry%2Felectronsandbonds%2Fintro1.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation web"><a class="external text" href="http://hyperphysics.phy-astr.gsu.edu/hbase/chemical/bond.html#c5" rel="nofollow">"Chemical Bonds"</a>. Department of Physics and Astronomy, Georgia State University<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-05</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chemical+Bonds&amp;rft.pub=Department+of+Physics+and+Astronomy%2C+Georgia+State+University&amp;rft_id=http%3A%2F%2Fhyperphysics.phy-astr.gsu.edu%2Fhbase%2Fchemical%2Fbond.html%23c5&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACovalent+bond"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul><li><a class="external text" href="http://wps.prenhall.com/wps/media/objects/602/616516/Chapter_07.html" rel="nofollow">Covalent Bonds and Molecular Structure</a></li>
+<li><a class="external text" href="http://www.chm.bris.ac.uk/pt/harvey/gcse/covalent.html" rel="nofollow">Structure and Bonding in Chemistry—Covalent Bonds</a></li></ul>
+<div aria-labelledby="Chemical_bonds" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Chemical_bonds" title="Template:Chemical bonds"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Chemical_bonds" title="Template talk:Chemical bonds"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chemical_bonds&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Chemical_bonds" style="font-size:114%;margin:0 4em"><a href="/wiki/Chemical_bond" title="Chemical bond">Chemical bonds</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Intramolecular_force" title="Intramolecular force">Intramolecular</a><br/>(strong)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-selflink selflink">Covalent</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%">By symmetry</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sigma_bond" title="Sigma bond">Sigma (σ)</a></li>
+<li><a href="/wiki/Pi_bond" title="Pi bond">Pi (π)</a></li>
+<li><a href="/wiki/Delta_bond" title="Delta bond">Delta (δ)</a></li>
+<li><a href="/wiki/Phi_bond" title="Phi bond">Phi (φ)</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">By <a href="/wiki/Bond_order" title="Bond order">multiplicity</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Single_bond" title="Single bond">1 (single)</a></li>
+<li><a href="/wiki/Double_bond" title="Double bond">2 (double)</a></li>
+<li><a href="/wiki/Triple_bond" title="Triple bond">3 (triple)</a></li>
+<li><a href="/wiki/Quadruple_bond" title="Quadruple bond">4 (quadruple)</a></li>
+<li><a href="/wiki/Quintuple_bond" title="Quintuple bond">5 (quintuple)</a></li>
+<li><a href="/wiki/Sextuple_bond" title="Sextuple bond">6 (sextuple)</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Miscellaneous</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agostic_interaction" title="Agostic interaction">Agostic</a></li>
+<li><a href="/wiki/Bent_bond" title="Bent bond">Bent</a></li>
+<li><a href="/wiki/Coordinate_covalent_bond" title="Coordinate covalent bond">Coordinate (dipolar)</a></li>
+<li><a href="/wiki/Pi_backbonding" title="Pi backbonding">Pi backbond</a></li>
+<li><a href="/wiki/Charge-shift_bond" title="Charge-shift bond">Charge-shift</a></li></ul>
+<ul><li><a href="/wiki/Hapticity" title="Hapticity">Hapticity</a></li>
+<li><a href="/wiki/Conjugated_system" title="Conjugated system">Conjugation</a></li>
+<li><a href="/wiki/Hyperconjugation" title="Hyperconjugation">Hyperconjugation</a></li>
+<li><a href="/wiki/Antibonding_molecular_orbital" title="Antibonding molecular orbital">Antibonding</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Resonance_(chemistry)" title="Resonance (chemistry)">Resonant</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Electron_deficiency" title="Electron deficiency">Electron deficiency</a>
+<ul><li><a href="/wiki/Three-center_two-electron_bond" title="Three-center two-electron bond">3c–2e</a></li>
+<li><a href="/wiki/Four-center_two-electron_bond" title="Four-center two-electron bond">4c–2e</a></li></ul></li>
+<li> <a href="/wiki/Hypervalent_molecule" title="Hypervalent molecule">Hypercoordination</a>
+<ul><li><a href="/wiki/Three-center_four-electron_bond" title="Three-center four-electron bond">3c–4e</a></li></ul></li>
+<li><a href="/wiki/Aromaticity" title="Aromaticity">Aromaticity</a>
+<ul><li><a href="/wiki/M%C3%B6bius_aromaticity" title="Möbius aromaticity">Möbius</a></li>
+<li><a href="/wiki/Superaromaticity" title="Superaromaticity">super</a></li>
+<li><a href="/wiki/%CE%A3-aromaticity" title="Σ-aromaticity">sigma</a></li>
+<li><a href="/wiki/Homoaromaticity" title="Homoaromaticity">homo</a></li>
+<li><a href="/wiki/Bicycloaromaticity" title="Bicycloaromaticity">bicyclo</a></li>
+<li><a class="mw-redirect" href="/wiki/Spiroaromaticity" title="Spiroaromaticity">spiro</a></li>
+<li><a href="/wiki/%CE%A3-bishomoaromaticity" title="Σ-bishomoaromaticity">σ-bishomo</a></li>
+<li><a href="/wiki/Spherical_aromaticity" title="Spherical aromaticity">spherical</a></li>
+<li><a href="/wiki/Y-aromaticity" title="Y-aromaticity">Y-</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Metallic_bonding" title="Metallic bonding">Metallic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Metal_aromaticity" title="Metal aromaticity">Metal aromaticity</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ionic_bonding" title="Ionic bonding">Ionic</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li class="mw-empty-elt"></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Intermolecular_force" title="Intermolecular force">Intermolecular</a><br/>(weak)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Van_der_Waals_force" title="Van der Waals force">van der Waals<br/>forces</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/London_dispersion_force" title="London dispersion force">London dispersion</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Hydrogen_bond" title="Hydrogen bond">Hydrogen</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Low-barrier_hydrogen_bond" title="Low-barrier hydrogen bond">Low-barrier</a></li>
+<li><a href="/wiki/Resonance-assisted_hydrogen_bond" title="Resonance-assisted hydrogen bond">Resonance-assisted</a></li>
+<li><a href="/wiki/Symmetric_hydrogen_bond" title="Symmetric hydrogen bond">Symmetric</a></li>
+<li><a href="/wiki/Dihydrogen_bond" title="Dihydrogen bond">Dihydrogen bonds</a></li>
+<li><a href="/wiki/C%E2%80%93H%C2%B7%C2%B7%C2%B7O_interaction" title="C–H···O interaction">C–H···O interaction</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Non-covalent_interactions" title="Non-covalent interactions">Noncovalent</a><br/>other</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Mechanical_bond" title="Mechanical bond">Mechanical</a></li>
+<li><a href="/wiki/Halogen_bond" title="Halogen bond">Halogen</a></li>
+<li><a href="/wiki/Chalcogen_bond" title="Chalcogen bond">Chalcogen</a></li>
+<li><a href="/wiki/Aurophilicity" title="Aurophilicity">Aurophilicity</a></li>
+<li><a href="/wiki/Intercalation_(chemistry)" title="Intercalation (chemistry)">Intercalation</a></li>
+<li><a href="/wiki/Stacking_(chemistry)" title="Stacking (chemistry)">Stacking</a></li>
+<li><a href="/wiki/Cation%E2%80%93pi_interaction" title="Cation–pi interaction">Cation–pi</a></li>
+<li><a href="/wiki/Cation%E2%80%93pi_interaction#Anion–π_interaction" title="Cation–pi interaction">Anion–pi</a></li>
+<li><a href="/wiki/Salt_bridge_(protein_and_supramolecular)" title="Salt bridge (protein and supramolecular)">Salt bridge</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Bond_cleavage" title="Bond cleavage">Bond cleavage</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Heterolysis_(chemistry)" title="Heterolysis (chemistry)">Heterolysis</a></li>
+<li><a href="/wiki/Homolysis_(chemistry)" title="Homolysis (chemistry)">Homolysis</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div aria-labelledby="Concepts_in_organic_chemistry" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Organic_chemistry" title="Template:Organic chemistry"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Organic_chemistry" title="Template talk:Organic chemistry"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Organic_chemistry&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Concepts_in_organic_chemistry" style="font-size:114%;margin:0 4em">Concepts in <a href="/wiki/Organic_chemistry" title="Organic chemistry">organic chemistry</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aromaticity" title="Aromaticity">Aromaticity</a></li>
+<li><a class="mw-selflink selflink">Covalent bonding</a></li>
+<li><a href="/wiki/Functional_group" title="Functional group">Functional groups</a></li>
+<li><a href="/wiki/IUPAC_nomenclature_of_organic_chemistry" title="IUPAC nomenclature of organic chemistry">Nomenclature</a></li>
+<li><a href="/wiki/Organic_compound" title="Organic compound">Organic compounds</a></li>
+<li><a href="/wiki/Organic_reaction" title="Organic reaction">Organic reactions</a></li>
+<li><a href="/wiki/Organic_synthesis" title="Organic synthesis">Organic synthesis</a></li>
+<li><a href="/wiki/List_of_important_publications_in_chemistry#Organic_chemistry" title="List of important publications in chemistry">Publications</a></li>
+<li><a href="/wiki/Spectroscopy" title="Spectroscopy">Spectroscopy</a></li>
+<li><a href="/wiki/Stereochemistry" title="Stereochemistry">Stereochemistry</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_organic_compounds" title="List of organic compounds">List of organic compounds</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q127920&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q127920&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q127920" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4143323-3" rel="nofollow">4143323-3</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1321
+Cached time: 20181013215639
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.476 seconds
+Real time usage: 0.620 seconds
+Preprocessor visited node count: 2400/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 98581/2097152 bytes
+Template argument size: 3527/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 48368/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.258/10.000 seconds
+Lua memory usage: 4.87 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  456.872      1 -total
+ 48.87%  223.255      1 Template:Reflist
+ 21.84%   99.800      8 Template:Cite_book
+ 19.96%   91.209      7 Template:Cite_journal
+  9.58%   43.769      1 Template:Pp
+  9.34%   42.683      2 Template:Better_source
+  8.30%   37.901      2 Template:Fix
+  6.88%   31.421      6 Template:Navbox
+  6.44%   29.422      4 Template:Chem
+  5.90%   26.976      1 Template:Authority_control
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6246-0!canonical!math=5 and timestamp 20181013215639 and revision id 851600077
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Covalent_bond&amp;oldid=851600077">https://en.wikipedia.org/w/index.php?title=Covalent_bond&amp;oldid=851600077</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chemical_bonding" title="Category:Chemical bonding">Chemical bonding</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_March_2015" title="Category:Articles lacking reliable references from March 2015">Articles lacking reliable references from March 2015</a></li><li><a href="/wiki/Category:CS1:_Julian%E2%80%93Gregorian_uncertainty" title="Category:CS1: Julian–Gregorian uncertainty">CS1: Julian–Gregorian uncertainty</a></li><li><a href="/wiki/Category:Wikipedia_semi-protected_pages" title="Category:Wikipedia semi-protected pages">Wikipedia semi-protected pages</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Covalent+bond" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Covalent+bond" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Covalent_bond" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Covalent_bond" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Covalent_bond">Read</a></span></li><li class="collapsible" id="ca-viewsource"><span><a accesskey="e" href="/w/index.php?title=Covalent_bond&amp;action=edit" title="This page is protected.
+You can view its source [e]">View source</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Covalent_bond&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Covalent_bond" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Covalent_bond" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Covalent_bond&amp;oldid=851600077" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Covalent_bond&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q127920" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Covalent_bond&amp;id=851600077" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Covalent+bond">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Covalent+bond&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Covalent_bond&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://en.wikibooks.org/wiki/General_Chemistry/Covalent_bonds" hreflang="en">Wikibooks</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Kovalente_binding" hreflang="af" lang="af" title="Kovalente binding – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9_%D8%AA%D8%B3%D8%A7%D9%87%D9%85%D9%8A%D8%A9" hreflang="ar" lang="ar" title="رابطة تساهمية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Enllaz_covalente" hreflang="ast" lang="ast" title="Enllaz covalente – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Kovalent_%C9%99laq%C9%99" hreflang="az" lang="az" title="Kovalent əlaqə – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A7%8B%E0%A6%9C%E0%A7%80_%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%A8" hreflang="bn" lang="bn" title="সমযোজী বন্ধন – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Ki%C5%8Dng-i%C3%BA_kiat-ha%CC%8Dp" hreflang="zh-min-nan" lang="zh-min-nan" title="Kiōng-iú kiat-ha̍p – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D1%83%D0%B2%D1%8F%D0%B7%D1%8C" hreflang="be" lang="be" title="Кавалентная сувязь – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%B0_%D0%B2%D1%80%D1%8A%D0%B7%D0%BA%D0%B0" hreflang="bg" lang="bg" title="Ковалентна връзка – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Kovalentna_veza" hreflang="bs" lang="bs" title="Kovalentna veza – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Enlla%C3%A7_covalent" hreflang="ca" lang="ca" title="Enllaç covalent – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Kovalentn%C3%AD_vazba" hreflang="cs" lang="cs" title="Kovalentní vazba – Czech">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Bond_cofalent" hreflang="cy" lang="cy" title="Bond cofalent – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Kovalent_binding" hreflang="da" lang="da" title="Kovalent binding – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Kovalente_Bindung" hreflang="de" lang="de" title="Kovalente Bindung – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Kovalentne_side" hreflang="et" lang="et" title="Kovalentne side – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9F%CE%BC%CE%BF%CE%B9%CE%BF%CF%80%CE%BF%CE%BB%CE%B9%CE%BA%CF%8C%CF%82_%CE%B4%CE%B5%CF%83%CE%BC%CF%8C%CF%82" hreflang="el" lang="el" title="Ομοιοπολικός δεσμός – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Enlace_covalente" hreflang="es" lang="es" title="Enlace covalente – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Kovalenta_ligo" hreflang="eo" lang="eo" title="Kovalenta ligo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Lotura_kobalente" hreflang="eu" lang="eu" title="Lotura kobalente – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D9%88%D9%86%D8%AF_%DA%A9%D9%88%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%B3%DB%8C" hreflang="fa" lang="fa" title="پیوند کووالانسی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Liaison_covalente" hreflang="fr" lang="fr" title="Liaison covalente – French">Français</a></li><li class="interlanguage-link interwiki-gv"><a class="interlanguage-link-target" href="https://gv.wikipedia.org/wiki/Kiangley_cofioosagh" hreflang="gv" lang="gv" title="Kiangley cofioosagh – Manx">Gaelg</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Enlace_covalente" hreflang="gl" lang="gl" title="Enlace covalente – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%9C%A0_%EA%B2%B0%ED%95%A9" hreflang="ko" lang="ko" title="공유 결합 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%B9%E0%A4%B8%E0%A4%82%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A5%80_%E0%A4%86%E0%A4%AC%E0%A4%82%E0%A4%A7" hreflang="hi" lang="hi" title="सहसंयोजी आबंध – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Kovalentna_veza" hreflang="hr" lang="hr" title="Kovalentna veza – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Ikatan_kovalen" hreflang="id" lang="id" title="Ikatan kovalen – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Legame_covalente" hreflang="it" lang="it" title="Legame covalente – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A7%D7%A9%D7%A8_%D7%A7%D7%95%D7%95%D7%9C%D7%A0%D7%98%D7%99" hreflang="he" lang="he" title="קשר קוולנטי – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Ikatan_Kovalen" hreflang="jv" lang="jv" title="Ikatan Kovalen – Javanese">Basa Jawa</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%9D%E1%83%95%E1%83%90%E1%83%9A%E1%83%94%E1%83%9C%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%91%E1%83%9B%E1%83%90" hreflang="ka" lang="ka" title="კოვალენტური ბმა – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D1%82%D1%96%D0%BA_%D0%B1%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D1%8B%D1%81" hreflang="kk" lang="kk" title="Коваленттік байланыс – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Lyezon_kovalan" hreflang="ht" lang="ht" title="Lyezon kovalan – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Kovalent%C4%81_saite" hreflang="lv" lang="lv" title="Kovalentā saite – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Kovalentinis_ry%C5%A1ys" hreflang="lt" lang="lt" title="Kovalentinis ryšys – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Kovalens_k%C3%B6t%C3%A9s" hreflang="hu" lang="hu" title="Kovalens kötés – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%B0_%D0%B2%D1%80%D1%81%D0%BA%D0%B0" hreflang="mk" lang="mk" title="Ковалентна врска – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%B9%E0%B4%B8%E0%B4%82%E0%B4%AF%E0%B5%8B%E0%B4%9C%E0%B4%95%E0%B4%AC%E0%B4%A8%E0%B5%8D%E0%B4%A7%E0%B4%A8%E0%B4%82" hreflang="ml" lang="ml" title="സഹസംയോജകബന്ധനം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%B8%E0%A4%B9%E0%A4%B8%E0%A4%82%E0%A4%AF%E0%A5%81%E0%A4%9C_%E0%A4%AC%E0%A4%82%E0%A4%A7" hreflang="mr" lang="mr" title="सहसंयुज बंध – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Ikatan_kovalen" hreflang="ms" lang="ms" title="Ikatan kovalen – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Covalente_binding" hreflang="nl" lang="nl" title="Covalente binding – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%85%B1%E6%9C%89%E7%B5%90%E5%90%88" hreflang="ja" lang="ja" title="共有結合 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Kovalent_binding" hreflang="no" lang="no" title="Kovalent binding – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Kovalent_binding" hreflang="nn" lang="nn" title="Kovalent binding – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Ligam_covalent" hreflang="oc" lang="oc" title="Ligam covalent – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-pa"><a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%B8%E0%A8%B9%E0%A8%BF%E0%A8%AF%E0%A9%8B%E0%A8%9C%E0%A8%95%E0%A9%80_%E0%A8%9C%E0%A9%8B%E0%A9%9C" hreflang="pa" lang="pa" title="ਸਹਿਯੋਜਕੀ ਜੋੜ – Punjabi">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pnb"><a class="interlanguage-link-target" href="https://pnb.wikipedia.org/wiki/%DA%A9%D9%88%D9%88%DB%8C%D9%84%D9%86%D9%B9_%D8%AC%D9%88%DA%91" hreflang="pnb" lang="pnb" title="کوویلنٹ جوڑ – Western Punjabi">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Wi%C4%85zanie_kowalencyjne" hreflang="pl" lang="pl" title="Wiązanie kowalencyjne – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Liga%C3%A7%C3%A3o_covalente" hreflang="pt" lang="pt" title="Ligação covalente – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Leg%C4%83tur%C4%83_covalent%C4%83" hreflang="ro" lang="ro" title="Legătură covalentă – Romanian">Română</a></li><li class="interlanguage-link interwiki-rue"><a class="interlanguage-link-target" href="https://rue.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%B0_%D0%B2%D1%8F%D0%B7%D0%B1%D0%B0" hreflang="rue" lang="rue" title="Ковалентна вязба – Rusyn">Русиньскый</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%B0%D1%8F_%D1%81%D0%B2%D1%8F%D0%B7%D1%8C" hreflang="ru" lang="ru" title="Ковалентная связь – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Covalent_bond" hreflang="sco" lang="sco" title="Covalent bond – Scots">Scots</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Lidhja_kovalente" hreflang="sq" lang="sq" title="Lidhja kovalente – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-si"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B7%83%E0%B7%84%E0%B7%83%E0%B6%82%E0%B6%BA%E0%B7%94%E0%B6%A2_%E0%B6%B6%E0%B6%B1%E0%B7%8A%E0%B6%B0%E0%B6%B1%E0%B6%BA" hreflang="si" lang="si" title="සහසංයුජ බන්ධනය – Sinhala">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Covalent_bond" hreflang="simple" lang="simple" title="Covalent bond – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Kovalentn%C3%A1_v%C3%A4zba" hreflang="sk" lang="sk" title="Kovalentná väzba – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Kovalentna_vez" hreflang="sl" lang="sl" title="Kovalentna vez – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%B0_%D0%B2%D0%B5%D0%B7%D0%B0" hreflang="sr" lang="sr" title="Ковалентна веза – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Kovalentna_veza" hreflang="sh" lang="sh" title="Kovalentna veza – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a class="interlanguage-link-target" href="https://su.wikipedia.org/wiki/Beungkeut_koval%C3%A9n" hreflang="su" lang="su" title="Beungkeut kovalén – Sundanese">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kovalenttinen_sidos" hreflang="fi" lang="fi" title="Kovalenttinen sidos – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Kovalent_bindning" hreflang="sv" lang="sv" title="Kovalent bindning – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AE%95%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AE%BF%E0%AE%A3%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81" hreflang="ta" lang="ta" title="சகப் பிணைப்பு – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B0%E0%B9%82%E0%B8%84%E0%B9%80%E0%B8%A7%E0%B9%80%E0%B8%A5%E0%B8%99%E0%B8%95%E0%B9%8C" hreflang="th" lang="th" title="พันธะโคเวเลนต์ – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Kovalent_ba%C4%9F" hreflang="tr" lang="tr" title="Kovalent bağ – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%B8%D0%B9_%D0%B7%D0%B2%27%D1%8F%D0%B7%D0%BE%D0%BA" hreflang="uk" lang="uk" title="Ковалентний зв'язок – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%DA%A9%D9%88%D9%88%DB%8C%D9%84%D9%86%D9%B9_%D8%A8%D9%88%D9%86%DA%88" hreflang="ur" lang="ur" title="کوویلنٹ بونڈ – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Li%C3%AAn_k%E1%BA%BFt_c%E1%BB%99ng_h%C3%B3a_tr%E1%BB%8B" hreflang="vi" lang="vi" title="Liên kết cộng hóa trị – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a class="interlanguage-link-target" href="https://zh-classical.wikipedia.org/wiki/%E5%85%B1%E5%83%B9%E9%8D%B5" hreflang="zh-classical" lang="zh-classical" title="共價鍵 – Classical Chinese">文言</a></li><li class="interlanguage-link interwiki-wuu"><a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E5%85%B1%E4%BB%B7%E9%94%AE" hreflang="wuu" lang="wuu" title="共价键 – Wu Chinese">吴语</a></li><li class="interlanguage-link interwiki-yi"><a class="interlanguage-link-target" href="https://yi.wikipedia.org/wiki/%D7%A7%D7%90%D7%95%D7%95%D7%90%D7%9C%D7%A2%D7%A0%D7%98%D7%A2%D7%A8_%D7%91%D7%95%D7%A0%D7%93" hreflang="yi" lang="yi" title="קאוואלענטער בונד – Yiddish">ייִדיש</a></li><li class="interlanguage-link interwiki-yo"><a class="interlanguage-link-target" href="https://yo.wikipedia.org/wiki/%C3%8Csop%E1%BB%8D%CC%80_%C3%A0j%E1%BB%8Dfagb%C3%A1rad%C3%ACm%C3%BA" hreflang="yo" lang="yo" title="Ìsopọ̀ àjọfagbáradìmú – Yoruba">Yorùbá</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E5%85%B1%E5%83%B9%E9%8D%B5" hreflang="zh-yue" lang="zh-yue" title="共價鍵 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%85%B1%E4%BB%B7%E9%94%AE" hreflang="zh" lang="zh" title="共价键 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q127920#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 23 July 2018, at 11:25<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Covalent_bond&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.476","walltime":"0.620","ppvisitednodes":{"value":2400,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":98581,"limit":2097152},"templateargumentsize":{"value":3527,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":48368,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  456.872      1 -total"," 48.87%  223.255      1 Template:Reflist"," 21.84%   99.800      8 Template:Cite_book"," 19.96%   91.209      7 Template:Cite_journal","  9.58%   43.769      1 Template:Pp","  9.34%   42.683      2 Template:Better_source","  8.30%   37.901      2 Template:Fix","  6.88%   31.421      6 Template:Navbox","  6.44%   29.422      4 Template:Chem","  5.90%   26.976      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.258","limit":"10.000"},"limitreport-memusage":{"value":5110295,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20181013215639","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1325"});});</script>
+</body>
+</html>

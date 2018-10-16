@@ -1,0 +1,2072 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>pH - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"PH","wgTitle":"PH","wgCurRevisionId":852983829,"wgRevisionId":852983829,"wgArticleId":24530,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia semi-protected pages","Wikipedia indefinitely move-protected pages","All articles with failed verification","Articles with failed verification from December 2017","Wikipedia articles needing clarification from October 2014","Use dmy dates from March 2012","Acid–base chemistry","Equilibrium chemistry","Units of measurement","Water quality indicators","Logarithmic scales of measurement","General chemistry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"PH","wgRelevantArticleId":24530,"wgRequestId":"W8JqmwpAAEMAAFFozZgAAAAD","wgCSPNonce":false,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q40936","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/2/23/216_pH_Scale-01.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/PH" rel="alternate"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/PH" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-PH rootpage-PH skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-pp-default"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected until February 3, 2020."><img alt="Page semi-protected" data-file-height="128" data-file-width="128" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/30px-Padlock-silver.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/40px-Padlock-silver.svg.png 2x" width="20"/></a></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">pH</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-disambig" href="/wiki/PH_(disambiguation)" title="PH (disambiguation)">PH (disambiguation)</a>.</div>
+<p>
+<span></span>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:216_pH_Scale-01.jpg"><img alt="" class="thumbimage" data-file-height="2339" data-file-width="1153" height="446" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/216_pH_Scale-01.jpg/220px-216_pH_Scale-01.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/216_pH_Scale-01.jpg/330px-216_pH_Scale-01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/216_pH_Scale-01.jpg/440px-216_pH_Scale-01.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:216_pH_Scale-01.jpg" title="Enlarge"></a></div>pH values of some common substances</div></div></div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;background:#d3d3d3;">Acids and Bases</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.2em 0 0.75em;">
+<ul><li><a href="/wiki/Acid" title="Acid">Acid</a></li>
+<li><a href="/wiki/Acid%E2%80%93base_reaction" title="Acid–base reaction">Acid–base reaction</a></li>
+<li><a href="/wiki/Acid_strength" title="Acid strength">Acid strength</a></li>
+<li><a href="/wiki/Acidity_function" title="Acidity function">Acidity function</a></li>
+<li><a href="/wiki/Amphoterism" title="Amphoterism">Amphoterism</a></li>
+<li><a href="/wiki/Base_(chemistry)" title="Base (chemistry)">Base</a></li>
+<li><a href="/wiki/Buffer_solution" title="Buffer solution">Buffer solutions</a></li>
+<li><a href="/wiki/Dissociation_constant" title="Dissociation constant">Dissociation constant</a></li>
+<li><a href="/wiki/Equilibrium_chemistry" title="Equilibrium chemistry">Equilibrium chemistry</a></li>
+<li><a href="/wiki/Acid-base_extraction" title="Acid-base extraction">Extraction</a></li>
+<li><a href="/wiki/Hammett_acidity_function" title="Hammett acidity function">Hammett acidity function</a></li>
+<li><a class="mw-selflink selflink">pH</a></li>
+<li><a href="/wiki/Proton_affinity" title="Proton affinity">Proton affinity</a></li>
+<li><a href="/wiki/Self-ionization_of_water" title="Self-ionization of water">Self-ionization of water</a></li>
+<li><a href="/wiki/Acid%E2%80%93base_titration" title="Acid–base titration">Titration</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#e5e5e5;">
+<a href="/wiki/Acid" title="Acid">Acid</a> types</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.2em 0 0.75em;">
+<ul><li><a href="/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theory" title="Brønsted–Lowry acid–base theory">Brønsted</a></li>
+<li><a href="/wiki/Lewis_acids_and_bases" title="Lewis acids and bases">Lewis</a></li>
+<li><a href="/wiki/Mineral_acid" title="Mineral acid">Mineral</a></li>
+<li><a href="/wiki/Organic_acid" title="Organic acid">Organic</a></li>
+<li><a class="mw-redirect" href="/wiki/Strong_acid" title="Strong acid">Strong</a></li>
+<li><a href="/wiki/Superacid" title="Superacid">Superacids</a></li>
+<li><a class="mw-redirect" href="/wiki/Weak_acid" title="Weak acid">Weak</a></li>
+<li><a href="/wiki/Solid_acid" title="Solid acid">Solid</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#e5e5e5;">
+<a href="/wiki/Base_(chemistry)" title="Base (chemistry)">Base</a> types</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.2em 0 0.75em;">
+<ul><li><a href="/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theory" title="Brønsted–Lowry acid–base theory">Brønsted</a></li>
+<li><a href="/wiki/Lewis_acids_and_bases" title="Lewis acids and bases">Lewis</a></li>
+<li><a href="/wiki/Organic_base" title="Organic base">Organic</a></li>
+<li><a href="/wiki/Base_(chemistry)#Strong_bases" title="Base (chemistry)">Strong</a></li>
+<li><a href="/wiki/Superbase" title="Superbase">Superbases</a></li>
+<li><a href="/wiki/Non-nucleophilic_base" title="Non-nucleophilic base">Non-nucleophilic</a></li>
+<li><a href="/wiki/Weak_base" title="Weak base">Weak</a></li></ul></td>
+</tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Acids_and_bases" title="Template:Acids and bases"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Acids_and_bases" title="Template talk:Acids and bases"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Acids_and_bases&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>In <a href="/wiki/Chemistry" title="Chemistry">chemistry</a>, <b>pH</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="'p' in 'pie'">p</span><span title="/iː/: 'ee' in 'fleece'">iː</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="/eɪ/: 'a' in 'face'">eɪ</span><span title="/tʃ/: 'ch' in 'China'">tʃ</span></span>/</a></span></span>) is a <a href="/wiki/Logarithmic_scale" title="Logarithmic scale">logarithmic scale</a> used to specify the <a class="mw-redirect" href="/wiki/Acidity" title="Acidity">acidity</a> or <a class="mw-redirect" href="/wiki/Basicity" title="Basicity">basicity</a> of an <a href="/wiki/Aqueous_solution" title="Aqueous solution">aqueous solution</a>.  It is approximately the negative of the base 10 <a href="/wiki/Logarithm" title="Logarithm">logarithm</a> of the <a href="/wiki/Molar_concentration" title="Molar concentration">molar concentration</a>, measured in units of <a href="/wiki/Mole_(unit)" title="Mole (unit)">moles</a> per liter, of <a href="/wiki/Hydrogen_ion" title="Hydrogen ion">hydrogen ions</a>. More precisely it is the negative of the base 10 logarithm of the <a class="mw-redirect" href="/wiki/Activity_(chemistry)" title="Activity (chemistry)">activity</a> of the hydrogen ion.<sup class="reference" id="cite_ref-Bates_1-0"><a href="#cite_note-Bates-1">[1]</a></sup> Solutions with a pH less than 7 are acidic and solutions with a pH greater than 7 are <a class="mw-redirect" href="/wiki/Basic_(chemistry)" title="Basic (chemistry)">basic</a>. <a href="/wiki/Properties_of_water" title="Properties of water">Pure water</a> is neutral, at pH 7 (25 °C), being neither an acid nor a base. Contrary to popular belief, the pH value can be less than 0 or greater than 14 for very strong acids and bases respectively.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p><p>Measurements of pH are important in <a href="/wiki/Agronomy" title="Agronomy">agronomy</a>, medicine, chemistry, water treatment, and many other applications.
+</p><p>The pH scale is <a class="mw-redirect" href="/wiki/Traceable" title="Traceable">traceable</a> to a set of standard solutions whose pH is established by international agreement.<sup class="reference" id="cite_ref-covington_3-0"><a href="#cite_note-covington-3">[3]</a></sup>
+Primary pH standard values are determined using a <a href="/wiki/Galvanic_cell" title="Galvanic cell">concentration cell with transference</a>, by measuring the potential difference between a <a class="mw-redirect" href="/wiki/Hydrogen_electrode" title="Hydrogen electrode">hydrogen electrode</a> and a standard electrode such as the <a href="/wiki/Silver_chloride_electrode" title="Silver chloride electrode">silver chloride electrode</a>.
+The pH of aqueous solutions can be measured with a <a href="/wiki/Glass_electrode" title="Glass electrode">glass electrode</a> and a <a href="/wiki/PH_meter" title="PH meter">pH meter</a>, or an <a href="/wiki/PH_indicator" title="PH indicator">indicator</a>.
+</p><p>There are three current theories used to describe <a href="/wiki/Acid%E2%80%93base_reaction" title="Acid–base reaction">acid–base reactions</a>: Arrhenius, Bronsted-Lowry and Lewis when determining pH.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Definition_and_measurement"><span class="tocnumber">2</span> <span class="toctext">Definition and measurement</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#pH"><span class="tocnumber">2.1</span> <span class="toctext">pH</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#p[H]"><span class="tocnumber">2.2</span> <span class="toctext">p[H]</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#pH_indicators"><span class="tocnumber">2.3</span> <span class="toctext">pH indicators</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#pOH"><span class="tocnumber">2.4</span> <span class="toctext">pOH</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Extremes_of_pH"><span class="tocnumber">2.5</span> <span class="toctext">Extremes of pH</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Non-aqueous_solutions"><span class="tocnumber">2.6</span> <span class="toctext">Non-aqueous solutions</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Unified_absolute_pH_scale"><span class="tocnumber">2.7</span> <span class="toctext">Unified absolute pH scale</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Applications"><span class="tocnumber">3</span> <span class="toctext">Applications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#pH_in_soil"><span class="tocnumber">3.1</span> <span class="toctext">pH in soil</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Classification_of_soil_pH_ranges"><span class="tocnumber">3.1.1</span> <span class="toctext">Classification of soil pH ranges</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#pH_in_nature"><span class="tocnumber">3.2</span> <span class="toctext">pH in nature</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Seawater"><span class="tocnumber">3.3</span> <span class="toctext">Seawater</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Living_systems"><span class="tocnumber">3.4</span> <span class="toctext">Living systems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Calculations_of_pH"><span class="tocnumber">4</span> <span class="toctext">Calculations of pH</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Strong_acids_and_bases"><span class="tocnumber">4.1</span> <span class="toctext">Strong acids and bases</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Weak_acids_and_bases"><span class="tocnumber">4.2</span> <span class="toctext">Weak acids and bases</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#General_method"><span class="tocnumber">4.3</span> <span class="toctext">General method</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<p>The concept of  pH was first introduced by the <a class="mw-redirect" href="/wiki/Danish_people" title="Danish people">Danish</a> chemist <a class="mw-redirect" href="/wiki/S%C3%B8ren_Peder_Lauritz_S%C3%B8rensen" title="Søren Peder Lauritz Sørensen">Søren Peder Lauritz Sørensen</a> at the <a href="/wiki/Carlsberg_Laboratory" title="Carlsberg Laboratory">Carlsberg Laboratory</a> in 1909<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> and revised to the modern pH in 1924 to accommodate definitions and measurements in terms of electrochemical cells. In the first papers, the notation had the "H" as a subscript to the lowercase "p", as so: p<sub>H</sub>.
+</p><p>The exact meaning of the "p" in "pH" is disputed, but according to the Carlsberg Foundation, pH stands for "<a href="/wiki/Exponentiation" title="Exponentiation">power</a> of hydrogen".<sup class="reference" id="cite_ref-Sor_5-0"><a href="#cite_note-Sor-5">[5]</a></sup> It has also been suggested that the "p" stands for the <a href="/wiki/German_language" title="German language">German</a> <i>Potenz</i><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (December 2017)">not in citation given</span></a></i>]</sup> (meaning "power"), others refer to <a href="/wiki/French_language" title="French language">French</a> <i>puissance</i> (also meaning "power", based on the fact that the Carlsberg Laboratory was French-speaking). 
+Another suggestion is that the "p" stands for the <a class="mw-redirect" href="/wiki/Latin_language" title="Latin language">Latin terms</a> <i>pondus hydrogenii</i> (quantity of hydrogen),  <i>potentia hydrogenii</i> (capacity of hydrogen), or potential hydrogen. It is also suggested that Sørensen used the letters "p" and "q" (commonly paired letters in mathematics) simply to label the test solution (p) and the reference solution (q).<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> Currently in <a href="/wiki/Chemistry" title="Chemistry">chemistry</a>, the p stands for "decimal <a href="/wiki/Cologarithm" title="Cologarithm">cologarithm</a> of", and is also used in the term p<i>K</i><sub>a</sub>, used for <a href="/wiki/Acid_dissociation_constant" title="Acid dissociation constant">acid dissociation constants</a>.<sup class="reference" id="cite_ref-Jens_7-0"><a href="#cite_note-Jens-7">[7]</a></sup>
+</p><p>Bacteriologist <a href="/wiki/Alice_Catherine_Evans" title="Alice Catherine Evans">Alice C. Evans</a>, famed for her work's influence on <a href="/wiki/Dairy" title="Dairy">dairying</a> and <a href="/wiki/Food_safety" title="Food safety">food safety</a>, credited William Mansfield Clark and colleagues (of whom she was one) with developing pH measuring methods in the 1910s, which had a wide influence on laboratory and industrial use thereafter. In her memoir, she does not mention how much, or how little, Clark and colleagues knew about Sørensen's work a few years prior.<sup class="reference" id="cite_ref-Evans-Memoirs_8-0"><a href="#cite_note-Evans-Memoirs-8">[8]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>10</span></sup> She said: 
+</p>
+<blockquote><p>In these studies [of bacterial metabolism] Dr. Clark's attention was directed to the effect of acid on the growth of bacteria. He found that it is the intensity of the acid in terms of hydrogen-ion concentration that affects their growth. But existing methods of measuring acidity determined the quantity, not the intensity, of the acid. Next, with his collaborators, Dr. Clark developed accurate methods for measuring hydrogen-ion concentration. These methods replaced the inaccurate titration method of determining acid content in use in biologic laboratories throughout the world. Also they were found to be applicable in many industrial and other processes in which they came into wide usage.<sup class="reference" id="cite_ref-Evans-Memoirs_8-1"><a href="#cite_note-Evans-Memoirs-8">[8]</a></sup><sup class="reference" style="white-space:nowrap;">:<span>10</span></sup></p></blockquote>
+<p>The first <a href="/wiki/Electronics" title="Electronics">electronic</a> method for measuring pH was invented by <a href="/wiki/Arnold_Orville_Beckman" title="Arnold Orville Beckman">Arnold Orville Beckman</a>, a professor at <a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">California Institute of Technology</a> in 1934.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> It was in response to local citrus grower <a href="/wiki/Sunkist_Growers,_Incorporated" title="Sunkist Growers, Incorporated">Sunkist</a> that wanted a better method for quickly testing the pH of lemons they were picking from their nearby orchards.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Definition_and_measurement">Definition and measurement</span></h2>
+<h3><span class="mw-headline" id="pH">pH</span></h3>
+<p>pH is defined as the decimal <a href="/wiki/Logarithm" title="Logarithm">logarithm</a> of the reciprocal of the <a href="/wiki/Hydrogen_ion" title="Hydrogen ion">hydrogen ion</a> <a class="mw-redirect" href="/wiki/Activity_(chemistry)" title="Activity (chemistry)">activity</a>, <i>a</i><sub>H</sub>+, in a solution.<sup class="reference" id="cite_ref-covington_3-1"><a href="#cite_note-covington-3">[3]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {pH}}=-\log _{10}(a_{{\ce {H+}}})=\log _{10}\left({\frac {1}{a_{{\ce {H+}}}}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>pH</mtext>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>log</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msub>
+<mi>log</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {pH}}=-\log _{10}(a_{{\ce {H+}}})=\log _{10}\left({\frac {1}{a_{{\ce {H+}}}}}\right)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {pH}}=-\log _{10}(a_{{\ce {H+}}})=\log _{10}\left({\frac {1}{a_{{\ce {H+}}}}}\right)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/932bace628e5b8db56e6220cc82210336491b3ab" style="vertical-align: -2.505ex; width:34.984ex; height:6.176ex;"/></span></dd></dl>
+<p>For example, a solution with a hydrogen ion activity of <span class="texhtml">5×10<sup>−6</sup> = 1/(2×10<sup>5</sup>)</span> (at that level essentially the number of moles of hydrogen ions per liter of solution) has a pH of <span class="texhtml">log<sub>10</sub>(2×10<sup>5</sup>) = 5.3</span>.  For a commonplace example based on the facts that the masses of a mole of water, a mole of hydrogen ions, and a mole of <a class="mw-redirect" href="/wiki/Hydroxide_ion" title="Hydroxide ion">hydroxide ions</a> are respectively 18 g, 1 g, and 17 g, a quantity of 10<sup>7</sup> moles of pure (pH 7) water, or 180 tonnes (18×10<sup>7</sup> g), contains close to 1 g of <a href="/wiki/Dissociation_(chemistry)" title="Dissociation (chemistry)">dissociated</a> hydrogen ions (or rather 19 g of H<sub>3</sub>O<sup>+</sup> <a href="/wiki/Hydronium" title="Hydronium">hydronium</a> ions) and 17 g of hydroxide ions.
+</p><p>Note that pH depends on temperature. For instance at 0 °C the pH of pure water is 7.47. At 25 °C it's 7.00, and at 100 °C it's 6.14.
+</p><p>This definition was adopted because <a class="mw-redirect" href="/wiki/Ion-selective_electrode" title="Ion-selective electrode">ion-selective electrodes</a>, which are used to measure pH, respond to activity. Ideally, electrode potential, <i>E</i>, follows the <a href="/wiki/Nernst_equation" title="Nernst equation">Nernst equation</a>, which, for the hydrogen ion can be written as
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E=E^{0}+{\frac {RT}{F}}\ln(a_{{\ce {H+}}})=E^{0}-{\frac {2.303RT}{F}}{\ce {pH}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo>=</mo>
+<msup>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>R</mi>
+<mi>T</mi>
+</mrow>
+<mi>F</mi>
+</mfrac>
+</mrow>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msup>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2.303</mn>
+<mi>R</mi>
+<mi>T</mi>
+</mrow>
+<mi>F</mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>pH</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E=E^{0}+{\frac {RT}{F}}\ln(a_{{\ce {H+}}})=E^{0}-{\frac {2.303RT}{F}}{\ce {pH}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E=E^{0}+{\frac {RT}{F}}\ln(a_{{\ce {H+}}})=E^{0}-{\frac {2.303RT}{F}}{\ce {pH}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eaa82a0c1f04198c3b4917b2cf5615b0026ff3fb" style="vertical-align: -1.838ex; width:44.187ex; height:5.176ex;"/></span></dd></dl>
+<p>where <i>E</i> is a measured potential, <i>E</i><sup>0</sup> is the standard electrode potential, <i>R</i> is the <a href="/wiki/Gas_constant" title="Gas constant">gas constant</a>, <i>T</i> is the temperature in <a href="/wiki/Kelvin" title="Kelvin">kelvins</a>, <i>F</i> is the <a href="/wiki/Faraday_constant" title="Faraday constant">Faraday constant</a>. For H<sup>+</sup> number of electrons transferred is one. It follows that electrode potential is proportional to pH when pH is defined in terms of activity.  Precise measurement of pH is presented in International Standard <a href="/wiki/ISO_31-8" title="ISO 31-8">ISO 31-8</a> as follows:<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> A <a href="/wiki/Galvanic_cell" title="Galvanic cell">galvanic cell</a> is set up to measure the <a href="/wiki/Electromotive_force" title="Electromotive force">electromotive force</a> (e.m.f.) between a reference electrode and an electrode sensitive to the hydrogen ion activity when they are both immersed in the same aqueous solution. The reference electrode may be a <a href="/wiki/Silver_chloride_electrode" title="Silver chloride electrode">silver chloride electrode</a> or a <a href="/wiki/Saturated_calomel_electrode" title="Saturated calomel electrode">calomel electrode</a>. The hydrogen-ion selective electrode is a <a href="/wiki/Standard_hydrogen_electrode" title="Standard hydrogen electrode">standard hydrogen electrode</a>.
+</p>
+<dl><dd><span class="texhtml">Reference electrode | concentrated solution of KCl || test solution | H<sub>2</sub> | Pt</span><sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (October 2014)">clarification needed</span></a></i>]</sup></dd></dl>
+<p>Firstly, the cell is filled with a solution of known hydrogen ion activity and the emf, <i>E</i><sub>S</sub>, is measured. Then the emf, <i>E</i><sub>X</sub>, of the same cell containing the solution of unknown pH is measured.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {pH(X)}}={\ce {pH(S)}}+{\frac {E_{{\ce {S}}}-E_{{\ce {X}}}}{z}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>pH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mtext>X</mtext>
+<mo stretchy="false">)</mo>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>pH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mtext>S</mtext>
+<mo stretchy="false">)</mo>
+</mrow>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>S</mtext>
+</mrow>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>X</mtext>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+<mi>z</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {pH(X)}}={\ce {pH(S)}}+{\frac {E_{{\ce {S}}}-E_{{\ce {X}}}}{z}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {pH(X)}}={\ce {pH(S)}}+{\frac {E_{{\ce {S}}}-E_{{\ce {X}}}}{z}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/61d7f14649cf22c1e0a8f70a165821e5367fa721" style="vertical-align: -1.838ex; width:28.382ex; height:5.343ex;"/></span></dd></dl>
+<p>The difference between the two measured emf values is proportional to pH. This method of calibration avoids the need to know the standard electrode potential. The proportionality constant, 1/<i>z</i> is ideally equal to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {1}{2.303RT/F}}\ }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>2.303</mn>
+<mi>R</mi>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>F</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {1}{2.303RT/F}}\ }</annotation>
+</semantics>
+</math></span><img alt="{\frac {1}{2.303RT/F}}\ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/601de58f17f7415035e83849cbe38e7d0901742f" style="vertical-align: -2.671ex; width:13.017ex; height:6.009ex;"/></span> the "Nernstian slope".
+</p><p>To apply this process in practice, a <a href="/wiki/Glass_electrode" title="Glass electrode">glass electrode</a> is used rather than the cumbersome hydrogen electrode. A combined glass electrode has an in-built reference electrode. It is calibrated against <a href="/wiki/Buffer_solution" title="Buffer solution">buffer solutions</a> of known hydrogen ion activity. <a class="mw-redirect" href="/wiki/IUPAC" title="IUPAC">IUPAC</a> has proposed the use of a set of buffer solutions of known H<sup>+</sup> activity.<sup class="reference" id="cite_ref-covington_3-2"><a href="#cite_note-covington-3">[3]</a></sup> Two or more buffer solutions are used in order to accommodate the fact that the "slope" may differ slightly from ideal. To implement this approach to calibration, the electrode is first immersed in a standard solution and the reading on a <a href="/wiki/PH_meter" title="PH meter">pH meter</a> is adjusted to be equal to the standard buffer's value. The reading from a second standard buffer solution is then adjusted, using the "slope" control, to be equal to the pH for that solution. Further details, are given in the <a class="mw-redirect" href="/wiki/IUPAC" title="IUPAC">IUPAC</a> recommendations.<sup class="reference" id="cite_ref-covington_3-3"><a href="#cite_note-covington-3">[3]</a></sup> When more than two buffer solutions are used the electrode is calibrated by fitting observed pH values to a straight line with respect to standard buffer values. Commercial standard buffer solutions usually come with information on the value at 25 °C and a correction factor to be applied for other temperatures.
+</p><p>The pH scale is logarithmic and therefore pH is a <a href="/wiki/Dimensionless_quantity" title="Dimensionless quantity">dimensionless quantity</a>.
+</p>
+<h3><span id="p.5BH.5D"></span><span class="mw-headline" id="p[H]">p[H]</span></h3>
+<p>This was the original definition of Sørensen,<sup class="reference" id="cite_ref-Sor_5-1"><a href="#cite_note-Sor-5">[5]</a></sup> which was superseded in favor of pH in 1909. However, it is possible to measure the concentration of hydrogen ions directly, if the electrode is calibrated in terms of hydrogen ion concentrations. One way to do this, which has been used extensively, is to <a href="/wiki/Titration" title="Titration">titrate</a> a solution of known concentration of a strong acid with a solution of known concentration of strong alkaline in the presence of a relatively high concentration of background electrolyte. Since the concentrations of acid and alkaline are known, it is easy to calculate the concentration of hydrogen ions so that the measured potential can be correlated with concentrations. The calibration is usually carried out using a <a href="/wiki/Gran_plot#Electrode_calibration" title="Gran plot">Gran plot</a>.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> The calibration yields a value for the standard electrode potential, <i>E</i><sup>0</sup>, and a slope factor, <i>f</i>, so that the Nernst equation in the form
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E=E^{0}+f{\frac {2.303RT}{F}}\log[{\ce {H+}}]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo>=</mo>
+<msup>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mi>f</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2.303</mn>
+<mi>R</mi>
+<mi>T</mi>
+</mrow>
+<mi>F</mi>
+</mfrac>
+</mrow>
+<mi>log</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+<mo stretchy="false">]</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E=E^{0}+f{\frac {2.303RT}{F}}\log[{\ce {H+}}]}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E=E^{0}+f{\frac {2.303RT}{F}}\log[{\ce {H+}}]}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4d707b814af8ddd178ac7f75e8e16f73babd4059" style="vertical-align: -1.838ex; width:29.281ex; height:5.176ex;"/></span></dd></dl>
+<p>can be used to derive hydrogen ion concentrations from experimental measurements of <i>E</i>. The slope factor, <i>f</i>, is usually slightly less than one. A slope factor of less than 0.95 indicates that the electrode is not functioning correctly. The presence of background electrolyte ensures that the hydrogen ion activity coefficient is effectively constant during the titration. As it is constant, its value can be set to one by defining the <a href="/wiki/Standard_state" title="Standard state">standard state</a> as being the solution containing the background electrolyte. Thus, the effect of using this procedure is to make activity equal to the numerical value of concentration.
+</p><p>The glass electrode (and other <a href="/wiki/Ion_selective_electrode" title="Ion selective electrode">ion selective electrodes</a>) should be calibrated in a medium similar to the one being investigated. For instance, if one wishes to measure the pH of a seawater sample, the electrode should be calibrated in a solution resembling seawater in its chemical composition, as detailed below.
+</p><p>The difference between p[H] and pH is quite small. It has been stated<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> that pH = p[H] + 0.04. It is common practice to use the term "pH" for both types of measurement.
+</p>
+<h3><span class="mw-headline" id="pH_indicators">pH indicators</span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Universal_indicator" title="Universal indicator">Universal indicator</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Universal_indicator_paper.jpg"><img alt="" class="thumbimage" data-file-height="1185" data-file-width="1371" height="259" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Universal_indicator_paper.jpg/300px-Universal_indicator_paper.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Universal_indicator_paper.jpg/450px-Universal_indicator_paper.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Universal_indicator_paper.jpg/600px-Universal_indicator_paper.jpg 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Universal_indicator_paper.jpg" title="Enlarge"></a></div>Chart showing the variation of color of universal indicator paper with pH</div></div></div>
+<p>Indicators may be used to measure pH, by making use of the fact that their color changes with pH. Visual comparison of the color of a test solution with a standard color chart provides a means to measure pH accurate to the nearest whole number. More precise measurements are possible if the color is measured spectrophotometrically, using a <a href="/wiki/Colorimeter_(chemistry)" title="Colorimeter (chemistry)">colorimeter</a> or <a class="mw-redirect" href="/wiki/Spectrophotometer" title="Spectrophotometer">spectrophotometer</a>.
+<a href="/wiki/Universal_indicator" title="Universal indicator">Universal indicator</a> consists of a mixture of indicators such that there is a continuous color change from about pH 2 to pH 10. Universal indicator paper is made from absorbent paper that has been impregnated with universal indicator. Another method of measuring pH is using an electronic pH meter.
+</p>
+<h3><span class="mw-headline" id="pOH">pOH</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:PHscalenolang.svg"><img alt="" class="thumbimage" data-file-height="205" data-file-width="731" height="84" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/PHscalenolang.svg/300px-PHscalenolang.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/PHscalenolang.svg/450px-PHscalenolang.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/PHscalenolang.svg/600px-PHscalenolang.svg.png 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:PHscalenolang.svg" title="Enlarge"></a></div>Relation between p[OH] and p[H] (red = acidic region, blue = basic region)</div></div></div>
+<p>pOH is sometimes used as a measure of the concentration of hydroxide ions. OH<sup>−</sup>. pOH values are derived from pH measurements. The concentration of hydroxide ions in water is related to the concentration of hydrogen ions by
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle [{\ce {OH^-}}]={\frac {K_{{\ce {W}}}}{[{\ce {H^+}}]}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>OH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msup>
+</mrow>
+<mo stretchy="false">]</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>W</mtext>
+</mrow>
+</mrow>
+</msub>
+<mrow>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+<mo stretchy="false">]</mo>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle [{\ce {OH^-}}]={\frac {K_{{\ce {W}}}}{[{\ce {H^+}}]}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle [{\ce {OH^-}}]={\frac {K_{{\ce {W}}}}{[{\ce {H^+}}]}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0e914d2d8665e01b649b6ecc09acdb2bb823b33c" style="vertical-align: -2.838ex; width:14.838ex; height:6.343ex;"/></span></dd></dl>
+<p>where <i>K</i><sub>W</sub> is the <a href="/wiki/Self-ionization_of_water" title="Self-ionization of water">self-ionisation</a> constant of water. Taking <a href="/wiki/Logarithm" title="Logarithm">logarithms</a>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {pOH}}={\ce {p}}K_{{\ce {W}}}-{\ce {pH}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>pOH</mtext>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>p</mtext>
+</mrow>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>W</mtext>
+</mrow>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>pH</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {pOH}}={\ce {p}}K_{{\ce {W}}}-{\ce {pH}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {pOH}}={\ce {p}}K_{{\ce {W}}}-{\ce {pH}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cb3c853dcf92e840ccfd9f398cab4fe0abf21cb4" style="vertical-align: -0.671ex; width:19.005ex; height:2.509ex;"/></span></dd></dl>
+<p>So, at room temperature, pOH ≈ 14 − pH. However this relationship is not strictly valid in other circumstances, such as in measurements of <a class="mw-redirect" href="/wiki/Alkaline_soils" title="Alkaline soils">soil alkalinity</a>.
+</p>
+<h3><span class="mw-headline" id="Extremes_of_pH">Extremes of pH</span></h3>
+<p>Measurement of pH below about 2.5 (ca. 0.003 <a href="/wiki/Mole_(unit)" title="Mole (unit)">mol</a> dm<sup>−3</sup> acid) and above about 10.5 (ca. 0.0003 mol dm<sup>−3</sup> alkaline) requires special procedures because, when using the glass electrode, the <a href="/wiki/Nernst_equation" title="Nernst equation">Nernst law</a> breaks down under those conditions. Various factors contribute to this. It cannot be assumed that <a href="/wiki/Liquid_junction_potential" title="Liquid junction potential">liquid junction potentials</a> are independent of pH.<sup class="reference" id="cite_ref-Feldman_14-0"><a href="#cite_note-Feldman-14">[14]</a></sup> Also, extreme pH implies that the solution is concentrated, so electrode potentials are affected by <a href="/wiki/Ionic_strength" title="Ionic strength">ionic strength</a> variation. At high pH the glass electrode may be affected by "alkaline error", because the electrode becomes sensitive to the concentration of cations such as Na<sup>+</sup> and K<sup>+</sup> in the solution.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> Specially constructed electrodes are available which partly overcome these problems.
+</p><p>Runoff from mines or mine tailings can produce some very low pH values.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Non-aqueous_solutions">Non-aqueous solutions</span></h3>
+<p>Hydrogen ion concentrations (activities) can be measured in non-aqueous solvents. pH values based on these measurements belong to a different scale from aqueous pH values, because <a class="mw-redirect" href="/wiki/Activity_(chemistry)" title="Activity (chemistry)">activities</a> relate to different <a href="/wiki/Standard_state" title="Standard state">standard states</a>. Hydrogen ion activity, <i>a<sub>H<sup>+</sup></sub></i>, can be defined<sup class="reference" id="cite_ref-GoldBook_17-0"><a href="#cite_note-GoldBook-17">[17]</a></sup><sup class="reference" id="cite_ref-GreenBook_18-0"><a href="#cite_note-GreenBook-18">[18]</a></sup> as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a_{{\ce {H+}}}=\exp \left({\frac {\mu _{{\ce {H+}}}-\mu _{{\ce {H+}}}^{\ominus }}{RT}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>exp</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>⊖<!-- ⊖ --></mo>
+</mrow>
+</msubsup>
+</mrow>
+<mrow>
+<mi>R</mi>
+<mi>T</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a_{{\ce {H+}}}=\exp \left({\frac {\mu _{{\ce {H+}}}-\mu _{{\ce {H+}}}^{\ominus }}{RT}}\right)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a_{{\ce {H+}}}=\exp \left({\frac {\mu _{{\ce {H+}}}-\mu _{{\ce {H+}}}^{\ominus }}{RT}}\right)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c2554db9edcefbf9fbe64b965caf52d88fbef11c" style="vertical-align: -3.171ex; width:26.043ex; height:7.509ex;"/></span></dd></dl>
+<p>where <i>μ</i><sub>H<sup>+</sup></sub> is the <a href="/wiki/Chemical_potential" title="Chemical potential">chemical potential</a> of the hydrogen ion, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mu _{{\ce {H+}}}^{\ominus }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>⊖<!-- ⊖ --></mo>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mu _{{\ce {H+}}}^{\ominus }}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mu _{{\ce {H+}}}^{\ominus }}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b94d142b00deab67cbdaa710bcd956bb12cc916" style="vertical-align: -1.338ex; width:4.069ex; height:3.509ex;"/></span> is its chemical potential in the chosen standard state, <i>R</i> is the <a href="/wiki/Gas_constant" title="Gas constant">gas constant</a> and <i>T</i> is the <a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">thermodynamic temperature</a>. Therefore, pH values on the different scales cannot be compared directly due to different solvated proton ions such as lyonium ions, requiring an intersolvent scale which involves the transfer activity coefficient of <a href="/wiki/Lyonium_ion" title="Lyonium ion">hydronium/lyonium ion</a>.
+</p><p>pH is an example of an <a href="/wiki/Acidity_function" title="Acidity function">acidity function</a>. Other acidity functions can be defined. For example, the <a href="/wiki/Hammett_acidity_function" title="Hammett acidity function">Hammett acidity function</a>, <i>H</i><sub>0</sub>, has been developed in connection with <a href="/wiki/Superacid" title="Superacid">superacids</a>.
+</p>
+<h3><span class="mw-headline" id="Unified_absolute_pH_scale">Unified absolute pH scale</span></h3>
+<p>The concept of "unified pH scale" has been developed on the basis of the absolute chemical potential of the proton. This model uses the <a href="/wiki/Lewis_acids_and_bases" title="Lewis acids and bases">Lewis acid–base</a> definition. This scale applies to liquids, gases and even solids.<sup class="reference" id="cite_ref-Krossing_19-0"><a href="#cite_note-Krossing-19">[19]</a></sup>
+In 2010, a new "unified absolute pH scale" has been proposed that would allow various pH ranges across different solutions to use a common proton reference standard.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Applications">Applications</span></h2>
+<p>Pure water is neutral. When an <a href="/wiki/Acid" title="Acid">acid</a> is dissolved in water, the pH will be less than 7 (25 °C). When a <a href="/wiki/Base_(chemistry)" title="Base (chemistry)">base</a>, or <a href="/wiki/Alkali" title="Alkali">alkali</a>, is dissolved in water, the pH will be greater than 7. A solution of a strong acid, such as <a href="/wiki/Hydrochloric_acid" title="Hydrochloric acid">hydrochloric acid</a>, at concentration 1 mol dm<sup>−3</sup> has a pH of 0. A solution of a strong alkali, such as <a href="/wiki/Sodium_hydroxide" title="Sodium hydroxide">sodium hydroxide</a>, at concentration 1 mol dm<sup>−3</sup>, has a pH of 14. Thus, measured pH values will lie mostly in the range 0 to 14, though negative pH values and values above 14 are entirely possible. Since pH is a logarithmic scale, a difference of one pH unit is equivalent to a tenfold difference in hydrogen ion concentration. <br/>
+The pH of neutrality is not exactly 7 (25 °C), although this is a good approximation in most cases. Neutrality is defined as the condition where [H<sup>+</sup>] = [OH<sup>−</sup>] (or the activities are equal). Since <a href="/wiki/Self-ionization_of_water" title="Self-ionization of water">self-ionization of water</a> holds the product of these concentration [H<sup>+</sup>]×[OH<sup>−</sup>] = K<sub>w</sub>, it can be seen that at neutrality [H<sup>+</sup>] = [OH<sup>−</sup>] = <span class="nowrap">√<span style="border-top:1px solid; padding:0 0.1em;">K<sub>w</sub></span></span>, or pH = pK<sub>w</sub>/2. pK<sub>w</sub> is approximately 14 but depends on ionic strength and temperature, and so the pH of neutrality does also. Pure water and a solution of <a href="/wiki/Sodium_chloride" title="Sodium chloride">NaCl</a> in pure water are both neutral, since <a href="/wiki/Self-ionization_of_water" title="Self-ionization of water">dissociation of water</a> produces equal numbers of both ions. However the pH of the neutral NaCl solution will be slightly different from that of neutral pure water because the hydrogen and hydroxide ions' activity is dependent on <a href="/wiki/Ionic_strength" title="Ionic strength">ionic strength</a>, so K<sub>w</sub> varies with ionic strength.
+</p><p>If pure water is exposed to air it becomes mildly acidic. This is because water absorbs <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> from the air, which is then slowly converted into <a href="/wiki/Bicarbonate" title="Bicarbonate">bicarbonate</a> and hydrogen ions (essentially creating <a href="/wiki/Carbonic_acid" title="Carbonic acid">carbonic acid</a>).
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {CO2 + H2O &lt;=&gt; HCO3^- + H+}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>CO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>O</mtext>
+<mrow class="MJX-TeXAtom-REL">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<mrow class="MJX-TeXAtom-ORD">
+<mpadded depth="0" height="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">↽<!-- ↽ --></mo>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</mpadded>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">⇀<!-- ⇀ --></mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+</mover>
+</mrow>
+<msubsup>
+<mtext>HCO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {CO2 + H2O &lt;=&gt; HCO3^- + H+}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {CO2 + H2O &lt;=&gt; HCO3^- + H+}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a661e439079560962932bf3d9e1cebd72bcda2bf" style="vertical-align: -1.005ex; width:29.469ex; height:3.343ex;"/></span></dd></dl>
+<h3><span class="mw-headline" id="pH_in_soil">pH in soil</span></h3>
+<h4><span class="mw-headline" id="Classification_of_soil_pH_ranges">Classification of soil pH ranges</span></h4>
+<p>The United States Department of Agriculture <a href="/wiki/Natural_Resources_Conservation_Service" title="Natural Resources Conservation Service">Natural Resources Conservation Service</a>, formerly Soil Conservation Service classifies soil pH ranges as follows:
+<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:502px;"><a class="image" href="/wiki/File:Soil_pH_effect_on_nutrient_availability.svg"><img alt="" class="thumbimage" data-file-height="448" data-file-width="512" height="438" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Soil_pH_effect_on_nutrient_availability.svg/500px-Soil_pH_effect_on_nutrient_availability.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Soil_pH_effect_on_nutrient_availability.svg/750px-Soil_pH_effect_on_nutrient_availability.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Soil_pH_effect_on_nutrient_availability.svg/1000px-Soil_pH_effect_on_nutrient_availability.svg.png 2x" width="500"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Soil_pH_effect_on_nutrient_availability.svg" title="Enlarge"></a></div>Nutritional elements availability within soil varies with pH. Light blue color represents the ideal range for most of the plants.</div></div></div>
+<table class="wikitable" style="align: center;">
+<tbody><tr>
+<th scope="col">Denomination
+</th>
+<th scope="col">pH range
+</th></tr>
+<tr>
+<td>Ultra acidic</td>
+<td>&lt; 3.5
+</td></tr>
+<tr>
+<td>Extremely acidic</td>
+<td>3.5–4.4
+</td></tr>
+<tr>
+<td>Very strongly acidic</td>
+<td>4.5–5.0
+</td></tr>
+<tr>
+<td>Strongly acidic</td>
+<td>5.1–5.5
+</td></tr>
+<tr>
+<td>Moderately acidic</td>
+<td>5.6–6.0
+</td></tr>
+<tr>
+<td>Slightly acidic</td>
+<td>6.1–6.5
+</td></tr>
+<tr>
+<td>Neutral</td>
+<td>6.6–7.3
+</td></tr>
+<tr>
+<td>Slightly alkaline</td>
+<td>7.4–7.8
+</td></tr>
+<tr>
+<td>Moderately alkaline</td>
+<td>7.9–8.4
+</td></tr>
+<tr>
+<td>Strongly alkaline</td>
+<td>8.5–9.0
+</td></tr>
+<tr>
+<td>Very strongly alkaline</td>
+<td>&gt; 9.0
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="pH_in_nature">pH in nature</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Lemon.jpg"><img alt="" class="thumbimage" data-file-height="848" data-file-width="1200" height="155" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lemon.jpg/220px-Lemon.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lemon.jpg/330px-Lemon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lemon.jpg/440px-Lemon.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Lemon.jpg" title="Enlarge"></a></div><a class="mw-redirect" href="/wiki/Lemon_juice" title="Lemon juice">Lemon juice</a> tastes sour because it contains 5% to 6% <a href="/wiki/Citric_acid" title="Citric acid">citric acid</a> and has a pH of 2.2. (high acidity)</div></div></div>
+<p>pH-dependent <a class="mw-redirect" href="/wiki/Plant_pigment" title="Plant pigment">plant pigments</a> that can be used as <a href="/wiki/PH_indicator" title="PH indicator">pH indicators</a> occur in many plants, including <a href="/wiki/Hibiscus" title="Hibiscus">hibiscus</a>, <a href="/wiki/Red_cabbage" title="Red cabbage">red cabbage</a> (<a href="/wiki/Anthocyanin" title="Anthocyanin">anthocyanin</a>) and <a href="/wiki/Red_wine" title="Red wine">red wine</a>. The juice of <a href="/wiki/Citrus" title="Citrus">citrus</a> fruits is acidic mainly because it contains <a href="/wiki/Citric_acid" title="Citric acid">citric acid</a>. Other <a href="/wiki/Carboxylic_acid" title="Carboxylic acid">carboxylic acids</a> occur in many living systems. For example, <a href="/wiki/Lactic_acid" title="Lactic acid">lactic acid</a> is produced by <a href="/wiki/Muscle" title="Muscle">muscle</a> activity. The state of protonation of <a href="/wiki/Phosphate" title="Phosphate">phosphate</a> derivatives, such as <a href="/wiki/Adenosine_triphosphate" title="Adenosine triphosphate">ATP</a>, is pH-dependent. The functioning of the oxygen-transport enzyme <a href="/wiki/Hemoglobin" title="Hemoglobin">hemoglobin</a> is affected by pH in a process known as the <a href="/wiki/Root_effect" title="Root effect">Root effect</a>.
+</p>
+<h3><span class="mw-headline" id="Seawater">Seawater</span></h3>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Ocean_acidification" title="Ocean acidification">Ocean acidification</a></div>
+<p>The pH of <a href="/wiki/Seawater" title="Seawater">seawater</a> is typically limited to a range between 7.5 and 8.4.<sup class="reference" id="cite_ref-Chester_Marine_Geochem_22-0"><a href="#cite_note-Chester_Marine_Geochem-22">[22]</a></sup> It plays an important role in the ocean's <a href="/wiki/Carbon_cycle#In_the_ocean" title="Carbon cycle">carbon cycle</a>, and there is evidence of ongoing <a href="/wiki/Ocean_acidification" title="Ocean acidification">ocean acidification</a> caused by <a class="mw-redirect" href="/wiki/Carbon_dioxide_emission#Greenhouse_gas_emissions" title="Carbon dioxide emission">carbon dioxide emissions</a>.<sup class="reference" id="cite_ref-raven05_23-0"><a href="#cite_note-raven05-23">[23]</a></sup> However, pH measurement is complicated by the <a href="/wiki/Chemical_property" title="Chemical property">chemical properties</a> of seawater, and several distinct pH scales exist in <a href="/wiki/Chemical_oceanography" title="Chemical oceanography">chemical oceanography</a>.<sup class="reference" id="cite_ref-zeebe_24-0"><a href="#cite_note-zeebe-24">[24]</a></sup>
+</p><p>As part of its <a href="/wiki/Operational_definition" title="Operational definition">operational definition</a> of the pH scale, the <a class="mw-redirect" href="/wiki/IUPAC" title="IUPAC">IUPAC</a> defines a series of <a href="/wiki/Buffer_solution" title="Buffer solution">buffer solutions</a> across a range of pH values (often denoted with <a class="mw-redirect" href="/wiki/National_Bureau_of_Standards" title="National Bureau of Standards">NBS</a> or <a href="/wiki/National_Institute_of_Standards_and_Technology" title="National Institute of Standards and Technology">NIST</a> designation). These solutions have a relatively low <a href="/wiki/Ionic_strength" title="Ionic strength">ionic strength</a> (≈0.1) compared to that of seawater (≈0.7), and, as a consequence, are not recommended for use in characterizing the pH of seawater, since the ionic strength differences cause changes in <a href="/wiki/Standard_electrode_potential" title="Standard electrode potential">electrode potential</a>. To resolve this problem, an alternative series of buffers based on <a href="/wiki/Artificial_seawater" title="Artificial seawater">artificial seawater</a> was developed.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup> This new series resolves the problem of ionic strength differences between samples and the buffers, and the new pH scale is referred to as the 'total scale', often denoted as pH<sub>T</sub>. The total scale was defined using a medium containing <a href="/wiki/Sulfate" title="Sulfate">sulfate</a> ions. These ions experience <a href="/wiki/Protonation" title="Protonation">protonation</a>, H<sup>+</sup> + SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span> ⇌ HSO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>, such that the total scale includes the effect of both <a href="/wiki/Proton" title="Proton">protons</a> (free hydrogen ions) and hydrogen sulfate ions:
+</p>
+<dl><dd>[H<sup>+</sup>]<sub>T</sub> = [H<sup>+</sup>]<sub>F</sub> + [HSO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>]</dd></dl>
+<p>An alternative scale, the 'free scale', often denoted 'pH<sub>F</sub>', omits this consideration and focuses solely on [H<sup>+</sup>]<sub>F</sub>, in principle making it a simpler representation of hydrogen ion concentration. Only [H<sup>+</sup>]<sub>T</sub> can be determined,<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup> therefore [H<sup>+</sup>]<sub>F</sub> must be estimated using the [SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>] and the stability constant of HSO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>, <span class="nowrap">K<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">*</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">S</sub></span></span>:
+</p>
+<dl><dd>[H<sup>+</sup>]<sub>F</sub> = [H<sup>+</sup>]<sub>T</sub> − [HSO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>] = [H<sup>+</sup>]<sub>T</sub> ( 1 + [SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>] / K<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">*</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">S</sub></span> )<sup>−1</sup></dd></dl>
+<p>However, it is difficult to estimate K<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">*</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">S</sub></span> in seawater, limiting the utility of the otherwise more straightforward free scale.
+</p><p>Another scale, known as the 'seawater scale', often denoted 'pH<sub>SWS</sub>', takes account of a further protonation relationship between hydrogen ions and <a href="/wiki/Fluoride" title="Fluoride">fluoride</a> ions, H<sup>+</sup> + F<sup>−</sup> ⇌ HF. Resulting in the following expression for [H<sup>+</sup>]<sub>SWS</sub>:
+</p>
+<dl><dd>[H<sup>+</sup>]<sub>SWS</sub> = [H<sup>+</sup>]<sub>F</sub> + [HSO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>] + [HF]</dd></dl>
+<p>However, the advantage of considering this additional complexity is dependent upon the abundance of fluoride in the medium. In seawater, for instance, sulfate ions occur at much greater concentrations (&gt;400 times) than those of fluoride. As a consequence, for most practical purposes, the difference between the total and seawater scales is very small.
+</p><p>The following three equations summarise the three scales of pH:
+</p>
+<dl><dd>pH<sub>F</sub> = − log [H<sup>+</sup>]<sub>F</sub></dd>
+<dd>pH<sub>T</sub> = − log ( [H<sup>+</sup>]<sub>F</sub> + [HSO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>] ) = − log [H<sup>+</sup>]<sub>T</sub></dd>
+<dd>pH<sub>SWS</sub> = − log ( [H<sup>+</sup>]<sub>F</sub> + [HSO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span>] + [HF] ) = − log [H<sup>+</sup>]<sub>SWS</sub></dd></dl>
+<p>In practical terms, the three seawater pH scales differ in their values by up to 0.12 pH units, differences that are much larger than the accuracy of pH measurements typically required, in particular, in relation to the ocean's <a href="/wiki/Total_inorganic_carbon" title="Total inorganic carbon">carbonate system</a>.<sup class="reference" id="cite_ref-zeebe_24-1"><a href="#cite_note-zeebe-24">[24]</a></sup> Since it omits consideration of sulfate and fluoride ions, the free scale is significantly different from both the total and seawater scales. Because of the relative unimportance of the fluoride ion, the total and seawater scales differ only very slightly.
+</p>
+<h3><span class="mw-headline" id="Living_systems">Living systems</span></h3>
+<dl><dd><table class="wikitable">
+<caption>pH in living systems<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup>
+</caption>
+<tbody><tr>
+<th>Compartment
+</th>
+<th>pH
+</th></tr>
+<tr>
+<td><a href="/wiki/Gastric_acid" title="Gastric acid">Gastric acid</a></td>
+<td>1.5-3.5<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lysosome" title="Lysosome">Lysosomes</a></td>
+<td>4.5
+</td></tr>
+<tr>
+<td><a href="/wiki/Human_skin" title="Human skin">Human skin</a></td>
+<td>4.7<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup>
+</td></tr>
+<tr>
+<td>Granules of <a href="/wiki/Chromaffin_cell" title="Chromaffin cell">chromaffin cells</a></td>
+<td>5.5
+</td></tr>
+<tr>
+<td><a href="/wiki/Urine" title="Urine">Urine</a></td>
+<td>6.0
+</td></tr>
+<tr>
+<td><a href="/wiki/Cytosol" title="Cytosol">Cytosol</a></td>
+<td>7.2
+</td></tr>
+<tr>
+<td><a href="/wiki/Blood" title="Blood">Blood</a> (natural pH)</td>
+<td>7.34–7.45
+</td></tr>
+<tr>
+<td><a href="/wiki/Cerebrospinal_fluid" title="Cerebrospinal fluid">Cerebrospinal fluid</a> (CSF)</td>
+<td>7.5
+</td></tr>
+<tr>
+<td><a href="/wiki/Mitochondrial_matrix" title="Mitochondrial matrix">Mitochondrial matrix</a></td>
+<td>7.5
+</td></tr>
+<tr>
+<td><a href="/wiki/Pancreas" title="Pancreas">Pancreas</a> secretions</td>
+<td>8.1
+</td></tr></tbody></table></dd></dl>
+<p>The pH of different cellular compartments, <a href="/wiki/Body_fluid" title="Body fluid">body fluids</a>, and organs is usually tightly regulated in a process called <a class="mw-redirect" href="/wiki/Acid-base_homeostasis" title="Acid-base homeostasis">acid-base homeostasis</a>. The most common disorder in acid-base homeostasis is <a href="/wiki/Acidosis" title="Acidosis">acidosis</a>, which means an acid overload in the body, generally defined by pH falling below 7.35. <a href="/wiki/Alkalosis" title="Alkalosis">Alkalosis</a> is the opposite condition, with blood pH being excessively high.
+</p><p>The pH of blood is usually slightly basic with a value of pH 7.365. This value is often referred to as physiological pH in biology and medicine. <a href="/wiki/Dental_plaque" title="Dental plaque">Plaque</a> can create a local acidic environment that can result in <a href="/wiki/Tooth_decay" title="Tooth decay">tooth decay</a> by demineralization. <a href="/wiki/Enzyme" title="Enzyme">Enzymes</a> and other <a href="/wiki/Protein" title="Protein">proteins</a> have an optimum pH range and can become inactivated or <a href="/wiki/Denaturation_(biochemistry)" title="Denaturation (biochemistry)">denatured</a> outside this range.
+</p>
+<h2><span class="mw-headline" id="Calculations_of_pH">Calculations of pH</span></h2>
+<p>The calculation of the pH of a solution containing acids and/or bases is an example of a chemical speciation calculation, that is, a mathematical procedure for calculating the concentrations of all chemical species that are present in the solution. The complexity of the procedure depends on the nature of the solution. For strong acids and bases no calculations are necessary except in extreme situations. The pH of a solution containing a weak acid requires the solution of a <a href="/wiki/Quadratic_equation" title="Quadratic equation">quadratic equation</a>. The pH of a solution containing a weak base may require the solution of a <a class="mw-redirect" href="/wiki/Cubic_equation" title="Cubic equation">cubic equation</a>. The general case requires the solution of a set of <a class="mw-redirect" href="/wiki/Non-linear" title="Non-linear">non-linear</a> <a class="mw-redirect" href="/wiki/Simultaneous_equation" title="Simultaneous equation">simultaneous equations</a>.
+</p><p>A complicating factor is that water itself is a weak acid and a weak base (see <a href="/wiki/Amphoterism" title="Amphoterism">amphoterism</a>). It <a href="/wiki/Self-ionization_of_water" title="Self-ionization of water">dissociates</a> according to the equilibrium
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {2H2O &lt;=&gt; H3O+ (aq) + OH^-(aq)}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mspace width="thinmathspace"></mspace>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>O</mtext>
+<mrow class="MJX-TeXAtom-REL">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<mrow class="MJX-TeXAtom-ORD">
+<mpadded depth="0" height="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">↽<!-- ↽ --></mo>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</mpadded>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">⇀<!-- ⇀ --></mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+</mover>
+</mrow>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<msup>
+<mtext>O</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mtext>aq</mtext>
+<mo stretchy="false">)</mo>
+</mrow>
+<mo>+</mo>
+<mtext>OH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mtext>aq</mtext>
+<mo stretchy="false">)</mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {2H2O &lt;=&gt; H3O+ (aq) + OH^-(aq)}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {2H2O &lt;=&gt; H3O+ (aq) + OH^-(aq)}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/213fb21ba25ead9012f646ea0b2bac1a9136ce5c" style="vertical-align: -1.005ex; width:33.518ex; height:3.343ex;"/></span></dd></dl>
+<p>with a <a href="/wiki/Acid_dissociation_constant" title="Acid dissociation constant">dissociation constant</a>, <span class="texhtml mvar" style="font-style:italic;">K<sub>w</sub></span> defined as
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle K_{w}={\ce {[H+][OH^-]}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>w</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">[</mo>
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mo stretchy="false">]</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">[</mo>
+<mtext>OH</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mo stretchy="false">]</mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K_{w}={\ce {[H+][OH^-]}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle K_{w}={\ce {[H+][OH^-]}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e7edf4a9b26b35674b01f42855dc4e2947566487" style="vertical-align: -0.838ex; width:17.681ex; height:3.009ex;"/></span></dd></dl>
+<p>where [H<sup>+</sup>] stands for the concentration of the aqueous <a class="mw-redirect" href="/wiki/Hydronium_ion" title="Hydronium ion">hydronium ion</a> and [OH<sup>−</sup>] represents the concentration of the <a class="mw-redirect" href="/wiki/Hydroxide_ion" title="Hydroxide ion">hydroxide ion</a>. This equilibrium needs to be taken into account at high pH and when the solute concentration is extremely low.
+</p>
+<h3><span class="mw-headline" id="Strong_acids_and_bases">Strong acids and bases</span></h3>
+<p><a class="mw-redirect" href="/wiki/Strong_acid" title="Strong acid">Strong acids</a> and <a class="mw-redirect" href="/wiki/Strong_base" title="Strong base">bases</a> are compounds that, for practical purposes, are completely dissociated in water. Under normal circumstances this means that the concentration of hydrogen ions in acidic solution can be taken to be equal to the concentration of the acid. The pH is then equal to minus the logarithm of the concentration value. <a href="/wiki/Hydrochloric_acid" title="Hydrochloric acid">Hydrochloric acid</a> (HCl) is an example of a strong acid. The pH of a 0.01M solution of HCl is equal to −log<sub>10</sub>(0.01), that is, pH = 2. <a href="/wiki/Sodium_hydroxide" title="Sodium hydroxide">Sodium hydroxide</a>, NaOH, is an example of a strong base. The p[OH] value of a 0.01M solution of NaOH is equal to −log<sub>10</sub>(0.01), that is, p[OH] = 2. From the definition of p[OH] above, this means that the pH is equal to about 12. For solutions of sodium hydroxide at higher concentrations the self-ionization equilibrium must be taken into account.
+</p><p>Self-ionization must also be considered when concentrations are extremely low. Consider, for example, a solution of hydrochloric acid at a concentration of 5×10<sup>−8</sup>M.  The simple procedure given above would suggest that it has a pH of 7.3. This is clearly wrong as an acid solution should have a pH of less than 7. Treating the system as a mixture of hydrochloric acid and the <a class="mw-redirect" href="/wiki/Amphoteric" title="Amphoteric">amphoteric</a> substance water, a pH of 6.89 results.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Weak_acids_and_bases">Weak acids and bases</span></h3>
+<p>A weak acid  or the conjugate acid of a weak base can be treated using the same formalism.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{cases}{\ce {Acid:}}&amp;{\ce {HA &lt;=&gt; H+ + A^-}}\\{\ce {Base:}}&amp;{\ce {HA+ &lt;=&gt; H+ + A}}\end{cases}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>{</mo>
+<mtable columnalign="left left" columnspacing="1em" displaystyle="false" rowspacing=".2em">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Acid</mtext>
+<mo>:</mo>
+</mrow>
+</mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HA</mtext>
+<mrow class="MJX-TeXAtom-REL">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<mrow class="MJX-TeXAtom-ORD">
+<mpadded depth="0" height="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">↽<!-- ↽ --></mo>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</mpadded>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">⇀<!-- ⇀ --></mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+</mover>
+</mrow>
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mtext>A</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msup>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Base</mtext>
+<mo>:</mo>
+</mrow>
+</mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>HA</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-REL">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<mrow class="MJX-TeXAtom-ORD">
+<mpadded depth="0" height="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">↽<!-- ↽ --></mo>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</mpadded>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">⇀<!-- ⇀ --></mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+</mover>
+</mrow>
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mo>+</mo>
+<mtext>A</mtext>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+<mo fence="true" stretchy="true" symmetric="true"></mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{cases}{\ce {Acid:}}&amp;{\ce {HA &lt;=&gt; H+ + A^-}}\\{\ce {Base:}}&amp;{\ce {HA+ &lt;=&gt; H+ + A}}\end{cases}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{cases}{\ce {Acid:}}&amp;{\ce {HA &lt;=&gt; H+ + A^-}}\\{\ce {Base:}}&amp;{\ce {HA+ &lt;=&gt; H+ + A}}\end{cases}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bb2216d6bdea1aface006ded31a0500d23047fc9" style="vertical-align: -2.505ex; width:28.348ex; height:6.176ex;"/></span></dd></dl>
+<p>First, an acid dissociation constant is defined as follows. Electrical charges are omitted from subsequent equations for the sake of generality
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle K_{a}={\frac {{\ce {[H] [A]}}}{{\ce {[HA]}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">[</mo>
+<mtext>H</mtext>
+<mo stretchy="false">]</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">[</mo>
+<mtext>A</mtext>
+<mo stretchy="false">]</mo>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">[</mo>
+<mtext>HA</mtext>
+<mo stretchy="false">]</mo>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K_{a}={\frac {{\ce {[H] [A]}}}{{\ce {[HA]}}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle K_{a}={\frac {{\ce {[H] [A]}}}{{\ce {[HA]}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f29a403e204523dcc5d4345e9da4125d6bccc8e0" style="vertical-align: -2.671ex; width:13.083ex; height:6.509ex;"/></span></dd></dl>
+<p>and its value is assumed to have been determined by experiment. This being so, there are three unknown concentrations, [HA], [H<sup>+</sup>] and [A<sup>−</sup>] to determine by calculation. Two additional equations are needed. One way to provide them is to apply the law of  <a class="mw-redirect" href="/wiki/Mass_conservation" title="Mass conservation">mass conservation</a> in terms of the two "reagents" H and A.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle C_{{\ce {A}}}={\ce {[A]}}+{\ce {[HA]}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">[</mo>
+<mtext>A</mtext>
+<mo stretchy="false">]</mo>
+</mrow>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">[</mo>
+<mtext>HA</mtext>
+<mo stretchy="false">]</mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle C_{{\ce {A}}}={\ce {[A]}}+{\ce {[HA]}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle C_{{\ce {A}}}={\ce {[A]}}+{\ce {[HA]}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9ebde93fda69a21943e8842a9a32da905b2f645e" style="vertical-align: -0.838ex; width:16.882ex; height:2.843ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle C_{{\ce {H}}}={\ce {[H]}}+{\ce {[HA]}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">[</mo>
+<mtext>H</mtext>
+<mo stretchy="false">]</mo>
+</mrow>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">[</mo>
+<mtext>HA</mtext>
+<mo stretchy="false">]</mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle C_{{\ce {H}}}={\ce {[H]}}+{\ce {[HA]}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle C_{{\ce {H}}}={\ce {[H]}}+{\ce {[HA]}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/920b90697a63b1c14c8302e733fc525ba0d9585b" style="vertical-align: -0.838ex; width:16.882ex; height:2.843ex;"/></span></dd></dl>
+<p>C stands for <a class="mw-redirect" href="/wiki/Analytical_concentration" title="Analytical concentration">analytical concentration</a>. In some texts, one mass balance equation is replaced by an equation of charge balance. This is satisfactory for simple cases like this one, but is more difficult to apply to more complicated cases as those below. Together with the equation defining K<sub>a</sub>, there are now three equations in three unknowns. When an acid is dissolved in water C<sub>A</sub> = C<sub>H</sub> = C<sub>a</sub>, the concentration of the acid, so [A] = [H]. After some further algebraic manipulation an equation in the hydrogen ion concentration may be obtained.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle [{\ce {H}}]^{2}+K_{a}[{\ce {H}}]-K_{a}C_{a}=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+<mo stretchy="false">]</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle [{\ce {H}}]^{2}+K_{a}[{\ce {H}}]-K_{a}C_{a}=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle [{\ce {H}}]^{2}+K_{a}[{\ce {H}}]-K_{a}C_{a}=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/46348613cafd9be4dcf2b772575b5af47f080d54" style="vertical-align: -0.838ex; width:25.983ex; height:3.176ex;"/></span></dd></dl>
+<p>Solution of this <a href="/wiki/Quadratic_equation" title="Quadratic equation">quadratic equation</a> gives the hydrogen ion concentration and hence p[H] or, more loosely, pH. This procedure is illustrated in an <a class="mw-redirect" href="/wiki/ICE_table" title="ICE table">ICE table</a> which can also be used to calculate the pH when some additional  (strong) acid or alkaline has been added to the system, that is, when C<sub>A</sub> ≠ C<sub>H</sub>.
+</p><p>For example, what is the pH of a 0.01M solution of <a href="/wiki/Benzoic_acid" title="Benzoic acid">benzoic acid</a>, pK<sub>a</sub> = 4.19?
+</p>
+<ul><li>Step 1: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle K_{a}=10^{-4.19}=6.46\times 10^{-5}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>4.19</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<mn>6.46</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>5</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K_{a}=10^{-4.19}=6.46\times 10^{-5}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle K_{a}=10^{-4.19}=6.46\times 10^{-5}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8ba5721f63f313ffed3e2d4f1c4c0470276b2445" style="vertical-align: -0.671ex; width:27.663ex; height:3.009ex;"/></span></li>
+<li>Step 2: Set up the quadratic equation. <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle [{\ce {H}}]^{2}+6.46\times 10^{-5}[{\ce {H}}]-6.46\times 10^{-7}=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mn>6.46</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>5</mn>
+</mrow>
+</msup>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+<mo stretchy="false">]</mo>
+<mo>−<!-- − --></mo>
+<mn>6.46</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>7</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle [{\ce {H}}]^{2}+6.46\times 10^{-5}[{\ce {H}}]-6.46\times 10^{-7}=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle [{\ce {H}}]^{2}+6.46\times 10^{-5}[{\ce {H}}]-6.46\times 10^{-7}=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3b00dbc68e7860d66750e413f778916b6b915cd9" style="vertical-align: -0.838ex; width:40.334ex; height:3.176ex;"/></span></li>
+<li>Step 3: Solve the quadratic equation. <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle [{\ce {H+}}]=7.74\times 10^{-4};\quad \mathrm {pH} =3.11}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+<mo stretchy="false">]</mo>
+<mo>=</mo>
+<mn>7.74</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>4</mn>
+</mrow>
+</msup>
+<mo>;</mo>
+<mspace width="1em"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+<mi mathvariant="normal">H</mi>
+</mrow>
+<mo>=</mo>
+<mn>3.11</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle [{\ce {H+}}]=7.74\times 10^{-4};\quad \mathrm {pH} =3.11}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle [{\ce {H+}}]=7.74\times 10^{-4};\quad \mathrm {pH} =3.11}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d23e6dd79b1f843749965771698d8a5403a236a4" style="vertical-align: -0.838ex; width:32.903ex; height:3.176ex;"/></span></li></ul>
+<p>For alkaline solutions an additional term is added to the mass-balance equation for hydrogen. Since addition of hydroxide reduces the hydrogen ion concentration, and the hydroxide ion concentration is constrained by the self-ionization equilibrium to be equal to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {K_{w}}{{\ce {[H+]}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>w</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">[</mo>
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mo stretchy="false">]</mo>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {K_{w}}{{\ce {[H+]}}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {K_{w}}{{\ce {[H+]}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/671c1d10d6bce20ed4de57be093835a6aad5019f" style="vertical-align: -2.838ex; width:5.384ex; height:6.176ex;"/></span>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle C_{\ce {H}}={\frac {[{\ce {H}}]+[{\ce {HA}}]-K_{w}}{\ce {[H]}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+<mo stretchy="false">]</mo>
+<mo>+</mo>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HA</mtext>
+</mrow>
+<mo stretchy="false">]</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>w</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">[</mo>
+<mtext>H</mtext>
+<mo stretchy="false">]</mo>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle C_{\ce {H}}={\frac {[{\ce {H}}]+[{\ce {HA}}]-K_{w}}{\ce {[H]}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle C_{\ce {H}}={\frac {[{\ce {H}}]+[{\ce {HA}}]-K_{w}}{\ce {[H]}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e4eaeb404231cb0a9a118cd2972dc991b67adaab" style="vertical-align: -2.671ex; width:23.941ex; height:6.509ex;"/></span></dd></dl>
+<p>In this case the resulting equation in [H] is a cubic equation.
+</p>
+<h3><span class="mw-headline" id="General_method">General method</span></h3>
+<p>Some systems, such as with polyprotic acids, are amenable to spreadsheet calculations.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup> With three or more reagents or when many complexes are formed with general formulae such as A<sub>p</sub>B<sub>q</sub>H<sub>r</sub>,the following general method can be used to calculate the pH of a solution. For example, with three reagents, each equilibrium is characterized by an equilibrium constant, β.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle [{\ce {A}}_{p}{\ce {B}}_{q}{\ce {H}}_{r}]=\beta _{pqr}[{\ce {A}}]^{p}[{\ce {B}}]^{q}[{\ce {H}}]^{r}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">[</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>q</mi>
+</mrow>
+</msub>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<mo stretchy="false">]</mo>
+<mo>=</mo>
+<msub>
+<mi>β<!-- β --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+<mi>q</mi>
+<mi>r</mi>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msup>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+</mrow>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>q</mi>
+</mrow>
+</msup>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle [{\ce {A}}_{p}{\ce {B}}_{q}{\ce {H}}_{r}]=\beta _{pqr}[{\ce {A}}]^{p}[{\ce {B}}]^{q}[{\ce {H}}]^{r}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle [{\ce {A}}_{p}{\ce {B}}_{q}{\ce {H}}_{r}]=\beta _{pqr}[{\ce {A}}]^{p}[{\ce {B}}]^{q}[{\ce {H}}]^{r}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0116cc100cbe49e89c845e94bfb7cfa9d41efdf4" style="vertical-align: -1.005ex; width:28.452ex; height:3.009ex;"/></span></dd></dl>
+<p>Next, write down the mass-balance equations for each reagent:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}C_{\ce {A}}&amp;=[{\ce {A}}]+\Sigma p\beta _{pqr}[{\ce {A}}]^{p}[{\ce {B}}]^{q}[{\ce {H}}]^{r}\\C_{\ce {B}}&amp;=[{\ce {B}}]+\Sigma q\beta _{pqr}[{\ce {A}}]^{p}[{\ce {B}}]^{q}[{\ce {H}}]^{r}\\C_{\ce {H}}&amp;=[{\ce {H}}]+\Sigma r\beta _{pqr}[{\ce {A}}]^{p}[{\ce {B}}]^{q}[{\ce {H}}]^{r}-K_{w}[{\ce {H}}]^{-1}\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+<mo stretchy="false">]</mo>
+<mo>+</mo>
+<mi mathvariant="normal">Σ<!-- Σ --></mi>
+<mi>p</mi>
+<msub>
+<mi>β<!-- β --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+<mi>q</mi>
+<mi>r</mi>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msup>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+</mrow>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>q</mi>
+</mrow>
+</msup>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msup>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+</mrow>
+<mo stretchy="false">]</mo>
+<mo>+</mo>
+<mi mathvariant="normal">Σ<!-- Σ --></mi>
+<mi>q</mi>
+<msub>
+<mi>β<!-- β --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+<mi>q</mi>
+<mi>r</mi>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msup>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+</mrow>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>q</mi>
+</mrow>
+</msup>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msup>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+<mo stretchy="false">]</mo>
+<mo>+</mo>
+<mi mathvariant="normal">Σ<!-- Σ --></mi>
+<mi>r</mi>
+<msub>
+<mi>β<!-- β --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+<mi>q</mi>
+<mi>r</mi>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msup>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+</mrow>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>q</mi>
+</mrow>
+</msup>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>w</mi>
+</mrow>
+</msub>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>H</mtext>
+</mrow>
+<msup>
+<mo stretchy="false">]</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}C_{\ce {A}}&amp;=[{\ce {A}}]+\Sigma p\beta _{pqr}[{\ce {A}}]^{p}[{\ce {B}}]^{q}[{\ce {H}}]^{r}\\C_{\ce {B}}&amp;=[{\ce {B}}]+\Sigma q\beta _{pqr}[{\ce {A}}]^{p}[{\ce {B}}]^{q}[{\ce {H}}]^{r}\\C_{\ce {H}}&amp;=[{\ce {H}}]+\Sigma r\beta _{pqr}[{\ce {A}}]^{p}[{\ce {B}}]^{q}[{\ce {H}}]^{r}-K_{w}[{\ce {H}}]^{-1}\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{aligned}C_{\ce {A}}&amp;=[{\ce {A}}]+\Sigma p\beta _{pqr}[{\ce {A}}]^{p}[{\ce {B}}]^{q}[{\ce {H}}]^{r}\\C_{\ce {B}}&amp;=[{\ce {B}}]+\Sigma q\beta _{pqr}[{\ce {A}}]^{p}[{\ce {B}}]^{q}[{\ce {H}}]^{r}\\C_{\ce {H}}&amp;=[{\ce {H}}]+\Sigma r\beta _{pqr}[{\ce {A}}]^{p}[{\ce {B}}]^{q}[{\ce {H}}]^{r}-K_{w}[{\ce {H}}]^{-1}\end{aligned}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3d204f0d1baca5254f67602e86ba0091a004b673" style="vertical-align: -4.338ex; width:43.079ex; height:9.676ex;"/></span></dd></dl>
+<p>Note that there are no approximations involved in these equations, except that each stability constant is defined as a quotient of concentrations, not activities. Much more complicated expressions are required if activities are to be used.
+</p><p>There are 3 <a class="mw-redirect" href="/wiki/Non-linear" title="Non-linear">non-linear</a> <a class="mw-redirect" href="/wiki/Simultaneous_equation" title="Simultaneous equation">simultaneous equations</a> in the three unknowns, [A], [B] and [H]. Because the equations are non-linear, and because concentrations may range over many powers of 10, the solution of these equations is not straightforward. However, many computer programs are available which can be used to perform these calculations. There may be more than three reagents. The calculation of hydrogen ion concentrations, using this formalism, is a key element in the <a href="/wiki/Determination_of_equilibrium_constants" title="Determination of equilibrium constants">determination of equilibrium constants</a> by potentiometric titration.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="/wiki/Alkaline_diet" title="Alkaline diet">Alkaline diet</a></li>
+<li><a class="mw-redirect" href="/wiki/Arterial_blood_gas" title="Arterial blood gas">Arterial blood gas</a></li>
+<li><a href="/wiki/Decibel" title="Decibel">Bel</a></li>
+<li><a href="/wiki/Chemical_equilibrium" title="Chemical equilibrium">Chemical equilibrium</a></li>
+<li><a href="/wiki/PCO2" title="PCO2">pCO2</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Bates-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bates_1-0">^</a></b></span> <span class="reference-text">Bates, Roger G. <i>Determination of pH: theory and practice</i>. Wiley, 1973.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lim, Kieran F. (2006). "Negative pH Does Exist". <i>Journal of Chemical Education</i>. <b>83</b> (10): 1465. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2006JChEd..83.1465L" rel="nofollow">2006JChEd..83.1465L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fed083p1465" rel="nofollow">10.1021/ed083p1465</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Chemical+Education&amp;rft.atitle=Negative+pH+Does+Exist&amp;rft.volume=83&amp;rft.issue=10&amp;rft.pages=1465&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1021%2Fed083p1465&amp;rft_id=info%3Abibcode%2F2006JChEd..83.1465L&amp;rft.aulast=Lim&amp;rft.aufirst=Kieran+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-covington-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-covington_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-covington_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-covington_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-covington_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Covington, A. K.; Bates, R. G.; Durst, R. A. (1985). <a class="external text" href="http://www.iupac.org/publications/pac/1985/pdf/5703x0531.pdf" rel="nofollow">"Definitions of pH scales, standard reference values, measurement of pH, and related terminology"</a> <span class="cs1-format">(PDF)</span>. <i>Pure Appl. Chem</i>. <b>57</b> (3): 531–542. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1351%2Fpac198557030531" rel="nofollow">10.1351/pac198557030531</a>. <a class="external text" href="https://web.archive.org/web/20070924235637/http://www.iupac.org/publications/pac/1985/pdf/5703x0531.pdf" rel="nofollow">Archived</a> <span class="cs1-format">(PDF)</span> from the original on 24 September 2007.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pure+Appl.+Chem.&amp;rft.atitle=Definitions+of+pH+scales%2C+standard+reference+values%2C+measurement+of+pH%2C+and+related+terminology&amp;rft.volume=57&amp;rft.issue=3&amp;rft.pages=531-542&amp;rft.date=1985&amp;rft_id=info%3Adoi%2F10.1351%2Fpac198557030531&amp;rft.aulast=Covington&amp;rft.aufirst=A.+K.&amp;rft.au=Bates%2C+R.+G.&amp;rft.au=Durst%2C+R.+A.&amp;rft_id=http%3A%2F%2Fwww.iupac.org%2Fpublications%2Fpac%2F1985%2Fpdf%2F5703x0531.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sørensen, S. P. L. (1909). "Über die Messung und die Bedeutung der Wasserstoffionenkonzentration bei enzymatischen Prozessen". <i>Biochem. Zeitschr</i>. <b>21</b>: 131–304.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biochem.+Zeitschr&amp;rft.atitle=%C3%9Cber+die+Messung+und+die+Bedeutung+der+Wasserstoffionenkonzentration+bei+enzymatischen+Prozessen&amp;rft.volume=21&amp;rft.pages=131-304&amp;rft.date=1909&amp;rft.aulast=S%C3%B8rensen&amp;rft.aufirst=S.+P.+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/> Two other publications appeared in 1909 one in French and one in Danish</span>
+</li>
+<li id="cite_note-Sor-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sor_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sor_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.carlsberggroup.com/Company/heritage/Research/Pages/pHValue.aspx" rel="nofollow">"Carlsberg Group Company History Page"</a>. Carlsberggroup.com. <a class="external text" href="https://web.archive.org/web/20140118043012/http://www.carlsberggroup.com/Company/heritage/Research/Pages/pHValue.aspx" rel="nofollow">Archived</a> from the original on 18 January 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">7 May</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Carlsberg+Group+Company+History+Page&amp;rft.pub=Carlsberggroup.com&amp;rft_id=http%3A%2F%2Fwww.carlsberggroup.com%2FCompany%2Fheritage%2FResearch%2FPages%2FpHValue.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Myers, Rollie J. (2010). "One-Hundred Years of pH". <i>Journal of Chemical Education</i>. <b>87</b>: 30–32. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2010JChEd..87...30M" rel="nofollow">2010JChEd..87...30M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fed800002c" rel="nofollow">10.1021/ed800002c</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Chemical+Education&amp;rft.atitle=One-Hundred+Years+of+pH&amp;rft.volume=87&amp;rft.pages=30-32&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1021%2Fed800002c&amp;rft_id=info%3Abibcode%2F2010JChEd..87...30M&amp;rft.aulast=Myers&amp;rft.aufirst=Rollie+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Jens-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jens_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Nørby, Jens (2000). "The origin and the meaning of the little p in pH". <i>Trends in Biochemical Sciences</i>. <b>25</b> (1): 36–37. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FS0968-0004%2899%2901517-0" rel="nofollow">10.1016/S0968-0004(99)01517-0</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10637613" rel="nofollow">10637613</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Trends+in+Biochemical+Sciences&amp;rft.atitle=The+origin+and+the+meaning+of+the+little+p+in+pH&amp;rft.volume=25&amp;rft.issue=1&amp;rft.pages=36-37&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1016%2FS0968-0004%2899%2901517-0&amp;rft_id=info%3Apmid%2F10637613&amp;rft.au=N%C3%B8rby%2C+Jens&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Evans-Memoirs-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Evans-Memoirs_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Evans-Memoirs_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Alice_Catherine_Evans" title="Alice Catherine Evans">Evans, Alice C.</a> (1963). <a class="external text" href="https://history.nih.gov/archives/downloads/aliceevans.pdf" rel="nofollow">"Memoirs"</a> <span class="cs1-format">(PDF)</span>. <i>NIH Office of History</i>. National Institutes of Health Office of History<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-03-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NIH+Office+of+History&amp;rft.atitle=Memoirs&amp;rft.date=1963&amp;rft.aulast=Evans&amp;rft.aufirst=Alice+C.&amp;rft_id=https%3A%2F%2Fhistory.nih.gov%2Farchives%2Fdownloads%2Faliceevans.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://eands.caltech.edu/origins-birth-of-the-ph-meter/" rel="nofollow">"ORIGINS: BIRTH OF THE PH METER"</a>. <i>CalTech Engineering &amp; Science Magazine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=CalTech+Engineering+%26+Science+Magazine&amp;rft.atitle=ORIGINS%3A+BIRTH+OF+THE+PH+METER&amp;rft_id=https%3A%2F%2Feands.caltech.edu%2Forigins-birth-of-the-ph-meter%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Tetrault, Sharon. <a class="external text" href="https://books.google.com/books?id=nf0DAAAAMBAJ&amp;pg=PA96&amp;lpg=PA96&amp;dq=ph+caltech+beckman+sunkist&amp;source=bl&amp;ots=XnVrNFbLlX&amp;sig=A2YEK7GeESsiEjyY6dB2iKUXpRI&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjo7LOU_eTZAhVowFQKHW_rDX8Q6AEIeDAO#v=onepage&amp;q=ph%20caltech%20beckman%20sunkist&amp;f=false" rel="nofollow">"The Beckmans"</a>. <i>Orange Coast</i>. Orange Coast Magazine<span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Orange+Coast&amp;rft.atitle=The+Beckmans&amp;rft.aulast=Tetrault&amp;rft.aufirst=Sharon&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dnf0DAAAAMBAJ%26pg%3DPA96%26lpg%3DPA96%26dq%3Dph%2Bcaltech%2Bbeckman%2Bsunkist%26source%3Dbl%26ots%3DXnVrNFbLlX%26sig%3DA2YEK7GeESsiEjyY6dB2iKUXpRI%26hl%3Den%26sa%3DX%26ved%3D0ahUKEwjo7LOU_eTZAhVowFQKHW_rDX8Q6AEIeDAO%23v%3Donepage%26q%3Dph%2520caltech%2520beckman%2520sunkist%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Quantities and units – Part 8: Physical chemistry and molecular physics, Annex C (normative): pH. <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">International Organization for Standardization</a>, 1992.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rossotti, F.J.C.; Rossotti, H. (1965). "Potentiometric titrations using Gran plots: A textbook omission". <i>J. Chem. Educ</i>. <b>42</b> (7): 375–378. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1965JChEd..42..375R" rel="nofollow">1965JChEd..42..375R</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fed042p375" rel="nofollow">10.1021/ed042p375</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Chem.+Educ.&amp;rft.atitle=Potentiometric+titrations+using+Gran+plots%3A+A+textbook+omission&amp;rft.volume=42&amp;rft.issue=7&amp;rft.pages=375-378&amp;rft.date=1965&amp;rft_id=info%3Adoi%2F10.1021%2Fed042p375&amp;rft_id=info%3Abibcode%2F1965JChEd..42..375R&amp;rft.aulast=Rossotti&amp;rft.aufirst=F.J.C.&amp;rft.au=Rossotti%2C+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFMendham,_J.Denney,_R._C.Barnes,_J._D.Thomas,_M._J._K.2000">Mendham, J.; Denney, R. C.; Barnes, J. D.; Thomas, M. J. K. (2000), <i>Vogel's Quantitative Chemical Analysis</i> (6th ed.), New York: Prentice Hall, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-582-22628-7" title="Special:BookSources/0-582-22628-7">0-582-22628-7</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Vogel%27s+Quantitative+Chemical+Analysis&amp;rft.place=New+York&amp;rft.edition=6th&amp;rft.pub=Prentice+Hall&amp;rft.date=2000&amp;rft.isbn=0-582-22628-7&amp;rft.au=Mendham%2C+J.&amp;rft.au=Denney%2C+R.+C.&amp;rft.au=Barnes%2C+J.+D.&amp;rft.au=Thomas%2C+M.+J.+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/>, Section 13.23, "Determination of pH"</span>
+</li>
+<li id="cite_note-Feldman-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Feldman_14-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Feldman, Isaac (1956). "Use and Abuse of pH measurements". <i>Analytical Chemistry</i>. <b>28</b> (12): 1859–1866. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fac60120a014" rel="nofollow">10.1021/ac60120a014</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Analytical+Chemistry&amp;rft.atitle=Use+and+Abuse+of+pH+measurements&amp;rft.volume=28&amp;rft.issue=12&amp;rft.pages=1859-1866&amp;rft.date=1956&amp;rft_id=info%3Adoi%2F10.1021%2Fac60120a014&amp;rft.au=Feldman%2C+Isaac&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFMendham,_J.Denney,_R._C.Barnes,_J._D.Thomas,_M._J._K.2000">Mendham, J.; Denney, R. C.; Barnes, J. D.; Thomas, M. J. K. (2000), <i>Vogel's Quantitative Chemical Analysis</i> (6th ed.), New York: Prentice Hall, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-582-22628-7" title="Special:BookSources/0-582-22628-7">0-582-22628-7</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Vogel%27s+Quantitative+Chemical+Analysis&amp;rft.place=New+York&amp;rft.edition=6th&amp;rft.pub=Prentice+Hall&amp;rft.date=2000&amp;rft.isbn=0-582-22628-7&amp;rft.au=Mendham%2C+J.&amp;rft.au=Denney%2C+R.+C.&amp;rft.au=Barnes%2C+J.+D.&amp;rft.au=Thomas%2C+M.+J.+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/>, Section 13.19 The glass electrode</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Nordstrom, D. Kirk; Alpers, Charles N. (March 1999). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC34288" rel="nofollow">"Negative pH, efflorescent mineralogy, and consequences for environmental restoration at the Iron Mountain Superfund site, California"</a>. <i>Proceedings of the National Academy of Sciences of the United States of America</i>. PNAS. <b>96</b> (7): 3455–62. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1999PNAS...96.3455N" rel="nofollow">1999PNAS...96.3455N</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1073%2Fpnas.96.7.3455" rel="nofollow">10.1073/pnas.96.7.3455</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC34288" rel="nofollow">34288</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10097057" rel="nofollow">10097057</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences+of+the+United+States+of+America&amp;rft.atitle=Negative+pH%2C+efflorescent+mineralogy%2C+and+consequences+for+environmental+restoration+at+the+Iron+Mountain+Superfund+site%2C+California&amp;rft.volume=96&amp;rft.issue=7&amp;rft.pages=3455-62&amp;rft.date=1999-03&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC34288&amp;rft_id=info%3Apmid%2F10097057&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.96.7.3455&amp;rft_id=info%3Abibcode%2F1999PNAS...96.3455N&amp;rft.aulast=Nordstrom&amp;rft.aufirst=D.+Kirk&amp;rft.au=Alpers%2C+Charles+N.&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC34288&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-GoldBook-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-GoldBook_17-0">^</a></b></span> <span class="reference-text"><a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">IUPAC</a>, <i><a class="mw-redirect" href="/wiki/Compendium_of_Chemical_Terminology" title="Compendium of Chemical Terminology">Compendium of Chemical Terminology</a></i>, 2nd ed. (the "Gold Book") (1997). Online corrected version:  (2006–) "<a class="external text" href="http://goldbook.iupac.org/A00115.html" rel="nofollow">activity (relative activity), <i>a</i></a>".</span>
+</li>
+<li id="cite_note-GreenBook-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-GreenBook_18-0">^</a></b></span> <span class="reference-text"><a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">International Union of Pure and Applied Chemistry</a> (1993). <i><a href="/wiki/Quantities,_Units_and_Symbols_in_Physical_Chemistry" title="Quantities, Units and Symbols in Physical Chemistry">Quantities, Units and Symbols in Physical Chemistry</a></i>, 2nd edition, Oxford: Blackwell Science. <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-632-03583-8" title="Special:BookSources/0-632-03583-8">0-632-03583-8</a>. pp. 49–50. <a class="external text" href="http://old.iupac.org/publications/books/gbook/green_book_2ed.pdf" rel="nofollow">Electronic version.</a></span>
+</li>
+<li id="cite_note-Krossing-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Krossing_19-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Himmel, D.; Goll, S. K.; Leito, I.; Krossing, I. (2010). "A Unified pH Scale for all Phases". <i><a class="mw-redirect" href="/wiki/Angew._Chem._Int._Ed." title="Angew. Chem. Int. Ed.">Angew. Chem. Int. Ed.</a></i> <b>49</b> (38): 6885–6888. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fanie.201000252" rel="nofollow">10.1002/anie.201000252</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Angew.+Chem.+Int.+Ed.&amp;rft.atitle=A+Unified+pH+Scale+for+all+Phases&amp;rft.volume=49&amp;rft.issue=38&amp;rft.pages=6885-6888&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1002%2Fanie.201000252&amp;rft.aulast=Himmel&amp;rft.aufirst=D.&amp;rft.au=Goll%2C+S.+K.&amp;rft.au=Leito%2C+I.&amp;rft.au=Krossing%2C+I.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal">Himmel, Daniel; Goll, Sascha K.; Leito, Ivo; Krossing, Ingo (2010-08-16). <a class="external text" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201000252" rel="nofollow">"A Unified pH Scale for All Phases"</a>. <i>Angewandte Chemie International Edition</i>. <b>49</b> (38): 6885–6888. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fanie.201000252" rel="nofollow">10.1002/anie.201000252</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1433-7851" rel="nofollow">1433-7851</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Angewandte+Chemie+International+Edition&amp;rft.atitle=A+Unified+pH+Scale+for+All+Phases&amp;rft.volume=49&amp;rft.issue=38&amp;rft.pages=6885-6888&amp;rft.date=2010-08-16&amp;rft_id=info%3Adoi%2F10.1002%2Fanie.201000252&amp;rft.issn=1433-7851&amp;rft.aulast=Himmel&amp;rft.aufirst=Daniel&amp;rft.au=Goll%2C+Sascha+K.&amp;rft.au=Leito%2C+Ivo&amp;rft.au=Krossing%2C+Ingo&amp;rft_id=https%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2Fabs%2F10.1002%2Fanie.201000252&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Soil Survey Division Staff. <a class="external text" href="https://web.archive.org/web/20110514151830/http://soils.usda.gov/technical/manual/contents/chapter3.html" rel="nofollow">"Soil survey manual.1993. Chapter 3, selected chemical properties"</a>. Soil Conservation Service. U.S. Department of Agriculture Handbook 18. Archived from <a class="external text" href="http://soils.usda.gov/technical/manual/contents/chapter3.html" rel="nofollow">the original</a> on 14 May 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">12 March</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Soil+survey+manual.1993.+Chapter+3%2C+selected+chemical+properties.&amp;rft.pub=Soil+Conservation+Service.+U.S.+Department+of+Agriculture+Handbook+18&amp;rft.au=Soil+Survey+Division+Staff&amp;rft_id=http%3A%2F%2Fsoils.usda.gov%2Ftechnical%2Fmanual%2Fcontents%2Fchapter3.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Chester_Marine_Geochem-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-Chester_Marine_Geochem_22-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Chester, Jickells, Roy, Tim (2012). <i>Marine Geochemistry</i>. Blackwell Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-118-34907-6" title="Special:BookSources/978-1-118-34907-6">978-1-118-34907-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Marine+Geochemistry&amp;rft.pub=Blackwell+Publishing&amp;rft.date=2012&amp;rft.isbn=978-1-118-34907-6&amp;rft.aulast=Chester%2C+Jickells&amp;rft.aufirst=Roy%2C+Tim&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-raven05-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-raven05_23-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Royal Society (2005). <a class="external text" href="http://dge.stanford.edu/labs/caldeiralab/Caldeira%20downloads/RoyalSociety_OceanAcidification.pdf" rel="nofollow"><i>Ocean acidification due to increasing atmospheric carbon dioxide</i></a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-85403-617-2" title="Special:BookSources/0-85403-617-2">0-85403-617-2</a>. <a class="external text" href="https://web.archive.org/web/20100716000207/http://dge.stanford.edu/labs/caldeiralab/Caldeira%20downloads/RoyalSociety_OceanAcidification.pdf" rel="nofollow">Archived</a> <span class="cs1-format">(PDF)</span> from the original on 16 July 2010.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ocean+acidification+due+to+increasing+atmospheric+carbon+dioxide&amp;rft.date=2005&amp;rft.isbn=0-85403-617-2&amp;rft.au=Royal+Society&amp;rft_id=http%3A%2F%2Fdge.stanford.edu%2Flabs%2Fcaldeiralab%2FCaldeira%2520downloads%2FRoyalSociety_OceanAcidification.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-zeebe-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-zeebe_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-zeebe_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Zeebe, R. E. and Wolf-Gladrow, D. (2001) <i>CO<sub>2</sub> in seawater: equilibrium, kinetics, isotopes</i>, Elsevier Science B.V., Amsterdam, Netherlands <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-444-50946-1" title="Special:BookSources/0-444-50946-1">0-444-50946-1</a></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hansson, I. (1973). "A new set of pH-scales and standard buffers for seawater". <i>Deep-Sea Research</i>. <b>20</b> (5): 479–491. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1973DSROA..20..479H" rel="nofollow">1973DSROA..20..479H</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0011-7471%2873%2990101-0" rel="nofollow">10.1016/0011-7471(73)90101-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Deep-Sea+Research&amp;rft.atitle=A+new+set+of+pH-scales+and+standard+buffers+for+seawater&amp;rft.volume=20&amp;rft.issue=5&amp;rft.pages=479-491&amp;rft.date=1973&amp;rft_id=info%3Adoi%2F10.1016%2F0011-7471%2873%2990101-0&amp;rft_id=info%3Abibcode%2F1973DSROA..20..479H&amp;rft.au=Hansson%2C+I.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dickson, A. G. (1984). "pH scales and proton-transfer reactions in saline media such as sea water". <i>Geochim. Cosmochim. Acta</i>. <b>48</b> (11): 2299–2308. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1984GeCoA..48.2299D" rel="nofollow">1984GeCoA..48.2299D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0016-7037%2884%2990225-4" rel="nofollow">10.1016/0016-7037(84)90225-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Geochim.+Cosmochim.+Acta&amp;rft.atitle=pH+scales+and+proton-transfer+reactions+in+saline+media+such+as+sea+water&amp;rft.volume=48&amp;rft.issue=11&amp;rft.pages=2299-2308&amp;rft.date=1984&amp;rft_id=info%3Adoi%2F10.1016%2F0016-7037%2884%2990225-4&amp;rft_id=info%3Abibcode%2F1984GeCoA..48.2299D&amp;rft.au=Dickson%2C+A.+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation book">Boron, Walter, F.; Boulpaep, E.L. (2004). <i>Medical Physiology: A Cellular And Molecular Approach</i>. Elsevier/Saunders. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-4160-2328-3" title="Special:BookSources/1-4160-2328-3">1-4160-2328-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Medical+Physiology%3A+A+Cellular+And+Molecular+Approach&amp;rft.pub=Elsevier%2FSaunders&amp;rft.date=2004&amp;rft.isbn=1-4160-2328-3&amp;rft.aulast=Boron&amp;rft.aufirst=Walter%2C+F.&amp;rft.au=Boulpaep%2C+E.L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation book">Marieb EN, Hoehn K (2010). <i>Human anatomy &amp; physiology</i>. San Francisco: Benjamin Cummings. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8053-9591-1" title="Special:BookSources/0-8053-9591-1">0-8053-9591-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Human+anatomy+%26+physiology&amp;rft.place=San+Francisco&amp;rft.pub=Benjamin+Cummings&amp;rft.date=2010&amp;rft.isbn=0-8053-9591-1&amp;rft.aulast=Marieb&amp;rft.aufirst=EN&amp;rft.au=Hoehn%2C+K&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lambers, H.; Piessens, S.; Bloem, A.; Pronk, H.; Finkel, P. (2006-10-01). "Natural skin surface pH is on average below 5, which is beneficial for its resident flora". <i>International Journal of Cosmetic Science</i>. <b>28</b> (5): 359–370. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1111%2Fj.1467-2494.2006.00344.x" rel="nofollow">10.1111/j.1467-2494.2006.00344.x</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1468-2494" rel="nofollow">1468-2494</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18489300" rel="nofollow">18489300</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Cosmetic+Science&amp;rft.atitle=Natural+skin+surface+pH+is+on+average+below+5%2C+which+is+beneficial+for+its+resident+flora&amp;rft.volume=28&amp;rft.issue=5&amp;rft.pages=359-370&amp;rft.date=2006-10-01&amp;rft.issn=1468-2494&amp;rft_id=info%3Apmid%2F18489300&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1467-2494.2006.00344.x&amp;rft.aulast=Lambers&amp;rft.aufirst=H.&amp;rft.au=Piessens%2C+S.&amp;rft.au=Bloem%2C+A.&amp;rft.au=Pronk%2C+H.&amp;rft.au=Finkel%2C+P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web">Maloney, Chris. <a class="external text" href="http://sinophibe.blogspot.com/2011/03/ph-calculation-of-very-small.html" rel="nofollow">"pH calculation of a very small concentration of a strong acid"</a>. <a class="external text" href="https://web.archive.org/web/20110708062942/http://sinophibe.blogspot.com/2011/03/ph-calculation-of-very-small.html" rel="nofollow">Archived</a> from the original on 8 July 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=pH+calculation+of+a+very+small+concentration+of+a+strong+acid.&amp;rft.aulast=Maloney&amp;rft.aufirst=Chris&amp;rft_id=http%3A%2F%2Fsinophibe.blogspot.com%2F2011%2F03%2Fph-calculation-of-very-small.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation book">Billo, E.J. (2011). <i>EXCEL for Chemists</i> (3rd ed.). Wiley-VCH. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-470-38123-6" title="Special:BookSources/978-0-470-38123-6">978-0-470-38123-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=EXCEL+for+Chemists&amp;rft.edition=3rd&amp;rft.pub=Wiley-VCH&amp;rft.date=2011&amp;rft.isbn=978-0-470-38123-6&amp;rft.aulast=Billo&amp;rft.aufirst=E.J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APH"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:pH" title="commons:Category:pH">pH</a></b></i>.</td></tr></tbody></table>
+<ul><li><a class="external text" href="http://www.science.uwaterloo.ca/~cchieh/cact/c123/ph.html" rel="nofollow">The pH Scale</a></li>
+<li><a class="external text" href="http://www.chem1.com/acad/webtext/pdf/c1xacid2.pdf" rel="nofollow">Chem1 Virtual Textbook, Acid-base Equilibria and Calculations</a></li>
+<li><a class="external text" href="http://chemistry.about.com/library/weekly/aa012803a.htm" rel="nofollow">Red Cabbage pH Indicator</a></li>
+<li><a class="external text" href="http://www.engineeringtoolbox.com/food-ph-d_403.html" rel="nofollow">Food and Foodstuff – pH Values</a></li>
+<li><a class="external text" href="http://www.aqion.onl" rel="nofollow">Online pH Calculator for about 100 inorganic Acids, Bases, and Salts</a></li></ul>
+<div aria-labelledby="Wastewater" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Wastewater" title="Template:Wastewater"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Wastewater" title="Template talk:Wastewater"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wastewater&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Wastewater" style="font-size:114%;margin:0 4em"><a href="/wiki/Wastewater" title="Wastewater">Wastewater</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Sources</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acid_mine_drainage" title="Acid mine drainage">Acid mine drainage</a></li>
+<li><a href="/wiki/Ballast_water_discharge_and_the_environment" title="Ballast water discharge and the environment">Ballast water</a></li>
+<li><a href="/wiki/Bathroom" title="Bathroom">Bathroom</a></li>
+<li><a href="/wiki/Blackwater_(coal)" title="Blackwater (coal)">Blackwater (coal)</a></li>
+<li><a href="/wiki/Blackwater_(waste)" title="Blackwater (waste)">Blackwater (waste)</a></li>
+<li><a href="/wiki/Boiler_blowdown" title="Boiler blowdown">Boiler blowdown</a></li>
+<li><a href="/wiki/Brine" title="Brine">Brine</a></li>
+<li><a href="/wiki/Combined_sewer" title="Combined sewer">Combined sewer</a></li>
+<li><a href="/wiki/Cooling_tower#Wet_cooling_tower_material_balance" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Water_cooling" title="Water cooling">Cooling water</a></li>
+<li><a href="/wiki/Fecal_sludge_management" title="Fecal sludge management">Fecal sludge</a></li>
+<li><a href="/wiki/Greywater" title="Greywater">Greywater</a></li>
+<li><a href="/wiki/Infiltration/Inflow" title="Infiltration/Inflow">Infiltration/Inflow</a></li>
+<li><a href="/wiki/Industrial_wastewater_treatment#Sources_of_industrial_wastewater" title="Industrial wastewater treatment">Industrial effluent</a></li>
+<li><a href="/wiki/Ion_exchange#Regeneration_wastewater" title="Ion exchange">Ion exchange</a></li>
+<li><a href="/wiki/Leachate" title="Leachate">Leachate</a></li>
+<li><a href="/wiki/Concentrated_animal_feeding_operation" title="Concentrated animal feeding operation">Manure</a></li>
+<li><a href="/wiki/Environmental_impact_of_paper#Water_pollution" title="Environmental impact of paper">Papermaking</a></li>
+<li><a href="/wiki/Produced_water" title="Produced water">Produced water</a></li>
+<li><a href="/wiki/Return_flow" title="Return flow">Return flow</a></li>
+<li><a href="/wiki/Reverse_osmosis#Waste_stream_considerations" title="Reverse osmosis">Reverse osmosis</a></li>
+<li><a href="/wiki/Sanitary_sewer" title="Sanitary sewer">Sanitary sewer</a></li>
+<li><a class="mw-redirect" href="/wiki/Septage" title="Septage">Septage</a></li>
+<li><a href="/wiki/Sewage" title="Sewage">Sewage</a></li>
+<li><a href="/wiki/Sewage_sludge" title="Sewage sludge">Sewage sludge</a></li>
+<li><a href="/wiki/Toilet" title="Toilet">Toilet</a></li>
+<li><a href="/wiki/Urban_runoff" title="Urban runoff">Urban runoff</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Wastewater_quality_indicators" title="Wastewater quality indicators">Quality indicators</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adsorbable_organic_halides" title="Adsorbable organic halides">Adsorbable organic halides</a></li>
+<li><a href="/wiki/Biochemical_oxygen_demand" title="Biochemical oxygen demand">Biochemical oxygen demand</a></li>
+<li><a href="/wiki/Chemical_oxygen_demand" title="Chemical oxygen demand">Chemical oxygen demand</a></li>
+<li><a href="/wiki/Coliform_index" title="Coliform index">Coliform index</a></li>
+<li><a href="/wiki/Oxygen_saturation" title="Oxygen saturation">Oxygen saturation</a></li>
+<li><a href="/wiki/Heavy_metals" title="Heavy metals">Heavy metals</a></li>
+<li><a class="mw-selflink selflink">pH</a></li>
+<li><a href="/wiki/Salinity" title="Salinity">Salinity</a></li>
+<li><a href="/wiki/Temperature" title="Temperature">Temperature</a></li>
+<li><a href="/wiki/Total_dissolved_solids" title="Total dissolved solids">Total dissolved solids</a></li>
+<li><a href="/wiki/Total_suspended_solids" title="Total suspended solids">Total suspended solids</a></li>
+<li><a href="/wiki/Turbidity" title="Turbidity">Turbidity</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Wastewater_treatment" title="Wastewater treatment">Treatment options</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Activated_sludge" title="Activated sludge">Activated sludge</a></li>
+<li><a href="/wiki/Aerated_lagoon" title="Aerated lagoon">Aerated lagoon</a></li>
+<li><a href="/wiki/Agricultural_wastewater_treatment" title="Agricultural wastewater treatment">Agricultural wastewater treatment</a></li>
+<li><a href="/wiki/API_oil%E2%80%93water_separator" title="API oil–water separator">API oil–water separator</a></li>
+<li><a href="/wiki/Carbon_filtering" title="Carbon filtering">Carbon filtering</a></li>
+<li><a href="/wiki/Water_chlorination" title="Water chlorination">Chlorination</a></li>
+<li><a href="/wiki/Clarifier" title="Clarifier">Clarifier</a></li>
+<li><a href="/wiki/Constructed_wetland" title="Constructed wetland">Constructed wetland</a></li>
+<li><a href="/wiki/Decentralized_wastewater_system" title="Decentralized wastewater system">Decentralized wastewater system</a></li>
+<li><a href="/wiki/Extended_aeration" title="Extended aeration">Extended aeration</a></li>
+<li><a href="/wiki/Facultative_lagoon" title="Facultative lagoon">Facultative lagoon</a></li>
+<li><a href="/wiki/Fecal_sludge_management" title="Fecal sludge management">Fecal sludge management</a></li>
+<li><a href="/wiki/Filtration" title="Filtration">Filtration</a></li>
+<li><a href="/wiki/Imhoff_tank" title="Imhoff tank">Imhoff tank</a></li>
+<li><a href="/wiki/Industrial_wastewater_treatment" title="Industrial wastewater treatment">Industrial wastewater treatment</a></li>
+<li><a href="/wiki/Ion_exchange" title="Ion exchange">Ion exchange</a></li>
+<li><a href="/wiki/Membrane_bioreactor" title="Membrane bioreactor">Membrane bioreactor</a></li>
+<li><a href="/wiki/Reverse_osmosis" title="Reverse osmosis">Reverse osmosis</a></li>
+<li><a href="/wiki/Rotating_biological_contactor" title="Rotating biological contactor">Rotating biological contactor</a></li>
+<li><a href="/wiki/Secondary_treatment" title="Secondary treatment">Secondary treatment</a></li>
+<li><a href="/wiki/Sedimentation_(water_treatment)" title="Sedimentation (water treatment)">Sedimentation</a></li>
+<li><a href="/wiki/Septic_tank" title="Septic tank">Septic tank</a></li>
+<li><a href="/wiki/Settling_basin" title="Settling basin">Settling basin</a></li>
+<li><a href="/wiki/Sewage_sludge_treatment" title="Sewage sludge treatment">Sewage sludge treatment</a></li>
+<li><a href="/wiki/Sewage_treatment" title="Sewage treatment">Sewage treatment</a></li>
+<li><a href="/wiki/Sewer_mining" title="Sewer mining">Sewer mining</a></li>
+<li><a class="mw-redirect" href="/wiki/Stabilization_pond" title="Stabilization pond">Stabilization pond</a></li>
+<li><a href="/wiki/Trickling_filter" title="Trickling filter">Trickling filter</a></li>
+<li><a href="/wiki/Ultraviolet_germicidal_irradiation" title="Ultraviolet germicidal irradiation">Ultraviolet germicidal irradiation</a></li>
+<li><a href="/wiki/Upflow_anaerobic_sludge_blanket_digestion" title="Upflow anaerobic sludge blanket digestion">UASB</a></li>
+<li><a href="/wiki/Vermifilter" title="Vermifilter">Vermifilter</a></li>
+<li><a class="mw-redirect" href="/wiki/Wastewater_treatment_plant" title="Wastewater treatment plant">Wastewater treatment plant</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Disposal options</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Combined_sewer" title="Combined sewer">Combined sewer</a></li>
+<li><a href="/wiki/Evaporation_pond" title="Evaporation pond">Evaporation pond</a></li>
+<li><a href="/wiki/Groundwater_recharge" title="Groundwater recharge">Groundwater recharge</a></li>
+<li><a href="/wiki/Infiltration_basin" title="Infiltration basin">Infiltration basin</a></li>
+<li><a href="/wiki/Injection_well" title="Injection well">Injection well</a></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation</a></li>
+<li><a class="mw-redirect" href="/wiki/Marine_dumping" title="Marine dumping">Marine dumping</a></li>
+<li><a href="/wiki/Marine_outfall" title="Marine outfall">Marine outfall</a></li>
+<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">Reclaimed water</a></li>
+<li><a href="/wiki/Sanitary_sewer" title="Sanitary sewer">Sanitary sewer</a></li>
+<li><a href="/wiki/Septic_drain_field" title="Septic drain field">Septic drain field</a></li>
+<li><a href="/wiki/Sewage_farm" title="Sewage farm">Sewage farm</a></li>
+<li><a href="/wiki/Storm_drain" title="Storm drain">Storm drain</a></li>
+<li><a href="/wiki/Surface_runoff" title="Surface runoff">Surface runoff</a></li>
+<li><a href="/wiki/Vacuum_sewer" title="Vacuum sewer">Vacuum sewer</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><br/>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1272
+Cached time: 20181013215852
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.624 seconds
+Real time usage: 0.987 seconds
+Preprocessor visited node count: 2896/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 84647/2097152 bytes
+Template argument size: 2214/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 10/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 79753/5000000 bytes
+Number of Wikibase entities loaded: 5/400
+Lua time usage: 0.288/10.000 seconds
+Lua memory usage: 6.84 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  587.842      1 -total
+ 50.31%  295.741      1 Template:Reflist
+ 28.19%  165.697     13 Template:Cite_journal
+  6.52%   38.314      1 Template:Pp
+  5.43%   31.891      1 Template:IPAc-en
+  5.12%   30.070      1 Template:Other_uses
+  5.04%   29.625      2 Template:ISBN
+  5.00%   29.412      1 Template:GreenBookRef2nd
+  4.87%   28.606      1 Template:Failed_verification
+  4.23%   24.892      6 Template:Cite_web
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:24530-0!canonical!math=5 and timestamp 20181013215851 and revision id 852983829
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=PH&amp;oldid=852983829">https://en.wikipedia.org/w/index.php?title=PH&amp;oldid=852983829</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Acid%E2%80%93base_chemistry" title="Category:Acid–base chemistry">Acid–base chemistry</a></li><li><a href="/wiki/Category:Equilibrium_chemistry" title="Category:Equilibrium chemistry">Equilibrium chemistry</a></li><li><a href="/wiki/Category:Units_of_measurement" title="Category:Units of measurement">Units of measurement</a></li><li><a href="/wiki/Category:Water_quality_indicators" title="Category:Water quality indicators">Water quality indicators</a></li><li><a href="/wiki/Category:Logarithmic_scales_of_measurement" title="Category:Logarithmic scales of measurement">Logarithmic scales of measurement</a></li><li><a href="/wiki/Category:General_chemistry" title="Category:General chemistry">General chemistry</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_semi-protected_pages" title="Category:Wikipedia semi-protected pages">Wikipedia semi-protected pages</a></li><li><a href="/wiki/Category:Wikipedia_indefinitely_move-protected_pages" title="Category:Wikipedia indefinitely move-protected pages">Wikipedia indefinitely move-protected pages</a></li><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_December_2017" title="Category:Articles with failed verification from December 2017">Articles with failed verification from December 2017</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_October_2014" title="Category:Wikipedia articles needing clarification from October 2014">Wikipedia articles needing clarification from October 2014</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_March_2012" title="Category:Use dmy dates from March 2012">Use dmy dates from March 2012</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=PH" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=PH" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/PH" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:PH" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/PH">Read</a></span></li><li class="collapsible" id="ca-viewsource"><span><a accesskey="e" href="/w/index.php?title=PH&amp;action=edit" title="This page is protected.
+You can view its source [e]">View source</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=PH&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/PH" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/PH" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=PH&amp;oldid=852983829" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=PH&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q40936" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=PH&amp;id=852983829" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=PH">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=PH&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=PH&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:PH" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/PH" hreflang="af" lang="af" title="PH – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/PH-Wert" hreflang="als" lang="als" title="PH-Wert – Alemannisch">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A3%D8%B3_%D9%87%D9%8A%D8%AF%D8%B1%D9%88%D8%AC%D9%8A%D9%86%D9%8A" hreflang="ar" lang="ar" title="أس هيدروجيني – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/PH" hreflang="ast" lang="ast" title="PH – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%BF.%E0%A6%8F%E0%A6%87%E0%A6%9A" hreflang="bn" lang="bn" title="পি.এইচ – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/PH" hreflang="zh-min-nan" lang="zh-min-nan" title="PH – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%92%D0%B0%D0%B4%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B_%D0%BF%D0%B0%D0%BA%D0%B0%D0%B7%D1%87%D1%8B%D0%BA" hreflang="be" lang="be" title="Вадародны паказчык – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bh"><a class="interlanguage-link-target" href="https://bh.wikipedia.org/wiki/%E0%A4%AA%E0%A5%80%E0%A4%8D%E0%A4%9A" hreflang="bh" lang="bh" title="पीऍच – Bhojpuri">भोजपुरी</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B4%D0%B5%D0%BD_%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB" hreflang="bg" lang="bg" title="Водороден показател – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/PH" hreflang="bs" lang="bs" title="PH – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/PH" hreflang="ca" lang="ca" title="PH – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/PH" hreflang="cs" lang="cs" title="PH – Czech">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/PH" hreflang="cy" lang="cy" title="PH – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/PH" hreflang="da" lang="da" title="PH – Danish">Dansk</a></li><li class="interlanguage-link interwiki-se"><a class="interlanguage-link-target" href="https://se.wikipedia.org/wiki/PH" hreflang="se" lang="se" title="PH – Northern Sami">Davvisámegiella</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/PH-Wert" hreflang="de" lang="de" title="PH-Wert – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Vesinikeksponent" hreflang="et" lang="et" title="Vesinikeksponent – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/PH" hreflang="el" lang="el" title="PH – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/PH" hreflang="es" lang="es" title="PH – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/PH_(kemia_parametro)" hreflang="eo" lang="eo" title="PH (kemia parametro) – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/PH" hreflang="eu" lang="eu" title="PH – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%E2%80%8C%D8%A7%DA%86" hreflang="fa" lang="fa" title="پی‌اچ – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Potentiel_hydrog%C3%A8ne" hreflang="fr" lang="fr" title="Potentiel hydrogène – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/PH" hreflang="ga" lang="ga" title="PH – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/PH" hreflang="gl" lang="gl" title="PH – Galician">Galego</a></li><li class="interlanguage-link interwiki-hak"><a class="interlanguage-link-target" href="https://hak.wikipedia.org/wiki/PH" hreflang="hak" lang="hak" title="PH – Hakka Chinese">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%88%98%EC%86%8C_%EC%9D%B4%EC%98%A8_%EB%86%8D%EB%8F%84_%EC%A7%80%EC%88%98" hreflang="ko" lang="ko" title="수소 이온 농도 지수 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8B%D6%80%D5%A1%D5%AE%D5%B6%D5%A1%D5%B5%D5%AB%D5%B6_%D6%81%D5%B8%D6%82%D6%81%D5%AB%D5%B9" hreflang="hy" lang="hy" title="Ջրածնային ցուցիչ – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/PH" hreflang="hi" lang="hi" title="PH – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/PH" hreflang="hr" lang="hr" title="PH – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/PH" hreflang="io" lang="io" title="PH – Ido">Ido</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/PH" hreflang="id" lang="id" title="PH – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Potential_de_hydrogeno" hreflang="ia" lang="ia" title="Potential de hydrogeno – Interlingua">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/S%C3%BDrustig" hreflang="is" lang="is" title="Sýrustig – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/PH" hreflang="it" lang="it" title="PH – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/PH" hreflang="he" lang="he" title="PH – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kn"><a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%AA%E0%B2%BF_%E0%B2%B9%E0%B3%86%E0%B2%9A%E0%B3%8D" hreflang="kn" lang="kn" title="ಪಿ ಹೆಚ್ – Kannada">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-pam"><a class="interlanguage-link-target" href="https://pam.wikipedia.org/wiki/PH" hreflang="pam" lang="pam" title="PH – Pampanga">Kapampangan</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/PH" hreflang="kk" lang="kk" title="PH – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Thamani_pH" hreflang="sw" lang="sw" title="Thamani pH – Swahili">Kiswahili</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/PH" hreflang="ht" lang="ht" title="PH – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ku"><a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/Nirxa_pH" hreflang="ku" lang="ku" title="Nirxa pH – Kurdish">Kurdî</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Potentia_Hydrogenii" hreflang="la" lang="la" title="Potentia Hydrogenii – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/PH" hreflang="lv" lang="lv" title="PH – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Vandenilio_potencialas" hreflang="lt" lang="lt" title="Vandenilio potencialas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/PH" hreflang="hu" lang="hu" title="PH – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B4%D0%B5%D0%BD_%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB" hreflang="mk" lang="mk" title="Водороден показател – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%AA%E0%B4%BF.%E0%B4%8E%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B5%8D._%E0%B4%AE%E0%B5%82%E0%B4%B2%E0%B5%8D%E0%B4%AF%E0%B4%82" hreflang="ml" lang="ml" title="പി.എച്ച്. മൂല്യം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%AA%E0%A5%80.%E0%A4%8F%E0%A4%9A._%E0%A4%AE%E0%A5%82%E0%A4%B2%E0%A5%8D%E0%A4%AF" hreflang="mr" lang="mr" title="पी.एच. मूल्य – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/PH" hreflang="ms" lang="ms" title="PH – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mn"><a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%A0%D0%9D" hreflang="mn" lang="mn" title="РН – Mongolian">Монгол</a></li><li class="interlanguage-link interwiki-my"><a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/PH" hreflang="my" lang="my" title="PH – Burmese">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/PH" hreflang="nl" lang="nl" title="PH – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%B0%B4%E7%B4%A0%E3%82%A4%E3%82%AA%E3%83%B3%E6%8C%87%E6%95%B0" hreflang="ja" lang="ja" title="水素イオン指数 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-frr"><a class="interlanguage-link-target" href="https://frr.wikipedia.org/wiki/PH-w%C3%A4%C3%A4rs" hreflang="frr" lang="frr" title="PH-wäärs – Northern Frisian">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/PH" hreflang="no" lang="no" title="PH – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/PH" hreflang="nn" lang="nn" title="PH – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-nov"><a class="interlanguage-link-target" href="https://nov.wikipedia.org/wiki/PH" hreflang="nov" lang="nov" title="PH – Novial">Novial</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/PH" hreflang="oc" lang="oc" title="PH – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/PH" hreflang="uz" lang="uz" title="PH – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A9%80.%E0%A8%90%E0%A9%B1%E0%A8%9A._(%E0%A8%B9%E0%A8%BE%E0%A8%88%E0%A8%A1%E0%A8%B0%E0%A9%8B%E0%A8%9C%E0%A8%A8_%E0%A8%B8%E0%A8%BC%E0%A8%95%E0%A8%A4%E0%A9%80)" hreflang="pa" lang="pa" title="ਪੀ.ਐੱਚ. (ਹਾਈਡਰੋਜਨ ਸ਼ਕਤੀ) – Punjabi">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pnb"><a class="interlanguage-link-target" href="https://pnb.wikipedia.org/wiki/%D9%BE%DB%8C_%D8%A7%DB%8C%DA%86" hreflang="pnb" lang="pnb" title="پی ایچ – Western Punjabi">پنجابی</a></li><li class="interlanguage-link interwiki-nds"><a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/PH-Weert" hreflang="nds" lang="nds" title="PH-Weert – Low German">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Skala_pH" hreflang="pl" lang="pl" title="Skala pH – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/PH" hreflang="pt" lang="pt" title="PH – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/PH" hreflang="ro" lang="ro" title="PH – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" hreflang="ru" lang="ru" title="Водородный показатель – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/PH" hreflang="sco" lang="sco" title="PH – Scots">Scots</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/PH" hreflang="sq" lang="sq" title="PH – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-scn"><a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/PH" hreflang="scn" lang="scn" title="PH – Sicilian">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/PH" hreflang="simple" lang="simple" title="PH – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Kyslos%C5%A5" hreflang="sk" lang="sk" title="Kyslosť – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/PH" hreflang="sl" lang="sl" title="PH – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-so"><a class="interlanguage-link-target" href="https://so.wikipedia.org/wiki/PH" hreflang="so" lang="so" title="PH – Somali">Soomaaliga</a></li><li class="interlanguage-link interwiki-ckb"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D9%BE%DB%8C_%D8%A6%DB%8E%DA%86" hreflang="ckb" lang="ckb" title="پی ئێچ – Central Kurdish">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/PH_%D0%B2%D1%80%D0%B5%D0%B4%D0%BD%D0%BE%D1%81%D1%82" hreflang="sr" lang="sr" title="PH вредност – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/PH_vrednost" hreflang="sh" lang="sh" title="PH vrednost – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a class="interlanguage-link-target" href="https://su.wikipedia.org/wiki/PH" hreflang="su" lang="su" title="PH – Sundanese">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Happamuus" hreflang="fi" lang="fi" title="Happamuus – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/PH" hreflang="sv" lang="sv" title="PH – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/PH" hreflang="tl" lang="tl" title="PH – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%BE%E0%AE%B0%E0%AE%95%E0%AE%BE%E0%AE%9F%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%A9%E0%AF%8D%E0%AE%AE%E0%AF%88%E0%AE%9A%E0%AF%8D_%E0%AE%9A%E0%AF%81%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%86%E0%AE%A3%E0%AF%8D" hreflang="ta" lang="ta" title="காரகாடித்தன்மைச் சுட்டெண் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/PH" hreflang="te" lang="te" title="PH – Telugu">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%AD%E0%B8%8A_(%E0%B9%80%E0%B8%84%E0%B8%A1%E0%B8%B5)" hreflang="th" lang="th" title="พีเอช (เคมี) – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/PH" hreflang="tr" lang="tr" title="PH – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/PH" hreflang="uk" lang="uk" title="PH – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/PH" hreflang="vi" lang="vi" title="PH – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a class="interlanguage-link-target" href="https://zh-classical.wikipedia.org/wiki/%E9%85%B8%E9%B9%BC%E5%BA%A6" hreflang="zh-classical" lang="zh-classical" title="酸鹼度 – Classical Chinese">文言</a></li><li class="interlanguage-link interwiki-vls"><a class="interlanguage-link-target" href="https://vls.wikipedia.org/wiki/PH" hreflang="vls" lang="vls" title="PH – West Flemish">West-Vlams</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/PH" hreflang="war" lang="war" title="PH – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E9%85%B8%E9%B9%BC%E5%BA%A6" hreflang="zh-yue" lang="zh-yue" title="酸鹼度 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/PH%E5%80%BC" hreflang="zh" lang="zh" title="PH值 – Chinese">中文</a></li><li class="interlanguage-link interwiki-kbp"><a class="interlanguage-link-target" href="https://kbp.wikipedia.org/wiki/PH" hreflang="kbp" lang="kbp" title="PH – Kabiye">Kabɩyɛ</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q40936#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 1 August 2018, at 17:16<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=PH&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.624","walltime":"0.987","ppvisitednodes":{"value":2896,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":84647,"limit":2097152},"templateargumentsize":{"value":2214,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":79753,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00%  587.842      1 -total"," 50.31%  295.741      1 Template:Reflist"," 28.19%  165.697     13 Template:Cite_journal","  6.52%   38.314      1 Template:Pp","  5.43%   31.891      1 Template:IPAc-en","  5.12%   30.070      1 Template:Other_uses","  5.04%   29.625      2 Template:ISBN","  5.00%   29.412      1 Template:GreenBookRef2nd","  4.87%   28.606      1 Template:Failed_verification","  4.23%   24.892      6 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.288","limit":"10.000"},"limitreport-memusage":{"value":7176369,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20181013215852","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1120,"wgHostname":"mw1272"});});</script>
+</body>
+</html>

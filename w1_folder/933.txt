@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Rotating unbalance - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Rotating_unbalance","wgTitle":"Rotating unbalance","wgCurRevisionId":859002000,"wgRevisionId":859002000,"wgArticleId":34187558,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Orphaned articles from July 2015","All orphaned articles","Rotation","Mechanical vibrations"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Rotating_unbalance","wgRelevantArticleId":34187558,"wgRequestId":"W7pHagrAADEAADqEDZAAAABP","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7370301","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Rotating_unbalance" rel="alternate"/>
+<link href="/w/index.php?title=Rotating_unbalance&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Rotating_unbalance&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Rotating_unbalance" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Rotating_unbalance rootpage-Rotating_unbalance skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Rotating unbalance</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-Orphan" role="presentation" style="display: none"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Wiki_letter_w.svg"><img alt="Wiki letter w.svg" data-file-height="44" data-file-width="44" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/60px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/80px-Wiki_letter_w.svg.png 2x" width="40"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>is an <a href="/wiki/Wikipedia:Orphan" title="Wikipedia:Orphan">orphan</a>, as no other articles <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:Whatlinkshere&amp;target=Rotating_unbalance&amp;namespace=0">link to it</a></b>. Please <a href="/wiki/Help:Link" title="Help:Link">introduce links</a> to this page from <span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;redirs=1&amp;search=Rotating+unbalance&amp;fulltext=Search&amp;ns0=1&amp;title=Special%3ASearch&amp;advanced=1&amp;fulltext=Rotating+unbalance">related articles</a></span>; try the <a class="external text" href="//edwardbetts.com/find_link?q=Rotating_unbalance" rel="nofollow">Find link tool</a> for suggestions.  <small><i>(July 2015)</i></small></div></td></tr></tbody></table>
+<p><b>Rotating unbalance</b> is the uneven distribution of mass around an axis of rotation. A rotating mass, or <b>rotor</b>, is said to be out of balance when its <a href="/wiki/Center_of_mass" title="Center of mass">center of mass</a> (inertia axis) is out of alignment with the center of rotation (geometric axis). Unbalance causes a moment which gives the rotor a wobbling movement characteristic of <a href="/wiki/Vibration_of_rotating_structures" title="Vibration of rotating structures">vibration of rotating structures</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Causes_of_unbalance"><span class="tocnumber">1</span> <span class="toctext">Causes of unbalance</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Effects_of_unbalance"><span class="tocnumber">2</span> <span class="toctext">Effects of unbalance</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Units_used_to_express_unbalance"><span class="tocnumber">3</span> <span class="toctext">Units used to express unbalance</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Types_of_balance"><span class="tocnumber">4</span> <span class="toctext">Types of balance</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Static_balance"><span class="tocnumber">4.1</span> <span class="toctext">Static balance</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Couple_balance"><span class="tocnumber">4.2</span> <span class="toctext">Couple balance</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Dynamic_balance"><span class="tocnumber">4.3</span> <span class="toctext">Dynamic balance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#How_to_correct_or_compensate_balance"><span class="tocnumber">5</span> <span class="toctext">How to correct or compensate balance</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Grades"><span class="tocnumber">6</span> <span class="toctext">Grades</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Important_formulas"><span class="tocnumber">7</span> <span class="toctext">Important formulas</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Causes_of_unbalance">Causes of unbalance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rotating_unbalance&amp;action=edit&amp;section=1" title="Edit section: Causes of unbalance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt>Distortion from stress</dt>
+<dd>Routine manufacturing processes can cause stress on metal components. Without stress relief, the rotor will distort itself to adjust.</dd>
+<dt>Thermal distortion</dt>
+<dd>Thermal distortion often occurs with parts exposed to increased temperatures. Metals are able to expand when in contact with heat, so exposure to warmer temperatures can cause either the entire piece of machinery to expand, or just certain parts, causing distortion.</dd>
+<dt>Buildups and deposits</dt>
+<dd>Rotating parts involved in material handling almost always accumulate buildup. Moreover, when exposed to oil, these parts can be very easily distorted. Without adhering to a maintenance routine or implementing an inspection process, oil can seep into the parts, causing unbalance.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></dd></dl>
+<h2><span class="mw-headline" id="Effects_of_unbalance">Effects of unbalance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rotating_unbalance&amp;action=edit&amp;section=2" title="Edit section: Effects of unbalance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Vibration" title="Vibration">Vibration</a></li>
+<li><a href="/wiki/Noise" title="Noise">Noise</a></li>
+<li>Decreased life of <a href="/wiki/Bearing_(mechanical)" title="Bearing (mechanical)">bearings</a></li>
+<li>Unsafe work conditions</li>
+<li>Reduced machine life</li>
+<li>Increased maintenance</li></ul>
+<h2><span class="mw-headline" id="Units_used_to_express_unbalance">Units used to express unbalance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rotating_unbalance&amp;action=edit&amp;section=3" title="Edit section: Units used to express unbalance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In terms of the mass eccentricity <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle e}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>e</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle e}</annotation>
+</semantics>
+</math></span><img alt="e" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cd253103f0876afc68ebead27a5aa9867d927467" style="vertical-align: -0.338ex; width:1.083ex; height:1.676ex;"/></span>: µm, mm, cm, ...; µin, mil, in, ...</li>
+<li>In terms of mass <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>m</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+</semantics>
+</math></span><img alt="m" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;"/></span> at a given radius:  µg, mg, g, kg, ...; moz, oz, ...</li>
+<li>In terms of mass × radius moment (mR): mg-mm, g-mm, mg-cm, g-cm, kg-mm, ...; oz-in, g-in, ...</li></ul>
+<h2><span class="mw-headline" id="Types_of_balance">Types of balance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rotating_unbalance&amp;action=edit&amp;section=4" title="Edit section: Types of balance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Static_balance">Static balance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rotating_unbalance&amp;action=edit&amp;section=5" title="Edit section: Static balance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A <b>static balance</b> (sometimes called a <b>force balance</b><sup class="reference" id="cite_ref-Centrifugal_Pump_2-0"><a href="#cite_note-Centrifugal_Pump-2">[2]</a></sup><sup class="reference" id="cite_ref-TAC_3-0"><a href="#cite_note-TAC-3">[3]</a></sup>) occurs when the inertial axis of a rotating mass is displaced from and parallel to the axis of rotation. Static unbalances can occur more frequently in disk-shaped rotors because the thin geometric profile of the disk allows for an uneven distribution of mass with an inertial axis that is nearly parallel to the axis of rotation. Only one plane receives balance correction.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle U=m\times r}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mo>=</mo>
+<mi>m</mi>
+<mo>×<!-- × --></mo>
+<mi>r</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U=m\times r}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle U=m\times r}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/618377b7767ef0f53f05695864f7a1420cfc2078" style="vertical-align: -0.338ex; width:10.81ex; height:2.176ex;"/></span></dd></dl>
+<p>where U = balance, m = mass, r = distance between unbalance and the centre of the object
+</p>
+<h3><span class="mw-headline" id="Couple_balance">Couple balance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rotating_unbalance&amp;action=edit&amp;section=6" title="Edit section: Couple balance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A <b>couple balance</b> occurs when a rotating mass has two equal unbalance forces that are situated 180° opposite each other.  A system that is statically balanced may still have a couple unbalance.
+Couple unbalance occurs frequently in elongated cylindrical rotors.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle U=m\times r\times d}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mo>=</mo>
+<mi>m</mi>
+<mo>×<!-- × --></mo>
+<mi>r</mi>
+<mo>×<!-- × --></mo>
+<mi>d</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U=m\times r\times d}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle U=m\times r\times d}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d829df17f581bfb1ce72693416b5aff4a8e6cd2a" style="vertical-align: -0.338ex; width:14.867ex; height:2.176ex;"/></span></dd></dl>
+<p>where d = distance between the two unbalance forces along the rotation axis.
+</p>
+<h3><span class="mw-headline" id="Dynamic_balance">Dynamic balance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rotating_unbalance&amp;action=edit&amp;section=7" title="Edit section: Dynamic balance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In rotation an unbalance when the mass/inertia axis does not intersect with shaft axis then it is called <b>dynamic balance</b>. Combination of static and couple balance is dynamic unbalance. It occurs virtually in all rotors and is the most common kind of unbalance. It can be fixed by correcting the weight on at least two planes.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p>
+<h2><span class="mw-headline" id="How_to_correct_or_compensate_balance">How to correct or compensate balance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rotating_unbalance&amp;action=edit&amp;section=8" title="Edit section: How to correct or compensate balance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Mass addition.</li>
+<li>Mass removal.</li>
+<li>Mass shifting.</li>
+<li>Mass centering.</li></ul>
+<p>The measurement of existing vibration and calculation of the change of mass required is typically carried out using some form of <a href="/wiki/Balancing_machine" title="Balancing machine">balancing machine</a>.
+</p>
+<h2><span class="mw-headline" id="Grades">Grades</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rotating_unbalance&amp;action=edit&amp;section=9" title="Edit section: Grades">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a> 21940<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> classifies vibration in terms of G codes. Unfortunately, it is the theoretical value assuming the rotor was spinning in free space so it does not relate to actual operating conditions. Rotors of the same type having permissible residual specific unbalance value e<sub>per</sub>, varies inversely with  the speed of the rotor.
+</p>
+<dl><dd>e<sub>per</sub> × ω = Constant,</dd></dl>
+<p>where ω = angular velocity. e<sub>per</sub> = permissible residual specific unbalance
+</p><p>This constant is quality grade G. Balance Grades are used to specify the allowable residual imbalance for rotating machinery. The ISO 1940 standard defines balance grades for different classes of machinery. A rotor balanced to G2.5 will vibrate at 2.5 mm/s at operating speed if rotating in a suspended state with no external influences.
+</p>
+<dl><dd>U<sub>per</sub> = (9.54 × G number × mass)/rpm</dd></dl>
+<p>Where  U<sub>per</sub> = balance tolerance (or) residual imbalance
+</p>
+<h2><span class="mw-headline" id="Important_formulas">Important formulas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rotating_unbalance&amp;action=edit&amp;section=10" title="Edit section: Important formulas">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle F=U\omega ^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>F</mi>
+<mo>=</mo>
+<mi>U</mi>
+<msup>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle F=U\omega ^{2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle F=U\omega ^{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/30f094afd9e1d78881198b2193bb5842a925eb7c" style="vertical-align: -0.338ex; width:9.122ex; height:2.676ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle U=mass(unbalance)r}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mo>=</mo>
+<mi>m</mi>
+<mi>a</mi>
+<mi>s</mi>
+<mi>s</mi>
+<mo stretchy="false">(</mo>
+<mi>u</mi>
+<mi>n</mi>
+<mi>b</mi>
+<mi>a</mi>
+<mi>l</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mi>c</mi>
+<mi>e</mi>
+<mo stretchy="false">)</mo>
+<mi>r</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U=mass(unbalance)r}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle U=mass(unbalance)r}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ae00379515b319921082b0d6ac35b599c41cf81a" style="vertical-align: -0.838ex; width:23.55ex; height:2.843ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle e={\frac {U}{m(rotor)}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>e</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>U</mi>
+<mrow>
+<mi>m</mi>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mi>o</mi>
+<mi>t</mi>
+<mi>o</mi>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle e={\frac {U}{m(rotor)}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle e={\frac {U}{m(rotor)}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/73b7910f141c9783acda30fa47d4c047ee9001ed" style="vertical-align: -2.671ex; width:14.06ex; height:6.009ex;"/></span></dd></dl>
+<p>Where F = force due to unbalance, U = unbalance. ω = angular frequency. e = specific unbalance. m = mass. r = distance between unbalance and the axis of rotation of the object
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rotating_unbalance&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news"><a class="external text" href="https://www.testdevices.com/three-major-ways-manufactured-rotating-component-can-become-unbalanced/" rel="nofollow">"Three Major Ways Your Manufactured Rotating Component Can Become Unbalanced | Test Devices Inc"</a>. <i>Test Devices Inc</i>. 2017-08-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-03-13</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Test+Devices+Inc.&amp;rft.atitle=Three+Major+Ways+Your+Manufactured+Rotating+Component+Can+Become+Unbalanced+%7C+Test+Devices+Inc.&amp;rft.date=2017-08-12&amp;rft_id=https%3A%2F%2Fwww.testdevices.com%2Fthree-major-ways-manufactured-rotating-component-can-become-unbalanced%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARotating+unbalance"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Centrifugal_Pump-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Centrifugal_Pump_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://centrifugal-pump.org/unbalance.html" rel="nofollow">"Mass unbalance and peak vibration at 1X running frequency"</a>. centrifugal-pump.org<span class="reference-accessdate">. Retrieved <span class="nowrap">10 October</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mass+unbalance+and+peak+vibration+at+1X+running+frequency&amp;rft.pub=centrifugal-pump.org&amp;rft_id=http%3A%2F%2Fcentrifugal-pump.org%2Funbalance.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARotating+unbalance"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-TAC-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-TAC_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Berry, James E. (1997). <a class="external text" href="http://www.technicalassociates.net/" rel="nofollow"><i>Analysis I: How To Implement An Effective Condition Monitoring Program Using Vibration Analysis</i></a>. Technical Associates of Charlotte, P.C. pp. 6–15.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Analysis+I%3A+How+To+Implement+An+Effective+Condition+Monitoring+Program+Using+Vibration+Analysis&amp;rft.pages=6-15&amp;rft.pub=Technical+Associates+of+Charlotte%2C+P.C.&amp;rft.date=1997&amp;rft.aulast=Berry&amp;rft.aufirst=James+E.&amp;rft_id=http%3A%2F%2Fwww.technicalassociates.net%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARotating+unbalance"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.universal-balancing.com/index.php/what-is-balancing" rel="nofollow">"Balancing Definition &amp; What Is Balancing? | Universal Balancing"</a>. <i>www.universal-balancing.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-03-13</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.universal-balancing.com&amp;rft.atitle=Balancing+Definition+%26+What+Is+Balancing%3F+%7C+Universal+Balancing&amp;rft_id=https%3A%2F%2Fwww.universal-balancing.com%2Findex.php%2Fwhat-is-balancing&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARotating+unbalance"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.irdbalancing.com/unbalance---cause-of-vibration.html" rel="nofollow">"Unbalance: The Common Cause of Vibration | IRD Balancing"</a>. <i>www.irdbalancing.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-03-13</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.irdbalancing.com&amp;rft.atitle=Unbalance%3A+The+Common+Cause+of+Vibration+%7C+IRD+Balancing&amp;rft_id=http%3A%2F%2Fwww.irdbalancing.com%2Funbalance---cause-of-vibration.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARotating+unbalance"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.iso.org/standard/54074.html" rel="nofollow">"ISO 21940"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ISO+21940&amp;rft_id=https%3A%2F%2Fwww.iso.org%2Fstandard%2F54074.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARotating+unbalance"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rotating_unbalance&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<!-- 
+NewPP limit report
+Parsed by mw2176
+Cached time: 20181007173754
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.136 seconds
+Real time usage: 0.247 seconds
+Preprocessor visited node count: 417/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12497/2097152 bytes
+Template argument size: 100/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 15521/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.073/10.000 seconds
+Lua memory usage: 2.76 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  147.204      1 -total
+ 62.56%   92.095      1 Template:Reflist
+ 36.67%   53.978      1 Template:Cite_news
+ 34.45%   50.717      1 Template:Orphan
+ 24.02%   35.361      1 Template:Ambox
+ 11.70%   17.221      4 Template:Cite_web
+  4.23%    6.224      1 Template:Cite_book
+  1.46%    2.150      1 Template:Monthyear-1
+  1.44%    2.114      1 Template:Main_other
+  1.37%    2.023      2 Template:PAGENAMEU
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:34187558-0!canonical!math=5 and timestamp 20181007173754 and revision id 859002000
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Rotating_unbalance&amp;oldid=859002000">https://en.wikipedia.org/w/index.php?title=Rotating_unbalance&amp;oldid=859002000</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Rotation" title="Category:Rotation">Rotation</a></li><li><a href="/wiki/Category:Mechanical_vibrations" title="Category:Mechanical vibrations">Mechanical vibrations</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Orphaned_articles_from_July_2015" title="Category:Orphaned articles from July 2015">Orphaned articles from July 2015</a></li><li><a href="/wiki/Category:All_orphaned_articles" title="Category:All orphaned articles">All orphaned articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Rotating+unbalance" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Rotating+unbalance" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Rotating_unbalance" title="View the content page [c]">Article</a></span></li><li class="new" id="ca-talk"><span><a accesskey="t" href="/w/index.php?title=Talk:Rotating_unbalance&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Rotating_unbalance">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Rotating_unbalance&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Rotating_unbalance&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Rotating_unbalance" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Rotating_unbalance" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Rotating_unbalance&amp;oldid=859002000" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Rotating_unbalance&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7370301" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Rotating_unbalance&amp;id=859002000" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Rotating+unbalance">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Rotating+unbalance&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Rotating_unbalance&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Disbalans" hreflang="az" lang="az" title="Disbalans – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Unwucht" hreflang="de" lang="de" title="Unwucht – German">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Balourd" hreflang="fr" lang="fr" title="Balourd – French">Français</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%98%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%A3%E0%A5%80_%E0%A4%85%E0%A4%B8%E0%A4%82%E0%A4%A4%E0%A5%81%E0%A4%B2%E0%A4%A8" hreflang="hi" lang="hi" title="घूर्णी असंतुलन – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9_(%E5%8A%9B%E5%AD%A6)" hreflang="ja" lang="ja" title="アンバランス (力学) – Japanese">日本語</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7370301#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 11 September 2018, at 02:06<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Rotating_unbalance&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.136","walltime":"0.247","ppvisitednodes":{"value":417,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12497,"limit":2097152},"templateargumentsize":{"value":100,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15521,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  147.204      1 -total"," 62.56%   92.095      1 Template:Reflist"," 36.67%   53.978      1 Template:Cite_news"," 34.45%   50.717      1 Template:Orphan"," 24.02%   35.361      1 Template:Ambox"," 11.70%   17.221      4 Template:Cite_web","  4.23%    6.224      1 Template:Cite_book","  1.46%    2.150      1 Template:Monthyear-1","  1.44%    2.114      1 Template:Main_other","  1.37%    2.023      2 Template:PAGENAMEU"]},"scribunto":{"limitreport-timeusage":{"value":"0.073","limit":"10.000"},"limitreport-memusage":{"value":2890678,"limit":52428800}},"cachereport":{"origin":"mw2176","timestamp":"20181007173754","ttl":86400,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw2224"});});</script>
+</body>
+</html>

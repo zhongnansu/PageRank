@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Conjugate acid - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Conjugate_acid","wgTitle":"Conjugate acid","wgCurRevisionId":852614196,"wgRevisionId":852614196,"wgArticleId":40187,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Acid–base chemistry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Conjugate_acid","wgRelevantArticleId":40187,"wgRequestId":"W7UiFQrAIEAAABZH7JIAAABC","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q2014867","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.23" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Conjugate_acid" rel="alternate"/>
+<link href="/w/index.php?title=Conjugate_acid&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Conjugate_acid&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Conjugate_acid" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Conjugate_acid rootpage-Conjugate_acid skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Conjugate acid</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;background:#d3d3d3;">Acids and Bases</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.2em 0 0.75em;">
+<ul><li><a href="/wiki/Acid" title="Acid">Acid</a></li>
+<li><a href="/wiki/Acid%E2%80%93base_reaction" title="Acid–base reaction">Acid–base reaction</a></li>
+<li><a href="/wiki/Acid_strength" title="Acid strength">Acid strength</a></li>
+<li><a href="/wiki/Acidity_function" title="Acidity function">Acidity function</a></li>
+<li><a href="/wiki/Amphoterism" title="Amphoterism">Amphoterism</a></li>
+<li><a href="/wiki/Base_(chemistry)" title="Base (chemistry)">Base</a></li>
+<li><a href="/wiki/Buffer_solution" title="Buffer solution">Buffer solutions</a></li>
+<li><a href="/wiki/Dissociation_constant" title="Dissociation constant">Dissociation constant</a></li>
+<li><a href="/wiki/Equilibrium_chemistry" title="Equilibrium chemistry">Equilibrium chemistry</a></li>
+<li><a href="/wiki/Acid-base_extraction" title="Acid-base extraction">Extraction</a></li>
+<li><a href="/wiki/Hammett_acidity_function" title="Hammett acidity function">Hammett acidity function</a></li>
+<li><a href="/wiki/PH" title="PH">pH</a></li>
+<li><a href="/wiki/Proton_affinity" title="Proton affinity">Proton affinity</a></li>
+<li><a href="/wiki/Self-ionization_of_water" title="Self-ionization of water">Self-ionization of water</a></li>
+<li><a href="/wiki/Acid%E2%80%93base_titration" title="Acid–base titration">Titration</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#e5e5e5;">
+<a href="/wiki/Acid" title="Acid">Acid</a> types</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.2em 0 0.75em;">
+<ul><li><a href="/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theory" title="Brønsted–Lowry acid–base theory">Brønsted</a></li>
+<li><a href="/wiki/Lewis_acids_and_bases" title="Lewis acids and bases">Lewis</a></li>
+<li><a href="/wiki/Mineral_acid" title="Mineral acid">Mineral</a></li>
+<li><a href="/wiki/Organic_acid" title="Organic acid">Organic</a></li>
+<li><a class="mw-redirect" href="/wiki/Strong_acid" title="Strong acid">Strong</a></li>
+<li><a href="/wiki/Superacid" title="Superacid">Superacids</a></li>
+<li><a class="mw-redirect" href="/wiki/Weak_acid" title="Weak acid">Weak</a></li>
+<li><a href="/wiki/Solid_acid" title="Solid acid">Solid</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#e5e5e5;">
+<a href="/wiki/Base_(chemistry)" title="Base (chemistry)">Base</a> types</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding:0.2em 0 0.75em;">
+<ul><li><a href="/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theory" title="Brønsted–Lowry acid–base theory">Brønsted</a></li>
+<li><a href="/wiki/Lewis_acids_and_bases" title="Lewis acids and bases">Lewis</a></li>
+<li><a href="/wiki/Organic_base" title="Organic base">Organic</a></li>
+<li><a href="/wiki/Base_(chemistry)#Strong_bases" title="Base (chemistry)">Strong</a></li>
+<li><a href="/wiki/Superbase" title="Superbase">Superbases</a></li>
+<li><a href="/wiki/Non-nucleophilic_base" title="Non-nucleophilic base">Non-nucleophilic</a></li>
+<li><a href="/wiki/Weak_base" title="Weak base">Weak</a></li></ul></td>
+</tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Acids_and_bases" title="Template:Acids and bases"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Acids_and_bases" title="Template talk:Acids and bases"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Acids_and_bases&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>A <b>conjugate acid</b>, within the <a href="/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theory" title="Brønsted–Lowry acid–base theory">Brønsted–Lowry acid–base theory</a>, is a <a href="/wiki/Chemical_species" title="Chemical species">species</a> formed by the <a href="/wiki/Protonation" title="Protonation">reception of a proton</a> (<a href="/wiki/Hydron_(chemistry)" title="Hydron (chemistry)">H<sup>+</sup></a>) by a <a href="/wiki/Base_(chemistry)" title="Base (chemistry)">base</a>—in other words, it is a base with a <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> ion added to it. On the other hand, a <b>conjugate base</b> is what is left over after an acid has donated a proton during a chemical reaction. Hence, a conjugate base is a species formed by the <a href="/wiki/Deprotonation" title="Deprotonation">removal of a proton</a> from an acid.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Because <a class="mw-redirect" href="/wiki/Polyprotic_acid" title="Polyprotic acid">some acids</a> are capable of releasing multiple protons, the conjugate base of an acid may itself be acidic.
+</p><p>In summary, this can be represented as the following chemical reaction:
+</p>
+<dl><dd>Acid + Base ⇌ Conjugate Base + Conjugate Acid</dd></dl>
+<style data-mw-deduplicate="TemplateStyles:r856303569">@media all and (max-width:720px){.mw-parser-output .tmulti>.thumbinner{width:100%!important;max-width:none!important}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:none!important;width:100%!important;text-align:center}}</style><div class="thumb tmulti tright"><div class="thumbinner" style="width:208px;max-width:208px"><div class="tsingle" style="float:left;margin:1px;width:102px;max-width:102px"><div class="thumbimage"><a class="image" href="/wiki/File:Johannes_Br%C3%B8nsted.jpg"><img alt="" data-file-height="450" data-file-width="343" height="131" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Johannes_Br%C3%B8nsted.jpg/100px-Johannes_Br%C3%B8nsted.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Johannes_Br%C3%B8nsted.jpg/150px-Johannes_Br%C3%B8nsted.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Johannes_Br%C3%B8nsted.jpg/200px-Johannes_Br%C3%B8nsted.jpg 2x" width="100"/></a></div></div><div class="tsingle" style="float:left;margin:1px;width:102px;max-width:102px"><div class="thumbimage"><a class="image" href="/wiki/File:Thomas_Martin_Lowry2.jpg"><img alt="" data-file-height="1593" data-file-width="1248" height="128" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Thomas_Martin_Lowry2.jpg/100px-Thomas_Martin_Lowry2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Thomas_Martin_Lowry2.jpg/150px-Thomas_Martin_Lowry2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Thomas_Martin_Lowry2.jpg/200px-Thomas_Martin_Lowry2.jpg 2x" width="100"/></a></div></div><div style="clear:left"></div><div class="thumbcaption" style="clear:left;text-align:left;background-color:transparent"><a href="/wiki/Johannes_Nicolaus_Br%C3%B8nsted" title="Johannes Nicolaus Brønsted">Johannes Nicolaus Brønsted</a> (left) and <a href="/wiki/Martin_Lowry" title="Martin Lowry">Martin Lowry</a> (right).</div></div></div>
+<p><a href="/wiki/Johannes_Nicolaus_Br%C3%B8nsted" title="Johannes Nicolaus Brønsted">Johannes Nicolaus Brønsted</a> and <a href="/wiki/Martin_Lowry" title="Martin Lowry">Martin Lowry</a> introduced the Brønsted–Lowry theory,
+which proposed that any compound that can transfer a proton to any other compound is an acid, and the compound that accepts the proton is a base. A proton is a nuclear particle with a unit positive electrical charge; it is represented by the symbol H<sup>+</sup> because it constitutes the <a href="/wiki/Atomic_nucleus" title="Atomic nucleus">nucleus</a> of a hydrogen <a href="/wiki/Atom" title="Atom">atom</a>,<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> that is, a <a href="/wiki/Hydron_(chemistry)" title="Hydron (chemistry)">hydrogen cation</a>.
+</p><p>A <a class="mw-redirect" href="/wiki/Cation" title="Cation">cation</a> can be a conjugate acid, and an <a class="mw-redirect" href="/wiki/Anion" title="Anion">anion</a> can be a conjugate base, depending on which <a href="/wiki/Chemical_substance" title="Chemical substance">substance</a> is involved and which <a href="/wiki/Acid%E2%80%93base_reaction" title="Acid–base reaction">acid–base theory</a> is the viewpoint. The simplest anion which can be a conjugate base is the <a href="/wiki/Solvated_electron" title="Solvated electron">solvated electron</a> whose conjugate acid is the atomic hydrogen.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Acid-base_reactions"><span class="tocnumber">1</span> <span class="toctext">Acid-base reactions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Strength_of_conjugates"><span class="tocnumber">2</span> <span class="toctext">Strength of conjugates</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Identifying_conjugate_acid-base_pairs"><span class="tocnumber">3</span> <span class="toctext">Identifying conjugate acid-base pairs</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Applications"><span class="tocnumber">4</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Table_of_acids_and_their_conjugate_bases"><span class="tocnumber">5</span> <span class="toctext">Table of acids and their conjugate bases</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Table_of_bases_and_their_conjugate_acids"><span class="tocnumber">6</span> <span class="toctext">Table of bases and their conjugate acids</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Acid-base_reactions">Acid-base reactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Conjugate_acid&amp;action=edit&amp;section=1" title="Edit section: Acid-base reactions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In an <a class="mw-redirect" href="/wiki/Acid-base_reaction" title="Acid-base reaction">acid-base reaction</a>, an acid plus a base reacts to form a conjugate base plus a conjugate acid:
+</p><p>Conjugates are formed when an acid loses a hydrogen proton or a base gains a hydrogen proton. Refer to the following figure:
+</p><p><a class="image" href="/wiki/File:Conjugate_base_reaction.jpg"><img alt="Conjugate base reaction.jpg" data-file-height="304" data-file-width="513" height="304" src="//upload.wikimedia.org/wikipedia/commons/1/18/Conjugate_base_reaction.jpg" width="513"/></a>
+</p><p>We say that the water molecule is the conjugate acid of the hydroxide ion after the latter received the hydrogen proton donated by <a href="/wiki/Ammonium" title="Ammonium">ammonium</a>. On the other hand, <a href="/wiki/Ammonia" title="Ammonia">ammonia</a> is the conjugate base for the acid ammonium after ammonium has donated a hydrogen ion towards the production of the water molecule.  We can also refer to OH- as a conjugate base of <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span>, since the water molecule donates a proton towards the production of <span class="chemf nowrap">NH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> in the reverse reaction, which is the predominating process in nature due to the strength of the base <span class="chemf nowrap">NH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span> over the hydroxide ion. Based on this information, it is clear that the terms "Acid", "Base", "conjugate acid", and "conjugate base" are not fixed for a certain chemical species; but are interchangeable according to the reaction taking place.
+</p>
+<h2><span class="mw-headline" id="Strength_of_conjugates">Strength of conjugates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Conjugate_acid&amp;action=edit&amp;section=2" title="Edit section: Strength of conjugates">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The strength of a conjugate acid is directly proportional to its <a href="/wiki/Dissociation_constant" title="Dissociation constant">dissociation constant</a>. If a conjugate acid is strong, its dissociation will have a higher <a href="/wiki/Equilibrium_constant" title="Equilibrium constant">equilibrium constant</a> and the products of the reaction will be favored. The strength of a conjugate base can be seen as the tendency of the species to "pull" hydrogen protons towards itself. If a conjugate base is classified as strong, it will "hold on" to the hydrogen proton when in solution and its acid will not dissociate. 
+</p><p>On the other hand, if a species is classified as a strong acid, its conjugate base will be weak in nature. An example of this case would be the dissociation of <a href="/wiki/Hydrochloric_acid" title="Hydrochloric acid">Hydrochloric acid</a> <span class="chemf nowrap">HCl</span> in water. Since HCl is a strong acid (it dissociates to a great extent), its conjugate base (<span class="chemf nowrap">Cl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>) will be a weak conjugate base. Therefore, in this system, most <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> will be in the form of a <a href="/wiki/Hydronium" title="Hydronium">Hydronium</a> ion <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> instead of attached to a Cl anion and the conjugate base will be weaker than a water molecule.
+</p><p>Similarly, if an acid is weak, its conjugate base will be strong. When considering the fact that the Kw is equal to the product of the concentrations of H+ and OH. A weak acid will have a low concentration of H+. The Kw (1.0 * 10^-14) divided by a low H+ concentration will result in a low OH- concentration as well. Therefore, weak acids will have weak conjugate bases, unlike the misconception that they have strong conjugate bases.
+</p>
+<h2><span class="mw-headline" id="Identifying_conjugate_acid-base_pairs">Identifying conjugate acid-base pairs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Conjugate_acid&amp;action=edit&amp;section=3" title="Edit section: Identifying conjugate acid-base pairs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The acid and conjugate base as well as the base and conjugate acid are known as conjugate pairs. When finding a conjugate acid or base, it is important to look at the <a href="/wiki/Reagent" title="Reagent">reactants</a> of the <a href="/wiki/Chemical_equation" title="Chemical equation">chemical equation</a>. In this case, the reactants are the acids and bases, and the acid corresponds to the conjugate base on the product side of the chemical equation; as does the base to the conjugate acid on the product side of the equation.
+</p><p>To identify the conjugate acid, look for the pair of compounds that are related. The <a href="/wiki/Acid%E2%80%93base_reaction" title="Acid–base reaction">acid–base reaction</a> can be viewed in a before and after sense. The before is the reactant side of the equation, the after is the product side of the equation. The conjugate acid in the after side of an equation gains a hydrogen ion, so in the before side of the equation the compound that has one less hydrogen ion of the conjugate acid is the base. The conjugate base in the after side of the equation lost a hydrogen ion, so in the before side of the equation, the compound that has one more hydrogen ion of the conjugate base is the acid.
+</p><p>Consider the following acid–base reaction:
+</p>
+<dl><dd><span class="chemf nowrap">HNO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span> + <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span> → <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> + <span class="chemf nowrap">NO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span></dd></dl>
+<p><a href="/wiki/Nitric_acid" title="Nitric acid">Nitric acid</a> (<span class="chemf nowrap">HNO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>) is an <i>acid</i> because it donates a proton to the water molecule and its <i>conjugate base</i> is <a href="/wiki/Nitrate" title="Nitrate">nitrate</a> (<span class="chemf nowrap">NO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span>). The water molecule acts as a base because it receives the Hydrogen Proton and its conjugate acid is the <a href="/wiki/Hydronium" title="Hydronium">hydronium</a> ion (<span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span>).
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Equation</th>
+<th>Acid</th>
+<th>Base</th>
+<th>Conjugate base</th>
+<th>Conjugate acid
+</th></tr>
+<tr>
+<td><span class="chemf nowrap">HClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> + <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span> → <span class="chemf nowrap">ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> + <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span></td>
+<td><a href="/wiki/Chlorous_acid" title="Chlorous acid"><span class="chemf nowrap">HClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></td>
+<td><a href="/wiki/Properties_of_water" title="Properties of water"><span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span></a></td>
+<td><a href="/wiki/Chlorite" title="Chlorite"><span class="chemf nowrap">ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span></a></td>
+<td><a href="/wiki/Hydronium" title="Hydronium"><span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span></a>
+</td></tr>
+<tr>
+<td><span class="chemf nowrap">ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> + <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span> → <span class="chemf nowrap">HClO</span> + <span class="chemf nowrap">OH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span></td>
+<td><span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span></td>
+<td><a href="/wiki/Hypochlorite" title="Hypochlorite"><span class="chemf nowrap">ClO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span></a></td>
+<td><a href="/wiki/Hydroxide" title="Hydroxide"><span class="chemf nowrap">OH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span></a></td>
+<td><a href="/wiki/Hypochlorous_acid" title="Hypochlorous acid"><span class="chemf nowrap">HClO</span></a>
+</td></tr>
+<tr>
+<td><span class="chemf nowrap">HCl</span> + <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>PO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> → <span class="chemf nowrap">Cl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> + <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>PO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span></td>
+<td><a href="/wiki/Hydrochloric_acid" title="Hydrochloric acid"><span class="chemf nowrap">HCl</span></a></td>
+<td><a href="/wiki/Phosphate#Chemical_properties" title="Phosphate"><span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>PO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span></a></td>
+<td><a href="/wiki/Chloride" title="Chloride"><span class="chemf nowrap">Cl<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span></a></td>
+<td><a href="/wiki/Phosphoric_acid" title="Phosphoric acid"><span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>PO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span></a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Conjugate_acid&amp;action=edit&amp;section=4" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One use of conjugate acids and bases lies in buffering systems, which include a <a href="/wiki/Buffer_solution" title="Buffer solution">buffer solution</a>. In a buffer, a weak acid and its conjugate base (in the form of a salt), or a weak base and its conjugate acid, are used in order to limit the pH change during a titration process. Buffers have both organic and non-organic chemical applications. For example, besides buffers being used in lab processes, our blood acts as a buffer to maintain pH. The most important buffer in our bloodstream is the <a class="mw-redirect" href="/wiki/Bicarbonate_buffering_system" title="Bicarbonate buffering system">carbonic acid-bicarbonate buffer</a>, which prevents drastic pH changes when <span class="chemf nowrap">CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> is introduced. This functions as such:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\ce {CO2 + H2O &lt;=&gt; H2CO3 &lt;=&gt; HCO3^- + H+}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>CO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>O</mtext>
+<mrow class="MJX-TeXAtom-REL">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<mrow class="MJX-TeXAtom-ORD">
+<mpadded depth="0" height="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">↽<!-- ↽ --></mo>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</mpadded>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">⇀<!-- ⇀ --></mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+</mover>
+</mrow>
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<msubsup>
+<mtext>CO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mrow class="MJX-TeXAtom-REL">
+<mover>
+<mrow class="MJX-TeXAtom-OP MJX-fixedlimits">
+<mrow class="MJX-TeXAtom-ORD">
+<mpadded depth="0" height="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">↽<!-- ↽ --></mo>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</mpadded>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mspace width="negativethinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">⇀<!-- ⇀ --></mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+</mover>
+</mrow>
+<msubsup>
+<mtext>HCO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\ce {CO2 + H2O &lt;=&gt; H2CO3 &lt;=&gt; HCO3^- + H+}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\ce {CO2 + H2O &lt;=&gt; H2CO3 &lt;=&gt; HCO3^- + H+}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/88d92f662a9a6ea997c419d6eca36b6f3665dab3" style="vertical-align: -1.005ex; width:41.455ex; height:3.343ex;"/></span></dd></dl>
+<p>Furthermore, here is a table of common buffers.
+</p>
+<dl><dd><table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th>Buffering agent</th>
+<th>pK<sub>a</sub></th>
+<th>Useful pH range
+</th></tr>
+<tr>
+<td><a href="/wiki/Citric_acid" title="Citric acid">Citric acid</a></td>
+<td>3.13, 4.76, 6.40</td>
+<td>2.1 - 7.4
+</td></tr>
+<tr>
+<td><a href="/wiki/Acetic_acid" title="Acetic acid">Acetic acid</a></td>
+<td>4.8</td>
+<td>3.8 - 5.8
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Potassium_dihydrogenphosphate" title="Potassium dihydrogenphosphate">KH<sub>2</sub>PO<sub>4</sub></a>,</td>
+<td>7.2</td>
+<td>6.2 - 8.2
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/N-Cyclohexyl-2-aminoethanesulfonic_acid" title="N-Cyclohexyl-2-aminoethanesulfonic acid">CHES</a></td>
+<td>9.3</td>
+<td>8.3–10.3
+</td></tr>
+<tr>
+<td><a href="/wiki/Borate" title="Borate">Borate</a></td>
+<td>9.24</td>
+<td>8.25 - 10.25
+</td></tr></tbody></table></dd></dl>
+<p>A second common application with an organic compound would be the production of a buffer with acetic acid. If acetic acid, a weak acid with the formula <span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>COOH</span>, was made into a buffer solution, it would need to be combined with its conjugate base <span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>COO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> in the form of a salt. The resulting mixture is called an acetate buffer, consisting of aqueous <span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>COOH</span> and aqueous <span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>COONa</span>. Acetic acid, along with many other weak acids, serve as useful components of buffers in different lab settings, each useful within their own pH range.
+</p><p>An example with an inorganic compound would be the medicinal use of lactic acid’s conjugate base known as lactate in <a class="mw-redirect" href="/wiki/Lactated_Ringer%27s_solution" title="Lactated Ringer's solution">Lactated Ringer's solution</a> and <a class="mw-redirect" href="/wiki/Hartmann%27s_solution" title="Hartmann's solution">Hartmann's solution</a>. Lactic acid has the formula <span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span></span> and its conjugate base is used in intravenous fluids that consist of sodium and potassium cations along with lactate and chloride anions in solution with distilled water. These fluids are commonly isotonic in relation to human blood and are commonly used for spiking up the fluid level in a system after severe blood loss due to trauma, surgery, or burn injury.
+</p>
+<h2><span class="mw-headline" id="Table_of_acids_and_their_conjugate_bases">Table of acids and their conjugate bases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Conjugate_acid&amp;action=edit&amp;section=5" title="Edit section: Table of acids and their conjugate bases">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tabulated below are several examples of acids and their conjugate bases; notice how they differ by just one proton (H<sup>+</sup> ion). Acid strength decreases and conjugate base strength increases down the table.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Acid
+</th>
+<th>Conjugate base
+</th></tr>
+<tr>
+<td><span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>F<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> <a href="/wiki/Fluoronium" title="Fluoronium">Fluoronium</a> ion
+</td>
+<td>HF <a href="/wiki/Hydrogen_fluoride" title="Hydrogen fluoride">Hydrogen fluoride</a>
+</td></tr>
+<tr>
+<td>HCl <a href="/wiki/Hydrochloric_acid" title="Hydrochloric acid">Hydrochloric acid</a>
+</td>
+<td>Cl<sup>−</sup> <a href="/wiki/Chloride" title="Chloride">Chloride</a> ion
+</td></tr>
+<tr>
+<td>H<sub>2</sub>SO<sub>4</sub> <a href="/wiki/Sulfuric_acid" title="Sulfuric acid">Sulfuric acid</a>
+</td>
+<td>HSO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span> <a class="mw-redirect" href="/wiki/Hydrogen_sulfate" title="Hydrogen sulfate">Hydrogen sulfate</a> ion
+</td></tr>
+<tr>
+<td>HNO<sub>3</sub> <a href="/wiki/Nitric_acid" title="Nitric acid">Nitric acid</a>
+</td>
+<td>NO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span> <a href="/wiki/Nitrate" title="Nitrate">Nitrate</a> ion
+</td></tr>
+<tr>
+<td>H<sub>3</sub>O<sup>+</sup> <a href="/wiki/Hydronium" title="Hydronium">Hydronium</a> ion
+</td>
+<td>H<sub>2</sub>O <a class="mw-redirect" href="/wiki/Water_(molecule)" title="Water (molecule)">Water</a>
+</td></tr>
+<tr>
+<td>HSO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span> <a class="mw-redirect" href="/wiki/Hydrogen_sulfate" title="Hydrogen sulfate">Hydrogen sulfate</a> ion
+</td>
+<td>SO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span> <a href="/wiki/Sulfate" title="Sulfate">Sulfate</a> ion
+</td></tr>
+<tr>
+<td>H<sub>3</sub>PO<sub>4</sub> <a href="/wiki/Phosphoric_acid" title="Phosphoric acid">Phosphoric acid</a>
+</td>
+<td>H<sub>2</sub>PO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span> <a class="mw-redirect" href="/wiki/Dihydrogen_phosphate" title="Dihydrogen phosphate">Dihydrogen phosphate</a> ion
+</td></tr>
+<tr>
+<td>CH<sub>3</sub>COOH <a href="/wiki/Acetic_acid" title="Acetic acid">Acetic acid</a>
+</td>
+<td>CH<sub>3</sub>COO<sup>−</sup> <a href="/wiki/Acetate" title="Acetate">Acetate</a> ion
+</td></tr>
+<tr>
+<td>H<sub>2</sub>CO<sub>3</sub> <a href="/wiki/Carbonic_acid" title="Carbonic acid">Carbonic acid</a>
+</td>
+<td>HCO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span> <a class="mw-redirect" href="/wiki/Hydrogen_carbonate" title="Hydrogen carbonate">Hydrogen carbonate</a> ion
+</td></tr>
+<tr>
+<td>H<sub>2</sub>S <a class="mw-redirect" href="/wiki/Hydrosulfuric_acid" title="Hydrosulfuric acid">Hydrosulfuric acid</a>
+</td>
+<td>HS<sup>−</sup> <a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">Hydrogen sulfide</a> ion
+</td></tr>
+<tr>
+<td>H<sub>2</sub>PO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span> <a class="mw-redirect" href="/wiki/Dihydrogen_phosphate" title="Dihydrogen phosphate">Dihydrogen phosphate</a> ion
+</td>
+<td>HPO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span> <a class="mw-redirect" href="/wiki/Hydrogen_phosphate" title="Hydrogen phosphate">Hydrogen phosphate</a> ion
+</td></tr>
+<tr>
+<td>NH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span> <a href="/wiki/Ammonium" title="Ammonium">Ammonium</a> ion
+</td>
+<td>NH<sub>3</sub> <a href="/wiki/Ammonia" title="Ammonia">Ammonia</a>
+</td></tr>
+<tr>
+<td>HCO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span> <a class="mw-redirect" href="/wiki/Hydrogencarbonate" title="Hydrogencarbonate">Hydrogencarbonate</a> <i>(bicarbonate)</i> ion
+</td>
+<td>CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span> <a href="/wiki/Carbonate" title="Carbonate">Carbonate</a> ion
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Table_of_bases_and_their_conjugate_acids">Table of bases and their conjugate acids</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Conjugate_acid&amp;action=edit&amp;section=6" title="Edit section: Table of bases and their conjugate acids">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In contrast, here is a table of bases and their conjugate acids. Similarly, base strength decreases and conjugate acid strength increases down the table.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Base
+</th>
+<th>Conjugate acid
+</th></tr>
+<tr>
+<td><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span>NH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> <a href="/wiki/Ethylamine" title="Ethylamine">Ethylamine</a>
+</td>
+<td><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span>NH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span> Ethylammonium ion
+</td></tr>
+<tr>
+<td><span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>NH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> <a href="/wiki/Methylamine" title="Methylamine">Methylamine</a>
+</td>
+<td><span class="chemf nowrap">CH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>NH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span> <a href="/wiki/Methylammonium_halide" title="Methylammonium halide">Methylammonium</a> ion
+</td></tr>
+<tr>
+<td><span class="chemf nowrap">NH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span> <a href="/wiki/Ammonia" title="Ammonia">Ammonia</a>
+</td>
+<td><span class="chemf nowrap">NH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span> <a href="/wiki/Ammonium" title="Ammonium">Ammonium</a> ion
+</td></tr>
+<tr>
+<td><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span>N</span> <a href="/wiki/Pyridine" title="Pyridine">Pyridine</a>
+</td>
+<td><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span>N<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> <a href="/wiki/Pyridinium" title="Pyridinium">Pyridinium</a>
+</td></tr>
+<tr>
+<td><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span>NH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> <a href="/wiki/Aniline" title="Aniline">Aniline</a>
+</td>
+<td><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span>NH<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">+</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span></span> Phenylammonium ion
+</td></tr>
+<tr>
+<td><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span>CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> Benzoate ion
+</td>
+<td><span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">6</sub></span>CO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span></span> <a href="/wiki/Benzoic_acid" title="Benzoic acid">Benzoic acid</a>
+</td></tr>
+<tr>
+<td><span class="chemf nowrap">F<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:0.8em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sub></span></span> <a href="/wiki/Fluoride" title="Fluoride">Fluoride</a> ion
+</td>
+<td><span class="chemf nowrap">HF</span> <a href="/wiki/Hydrogen_fluoride" title="Hydrogen fluoride">Hydrogen fluoride</a>
+</td></tr>
+<tr>
+<td>PO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">3−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span> <a href="/wiki/Phosphate" title="Phosphate">Phosphate</a> ion
+</td>
+<td>HPO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span> <a class="mw-redirect" href="/wiki/Hydrogen_phosphate" title="Hydrogen phosphate">Hydrogen phosphate</a> ion
+</td></tr>
+<tr>
+<td>OH<sup>−</sup> <a href="/wiki/Hydroxide" title="Hydroxide">Hydroxide</a> ion
+</td>
+<td>H<sub>2</sub>O <a href="/wiki/Water" title="Water">Water</a> (neutral, <a href="/wiki/PH" title="PH">pH</a> 7)
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Conjugate_acid&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Buffer_solution" title="Buffer solution">Buffer solution</a></li>
+<li><a href="/wiki/Deprotonation" title="Deprotonation">Deprotonation</a></li>
+<li><a href="/wiki/Protonation" title="Protonation">Protonation</a></li>
+<li><a href="/wiki/Salt_(chemistry)" title="Salt (chemistry)">Salt (chemistry)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Conjugate_acid&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Zumdahl, Stephen S., &amp; Zumdahl, Susan A. <i>Chemistry</i>. Houghton Mifflin, 2007, <style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0618713700" title="Special:BookSources/0618713700">0618713700</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">"Bronsted-Lowry theory". Encyclopædia Britannica. Encyclopædia Britannica Online. Encyclopædia Britannica Inc., 2015. Web. 21 Apr. 2015
+&lt;<a class="external free" href="http://www.britannica.com/EBchecked/topic/80953/Bronsted-Lowry-theory" rel="nofollow">http://www.britannica.com/EBchecked/topic/80953/Bronsted-Lowry-theory</a>&gt;.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Conjugate_acid&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://schoolbag.info/chemistry/mcat_2/78.html" rel="nofollow">MCAT General Chemistry Review - 10.4 Titration and Buffers</a></li>
+<li><a class="external text" href="https://pharmlabs.unc.edu/labs/ophthalmics/buffers.htm" rel="nofollow">The Pharmaceutics and Compounding Laboratory - Buffers and Buffer Capacity.</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw2239
+Cached time: 20181003200821
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.404 seconds
+Real time usage: 0.542 seconds
+Preprocessor visited node count: 11818/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 330283/2097152 bytes
+Template argument size: 28029/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3021/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.090/10.000 seconds
+Lua memory usage: 1.8 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  343.947      1 -total
+ 62.19%  213.915     59 Template:Chem
+ 59.73%  205.452     59 Template:Chem/link
+ 49.87%  171.527    205 Template:Chem/atom
+ 31.16%  107.162     96 Template:Su
+ 18.09%   62.230      1 Template:Reflist
+ 15.40%   52.977      1 Template:ISBN
+  9.61%   33.061      1 Template:Catalog_lookup_link
+  8.13%   27.977      1 Template:Acids_and_bases
+  5.15%   17.722      1 Template:Multiple_image
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:40187-0!canonical!math=5 and timestamp 20181003200821 and revision id 852614196
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Conjugate_acid&amp;oldid=852614196">https://en.wikipedia.org/w/index.php?title=Conjugate_acid&amp;oldid=852614196</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Acid%E2%80%93base_chemistry" title="Category:Acid–base chemistry">Acid–base chemistry</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Conjugate+acid" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Conjugate+acid" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Conjugate_acid" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Conjugate_acid" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Conjugate_acid">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Conjugate_acid&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Conjugate_acid&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Conjugate_acid" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Conjugate_acid" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Conjugate_acid&amp;oldid=852614196" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Conjugate_acid&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2014867" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Conjugate_acid&amp;id=852614196" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Conjugate+acid">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Conjugate+acid&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Conjugate_acid&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%B6_%D9%85%D8%B1%D8%A7%D9%81%D9%82" hreflang="ar" lang="ar" title="حمض مرافق – Arabic">العربية</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Korresponderende_syre-basepar" hreflang="da" lang="da" title="Korresponderende syre-basepar – Danish">Dansk</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Acide_conjugu%C3%A9" hreflang="fr" lang="fr" title="Acide conjugué – French">Français</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Asam_konjugat_dan_basa_konjugat" hreflang="id" lang="id" title="Asam konjugat dan basa konjugat – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Acido_coniugato" hreflang="it" lang="it" title="Acido coniugato – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%9E%D7%A6%D7%94_%D7%9E%D7%A6%D7%95%D7%9E%D7%93%D7%AA" hreflang="he" lang="he" title="חומצה מצומדת – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Geconjugeerd_zuur" hreflang="nl" lang="nl" title="Geconjugeerd zuur – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/%C3%81cido_conjugado" hreflang="pt" lang="pt" title="Ácido conjugado – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ckb"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%DA%BE%D8%A7%D9%88%DB%95%DA%B5%D8%AA%D8%B1%D8%B4" hreflang="ckb" lang="ckb" title="ھاوەڵترش – Central Kurdish">کوردی</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Konjugaattihappo" hreflang="fi" lang="fi" title="Konjugaattihappo – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Syra-baspar" hreflang="sv" lang="sv" title="Syra-baspar – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%81%E0%B8%A3%E0%B8%94-%E0%B9%80%E0%B8%9A%E0%B8%AA" hreflang="th" lang="th" title="คู่กรด-เบส – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Konjuge_asit_ve_konjuge_baz" hreflang="tr" lang="tr" title="Konjuge asit ve konjuge baz – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Axit_li%C3%AAn_h%E1%BB%A3p" hreflang="vi" lang="vi" title="Axit liên hợp – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%85%B1%E8%BB%9B%E9%85%B8%E9%B9%BC%E5%B0%8D" hreflang="zh" lang="zh" title="共軛酸鹼對 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2014867#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 30 July 2018, at 05:48<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Conjugate_acid&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.404","walltime":"0.542","ppvisitednodes":{"value":11818,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":330283,"limit":2097152},"templateargumentsize":{"value":28029,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3021,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  343.947      1 -total"," 62.19%  213.915     59 Template:Chem"," 59.73%  205.452     59 Template:Chem/link"," 49.87%  171.527    205 Template:Chem/atom"," 31.16%  107.162     96 Template:Su"," 18.09%   62.230      1 Template:Reflist"," 15.40%   52.977      1 Template:ISBN","  9.61%   33.061      1 Template:Catalog_lookup_link","  8.13%   27.977      1 Template:Acids_and_bases","  5.15%   17.722      1 Template:Multiple_image"]},"scribunto":{"limitreport-timeusage":{"value":"0.090","limit":"10.000"},"limitreport-memusage":{"value":1885288,"limit":52428800}},"cachereport":{"origin":"mw2239","timestamp":"20181003200821","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw2176"});});</script>
+</body>
+</html>

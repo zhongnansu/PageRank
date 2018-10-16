@@ -1,0 +1,1420 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Heat of combustion - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Heat_of_combustion","wgTitle":"Heat of combustion","wgCurRevisionId":860517446,"wgRevisionId":860517446,"wgArticleId":1112273,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from June 2015","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from June 2015","Articles with unsourced statements from May 2011","Wikipedia articles with GND identifiers","Wikipedia articles with NDL identifiers","Engineering thermodynamics","Combustion","Fuels","Thermodynamic properties","Nuclear physics","Thermochemistry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Heat_of_combustion","wgRelevantArticleId":1112273,"wgRequestId":"W73iUwrAIFUAAFnuPQEAAAAD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q902126","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Heat_of_combustion" rel="alternate"/>
+<link href="/w/index.php?title=Heat_of_combustion&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Heat_of_combustion&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Heat_of_combustion" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Heat_of_combustion rootpage-Heat_of_combustion skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Heat of combustion</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Heat_of_combustion&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(June 2015)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>The <b>heating value</b> (or <b>energy value</b> or <b>calorific value</b>) of a <a href="/wiki/Chemical_substance" title="Chemical substance">substance</a>, usually a <a href="/wiki/Fuel" title="Fuel">fuel</a> or <a href="/wiki/Food" title="Food">food</a> (see <a href="/wiki/Food_energy" title="Food energy">food energy</a>), is the amount of <a href="/wiki/Heat" title="Heat">heat</a> released during the combustion of a specified amount of it.
+</p><p>The <i>calorific value</i> is the total <a href="/wiki/Energy" title="Energy">energy</a> released as <a href="/wiki/Heat" title="Heat">heat</a> when a substance undergoes complete <a href="/wiki/Combustion" title="Combustion">combustion</a> with <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> under <a class="mw-redirect" href="/wiki/Standard_conditions" title="Standard conditions">standard conditions</a>. The chemical reaction is typically a <a href="/wiki/Hydrocarbon" title="Hydrocarbon">hydrocarbon</a> or other organic molecule reacting with oxygen to form <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> and <a href="/wiki/Water" title="Water">water</a> and release heat. It may be expressed with the quantities:
+</p>
+<ul><li>energy/<a href="/wiki/Mole_(unit)" title="Mole (unit)">mole</a> of fuel</li>
+<li>energy/mass of fuel</li>
+<li>energy/volume of the fuel</li></ul>
+<p>There are two kinds of heat of combustion, called higher and lower heating value, depending on how much the products are allowed to cool and whether compounds like <span class="chemf nowrap">H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">2</sub></span>O</span> are allowed to condense.
+The values are conventionally measured with a <a href="/wiki/Calorimeter#Bomb_calorimeters" title="Calorimeter">bomb calorimeter</a>. They may also be calculated as the difference between the <a class="mw-redirect" href="/wiki/Standard_enthalpy_change_of_formation" title="Standard enthalpy change of formation">heat of formation</a> Δ<i>H</i><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"><s>o</s></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">f</sub></span> of the products and reactants (though this approach is somewhat artificial since most heats of formation are calculated from measured heats of combustion). For a fuel of composition C<sub><i>c</i></sub>H<sub><i>h</i></sub>O<sub><i>o</i></sub>N<sub><i>n</i></sub>, the (higher) heat of combustion is <span class="nowrap">418 kJ/mol (<i>c</i> + 0.3 <i>h</i> – 0.5 <i>o</i>)</span> usually to a good approximation (±3%),<sup class="reference" id="cite_ref-Schmidt-Rohr_15_1-0"><a href="#cite_note-Schmidt-Rohr_15-1">[1]</a></sup> though it can be drastically wrong if <i>o</i> + <i>n</i> &gt; <i>c</i> (for instance in the case of <a class="mw-redirect" href="/wiki/Nitroglycerine" title="Nitroglycerine">nitroglycerine</a> (<span class="chemf nowrap">C<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>H<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">5</sub></span>N<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">3</sub></span>O<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline"></sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">9</sub></span></span>) this formula would predict a heat of combustion of 0<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>). The value corresponds to an <a class="mw-redirect" href="/wiki/Exothermic" title="Exothermic">exothermic</a> reaction (a negative change in <a href="/wiki/Enthalpy" title="Enthalpy">enthalpy</a>) because the double <a href="/wiki/Covalent_bond" title="Covalent bond">bond</a> in molecular oxygen is much weaker than other double bonds or pairs of single bonds, particularly those in the combustion products carbon dioxide and water; conversion of the weak bonds in <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> to the stronger bonds in <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> and <a href="/wiki/Water" title="Water">water</a> releases energy as heat.<sup class="reference" id="cite_ref-Schmidt-Rohr_15_1-1"><a href="#cite_note-Schmidt-Rohr_15-1">[1]</a></sup>
+</p><p>By convention, the heat of combustion is defined to be the heat released for the complete combustion of a compound in its standard state to form stable products in their standard states:  hydrogen is converted to water (in its liquid state), carbon is converted to carbon dioxide gas, and nitrogen is converted to nitrogen gas.  That is, the heat of combustion, Δ<i>H°</i><sub>comb</sub>, is the heat of reaction of the following process:  
+</p>
+<dl><dd>C<i><sub>x</sub></i>H<i><sub>y</sub></i>N<i><sub>z</sub></i>O<i><sub>n</sub></i> (std.) + O<sub>2</sub> (g, xs.) → <i>x</i>CO<sub>2</sub> (g) + (<i>y</i>/2)H<sub>2</sub>O (l) + (<i>z</i>/2)N<sub>2</sub> (g)</dd></dl>
+<p>Chlorine and sulfur are not quite standardized; they are usually assumed to convert to hydrogen chloride gas and SO<sub>2</sub> or SO<sub>3</sub> gas, respectively, or to dilute aqueous hydrochloric and sulfuric acids, respectively, when the combustion is conducted in a bomb containing some water quantity of water.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Higher_heating_value"><span class="tocnumber">1</span> <span class="toctext">Higher heating value</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Lower_heating_value"><span class="tocnumber">2</span> <span class="toctext">Lower heating value</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Gross_heating_value"><span class="tocnumber">3</span> <span class="toctext">Gross heating value</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Measuring_heating_values"><span class="tocnumber">4</span> <span class="toctext">Measuring heating values</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Relation_between_heating_values"><span class="tocnumber">5</span> <span class="toctext">Relation between heating values</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Usage_of_terms"><span class="tocnumber">6</span> <span class="toctext">Usage of terms</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Accounting_for_moisture"><span class="tocnumber">7</span> <span class="toctext">Accounting for moisture</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Heat_of_combustion_tables"><span class="tocnumber">8</span> <span class="toctext">Heat of combustion tables</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Higher_heating_values_of_natural_gases_from_various_sources"><span class="tocnumber">9</span> <span class="toctext">Higher heating values of natural gases from various sources</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Higher_heating_value">Higher heating value</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_of_combustion&amp;action=edit&amp;section=1" title="Edit section: Higher heating value">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The quantity known as higher heating value  (<b>HHV</b>) (or <i>gross energy</i> or <i>upper heating value</i> or <i>gross calorific value</i> (<b>GCV</b>) or <i>higher calorific value</i>  (<b>HCV</b>)) is determined by bringing all the products of combustion back to the original pre-combustion temperature, and in particular condensing any vapor produced. Such measurements often use a standard temperature of 15 °C (59 °F; 288 K)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2015)">citation needed</span></a></i>]</sup>. This is the same as the thermodynamic heat of combustion since the <a href="/wiki/Enthalpy" title="Enthalpy">enthalpy</a> change for the reaction assumes a common temperature of the compounds before and after combustion, in which case the water produced by combustion is condensed to a liquid. The higher heating value takes into account the <a class="mw-redirect" href="/wiki/Latent_heat_of_vaporization" title="Latent heat of vaporization">latent heat of vaporization</a> of <a href="/wiki/Water" title="Water">water</a> in the combustion products, and is useful in calculating heating values for fuels where <a href="/wiki/Condensation" title="Condensation">condensation</a> of the reaction products is practical (e.g., in a gas-fired <a href="/wiki/Boiler" title="Boiler">boiler</a> used for space heat). In other words, HHV assumes all the water component is in liquid state at the end of combustion (in product of combustion) and that heat delivered at temperatures below 150 °C (302 °F) can be put to use
+</p>
+<h2><span class="mw-headline" id="Lower_heating_value">Lower heating value</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_of_combustion&amp;action=edit&amp;section=2" title="Edit section: Lower heating value">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The quantity known as lower heating value (<b>LHV</b>) (<i>net calorific value</i> (<b>NCV</b>) or <i>lower calorific value</i> (<b>LCV</b>)) is determined by subtracting the <a class="mw-redirect" href="/wiki/Heat_of_vaporization" title="Heat of vaporization">heat of vaporization</a> of the water from the higher heating value.  This treats any H<sub>2</sub>O formed as a vapor. The energy required to vaporize the water therefore is not released as heat.
+</p><p>LHV calculations assume that the water component of a combustion process is in vapor state at the end of combustion, as opposed to the <a class="mw-redirect" href="/wiki/Higher_heating_value" title="Higher heating value">higher heating value</a> (HHV) (a.k.a. <i>gross calorific value</i> or <i>gross CV</i>) which assumes that all of the water in a combustion process is in a liquid state after a combustion process.
+</p><p>The LHV assumes that the <a class="mw-redirect" href="/wiki/Latent_heat_of_vaporization" title="Latent heat of vaporization">latent heat of vaporization</a> of <a href="/wiki/Water" title="Water">water</a> in the fuel and the reaction products is not recovered. It is useful in comparing fuels where condensation of the combustion products is impractical, or heat at a temperature below 150 °C (302 °F) cannot be put to use.
+</p><p>The above is but one definition of lower heating value adopted by the <a href="/wiki/American_Petroleum_Institute" title="American Petroleum Institute">American Petroleum Institute</a> (API) and uses a reference temperature of 60 °F (16 °C; 289 K).
+</p><p>Another definition, used by Gas Processors Suppliers Association (GPSA) and originally used by API (data collected for API research project 44), is the <a href="/wiki/Enthalpy" title="Enthalpy">enthalpy</a> of all combustion products minus the enthalpy of the fuel at the reference temperature (API research project 44 used 25 °C. GPSA currently uses 60 °F), minus the enthalpy of the <a class="mw-redirect" href="/wiki/Stoichiometric" title="Stoichiometric">stoichiometric</a> <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> (O<sub>2</sub>) at the reference temperature, minus the heat of vaporization of the vapor content of the combustion products.
+</p><p>The distinction between the two is that this second definition assumes that the combustion products are all returned to the reference temperature and the heat content from the condensing vapor is considered not to be useful.
+This is more easily calculated from the higher heating value than when using the preceding definition and will in fact give a slightly different answer.
+</p>
+<h2><span class="mw-headline" id="Gross_heating_value">Gross heating value</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_of_combustion&amp;action=edit&amp;section=3" title="Edit section: Gross heating value">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Gross heating value</b> (see <b><a href="#AR">AR</a></b>) accounts for water in the exhaust leaving as vapor, and includes liquid water in the fuel prior to combustion. This value is important for fuels like <a href="/wiki/Wood" title="Wood">wood</a> or <a href="/wiki/Coal" title="Coal">coal</a>, which will usually contain some amount of water prior to burning.
+</p>
+<h2><span class="mw-headline" id="Measuring_heating_values">Measuring heating values</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_of_combustion&amp;action=edit&amp;section=4" title="Edit section: Measuring heating values">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The higher heating value is experimentally determined in a <a class="mw-redirect" href="/wiki/Bomb_calorimeter" title="Bomb calorimeter">bomb calorimeter</a>. The combustion of a <a class="mw-redirect" href="/wiki/Stoichiometric" title="Stoichiometric">stoichiometric</a> mixture of fuel and oxidizer (e.g. two moles of hydrogen and one mole of oxygen) in a steel container at 25 °C (77 °F) is initiated by an ignition device and the reactions allowed to complete. When hydrogen and oxygen react during combustion, water vapor is produced. The vessel and its contents are then cooled to the original 25 °C and the higher heating value is determined as the heat released between identical initial and final temperatures.
+</p><p>When the <a class="mw-redirect" href="/wiki/Lower_heating_value" title="Lower heating value">lower heating value</a> (LHV) is determined, cooling is stopped at 150 °C and the reaction heat is only partially recovered. The limit of 150 °C is based on <a href="/wiki/Acid_gas" title="Acid gas">acid gas</a> dew-point.
+</p><p>Note: Higher heating value (HHV) is calculated with the <b>product of water being in liquid form</b> while lower heating value (LHV) is calculated with the <b>product of water being in vapor form</b>.
+</p>
+<h2><span class="mw-headline" id="Relation_between_heating_values">Relation between heating values</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_of_combustion&amp;action=edit&amp;section=5" title="Edit section: Relation between heating values">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The difference between the two heating values depends on the chemical composition of the fuel. In the case of pure carbon or carbon monoxide, the two heating values are almost identical, the difference being the sensible heat content of carbon dioxide between 150 °C and 25 °C (<a href="/wiki/Sensible_heat" title="Sensible heat">sensible heat</a> exchange causes a change of temperature. In contrast, <a href="/wiki/Latent_heat" title="Latent heat">latent heat</a> is added or subtracted for <a href="/wiki/Phase_transition" title="Phase transition">phase transitions</a> at constant temperature. Examples: <a href="/wiki/Enthalpy_of_vaporization" title="Enthalpy of vaporization">heat of vaporization</a> or <a href="/wiki/Enthalpy_of_fusion" title="Enthalpy of fusion">heat of fusion</a>). For <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> the difference is much more significant as it includes the sensible heat of water vapor between 150 °C and 100 °C, the latent heat of condensation at 100 °C, and the sensible heat of the condensed water between 100 °C and 25 °C. All in all, the higher heating value of hydrogen is 18.2% above its lower heating value (142 MJ/kg vs. 120 MJ/kg). For <a class="mw-redirect" href="/wiki/Hydrocarbons" title="Hydrocarbons">hydrocarbons</a> the difference depends on the hydrogen content of the fuel. For <a href="/wiki/Gasoline" title="Gasoline">gasoline</a> and <a href="/wiki/Diesel_fuel" title="Diesel fuel">diesel</a> the higher heating value exceeds the lower heating value by about 10% and 7% respectively, and for natural gas about 11%.
+</p><p>A common method of relating HHV to LHV is:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mathrm {HHV} =\mathrm {LHV} +H_{\mathrm {v} }\left({\frac {n_{\mathrm {H_{2}O,out} }}{n_{\mathrm {fuel,in} }}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">H</mi>
+<mi mathvariant="normal">H</mi>
+<mi mathvariant="normal">V</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">L</mi>
+<mi mathvariant="normal">H</mi>
+<mi mathvariant="normal">V</mi>
+</mrow>
+<mo>+</mo>
+<msub>
+<mi>H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">v</mi>
+</mrow>
+</mrow>
+</msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi mathvariant="normal">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mi mathvariant="normal">O</mi>
+<mo>,</mo>
+<mi mathvariant="normal">o</mi>
+<mi mathvariant="normal">u</mi>
+<mi mathvariant="normal">t</mi>
+</mrow>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">f</mi>
+<mi mathvariant="normal">u</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">l</mi>
+<mo>,</mo>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">n</mi>
+</mrow>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {HHV} =\mathrm {LHV} +H_{\mathrm {v} }\left({\frac {n_{\mathrm {H_{2}O,out} }}{n_{\mathrm {fuel,in} }}}\right)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathrm {HHV} =\mathrm {LHV} +H_{\mathrm {v} }\left({\frac {n_{\mathrm {H_{2}O,out} }}{n_{\mathrm {fuel,in} }}}\right)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/604d45cc624da4c960a2dd332ecf5a790a944e30" style="vertical-align: -2.505ex; width:31.586ex; height:6.176ex;"/></span></dd></dl>
+<p>where <i>H</i><sub>v</sub> is the heat of vaporization of water, n<sub>H<sub>2</sub>O,out</sub> is the moles of water vaporized and n<sub>fuel,in</sub> is the number of moles of fuel combusted.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<ul><li>Most applications that burn fuel produce water vapor, which is unused and thus wastes its heat content. In such applications, the lower heating value must be used to give a 'benchmark' for the process.</li>
+<li>However, for true energy calculations in some specific cases, the higher heating value is correct. This is particularly relevant for <a href="/wiki/Natural_gas" title="Natural gas">natural gas</a>, whose high <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> content produces much water, when it is burned in <a href="/wiki/Condensing_boiler" title="Condensing boiler">condensing boilers</a> and <a class="mw-redirect" href="/wiki/Power_plants" title="Power plants">power plants</a> with <a href="/wiki/Flue-gas_condensation" title="Flue-gas condensation">flue-gas condensation</a> that condense the water vapor produced by combustion, recovering heat which would otherwise be wasted.</li></ul>
+<h2><span class="mw-headline" id="Usage_of_terms">Usage of terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_of_combustion&amp;action=edit&amp;section=6" title="Edit section: Usage of terms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many engine manufacturers rate their engine fuel consumption by the lower heating values. American consumers should be aware that the corresponding fuel-consumption figure based on the higher heating value will be somewhat higher.
+</p><p>The difference between HHV and LHV definitions causes endless confusion when quoters do not bother to state the convention being used.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> since there is typically a 10% difference between the two methods for a power plant burning natural gas. For simply benchmarking part of a reaction the LHV may be appropriate, but HHV should be used for overall energy efficiency calculations, if only to avoid confusion, and in any case the value or convention should be clearly stated.
+</p>
+<h2><span class="mw-headline" id="Accounting_for_moisture">Accounting for moisture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_of_combustion&amp;action=edit&amp;section=7" title="Edit section: Accounting for moisture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Both HHV and LHV can be expressed in terms of AR (all moisture counted), MF and MAF (only water from combustion of hydrogen). AR, MF, and MAF are commonly used for indicating the heating values of coal:
+</p>
+<ul><li><span id="AR"></span> <b>AR</b> (as received) indicates that the fuel heating value has been measured with all moisture- and ash-forming minerals present.</li>
+<li><b>MF</b> (moisture-free) or <b>dry</b> indicates that the fuel heating value has been measured after the fuel has been dried of all inherent moisture but still retaining its ash-forming minerals.</li>
+<li><b>MAF</b> (moisture- and ash-free) or <b>DAF</b> (dry and ash-free) indicates that the fuel heating value has been measured in the absence of inherent moisture- and ash-forming minerals.</li></ul>
+<h2><span class="mw-headline" id="Heat_of_combustion_tables">Heat of combustion tables</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_of_combustion&amp;action=edit&amp;section=8" title="Edit section: Heat of combustion tables">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table align="left" class="wikitable sortable" style="text-align: right;">
+<caption>Higher (HHV) and lower (LHV) heating values<br/>of some common fuels<sup class="reference" id="cite_ref-NIST_6-0"><a href="#cite_note-NIST-6">[6]</a></sup> at 25 °C
+</caption>
+<tbody><tr>
+<th>Fuel</th>
+<th>HHV <a class="mw-redirect" href="/wiki/Megajoule" title="Megajoule">MJ</a>/kg</th>
+<th>HHV <a class="mw-redirect" href="/wiki/BTU" title="BTU">BTU</a>/lb</th>
+<th>HHV <a class="mw-redirect" href="/wiki/Kilojoule" title="Kilojoule">kJ</a>/<a href="/wiki/Mole_(unit)" title="Mole (unit)">mol</a></th>
+<th>LHV MJ/kg
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/Hydrogen" title="Hydrogen">Hydrogen</a></td>
+<td>141.80</td>
+<td>61,000</td>
+<td>286</td>
+<td>119.96
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Methane" title="Methane">Methane</a></td>
+<td>55.50</td>
+<td>23,900</td>
+<td>889</td>
+<td>50.00
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Ethane" title="Ethane">Ethane</a></td>
+<td>51.90</td>
+<td>22,400</td>
+<td>1,560</td>
+<td>47.622
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Propane" title="Propane">Propane</a></td>
+<td>50.35</td>
+<td>21,700</td>
+<td>2,220</td>
+<td>46.35
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Butane" title="Butane">Butane</a></td>
+<td>49.50</td>
+<td>20,900</td>
+<td>2,877</td>
+<td>45.75
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Pentane" title="Pentane">Pentane</a></td>
+<td>48.60</td>
+<td>21,876</td>
+<td>3,507</td>
+<td>45.35
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Paraffin_wax" title="Paraffin wax">Paraffin wax</a></td>
+<td>46.00</td>
+<td>19,900</td>
+<td></td>
+<td>41.50
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Kerosene" title="Kerosene">Kerosene</a></td>
+<td>46.20</td>
+<td>19,862</td>
+<td></td>
+<td>43.00
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Diesel_fuel" title="Diesel fuel">Diesel</a></td>
+<td>44.80</td>
+<td>19,300</td>
+<td></td>
+<td>43.4
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Coal" title="Coal">Coal</a> (<a href="/wiki/Anthracite" title="Anthracite">anthracite</a>)</td>
+<td>32.50</td>
+<td>14,000</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Coal" title="Coal">Coal</a> (<a href="/wiki/Lignite" title="Lignite">lignite</a> - <a href="/wiki/United_States" title="United States">USA</a>)</td>
+<td>15.00</td>
+<td>6,500</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Wood" title="Wood">Wood</a> (<a href="/wiki/Heat_of_combustion#Accounting_for_moisture" title="Heat of combustion">MAF</a>)</td>
+<td>21.70</td>
+<td>8,700</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Wood_fuel" title="Wood fuel">Wood fuel</a></td>
+<td>21.20</td>
+<td>9,142</td>
+<td></td>
+<td>17.0
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Peat" title="Peat">Peat</a> (dry)</td>
+<td>15.00</td>
+<td>6,500</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Peat" title="Peat">Peat</a> (damp)</td>
+<td>6.00</td>
+<td>2,500</td>
+<td></td>
+<td>
+</td></tr></tbody></table>
+<div style="clear:both;"></div>
+<table align="left" class="wikitable sortable" style="text-align: right;">
+<caption>Higher heating value<br/>of some less common fuels<sup class="reference" id="cite_ref-NIST_6-1"><a href="#cite_note-NIST-6">[6]</a></sup>
+</caption>
+<tbody><tr>
+<th>Fuel</th>
+<th><a class="mw-redirect" href="/wiki/Megajoule" title="Megajoule">MJ</a>/kg</th>
+<th><a class="mw-redirect" href="/wiki/BTU" title="BTU">BTU</a>/lb</th>
+<th><a class="mw-redirect" href="/wiki/Kilojoule" title="Kilojoule">kJ</a>/<a href="/wiki/Mole_(unit)" title="Mole (unit)">mol</a>
+</th></tr>
+<tr>
+<td align="left"><a href="/wiki/Methanol" title="Methanol">Methanol</a></td>
+<td>22.7</td>
+<td>9,800</td>
+<td>726.0
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Ethanol" title="Ethanol">Ethanol</a></td>
+<td>29.7</td>
+<td>12,800</td>
+<td>1,300.0
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/1-Propanol" title="1-Propanol">1-Propanol</a></td>
+<td>33.6</td>
+<td>14,500</td>
+<td>2,020.0
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Acetylene" title="Acetylene">Acetylene</a></td>
+<td>49.9</td>
+<td>21,500</td>
+<td>1,300.0
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Benzene" title="Benzene">Benzene</a></td>
+<td>41.8</td>
+<td>18,000</td>
+<td>3,270.0
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Ammonia" title="Ammonia">Ammonia</a></td>
+<td>22.5</td>
+<td>9,690</td>
+<td>382.6
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Hydrazine" title="Hydrazine">Hydrazine</a></td>
+<td>19.4</td>
+<td>8,370</td>
+<td>622.0
+</td></tr>
+<tr>
+<td align="left"><a class="mw-redirect" href="/wiki/Hexamine" title="Hexamine">Hexamine</a></td>
+<td>30.0</td>
+<td>12,900</td>
+<td>4,200.0
+</td></tr>
+<tr>
+<td align="left"><a href="/wiki/Carbon" title="Carbon">Carbon</a></td>
+<td>32.8</td>
+<td>14,100</td>
+<td>393.5
+</td></tr></tbody></table>
+<div style="clear:both;"></div>
+<table align="left" class="wikitable sortable" style="text-align: right;">
+<caption>Lower heating value for some organic compounds <br/> (at 25 °C [77 °F])<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2011)">citation needed</span></a></i>]</sup>
+</caption>
+<tbody><tr>
+<th>Fuel
+</th>
+<th><a class="mw-redirect" href="/wiki/Megajoule" title="Megajoule">MJ</a>/kg
+</th>
+<th><a class="mw-redirect" href="/wiki/Megajoule" title="Megajoule">MJ</a>/<a class="mw-redirect" href="/wiki/Liter" title="Liter">L</a>
+</th>
+<th><a class="mw-redirect" href="/wiki/BTU" title="BTU">BTU</a>/lb
+</th>
+<th><a href="/wiki/Joule" title="Joule">kJ</a>/<a href="/wiki/Mole_(unit)" title="Mole (unit)">mol</a>
+</th></tr>
+<tr>
+<th colspan="5">Alkanes
+</th></tr>
+<tr>
+<td><a href="/wiki/Methane" title="Methane">Methane</a>
+</td>
+<td>50.009
+</td>
+<td>6.9
+</td>
+<td>21,504
+</td>
+<td>802.34
+</td></tr>
+<tr>
+<td><a href="/wiki/Ethane" title="Ethane">Ethane</a>
+</td>
+<td>47.794
+</td>
+<td>—
+</td>
+<td>20,551
+</td>
+<td>1,437.2
+</td></tr>
+<tr>
+<td><a href="/wiki/Propane" title="Propane">Propane</a>
+</td>
+<td>46.357
+</td>
+<td>25.3
+</td>
+<td>19,934
+</td>
+<td>2,044.2
+</td></tr>
+<tr>
+<td><a href="/wiki/Butane" title="Butane">Butane</a>
+</td>
+<td>45.752
+</td>
+<td>—
+</td>
+<td>19,673
+</td>
+<td>2,659.3
+</td></tr>
+<tr>
+<td><a href="/wiki/Pentane" title="Pentane">Pentane</a>
+</td>
+<td>45.357
+</td>
+<td>28.39
+</td>
+<td>21,706
+</td>
+<td>3,272.6
+</td></tr>
+<tr>
+<td><a href="/wiki/Hexane" title="Hexane">Hexane</a>
+</td>
+<td>44.752
+</td>
+<td>29.30
+</td>
+<td>19,504
+</td>
+<td>3,856.7
+</td></tr>
+<tr>
+<td><a href="/wiki/Heptane" title="Heptane">Heptane</a>
+</td>
+<td>44.566
+</td>
+<td>30.48
+</td>
+<td>19,163
+</td>
+<td>4,465.8
+</td></tr>
+<tr>
+<td><a href="/wiki/Octane" title="Octane">Octane</a>
+</td>
+<td>44.427
+</td>
+<td>—
+</td>
+<td>19,104
+</td>
+<td>5,074.9
+</td></tr>
+<tr>
+<td><a href="/wiki/Nonane" title="Nonane">Nonane</a>
+</td>
+<td>44.311
+</td>
+<td>31.82
+</td>
+<td>19,054
+</td>
+<td>5,683.3
+</td></tr>
+<tr>
+<td><a href="/wiki/Decane" title="Decane">Decane</a>
+</td>
+<td>44.240
+</td>
+<td>33.29
+</td>
+<td>19,023
+</td>
+<td>6,294.5
+</td></tr>
+<tr>
+<td><a href="/wiki/Undecane" title="Undecane">Undecane</a>
+</td>
+<td>44.194
+</td>
+<td>32.70
+</td>
+<td>19,003
+</td>
+<td>6,908.0
+</td></tr>
+<tr>
+<td><a href="/wiki/Dodecane" title="Dodecane">Dodecane</a>
+</td>
+<td>44.147
+</td>
+<td>33.11
+</td>
+<td>18,983
+</td>
+<td>7,519.6
+</td></tr>
+<tr>
+<th colspan="5">Isoparaffins
+</th></tr>
+<tr>
+<td><a href="/wiki/Isobutane" title="Isobutane">Isobutane</a>
+</td>
+<td>45.613
+</td>
+<td>—
+</td>
+<td>19,614
+</td>
+<td>2,651.0
+</td></tr>
+<tr>
+<td><a href="/wiki/Isopentane" title="Isopentane">Isopentane</a>
+</td>
+<td>45.241
+</td>
+<td>27.87
+</td>
+<td>19,454
+</td>
+<td>3,264.1
+</td></tr>
+<tr>
+<td><a href="/wiki/2-Methylpentane" title="2-Methylpentane">2-Methylpentane</a>
+</td>
+<td>44.682
+</td>
+<td>29.18
+</td>
+<td>19,213
+</td>
+<td>6,850.7
+</td></tr>
+<tr>
+<td><a href="/wiki/2,3-Dimethylbutane" title="2,3-Dimethylbutane">2,3-Dimethylbutane</a>
+</td>
+<td>44.659
+</td>
+<td>29.56
+</td>
+<td>19,203
+</td>
+<td>3,848.7
+</td></tr>
+<tr>
+<td><a class="new" href="/w/index.php?title=2,3-Dimethylpentane&amp;action=edit&amp;redlink=1" title="2,3-Dimethylpentane (page does not exist)">2,3-Dimethylpentane</a>
+</td>
+<td>44.496
+</td>
+<td>30.92
+</td>
+<td>19,133
+</td>
+<td>4,458.5
+</td></tr>
+<tr>
+<td><a href="/wiki/2,2,4-Trimethylpentane" title="2,2,4-Trimethylpentane">2,2,4-Trimethylpentane</a>
+</td>
+<td>44.310
+</td>
+<td>30.49
+</td>
+<td>19,053
+</td>
+<td>5,061.5
+</td></tr>
+<tr>
+<th colspan="5">Naphthenes
+</th></tr>
+<tr>
+<td><a href="/wiki/Cyclopentane" title="Cyclopentane">Cyclopentane</a>
+</td>
+<td>44.636
+</td>
+<td>33.52
+</td>
+<td>19,193
+</td>
+<td>3,129.0
+</td></tr>
+<tr>
+<td><a href="/wiki/Methylcyclopentane" title="Methylcyclopentane">Methylcyclopentane</a>
+</td>
+<td>44.636?
+</td>
+<td>33.43?
+</td>
+<td>19,193?
+</td>
+<td>3,756.6?
+</td></tr>
+<tr>
+<td><a href="/wiki/Cyclohexane" title="Cyclohexane">Cyclohexane</a>
+</td>
+<td>43.450
+</td>
+<td>33.85
+</td>
+<td>18,684
+</td>
+<td>3,656.8
+</td></tr>
+<tr>
+<td><a href="/wiki/Methylcyclohexane" title="Methylcyclohexane">Methylcyclohexane</a>
+</td>
+<td>43.380
+</td>
+<td>33.40
+</td>
+<td>18,653
+</td>
+<td>4,259.5
+</td></tr>
+<tr>
+<th colspan="5">Monoolefins
+</th></tr>
+<tr>
+<td><a href="/wiki/Ethylene" title="Ethylene">Ethylene</a>
+</td>
+<td>47.195
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Propylene" title="Propylene">Propylene</a>
+</td>
+<td>45.799
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/1-Butene" title="1-Butene">1-Butene</a>
+</td>
+<td>45.334
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Cis-2-Butene" title="Cis-2-Butene"><i>cis</i>-2-Butene</a>
+</td>
+<td>45.194
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Trans-2-Butene" title="Trans-2-Butene"><i>trans</i>-2-Butene</a>
+</td>
+<td>45.124
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Isobutene" title="Isobutene">Isobutene</a>
+</td>
+<td>45.055
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/1-Pentene" title="1-Pentene">1-Pentene</a>
+</td>
+<td>45.031
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a class="new" href="/w/index.php?title=2-Methyl-1-pentene&amp;action=edit&amp;redlink=1" title="2-Methyl-1-pentene (page does not exist)">2-Methyl-1-pentene</a>
+</td>
+<td>44.799
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/1-Hexene" title="1-Hexene">1-Hexene</a>
+</td>
+<td>44.426
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<th colspan="5">Diolefins
+</th></tr>
+<tr>
+<td><a href="/wiki/1,3-Butadiene" title="1,3-Butadiene">1,3-Butadiene</a>
+</td>
+<td>44.613
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/Isoprene" title="Isoprene">Isoprene</a>
+</td>
+<td>44.078
+</td>
+<td>-
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<th colspan="5">Nitrous derived
+</th></tr>
+<tr>
+<td><a href="/wiki/Nitromethane" title="Nitromethane">Nitromethane</a>
+</td>
+<td>10.513
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/Nitropropane" title="Nitropropane">Nitropropane</a>
+</td>
+<td>20.693
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<th colspan="5">Acetylenes
+</th></tr>
+<tr>
+<td><a href="/wiki/Acetylene" title="Acetylene">Acetylene</a>
+</td>
+<td>48.241
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Methylacetylene" title="Methylacetylene">Methylacetylene</a>
+</td>
+<td>46.194
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/1-Butyne" title="1-Butyne">1-Butyne</a>
+</td>
+<td>45.590
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/1-Pentyne" title="1-Pentyne">1-Pentyne</a>
+</td>
+<td>45.217
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<th colspan="5">Aromatics
+</th></tr>
+<tr>
+<td><a href="/wiki/Benzene" title="Benzene">Benzene</a>
+</td>
+<td>40.170
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/Toluene" title="Toluene">Toluene</a>
+</td>
+<td>40.589
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/O-Xylene" title="O-Xylene"><i>o</i>-Xylene</a>
+</td>
+<td>40.961
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/M-Xylene" title="M-Xylene"><i>m</i>-Xylene</a>
+</td>
+<td>40.961
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/P-Xylene" title="P-Xylene"><i>p</i>-Xylene</a>
+</td>
+<td>40.798
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/Ethylbenzene" title="Ethylbenzene">Ethylbenzene</a>
+</td>
+<td>40.938
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/1,2,4-Trimethylbenzene" title="1,2,4-Trimethylbenzene">1,2,4-Trimethylbenzene</a>
+</td>
+<td>40.984
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/N-Propylbenzene" title="N-Propylbenzene"><i>n</i>-Propylbenzene</a>
+</td>
+<td>41.193
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/Cumene" title="Cumene">Cumene</a>
+</td>
+<td>41.217
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<th colspan="5">Alcohols
+</th></tr>
+<tr>
+<td><a href="/wiki/Methanol" title="Methanol">Methanol</a>
+</td>
+<td>19.930
+</td>
+<td>15.78
+</td>
+<td>8,570
+</td>
+<td>638.55
+</td></tr>
+<tr>
+<td><a href="/wiki/Ethanol" title="Ethanol">Ethanol</a>
+</td>
+<td>26.70
+</td>
+<td>22.77
+</td>
+<td>12,412
+</td>
+<td>1,329.8
+</td></tr>
+<tr>
+<td><a href="/wiki/1-Propanol" title="1-Propanol">1-Propanol</a>
+</td>
+<td>30.680
+</td>
+<td>24.65
+</td>
+<td>13,192
+</td>
+<td>1,843.9
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Isopropanol" title="Isopropanol">Isopropanol</a>
+</td>
+<td>30.447
+</td>
+<td>23.93
+</td>
+<td>13,092
+</td>
+<td>1,829.9
+</td></tr>
+<tr>
+<td><a href="/wiki/N-Butanol" title="N-Butanol"><i>n</i>-Butanol</a>
+</td>
+<td>33.075
+</td>
+<td>26.79
+</td>
+<td>14,222
+</td>
+<td>2,501.6
+</td></tr>
+<tr>
+<td><a href="/wiki/Isobutanol" title="Isobutanol">Isobutanol</a>
+</td>
+<td>32.959
+</td>
+<td>26.43
+</td>
+<td>14,172
+</td>
+<td>2,442.9
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Tert-butanol" title="Tert-butanol"><i>tert</i>-Butanol</a>
+</td>
+<td>32.587
+</td>
+<td>25.45
+</td>
+<td>14,012
+</td>
+<td>2,415.3
+</td></tr>
+<tr>
+<td><a href="/wiki/1-Pentanol" title="1-Pentanol"><i>n</i>-Pentanol</a>
+</td>
+<td>34.727
+</td>
+<td>28.28
+</td>
+<td>14,933
+</td>
+<td>3,061.2
+</td></tr>
+<tr>
+<td><a href="/wiki/Isoamyl_alcohol" title="Isoamyl alcohol">Isoamyl alcohol</a>
+</td>
+<td>31.416?
+</td>
+<td>35.64?
+</td>
+<td>13,509?
+</td>
+<td>2,769.3?
+</td></tr>
+<tr>
+<th colspan="5">Ethers
+</th></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Methoxymethane" title="Methoxymethane">Methoxymethane</a>
+</td>
+<td>28.703
+</td>
+<td>—
+</td>
+<td>12,342
+</td>
+<td>1,322.3
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Ethoxyethane" title="Ethoxyethane">Ethoxyethane</a>
+</td>
+<td>33.867
+</td>
+<td>24.16
+</td>
+<td>14,563
+</td>
+<td>2,510.2
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Propoxypropane" title="Propoxypropane">Propoxypropane</a>
+</td>
+<td>36.355
+</td>
+<td>26.76
+</td>
+<td>15,633
+</td>
+<td>3,568.0
+</td></tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Butoxybutane" title="Butoxybutane">Butoxybutane</a>
+</td>
+<td>37.798
+</td>
+<td>28.88
+</td>
+<td>16,253
+</td>
+<td>4,922.4
+</td></tr>
+<tr>
+<th colspan="5">Aldehydes and ketones
+</th></tr>
+<tr>
+<td><a href="/wiki/Formaldehyde" title="Formaldehyde">Formaldehyde</a>
+</td>
+<td>17.259
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>570.78 <sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Acetaldehyde" title="Acetaldehyde">Acetaldehyde</a>
+</td>
+<td>24.156
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/Propionaldehyde" title="Propionaldehyde">Propionaldehyde</a>
+</td>
+<td>28.889
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/Butyraldehyde" title="Butyraldehyde">Butyraldehyde</a>
+</td>
+<td>31.610
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/Acetone" title="Acetone">Acetone</a>
+</td>
+<td>28.548
+</td>
+<td>22.62
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<th colspan="5">Other species
+</th></tr>
+<tr>
+<td><a href="/wiki/Graphite" title="Graphite">Carbon (graphite)</a>
+</td>
+<td>32.808
+</td>
+<td>—
+</td>
+<td>—
+</td>
+<td>—
+</td></tr>
+<tr>
+<td><a href="/wiki/Hydrogen" title="Hydrogen">Hydrogen</a>
+</td>
+<td>120.971
+</td>
+<td>1.8
+</td>
+<td>52,017
+</td>
+<td>244
+</td></tr>
+<tr>
+<td><a href="/wiki/Carbon_monoxide" title="Carbon monoxide">Carbon monoxide</a>
+</td>
+<td>10.112
+</td>
+<td>—
+</td>
+<td>4,348
+</td>
+<td>283.24
+</td></tr>
+<tr>
+<td><a href="/wiki/Ammonia" title="Ammonia">Ammonia</a>
+</td>
+<td>18.646
+</td>
+<td>—
+</td>
+<td>8,018
+</td>
+<td>317.56
+</td></tr>
+<tr>
+<td><a href="/wiki/Sulfur" title="Sulfur">Sulfur</a> (<small>solid</small>)
+</td>
+<td>9.163
+</td>
+<td>—
+</td>
+<td>3,940
+</td>
+<td>293.82
+</td></tr>
+</tbody></table>
+<div style="clear:both;"></div>
+<dl><dt>Note</dt></dl>
+<ul><li>There is no difference between the lower and higher heating values for the combustion of carbon, carbon monoxide and sulfur since no water is formed during the combustion of those substances.</li>
+<li>BTU/lb values are calculated from MJ/kg (1 MJ/kg = 430 BTU/lb).</li></ul>
+<h2><span class="mw-headline" id="Higher_heating_values_of_natural_gases_from_various_sources">Higher heating values of natural gases from various sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_of_combustion&amp;action=edit&amp;section=9" title="Edit section: Higher heating values of natural gases from various sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/International_Energy_Agency" title="International Energy Agency">International Energy Agency</a> reports the following typical higher heating values:<sup class="reference" id="cite_ref-KWES_8-0"><a href="#cite_note-KWES-8">[8]</a></sup>
+</p>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Algeria" title="Algeria">Algeria</a>: 39.57 MJ/m<sup>3</sup></li>
+<li><a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a>: 36.00 MJ/m<sup>3</sup></li>
+<li><a href="/wiki/Canada" title="Canada">Canada</a>: 39.00 MJ/m<sup>3</sup></li>
+<li><a href="/wiki/China" title="China">China</a>: 38.93 MJ/m<sup>3</sup></li>
+<li><a href="/wiki/Indonesia" title="Indonesia">Indonesia</a>: 40.60 MJ/m<sup>3</sup></li>
+<li><a href="/wiki/Iran" title="Iran">Iran</a>: 39.36MJ/m<sup>3</sup></li>
+<li><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>: 33.32 MJ/m<sup>3</sup></li>
+<li><a href="/wiki/Norway" title="Norway">Norway</a>: 39.24 MJ/m<sup>3</sup></li>
+<li><a href="/wiki/Pakistan" title="Pakistan">Pakistan</a>: 34.90 MJ/m<sup>3</sup></li>
+<li><a href="/wiki/Qatar" title="Qatar">Qatar</a>: 41.40 MJ/m<sup>3</sup></li>
+<li><a href="/wiki/Russia" title="Russia">Russia</a>: 38.23 MJ/m<sup>3</sup></li>
+<li><a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a>: 38.00 MJ/m<sup>3</sup></li>
+<li><a href="/wiki/Turkmenistan" title="Turkmenistan">Turkmenistan</a>: 37.89 MJ/m<sup>3</sup></li>
+<li><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>: 39.71 MJ/m<sup>3</sup></li>
+<li><a href="/wiki/United_States" title="United States">United States</a>: 38.42 MJ/m<sup>3</sup></li>
+<li><a href="/wiki/Uzbekistan" title="Uzbekistan">Uzbekistan</a>: 37.89 MJ/m<sup>3</sup></li></ul>
+</div>
+<p>The lower heating value of natural gas is normally about 90 percent of its higher heating value.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_of_combustion&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Adiabatic_flame_temperature" title="Adiabatic flame temperature">Adiabatic flame temperature</a></li>
+<li><a href="/wiki/Energy_density" title="Energy density">Energy density</a></li>
+<li><a href="/wiki/Energy_value_of_coal" title="Energy value of coal">Energy value of coal</a></li>
+<li><a href="/wiki/Exothermic_reaction" title="Exothermic reaction">Exothermic reaction</a></li>
+<li><a href="/wiki/Fire" title="Fire">Fire</a></li>
+<li><a href="/wiki/Fuel_efficiency#Energy_content_of_fuel" title="Fuel efficiency">Fuel efficiency#Energy content of fuel</a></li>
+<li><a href="/wiki/Food_energy" title="Food energy">Food energy</a></li>
+<li><a href="/wiki/Internal_energy" title="Internal energy">Internal energy</a></li>
+<li><a href="/wiki/Thermal_efficiency" title="Thermal efficiency">Thermal efficiency</a></li>
+<li><a href="/wiki/Wobbe_index" title="Wobbe index">Wobbe index</a>: heat density</li>
+<li><a href="/wiki/ISO_15971" title="ISO 15971">ISO 15971</a></li>
+<li><a href="/wiki/Electrical_efficiency" title="Electrical efficiency">Electrical efficiency</a></li>
+<li><a href="/wiki/Mechanical_efficiency" title="Mechanical efficiency">Mechanical efficiency</a></li>
+<li><a href="/wiki/Figure_of_merit" title="Figure of merit">Figure of merit</a></li>
+<li><a class="mw-redirect" href="/wiki/Relative_cost_of_electricity_generated_by_different_sources" title="Relative cost of electricity generated by different sources">Relative cost of electricity generated by different sources</a></li>
+<li><a href="/wiki/Energy_conversion_efficiency" title="Energy conversion efficiency">Energy conversion efficiency</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_of_combustion&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book">Guibet, J.-C. <i>Carburants et moteurs</i>. Publication de l'Institut Français du Pétrole. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/2-7108-0704-1" title="Special:BookSources/2-7108-0704-1">2-7108-0704-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Carburants+et+moteurs&amp;rft.pub=Publication+de+l%27Institut+Fran%C3%A7ais+du+P%C3%A9trole&amp;rft.isbn=2-7108-0704-1&amp;rft.aulast=Guibet&amp;rft.aufirst=J.-C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeat+of+combustion"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li></ul>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Schmidt-Rohr_15-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Schmidt-Rohr_15_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Schmidt-Rohr_15_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Schmidt-Rohr, K (2015). "Why Combustions Are Always Exothermic, Yielding About 418 kJ per Mole of O<sub>2</sub>". <i><a class="mw-redirect" href="/wiki/J._Chem._Educ." title="J. Chem. Educ.">J. Chem. Educ.</a></i> <b>92</b>: 2094–2099. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2015JChEd..92.2094S" rel="nofollow">2015JChEd..92.2094S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Facs.jchemed.5b00333" rel="nofollow">10.1021/acs.jchemed.5b00333</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Chem.+Educ.&amp;rft.atitle=Why+Combustions+Are+Always+Exothermic%2C+Yielding+About+418+kJ+per+Mole+of+O%3Csub%3E2%3C%2Fsub%3E&amp;rft.volume=92&amp;rft.pages=2094-2099&amp;rft.date=2015&amp;rft_id=info%3Adoi%2F10.1021%2Facs.jchemed.5b00333&amp;rft_id=info%3Abibcode%2F2015JChEd..92.2094S&amp;rft.aulast=Schmidt-Rohr&amp;rft.aufirst=K&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeat+of+combustion"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Note however that a compound like nitroglycerine for which the formula predicts a zero heat of combustion does not actually "combust" in the sense of reacting with air or oxygen. Nitroglycerine will explode, giving off heat, but this is a decomposition requiring no molecular oxygen to react with the nitroglycerine. The formula also gives poor results for (gaseous) <a href="/wiki/Formaldehyde" title="Formaldehyde">formaldehyde</a> and <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a>.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kharasch, M.S. (February 1929). <a class="external text" href="https://nvlpubs.nist.gov/nistpubs/jres/2/jresv2n2p359_A2b.pdf" rel="nofollow">"Heats of combustion of organic compounds"</a> <span class="cs1-format">(PDF)</span>. <i>Bureau of Standards Journal of Research</i>. <b>2</b> (2): 359. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.6028%2Fjres.002.007" rel="nofollow">10.6028/jres.002.007</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0091-1801" rel="nofollow">0091-1801</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bureau+of+Standards+Journal+of+Research&amp;rft.atitle=Heats+of+combustion+of+organic+compounds&amp;rft.volume=2&amp;rft.issue=2&amp;rft.pages=359&amp;rft.date=1929-02&amp;rft_id=info%3Adoi%2F10.6028%2Fjres.002.007&amp;rft.issn=0091-1801&amp;rft.aulast=Kharasch&amp;rft.aufirst=M.S.&amp;rft_id=https%3A%2F%2Fnvlpubs.nist.gov%2Fnistpubs%2Fjres%2F2%2Fjresv2n2p359_A2b.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeat+of+combustion"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Air Quality Engineering, CE 218A, W. Nazaroff and R. Harley, University of California Berkeley, 2007</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.claverton-energy.com/the-difference-between-lcv-and-hcv-or-lower-and-higher-heating-value-or-net-and-gross-is-clearly-understood-by-all-energy-engineers-there-is-no-right-or-wrong-definition.html" rel="nofollow">"The difference between LCV and HCV (or Lower and Higher Heating Value, or Net and Gross) is clearly understood by all energy engineers. There is no 'right' or 'wrong' definition. - Claverton Group"</a>. <i>www.claverton-energy.com</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.claverton-energy.com&amp;rft.atitle=The+difference+between+LCV+and+HCV+%28or+Lower+and+Higher+Heating+Value%2C+or+Net+and+Gross%29+is+clearly+understood+by+all+energy+engineers.+There+is+no+%27right%27+or+%27wrong%27+definition.+-+Claverton+Group&amp;rft_id=http%3A%2F%2Fwww.claverton-energy.com%2Fthe-difference-between-lcv-and-hcv-or-lower-and-higher-heating-value-or-net-and-gross-is-clearly-understood-by-all-energy-engineers-there-is-no-right-or-wrong-definition.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeat+of+combustion"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-NIST-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-NIST_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NIST_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://webbook.nist.gov/chemistry" rel="nofollow">"NIST Chemistry WebBook"</a>. <i>webbook.nist.gov</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=webbook.nist.gov&amp;rft.atitle=NIST+Chemistry+WebBook&amp;rft_id=http%3A%2F%2Fwebbook.nist.gov%2Fchemistry&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeat+of+combustion"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://webbook.nist.gov/cgi/cbook.cgi?ID=C50000&amp;Mask=1" rel="nofollow">"Methanal"</a>. <i>webbook.nist.gov</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=webbook.nist.gov&amp;rft.atitle=Methanal&amp;rft_id=http%3A%2F%2Fwebbook.nist.gov%2Fcgi%2Fcbook.cgi%3FID%3DC50000%26Mask%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeat+of+combustion"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-KWES-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-KWES_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.iea.org/publications/freepublications/publication/KeyWorld2016.pdf" rel="nofollow">"Key World Energy Statistics (2016)"</a> <span class="cs1-format">(PDF)</span>. <i>iea.org</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iea.org&amp;rft.atitle=Key+World+Energy+Statistics+%282016%29&amp;rft_id=https%3A%2F%2Fwww.iea.org%2Fpublications%2Ffreepublications%2Fpublication%2FKeyWorld2016.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeat+of+combustion"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_of_combustion&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://webbook.nist.gov/chemistry/" rel="nofollow">NIST Chemistry WebBook</a></li>
+<li><cite class="citation web"><a class="external text" href="http://cta.ornl.gov/bedb/appendix_a/Lower_and_Higher_Heating_Values_of_Gas_Liquid_and_Solid_Fuels.pdf" rel="nofollow">"Lower and Higher Heating Values of Gas, Liquid and Solid Fuels"</a> <span class="cs1-format">(PDF)</span>. <i>Biomass Energy Data Book</i>. U.S. Department of Energy. 2011.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Biomass+Energy+Data+Book&amp;rft.atitle=Lower+and+Higher+Heating+Values+of+Gas%2C+Liquid+and+Solid+Fuels&amp;rft.date=2011&amp;rft_id=http%3A%2F%2Fcta.ornl.gov%2Fbedb%2Fappendix_a%2FLower_and_Higher_Heating_Values_of_Gas_Liquid_and_Solid_Fuels.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeat+of+combustion"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q902126&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q902126&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q902126" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4135554-4" rel="nofollow">4135554-4</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00568140" rel="nofollow">00568140</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2172
+Cached time: 20181010111832
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.344 seconds
+Real time usage: 0.442 seconds
+Preprocessor visited node count: 1751/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 45580/2097152 bytes
+Template argument size: 2905/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 20492/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.158/10.000 seconds
+Lua memory usage: 5.87 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  305.343      1 -total
+ 21.54%   65.770      1 Template:Reflist
+ 18.21%   55.597      1 Template:Cite_book
+ 14.25%   43.502      1 Template:Refimprove
+ 12.64%   38.600      2 Template:Cite_journal
+  9.77%   29.819      6 Template:Convert
+  9.66%   29.498      2 Template:Citation_needed
+  9.41%   28.744      1 Template:Ambox
+  8.48%   25.894      2 Template:Fix
+  8.31%   25.374      1 Template:Authority_control
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1112273-0!canonical!math=5 and timestamp 20181010111832 and revision id 860517446
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Heat_of_combustion&amp;oldid=860517446">https://en.wikipedia.org/w/index.php?title=Heat_of_combustion&amp;oldid=860517446</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Engineering_thermodynamics" title="Category:Engineering thermodynamics">Engineering thermodynamics</a></li><li><a href="/wiki/Category:Combustion" title="Category:Combustion">Combustion</a></li><li><a href="/wiki/Category:Fuels" title="Category:Fuels">Fuels</a></li><li><a href="/wiki/Category:Thermodynamic_properties" title="Category:Thermodynamic properties">Thermodynamic properties</a></li><li><a href="/wiki/Category:Nuclear_physics" title="Category:Nuclear physics">Nuclear physics</a></li><li><a href="/wiki/Category:Thermochemistry" title="Category:Thermochemistry">Thermochemistry</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2015" title="Category:Articles needing additional references from June 2015">Articles needing additional references from June 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2015" title="Category:Articles with unsourced statements from June 2015">Articles with unsourced statements from June 2015</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2011" title="Category:Articles with unsourced statements from May 2011">Articles with unsourced statements from May 2011</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Heat+of+combustion" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Heat+of+combustion" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Heat_of_combustion" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Heat_of_combustion" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Heat_of_combustion">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Heat_of_combustion&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Heat_of_combustion&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Heat_of_combustion" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Heat_of_combustion" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Heat_of_combustion&amp;oldid=860517446" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Heat_of_combustion&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q902126" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Heat_of_combustion&amp;id=860517446" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Heat+of+combustion">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Heat+of+combustion&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Heat_of_combustion&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%82" hreflang="ar" lang="ar" title="حرارة الاحتراق – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Poder_calor%C3%ADfic" hreflang="ca" lang="ca" title="Poder calorífic – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Spaln%C3%A9_teplo" hreflang="cs" lang="cs" title="Spalné teplo – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Br%C3%A6ndv%C3%A6rdi" hreflang="da" lang="da" title="Brændværdi – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Brennwert" hreflang="de" lang="de" title="Brennwert – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/K%C3%BCttev%C3%A4%C3%A4rtus" hreflang="et" lang="et" title="Kütteväärtus – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Poder_calor%C3%ADfico" hreflang="es" lang="es" title="Poder calorífico – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Ahalmen_termiko" hreflang="eu" lang="eu" title="Ahalmen termiko – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%85%D8%A7%DB%8C_%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%82" hreflang="fa" lang="fa" title="گرمای احتراق – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Pouvoir_calorifique" hreflang="fr" lang="fr" title="Pouvoir calorifique – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Poder_calor%C3%ADfico" hreflang="gl" lang="gl" title="Poder calorífico – Galician">Galego</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%A6%E0%A4%B9%E0%A4%A8_%E0%A4%8A%E0%A4%B7%E0%A5%8D%E0%A4%AE%E0%A4%BE" hreflang="hi" lang="hi" title="दहन ऊष्मा – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Ogrjevna_vrijednost" hreflang="hr" lang="hr" title="Ogrjevna vrijednost – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Potere_calorifico" hreflang="it" lang="it" title="Potere calorifico – Italian">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/%C3%89g%C3%A9sh%C5%91" hreflang="hu" lang="hu" title="Égéshő – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Verbrandingswarmte" hreflang="nl" lang="nl" title="Verbrandingswarmte – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%87%83%E7%84%BC%E7%86%B1" hreflang="ja" lang="ja" title="燃焼熱 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Forbrenningsvarme" hreflang="nn" lang="nn" title="Forbrenningsvarme – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Ciep%C5%82o_spalania" hreflang="pl" lang="pl" title="Ciepło spalania – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Poder_calor%C3%ADfico" hreflang="pt" lang="pt" title="Poder calorífico – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Putere_calorific%C4%83" hreflang="ro" lang="ro" title="Putere calorifică – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A3%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D1%82%D0%B0_%D1%81%D0%B3%D0%BE%D1%80%D0%B0%D0%BD%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Удельная теплота сгорания – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Heat_of_combustion" hreflang="simple" lang="simple" title="Heat of combustion – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/V%C3%BDhrevnos%C5%A5" hreflang="sk" lang="sk" title="Výhrevnosť – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Kurilna_vrednost" hreflang="sl" lang="sl" title="Kurilna vrednost – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%DA%AF%DB%95%D8%B1%D9%85%DB%8C%DB%8C_%D8%B3%D9%88%D9%88%D8%AA%D8%A7%D9%86" hreflang="ckb" lang="ckb" title="گەرمیی سووتان – Central Kurdish">کوردی</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Ogrjevna_vrijednost" hreflang="sh" lang="sh" title="Ogrjevna vrijednost – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/L%C3%A4mp%C3%B6arvo" hreflang="fi" lang="fi" title="Lämpöarvo – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/V%C3%A4rmev%C3%A4rde" hreflang="sv" lang="sv" title="Värmevärde – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%8E%E0%AE%B0%E0%AE%BF%E0%AE%B5%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="எரிவெப்பம் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B8%D1%82%D0%BE%D0%BC%D0%B0_%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D1%82%D0%B0_%D0%B7%D0%B3%D0%BE%D1%80%D1%8F%D0%BD%D0%BD%D1%8F" hreflang="uk" lang="uk" title="Питома теплота згоряння – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/N%C4%83ng_su%E1%BA%A5t_t%E1%BB%8Fa_nhi%E1%BB%87t" hreflang="vi" lang="vi" title="Năng suất tỏa nhiệt – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%87%83%E7%83%A7%E7%83%AD" hreflang="zh" lang="zh" title="燃烧热 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q902126#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 21 September 2018, at 05:45<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Heat_of_combustion&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.344","walltime":"0.442","ppvisitednodes":{"value":1751,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":45580,"limit":2097152},"templateargumentsize":{"value":2905,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":20492,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  305.343      1 -total"," 21.54%   65.770      1 Template:Reflist"," 18.21%   55.597      1 Template:Cite_book"," 14.25%   43.502      1 Template:Refimprove"," 12.64%   38.600      2 Template:Cite_journal","  9.77%   29.819      6 Template:Convert","  9.66%   29.498      2 Template:Citation_needed","  9.41%   28.744      1 Template:Ambox","  8.48%   25.894      2 Template:Fix","  8.31%   25.374      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.158","limit":"10.000"},"limitreport-memusage":{"value":6150258,"limit":52428800}},"cachereport":{"origin":"mw2172","timestamp":"20181010111832","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw2197"});});</script>
+</body>
+</html>

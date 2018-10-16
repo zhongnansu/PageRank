@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Environmental accounting - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Environmental_accounting","wgTitle":"Environmental accounting","wgCurRevisionId":851000195,"wgRevisionId":851000195,"wgArticleId":3243884,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Environmental economics","Sustainability metrics and indices","Types of accounting"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Environmental_accounting","wgRelevantArticleId":3243884,"wgRequestId":"W8HM9wpAMFMAADlPu3QAAAAF","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q12366845","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Environmental_accounting" rel="alternate"/>
+<link href="/w/index.php?title=Environmental_accounting&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Environmental_accounting&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Environmental_accounting" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Environmental_accounting rootpage-Environmental_accounting skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Environmental accounting</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Environmental accounting</b> is a subset of <a class="mw-redirect" href="/wiki/Accountancy" title="Accountancy">accounting</a> proper, its target being to incorporate both economic and environmental information. It can be conducted at the corporate level or at the level of a national economy through the <a href="/wiki/System_of_Integrated_Environmental_and_Economic_Accounting" title="System of Integrated Environmental and Economic Accounting">System of Integrated Environmental and Economic Accounting</a>, a satellite system to the National Accounts of Countries<sup class="reference plainlinks nourlexpansion" id="ref_UN1"><a class="external autonumber" href="//en.wikipedia.org/wiki/Environmental_accounting#endnote_UN1">[1]</a></sup> (among other things, the National Accounts produce the estimates of Gross Domestic Product otherwise known as GDP).
+</p><p>Environmental accounting is a field that identifies resource use, measures and communicates costs of a company’s or national economic impact on the environment.  Costs include costs to clean up or <a href="/wiki/Environmental_remediation" title="Environmental remediation">remediate</a> contaminated sites, environmental fines, penalties and taxes, purchase of pollution prevention technologies and waste management costs.
+</p><p>An environmental accounting system consists of environmentally differentiated conventional accounting and ecological accounting. Environmentally differentiated accounting measures effects of the <a href="/wiki/Natural_environment" title="Natural environment">natural environment</a> on a <a href="/wiki/Company" title="Company">company</a> in <a class="mw-redirect" href="/wiki/Monetary" title="Monetary">monetary</a> terms. Ecological accounting measures the influence a company has on the environment, but in physical measurements.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Reasons_for_use"><span class="tocnumber">1</span> <span class="toctext">Reasons for use</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Subfields"><span class="tocnumber">2</span> <span class="toctext">Subfields</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Examples_of_software"><span class="tocnumber">3</span> <span class="toctext">Examples of software</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Notes"><span class="tocnumber">5.1</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Footnotes"><span class="tocnumber">5.2</span> <span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Further_reading"><span class="tocnumber">5.3</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Reasons_for_use">Reasons for use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_accounting&amp;action=edit&amp;section=1" title="Edit section: Reasons for use">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are several advantages environmental accounting brings to business; notably, the complete costs, including environmental remediation and long term environmental consequences and externalities can be quantified and addressed.
+</p><p>More information about the statistical system of environmental accounts are available here: <a href="/wiki/System_of_Integrated_Environmental_and_Economic_Accounting" title="System of Integrated Environmental and Economic Accounting">System of Integrated Environmental and Economic Accounting</a>.
+</p>
+<h2><span class="mw-headline" id="Subfields">Subfields</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_accounting&amp;action=edit&amp;section=2" title="Edit section: Subfields">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Environmental accounting is organized in three sub-disciplines: global, national, and corporate environmental accounting, respectively. Corporate environmental accounting can be further sub-divided into environmental management accounting and environmental financial accounting.
+</p>
+<ul><li><b>Global environmental accounting</b> is an accounting methodology that deals areas includes energetics, ecology and economics at a worldwide level.</li>
+<li><b>National environmental accounting</b> is an accounting approach that deals with economics on a country's level.</li></ul>
+<dl><dd>Internationally, environmental accounting has been formalised into the System of Integrated Environmental and Economic Accounting, known as SEEA.<sup class="reference plainlinks nourlexpansion" id="ref_UN1"><a class="external autonumber" href="//en.wikipedia.org/wiki/Environmental_accounting#endnote_UN1">[2]</a></sup> SEEA grows out of the System of National Accounts. The SEEA records the flows of raw materials (water, energy, minerals, wood, etc.) from the environment to the economy, the exchanges of these materials within the economy and the returns of wastes and pollutants to the environment. Also recorded are the prices or shadow prices for these materials as are environment protection expenditures. SEEA is used by 49 countries around the world.<sup class="reference plainlinks nourlexpansion" id="ref_UN2"><a class="external autonumber" href="//en.wikipedia.org/wiki/Environmental_accounting#endnote_UN2">[3]</a></sup></dd></dl>
+<ul><li><b>Corporate environmental accounting</b> focuses on the cost structure and environmental performance of a company.<sup class="reference plainlinks nourlexpansion" id="ref_EA"><a class="external autonumber" href="//en.wikipedia.org/wiki/Environmental_accounting#endnote_EA">[4]</a></sup></li>
+<li><b>Environmental management accounting</b> focuses on making internal business strategy decisions.  It can be defined as:</li></ul>
+<dl><dd>"<i>..the identification, collection, analysis, and use of two types of information for internal decision making:</i></dd>
+<dd>1) Physical information on the use, flows and fates of energy, water and materials (including wastes) and</dd>
+<dd>2) Monetary information on environmentally related costs, earnings and savings."<i><sup class="reference plainlinks nourlexpansion" id="ref_Jasch"><a class="external autonumber" href="//en.wikipedia.org/wiki/Environmental_accounting#endnote_Jasch">[5]</a></sup></i></dd></dl>
+<dl><dd>As part of an environmental management accounting project in the State of Victoria, Australia, four case studies were undertaken in 2002 involving a school (Methodist Ladies College, Perth), plastics manufacturing company (Cormack Manufacturing Pty Ltd, Sydney), provider of office services (a service division of AMP, Australia wide) and wool processing (GH Michell &amp; Sons Pty Ltd, Adelaide). Four major accounting professionals and firms were involved in the project; <a href="/wiki/KPMG" title="KPMG">KPMG</a> (Melbourne), <a class="mw-redirect" href="/wiki/Price_Waterhouse_Coopers" title="Price Waterhouse Coopers">Price Waterhouse Coopers</a> (Sydney), Professor Craig Deegan, <a href="/wiki/RMIT_University" title="RMIT University">RMIT University</a> (Melbourne) and BDO Consultants Pty Ltd (Perth). In February 2003, John Thwaites, The Victorian Minister for the Environment launched the report which summarised the results of the studies.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></dd></dl>
+<dl><dd>These studies were supported by the Department of Environment and Heritage of the <a class="mw-redirect" href="/wiki/Australian_Federal_Government" title="Australian Federal Government">Australian Federal Government</a>, and appear to have applied some of the principles outlined in the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> Division for Sustainable Development publication, <i>Environmental Management Accounting Procedures and Principles</i> (2001).</dd></dl>
+<ul><li><b>Environmental financial accounting</b> is used to provide information needed by external <a href="/wiki/Stakeholder_(corporate)" title="Stakeholder (corporate)">stakeholders</a> on a company’s financial performance.  This type of accounting allows companies to prepare financial reports for investors, lenders and other interested parties.<sup class="reference plainlinks nourlexpansion" id="ref_EPA"><a class="external autonumber" href="//en.wikipedia.org/wiki/Environmental_accounting#endnote_EPA">[6]</a></sup></li></ul>
+<h2><span class="mw-headline" id="Examples_of_software">Examples of software</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_accounting&amp;action=edit&amp;section=3" title="Edit section: Examples of software">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.ehsdata.com" rel="nofollow">EHS Data's Environmental and Sustainability Accounting and Management System</a></li>
+<li><a class="external text" href="http://www.emisoft.com" rel="nofollow">Emisoft's Total Environmental Accounting and Management System (TEAMS)</a></li>
+<li><a class="external text" href="https://www.nems.no" rel="nofollow">add energy's NEMS Accounter</a></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_accounting&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Emblem-money.svg"><img alt="icon" class="noviewer" data-file-height="48" data-file-width="48" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/28px-Emblem-money.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/42px-Emblem-money.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/56px-Emblem-money.svg.png 2x" width="28"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Business_and_economics" title="Portal:Business and economics">Business and economics portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="icon" class="noviewer thumbborder" data-file-height="4000" data-file-width="6000" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/32px-Earth_Day_Flag.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/64px-Earth_Day_Flag.png 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Ecology" title="Portal:Ecology">Ecology portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Aegopodium_podagraria1_ies.jpg"><img alt="icon" class="noviewer" data-file-height="700" data-file-width="800" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/64px-Aegopodium_podagraria1_ies.jpg 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></span></li></ul></div>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Anthropogenic_metabolism" title="Anthropogenic metabolism">Anthropogenic metabolism</a></li>
+<li><a href="/wiki/Carbon_accounting" title="Carbon accounting">Carbon accounting</a></li>
+<li><a href="/wiki/Defensive_expenditures" title="Defensive expenditures">Defensive expenditures</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecosystem_services" title="Ecosystem services">Ecosystem services</a></li>
+<li><a href="/wiki/Emergy" title="Emergy">Emergy synthesis</a></li>
+<li><a href="/wiki/Environmental_data" title="Environmental data">Environmental data</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Environmental_enterprise" title="Environmental enterprise">Environmental enterprise</a></li>
+<li><a href="/wiki/Environmental_finance" title="Environmental finance">Environmental finance</a></li>
+<li><a href="/wiki/Environmental_monitoring" title="Environmental monitoring">Environmental monitoring</a></li>
+<li><a href="/wiki/Environmental_management_system" title="Environmental management system">Environmental_management_system</a></li>
+<li><a href="/wiki/Environmental_pricing_reform" title="Environmental pricing reform">Environmental pricing reform</a></li>
+<li><a href="/wiki/Environmental_profit_and_loss_account" title="Environmental profit and loss account">Environmental profit and loss account</a></li>
+<li><a href="/wiki/Fiscal_environmentalism" title="Fiscal environmentalism">Fiscal environmentalism</a></li>
+<li><a class="mw-redirect" href="/wiki/Full_cost_accounting" title="Full cost accounting">Full cost accounting</a> (FCA)</li>
+<li><a href="/wiki/Greenhouse_gas_emissions_accounting" title="Greenhouse gas emissions accounting">Greenhouse gas emissions accounting</a></li>
+<li><a href="/wiki/Industrial_metabolism" title="Industrial metabolism">Industrial metabolism</a></li>
+<li><a href="/wiki/Material_flow_accounting" title="Material flow accounting">Material flow accounting</a></li>
+<li><a href="/wiki/Material_flow_analysis" title="Material flow analysis">Material flow analysis</a></li>
+<li><a href="/wiki/Monitoring_Certification_Scheme" title="Monitoring Certification Scheme">Monitoring Certification Scheme</a></li>
+<li><a href="/wiki/Social_metabolism" title="Social metabolism">Social metabolism</a></li>
+<li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a></li>
+<li><a href="/wiki/System_of_Integrated_Environmental_and_Economic_Accounting" title="System of Integrated Environmental and Economic Accounting">System of Integrated Environmental and Economic Accounting</a></li>
+<li><a href="/wiki/Urban_metabolism" title="Urban metabolism">Urban metabolism</a></li></ul></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_accounting&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_accounting&amp;action=edit&amp;section=6" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ol><li><span class="citation wikicite" id="endnote_UN1"><b><a href="#ref_UN1">^</a></b></span> <cite class="citation web"><a class="external text" href="http://unstats.un.org/unsd/envaccounting/seea2003.pdf" rel="nofollow">"Handbook of National Accounting: Integrated Environmental and Economic Accounting 2003"</a> <span class="cs1-format">(PDF)</span>. <i>United Nations, European Commission, International Monetary Fund, Organistation for Economic Co-operation and Development and World Bank</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=United+Nations%2C+European+Commission%2C+International+Monetary+Fund%2C+Organistation+for+Economic+Co-operation+and+Development+and+World+Bank&amp;rft.atitle=Handbook+of+National+Accounting%3A+Integrated+Environmental+and+Economic+Accounting+2003&amp;rft_id=http%3A%2F%2Funstats.un.org%2Funsd%2Fenvaccounting%2Fseea2003.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+accounting"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li>
+<li><span class="citation wikicite" id="endnote_EA"><b><a href="#ref_EA">^</a></b></span> <cite class="citation web"><a class="external text" href="https://web.archive.org/web/20060803104342/http://www.environment-agency.gov.uk/business/444251/444754/252614/250569/?version=1&amp;lang=_e" rel="nofollow">"Glossary of terminology and definitions"</a>. <i>Environmental Agency, UK</i>. Archived from <a class="external text" href="http://www.environment-agency.gov.uk/business/444251/444754/252614/250569/?version=1&amp;lang=_e" rel="nofollow">the original</a> on 2006-08-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-05-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Environmental+Agency%2C+UK&amp;rft.atitle=Glossary+of+terminology+and+definitions&amp;rft_id=http%3A%2F%2Fwww.environment-agency.gov.uk%2Fbusiness%2F444251%2F444754%2F252614%2F250569%2F%3Fversion%3D1%26lang%3D_e&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><span class="citation wikicite" id="endnote_EPA"><b><a href="#ref_EPA">^</a></b></span> <cite class="citation journal">Environmental Protection Agency (1995). "An introduction to environmental accounting as a business management tool: Key concepts and terms". <i>United States Environmental Protection Agency</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=United+States+Environmental+Protection+Agency&amp;rft.atitle=An+introduction+to+environmental+accounting+as+a+business+management+tool%3A+Key+concepts+and+terms&amp;rft.date=1995&amp;rft.au=Environmental+Protection+Agency&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><span class="citation wikicite" id="endnote_Jasch"><b><a href="#ref_Jasch">^</a></b></span> <cite class="citation journal">Jasch, C. (2006). "How to perform an environmental management cost assessment in one day". <i>Journal of Cleaner Production</i>. <b>14</b> (14): 1194–1213. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.jclepro.2005.08.005" rel="nofollow">10.1016/j.jclepro.2005.08.005</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Cleaner+Production&amp;rft.atitle=How+to+perform+an+environmental+management+cost+assessment+in+one+day&amp;rft.volume=14&amp;rft.issue=14&amp;rft.pages=1194-1213&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jclepro.2005.08.005&amp;rft.au=Jasch%2C+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><span class="citation wikicite" id="endnote_UN1"><b><a href="#ref_UN1">^</a></b></span> <cite class="citation web"><a class="external text" href="http://unstats.un.org/unsd/envaccounting/seea2003.pdf" rel="nofollow">"Handbook of National Accounting: Integrated Environmental and Economic Accounting 2003"</a> <span class="cs1-format">(PDF)</span>. <i>United Nations, European Commission, International Monetary Fund, Organistation for Economic Co-operation and Development and World Bank</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=United+Nations%2C+European+Commission%2C+International+Monetary+Fund%2C+Organistation+for+Economic+Co-operation+and+Development+and+World+Bank&amp;rft.atitle=Handbook+of+National+Accounting%3A+Integrated+Environmental+and+Economic+Accounting+2003&amp;rft_id=http%3A%2F%2Funstats.un.org%2Funsd%2Fenvaccounting%2Fseea2003.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><span class="citation wikicite" id="endnote_UN2"><b><a href="#ref_UN2">^</a></b></span> <cite class="citation web"><a class="external text" href="http://unstats.un.org/unsd/statcom/doc07/Analysis_SC.pdf" rel="nofollow">"Global Assessment of Environment Statistics and Environmental-Economic Accounting 2007"</a> <span class="cs1-format">(PDF)</span>. <i>United Nations</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=United+Nations&amp;rft.atitle=Global+Assessment+of+Environment+Statistics+and+Environmental-Economic+Accounting+2007&amp;rft_id=http%3A%2F%2Funstats.un.org%2Funsd%2Fstatcom%2Fdoc07%2FAnalysis_SC.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnvironmental+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ol>
+<h3><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_accounting&amp;action=edit&amp;section=7" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.epa.vic.gov.au/bus/accounting/docs/final_report.pdf" rel="nofollow">Environmental Management Accounting: An Introduction and Case Studies</a> (Adobe PDF file, 446KB)</span>
+</li>
+</ol></div></div>
+<h3><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_accounting&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Odum, H.T. (1996) Environmental Accounting: Emergy and Environmental Decision Making, Wiley, U.S.A.</li>
+<li>Tennenbaum, S.E. (1988) <i><a class="external text" href="https://web.archive.org/web/20070930190108/http://www.esnips.com/doc/ac5215f1-e91d-4c30-8648-2eee1f31488c/Network_Energy_Thesis.pdf" rel="nofollow">Network Energy Expenditures for Subsystem Production</a></i>, MS Thesis. Gainesville, FL: University of FL, 131 pp. (CFW-88-08)</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Environmental_accounting&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://unstats.un.org/unsd/envAccounting/default.htm" rel="nofollow">United Nations Environmental Accounting</a></li>
+<li><a class="external text" href="http://www.gistindia.org" rel="nofollow">Green Accounting for Indian States Project</a></li>
+<li><a class="external text" href="http://www.environmentalscience.org/degree/environmental-mba-degree" rel="nofollow">Environmental MBA Degree Info</a></li>
+<li><a class="external text" href="http://www.environmental-accounting.at" rel="nofollow">Environmental Accounting in Austria</a> (Information about environmental accounts, structure, methods, legal basis, scope and application)</li>
+<li><a class="external text" href="http://www.epa.vic.gov.au/bus/accounting/default.asp" rel="nofollow">Environmental Management Accounting (EMA) Project</a>, Victoria, Australia</li></ul>
+<div aria-labelledby="Social_and_environmental_accountability" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Social_accountability" title="Template:Social accountability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Social_accountability" title="Template talk:Social accountability"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Social_accountability&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Social_and_environmental_accountability" style="font-size:114%;margin:0 4em"><a href="/wiki/Social_accounting#Formal_accountability" title="Social accounting">Social</a> and <a class="mw-selflink selflink">environmental</a> <a href="/wiki/Accountability" title="Accountability">accountability</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Business_ethics" title="Business ethics">Ethics</a> and<br/>principles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aarhus_Convention" title="Aarhus Convention">Aarhus Convention</a></li>
+<li><a href="/wiki/Corporate_crime" title="Corporate crime">Corporate accountability</a> / <a href="/wiki/Corporate_behaviour" title="Corporate behaviour">behaviour</a> / <a href="/wiki/Corporate_social_responsibility" title="Corporate social responsibility">social responsibility</a></li>
+<li><a href="/wiki/Ethical_banking" title="Ethical banking">Ethical banking</a></li>
+<li><a href="/wiki/Ethical_code" title="Ethical code">Ethical code</a></li>
+<li><a href="/wiki/Extended_producer_responsibility" title="Extended producer responsibility">Extended producer responsibility</a></li>
+<li><a href="/wiki/Organizational_ethics" title="Organizational ethics">Organizational ethics</a></li>
+<li><a href="/wiki/Organizational_justice" title="Organizational justice">Organizational justice</a></li>
+<li><a href="/wiki/Principles_for_Responsible_Investment" title="Principles for Responsible Investment">Principles for Responsible Investment</a></li>
+<li><a href="/wiki/Social_responsibility" title="Social responsibility">Social responsibility</a></li>
+<li><a href="/wiki/Stakeholder_theory" title="Stakeholder theory">Stakeholder theory</a></li>
+<li><a href="/wiki/Sullivan_principles" title="Sullivan principles">Sullivan principles</a></li>
+<li><a href="/wiki/Transparency_(behavior)" title="Transparency (behavior)">Transparency (behavioral</a></li>
+<li><a href="/wiki/Transparency_(behavior)" title="Transparency (behavior)">social)</a></li>
+<li><a href="/wiki/United_Nations_Global_Compact" title="United Nations Global Compact">UN Global Compact</a></li></ul>
+</div></td><td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px"><div><a class="image" href="/wiki/File:OilCleanupAfterValdezSpill.jpg" title="Clean up after the Exxon Valdez oil spill"><img alt="Clean up after the Exxon Valdez oil spill" data-file-height="259" data-file-width="400" height="81" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/OilCleanupAfterValdezSpill.jpg/125px-OilCleanupAfterValdezSpill.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/OilCleanupAfterValdezSpill.jpg/188px-OilCleanupAfterValdezSpill.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/OilCleanupAfterValdezSpill.jpg/250px-OilCleanupAfterValdezSpill.jpg 2x" width="125"/></a></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Social_accounting" title="Social accounting">Social<br/>accounting</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Double_bottom_line" title="Double bottom line">Double bottom line</a></li>
+<li><a href="/wiki/Ethical_positioning_index" title="Ethical positioning index">Ethical positioning index</a></li>
+<li><a href="/wiki/Higg_Index" title="Higg Index">Higg Index</a></li>
+<li><a href="/wiki/Impact_assessment" title="Impact assessment">Impact assessment</a> (<a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">environmental</a></li>
+<li><a href="/wiki/Equality_impact_assessment" title="Equality impact assessment">equality</a></li>
+<li><a href="/wiki/Social_impact_assessment" title="Social impact assessment">social</a>)</li>
+<li><a href="/wiki/ISO_26000" title="ISO 26000">ISO 26000</a></li>
+<li><a href="/wiki/ISO_45001" title="ISO 45001">ISO 45001</a></li>
+<li><a href="/wiki/Genuine_progress_indicator" title="Genuine progress indicator">Genuine progress indicator</a></li>
+<li><a href="/wiki/Performance_indicator" title="Performance indicator">Performance indicator</a></li>
+<li><a href="/wiki/SA8000" title="SA8000">SA8000</a></li>
+<li><a href="/wiki/Social_return_on_investment" title="Social return on investment">Social return on investment</a></li>
+<li><a href="/wiki/Whole-life_cost" title="Whole-life cost">Whole-life cost</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-selflink selflink">Environmental<br/>accounting</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_accounting" title="Carbon accounting">Carbon accounting</a></li>
+<li><a href="/wiki/Eco-Management_and_Audit_Scheme" title="Eco-Management and Audit Scheme">Eco-Management and Audit Scheme</a></li>
+<li><a href="/wiki/Emission_inventory" title="Emission inventory">Emission inventory</a></li>
+<li><a href="/wiki/Environmental_full-cost_accounting" title="Environmental full-cost accounting">Environmental full-cost accounting</a> / <a href="/wiki/Environmental_impact_assessment" title="Environmental impact assessment">impact assessment</a> / <a href="/wiki/Environmental_management_system" title="Environmental management system">management system</a> / <a href="/wiki/Environmental_profit_and_loss_account" title="Environmental profit and loss account">profit-and-loss account</a></li>
+<li><a href="/wiki/ISO_14000" title="ISO 14000">ISO 14000</a></li>
+<li><a href="/wiki/ISO_14031" title="ISO 14031">ISO 14031</a></li>
+<li><a href="/wiki/Life-cycle_assessment" title="Life-cycle assessment">Life-cycle assessment</a></li>
+<li><a href="/wiki/Pollutant_release_and_transfer_register" title="Pollutant release and transfer register">Pollutant release and transfer register</a></li>
+<li><a href="/wiki/Sustainability_accounting" title="Sustainability accounting">Sustainability accounting</a> / <a href="/wiki/Sustainability_measurement" title="Sustainability measurement">measurement</a> / <a href="/wiki/Sustainability_metrics_and_indices" title="Sustainability metrics and indices">metrics and indices</a> / <a href="/wiki/Sustainability_standards_and_certification" title="Sustainability standards and certification">standards and certification</a> / <a href="/wiki/Supply_chain_sustainability" title="Supply chain sustainability">supply chain</a></li>
+<li><a href="/wiki/Toxics_Release_Inventory" title="Toxics Release Inventory">Toxics Release Inventory</a></li>
+<li><a href="/wiki/Triple_bottom_line" title="Triple bottom line">Triple bottom line</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Reporting</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Global_Reporting_Initiative" title="Global Reporting Initiative">Global Reporting Initiative</a></li>
+<li><a href="/wiki/GxP" title="GxP">GxP guidelines</a></li>
+<li><a href="/wiki/Sustainability_reporting" title="Sustainability reporting">Sustainability reporting</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Audit" title="Audit">Auditing</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Community-based_monitoring" title="Community-based monitoring">Community-based monitoring</a></li>
+<li><a href="/wiki/Environmental_audit" title="Environmental audit">Environmental</a> (<a href="/wiki/Environmental_certification" title="Environmental certification">certification</a>)</li>
+<li><a href="/wiki/Fair_trade" title="Fair trade">Fair trade</a> (<a href="/wiki/Fair_trade_certification" title="Fair trade certification">certification</a>)</li>
+<li><a href="/wiki/ISO_19011" title="ISO 19011">ISO 19011</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Accord_on_Fire_and_Building_Safety_in_Bangladesh" title="Accord on Fire and Building Safety in Bangladesh">Bangladesh Accord</a></li>
+<li><a href="/wiki/Benefit_corporation" title="Benefit corporation">Benefit corporation</a></li>
+<li><a href="/wiki/Child_labour" title="Child labour">Child labour</a></li>
+<li><a href="/wiki/Community_interest_company" title="Community interest company">Community interest company</a></li>
+<li><a href="/wiki/Conflict_of_interest" title="Conflict of interest">Conflict of interest</a></li>
+<li><a href="/wiki/Disaster" title="Disaster">Disasters</a></li>
+<li><a href="/wiki/Disinvestment" title="Disinvestment">Disinvestment</a></li>
+<li><a href="/wiki/Ecolabel" title="Ecolabel">Eco-labeling</a></li>
+<li><a href="/wiki/Environmental_pricing_reform" title="Environmental pricing reform">Environmental pricing reform</a></li>
+<li><a href="/wiki/Environmental,_social_and_corporate_governance" title="Environmental, social and corporate governance">Environmental, social and corporate governance</a></li>
+<li><a href="/wiki/Ethical_consumerism" title="Ethical consumerism">Ethical consumerism</a></li>
+<li><a href="/wiki/Euthenics" title="Euthenics">Euthenics</a></li>
+<li><a href="/wiki/Health_impact_assessment" title="Health impact assessment">Health impact assessment</a></li>
+<li><a href="/wiki/Market_governance_mechanism" title="Market governance mechanism">Market governance mechanism</a></li>
+<li><a href="/wiki/Product_certification" title="Product certification">Product certification</a></li>
+<li><a href="/wiki/Public_participation" title="Public participation">Public participation</a></li>
+<li><a href="/wiki/Social_enterprise" title="Social enterprise">Social enterprise</a></li>
+<li><a href="/wiki/Socially_responsible_investing" title="Socially responsible investing">Socially responsible investing</a></li>
+<li><a href="/wiki/Stakeholder_(corporate)" title="Stakeholder (corporate)">Stakeholder</a> (<a href="/wiki/Stakeholder_engagement" title="Stakeholder engagement">engagement</a>)</li>
+<li><a href="/wiki/Supply_chain_management" title="Supply chain management">Supply chain management</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Social_responsibility" title="Category:Social responsibility">Category</a></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Social_accountability" title="commons:Category:Social accountability">Commons</a></b></li>
+<li><a href="/wiki/Category:Social_responsibility_organizations" title="Category:Social responsibility organizations">Organizations</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1331
+Cached time: 20181010180602
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.200 seconds
+Real time usage: 0.267 seconds
+Preprocessor visited node count: 670/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38428/2097152 bytes
+Template argument size: 3577/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 9788/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.106/10.000 seconds
+Lua memory usage: 2.63 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  202.884      1 -total
+ 36.93%   74.927      4 Template:Cite_web
+ 16.38%   33.240      2 Template:Cite_journal
+ 14.23%   28.864      1 Template:Social_accountability
+ 13.78%   27.953      1 Template:Portal
+ 12.65%   25.664      1 Template:Navbox
+  8.82%   17.892      1 Template:Columns-list
+  6.70%   13.595      1 Template:Div_col
+  5.19%   10.532      3 Template:Icon
+  4.70%    9.540      6 Template:Ref
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3243884-0!canonical and timestamp 20181010180601 and revision id 851000195
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Environmental_accounting&amp;oldid=851000195">https://en.wikipedia.org/w/index.php?title=Environmental_accounting&amp;oldid=851000195</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Environmental_economics" title="Category:Environmental economics">Environmental economics</a></li><li><a href="/wiki/Category:Sustainability_metrics_and_indices" title="Category:Sustainability metrics and indices">Sustainability metrics and indices</a></li><li><a href="/wiki/Category:Types_of_accounting" title="Category:Types of accounting">Types of accounting</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Environmental+accounting" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Environmental+accounting" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Environmental_accounting" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Environmental_accounting" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Environmental_accounting">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Environmental_accounting&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Environmental_accounting&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Environmental_accounting" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Environmental_accounting" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Environmental_accounting&amp;oldid=851000195" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Environmental_accounting&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q12366845" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Environmental_accounting&amp;id=851000195" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Environmental+accounting">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Environmental+accounting&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Environmental_accounting&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Keskkonnaarvestus" hreflang="et" lang="et" title="Keskkonnaarvestus – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Contabilidad_medioambiental" hreflang="es" lang="es" title="Contabilidad medioambiental – Spanish">Español</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E4%BC%9A%E8%A8%88" hreflang="ja" lang="ja" title="環境会計 – Japanese">日本語</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q12366845#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 19 July 2018, at 11:51<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Environmental_accounting&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.200","walltime":"0.267","ppvisitednodes":{"value":670,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38428,"limit":2097152},"templateargumentsize":{"value":3577,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":9788,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  202.884      1 -total"," 36.93%   74.927      4 Template:Cite_web"," 16.38%   33.240      2 Template:Cite_journal"," 14.23%   28.864      1 Template:Social_accountability"," 13.78%   27.953      1 Template:Portal"," 12.65%   25.664      1 Template:Navbox","  8.82%   17.892      1 Template:Columns-list","  6.70%   13.595      1 Template:Div_col","  5.19%   10.532      3 Template:Icon","  4.70%    9.540      6 Template:Ref"]},"scribunto":{"limitreport-timeusage":{"value":"0.106","limit":"10.000"},"limitreport-memusage":{"value":2756836,"limit":52428800}},"cachereport":{"origin":"mw1331","timestamp":"20181010180602","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1248"});});</script>
+</body>
+</html>

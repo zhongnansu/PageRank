@@ -1,0 +1,756 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Infrared spectroscopy - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Infrared_spectroscopy","wgTitle":"Infrared spectroscopy","wgCurRevisionId":848160003,"wgRevisionId":848160003,"wgArticleId":15412,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Infrared spectroscopy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Infrared_spectroscopy","wgRelevantArticleId":15412,"wgRequestId":"W7dgSgrAID8AAGAVflEAAAAO","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q70906","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Osiris-Rex_Ovirs_gsfc_20150619_2015-12655_019-023.jpg/1200px-Osiris-Rex_Ovirs_gsfc_20150619_2015-12655_019-023.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Infrared_spectroscopy" rel="alternate"/>
+<link href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Infrared_spectroscopy" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Infrared_spectroscopy rootpage-Infrared_spectroscopy skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Infrared spectroscopy</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For a table of IR spectroscopy data, see <a href="/wiki/Infrared_spectroscopy_correlation_table" title="Infrared spectroscopy correlation table">infrared spectroscopy correlation table</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Osiris-Rex_Ovirs_gsfc_20150619_2015-12655_019-023.jpg"><img alt="" class="thumbimage" data-file-height="2550" data-file-width="3300" height="170" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Osiris-Rex_Ovirs_gsfc_20150619_2015-12655_019-023.jpg/220px-Osiris-Rex_Ovirs_gsfc_20150619_2015-12655_019-023.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Osiris-Rex_Ovirs_gsfc_20150619_2015-12655_019-023.jpg/330px-Osiris-Rex_Ovirs_gsfc_20150619_2015-12655_019-023.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Osiris-Rex_Ovirs_gsfc_20150619_2015-12655_019-023.jpg/440px-Osiris-Rex_Ovirs_gsfc_20150619_2015-12655_019-023.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Osiris-Rex_Ovirs_gsfc_20150619_2015-12655_019-023.jpg" title="Enlarge"></a></div>OVIRS instrument of the Osiris-REx probe is a visible and infrared spectrometer</div></div></div>
+<p><b>Infrared spectroscopy</b> (<b>IR spectroscopy</b> or <b>vibrational spectroscopy</b>) involves the interaction of <a href="/wiki/Infrared" title="Infrared">infrared</a> radiation with <a href="/wiki/Matter" title="Matter">matter</a>. It covers a range of techniques, mostly based on <a href="/wiki/Absorption_spectroscopy" title="Absorption spectroscopy">absorption spectroscopy</a>. As with all spectroscopic techniques, it can be used to identify and study <a class="mw-redirect" href="/wiki/Chemical" title="Chemical">chemicals</a>. Samples may be solid, liquid, or gas. The method or technique of infrared spectroscopy is conducted with an instrument called an <b>infrared spectrometer</b> (or spectrophotometer) to produce an <b>infrared spectrum</b>.  An IR spectrum can be visualized in a graph of infrared light <a href="/wiki/Absorbance" title="Absorbance">absorbance</a> (or <a href="/wiki/Transmittance" title="Transmittance">transmittance</a>) on the vertical axis vs. frequency or wavelength on the horizontal axis. Typical <a class="mw-redirect" href="/wiki/Units_of_measurement" title="Units of measurement">units</a> of frequency used in IR spectra are <a class="mw-redirect" href="/wiki/Reciprocal_centimeters" title="Reciprocal centimeters">reciprocal centimeters</a> (sometimes called <a class="mw-redirect" href="/wiki/Wave_number" title="Wave number">wave numbers</a>), with the symbol cm<sup>−1</sup>. Units of IR wavelength are commonly given in <a href="/wiki/Micrometre" title="Micrometre">micrometers</a> (formerly called "microns"), symbol μm, which are related to wave numbers in a <a href="/wiki/Multiplicative_inverse" title="Multiplicative inverse">reciprocal</a> way. A common laboratory instrument that uses this technique is a <a class="mw-redirect" href="/wiki/Fourier_transform_infrared_spectroscopy" title="Fourier transform infrared spectroscopy">Fourier transform infrared</a> (FTIR) <a href="/wiki/Spectrometer" title="Spectrometer">spectrometer</a>. Two-dimensional IR is also possible as discussed <a href="/wiki/Infrared_spectroscopy#Two-dimensional_IR" title="Infrared spectroscopy">below</a>.
+</p><p>The infrared portion of the <a href="/wiki/Electromagnetic_spectrum" title="Electromagnetic spectrum">electromagnetic spectrum</a> is usually divided into three regions; the <a href="/wiki/Near-infrared_spectroscopy" title="Near-infrared spectroscopy">near-</a>, mid- and far- infrared, named for their relation to the visible spectrum. The higher-energy near-IR, approximately 14000–4000 cm<sup>−1</sup> (0.8–2.5 μm wavelength) can excite <a class="mw-redirect" href="/wiki/Overtones" title="Overtones">overtone</a> or <a href="/wiki/Harmonic_(mathematics)" title="Harmonic (mathematics)">harmonic</a> vibrations. The mid-infrared, approximately 4000–400 cm<sup>−1</sup> (2.5–25 μm) may be used to study the fundamental vibrations and associated <a class="mw-redirect" href="/wiki/Rotational-vibrational_spectroscopy" title="Rotational-vibrational spectroscopy">rotational-vibrational</a> structure. The far-infrared, approximately 400–10 cm<sup>−1</sup> (25–1000 μm), lying adjacent to the <a href="/wiki/Microwave" title="Microwave">microwave</a> region, has low energy and may be used for <a href="/wiki/Rotational_spectroscopy" title="Rotational spectroscopy">rotational spectroscopy</a>. The names and classifications of these subregions are conventions, and are only loosely based on the relative molecular or electromagnetic properties.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Theory"><span class="tocnumber">1</span> <span class="toctext">Theory</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Number_of_vibrational_modes"><span class="tocnumber">1.1</span> <span class="toctext">Number of vibrational modes</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Special_effects"><span class="tocnumber">1.2</span> <span class="toctext">Special effects</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Practical_IR_spectroscopy"><span class="tocnumber">2</span> <span class="toctext">Practical IR spectroscopy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Sample_preparation"><span class="tocnumber">2.1</span> <span class="toctext">Sample preparation</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Comparing_to_a_reference"><span class="tocnumber">2.2</span> <span class="toctext">Comparing to a reference</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#FTIR"><span class="tocnumber">2.3</span> <span class="toctext">FTIR</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Absorption_bands"><span class="tocnumber">3</span> <span class="toctext">Absorption bands</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Regions"><span class="tocnumber">3.1</span> <span class="toctext">Regions</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Badger's_rule"><span class="tocnumber">3.2</span> <span class="toctext">Badger's rule</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Uses_and_applications"><span class="tocnumber">4</span> <span class="toctext">Uses and applications</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Isotope_effects"><span class="tocnumber">5</span> <span class="toctext">Isotope effects</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Two-dimensional_IR"><span class="tocnumber">6</span> <span class="toctext">Two-dimensional IR</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Theory">Theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit&amp;section=1" title="Edit section: Theory">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:352px;"><a class="image" href="/wiki/File:Bromomethane_IR_spectroscopy.svg"><img alt="" class="thumbimage" data-file-height="384" data-file-width="512" height="263" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bromomethane_IR_spectroscopy.svg/350px-Bromomethane_IR_spectroscopy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bromomethane_IR_spectroscopy.svg/525px-Bromomethane_IR_spectroscopy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bromomethane_IR_spectroscopy.svg/700px-Bromomethane_IR_spectroscopy.svg.png 2x" width="350"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Bromomethane_IR_spectroscopy.svg" title="Enlarge"></a></div>Sample of an IR spec. reading; this one is from <a href="/wiki/Bromomethane" title="Bromomethane">bromomethane</a> (CH<sub>3</sub>Br), showing peaks around 3000, 1300, and 1000 cm<sup>−1</sup> (on the horizontal axis).</div></div></div>
+<p>Infrared spectroscopy exploits the fact that molecules absorb frequencies that are characteristic of their <a href="/wiki/Chemical_structure" title="Chemical structure">structure</a>. These absorptions occur at <a class="mw-redirect" href="/wiki/Resonant_frequency" title="Resonant frequency">resonant frequencies</a>, i.e. the frequency of the absorbed radiation matches the vibrational frequency.  The energies are affected by the shape of the molecular <a href="/wiki/Potential_energy_surface" title="Potential energy surface">potential energy surfaces</a>, the masses of the atoms, and the associated <a href="/wiki/Vibronic_coupling" title="Vibronic coupling">vibronic coupling</a>.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:293px;"><a class="image" href="/wiki/File:Bromomethane.gif"><img alt="" class="thumbimage" data-file-height="258" data-file-width="291" height="258" src="//upload.wikimedia.org/wikipedia/commons/f/f5/Bromomethane.gif" width="291"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Bromomethane.gif" title="Enlarge"></a></div>3D animation of the symmetric stretching of the C–H bonds of <a href="/wiki/Bromomethane" title="Bromomethane">bromomethane</a></div></div></div><p> In particular, in the <a href="/wiki/Born%E2%80%93Oppenheimer_approximation" title="Born–Oppenheimer approximation">Born–Oppenheimer</a> and harmonic approximations, i.e. when the <a href="/wiki/Molecular_Hamiltonian" title="Molecular Hamiltonian">molecular Hamiltonian</a> corresponding to the electronic <a href="/wiki/Ground_state" title="Ground state">ground state</a> can be approximated by a <a href="/wiki/Quantum_harmonic_oscillator" title="Quantum harmonic oscillator">harmonic oscillator</a> in the neighborhood of the equilibrium <a href="/wiki/Molecular_geometry" title="Molecular geometry">molecular geometry</a>, the resonant frequencies are associated with the <a class="mw-redirect" href="/wiki/Normal_modes" title="Normal modes">normal modes</a> corresponding to the molecular electronic ground state potential energy surface. The resonant frequencies are also related to the strength of the bond and the <a href="/wiki/Atomic_mass" title="Atomic mass">mass of the atoms</a> at either end of it. Thus, the frequency of the vibrations are associated with a particular normal mode of motion and a particular bond type.
+</p><h3><span class="mw-headline" id="Number_of_vibrational_modes">Number of vibrational modes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit&amp;section=2" title="Edit section: Number of vibrational modes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In order for a vibrational mode in a sample to be "IR active", it must be associated with changes in the dipole moment. A permanent dipole is not necessary, as the rule requires only a change in dipole moment.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p><p>A molecule can vibrate in many ways, and each way is called a <i>vibrational mode.</i>  For molecules with N number of atoms, linear molecules have 3N – 5 degrees of vibrational modes, whereas nonlinear molecules have 3N – 6 degrees of vibrational modes (also called vibrational degrees of freedom). As an example <a class="mw-redirect" href="/wiki/Water_(molecule)" title="Water (molecule)">H<sub>2</sub>O</a>, a non-linear molecule, will have 3 × 3 – 6 = 3 degrees of vibrational freedom, or modes.
+</p><p>Simple <a href="/wiki/Diatomic_molecule" title="Diatomic molecule">diatomic molecules</a> have only one bond and only one vibrational band. If the molecule is symmetrical, e.g. N<sub>2</sub>, the band is not observed in the IR spectrum, but only in the <a class="mw-redirect" href="/wiki/Raman_spectrum" title="Raman spectrum">Raman spectrum</a>.  Asymmetrical diatomic molecules, e.g. <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">CO</a>, absorb in the IR spectrum. More complex molecules have many bonds, and their vibrational spectra are correspondingly more complex, i.e. big molecules have many peaks in their IR spectra.
+</p><p>The atoms in a CH<sub>2</sub>X<sub>2</sub> group, commonly found in <a href="/wiki/Organic_compound" title="Organic compound">organic compounds</a> and where X can represent any other atom, can vibrate in nine different ways. Six of these vibrations involve only the <a href="/wiki/Methylene_group" title="Methylene group">CH<sub>2</sub></a> portion: <b>symmetric and antisymmetric stretching</b>, <b>scissoring</b>, <b>rocking</b>, <b>wagging</b> and <b>twisting</b>, as shown below. Structures that do not have the two additional X groups attached have fewer modes because some modes are defined by specific relationships to those other attached groups. For example, in water, the rocking, wagging, and twisting modes do not exist because these types of motions of the H represent simple rotation of the whole molecule rather than vibrations within it.
+</p>
+<div style="clear:both;"></div>
+<table class="wikitable">
+<tbody><tr>
+<th style="background:linear-gradient(to top right,#eaecf0 49.5%,#aaa 49.5%,#aaa 50.5%,#eaecf0 50.5%);line-height:1;"><div style="margin-left:2em;text-align:right;">Symmetry</div><div style="margin-right:2em;text-align:left;"><br/>Direction</div>
+</th>
+<th>Symmetric
+</th>
+<th>Antisymmetric
+</th></tr>
+<tr style="text-align: center;">
+<th>Radial
+</th>
+<td><a class="image" href="/wiki/File:Symmetrical_stretching.gif"><img alt="Symmetrical stretching.gif" data-file-height="150" data-file-width="210" height="150" src="//upload.wikimedia.org/wikipedia/commons/0/0e/Symmetrical_stretching.gif" width="210"/></a><br/>Symmetric stretching
+</td>
+<td><a class="image" href="/wiki/File:Asymmetrical_stretching.gif"><img alt="Asymmetrical stretching.gif" data-file-height="150" data-file-width="210" height="150" src="//upload.wikimedia.org/wikipedia/commons/0/0c/Asymmetrical_stretching.gif" width="210"/></a><br/>Antisymmetric stretching
+</td></tr>
+<tr style="text-align: center;">
+<th>Latitudinal
+</th>
+<td><a class="image" href="/wiki/File:Scissoring.gif"><img alt="Scissoring.gif" data-file-height="150" data-file-width="210" height="150" src="//upload.wikimedia.org/wikipedia/commons/6/60/Scissoring.gif" width="210"/></a><br/>Scissoring
+</td>
+<td><a class="image" href="/wiki/File:Modo_rotacao.gif"><img alt="Modo rotacao.gif" data-file-height="150" data-file-width="210" height="150" src="//upload.wikimedia.org/wikipedia/commons/1/14/Modo_rotacao.gif" width="210"/></a><br/>Rocking
+</td></tr>
+<tr style="text-align: center;">
+<th>Longitudal
+</th>
+<td><a class="image" href="/wiki/File:Wagging.gif"><img alt="Wagging.gif" data-file-height="150" data-file-width="210" height="150" src="//upload.wikimedia.org/wikipedia/commons/8/84/Wagging.gif" width="210"/></a><br/>Wagging
+</td>
+<td><a class="image" href="/wiki/File:Twisting.gif"><img alt="Twisting.gif" data-file-height="150" data-file-width="210" height="150" src="//upload.wikimedia.org/wikipedia/commons/4/40/Twisting.gif" width="210"/></a><br/>Twisting
+</td></tr></tbody></table>
+<p>These figures do not represent the "<a href="/wiki/Recoil" title="Recoil">recoil</a>" of the <a href="/wiki/Carbon" title="Carbon">C</a> atoms, which, though necessarily present to balance the overall movements of the molecule, are much smaller than the movements of the lighter <a href="/wiki/Hydrogen" title="Hydrogen">H</a> atoms.
+</p>
+<h3><span class="mw-headline" id="Special_effects">Special effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit&amp;section=3" title="Edit section: Special effects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The simplest and most important or <i>fundamental</i> IR bands arise from the excitations of normal modes, the simplest distortions of the molecule, from the <a href="/wiki/Ground_state" title="Ground state">ground state</a> with <a href="/wiki/Molecular_vibration#Quantum_mechanics" title="Molecular vibration">vibrational quantum number</a> v = 0 to the first <a href="/wiki/Excited_state" title="Excited state">excited state</a> with vibrational quantum number v = 1. In some cases, <a href="/wiki/Overtone_band" title="Overtone band">overtone bands</a> are observed. An overtone band arises from the absorption of a photon leading to a direct transition from the ground state to the second excited vibrational state (v = 2). Such a band appears at approximately twice the energy of the fundamental band for the same normal mode. Some excitations, so-called <i>combination modes</i>, involve simultaneous excitation of more than one normal mode. The phenomenon of <a href="/wiki/Fermi_resonance" title="Fermi resonance">Fermi resonance</a> can arise when two modes are similar in energy; Fermi resonance results in an unexpected shift in energy and intensity of the bands etc.
+</p>
+<h2><span class="mw-headline" id="Practical_IR_spectroscopy">Practical IR spectroscopy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit&amp;section=4" title="Edit section: Practical IR spectroscopy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The infrared spectrum of a sample is recorded by passing a beam of infrared light through the sample. When the frequency of the IR is the same as the vibrational frequency of a bond or collection of bonds, absorption occurs. Examination of the transmitted light reveals how much energy was absorbed at each frequency (or wavelength). This measurement can be achieved by scanning the wavelength range using a <a href="/wiki/Monochromator" title="Monochromator">monochromator</a>. Alternatively, the entire wavelength range is measured  using a <a href="/wiki/Fourier_transform" title="Fourier transform">Fourier transform</a> instrument and then a <a href="/wiki/Transmittance" title="Transmittance">transmittance</a> or <a href="/wiki/Absorbance" title="Absorbance">absorbance</a> spectrum is generated using a dedicated procedure.
+</p><p>This technique is commonly used for analyzing samples with <a href="/wiki/Covalent_bond" title="Covalent bond">covalent bonds</a>. Simple spectra are obtained from samples with few IR active bonds and high levels of purity. More complex molecular structures lead to more absorption bands and more complex spectra.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:SolnIRcell.jpg"><img alt="" class="thumbimage" data-file-height="985" data-file-width="971" height="223" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SolnIRcell.jpg/220px-SolnIRcell.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SolnIRcell.jpg/330px-SolnIRcell.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SolnIRcell.jpg/440px-SolnIRcell.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:SolnIRcell.jpg" title="Enlarge"></a></div>Typical IR solution cell. The windows are CaF<sub>2</sub>.</div></div></div>
+<h3><span class="mw-headline" id="Sample_preparation">Sample preparation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit&amp;section=5" title="Edit section: Sample preparation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Gaseous samples require a sample cell with a long <a class="mw-redirect" href="/wiki/Pathlength" title="Pathlength">pathlength</a> to compensate for the diluteness. The pathlength of the sample cell depends on the concentration of the compound of interest. A simple glass tube with length of 5 to 10 cm equipped with infrared-transparent windows at the both ends of the tube can be used for concentrations down to several hundred ppm. Sample gas concentrations well below ppm can be measured with a  <a class="mw-redirect" href="/wiki/White_cell_(spectroscopy)" title="White cell (spectroscopy)">White's cell</a> in which the infrared light is guided with mirrors to travel through the gas. White's cells are available with optical pathlength starting from 0.5 m up to hundred meters.
+</p><p>Liquid samples can be sandwiched between two plates of a salt (commonly <a href="/wiki/Sodium_chloride" title="Sodium chloride">sodium chloride</a>, or common salt, although a number of other salts such as <a href="/wiki/Potassium_bromide" title="Potassium bromide">potassium bromide</a> or <a href="/wiki/Calcium_fluoride" title="Calcium fluoride">calcium fluoride</a> are also used).<sup class="reference" id="cite_ref-Har_2-0"><a href="#cite_note-Har-2">[2]</a></sup>
+The plates are transparent to the infrared light and do not introduce any lines onto the spectra.
+</p><p>Solid samples can be prepared in a variety of ways. One common method is to crush the sample with an oily mulling agent (usually mineral oil <a href="/wiki/Nujol" title="Nujol">Nujol</a>). A thin film of the mull is applied onto salt plates and measured. The second method is to grind a quantity of the sample with a specially purified salt (usually <a href="/wiki/Potassium_bromide" title="Potassium bromide">potassium bromide</a>) finely (to remove scattering effects from large crystals). This powder mixture is then pressed in a mechanical <a href="/wiki/Machine_press" title="Machine press">press</a> to form a translucent pellet through which the beam of the spectrometer can pass.<sup class="reference" id="cite_ref-Har_2-1"><a href="#cite_note-Har-2">[2]</a></sup>  A third technique is the "cast film" technique, which is used mainly for polymeric materials. The sample is first dissolved in a suitable, non hygroscopic solvent. A drop of this solution is deposited on surface of KBr or NaCl cell. The solution is then evaporated to dryness and the film formed on the cell is analysed directly. Care is important to ensure that the film is not too thick otherwise light cannot pass through. This technique is suitable for qualitative analysis. The final method is to use <a class="mw-redirect" href="/wiki/Microtomy" title="Microtomy">microtomy</a> to cut a thin (20–100 µm) film from a solid sample. This is one of the most important ways of analysing failed plastic products for example because the integrity of the solid is preserved.
+</p><p>In <a href="/wiki/Photoacoustic_spectroscopy" title="Photoacoustic spectroscopy">photoacoustic spectroscopy</a> the need for sample treatment is minimal. The sample, liquid or solid, is placed into the sample cup which is inserted into the photoacoustic cell which is then sealed for the measurement. The sample may be one solid piece, powder or basically in any form for the measurement. For example, a piece of rock can be inserted into the sample cup and the spectrum measured from it.
+</p>
+<h3><span class="mw-headline" id="Comparing_to_a_reference">Comparing to a reference</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit&amp;section=6" title="Edit section: Comparing to a reference">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:IR_spectroscopy_apparatus.svg"><img alt="" class="thumbimage" data-file-height="304" data-file-width="660" height="184" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/IR_spectroscopy_apparatus.svg/400px-IR_spectroscopy_apparatus.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/IR_spectroscopy_apparatus.svg/600px-IR_spectroscopy_apparatus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/IR_spectroscopy_apparatus.svg/800px-IR_spectroscopy_apparatus.svg.png 2x" width="400"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:IR_spectroscopy_apparatus.svg" title="Enlarge"></a></div>Schematics of a two-beam absorption spectrometer. A beam of infrared light is produced, passed through an <a class="mw-redirect" href="/wiki/Interferometer" title="Interferometer">interferometer</a> (not shown), and then split into two separate beams. One is passed through the sample, the other passed through a reference. The beams are both reflected back towards a detector, however first they pass through a splitter, which quickly alternates which of the two beams enters the detector. The two signals are then compared and a printout is obtained. This "two-beam" setup gives accurate spectra even if the intensity of the light source drifts over time.</div></div></div>
+<p>It is typical to record spectrum of both the sample and a "reference". This step controls for a number of variables, e.g. <a href="/wiki/Infrared_detector" title="Infrared detector">infrared detector</a>, which may affect the spectrum. The reference measurement makes it possible to eliminate the instrument influence.
+</p><p>The appropriate "reference" depends on the measurement and its goal. The simplest reference measurement is to simply remove the sample (replacing it by air). However, sometimes a different reference is more useful. For example, if the sample is a dilute solute dissolved in water in a beaker, then a good reference measurement might be to measure pure water in the same beaker. Then the reference measurement would cancel out not only all the instrumental properties (like what light source is used), but also the light-absorbing and light-reflecting properties of the water and beaker, and the final result would just show the properties of the solute (at least approximately).
+</p><p>A common way to compare to a reference is sequentially: first measure the reference, then replace the reference by the sample and measure the sample. This technique is not perfectly reliable; if the infrared lamp is a bit brighter during the reference measurement, then a bit dimmer during the sample measurement, the measurement will be distorted. More elaborate methods, such as a "two-beam" setup (see figure), can correct for these types of effects to give very accurate results. The <a href="/wiki/Standard_addition" title="Standard addition">Standard addition</a> method can be used to statistically cancel these errors.
+</p><p>Nevertheless, among different absorption based techniques which are used for gaseous species detection, <a href="/wiki/Cavity_ring-down_spectroscopy" title="Cavity ring-down spectroscopy">Cavity ring-down spectroscopy</a> (CRDS) can be used as a calibration free method. The fact that CRDS is based on the measurements of photon life-times (and not the laser intensity) makes it needless for any calibration and comparison with a reference <sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<h3><span class="mw-headline" id="FTIR">FTIR</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit&amp;section=7" title="Edit section: FTIR">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a class="mw-redirect" href="/wiki/Fourier_transform_infrared_spectroscopy" title="Fourier transform infrared spectroscopy">Fourier transform infrared spectroscopy</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:FTIR-interferogram.svg"><img alt="" class="thumbimage" data-file-height="720" data-file-width="969" height="163" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FTIR-interferogram.svg/220px-FTIR-interferogram.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FTIR-interferogram.svg/330px-FTIR-interferogram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FTIR-interferogram.svg/440px-FTIR-interferogram.svg.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:FTIR-interferogram.svg" title="Enlarge"></a></div>An interferogram from an <a class="mw-redirect" href="/wiki/FTIR" title="FTIR">FTIR</a> measurement. The horizontal axis is the position of the mirror, and the vertical axis is the amount of light detected. This is the "raw data" which can be <a href="/wiki/Fourier_transform" title="Fourier transform">Fourier transformed</a> to get the actual spectrum.</div></div></div>
+<p><b><a href="/wiki/Fourier_transform" title="Fourier transform">Fourier transform</a> infrared (FTIR) spectroscopy</b> is a measurement technique that allows one to record infrared spectra.  Infrared light is guided through an <a class="mw-redirect" href="/wiki/Interferometer" title="Interferometer">interferometer</a> and then through the sample (or vice versa).  A moving mirror inside the apparatus alters the distribution of infrared light that passes through the interferometer. The signal directly recorded, called an  "interferogram", represents light output as a function of mirror position. A data-processing technique called <a href="/wiki/Fourier_transform" title="Fourier transform">Fourier transform</a> turns this raw data into the desired result (the sample's spectrum): Light output as a function of infrared <a href="/wiki/Wavelength" title="Wavelength">wavelength</a> (or equivalently, <a href="/wiki/Wavenumber" title="Wavenumber">wavenumber</a>). As described above, the sample's spectrum is always compared to a reference.
+</p><p>An alternate method for acquiring spectra is the "dispersive" or "scanning <a href="/wiki/Monochromator" title="Monochromator">monochromator</a>" method.  In this approach, the sample is irradiated sequentially with various single wavelengths. The dispersive method is more common in <a class="mw-redirect" href="/wiki/Ultraviolet-visible_spectroscopy" title="Ultraviolet-visible spectroscopy">UV-Vis spectroscopy</a>, but is less practical in the infrared than the FTIR method. One reason that FTIR is favored is called "<a href="/wiki/Fellgett%27s_advantage" title="Fellgett's advantage">Fellgett's advantage</a>" or the "multiplex advantage": The information at all frequencies is collected simultaneously, improving both speed and <a href="/wiki/Signal-to-noise_ratio" title="Signal-to-noise ratio">signal-to-noise ratio</a>. Another is called "Jacquinot's Throughput Advantage": A dispersive measurement requires detecting much lower light levels than an FTIR measurement.<sup class="reference" id="cite_ref-white_4-0"><a href="#cite_note-white-4">[4]</a></sup> There are other advantages, as well as some disadvantages,<sup class="reference" id="cite_ref-white_4-1"><a href="#cite_note-white-4">[4]</a></sup> but virtually all modern infrared spectrometers are FTIR instruments.
+</p>
+<h2><span class="mw-headline" id="Absorption_bands">Absorption bands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit&amp;section=8" title="Edit section: Absorption bands">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>IR spectroscopy is often used to identify structures because <a href="/wiki/Functional_group" title="Functional group">functional groups</a> give rise to characteristic bands both in terms of intensity and position (frequency).  The positions of these bands are summarized in correlation tables as shown below.
+</p>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Infrared_spectroscopy_correlation_table" title="Infrared spectroscopy correlation table">Infrared spectroscopy correlation table</a></div>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:802px;"><a class="image" href="/wiki/File:IR-spectroscopy-sample.svg"><img alt="" class="thumbimage" data-file-height="461" data-file-width="1524" height="242" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/IR-spectroscopy-sample.svg/800px-IR-spectroscopy-sample.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/IR-spectroscopy-sample.svg/1200px-IR-spectroscopy-sample.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/IR-spectroscopy-sample.svg/1600px-IR-spectroscopy-sample.svg.png 2x" width="800"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:IR-spectroscopy-sample.svg" title="Enlarge"></a></div>List of main IR spectroscopy bands. For example, the carboxyl group will contain a C = O band at 1700  cm<sup>−1</sup> and an OH band at 3500 cm<sup>−1</sup> (total group -COOH). Wavenumbers listed in <a href="/wiki/Wavenumber" title="Wavenumber">cm<sup>−1</sup></a>.</div></div></div></div>
+<h3><span class="mw-headline" id="Regions">Regions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit&amp;section=9" title="Edit section: Regions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A spectrograph is often interpreted as having two regions.<sup class="reference" id="cite_ref-OChemSmith3E_5-0"><a href="#cite_note-OChemSmith3E-5">[5]</a></sup>
+</p>
+<ul><li><b>functional group region</b> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \geq 1500cm^{-1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>≥<!-- ≥ --></mo>
+<mn>1500</mn>
+<mi>c</mi>
+<msup>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \geq 1500cm^{-1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \geq 1500cm^{-1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bca43084c880fc0cb561e2c51d694a5c2a6dfd77" style="vertical-align: -0.505ex; width:12.483ex; height:2.843ex;"/></span></li></ul>
+<p>In the functional region there are one to a few troughs per functional group.<sup class="reference" id="cite_ref-OChemSmith3E_5-1"><a href="#cite_note-OChemSmith3E-5">[5]</a></sup>
+</p>
+<ul><li><b>fingerprint region</b> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle &lt;1500cm^{-1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>&lt;</mo>
+<mn>1500</mn>
+<mi>c</mi>
+<msup>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle &lt;1500cm^{-1}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle &lt;1500cm^{-1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/172d6a012b1002a2aceef172f7d8f88b76f21b09" style="vertical-align: -0.338ex; width:12.483ex; height:2.676ex;"/></span></li></ul>
+<p>In the fingerprint region there are many troughs which form an intricate pattern which can be used like a fingerprint to determine the compound.<sup class="reference" id="cite_ref-OChemSmith3E_5-2"><a href="#cite_note-OChemSmith3E-5">[5]</a></sup>
+</p>
+<h3><span id="Badger.27s_rule"></span><span class="mw-headline" id="Badger's_rule">Badger's rule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit&amp;section=10" title="Edit section: Badger's rule">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For many kinds of samples, the assignments are known, i.e. which bond deformation(s) are associated with which frequency.  In such cases further information can be gleaned about the strength on a bond, relying on the empirical guideline called <b>Badger's Rule</b>.  Originally published by Richard Badger in 1934,<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> this rule states that the strength of a bond correlates with the frequency of its vibrational mode. That is, increase in bond strength leads to corresponding frequency increase and vice versa.
+</p>
+<h2><span class="mw-headline" id="Uses_and_applications">Uses and applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit&amp;section=11" title="Edit section: Uses and applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Portable_Screening_Devices_(1435)_(8225044148).jpg"><img alt="" class="thumbimage" data-file-height="2784" data-file-width="1848" height="331" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Portable_Screening_Devices_%281435%29_%288225044148%29.jpg/220px-Portable_Screening_Devices_%281435%29_%288225044148%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Portable_Screening_Devices_%281435%29_%288225044148%29.jpg/330px-Portable_Screening_Devices_%281435%29_%288225044148%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Portable_Screening_Devices_%281435%29_%288225044148%29.jpg/440px-Portable_Screening_Devices_%281435%29_%288225044148%29.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Portable_Screening_Devices_(1435)_(8225044148).jpg" title="Enlarge"></a></div>US <a href="/wiki/Food_and_Drug_Administration" title="Food and Drug Administration">Food and Drug Administration</a> scientist uses portable near infrared spectroscopy device to detect potentially illegal substances</div></div></div>
+<p>Infrared spectroscopy is a simple and reliable technique widely used in both organic and inorganic chemistry, in research and industry. It is used in quality control, dynamic measurement, and monitoring applications such as the long-term unattended measurement of CO<sub>2</sub> concentrations in greenhouses and growth chambers by infrared gas analyzers.
+</p><p>It is also used in <a class="mw-redirect" href="/wiki/Forensic_analysis" title="Forensic analysis">forensic analysis</a> in both criminal and civil cases, for example in identifying <a href="/wiki/Polymer_degradation" title="Polymer degradation">polymer degradation</a>. It can be used in determining the <a href="/wiki/Blood_alcohol_content" title="Blood alcohol content">blood alcohol content</a> of a suspected drunk driver.
+</p><p>IR-spectroscopy has been successfully used in analysis and identification of <a class="mw-redirect" href="/wiki/Pigments" title="Pigments">pigments</a> in <a class="mw-redirect" href="/wiki/Paintings" title="Paintings">paintings</a><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> and other art objects<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> such as <a class="mw-redirect" href="/wiki/Illuminated_manuscripts" title="Illuminated manuscripts">illuminated manuscripts</a>.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</p><p>A useful way of analyzing solid samples without the need for cutting samples uses ATR or <a href="/wiki/Attenuated_total_reflectance" title="Attenuated total reflectance">attenuated total reflectance</a> spectroscopy. Using this approach, samples are pressed against the face of a single crystal. The infrared radiation passes through the crystal and only interacts with the sample at the interface between the two materials.
+</p><p>With increasing technology in computer filtering and manipulation of the results, samples in solution can now be measured accurately (water produces a broad absorbance across the range of interest, and thus renders the spectra unreadable without this computer treatment).
+</p><p>Some instruments will also automatically tell you what substance is being measured from a store of thousands of reference spectra held in storage.
+</p><p>Infrared spectroscopy is also useful in measuring the degree of polymerization in <a href="/wiki/Polymer" title="Polymer">polymer</a> manufacture. Changes in the character or quantity of a particular bond are assessed by measuring at a specific frequency over time. Modern research instruments can take infrared measurements across the range of interest as frequently as 32 times a second. This can be done whilst simultaneous measurements are made using other techniques. This makes the observations of chemical reactions and processes quicker and more accurate.
+</p><p>Infrared spectroscopy has also been successfully utilized in the field of semiconductor microelectronics:<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> for example, infrared spectroscopy can be applied to semiconductors like <a href="/wiki/Silicon" title="Silicon">silicon</a>, <a href="/wiki/Gallium_arsenide" title="Gallium arsenide">gallium arsenide</a>, <a href="/wiki/Gallium_nitride" title="Gallium nitride">gallium nitride</a>, <a href="/wiki/Zinc_selenide" title="Zinc selenide">zinc selenide</a>, amorphous silicon, <a href="/wiki/Silicon_nitride" title="Silicon nitride">silicon nitride</a>, etc.
+</p><p>Another important application of Infrared Spectroscopy is in the <a href="/wiki/Food" title="Food">food</a> industry to measure the <a href="/wiki/Concentration" title="Concentration">concentration</a> of various compounds in different food products<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup><sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</p><p>The instruments are now small, and can be transported, even for use in field trials.
+</p><p>Infrared Spectroscopy is also used in gas leak detection devices such as the DP-IR and EyeCGAs.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> These devices detect hydrocarbon gas leaks in the transportation of natural gas and crude oil.
+</p><p>In February 2014, <a href="/wiki/NASA" title="NASA">NASA</a> announced a <a class="external text" href="http://www.astrochem.org/pahdb/" rel="nofollow">greatly upgraded database</a>, based on IR spectroscopy, for tracking <a class="mw-redirect" href="/wiki/Polycyclic_aromatic_hydrocarbons" title="Polycyclic aromatic hydrocarbons">polycyclic aromatic hydrocarbons</a> (PAHs) in the <a href="/wiki/Universe" title="Universe">universe</a>. According to scientists, more than 20% of the <a href="/wiki/Carbon" title="Carbon">carbon</a> in the universe may be associated with PAHs, possible <a href="/wiki/PAH_world_hypothesis" title="PAH world hypothesis">starting materials</a> for the <a href="/wiki/Abiogenesis#PAH_world_hypothesis" title="Abiogenesis">formation</a> of <a href="/wiki/Life#Extraterrestrial_life" title="Life">life</a>. PAHs seem to have been formed shortly after the <a href="/wiki/Big_Bang" title="Big Bang">Big Bang</a>, are widespread throughout the universe, and are associated with <a href="/wiki/Star_formation" title="Star formation">new stars</a> and <a class="mw-redirect" href="/wiki/Exoplanets" title="Exoplanets">exoplanets</a>.<sup class="reference" id="cite_ref-NASA-20140221_14-0"><a href="#cite_note-NASA-20140221-14">[14]</a></sup>
+</p><p>Recent developments include a miniature IR-spectrometer that's linked to a cloud based database and suitable for personal everyday use,<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> and NIR-spectroscopic chips<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> that can be embedded in smartphones and various gadgets.
+</p>
+<h2><span class="mw-headline" id="Isotope_effects">Isotope effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit&amp;section=12" title="Edit section: Isotope effects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The different isotopes in a particular species may exhibit different fine details in infrared spectroscopy. For example, the O–O stretching frequency (in reciprocal centimeters) of oxy<a href="/wiki/Hemocyanin" title="Hemocyanin">hemocyanin</a> is experimentally determined to be 832 and 788 cm<sup>−1</sup> for ν(<sup>16</sup>O–<sup>16</sup>O) and ν(<sup>18</sup>O–<sup>18</sup>O), respectively.
+</p><p>By considering the O–O bond as a spring, the wavenumber of absorbance, ν can be calculated:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \nu ={\frac {1}{2\pi c}}{\sqrt {\frac {k}{\mu }}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ν<!-- ν --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>2</mn>
+<mi>π<!-- π --></mi>
+<mi>c</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mi>k</mi>
+<mi>μ<!-- μ --></mi>
+</mfrac>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nu ={\frac {1}{2\pi c}}{\sqrt {\frac {k}{\mu }}}}</annotation>
+</semantics>
+</math></span><img alt="\nu ={\frac  {1}{2\pi c}}{\sqrt  {{\frac  {k}{\mu }}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4c4724305827c797f973956e80792a4bcf3912c6" style="vertical-align: -3.171ex; width:13.23ex; height:7.509ex;"/></span></dd></dl>
+<p>where <i>k</i> is the spring constant for the bond, <i>c</i> is the speed of light, and <i>μ</i> is the <a href="/wiki/Reduced_mass" title="Reduced mass">reduced mass</a> of the A–B system:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mu ={\frac {m_{A}m_{B}}{m_{A}+m_{B}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>μ<!-- μ --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mu ={\frac {m_{A}m_{B}}{m_{A}+m_{B}}}}</annotation>
+</semantics>
+</math></span><img alt="\mu ={\frac  {m_{A}m_{B}}{m_{A}+m_{B}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3210f5073f8b72313b54ed51c7ee76a55f420e33" style="vertical-align: -2.171ex; width:15.202ex; height:5.009ex;"/></span></dd></dl>
+<p>(<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m_{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m_{i}}</annotation>
+</semantics>
+</math></span><img alt="m_{i}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/95ec8e804f69706d3f5ad235f4f983220c8df7c2" style="vertical-align: -0.671ex; width:2.84ex; height:2.009ex;"/></span> is the mass of atom <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle i}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>i</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle i}</annotation>
+</semantics>
+</math></span><img alt="i" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/add78d8608ad86e54951b8c8bd6c8d8416533d20" style="vertical-align: -0.338ex; width:0.802ex; height:2.176ex;"/></span>).
+</p><p>The reduced masses for <sup>16</sup>O–<sup>16</sup>O and <sup>18</sup>O–<sup>18</sup>O can be approximated as 8 and 9 respectively. Thus
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {\nu (^{16}O)}{\nu (^{18}O)}}={\sqrt {\frac {9}{8}}}\approx {\frac {832}{788}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>ν<!-- ν --></mi>
+<msup>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>16</mn>
+</mrow>
+</msup>
+<mi>O</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>ν<!-- ν --></mi>
+<msup>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>18</mn>
+</mrow>
+</msup>
+<mi>O</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mn>9</mn>
+<mn>8</mn>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>≈<!-- ≈ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>832</mn>
+<mn>788</mn>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {\nu (^{16}O)}{\nu (^{18}O)}}={\sqrt {\frac {9}{8}}}\approx {\frac {832}{788}}.}</annotation>
+</semantics>
+</math></span><img alt="{\frac  {\nu (^{{16}}O)}{\nu (^{{18}}O)}}={\sqrt  {{\frac  {9}{8}}}}\approx {\frac  {832}{788}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3b60e8ef8371538d4f41ca84f196523c598b0be1" style="vertical-align: -2.671ex; width:23.017ex; height:6.676ex;"/></span></dd></dl>
+<p>Where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nu }</annotation>
+</semantics>
+</math></span><img alt="\nu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c15bbbb971240cf328aba572178f091684585468" style="vertical-align: -0.338ex; width:1.232ex; height:1.676ex;"/></span> is the wavenumber; [wavenumber = frequency/(speed of light)]
+</p><p>The effect of isotopes, both on the vibration and the decay dynamics, has been found to be stronger than previously thought. In some systems, such as silicon and germanium, the decay of the anti-symmetric stretch mode of interstitial oxygen involves the symmetric stretch mode with a strong isotope dependence. For example, it was shown that for a natural silicon sample, the lifetime of the anti-symmetric vibration is 11.4 ps. When the isotope of one of the silicon atoms is increased to <sup>29</sup>Si, the lifetime increases to 19 ps. In similar manner, when the silicon atom is changed to <sup>30</sup>Si, the lifetime becomes 27 ps.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Two-dimensional_IR">Two-dimensional IR</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit&amp;section=13" title="Edit section: Two-dimensional IR">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Two-dimensional infrared correlation spectroscopy analysis</b> combines multiple samples of infrared spectra to reveal more complex properties. By extending the spectral information of a perturbed sample, spectral analysis is simplified and resolution is enhanced. The 2D synchronous and 2D asynchronous spectra represent a graphical overview of the spectral changes due to a perturbation (such as a changing concentration or changing temperature) as well as the relationship between the spectral changes at two different wavenumbers.
+</p>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Two-dimensional_infrared_spectroscopy" title="Two-dimensional infrared spectroscopy">Two-dimensional infrared spectroscopy</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:2dir_pulse_sequence_newversion.png"><img alt="" class="thumbimage" data-file-height="404" data-file-width="800" height="152" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2dir_pulse_sequence_newversion.png/300px-2dir_pulse_sequence_newversion.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2dir_pulse_sequence_newversion.png/450px-2dir_pulse_sequence_newversion.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2dir_pulse_sequence_newversion.png/600px-2dir_pulse_sequence_newversion.png 2x" width="300"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:2dir_pulse_sequence_newversion.png" title="Enlarge"></a></div>Pulse Sequence used to obtain a two-dimensional Fourier transform infrared spectrum. The time period <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau _{1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau _{1}}</annotation>
+</semantics>
+</math></span><img alt="\tau _{1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ef3e70085bbfec0d2ed0f898618bbb48db4ab7b1" style="vertical-align: -0.671ex; width:2.07ex; height:2.009ex;"/></span> is usually referred to as the coherence time and the second time period <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau _{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau _{2}}</annotation>
+</semantics>
+</math></span><img alt="\tau _{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/236a07f6109f6e8c7dd3d9229ab240a983045cd8" style="vertical-align: -0.671ex; width:2.07ex; height:2.009ex;"/></span> is known as the waiting time. The excitation frequency is obtained by Fourier transforming along the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau _{1}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau _{1}}</annotation>
+</semantics>
+</math></span><img alt="\tau _{1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ef3e70085bbfec0d2ed0f898618bbb48db4ab7b1" style="vertical-align: -0.671ex; width:2.07ex; height:2.009ex;"/></span> axis.</div></div></div>
+<p><b>Nonlinear two-dimensional infrared spectroscopy</b><sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup><sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> is the infrared version of <a class="mw-redirect" href="/wiki/Correlation_spectroscopy" title="Correlation spectroscopy">correlation spectroscopy</a>. Nonlinear two-dimensional infrared spectroscopy is a technique that has become available with the development of <a href="/wiki/Femtosecond" title="Femtosecond">femtosecond</a> infrared laser pulses. In this experiment, first a set of pump pulses is applied to the sample. This is followed by a waiting time during which the system is allowed to relax. The typical waiting time lasts from zero to several picoseconds, and the duration can be controlled with a resolution of tens of femtoseconds. A probe pulse is then applied, resulting in the emission of a signal from the sample. The nonlinear two-dimensional infrared spectrum is a two-dimensional correlation plot of the frequency ω<sub>1</sub> that was excited by the initial pump pulses and the frequency ω<sub>3</sub> excited by the probe pulse after the waiting time. This allows the observation of coupling between different vibrational modes; because of its extremely fine time resolution, it can be used to monitor molecular dynamics on a picosecond timescale. It is still a largely unexplored technique and is becoming increasingly popular for fundamental research.
+</p><p>As with two-dimensional nuclear magnetic resonance (<a class="mw-redirect" href="/wiki/2DNMR" title="2DNMR">2DNMR</a>) spectroscopy, this technique spreads the spectrum in two dimensions and allows for the observation of cross peaks that contain information on the coupling between different modes. In contrast to 2DNMR, nonlinear two-dimensional infrared spectroscopy also involves the excitation to overtones. These excitations result in excited state absorption peaks located below the diagonal and cross peaks. In 2DNMR, two distinct techniques, <a class="mw-redirect" href="/wiki/Correlation_spectroscopy#COSY" title="Correlation spectroscopy">COSY</a> and <a class="mw-redirect" href="/wiki/Correlation_spectroscopy#NOESY" title="Correlation spectroscopy">NOESY</a>, are frequently used. The cross peaks in the first are related to the scalar coupling, while in the latter they are related to the spin transfer between different nuclei. In nonlinear two-dimensional infrared spectroscopy, analogs have been drawn to these 2DNMR techniques. Nonlinear two-dimensional infrared spectroscopy with zero waiting time corresponds to COSY, and nonlinear two-dimensional infrared spectroscopy with finite waiting time allowing vibrational population transfer corresponds to NOESY. The COSY variant of nonlinear two-dimensional infrared spectroscopy has been used for determination of the secondary structure content of proteins.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 33.33%;text-align: left; vertical-align: top;">
+<ul><li><a href="/wiki/Applied_spectroscopy" title="Applied spectroscopy">Applied spectroscopy</a></li>
+<li><a href="/wiki/Astrochemistry" title="Astrochemistry">Astrochemistry</a></li>
+<li><a href="/wiki/Atomic_and_molecular_astrophysics" title="Atomic and molecular astrophysics">Atomic and molecular astrophysics</a></li>
+<li><a href="/wiki/AFM-IR" title="AFM-IR">Atomic force microscopy based infrared spectroscopy (AFM-IR)</a></li>
+<li><a href="/wiki/Cosmochemistry" title="Cosmochemistry">Cosmochemistry</a></li>
+<li><a href="/wiki/Far-infrared_astronomy" title="Far-infrared astronomy">Far-infrared astronomy</a></li>
+<li><a href="/wiki/Forensic_chemistry" title="Forensic chemistry">Forensic chemistry</a></li></ul>
+<p>
+</p>
+</td>
+<td style="width: 33.33%;text-align: left; vertical-align: top;">
+<ul><li><a href="/wiki/Forensic_engineering" title="Forensic engineering">Forensic engineering</a></li>
+<li><a href="/wiki/Forensic_polymer_engineering" title="Forensic polymer engineering">Forensic polymer engineering</a></li>
+<li><a href="/wiki/Infrared_astronomy" title="Infrared astronomy">Infrared astronomy</a></li>
+<li><a href="/wiki/Microscopy#Infrared_microscopy" title="Microscopy">Infrared microscopy</a></li>
+<li><a href="/wiki/Infrared_multiphoton_dissociation" title="Infrared multiphoton dissociation">Infrared multiphoton dissociation</a></li>
+<li><a href="/wiki/Infrared_photodissociation_spectroscopy" title="Infrared photodissociation spectroscopy">Infrared photodissociation spectroscopy</a></li>
+<li><a href="/wiki/Infrared_spectroscopy_correlation_table" title="Infrared spectroscopy correlation table">Infrared spectroscopy correlation table</a></li>
+<li><a class="mw-redirect" href="/wiki/Infrared_spectroscopy_of_metal_carbonyls" title="Infrared spectroscopy of metal carbonyls">Infrared spectroscopy of metal carbonyls</a></li></ul>
+<p>
+</p>
+</td>
+<td style="width: 33.33%;text-align: left; vertical-align: top;">
+<ul><li><a href="/wiki/Near-infrared_spectroscopy" title="Near-infrared spectroscopy">Near-infrared spectroscopy</a></li>
+<li><a href="/wiki/Nuclear_resonance_vibrational_spectroscopy" title="Nuclear resonance vibrational spectroscopy">Nuclear resonance vibrational spectroscopy</a></li>
+<li><a href="/wiki/Photothermal_microspectroscopy" title="Photothermal microspectroscopy">Photothermal microspectroscopy</a></li>
+<li><a href="/wiki/Raman_spectroscopy" title="Raman spectroscopy">Raman spectroscopy</a></li>
+<li><a href="/wiki/Rotational_spectroscopy" title="Rotational spectroscopy">Rotational spectroscopy</a></li>
+<li><a class="mw-redirect" href="/wiki/Rotational-vibrational_spectroscopy" title="Rotational-vibrational spectroscopy">Rotational-vibrational spectroscopy</a></li>
+<li><a href="/wiki/Time-resolved_spectroscopy" title="Time-resolved spectroscopy">Time-resolved spectroscopy</a></li>
+<li><a href="/wiki/Vibrational_spectroscopy_of_linear_molecules" title="Vibrational spectroscopy of linear molecules">Vibrational spectroscopy of linear molecules</a></li></ul>
+<p>
+</p>
+</td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Paula, Peter Atkins, Julio de (2009). <i>Elements of physical chemistry</i> (5th ed.). Oxford: Oxford U.P. p. 459. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-19-922672-6" title="Special:BookSources/978-0-19-922672-6">978-0-19-922672-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Elements+of+physical+chemistry&amp;rft.place=Oxford&amp;rft.pages=459&amp;rft.edition=5th&amp;rft.pub=Oxford+U.P&amp;rft.date=2009&amp;rft.isbn=978-0-19-922672-6&amp;rft.aulast=Paula&amp;rft.aufirst=Peter+Atkins%2C+Julio+de&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfrared+spectroscopy"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Har-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Har_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Har_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Laurence M. Harwood; Christopher J. Moody (1989). <i>Experimental organic chemistry: Principles and Practice</i> (Illustrated ed.). Wiley-Blackwell. p. 292. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-632-02017-2" title="Special:BookSources/0-632-02017-2">0-632-02017-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Experimental+organic+chemistry%3A+Principles+and+Practice&amp;rft.pages=292&amp;rft.edition=Illustrated&amp;rft.pub=Wiley-Blackwell&amp;rft.date=1989&amp;rft.isbn=0-632-02017-2&amp;rft.au=Laurence+M.+Harwood&amp;rft.au=Christopher+J.+Moody&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfrared+spectroscopy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Soran Shadman; Charles Rose; Azer P. Yalin (2016). "Open-path cavity ring-down spectroscopy sensor for atmospheric ammonia". <i><a href="/wiki/Applied_Physics_B" title="Applied Physics B">Applied Physics B</a></i>. <b>122</b>: 194. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2016ApPhB.122..194S" rel="nofollow">2016ApPhB.122..194S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2Fs00340-016-6461-5" rel="nofollow">10.1007/s00340-016-6461-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Applied+Physics+B&amp;rft.atitle=Open-path+cavity+ring-down+spectroscopy+sensor+for+atmospheric+ammonia&amp;rft.volume=122&amp;rft.pages=194&amp;rft.date=2016&amp;rft_id=info%3Adoi%2F10.1007%2Fs00340-016-6461-5&amp;rft_id=info%3Abibcode%2F2016ApPhB.122..194S&amp;rft.au=Soran+Shadman&amp;rft.au=Charles+Rose&amp;rft.au=Azer+P.+Yalin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfrared+spectroscopy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-white-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-white_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-white_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="https://books.google.com/books?id=t2VSNnFoO3wC&amp;pg=PA7" rel="nofollow"><i>Chromatography/Fourier transform infrared spectroscopy and its applications</i>, by Robert White, p7</a></span>
+</li>
+<li id="cite_note-OChemSmith3E-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-OChemSmith3E_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-OChemSmith3E_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-OChemSmith3E_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Smith, Janice Gorzynski (2011). "Chapter 13 Mass Spectrometry and Infrared Spectroscopy". <a class="external text" href="http://highered.mheducation.com/sites/007340277x/student_view0/index.html" rel="nofollow"><i>Organic chemistry</i></a> <span class="cs1-format">(Book)</span> (3rd ed.). New York, NY: McGraw-Hill. pp. 463–488. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-07-337562-5" title="Special:BookSources/978-0-07-337562-5">978-0-07-337562-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Chapter+13+Mass+Spectrometry+and+Infrared+Spectroscopy&amp;rft.btitle=Organic+chemistry&amp;rft.place=New+York%2C+NY&amp;rft.pages=463-488&amp;rft.edition=3rd&amp;rft.pub=McGraw-Hill&amp;rft.date=2011&amp;rft.isbn=978-0-07-337562-5&amp;rft.aulast=Smith&amp;rft.aufirst=Janice+Gorzynski&amp;rft_id=http%3A%2F%2Fhighered.mheducation.com%2Fsites%2F007340277x%2Fstudent_view0%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfrared+spectroscopy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Badger, Richard (1934). <a class="external text" href="https://dx.doi.org/10.1063/1.1749433" rel="nofollow">"A Relation Between Internuclear Distances and Bond Force Constants"</a>. <i>J Chem Phys</i>. <b>2</b>: 128. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1934JChPh...2..128B" rel="nofollow">1934JChPh...2..128B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1063%2F1.1749433" rel="nofollow">10.1063/1.1749433</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J+Chem+Phys&amp;rft.atitle=A+Relation+Between+Internuclear+Distances+and+Bond+Force+Constants&amp;rft.volume=2&amp;rft.pages=128&amp;rft.date=1934&amp;rft_id=info%3Adoi%2F10.1063%2F1.1749433&amp;rft_id=info%3Abibcode%2F1934JChPh...2..128B&amp;rft.aulast=Badger&amp;rft.aufirst=Richard&amp;rft_id=https%3A%2F%2Fdx.doi.org%2F10.1063%2F1.1749433&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfrared+spectroscopy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external text" href="http://colourlex.com/project/infrared-spectroscopy/" rel="nofollow">Infrared spectroscopy at ColourLex. Retrieved December 11, 2015</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Derrick, M.R., Stulik, D.  and Landry J.M., <a class="external text" href="http://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/infrared_spectroscopy.pdf" rel="nofollow">Infrared Spectroscopy in Conservation Science, Scientific Tools for Conservation</a>, Getty Publications, 2000. Retrieved December 11, 2015</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Paola Ricciardi, <a class="external text" href="http://www.labnews.co.uk/features/unlocking-the-secrets-of-illuminated-manuscripts-08-11-2012/" rel="nofollow">Unlocking the secrets of illuminated manuscripts. Retrieved December 11, 2015</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Lau, W.S. (1999). <a class="external text" href="https://books.google.com/?id=rotNlJDFJWsC&amp;printsec=frontcover" rel="nofollow"><i>Infrared characterization for microelectronics</i></a>. World Scientific. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/981-02-2352-8" title="Special:BookSources/981-02-2352-8">981-02-2352-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Infrared+characterization+for+microelectronics&amp;rft.pub=World+Scientific&amp;rft.date=1999&amp;rft.isbn=981-02-2352-8&amp;rft.aulast=Lau&amp;rft.aufirst=W.S.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DrotNlJDFJWsC%26printsec%3Dfrontcover&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfrared+spectroscopy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Osborne, Brian G. (2006). <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/9780470027318.a1018/abstract;jsessionid=D750E27B720BC1196422CA9868326D53.f02t02?userIsAuthenticated=false&amp;deniedAccessCustomisedMessage=" rel="nofollow"><i>Near-Infrared Spectroscopy in Food Analysis</i></a>. John Wiley &amp; Sons.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Near-Infrared+Spectroscopy+in+Food+Analysis&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=2006&amp;rft.aulast=Osborne&amp;rft.aufirst=Brian+G.&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2F9780470027318.a1018%2Fabstract%3Bjsessionid%3DD750E27B720BC1196422CA9868326D53.f02t02%3FuserIsAuthenticated%3Dfalse%26deniedAccessCustomisedMessage%3D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfrared+spectroscopy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Villar, A.; Gorritxategi, E.; Aranzabe, E.; Fernandez, S.; Otaduy, D.; Fernandez, L.A. (2012). "Low-cost visible–near infrared sensor for on-line monitoring of fat and fatty acids content during the manufacturing process of the milk". <i>Food Chemistry</i>. <b>135</b> (4): 2756–2760. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.foodchem.2012.07.074" rel="nofollow">10.1016/j.foodchem.2012.07.074</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Food+Chemistry&amp;rft.atitle=Low-cost+visible%E2%80%93near+infrared+sensor+for+on-line+monitoring+of+fat+and+fatty+acids+content+during+the+manufacturing+process+of+the+milk&amp;rft.volume=135&amp;rft.issue=4&amp;rft.pages=2756-2760&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1016%2Fj.foodchem.2012.07.074&amp;rft.aulast=Villar&amp;rft.aufirst=A.&amp;rft.au=Gorritxategi%2C+E.&amp;rft.au=Aranzabe%2C+E.&amp;rft.au=Fernandez%2C+S.&amp;rft.au=Otaduy%2C+D.&amp;rft.au=Fernandez%2C+L.A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfrared+spectroscopy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">www.TRMThemes.com, TRM Theme by. <a class="external text" href="http://heathus.com/product_category/gas/infrared-ir-optical-based/" rel="nofollow">"Infrared (IR) / Optical Based Archives - Heath Consultants"</a>. <i>Heath Consultants</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-04-12</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Heath+Consultants&amp;rft.atitle=Infrared+%28IR%29+%2F+Optical+Based+Archives+-+Heath+Consultants&amp;rft.aulast=www.TRMThemes.com&amp;rft.aufirst=TRM+Theme+by&amp;rft_id=http%3A%2F%2Fheathus.com%2Fproduct_category%2Fgas%2Finfrared-ir-optical-based%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfrared+spectroscopy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-NASA-20140221-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-NASA-20140221_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Hoover, Rachel (February 21, 2014). <a class="external text" href="http://www.nasa.gov/ames/need-to-track-organic-nano-particles-across-the-universe-nasas-got-an-app-for-that/" rel="nofollow">"Need to Track Organic Nano-Particles Across the Universe? NASA's Got an App for That"</a>. <i><a href="/wiki/NASA" title="NASA">NASA</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NASA&amp;rft.atitle=Need+to+Track+Organic+Nano-Particles+Across+the+Universe%3F+NASA%27s+Got+an+App+for+That&amp;rft.date=2014-02-21&amp;rft.aulast=Hoover&amp;rft.aufirst=Rachel&amp;rft_id=http%3A%2F%2Fwww.nasa.gov%2Fames%2Fneed-to-track-organic-nano-particles-across-the-universe-nasas-got-an-app-for-that%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfrared+spectroscopy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://spectrum.ieee.org/view-from-the-valley/at-work/start-ups/israeli-startup-consumer-physics-says-its-scio-food-analyzer-is-finally-ready-for-prime-timeso-we-took-it-grocery-shopping" rel="nofollow">"What Happened When We Took the SCiO Food Analyzer Grocery Shopping"</a>. <i>IEEE Spectrum: Technology, Engineering, and Science News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-23</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=IEEE+Spectrum%3A+Technology%2C+Engineering%2C+and+Science+News&amp;rft.atitle=What+Happened+When+We+Took+the+SCiO+Food+Analyzer+Grocery+Shopping&amp;rft_id=http%3A%2F%2Fspectrum.ieee.org%2Fview-from-the-valley%2Fat-work%2Fstart-ups%2Fisraeli-startup-consumer-physics-says-its-scio-food-analyzer-is-finally-ready-for-prime-timeso-we-took-it-grocery-shopping&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfrared+spectroscopy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.americanpharmaceuticalreview.com/Featured-Articles/163573-A-Review-of-New-Small-Scale-Technologies-for-Near-Infrared-Measurements/" rel="nofollow">"A Review of New Small-Scale Technologies for Near Infrared Measurements"</a>. <i>www.americanpharmaceuticalreview.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-23</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.americanpharmaceuticalreview.com&amp;rft.atitle=A+Review+of+New+Small-Scale+Technologies+for+Near+Infrared+Measurements&amp;rft_id=http%3A%2F%2Fwww.americanpharmaceuticalreview.com%2FFeatured-Articles%2F163573-A-Review-of-New-Small-Scale-Technologies-for-Near-Infrared-Measurements%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfrared+spectroscopy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kohli, K.; Davies, Gordon; Vinh, N.; West, D.; Estreicher, S.; Gregorkiewicz, T.; Izeddin, I.; Itoh, K. (2006). "Isotope Dependence of the Lifetime of the 1136-cm-1 Vibration of Oxygen in Silicon". <i>Physical Review Letters</i>. <b>96</b> (22): 225503. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2006PhRvL..96v5503K" rel="nofollow">2006PhRvL..96v5503K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1103%2FPhysRevLett.96.225503" rel="nofollow">10.1103/PhysRevLett.96.225503</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16803320" rel="nofollow">16803320</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physical+Review+Letters&amp;rft.atitle=Isotope+Dependence+of+the+Lifetime+of+the+1136-cm-1+Vibration+of+Oxygen+in+Silicon&amp;rft.volume=96&amp;rft.issue=22&amp;rft.pages=225503&amp;rft.date=2006&amp;rft_id=info%3Apmid%2F16803320&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.96.225503&amp;rft_id=info%3Abibcode%2F2006PhRvL..96v5503K&amp;rft.aulast=Kohli&amp;rft.aufirst=K.&amp;rft.au=Davies%2C+Gordon&amp;rft.au=Vinh%2C+N.&amp;rft.au=West%2C+D.&amp;rft.au=Estreicher%2C+S.&amp;rft.au=Gregorkiewicz%2C+T.&amp;rft.au=Izeddin%2C+I.&amp;rft.au=Itoh%2C+K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfrared+spectroscopy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">P. Hamm; M. H. Lim; R. M. Hochstrasser (1998). "Structure of the amide I band of peptides measured by femtosecond nonlinear-infrared spectroscopy". <i>J. Phys. Chem. B</i>. <b>102</b> (31): 6123. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fjp9813286" rel="nofollow">10.1021/jp9813286</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Phys.+Chem.+B&amp;rft.atitle=Structure+of+the+amide+I+band+of+peptides+measured+by+femtosecond+nonlinear-infrared+spectroscopy&amp;rft.volume=102&amp;rft.issue=31&amp;rft.pages=6123&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1021%2Fjp9813286&amp;rft.au=P.+Hamm&amp;rft.au=M.+H.+Lim&amp;rft.au=R.+M.+Hochstrasser&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfrared+spectroscopy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">S. Mukamel (2000). "Multidimensional Fentosecond Correlation Spectroscopies of Electronic and Vibrational Excitations". <i>Annual Review of Physical Chemistry</i>. <b>51</b> (1): 691–729. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2000ARPC...51..691M" rel="nofollow">2000ARPC...51..691M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1146%2Fannurev.physchem.51.1.691" rel="nofollow">10.1146/annurev.physchem.51.1.691</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11031297" rel="nofollow">11031297</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annual+Review+of+Physical+Chemistry&amp;rft.atitle=Multidimensional+Fentosecond+Correlation+Spectroscopies+of+Electronic+and+Vibrational+Excitations&amp;rft.volume=51&amp;rft.issue=1&amp;rft.pages=691-729&amp;rft.date=2000&amp;rft_id=info%3Apmid%2F11031297&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev.physchem.51.1.691&amp;rft_id=info%3Abibcode%2F2000ARPC...51..691M&amp;rft.au=S.+Mukamel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfrared+spectroscopy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal">N. Demirdöven; C. M. Cheatum; H. S. Chung; M. Khalil; J. Knoester; A. Tokmakoff (2004). "Two-dimensional infrared spectroscopy of antiparallel beta-sheet secondary structure". <i><a href="/wiki/Journal_of_the_American_Chemical_Society" title="Journal of the American Chemical Society">Journal of the American Chemical Society</a></i>. <b>126</b> (25): 7981–90. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fja049811j" rel="nofollow">10.1021/ja049811j</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15212548" rel="nofollow">15212548</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=Two-dimensional+infrared+spectroscopy+of+antiparallel+beta-sheet+secondary+structure&amp;rft.volume=126&amp;rft.issue=25&amp;rft.pages=7981-90&amp;rft.date=2004&amp;rft_id=info%3Adoi%2F10.1021%2Fja049811j&amp;rft_id=info%3Apmid%2F15212548&amp;rft.au=N.+Demird%C3%B6ven&amp;rft.au=C.+M.+Cheatum&amp;rft.au=H.+S.+Chung&amp;rft.au=M.+Khalil&amp;rft.au=J.+Knoester&amp;rft.au=A.+Tokmakoff&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInfrared+spectroscopy"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Infrared_spectroscopy" title="commons:Category:Infrared spectroscopy">Infrared spectroscopy</a></b></i>.</td></tr></tbody></table>
+<ul><li>A useful gif animation of different vibrational modes: <a class="external text" href="http://www.shu.ac.uk/schools/sci/chem/tutorials/molspec/irspec1.htm" rel="nofollow">SHU.ac.uk</a></li>
+<li><a class="external text" href="http://www.jkwchui.com/2010/09/pictorial-guide-to-interpreting-infrared-spectra/" rel="nofollow">Illustrated guide to basic IR spectra interpretation</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20110904091402/http://www2.dq.fct.unl.pt/qoa/jas/ir.html" rel="nofollow">Infrared spectroscopy for organic chemists</a></li>
+<li><a class="external text" href="http://riodb01.ibase.aist.go.jp/sdbs/cgi-bin/cre_index.cgi?lang=eng" rel="nofollow">Organic compounds spectrum database</a></li>
+<li><a class="external text" href="http://ansyco.de/tools/ftir-spectrum-library" rel="nofollow">Gas phase infrared spectra, organic and inorganic compounds</a></li></ul>
+<div aria-labelledby="Spectroscopy" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:BranchesofSpectroscopy" title="Template:BranchesofSpectroscopy"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:BranchesofSpectroscopy" title="Template talk:BranchesofSpectroscopy"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:BranchesofSpectroscopy&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Spectroscopy" style="font-size:114%;margin:0 4em"><a href="/wiki/Spectroscopy" title="Spectroscopy">Spectroscopy</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a class="mw-selflink selflink">Infrared</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Fourier-transform_infrared_spectroscopy" title="Fourier-transform infrared spectroscopy">FT-IR</a></li>
+<li><a href="/wiki/Raman_spectroscopy" title="Raman spectroscopy">Raman</a></li>
+<li><a href="/wiki/Resonance_Raman_spectroscopy" title="Resonance Raman spectroscopy">Resonance Raman</a></li>
+<li><a href="/wiki/Rotational_spectroscopy" title="Rotational spectroscopy">Rotational</a></li>
+<li><a href="/wiki/Molecular_vibration" title="Molecular vibration">Vibrational</a></li>
+<li><a href="/wiki/Resonance-enhanced_multiphoton_ionization" title="Resonance-enhanced multiphoton ionization">Rotational–vibrational</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">UV–Vis–NIR</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ultraviolet%E2%80%93visible_spectroscopy" title="Ultraviolet–visible spectroscopy">Ultraviolet–visible</a></li>
+<li><a href="/wiki/Fluorescence_spectroscopy" title="Fluorescence spectroscopy">Fluorescence</a></li>
+<li><a href="/wiki/Vibronic_spectroscopy" title="Vibronic spectroscopy">Vibronic</a></li>
+<li><a href="/wiki/Near-infrared_spectroscopy" title="Near-infrared spectroscopy">Near-infrared</a></li>
+<li><a class="mw-redirect" href="/wiki/Resonance_enhanced_multiphoton_ionization" title="Resonance enhanced multiphoton ionization">Resonance enhanced multiphoton ionization</a> (REMPI)</li>
+<li><a href="/wiki/Laser-induced_breakdown_spectroscopy" title="Laser-induced breakdown spectroscopy">Laser-induced</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/X-ray_spectroscopy" title="X-ray spectroscopy">X-ray</a> and<br/>photoelectron</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Photoemission_spectroscopy" title="Photoemission spectroscopy">Photoelectron</a></li>
+<li><a href="/wiki/Atomic_spectroscopy" title="Atomic spectroscopy">Atomic</a></li>
+<li><a class="mw-redirect" href="/wiki/Emission_spectroscopy" title="Emission spectroscopy">Emission</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Nucleon</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gamma_spectroscopy" title="Gamma spectroscopy">Gamma</a></li>
+<li><a href="/wiki/M%C3%B6ssbauer_spectroscopy" title="Mössbauer spectroscopy">Mössbauer</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Radiowave</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nuclear_magnetic_resonance_spectroscopy" title="Nuclear magnetic resonance spectroscopy">NMR</a></li>
+<li><a href="/wiki/Terahertz_spectroscopy_and_technology" title="Terahertz spectroscopy and technology">Terahertz</a></li>
+<li><a href="/wiki/Electron_paramagnetic_resonance" title="Electron paramagnetic resonance">ESR/EPR</a></li>
+<li><a href="/wiki/Ferromagnetic_resonance" title="Ferromagnetic resonance">Ferromagnetic resonance</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Others</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acoustic_resonance_spectroscopy" title="Acoustic resonance spectroscopy">Acoustic resonance spectroscopy</a></li>
+<li><a href="/wiki/Auger_electron_spectroscopy" title="Auger electron spectroscopy">Auger spectroscopy</a></li>
+<li><a href="/wiki/Astronomical_spectroscopy" title="Astronomical spectroscopy">Astronomical spectroscopy</a></li>
+<li><a href="/wiki/Cavity_ring-down_spectroscopy" title="Cavity ring-down spectroscopy">Cavity ring-down spectroscopy</a></li>
+<li><a href="/wiki/Circular_dichroism" title="Circular dichroism">Circular dichroism spectroscopy</a></li>
+<li><a href="/wiki/Coherent_anti-Stokes_Raman_spectroscopy" title="Coherent anti-Stokes Raman spectroscopy">Coherent anti-Stokes Raman spectroscopy</a></li>
+<li><a href="/wiki/Cold_vapour_atomic_fluorescence_spectroscopy" title="Cold vapour atomic fluorescence spectroscopy">Cold vapour atomic fluorescence spectroscopy</a></li>
+<li><a href="/wiki/Conversion_electron_M%C3%B6ssbauer_spectroscopy" title="Conversion electron Mössbauer spectroscopy">Conversion electron Mössbauer spectroscopy</a></li>
+<li><a class="mw-redirect" href="/wiki/Correlation_spectroscopy" title="Correlation spectroscopy">Correlation spectroscopy</a></li>
+<li><a href="/wiki/Deep-level_transient_spectroscopy" title="Deep-level transient spectroscopy">Deep-level transient spectroscopy</a></li>
+<li><a href="/wiki/Dual-polarization_interferometry" title="Dual-polarization interferometry">Dual-polarization interferometry</a></li>
+<li><a href="/wiki/Electron_phenomenological_spectroscopy" title="Electron phenomenological spectroscopy">Electron phenomenological spectroscopy</a></li>
+<li><a href="/wiki/Electron_paramagnetic_resonance" title="Electron paramagnetic resonance">EPR spectroscopy</a></li>
+<li><a href="/wiki/Force_spectroscopy" title="Force spectroscopy">Force spectroscopy</a></li>
+<li><a href="/wiki/Fourier-transform_spectroscopy" title="Fourier-transform spectroscopy">Fourier-transform spectroscopy</a></li>
+<li><a href="/wiki/Glow-discharge_optical_emission_spectroscopy" title="Glow-discharge optical emission spectroscopy">Glow-discharge optical emission spectroscopy</a></li>
+<li><a href="/wiki/Hadron_spectroscopy" title="Hadron spectroscopy">Hadron spectroscopy</a></li>
+<li><a href="/wiki/Hyperspectral_imaging" title="Hyperspectral imaging">Hyperspectral imaging</a></li>
+<li><a href="/wiki/Inelastic_electron_tunneling_spectroscopy" title="Inelastic electron tunneling spectroscopy">Inelastic electron tunneling spectroscopy</a></li>
+<li><a href="/wiki/Inelastic_neutron_scattering" title="Inelastic neutron scattering">Inelastic neutron scattering</a></li>
+<li><a href="/wiki/Laser-induced_breakdown_spectroscopy" title="Laser-induced breakdown spectroscopy">Laser-induced breakdown spectroscopy</a></li>
+<li><a href="/wiki/M%C3%B6ssbauer_spectroscopy" title="Mössbauer spectroscopy">Mössbauer spectroscopy</a></li>
+<li><a href="/wiki/Neutron_spin_echo" title="Neutron spin echo">Neutron spin echo</a></li>
+<li><a href="/wiki/Photoacoustic_spectroscopy" title="Photoacoustic spectroscopy">Photoacoustic spectroscopy</a></li>
+<li><a href="/wiki/Photoemission_spectroscopy" title="Photoemission spectroscopy">Photoemission spectroscopy</a></li>
+<li><a href="/wiki/Photothermal_spectroscopy" title="Photothermal spectroscopy">Photothermal spectroscopy</a></li>
+<li><a class="mw-redirect" href="/wiki/Pump%E2%80%93probe_spectroscopy" title="Pump–probe spectroscopy">Pump–probe spectroscopy</a></li>
+<li><a href="/wiki/Raman_optical_activity" title="Raman optical activity">Raman optical activity spectroscopy</a></li>
+<li><a href="/wiki/Raman_spectroscopy" title="Raman spectroscopy">Raman spectroscopy</a></li>
+<li><a href="/wiki/Saturated_spectroscopy" title="Saturated spectroscopy">Saturated spectroscopy</a></li>
+<li><a href="/wiki/Scanning_tunneling_spectroscopy" title="Scanning tunneling spectroscopy">Scanning tunneling spectroscopy</a></li>
+<li><a href="/wiki/Spectrophotometry" title="Spectrophotometry">Spectrophotometry</a></li>
+<li><a href="/wiki/Time-resolved_spectroscopy" title="Time-resolved spectroscopy">Time-resolved spectroscopy</a></li>
+<li><a href="/wiki/Time_stretch_analog-to-digital_converter" title="Time stretch analog-to-digital converter">Time-stretch</a></li>
+<li><a href="/wiki/Thermal_infrared_spectroscopy" title="Thermal infrared spectroscopy">Thermal infrared spectroscopy</a></li>
+<li><a href="/wiki/Video_spectroscopy" title="Video spectroscopy">Video spectroscopy</a></li>
+<li><a href="/wiki/Vibrational_circular_dichroism" title="Vibrational circular dichroism">Vibrational circular dichroism</a></li>
+<li><a href="/wiki/Vibrational_spectroscopy_of_linear_molecules" title="Vibrational spectroscopy of linear molecules">Vibrational spectroscopy of linear molecules</a></li>
+<li><a href="/wiki/X-ray_photoelectron_spectroscopy" title="X-ray photoelectron spectroscopy">X-ray photoelectron spectroscopy</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2173
+Cached time: 20181001140519
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.384 seconds
+Real time usage: 0.516 seconds
+Preprocessor visited node count: 1321/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 50471/2097152 bytes
+Template argument size: 331/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 48370/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.157/10.000 seconds
+Lua memory usage: 3.69 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  282.926      1 -total
+ 70.85%  200.440      1 Template:Reflist
+ 25.38%   71.793      5 Template:Cite_book
+ 24.74%   70.003      7 Template:Cite_journal
+  9.97%   28.198      4 Template:Cite_web
+  7.41%   20.965      1 Template:For
+  5.86%   16.572      1 Template:Commons_category
+  4.22%   11.938      1 Template:Commons
+  4.19%   11.862      1 Template:BranchesofSpectroscopy
+  3.70%   10.479      1 Template:Sister_project
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15412-0!canonical!math=5 and timestamp 20181001140518 and revision id 848160003
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Infrared_spectroscopy&amp;oldid=848160003">https://en.wikipedia.org/w/index.php?title=Infrared_spectroscopy&amp;oldid=848160003</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Infrared_spectroscopy" title="Category:Infrared spectroscopy">Infrared spectroscopy</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Infrared+spectroscopy" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Infrared+spectroscopy" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Infrared_spectroscopy" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Infrared_spectroscopy" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Infrared_spectroscopy">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Infrared_spectroscopy&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Infrared_spectroscopy&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Infrared_spectroscopy" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Infrared_spectroscopy" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Infrared_spectroscopy&amp;oldid=848160003" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Infrared_spectroscopy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q70906" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Infrared_spectroscopy&amp;id=848160003" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Infrared+spectroscopy">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Infrared+spectroscopy&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Infrared_spectroscopy&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Infrared_spectroscopy" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Infrared_spectroscopy" hreflang="en">Wikiquote</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Infrarooispektroskopie" hreflang="af" lang="af" title="Infrarooispektroskopie – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%B7%D9%8A%D8%A7%D9%81%D9%8A%D8%A9_%D8%A7%D9%84%D8%A3%D8%B4%D8%B9%D8%A9_%D8%AA%D8%AD%D8%AA_%D8%A7%D9%84%D8%AD%D9%85%D8%B1%D8%A7%D8%A1" hreflang="ar" lang="ar" title="مطيافية الأشعة تحت الحمراء – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%85%E0%A6%AC%E0%A6%B2%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%A4_%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%B0%E0%A6%A3_%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AC%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3_%E0%A6%AF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0" hreflang="bn" lang="bn" title="অবলোহিত বিকিরণ বর্ণালিবীক্ষণ যন্ত্র – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D1%80%D0%B0%D1%87%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D0%B0_%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Инфрачервена спектроскопия – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Espectrosc%C3%B2pia_infraroja" hreflang="ca" lang="ca" title="Espectroscòpia infraroja – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Infra%C4%8Derven%C3%A1_spektroskopie" hreflang="cs" lang="cs" title="Infračervená spektroskopie – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/IR_spektrometri" hreflang="da" lang="da" title="IR spektrometri – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Infrarotspektroskopie" hreflang="de" lang="de" title="Infrarotspektroskopie – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Infrapunaspektroskoopia" hreflang="et" lang="et" title="Infrapunaspektroskoopia – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A6%CE%B1%CF%83%CE%BC%CE%B1%CF%84%CE%BF%CF%83%CE%BA%CE%BF%CF%80%CE%AF%CE%B1_%CF%85%CF%80%CE%B5%CF%81%CF%8D%CE%B8%CF%81%CE%BF%CF%85" hreflang="el" lang="el" title="Φασματοσκοπία υπερύθρου – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Espectroscopia_infrarroja" hreflang="es" lang="es" title="Espectroscopia infrarroja – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Infragorrien_espektroskopia" hreflang="eu" lang="eu" title="Infragorrien espektroskopia – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B7%DB%8C%D9%81%E2%80%8C%D8%A8%DB%8C%D9%86%DB%8C_%D9%81%D8%B1%D9%88%D8%B3%D8%B1%D8%AE" hreflang="fa" lang="fa" title="طیف‌بینی فروسرخ – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Spectroscopie_infrarouge" hreflang="fr" lang="fr" title="Spectroscopie infrarouge – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A0%81%EC%99%B8%EC%84%A0_%EB%B6%84%EA%B4%91%EB%B2%95" hreflang="ko" lang="ko" title="적외선 분광법 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B5%D5%B6%D5%A9%D5%A1%D5%AF%D5%A1%D6%80%D5%B4%D5%AB%D6%80_%D5%BD%D5%BA%D5%A5%D5%AF%D5%BF%D6%80%D5%B8%D5%BD%D5%AF%D5%B8%D5%BA%D5%AB%D5%A1" hreflang="hy" lang="hy" title="Ենթակարմիր սպեկտրոսկոպիա – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Spektroskopi_inframerah" hreflang="id" lang="id" title="Spektroskopi inframerah – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Spettroscopia_infrarossa" hreflang="it" lang="it" title="Spettroscopia infrarossa – Italian">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Infrav%C3%B6r%C3%B6s_spektroszk%C3%B3pia" hreflang="hu" lang="hu" title="Infravörös spektroszkópia – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D1%80%D0%B0%D1%86%D1%80%D0%B2%D0%B5%D0%BD%D0%B0_%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%98%D0%B0" hreflang="mk" lang="mk" title="Инфрацрвена спектроскопија – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Spektroskopi_inframerah" hreflang="ms" lang="ms" title="Spektroskopi inframerah – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Infraroodspectroscopie" hreflang="nl" lang="nl" title="Infraroodspectroscopie – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%B5%A4%E5%A4%96%E5%88%86%E5%85%89%E6%B3%95" hreflang="ja" lang="ja" title="赤外分光法 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Infrar%C3%B8d_spektroskopi" hreflang="no" lang="no" title="Infrarød spektroskopi – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Spektroskopia_w_podczerwieni" hreflang="pl" lang="pl" title="Spektroskopia w podczerwieni – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Espectroscopia_de_infravermelho" hreflang="pt" lang="pt" title="Espectroscopia de infravermelho – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Spectroscopie_%C3%AEn_infraro%C8%99u" hreflang="ro" lang="ro" title="Spectroscopie în infraroșu – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru badge-Q17437796 badge-featuredarticle" title="featured article"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D1%80%D0%B0%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F_%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Инфракрасная спектроскопия – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Infrared_spectroscopy" hreflang="simple" lang="simple" title="Infrared spectroscopy – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Infrarde%C4%8Da_spektroskopija" hreflang="sl" lang="sl" title="Infrardeča spektroskopija – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Infracrvena_spektroskopija" hreflang="sr" lang="sr" title="Infracrvena spektroskopija – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Infracrvena_spektroskopija" hreflang="sh" lang="sh" title="Infracrvena spektroskopija – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Infrapunaspektroskopia" hreflang="fi" lang="fi" title="Infrapunaspektroskopia – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%86%D0%BD%D1%84%D1%80%D0%B0%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B0_%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D1%96%D1%8F" hreflang="uk" lang="uk" title="Інфрачервона спектроскопія – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%BA%A2%E5%A4%96%E5%85%89%E8%B0%B1%E5%AD%A6" hreflang="zh" lang="zh" title="红外光谱学 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q70906#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 30 June 2018, at 04:04<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Infrared_spectroscopy&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.384","walltime":"0.516","ppvisitednodes":{"value":1321,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":50471,"limit":2097152},"templateargumentsize":{"value":331,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":48370,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  282.926      1 -total"," 70.85%  200.440      1 Template:Reflist"," 25.38%   71.793      5 Template:Cite_book"," 24.74%   70.003      7 Template:Cite_journal","  9.97%   28.198      4 Template:Cite_web","  7.41%   20.965      1 Template:For","  5.86%   16.572      1 Template:Commons_category","  4.22%   11.938      1 Template:Commons","  4.19%   11.862      1 Template:BranchesofSpectroscopy","  3.70%   10.479      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.157","limit":"10.000"},"limitreport-memusage":{"value":3868296,"limit":52428800}},"cachereport":{"origin":"mw2173","timestamp":"20181001140519","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw2175"});});</script>
+</body>
+</html>

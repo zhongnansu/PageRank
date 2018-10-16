@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Volume fraction - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Volume_fraction","wgTitle":"Volume fraction","wgCurRevisionId":797189849,"wgRevisionId":797189849,"wgArticleId":3600408,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Dimensionless numbers of chemistry","Physical chemistry","Thermodynamics","Analytical chemistry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Volume_fraction","wgRelevantArticleId":3600408,"wgRequestId":"W8IlCwpAAEMAAH8jlq0AAACB","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q909482","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Volume_fraction" rel="alternate"/>
+<link href="/w/index.php?title=Volume_fraction&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Volume_fraction&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Volume_fraction" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Volume_fraction rootpage-Volume_fraction skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Volume fraction</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>In <a href="/wiki/Chemistry" title="Chemistry">chemistry</a>, the <b>volume fraction</b> φ<sub><i>i</i></sub> is defined as the volume of a constituent <i>V</i><sub><i>i</i></sub> divided by the volume of all constituents of the mixture <i>V</i> prior to mixing:<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \phi _{i}={\frac {V_{i}}{\sum _{j}V_{j}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ϕ<!-- ϕ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mrow>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</munder>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \phi _{i}={\frac {V_{i}}{\sum _{j}V_{j}}}}</annotation>
+</semantics>
+</math></span><img alt="\phi _{i}={\frac  {V_{i}}{\sum _{j}V_{j}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/de6c876c39e8007417c68d2c85933c48d87dfb4c" style="vertical-align: -3.005ex; width:12.135ex; height:6.343ex;"/></span></dd></dl>
+<p>Being <a href="/wiki/Dimensionless_quantity" title="Dimensionless quantity">dimensionless</a>, its unit is 1; it is expressed as a number, e.g., 0.18. It is the same concept as volume percent (vol%) except that the latter is expressed with a <a class="mw-redirect" href="/wiki/Denominator" title="Denominator">denominator</a> of 100, e.g., 18%.
+</p><p>The volume fraction coincides with the <b>volume concentration</b> in <a href="/wiki/Ideal_solution" title="Ideal solution">ideal solutions</a> where the volumes of the constituents are additive (the volume of the solution is equal to the sum of the volumes of its ingredients).
+</p><p>The sum of all volume fractions of a mixture is equal to 1:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \sum _{i=1}^{N}V_{i}=V;\qquad \sum _{i=1}^{N}\phi _{i}=1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>V</mi>
+<mo>;</mo>
+<mspace width="2em"></mspace>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>ϕ<!-- ϕ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \sum _{i=1}^{N}V_{i}=V;\qquad \sum _{i=1}^{N}\phi _{i}=1}</annotation>
+</semantics>
+</math></span><img alt="\sum _{{i=1}}^{{N}}V_{i}=V;\qquad \sum _{{i=1}}^{{N}}\phi _{i}=1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0f247d2868fe85076caa2047f1426e45378d556b" style="vertical-align: -3.005ex; width:26.65ex; height:7.343ex;"/></span></dd></dl>
+<p>The volume fraction (percentage by volume, vol%) is one way of expressing the composition of a mixture with a <a href="/wiki/Dimensionless_quantity" title="Dimensionless quantity">dimensionless quantity</a>; <a href="/wiki/Mass_fraction_(chemistry)" title="Mass fraction (chemistry)">mass fraction</a> (percentage by weight, wt%) and <a href="/wiki/Mole_fraction" title="Mole fraction">mole fraction</a> (percentage by <a href="/wiki/Mole_(unit)" title="Mole (unit)">moles</a>, mol%) are others.
+</p>
+<h2><span class="mw-headline" id="Volume_percent">Volume percent</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volume_fraction&amp;action=edit&amp;section=1" title="Edit section: Volume percent">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Volume percent is a common expression of a <a href="/wiki/Solution" title="Solution">solution</a>'s <a href="/wiki/Concentration" title="Concentration">concentration</a>. It is the volume fraction expressed with a <a class="mw-redirect" href="/wiki/Denominator" title="Denominator">denominator</a> of 100, and thus is defined as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\text{volume percent}}={\frac {\text{volume of solute}}{\text{volume of solution}}}\times 100}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>volume percent</mtext>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mtext>volume of solute</mtext>
+<mtext>volume of solution</mtext>
+</mfrac>
+</mrow>
+<mo>×<!-- × --></mo>
+<mn>100</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\text{volume percent}}={\frac {\text{volume of solute}}{\text{volume of solution}}}\times 100}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\text{volume percent}}={\frac {\text{volume of solute}}{\text{volume of solution}}}\times 100}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9b5c1def05e851a2f7e53f870b963bdbb52201b5" style="vertical-align: -2.005ex; width:43.997ex; height:5.509ex;"/></span></dd></dl>
+<p><a href="/wiki/Volume" title="Volume">Volume</a> percent is usually used when the solution is made by mixing two <a href="/wiki/Fluid" title="Fluid">fluids</a>, such as <a class="mw-redirect" href="/wiki/Liquids" title="Liquids">liquids</a> or <a class="mw-redirect" href="/wiki/Gases" title="Gases">gases</a>. However, <a class="mw-redirect" href="/wiki/Percentages" title="Percentages">percentages</a> are only additive for <a href="/wiki/Ideal_gas" title="Ideal gas">ideal gases</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p><p>The <b>percentage by volume</b> (<b>vol%</b>) is one way of expressing the composition of a mixture with a <a href="/wiki/Dimensionless_quantity" title="Dimensionless quantity">dimensionless quantity</a>; <a href="/wiki/Mass_fraction_(chemistry)" title="Mass fraction (chemistry)">mass fraction</a> (percentage by weight, wt%) and <a href="/wiki/Mole_fraction" title="Mole fraction">mole fraction</a> (percentage by <a href="/wiki/Mole_(unit)" title="Mole (unit)">moles</a>, mol%) are others.
+</p><p>In the case of a mixture of ethanol and water, which are <a class="mw-redirect" href="/wiki/Miscible" title="Miscible">miscible</a> in all proportions, the designation of solvent and solute is arbitrary. The volume of such a mixture is slightly less than the sum of the volumes of the components. Thus, by the above definition, the term "40% alcohol by volume" refers to a mixture of 40 volume units of ethanol with enough water to make a final volume of 100 units, rather than a mixture of 40 units of ethanol with 60 units of water.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volume_fraction&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Alcohol_by_volume" title="Alcohol by volume">Alcohol by volume</a></li>
+<li>For non-ideal mixtures, see <a class="mw-redirect" href="/wiki/Partial_molar_volume" title="Partial molar volume">Partial molar volume</a> and <a href="/wiki/Excess_molar_quantity" title="Excess molar quantity">Excess molar quantity</a></li>
+<li><a href="/wiki/Alcohol_proof" title="Alcohol proof">Alcohol proof</a></li>
+<li><a class="mw-redirect" href="/wiki/Alcohol_meter" title="Alcohol meter">Alcohol meter</a></li>
+<li><a href="/wiki/Apparent_molar_property" title="Apparent molar property">Apparent molar property</a></li>
+<li><a href="/wiki/Percentage" title="Percentage">Percentage</a></li></ul>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/Volume_percent" title="wiktionary:Volume percent">Volume percent</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Volume_fraction&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">IUPAC</a>, <i><a class="mw-redirect" href="/wiki/Compendium_of_Chemical_Terminology" title="Compendium of Chemical Terminology">Compendium of Chemical Terminology</a></i>, 2nd ed. (the "Gold Book") (1997). Online corrected version:  (2006–) "<a class="external text" href="http://goldbook.iupac.org/V06643.html" rel="nofollow">volume fraction</a>".</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.chembuddy.com/?left=concentration&amp;right=volume-volume-percentage" rel="nofollow"><i>Volume-volume percentage</i></a>, <a class="external text" href="http://www.chembuddy.com/?left=about" rel="nofollow">Chembuddy</a> <a href="/wiki/Website" title="Website">website</a></span>
+</li>
+</ol></div></div>
+<div aria-labelledby="Articles_related_to_solutions" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Chemical_solutions" title="Template:Chemical solutions"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Chemical_solutions" title="Template talk:Chemical solutions"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chemical_solutions&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Articles_related_to_solutions" style="font-size:114%;margin:0 4em">Articles related to <a href="/wiki/Solution" title="Solution">solutions</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Solution" title="Solution">Solution</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ideal_solution" title="Ideal solution">Ideal solution</a></li>
+<li><a href="/wiki/Aqueous_solution" title="Aqueous solution">Aqueous solution</a></li>
+<li><a href="/wiki/Solid_solution" title="Solid solution">Solid solution</a></li>
+<li><a href="/wiki/Buffer_solution" title="Buffer solution">Buffer solution</a></li>
+<li><a href="/wiki/Flory%E2%80%93Huggins_solution_theory" title="Flory–Huggins solution theory">Flory–Huggins</a></li>
+<li><a href="/wiki/Mixture" title="Mixture">Mixture</a></li>
+<li><a href="/wiki/Suspension_(chemistry)" title="Suspension (chemistry)">Suspension</a></li>
+<li><a href="/wiki/Colloid" title="Colloid">Colloid</a></li>
+<li><a href="/wiki/Phase_diagram" title="Phase diagram">Phase diagram</a></li>
+<li><a href="/wiki/Eutectic_system" title="Eutectic system">Eutectic point</a></li>
+<li><a href="/wiki/Alloy" title="Alloy">Alloy</a></li>
+<li><a href="/wiki/Saturation_(chemistry)" title="Saturation (chemistry)">Saturation</a></li>
+<li><a href="/wiki/Supersaturation" title="Supersaturation">Supersaturation</a></li>
+<li><a href="/wiki/Serial_dilution" title="Serial dilution">Serial dilution</a></li>
+<li><a href="/wiki/Dilution_(equation)" title="Dilution (equation)">Dilution (equation)</a></li>
+<li><a href="/wiki/Apparent_molar_property" title="Apparent molar property">Apparent molar property</a></li>
+<li><a href="/wiki/Miscibility_gap" title="Miscibility gap">Miscibility gap</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Concentration" title="Concentration">Concentration</a><br/>and related quantities</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Molar_concentration" title="Molar concentration">Molar concentration</a></li>
+<li><a href="/wiki/Mass_concentration_(chemistry)" title="Mass concentration (chemistry)">Mass concentration</a></li>
+<li><a href="/wiki/Number_density" title="Number density">Number concentration</a></li>
+<li><a class="mw-selflink selflink">Volume concentration</a></li>
+<li><a href="/wiki/Equivalent_concentration" title="Equivalent concentration">Normality</a></li>
+<li><a class="mw-redirect mw-disambig" href="/wiki/Percentage_solution_(disambiguation)" title="Percentage solution (disambiguation)">Percentage solution</a></li>
+<li><a href="/wiki/Molality" title="Molality">Molality</a></li>
+<li><a href="/wiki/Mole_fraction" title="Mole fraction">Mole fraction</a></li>
+<li><a href="/wiki/Mass_fraction_(chemistry)" title="Mass fraction (chemistry)">Mass fraction</a></li>
+<li><a href="/wiki/Natural_abundance" title="Natural abundance">Isotopic abundance</a></li>
+<li><a href="/wiki/Mixing_ratio" title="Mixing ratio">Mixing ratio</a></li>
+<li><a href="/wiki/Ternary_plot" title="Ternary plot">Ternary plot</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Solubility" title="Solubility">Solubility</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Solubility_equilibrium" title="Solubility equilibrium">Solubility equilibrium</a></li>
+<li><a href="/wiki/Total_dissolved_solids" title="Total dissolved solids">Total dissolved solids</a></li>
+<li><a href="/wiki/Solvation" title="Solvation">Solvation</a></li>
+<li><a href="/wiki/Solvation_shell" title="Solvation shell">Solvation shell</a></li>
+<li><a href="/wiki/Enthalpy_change_of_solution" title="Enthalpy change of solution">Enthalpy of solution</a></li>
+<li><a href="/wiki/Lattice_energy" title="Lattice energy">Lattice energy</a></li>
+<li><a href="/wiki/Raoult%27s_law" title="Raoult's law">Raoult's law</a></li>
+<li><a href="/wiki/Henry%27s_law" title="Henry's law">Henry's law</a></li>
+<li><a href="/wiki/Solubility_table" title="Solubility table">Solubility table (data)</a></li>
+<li><a href="/wiki/Solubility_chart" title="Solubility chart">Solubility chart</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Solvent" title="Solvent">Solvent</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>(<a href="/wiki/Category:Solvents" title="Category:Solvents">Category</a>)</li>
+<li><a href="/wiki/Acid_dissociation_constant" title="Acid dissociation constant">Acid dissociation constant</a></li>
+<li><a href="/wiki/Protic_solvent" title="Protic solvent">Protic solvent</a></li>
+<li><a href="/wiki/Inorganic_nonaqueous_solvent" title="Inorganic nonaqueous solvent">Inorganic nonaqueous solvent</a></li>
+<li><a href="/wiki/Solvation" title="Solvation">Solvation</a></li>
+<li><a href="/wiki/List_of_boiling_and_freezing_information_of_solvents" title="List of boiling and freezing information of solvents">List of boiling and freezing information of solvents</a></li>
+<li><a href="/wiki/Partition_coefficient" title="Partition coefficient">Partition coefficient</a></li>
+<li><a href="/wiki/Chemical_polarity" title="Chemical polarity">Polarity</a></li>
+<li><a href="/wiki/Hydrophobe" title="Hydrophobe">Hydrophobe</a></li>
+<li><a href="/wiki/Hydrophile" title="Hydrophile">Hydrophile</a></li>
+<li><a href="/wiki/Lipophilicity" title="Lipophilicity">Lipophilic</a></li>
+<li><a href="/wiki/Amphiphile" title="Amphiphile">Amphiphile</a></li>
+<li><a href="/wiki/Lyonium_ion" title="Lyonium ion">Lyonium ion</a></li>
+<li><a href="/wiki/Lyate_ion" title="Lyate ion">Lyate ion</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20181010181235
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.088 seconds
+Real time usage: 0.323 seconds
+Preprocessor visited node count: 282/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 13656/2097152 bytes
+Template argument size: 236/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1126/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.013/10.000 seconds
+Lua memory usage: 801 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   63.195      1 -total
+ 51.10%   32.294      1 Template:Wiktionary
+ 41.77%   26.396      1 Template:Sister_project
+ 36.42%   23.014      1 Template:Side_box
+ 27.94%   17.656      1 Template:Chemical_solutions
+ 23.90%   15.101      1 Template:Navbox
+ 20.65%   13.050      1 Template:Reflist
+  3.62%    2.290      1 Template:Main_other
+  3.01%    1.903      1 Template:GoldBookRef
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3600408-0!canonical!math=5 and timestamp 20181010181234 and revision id 797189849
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Volume_fraction&amp;oldid=797189849">https://en.wikipedia.org/w/index.php?title=Volume_fraction&amp;oldid=797189849</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Dimensionless_numbers_of_chemistry" title="Category:Dimensionless numbers of chemistry">Dimensionless numbers of chemistry</a></li><li><a href="/wiki/Category:Physical_chemistry" title="Category:Physical chemistry">Physical chemistry</a></li><li><a href="/wiki/Category:Thermodynamics" title="Category:Thermodynamics">Thermodynamics</a></li><li><a href="/wiki/Category:Analytical_chemistry" title="Category:Analytical chemistry">Analytical chemistry</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Volume+fraction" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Volume+fraction" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Volume_fraction" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Volume_fraction" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Volume_fraction">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Volume_fraction&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Volume_fraction&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Volume_fraction" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Volume_fraction" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Volume_fraction&amp;oldid=797189849" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Volume_fraction&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q909482" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Volume_fraction&amp;id=797189849" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Volume+fraction">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Volume+fraction&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Volume_fraction&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%83%D8%B3%D8%B1_%D8%AD%D8%AC%D9%85%D9%8A" hreflang="ar" lang="ar" title="كسر حجمي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%90%D0%B1%E2%80%99%D1%91%D0%BC%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F" hreflang="be" lang="be" title="Аб’ёмная доля – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Fracci%C3%B3_volum%C3%A8trica" hreflang="ca" lang="ca" title="Fracció volumètrica – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Volumenanteil" hreflang="de" lang="de" title="Volumenanteil – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Porcentaje_en_volumen" hreflang="es" lang="es" title="Porcentaje en volumen – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%A9%D8%B3%D8%B1_%D8%AD%D8%AC%D9%85%DB%8C" hreflang="fa" lang="fa" title="کسر حجمی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Fraction_volumique" hreflang="fr" lang="fr" title="Fraction volumique – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Porcentaxe_en_volume" hreflang="gl" lang="gl" title="Porcentaxe en volume – Galician">Galego</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Fraksi_volume" hreflang="id" lang="id" title="Fraksi volume – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Frazione_volumica" hreflang="it" lang="it" title="Frazione volumica – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E4%BD%93%E7%A9%8D%E5%88%86%E7%8E%87" hreflang="ja" lang="ja" title="体積分率 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/U%C5%82amek_obj%C4%99to%C5%9Bciowy" hreflang="pl" lang="pl" title="Ułamek objętościowy – Polish">Polski</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Frac%C8%9Bie_volumic%C4%83" hreflang="ro" lang="ro" title="Fracție volumică – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%8A%D1%91%D0%BC%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE%D0%BB%D1%8F" hreflang="ru" lang="ru" title="Объёмная доля – Russian">Русский</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Volymfraktion" hreflang="sv" lang="sv" title="Volymfraktion – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9E%D0%B1%27%D1%94%D0%BC%D0%BD%D0%B0_%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%B0" hreflang="uk" lang="uk" title="Об'ємна частка – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E4%BD%93%E7%A7%AF%E5%88%86%E6%95%B0" hreflang="zh" lang="zh" title="体积分数 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q909482#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 25 August 2017, at 13:40<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Volume_fraction&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.088","walltime":"0.323","ppvisitednodes":{"value":282,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":13656,"limit":2097152},"templateargumentsize":{"value":236,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1126,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   63.195      1 -total"," 51.10%   32.294      1 Template:Wiktionary"," 41.77%   26.396      1 Template:Sister_project"," 36.42%   23.014      1 Template:Side_box"," 27.94%   17.656      1 Template:Chemical_solutions"," 23.90%   15.101      1 Template:Navbox"," 20.65%   13.050      1 Template:Reflist","  3.62%    2.290      1 Template:Main_other","  3.01%    1.903      1 Template:GoldBookRef"]},"scribunto":{"limitreport-timeusage":{"value":"0.013","limit":"10.000"},"limitreport-memusage":{"value":820336,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20181010181235","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1272"});});</script>
+</body>
+</html>

@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Biogeochemistry - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Biogeochemistry","wgTitle":"Biogeochemistry","wgCurRevisionId":855472784,"wgRevisionId":855472784,"wgArticleId":822575,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Wikipedia articles with GND identifiers","Chemical oceanography","Systems ecology","Biogeochemistry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Biogeochemistry","wgRelevantArticleId":822575,"wgRequestId":"W74nNgpAICkAAKSvKScAAAAI","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q864379","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Biogeochemistry" rel="alternate"/>
+<link href="/w/index.php?title=Biogeochemistry&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Biogeochemistry&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Biogeochemistry" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Biogeochemistry rootpage-Biogeochemistry skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Biogeochemistry</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">The study of chemical cycles of the earth that are either driven by or influence biological activity</div>
+<p><b>Biogeochemistry</b> is the <a href="/wiki/Branches_of_science" title="Branches of science">scientific discipline</a> that involves the study of the <a href="/wiki/Chemistry" title="Chemistry">chemical</a>, <a href="/wiki/Physics" title="Physics">physical</a>, <a href="/wiki/Geology" title="Geology">geological</a>, and <a href="/wiki/Biology" title="Biology">biological</a> processes and reactions that govern the composition of the natural environment (including the <a href="/wiki/Biosphere" title="Biosphere">biosphere</a>, the <a href="/wiki/Cryosphere" title="Cryosphere">cryosphere</a>, the <a href="/wiki/Hydrosphere" title="Hydrosphere">hydrosphere</a>, the <a href="/wiki/Pedosphere" title="Pedosphere">pedosphere</a>, the <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">atmosphere</a>, and the <a href="/wiki/Lithosphere" title="Lithosphere">lithosphere</a>). In particular, biogeochemistry is the study of the <a href="/wiki/Biogeochemical_cycle" title="Biogeochemical cycle">cycles</a> of <a href="/wiki/Chemical_element" title="Chemical element">chemical elements</a>, such as <a href="/wiki/Carbon" title="Carbon">carbon</a> and <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a>, and their interactions with and incorporation into <a href="/wiki/Life" title="Life">living things</a> transported through earth scale biological systems in space through time. The field focuses on chemical cycles which are either driven by or influence biological activity. Particular emphasis is placed on the study of <a href="/wiki/Carbon_cycle" title="Carbon cycle">carbon</a>, <a href="/wiki/Nitrogen_cycle" title="Nitrogen cycle">nitrogen</a>, <a href="/wiki/Sulfur_cycle" title="Sulfur cycle">sulfur</a>, and <a href="/wiki/Phosphorus_cycle" title="Phosphorus cycle">phosphorus</a> cycles. Biogeochemistry is a <a class="mw-redirect" href="/wiki/Systems_thinking" title="Systems thinking">systems science</a> closely related to <a href="/wiki/Systems_ecology" title="Systems ecology">systems ecology</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Early_development"><span class="tocnumber">2</span> <span class="toctext">Early development</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Research"><span class="tocnumber">3</span> <span class="toctext">Research</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Representative_books_and_publications"><span class="tocnumber">6</span> <span class="toctext">Representative books and publications</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biogeochemistry&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:5009-0006-reverse.gif"><img alt="" class="thumbimage" data-file-height="229" data-file-width="230" height="219" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5009-0006-reverse.gif/220px-5009-0006-reverse.gif" srcset="//upload.wikimedia.org/wikipedia/commons/f/fc/5009-0006-reverse.gif 1.5x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:5009-0006-reverse.gif" title="Enlarge"></a></div>Vladimir Vernadsky</div></div></div>
+<p>The founder of biogeochemistry was <a href="/wiki/Russia" title="Russia">Russian</a> scientist <a href="/wiki/Vladimir_Vernadsky" title="Vladimir Vernadsky">Vladimir Vernadsky</a>  whose 1926 book <i>The <a href="/wiki/Biosphere" title="Biosphere">Biosphere</a></i>,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> in the tradition of <a class="mw-redirect" href="/wiki/Mendeleev" title="Mendeleev">Mendeleev</a>, formulated a physics of the earth as a living whole. Vernadsky distinguished three spheres, where a sphere was a concept similar to the concept of a <a class="mw-redirect" href="/wiki/Phase-space" title="Phase-space">phase-space</a>. He observed that each sphere had its own laws of <a href="/wiki/Evolution" title="Evolution">evolution</a>, and that the higher spheres modified and dominated the lower:
+</p>
+<ol><li>Abiotic sphere – all the non-living energy and material processes</li>
+<li>Biosphere – the life processes that live within the abiotic sphere</li>
+<li>Nöesis or <a href="/wiki/Noosphere" title="Noosphere">noosphere</a> – the sphere of human cognitive process</li></ol>
+<p>Human activities (e.g., agriculture and industry) modify the biosphere and abiotic sphere.  In the contemporary environment, the amount of influence humans have on the other two spheres is comparable to a geological force (see <a href="/wiki/Anthropocene" title="Anthropocene">Anthropocene</a>).
+</p>
+<h2><span class="mw-headline" id="Early_development">Early development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biogeochemistry&amp;action=edit&amp;section=2" title="Edit section: Early development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The American <a href="/wiki/Limnology" title="Limnology">limnologist</a> and <a href="/wiki/Geochemistry" title="Geochemistry">geochemist</a> <a href="/wiki/G._Evelyn_Hutchinson" title="G. Evelyn Hutchinson">G. Evelyn Hutchinson</a> is credited with outlining the broad scope and principles of this new field. More recently, the basic elements of the discipline of biogeochemistry were restated and popularized by the British scientist and writer, <a href="/wiki/James_Lovelock" title="James Lovelock">James Lovelock</a>, under the label of the <i><a class="mw-redirect" href="/wiki/Gaia_theory_(science)" title="Gaia theory (science)">Gaia Hypothesis</a></i>.  Lovelock emphasizes a concept that life processes regulate the Earth through <a href="/wiki/Feedback" title="Feedback">feedback</a> mechanisms to keep it habitable.
+</p>
+<h2><span class="mw-headline" id="Research">Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biogeochemistry&amp;action=edit&amp;section=3" title="Edit section: Research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are biogeochemistry research groups in many universities around the world.  Since this is a highly inter-disciplinary field, these are situated within a wide range of host disciplines including: <a href="/wiki/Atmospheric_sciences" title="Atmospheric sciences">atmospheric sciences</a>, <a href="/wiki/Biology" title="Biology">biology</a>, <a href="/wiki/Ecology" title="Ecology">ecology</a>, <a href="/wiki/Geomicrobiology" title="Geomicrobiology">geomicrobiology</a>, <a href="/wiki/Environmental_chemistry" title="Environmental chemistry">environmental chemistry</a>, <a href="/wiki/Geology" title="Geology">geology</a>, <a href="/wiki/Oceanography" title="Oceanography">oceanography</a> and <a href="/wiki/Soil_science" title="Soil science">soil science</a>.  These are often bracketed into larger disciplines such as <a href="/wiki/Earth_science" title="Earth science">earth science</a> and <a href="/wiki/Environmental_science" title="Environmental science">environmental science</a>.
+</p><p>Many researchers investigate the <a href="/wiki/Biogeochemical_cycle" title="Biogeochemical cycle">biogeochemical cycles</a> of <a href="/wiki/Chemical_element" title="Chemical element">chemical elements</a> such as <a href="/wiki/Carbon" title="Carbon">carbon</a>, <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>, <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a>, <a href="/wiki/Phosphorus" title="Phosphorus">phosphorus</a> and <a href="/wiki/Sulfur" title="Sulfur">sulfur</a>, as well as their <a class="mw-redirect" href="/wiki/Stable_isotope" title="Stable isotope">stable isotopes</a>.  The cycles of <a href="/wiki/Trace_element" title="Trace element">trace elements</a> such as the <a href="/wiki/Trace_metal" title="Trace metal">trace metals</a> and the <a href="/wiki/Radionuclide" title="Radionuclide">radionuclides</a> are also studied. This research has obvious applications in the exploration for ore deposits and oil, and in remediation of environmental pollution.
+</p><p>Some important research fields for biogeochemistry include:
+</p>
+<ul><li><a class="mw-redirect" href="/wiki/Scientific_model" title="Scientific model">modelling</a> of natural systems</li>
+<li>soil and water acidification recovery processes</li>
+<li><a href="/wiki/Eutrophication" title="Eutrophication">eutrophication</a> of surface waters</li>
+<li><a href="/wiki/Carbon_sequestration" title="Carbon sequestration">carbon sequestration</a></li>
+<li><a href="/wiki/Environmental_remediation" title="Environmental remediation">Environmental remediation</a></li>
+<li><a href="/wiki/Global_change" title="Global change">global change</a></li>
+<li><a href="/wiki/Climate_change" title="Climate change">climate change</a></li>
+<li>biogeochemical <a href="/wiki/Prospecting" title="Prospecting">prospecting</a> for ore deposits</li>
+<li><a href="/wiki/Soil_chemistry" title="Soil chemistry">Soil chemistry</a></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biogeochemistry&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Acid_rain" title="Acid rain">Acid rain</a></li>
+<li><a class="mw-redirect" href="/wiki/ADEPD" title="ADEPD">Atlantic Data Base of Exchange Processes at the Deep Sea Floor</a></li>
+<li><a href="/wiki/Carbon_sink" title="Carbon sink">Carbon sink</a></li>
+<li><a href="/wiki/Ecosystem_model" title="Ecosystem model">Ecosystem model</a></li>
+<li><a href="/wiki/Edaphology" title="Edaphology">Edaphology</a></li>
+<li><a href="/wiki/Environmental_engineering_science" title="Environmental engineering science">Environmental engineering science</a></li>
+<li><a href="/wiki/Geochemistry" title="Geochemistry">Geochemistry</a></li>
+<li><a class="mw-redirect" href="/wiki/Geophysiology" title="Geophysiology">Geophysiology</a></li>
+<li><a class="mw-redirect" href="/wiki/GEOTRACES" title="GEOTRACES">GEOTRACES</a></li>
+<li><a href="/wiki/Hydrogen_isotope_biogeochemistry" title="Hydrogen isotope biogeochemistry">Hydrogen isotope biogeochemistry</a></li>
+<li><a href="/wiki/IMBER" title="IMBER">IMBER</a></li>
+<li><a class="mw-redirect" href="/wiki/Pedology_(soil_study)" title="Pedology (soil study)">Pedology (soil study)</a></li>
+<li><a href="/wiki/Physical_impacts_of_climate_change" title="Physical impacts of climate change">Physical impacts of climate change</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biogeochemistry&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Vladimir I. Vernadsky, 2007, Essays on Geochemistry &amp; the Biosphere, tr. Olga Barash, Santa Fe, NM, Synergetic Press, <style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-907791-36-0" title="Special:BookSources/0-907791-36-0">0-907791-36-0</a> (originally published in Russian in 1924)</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Representative_books_and_publications">Representative books and publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biogeochemistry&amp;action=edit&amp;section=6" title="Edit section: Representative books and publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r853264625">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
+<ul><li>Vladimir I. Vernadsky, 2007, Essays on Geochemistry &amp; the Biosphere, tr. Olga Barash, Santa Fe, NM, Synergetic Press, <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-907791-36-0" title="Special:BookSources/0-907791-36-0">0-907791-36-0</a>  (originally published in Russian in 1924)</li>
+<li>Schlesinger, W. H. 1997. Biogeochemistry: An Analysis of Global Change, 2nd edition. Academic Press, San Diego, Calif.  <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-12-625155-X" title="Special:BookSources/0-12-625155-X">0-12-625155-X</a>.</li>
+<li>Schlesinger, W.H., 2005. Biogeochemistry. Vol. 8 in: Treatise on Geochemistry. Elsevier Science. <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-08-044642-6" title="Special:BookSources/0-08-044642-6">0-08-044642-6</a></li>
+<li>Vladimir N. Bashkin, 2002, Modern Biogeochemistry. Kluwer, <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-4020-0992-5" title="Special:BookSources/1-4020-0992-5">1-4020-0992-5</a>.</li>
+<li>Samuel S. Butcher et al. (Eds.), 1992, Global Biogeochemical Cycles. Academic, <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-12-147685-5" title="Special:BookSources/0-12-147685-5">0-12-147685-5</a>.</li>
+<li>Susan M. Libes, 1992, Introduction to Marine Biogeochemistry. Wiley, <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-471-50946-9" title="Special:BookSources/0-471-50946-9">0-471-50946-9</a>.</li>
+<li>Dmitrii Malyuga, 1995, Biogeochemical Methods of Prospecting. Springer, <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-306-10682-8" title="Special:BookSources/978-0-306-10682-8">978-0-306-10682-8</a>.</li>
+<li><i>Global Biogeochemical Cycles</i><a class="external autonumber" href="http://www.agu.org/journals/gb/" rel="nofollow">[1]</a>. A journal published by the <a href="/wiki/American_Geophysical_Union" title="American Geophysical Union">American Geophysical Union</a>.</li>
+<li><cite class="citation book">Cullen, Jay T.; McAlister, Jason (2017). "Chapter 2. Biogeochemistry of Lead. Its Release to the Environment and Chemical Speciation".  In Astrid, S.; Helmut, S.; Sigel, R. K. O. <i>Lead: Its Effects on Environment and Health</i>. Metal Ions in Life Sciences. <b>17</b>. de Gruyter. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1515%2F9783110434330-002" rel="nofollow">10.1515/9783110434330-002</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Chapter+2.+Biogeochemistry+of+Lead.+Its+Release+to+the+Environment+and+Chemical+Speciation&amp;rft.btitle=Lead%3A+Its+Effects+on+Environment+and+Health&amp;rft.series=Metal+Ions+in+Life+Sciences&amp;rft.pub=de+Gruyter&amp;rft.date=2017&amp;rft_id=info%3Adoi%2F10.1515%2F9783110434330-002&amp;rft.aulast=Cullen&amp;rft.aufirst=Jay+T.&amp;rft.au=McAlister%2C+Jason&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiogeochemistry"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li>Woolman, T. A., &amp; John, C. Y., 2013, An Analysis of the Use of Predictive Modeling with Business Intelligence Systems for Exploration of Precious Metals Using Biogeochemical Data. International Journal of Business Intelligence Research (IJBIR), 4(2), 39-53.v <a class="external autonumber" href="https://www.igi-global.com/article/content/78275" rel="nofollow">[2]</a>.</li>
+<li><i>Biogeochemistry</i> <a class="external autonumber" href="https://www.springer.com/west/home/geosciences?SGWID=4-10006-70-35757517-0" rel="nofollow">[3]</a>. A journal published by Springer.</li></ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biogeochemistry&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://web.archive.org/web/20041113141704/http://www.treatiseongeochemistry.com/contents/vol8.html" rel="nofollow">Treatise on Geochemistry Volume 8. Biogeochemistry</a></li>
+<li><a class="external text" href="http://www.igbp.net/" rel="nofollow">International Geosphere-Biosphere Programme</a></li></ul>
+<div aria-labelledby="Branches_of_chemistry" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Branches_of_chemistry" title="Template:Branches of chemistry"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Branches_of_chemistry" title="Template talk:Branches of chemistry"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Branches_of_chemistry&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Branches_of_chemistry" style="font-size:114%;margin:0 4em">Branches of <a href="/wiki/Chemistry" title="Chemistry">chemistry</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Dictionary_of_chemical_formulas&amp;#10;*_List_of_biomolecules&amp;#10;*_List_of_inorganic_compounds&amp;#10;*_Periodic_table">
+<ul><li><a class="mw-redirect" href="/wiki/Dictionary_of_chemical_formulas" title="Dictionary of chemical formulas">Dictionary of chemical formulas</a></li>
+<li><a href="/wiki/List_of_biomolecules" title="List of biomolecules">List of biomolecules</a></li>
+<li><a href="/wiki/List_of_inorganic_compounds" title="List of inorganic compounds">List of inorganic compounds</a></li>
+<li><a href="/wiki/Periodic_table" title="Periodic table">Periodic table</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Physical_chemistry" title="Physical chemistry">Physical</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chemical_kinetics" title="Chemical kinetics">Chemical kinetics</a></li>
+<li><a href="/wiki/Chemical_physics" title="Chemical physics">Chemical physics</a></li>
+<li><a href="/wiki/Nuclear_chemistry" title="Nuclear chemistry">Nuclear chemistry</a></li>
+<li><a href="/wiki/Electrochemistry" title="Electrochemistry">Electrochemistry</a></li>
+<li><a href="/wiki/Femtochemistry" title="Femtochemistry">Femtochemistry</a></li>
+<li><a href="/wiki/Geochemistry" title="Geochemistry">Geochemistry</a></li>
+<li><a href="/wiki/Photochemistry" title="Photochemistry">Photochemistry</a></li>
+<li><a href="/wiki/Quantum_chemistry" title="Quantum chemistry">Quantum chemistry</a></li>
+<li><a href="/wiki/Solid-state_chemistry" title="Solid-state chemistry">Solid-state chemistry</a></li>
+<li><a href="/wiki/Spectroscopy" title="Spectroscopy">Spectroscopy</a></li>
+<li><a href="/wiki/Surface_science" title="Surface science">Surface science</a></li>
+<li><a href="/wiki/Thermochemistry" title="Thermochemistry">Thermochemistry</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Organic_chemistry" title="Organic chemistry">Organic</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biochemistry" title="Biochemistry">Biochemistry</a></li>
+<li><a href="/wiki/Bioorganic_chemistry" title="Bioorganic chemistry">Bioorganic chemistry</a></li>
+<li><a href="/wiki/Biophysical_chemistry" title="Biophysical chemistry">Biophysical chemistry</a></li>
+<li><a href="/wiki/Chemical_biology" title="Chemical biology">Chemical biology</a></li>
+<li><a href="/wiki/Clinical_chemistry" title="Clinical chemistry">Clinical chemistry</a></li>
+<li><a href="/wiki/Fullerene_chemistry" title="Fullerene chemistry">Fullerene chemistry</a></li>
+<li><a href="/wiki/Medicinal_chemistry" title="Medicinal chemistry">Medicinal chemistry</a></li>
+<li><a href="/wiki/Neurochemistry" title="Neurochemistry">Neurochemistry</a></li>
+<li><a href="/wiki/Pharmacy" title="Pharmacy">Pharmacy</a></li>
+<li><a href="/wiki/Physical_organic_chemistry" title="Physical organic chemistry">Physical organic chemistry</a></li>
+<li><a href="/wiki/Polymer_chemistry" title="Polymer chemistry">Polymer chemistry</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Inorganic_chemistry" title="Inorganic chemistry">Inorganic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bioinorganic_chemistry" title="Bioinorganic chemistry">Bioinorganic chemistry</a></li>
+<li><a href="/wiki/Cluster_chemistry" title="Cluster chemistry">Cluster chemistry</a></li>
+<li><a class="mw-redirect" href="/wiki/Coordination_chemistry" title="Coordination chemistry">Coordination chemistry</a></li>
+<li><a href="/wiki/Materials_science" title="Materials science">Materials science</a></li>
+<li><a href="/wiki/Organometallic_chemistry" title="Organometallic chemistry">Organometallic chemistry</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Others</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Actinide_chemistry" title="Actinide chemistry">Actinide chemistry</a></li>
+<li><a href="/wiki/Analytical_chemistry" title="Analytical chemistry">Analytical chemistry</a></li>
+<li><a href="/wiki/Astrochemistry" title="Astrochemistry">Astrochemistry</a></li>
+<li><a href="/wiki/Atmospheric_chemistry" title="Atmospheric chemistry">Atmospheric chemistry</a></li>
+<li><a href="/wiki/Chemistry_education" title="Chemistry education">Chemistry education</a></li>
+<li><a href="/wiki/Clay_chemistry" title="Clay chemistry">Clay chemistry</a></li>
+<li><a href="/wiki/Click_chemistry" title="Click chemistry">Click chemistry</a></li>
+<li><a href="/wiki/Computational_chemistry" title="Computational chemistry">Computational chemistry</a></li>
+<li><a href="/wiki/Cosmochemistry" title="Cosmochemistry">Cosmochemistry</a></li>
+<li><a href="/wiki/Environmental_chemistry" title="Environmental chemistry">Environmental chemistry</a></li>
+<li><a href="/wiki/Food_chemistry" title="Food chemistry">Food chemistry</a></li>
+<li><a href="/wiki/Forensic_chemistry" title="Forensic chemistry">Forensic chemistry</a></li>
+<li><a href="/wiki/Green_chemistry" title="Green chemistry">Green chemistry</a></li>
+<li><a href="/wiki/Ocean_chemistry" title="Ocean chemistry">Ocean chemistry</a></li>
+<li><a href="/wiki/Post-mortem_chemistry" title="Post-mortem chemistry">Post-mortem chemistry</a></li>
+<li><a href="/wiki/Supramolecular_chemistry" title="Supramolecular chemistry">Supramolecular chemistry</a></li>
+<li><a href="/wiki/Theoretical_chemistry" title="Theoretical chemistry">Theoretical chemistry</a></li>
+<li><a href="/wiki/Wet_chemistry" title="Wet chemistry">Wet chemistry</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <b><a href="/wiki/Category:Chemistry" title="Category:Chemistry">Category</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q864379&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q864379&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q864379" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4125243-3" rel="nofollow">4125243-3</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-label="Portals" class="noprint metadata navbox" role="navigation" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:The_Earth_seen_from_Apollo_17_with_transparent_background.png"><img alt="The Earth seen from Apollo 17 with transparent background.png" data-file-height="2776" data-file-width="2790" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/21px-The_Earth_seen_from_Apollo_17_with_transparent_background.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/32px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/42px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 2x" width="21"/></a></span><a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">Earth sciences portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:Earth_Day_Flag.png"><img alt="Earth Day Flag.png" data-file-height="4000" data-file-width="6000" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/24px-Earth_Day_Flag.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/36px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 2x" width="24"/></a></span><a href="/wiki/Portal:Ecology" title="Portal:Ecology">Ecology portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:Aegopodium_podagraria1_ies.jpg"><img alt="Aegopodium podagraria1 ies.jpg" data-file-height="700" data-file-width="800" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/24px-Aegopodium_podagraria1_ies.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/36px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 2x" width="24"/></a></span><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a class="image" href="/wiki/File:Sustainable_development.svg"><img alt="Sustainable development.svg" data-file-height="510" data-file-width="800" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/24px-Sustainable_development.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/36px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/48px-Sustainable_development.svg.png 2x" width="24"/></a></span><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development portal</a></span></li></ul></div>
+<!-- 
+NewPP limit report
+Parsed by mw1302
+Cached time: 20181010150536
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.352 seconds
+Real time usage: 0.985 seconds
+Preprocessor visited node count: 1868/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 27381/2097152 bytes
+Template argument size: 2126/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 15026/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.126/10.000 seconds
+Lua memory usage: 3.15 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  894.842      1 -total
+ 26.96%  241.278      1 Template:Cite_book
+ 24.25%  216.958      8 Template:ISBN
+ 19.97%  178.717      1 Template:Reflist
+ 17.47%  156.357      1 Template:Short_description
+ 17.22%  154.127      1 Template:Pagetype
+ 13.83%  123.787      1 Template:BranchesofChemistry
+ 13.37%  119.611      1 Template:Navbox
+ 12.45%  111.387      8 Template:Catalog_lookup_link
+  7.51%   67.168      1 Template:Portal_bar
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:822575-0!canonical and timestamp 20181010150536 and revision id 855472784
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Biogeochemistry&amp;oldid=855472784">https://en.wikipedia.org/w/index.php?title=Biogeochemistry&amp;oldid=855472784</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chemical_oceanography" title="Category:Chemical oceanography">Chemical oceanography</a></li><li><a href="/wiki/Category:Systems_ecology" title="Category:Systems ecology">Systems ecology</a></li><li><a href="/wiki/Category:Biogeochemistry" title="Category:Biogeochemistry">Biogeochemistry</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Biogeochemistry" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Biogeochemistry" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Biogeochemistry" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Biogeochemistry" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Biogeochemistry">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Biogeochemistry&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Biogeochemistry&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Biogeochemistry" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Biogeochemistry" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Biogeochemistry&amp;oldid=855472784" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Biogeochemistry&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q864379" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Biogeochemistry&amp;id=855472784" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Biogeochemistry">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Biogeochemistry&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Biogeochemistry&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Biogeochemistry" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D9%88%D8%AC%D9%8A%D9%88%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1" hreflang="ar" lang="ar" title="بيوجيوكيمياء – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Biogeokimya" hreflang="az" lang="az" title="Biogeokimya – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%B3%D0%B5%D0%BE%D1%85%D0%B8%D0%BC%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Биогеохимия – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Biogeoqu%C3%ADmica" hreflang="ca" lang="ca" title="Biogeoquímica – Catalan">Català</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Biogeokemi" hreflang="da" lang="da" title="Biogeokemi – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Biogeochemie" hreflang="de" lang="de" title="Biogeochemie – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Biogeokeemia" hreflang="et" lang="et" title="Biogeokeemia – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Biogeoqu%C3%ADmica" hreflang="es" lang="es" title="Biogeoquímica – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Biog%C3%A9ochimie" hreflang="fr" lang="fr" title="Biogéochimie – French">Français</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%BF%D5%A5%D5%B6%D5%BD%D5%A1%D5%A5%D6%80%D5%AF%D6%80%D5%A1%D6%84%D5%AB%D5%B4%D5%AB%D5%A1" hreflang="hy" lang="hy" title="Կենսաերկրաքիմիա – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Biogeokimia" hreflang="id" lang="id" title="Biogeokimia – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Biogeochimica" hreflang="it" lang="it" title="Biogeochimica – Italian">Italiano</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%B3%D0%B5%D0%BE%D1%85%D0%B8%D0%BC%D0%B8%D1%8F%D0%BB%D1%8B%D2%9B_%D0%B1%D0%B5%D0%BB%D0%B4%D0%B5%D0%BC" hreflang="kk" lang="kk" title="Биогеохимиялық белдем – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%B3%D0%B5%D0%BE%D1%85%D0%B8%D0%BC%D0%B8%D1%8F" hreflang="ky" lang="ky" title="Биогеохимия – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%9C%E0%B5%88%E0%B4%B5%E0%B4%AD%E0%B5%97%E0%B4%AE%E0%B4%B0%E0%B4%B8%E0%B4%A4%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82" hreflang="ml" lang="ml" title="ജൈവഭൗമരസതന്ത്രം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%83%E5%8C%96%E5%AD%A6" hreflang="ja" lang="ja" title="生物地球化学 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Biogeokimyo" hreflang="uz" lang="uz" title="Biogeokimyo – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Biogeoqu%C3%ADmica" hreflang="pt" lang="pt" title="Biogeoquímica – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Biogeochimie" hreflang="ro" lang="ro" title="Biogeochimie – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%B3%D0%B5%D0%BE%D1%85%D0%B8%D0%BC%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Биогеохимия – Russian">Русский</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Biogeokemia" hreflang="fi" lang="fi" title="Biogeokemia – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Biogeokemi" hreflang="sv" lang="sv" title="Biogeokemi – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%98%E0%B8%A3%E0%B8%93%E0%B8%B5%E0%B9%80%E0%B8%84%E0%B8%A1%E0%B8%B5" hreflang="th" lang="th" title="ชีวธรณีเคมี – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Biyojeokimya" hreflang="tr" lang="tr" title="Biyojeokimya – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BE%D0%B3%D0%B5%D0%BE%D1%85%D1%96%D0%BC%D1%96%D1%8F" hreflang="uk" lang="uk" title="Біогеохімія – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Sinh_%C4%91%E1%BB%8Ba_h%C3%B3a_h%E1%BB%8Dc" hreflang="vi" lang="vi" title="Sinh địa hóa học – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%83%E5%8C%96%E5%AD%A6" hreflang="zh" lang="zh" title="生物地球化学 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q864379#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 18 August 2018, at 15:23<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Biogeochemistry&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.352","walltime":"0.985","ppvisitednodes":{"value":1868,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":27381,"limit":2097152},"templateargumentsize":{"value":2126,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15026,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  894.842      1 -total"," 26.96%  241.278      1 Template:Cite_book"," 24.25%  216.958      8 Template:ISBN"," 19.97%  178.717      1 Template:Reflist"," 17.47%  156.357      1 Template:Short_description"," 17.22%  154.127      1 Template:Pagetype"," 13.83%  123.787      1 Template:BranchesofChemistry"," 13.37%  119.611      1 Template:Navbox"," 12.45%  111.387      8 Template:Catalog_lookup_link","  7.51%   67.168      1 Template:Portal_bar"]},"scribunto":{"limitreport-timeusage":{"value":"0.126","limit":"10.000"},"limitreport-memusage":{"value":3299028,"limit":52428800}},"cachereport":{"origin":"mw1302","timestamp":"20181010150536","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1320"});});</script>
+</body>
+</html>

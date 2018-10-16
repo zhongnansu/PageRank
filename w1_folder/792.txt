@@ -1,0 +1,1234 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Mass flux - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mass_flux","wgTitle":"Mass flux","wgCurRevisionId":834022588,"wgRevisionId":834022588,"wgArticleId":11434205,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Physical quantities","Vector calculus"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mass_flux","wgRelevantArticleId":11434205,"wgRequestId":"W7lsjQrAADYAAI7fJiMAAABD","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3265048","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mass_flux" rel="alternate"/>
+<link href="/w/index.php?title=Mass_flux&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Mass_flux&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Mass_flux" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mass_flux rootpage-Mass_flux skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Mass flux</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>In <a href="/wiki/Physics" title="Physics">physics</a> and <a href="/wiki/Engineering" title="Engineering">engineering</a>, <b>mass flux</b> is the rate of <a href="/wiki/Mass" title="Mass">mass</a> flow per unit area, perfectly overlapping with the <b>momentum density</b>, the <a href="/wiki/Momentum" title="Momentum">momentum</a> per unit volume. The common symbols are <i>j</i>, <i>J</i>, <i>q</i>, <i>Q</i>, <i>φ</i>, or <i>Φ</i> (<a href="/wiki/Greek_language" title="Greek language">Greek</a> lower or capital <a href="/wiki/Phi" title="Phi">Phi</a>), sometimes with subscript <i>m</i> to indicate mass is the flowing quantity. Its <a class="mw-redirect" href="/wiki/SI_units" title="SI units">SI units</a> are kg s<sup>−1</sup> m<sup>−2</sup>. Mass flux can also refer to an alternate form of flux in <a class="mw-redirect" href="/wiki/Fick%27s_law" title="Fick's law">Fick's law</a> that includes the <a href="/wiki/Molecular_mass" title="Molecular mass">molecular mass</a>, or in <a href="/wiki/Darcy%27s_law" title="Darcy's law">Darcy's law</a> that includes the mass <a href="/wiki/Density" title="Density">density</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p><p>Unfortunately, sometimes the defining equation for mass flux in this article is used interchangeably with the defining equation in <a href="/wiki/Mass_flow_rate" title="Mass flow rate">mass flow rate</a>. For example, <i>Fluid Mechanics, Schaum's et al</i> <sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> uses the definition of mass flux as the equation in the mass flow rate article.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Example"><span class="tocnumber">1.1</span> <span class="toctext">Example</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Equations_for_fluids"><span class="tocnumber">2</span> <span class="toctext">Equations for fluids</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Alternative_equation"><span class="tocnumber">2.1</span> <span class="toctext">Alternative equation</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Mass_and_molar_fluxes_for_composite_fluids"><span class="tocnumber">2.2</span> <span class="toctext">Mass and molar fluxes for composite fluids</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Mass_fluxes"><span class="tocnumber">2.2.1</span> <span class="toctext">Mass fluxes</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Molar_fluxes"><span class="tocnumber">2.2.2</span> <span class="toctext">Molar fluxes</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Usage"><span class="tocnumber">3</span> <span class="toctext">Usage</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mass_flux&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mathematically, mass flux is defined as the <a href="/wiki/Limit_of_a_function" title="Limit of a function">limit</a>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle j_{m}=\lim \limits _{A\rightarrow 0}{\frac {I_{m}}{A}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>j</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<munder>
+<mo form="prefix">lim</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+<mo stretchy="false">→<!-- → --></mo>
+<mn>0</mn>
+</mrow>
+</munder>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mi>A</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle j_{m}=\lim \limits _{A\rightarrow 0}{\frac {I_{m}}{A}}}</annotation>
+</semantics>
+</math></span><img alt="j_{m}=\lim \limits _{{A\rightarrow 0}}{\frac  {I_{m}}{A}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45e61faa829b4acab2b1c4a3664b770173270733" style="vertical-align: -2.171ex; margin-left: -0.027ex; width:13.377ex; height:5.509ex;"/></span></dd></dl>
+<p>where:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle I_{m}=\lim \limits _{\Delta t\rightarrow 0}{\frac {\Delta m}{\Delta t}}={\frac {dm}{dt}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<munder>
+<mo form="prefix">lim</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>t</mi>
+<mo stretchy="false">→<!-- → --></mo>
+<mn>0</mn>
+</mrow>
+</munder>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>m</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>m</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle I_{m}=\lim \limits _{\Delta t\rightarrow 0}{\frac {\Delta m}{\Delta t}}={\frac {dm}{dt}}}</annotation>
+</semantics>
+</math></span><img alt="I_{m}=\lim \limits _{{\Delta t\rightarrow 0}}{\frac  {\Delta m}{\Delta t}}={\frac  {dm}{dt}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aaec9fdc1e8c63faabdf032a64f8c7a5eac03dd9" style="vertical-align: -2.171ex; width:22.615ex; height:5.676ex;"/></span></dd></dl>
+<p>is the mass current (flow of mass <i>m</i> per unit time <i>t</i>) and <i>A</i> is the area through which the mass flows through.
+</p><p>For mass flux as a vector <b>j</b><sub><i>m</i></sub>, the <a href="/wiki/Surface_integral" title="Surface integral">surface integral</a> it over a <a href="/wiki/Surface_(mathematics)" title="Surface (mathematics)">surface</a> <i>S</i>, followed by an integral over the time duration <i>t</i><sub>1</sub> to <i>t</i><sub>2</sub>, gives the total amount of mass flowing through the surface in that time (<i>t</i><sub>2</sub> − <i>t</i><sub>1</sub>):
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m=\int _{t_{1}}^{t_{2}}\iint _{S}{\mathbf {j} }_{m}\cdot {\mathbf {\hat {n}} }{\rm {d}}A{\rm {d}}t}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>m</mi>
+<mo>=</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>t</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</msubsup>
+<msub>
+<mo>∬<!-- ∬ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>S</mi>
+</mrow>
+</msub>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">j</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">n</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+</mrow>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+</mrow>
+<mi>t</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m=\int _{t_{1}}^{t_{2}}\iint _{S}{\mathbf {j} }_{m}\cdot {\mathbf {\hat {n}} }{\rm {d}}A{\rm {d}}t}</annotation>
+</semantics>
+</math></span><img alt="m=\int _{{t_{1}}}^{{t_{2}}}\iint _{S}{\mathbf  {j}}_{m}\cdot {\mathbf  {{\hat  {n}}}}{{\rm {d}}}A{{\rm {d}}}t" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3a312dd236ec1ff506a224f3c7ef64ad672b73f9" style="vertical-align: -2.671ex; width:24.67ex; height:6.509ex;"/></span></dd></dl>
+<p>The <a href="/wiki/Area" title="Area">area</a> required to calculate the flux is real or imaginary, flat or curved, either as a cross-sectional area or a surface.
+</p><p>For example, for substances passing through a <a href="/wiki/Filter_paper" title="Filter paper">filter</a> or a <a class="mw-redirect" href="/wiki/Artificial_membrane" title="Artificial membrane">membrane</a>, the real surface is the (generally curved) surface area of the filter, <a href="/wiki/Macroscopic_scale" title="Macroscopic scale">macroscopically</a> - ignoring the area spanned by the holes in the filter/membrane. The spaces would be cross-sectional areas. For liquids passing through a pipe, the area is the cross-section of the pipe, at the section considered.
+</p><p>The <a href="/wiki/Vector_area" title="Vector area">vector area</a> is a combination of the magnitude of the area through which the mass passes through, <i>A</i>, and a <a href="/wiki/Unit_vector" title="Unit vector">unit vector</a> normal to the area, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathbf {\hat {n}} }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">n</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathbf {\hat {n}} }}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf {\hat {n}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6b0a7d8771f555cf0ea047c1a0a2103432f4525e" style="vertical-align: -0.338ex; width:1.485ex; height:2.343ex;"/></span>. The relation is <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathbf {A} }=A{\mathbf {\hat {n}} }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">A</mi>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">n</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathbf {A} }=A{\mathbf {\hat {n}} }}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf {A}}=A{\mathbf {\hat {n}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e163e0e2fd9a9da69f87dd6f4271ae4cb56158a3" style="vertical-align: -0.338ex; width:8.346ex; height:2.343ex;"/></span>.
+</p><p>If the mass flux <b>j</b><sub><i>m</i></sub> passes through the area at an angle θ to the area normal <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathbf {\hat {n}} }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">n</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathbf {\hat {n}} }}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf {\hat {n}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6b0a7d8771f555cf0ea047c1a0a2103432f4525e" style="vertical-align: -0.338ex; width:1.485ex; height:2.343ex;"/></span>, then
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathbf {j} }_{m}\cdot {\mathbf {\hat {n}} }=j_{m}\cos \theta }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">j</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi mathvariant="bold">n</mi>
+<mo mathvariant="bold" stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>j</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>θ<!-- θ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathbf {j} }_{m}\cdot {\mathbf {\hat {n}} }=j_{m}\cos \theta }</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {j}}_{m}\cdot {\mathbf  {{\hat  {n}}}}=j_{m}\cos \theta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/771cbd25093e016f138785b0762a922816ab2ffc" style="vertical-align: -0.838ex; margin-left: -0.164ex; width:16.527ex; height:2.843ex;"/></span></dd></dl>
+<p>where <b>·</b> is the <a href="/wiki/Dot_product" title="Dot product">dot product</a> of the unit vectors. This is, the component of mass flux passing through the surface (i.e. normal to it) is <i>j<sub>m</sub></i> cos θ, while the component of mass flux passing tangential to the area is <i>j<sub>m</sub></i> sin θ, but there is <i>no</i> mass flux actually passing <i>through</i> the area in the tangential direction. The <i>only</i> component of mass flux passing normal to the area is the cosine component.
+</p>
+<h3><span class="mw-headline" id="Example">Example</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mass_flux&amp;action=edit&amp;section=2" title="Edit section: Example">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Consider a pipe of flowing <a href="/wiki/Water" title="Water">water</a>. Suppose the pipe has a constant cross section and we consider a straight section of it (not at any bends/junctions), and the water is flowing steadily at a constant rate, under <a class="mw-redirect" href="/wiki/Standard_conditions" title="Standard conditions">standard conditions</a>. The area <i>A</i> is the cross-sectional area of the pipe. Suppose the pipe has radius <i>r</i> = 2 cm = 2 × 10<sup>−2</sup> m. The area is then 
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A=\pi r^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo>=</mo>
+<mi>π<!-- π --></mi>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A=\pi r^{2}}</annotation>
+</semantics>
+</math></span><img alt="A=\pi r^{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33f7b7f93f93e7ba7bebb97efbe88e181ce332e4" style="vertical-align: -0.338ex; width:8.276ex; height:2.676ex;"/></span></dd></dl>
+<p>To calculate the mass flux <i>j<sub>m</sub></i> (magnitude), we also need the amount of mass of water transferred through the area and the time taken. Suppose a volume <i>V</i> = 1.5 L = 1.5 × 10<sup>−3</sup> m<sup>3</sup> passes through in time <i>t</i> = 2 s. Assuming the <a href="/wiki/Properties_of_water#Density_of_water_and_ice" title="Properties of water">density of water</a> is <i>ρ</i> = 1000 kg m<sup>−3</sup>, we have:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}&amp;\Delta m=\rho \Delta V\\&amp;m_{2}-m_{1}=\rho (V_{2}-V_{1})\\&amp;m=\rho V\\\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd></mtd>
+<mtd>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>m</mi>
+<mo>=</mo>
+<mi>ρ<!-- ρ --></mi>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>V</mi>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>ρ<!-- ρ --></mi>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd>
+<mi>m</mi>
+<mo>=</mo>
+<mi>ρ<!-- ρ --></mi>
+<mi>V</mi>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}&amp;\Delta m=\rho \Delta V\\&amp;m_{2}-m_{1}=\rho (V_{2}-V_{1})\\&amp;m=\rho V\\\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\begin{aligned}&amp;\Delta m=\rho \Delta V\\&amp;m_{2}-m_{1}=\rho (V_{2}-V_{1})\\&amp;m=\rho V\\\end{aligned}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/55a36aaa2d2e4a21e9c87dfd33afdb91c0cd5a70" style="vertical-align: -4.005ex; width:23.55ex; height:9.176ex;"/></span></dd></dl>
+<p>(since initial volume passing through the area was zero, final is <i>V</i>, so corresponding mass is <i>m</i>), so the mass flux is
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle j_{m}={\frac {\Delta m}{A\Delta t}}={\frac {\rho V}{\pi r^{2}t}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>j</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>m</mi>
+</mrow>
+<mrow>
+<mi>A</mi>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>ρ<!-- ρ --></mi>
+<mi>V</mi>
+</mrow>
+<mrow>
+<mi>π<!-- π --></mi>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle j_{m}={\frac {\Delta m}{A\Delta t}}={\frac {\rho V}{\pi r^{2}t}}}</annotation>
+</semantics>
+</math></span><img alt="j_{m}={\frac  {\Delta m}{A\Delta t}}={\frac  {\rho V}{\pi r^{2}t}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5ec259df1c6f99b439a1c91b8f572332da29c96e" style="vertical-align: -2.171ex; margin-left: -0.027ex; width:19.322ex; height:5.676ex;"/></span></dd></dl>
+<p>substituting the numbers gives:
+</p><p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle j_{m}={\frac {1000\times (1.5\times 10^{-3})}{\pi \times (2\times 10^{-2})^{2}\times 2}}={\frac {3}{16\pi }}\times 10^{4}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>j</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>m</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>1000</mn>
+<mo>×<!-- × --></mo>
+<mo stretchy="false">(</mo>
+<mn>1.5</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>3</mn>
+</mrow>
+</msup>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>π<!-- π --></mi>
+<mo>×<!-- × --></mo>
+<mo stretchy="false">(</mo>
+<mn>2</mn>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>×<!-- × --></mo>
+<mn>2</mn>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>3</mn>
+<mrow>
+<mn>16</mn>
+<mi>π<!-- π --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>×<!-- × --></mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle j_{m}={\frac {1000\times (1.5\times 10^{-3})}{\pi \times (2\times 10^{-2})^{2}\times 2}}={\frac {3}{16\pi }}\times 10^{4}}</annotation>
+</semantics>
+</math></span><img alt="j_{m}={\frac  {1000\times (1.5\times 10^{{-3}})}{\pi \times (2\times 10^{{-2}})^{2}\times 2}}={\frac  {3}{16\pi }}\times 10^{4}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/de8e5a4d1f557c195da87d03ef4128f6348f9ec6" style="vertical-align: -2.838ex; margin-left: -0.027ex; width:40.175ex; height:6.843ex;"/></span>
+</p><p>which is approximately 596.8 kg s<sup>−1</sup> m<sup>−2</sup>.
+</p>
+<h2><span class="mw-headline" id="Equations_for_fluids">Equations for fluids</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mass_flux&amp;action=edit&amp;section=3" title="Edit section: Equations for fluids">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Alternative_equation">Alternative equation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mass_flux&amp;action=edit&amp;section=4" title="Edit section: Alternative equation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Using the vector definition, mass flux is also equal to:<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathbf {j} }_{\rm {m}}=\rho \mathbf {u} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">j</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathbf {j} }_{\rm {m}}=\rho \mathbf {u} }</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {j}}_{{{\rm {m}}}}=\rho {\mathbf  {u}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/91067812061626de9053e0c754ed7b0448be3a81" style="vertical-align: -0.838ex; margin-left: -0.164ex; width:8.367ex; height:2.676ex;"/></span></dd></dl>
+<p>where:
+</p>
+<ul><li><i>ρ</i> = mass density,</li>
+<li><b>u</b> = <a class="mw-redirect" href="/wiki/Velocity_field" title="Velocity field">velocity field</a> of mass elements flowing (i.e. at each point in space the velocity of an element of matter is some velocity vector <b>u</b>).</li></ul>
+<p>Sometimes this equation may be used to define <b>j</b><sub>m</sub> as a vector.
+</p>
+<h3><span class="mw-headline" id="Mass_and_molar_fluxes_for_composite_fluids">Mass and molar fluxes for composite fluids</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mass_flux&amp;action=edit&amp;section=5" title="Edit section: Mass and molar fluxes for composite fluids">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Mass_fluxes">Mass fluxes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mass_flux&amp;action=edit&amp;section=6" title="Edit section: Mass fluxes">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the case fluid is not pure, i.e. is a <a href="/wiki/Mixture" title="Mixture">mixture</a> of substances (technically contains a number of component substances), the mass fluxes must be considered separately for each component of the mixture.
+</p><p>When describing fluid flow (i.e. flow of matter), mass flux is appropriate. When describing particle transport (movement of a large number of particles), it is useful to use an analogous quantity, called the <b>molar flux</b>.
+</p><p>Using mass, the mass flux of component <i>i</i> is:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathbf {j} }_{{\rm {m}},\,i}=\rho _{i}\mathbf {u} _{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">j</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+</mrow>
+</mrow>
+<mo>,</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathbf {j} }_{{\rm {m}},\,i}=\rho _{i}\mathbf {u} _{i}}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {j}}_{{{{\rm {m}}},\,i}}=\rho _{i}{\mathbf  {u}}_{i}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7de446320d8c212f9ab50c86eef8adf297eb40b7" style="vertical-align: -1.171ex; margin-left: -0.164ex; width:11.378ex; height:3.009ex;"/></span></dd></dl>
+<p>The <b>barycentric mass flux</b> of component <i>i</i> is
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathbf {j} }_{{\rm {m}},\,i}=\rho \left(\mathbf {u} _{i}-\langle \mathbf {u} \rangle \right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">j</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+</mrow>
+</mrow>
+<mo>,</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>ρ<!-- ρ --></mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathbf {j} }_{{\rm {m}},\,i}=\rho \left(\mathbf {u} _{i}-\langle \mathbf {u} \rangle \right)}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {j}}_{{{{\rm {m}}},\,i}}=\rho \left({\mathbf  {u}}_{i}-\langle {\mathbf  {u}}\rangle \right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6b36c5abdf96a22f7b66cb95df14861a64a7a52c" style="vertical-align: -1.171ex; margin-left: -0.164ex; width:18.91ex; height:3.176ex;"/></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \langle \mathbf {u} \rangle }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \langle \mathbf {u} \rangle }</annotation>
+</semantics>
+</math></span><img alt="\langle {\mathbf  {u}}\rangle " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3b8defdf27ce4b08e67b3aa64fc92383485f65e6" style="vertical-align: -0.838ex; width:3.295ex; height:2.843ex;"/></span> is the <a href="/wiki/Average" title="Average">average</a> <b>mass velocity</b> of all the components in the mixture, given by:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \langle \mathbf {u} \rangle ={\frac {1}{\rho }}\sum _{i}\rho _{i}\mathbf {u} _{i}={\frac {1}{\rho }}\sum _{i}\mathbf {j} _{{\rm {m}},\,i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</mrow>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</munder>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</mrow>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</munder>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">j</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+</mrow>
+</mrow>
+<mo>,</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \langle \mathbf {u} \rangle ={\frac {1}{\rho }}\sum _{i}\rho _{i}\mathbf {u} _{i}={\frac {1}{\rho }}\sum _{i}\mathbf {j} _{{\rm {m}},\,i}}</annotation>
+</semantics>
+</math></span><img alt="\langle {\mathbf  {u}}\rangle ={\frac  {1}{\rho }}\sum _{i}\rho _{i}{\mathbf  {u}}_{i}={\frac  {1}{\rho }}\sum _{i}{\mathbf  {j}}_{{{{\rm {m}}},\,i}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0b37bb140e6e974fb8e86e6cf0a58279559c83f7" style="vertical-align: -3.005ex; width:29.942ex; height:6.343ex;"/></span></dd></dl>
+<p>where :
+</p>
+<ul><li><i>ρ</i> = mass density of the entire mixture,</li>
+<li><i>ρ<sub>i</sub></i> = mass density of component <i>i</i>,</li>
+<li><b>u</b> <i><sub>i</sub></i> = velocity of component <i>i</i>.</li></ul>
+<p>The average is taken over the velocities of the components.
+</p>
+<h4><span class="mw-headline" id="Molar_fluxes">Molar fluxes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mass_flux&amp;action=edit&amp;section=7" title="Edit section: Molar fluxes">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>If we replace density <i>ρ</i> by the <a class="mw-redirect" href="/wiki/Number_of_moles" title="Number of moles">number of moles</a> <i>n</i>, we have the <b>molar flux</b> analogues.
+</p><p>The molar flux is the number of moles per unit time per unit area, generally:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathbf {j} }_{\rm {n}}=n\mathbf {u} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">j</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">n</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathbf {j} }_{\rm {n}}=n\mathbf {u} }</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {j}}_{{{\rm {n}}}}=n{\mathbf  {u}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7639e77c2f31d1093c3da220023c5c4958fb4fb2" style="vertical-align: -0.838ex; margin-left: -0.164ex; width:8.105ex; height:2.676ex;"/></span></dd></dl>
+<p>So the molar flux of component <i>i</i> is (number of moles per unit time per unit area):
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathbf {j} }_{{\rm {n}},\,i}=n_{i}\mathbf {u} _{i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">j</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">n</mi>
+</mrow>
+</mrow>
+<mo>,</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathbf {j} }_{{\rm {n}},\,i}=n_{i}\mathbf {u} _{i}}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {j}}_{{{{\rm {n}}},\,i}}=n_{i}{\mathbf  {u}}_{i}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fdcb32e8b2aabc1d2e9fb70b7b303510d91d60bb" style="vertical-align: -1.171ex; margin-left: -0.164ex; width:11.116ex; height:3.009ex;"/></span></dd></dl>
+<p>and the <b>barycentric molar flux</b> of component <i>i</i> is
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\mathbf {j} }_{{\rm {n}},\,i}=n\left(\mathbf {u} _{i}-\langle \mathbf {u} \rangle \right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">j</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">n</mi>
+</mrow>
+</mrow>
+<mo>,</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>n</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathbf {j} }_{{\rm {n}},\,i}=n\left(\mathbf {u} _{i}-\langle \mathbf {u} \rangle \right)}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {j}}_{{{{\rm {n}}},\,i}}=n\left({\mathbf  {u}}_{i}-\langle {\mathbf  {u}}\rangle \right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6aa4f09798a3bd77f9a185c8f389b2c418f60ab1" style="vertical-align: -1.171ex; margin-left: -0.164ex; width:18.648ex; height:3.176ex;"/></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \langle \mathbf {u} \rangle }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \langle \mathbf {u} \rangle }</annotation>
+</semantics>
+</math></span><img alt="\langle {\mathbf  {u}}\rangle " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3b8defdf27ce4b08e67b3aa64fc92383485f65e6" style="vertical-align: -0.838ex; width:3.295ex; height:2.843ex;"/></span> this time is the <a href="/wiki/Average" title="Average">average</a> <b>molar velocity</b> of all the components in the mixture, given by:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \langle \mathbf {u} \rangle ={\frac {1}{n}}\sum _{i}n_{i}\mathbf {u} _{i}={\frac {1}{n}}\sum _{i}\mathbf {j} _{{\rm {n}},\,i}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo fence="false" stretchy="false">⟨<!-- ⟨ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo fence="false" stretchy="false">⟩<!-- ⟩ --></mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</munder>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<munder>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</munder>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">j</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">n</mi>
+</mrow>
+</mrow>
+<mo>,</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \langle \mathbf {u} \rangle ={\frac {1}{n}}\sum _{i}n_{i}\mathbf {u} _{i}={\frac {1}{n}}\sum _{i}\mathbf {j} _{{\rm {n}},\,i}}</annotation>
+</semantics>
+</math></span><img alt="\langle {\mathbf  {u}}\rangle ={\frac  {1}{n}}\sum _{i}n_{i}{\mathbf  {u}}_{i}={\frac  {1}{n}}\sum _{i}{\mathbf  {j}}_{{{{\rm {n}}},\,i}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/282fe949f17cbe76096d3fb34623181e331de0b8" style="vertical-align: -3.005ex; width:30.065ex; height:6.343ex;"/></span></dd></dl>
+<h2><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mass_flux&amp;action=edit&amp;section=8" title="Edit section: Usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mass flux appears in some equations in <a class="mw-redirect" href="/wiki/Hydrodynamics" title="Hydrodynamics">hydrodynamics</a>, in particular the <a href="/wiki/Continuity_equation" title="Continuity equation">continuity equation</a>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \nabla \cdot {\mathbf {j} }_{\rm {m}}+{\frac {\partial \rho }{\partial t}}=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">j</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>ρ<!-- ρ --></mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nabla \cdot {\mathbf {j} }_{\rm {m}}+{\frac {\partial \rho }{\partial t}}=0}</annotation>
+</semantics>
+</math></span><img alt="\nabla \cdot {\mathbf  {j}}_{{{\rm {m}}}}+{\frac  {\partial \rho }{\partial t}}=0" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8597e87702ea387055077688ea2c77462e38a4d3" style="vertical-align: -2.005ex; width:16.49ex; height:5.676ex;"/></span></dd></dl>
+<p>which is a statement of the mass conservation of fluid. In hydrodynamics, mass can only flow from one place to another.
+</p><p>Molar flux occurs in <a href="/wiki/Fick%27s_laws_of_diffusion#Fick's_first_law" title="Fick's laws of diffusion">Fick's first law</a> of <a href="/wiki/Diffusion" title="Diffusion">diffusion</a>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \nabla \cdot {\mathbf {j} }_{\rm {n}}=-\nabla \cdot D\nabla n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">j</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">n</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>D</mi>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mi>n</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nabla \cdot {\mathbf {j} }_{\rm {n}}=-\nabla \cdot D\nabla n}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \nabla \cdot {\mathbf {j}}_{\rm {n}}=-\nabla \cdot D\nabla n}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9794023327f8a9b20a57920a09e4c262790f0863" style="vertical-align: -0.838ex; width:19.354ex; height:2.676ex;"/></span></dd></dl>
+<p>where <i>D</i> is the <a class="mw-redirect" href="/wiki/Diffusion_coefficient" title="Diffusion coefficient">diffusion coefficient</a>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mass_flux&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Flux" title="Flux">Flux</a></li>
+<li><a class="mw-redirect" href="/wiki/Fick%27s_law" title="Fick's law">Fick's law</a></li>
+<li><a href="/wiki/Darcy%27s_law" title="Darcy's law">Darcy's law</a></li>
+<li><a href="/wiki/Airy_wave_theory#Wave_mass_flux_and_wave_momentum" title="Airy wave theory">Wave mass flux and wave momentum</a></li>
+<li><a href="/wiki/Defining_equation_(physics)" title="Defining equation (physics)">Defining equation (physics)</a></li>
+<li><a href="/wiki/Defining_equation_(physical_chemistry)" title="Defining equation (physical chemistry)">Defining equation (physical chemistry)</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mass_flux&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://thesaurus.maths.org/mmkb/entry.html?action=entryById&amp;id=2113" rel="nofollow">"Thesaurus: Mass flux"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-12-24</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Thesaurus%3A+Mass+flux&amp;rft_id=http%3A%2F%2Fthesaurus.maths.org%2Fmmkb%2Fentry.html%3Faction%3DentryById%26id%3D2113&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMass+flux"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Fluid Mechanics, M. Potter, D.C. Wiggart, Schuam's outlines, McGraw Hill (USA), 2008, <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-07-148781-8" title="Special:BookSources/978-0-07-148781-8">978-0-07-148781-8</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Vectors, Tensors, and the basic Equations of Fluid Mechanics, R. Aris, Dover Publications, 1989, <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-486-66110-5" title="Special:BookSources/0-486-66110-5">0-486-66110-5</a></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw2175
+Cached time: 20181003135628
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.148 seconds
+Real time usage: 0.336 seconds
+Preprocessor visited node count: 648/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 3409/2097152 bytes
+Template argument size: 501/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7376/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.054/10.000 seconds
+Lua memory usage: 1.61 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  140.044      1 Template:Reflist
+100.00%  140.044      1 -total
+ 49.40%   69.185      1 Template:Cite_web
+ 40.50%   56.723      2 Template:ISBN
+ 17.58%   24.625      2 Template:Catalog_lookup_link
+  5.09%    7.132      3 Template:Main_other
+  4.52%    6.335      2 Template:Error-small
+  3.66%    5.120      6 Template:Yesno-no
+  1.94%    2.715      6 Template:Yesno
+  1.20%    1.681      4 Template:Trim
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11434205-0!canonical!math=5 and timestamp 20181003135628 and revision id 834022588
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mass_flux&amp;oldid=834022588">https://en.wikipedia.org/w/index.php?title=Mass_flux&amp;oldid=834022588</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Physical_quantities" title="Category:Physical quantities">Physical quantities</a></li><li><a href="/wiki/Category:Vector_calculus" title="Category:Vector calculus">Vector calculus</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mass+flux" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Mass+flux" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Mass_flux" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Mass_flux" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Mass_flux">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Mass_flux&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Mass_flux&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Mass_flux" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Mass_flux" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Mass_flux&amp;oldid=834022588" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Mass_flux&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3265048" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mass_flux&amp;id=834022588" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mass+flux">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Mass+flux&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Mass_flux&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B1_%D8%AC%D8%B1%D9%85%DB%8C" hreflang="fa" lang="fa" title="شار جرمی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%B4%A8%E9%87%8F%E9%80%9A%E9%87%8F" hreflang="zh" lang="zh" title="质量通量 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3265048#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 3 April 2018, at 14:48<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Mass_flux&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.148","walltime":"0.336","ppvisitednodes":{"value":648,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":3409,"limit":2097152},"templateargumentsize":{"value":501,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7376,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  140.044      1 Template:Reflist","100.00%  140.044      1 -total"," 49.40%   69.185      1 Template:Cite_web"," 40.50%   56.723      2 Template:ISBN"," 17.58%   24.625      2 Template:Catalog_lookup_link","  5.09%    7.132      3 Template:Main_other","  4.52%    6.335      2 Template:Error-small","  3.66%    5.120      6 Template:Yesno-no","  1.94%    2.715      6 Template:Yesno","  1.20%    1.681      4 Template:Trim"]},"scribunto":{"limitreport-timeusage":{"value":"0.054","limit":"10.000"},"limitreport-memusage":{"value":1689510,"limit":52428800}},"cachereport":{"origin":"mw2175","timestamp":"20181003135628","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":62,"wgHostname":"mw2229"});});</script>
+</body>
+</html>

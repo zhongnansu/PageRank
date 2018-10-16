@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Greenhouse gas emissions accounting - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Greenhouse_gas_emissions_accounting","wgTitle":"Greenhouse gas emissions accounting","wgCurRevisionId":842506899,"wgRevisionId":842506899,"wgArticleId":40455753,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Extra text: authors list","Greenhouse gas inventories","Climate change"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Greenhouse_gas_emissions_accounting","wgRelevantArticleId":40455753,"wgRequestId":"W8GqYApAICoAAG-4JkAAAAAV","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q17019251","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Greenhouse_gas_emissions_accounting" rel="alternate"/>
+<link href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Greenhouse_gas_emissions_accounting" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Greenhouse_gas_emissions_accounting rootpage-Greenhouse_gas_emissions_accounting skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Greenhouse gas emissions accounting</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Greenhouse gas emissions accounting</b> is a method of calculating the amount of greenhouse gases (GHG) emitted by a region in a given time-scale. A National <a href="/wiki/Emission_inventory" title="Emission inventory">Emissions Inventory</a> (NEI) measuring a country’s GHG emissions in a year is required by the <a class="mw-redirect" href="/wiki/UNFCCC" title="UNFCCC">UNFCCC</a> to provide a benchmark for the country’s emission reductions, and subsequently to evaluate international climate policies such as the <a class="mw-redirect" href="/wiki/Kyoto_protocol" title="Kyoto protocol">Kyoto protocol</a> (although the original has now expired, extensions have been agreed) as well as regional climate policies such as the <a class="mw-redirect" href="/wiki/EU_Emissions_Trading_Scheme" title="EU Emissions Trading Scheme">EU Emissions Trading Scheme</a> (ETS).<sup class="reference" id="cite_ref-Peters_et_al_2011_1-0"><a href="#cite_note-Peters_et_al_2011-1">[1]</a></sup>
+</p><p>There are two conflicting ways of measuring GHG emissions: production-based (sometimes referred to as territorial-based) or consumption-based. Production-based emissions take place “within national territory and offshore areas over which the country has jurisdiction”.<sup class="reference" id="cite_ref-IPCC_2006_2-0"><a href="#cite_note-IPCC_2006-2">[2]</a></sup> Consumption-based emissions encompass those emissions from domestic final consumption and those caused by the production of its imports.<sup class="reference" id="cite_ref-Peters_and_Hertwich_2008a._3-0"><a href="#cite_note-Peters_and_Hertwich_2008a.-3">[3]</a></sup><sup class="reference" id="cite_ref-Boitier_2012_4-0"><a href="#cite_note-Boitier_2012-4">[4]</a></sup> This means the importing country takes responsibility for emissions related to production of the exporting country’s exports. By these definitions production-based emissions include exports but exclude imports and emissions embodied in international trade, whereas consumption-based emissions refer to the reverse (Table 1).
+</p><p>Which technique is applied by <a class="mw-redirect" href="/wiki/Policymakers" title="Policymakers">policymakers</a> is fundamental as each can generate a very different NEI.<sup class="reference" id="cite_ref-Boitier_2012_4-1"><a href="#cite_note-Boitier_2012-4">[4]</a></sup> Different NEIs would result in a country’s choosing different optimal <a href="/wiki/Environmental_mitigation" title="Environmental mitigation">mitigation activities</a>, the wrong choice based on wrong information being potentially damaging.<sup class="reference" id="cite_ref-Peters_2008_5-0"><a href="#cite_note-Peters_2008-5">[5]</a></sup> The application of production-based emissions accounting is currently favoured in policy terms, although much of the literature favours consumption-based accounting. The former method is criticised in the literature principally for its inability to allocate emissions embodied in international trade/transportation and the potential for <a href="/wiki/Carbon_leakage" title="Carbon leakage">carbon leakage</a>.<sup class="reference" id="cite_ref-Peters_and_Hertwich_2008a._3-1"><a href="#cite_note-Peters_and_Hertwich_2008a.-3">[3]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Rationale"><span class="tocnumber">1</span> <span class="toctext">Rationale</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Measuring_GHG_emissions"><span class="tocnumber">2</span> <span class="toctext">Measuring GHG emissions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Production-based_accounting"><span class="tocnumber">2.1</span> <span class="toctext">Production-based accounting</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Consumption-based_accounting"><span class="tocnumber">2.2</span> <span class="toctext">Consumption-based accounting</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Emissions_embodied_in_international_trade"><span class="tocnumber">3</span> <span class="toctext">Emissions embodied in international trade</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Consumption-based_accounting_2"><span class="tocnumber">4</span> <span class="toctext">Consumption-based accounting</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Advantages"><span class="tocnumber">4.1</span> <span class="toctext">Advantages</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Extending_mitigation_options"><span class="tocnumber">4.1.1</span> <span class="toctext">Extending mitigation options</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Increasing_participation"><span class="tocnumber">4.1.2</span> <span class="toctext">Increasing participation</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Encompassing_policies_such_as_the_CDM"><span class="tocnumber">4.1.3</span> <span class="toctext">Encompassing policies such as the CDM</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Disadvantages_and_implementation"><span class="tocnumber">4.2</span> <span class="toctext">Disadvantages and implementation</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Greater_uncertainty_and_complexity"><span class="tocnumber">4.2.1</span> <span class="toctext">Greater uncertainty and complexity</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Greater_international_co-operation"><span class="tocnumber">4.2.2</span> <span class="toctext">Greater international co-operation</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Sharing_emissions_responsibility"><span class="tocnumber">5</span> <span class="toctext">Sharing emissions responsibility</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#The_future"><span class="tocnumber">6</span> <span class="toctext">The future</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Rationale">Rationale</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit&amp;section=1" title="Edit section: Rationale">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table align="right" class="wikitable" style="width:35%;font-size:90%">
+<caption align="bottom">Table 1. A comparison of the production-based and consumption-based NEI.<sup class="reference" id="cite_ref-Peters_2008_5-1"><a href="#cite_note-Peters_2008-5">[5]</a></sup>
+</caption>
+<tbody><tr>
+<th scope="col" width="33%">Criteria
+</th>
+<th scope="col" width="33%">Production-based NEI
+</th>
+<th scope="col" width="34%">Consumption-based NEI
+</th></tr>
+<tr>
+<td>Emissions covered</td>
+<td align="center">Administered territory</td>
+<td align="center">Global
+</td></tr>
+<tr>
+<td>Allocation</td>
+<td align="center">Domestic production</td>
+<td align="center">Domestic consumption
+</td></tr>
+<tr>
+<td>Allocation of trade</td>
+<td align="center">Includes exports, not imports</td>
+<td align="center">Includes imports, not exports
+</td></tr>
+<tr>
+<td>Mitigation focus</td>
+<td align="center">Domestic activities including exports</td>
+<td align="center">Domestic activities and imports (exports excluded)
+</td></tr>
+<tr>
+<td>Comparability</td>
+<td align="center">Consistent with GDP</td>
+<td align="center">Consistent with national consumption
+</td></tr>
+<tr>
+<td>Consistent with trade policy</td>
+<td align="center">No</td>
+<td align="center">Yes
+</td></tr>
+<tr>
+<td>Annex I emissions coverage</td>
+<td align="center">Lower</td>
+<td align="center">Higher
+</td></tr>
+<tr>
+<td>Complexity</td>
+<td align="center">Low</td>
+<td align="center">High
+</td></tr>
+<tr>
+<td>Transparency</td>
+<td align="center">High</td>
+<td align="center">Low
+</td></tr>
+<tr>
+<td>Uncertainty</td>
+<td align="center">Lower</td>
+<td align="center">Higher
+</td></tr>
+<tr>
+<td>Current country coverage</td>
+<td align="center">Relatively high</td>
+<td align="center">Low with current data
+</td></tr>
+<tr>
+<td>Mitigation analysis</td>
+<td align="center">Domestic mitigation only</td>
+<td align="center">Global mitigation
+</td></tr></tbody></table>
+<p>It is now overwhelmingly accepted that the release of GHG, predominantly from the <a href="/wiki/Anthropogenic_hazard" title="Anthropogenic hazard">anthropogenic</a> burning of <a class="mw-redirect" href="/wiki/Fossil_fuels" title="Fossil fuels">fossil fuels</a> and the release of direct emissions from agricultural activities, is accelerating the growth of these gases in the atmosphere resulting in <a href="/wiki/Climate_change" title="Climate change">climate change</a>.<sup class="reference" id="cite_ref-Canadell_et_al_2007_6-0"><a href="#cite_note-Canadell_et_al_2007-6">[6]</a></sup> Over the last few decades emissions have grown at an increasing rate from 1.0% yr<sup>−1</sup> throughout the 1990s to 3.4% yr<sup>−1</sup> between 2000 and 2008.<sup class="reference" id="cite_ref-Le_Quere_et_al_2012_7-0"><a href="#cite_note-Le_Quere_et_al_2012-7">[7]</a></sup> These increases have been driven not only by a growing <a class="mw-redirect" href="/wiki/Global_population" title="Global population">global population</a> and <a class="mw-redirect" href="/wiki/GDP" title="GDP">per-capita GDP</a>, but also by global increases in the <a href="/wiki/Energy_intensity" title="Energy intensity">energy intensity</a> of GDP (energy per unit GDP) and the <a class="mw-redirect" href="/wiki/Carbon_intensity" title="Carbon intensity">carbon intensity</a> of energy (emissions per unit energy).<sup class="reference" id="cite_ref-Raupach_et_al_2007_8-0"><a href="#cite_note-Raupach_et_al_2007-8">[8]</a></sup><sup class="reference" id="cite_ref-Le_Quere_et_al_2012_7-1"><a href="#cite_note-Le_Quere_et_al_2012-7">[7]</a></sup><sup class="reference" id="cite_ref-Davis_and_Caldeira_2010_9-0"><a href="#cite_note-Davis_and_Caldeira_2010-9">[9]</a></sup> These drivers are most apparent in <a class="mw-redirect" href="/wiki/Developing_countries" title="Developing countries">developing markets</a> (Kyoto non-Annex B countries), but what is less apparent is that a substantial fraction of the growth in these countries is to satisfy the demand of consumers in <a class="mw-redirect" href="/wiki/Developed_countries" title="Developed countries">developed countries</a> (Kyoto Annex B countries).<sup class="reference" id="cite_ref-Davis_and_Caldeira_2010_9-1"><a href="#cite_note-Davis_and_Caldeira_2010-9">[9]</a></sup> This is exaggerated by a process known as <a href="/wiki/Carbon_leakage" title="Carbon leakage">Carbon Leakage</a> whereby Annex B countries decrease domestic production in place of increased importation of products from non-Annex B countries where emission policies are less strict. Although this may seem the rational choice for consumers when considering local pollutants, consumers are inescapably affected by global pollutants such as GHG, irrespective of where production occurs.<sup class="reference" id="cite_ref-Peters_and_Hertwich_2008b_10-0"><a href="#cite_note-Peters_and_Hertwich_2008b-10">[10]</a></sup>  Although emissions have slowed since 2007 as a result of the global financial crisis, the longer term trend of increased emissions is likely to resume.
+</p><p>Today, much international effort is put into slowing the anthropogenic release of GHG and resulting climate change. In order to set benchmarks and emissions targets for - as well as monitor and evaluate the progress of - international and regional policies, the accurate measurement of each country’s NEI becomes imperative.
+</p>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Life-cycle_greenhouse-gas_emissions_of_energy_sources" title="Life-cycle greenhouse-gas emissions of energy sources">Life-cycle greenhouse-gas emissions of energy sources</a></div>
+<h2><span class="mw-headline" id="Measuring_GHG_emissions">Measuring GHG emissions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit&amp;section=2" title="Edit section: Measuring GHG emissions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Production-based_accounting">Production-based accounting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit&amp;section=3" title="Edit section: Production-based accounting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As production-based emissions accounting is currently favoured in policy terms, its methodology is well established. Emissions are calculated not directly but indirectly from fossil fuel usage and other relevant processes such as industry and agriculture according to 2006 guidelines issued by the <a class="mw-redirect" href="/wiki/IPCC" title="IPCC">IPCC</a> for GHG reporting.<sup class="reference" id="cite_ref-IPCC_2006_2-1"><a href="#cite_note-IPCC_2006-2">[2]</a></sup><sup class="reference" id="cite_ref-National_Audit_Office_11-0"><a href="#cite_note-National_Audit_Office-11">[11]</a></sup> The guidelines span numerous methodologies dependent on the level of sophistication (Tiers 1-3 in Table 2). The simplest methodology combines the extent of a human activity with a coefficient quantifying the emissions from that activity, known as an ‘emission factor’.<sup class="reference" id="cite_ref-Eurostat_2010_12-0"><a href="#cite_note-Eurostat_2010-12">[12]</a></sup> For example to estimate emissions from the energy sector (typically contributing over 90% of CO2 emissions and 75% of all GHG emissions in developed countries) the quantity of fuels combusted is combined with an emission factor - the level of sophistication increasing with the accuracy and complexity of the emission factor.<sup class="reference" id="cite_ref-IPCC_2006_2-2"><a href="#cite_note-IPCC_2006-2">[2]</a></sup> Table 2 outlines how the UK implements these guidelines to estimate some of its emissions-producing activities.
+</p>
+<table class="wikitable" style="font-size:90%">
+<caption align="bottom">Table 2. Some emissions producing activities and methods used to estimate emissions. IPCC tier represents one of three tiers, each tier indicating an additional layer of sophistication. These tiers indicate which method of emissions calculations is used from the IPCC 1996 Guidelines.<sup class="reference" id="cite_ref-National_Audit_Office_11-1"><a href="#cite_note-National_Audit_Office-11">[11]</a></sup>
+</caption>
+<tbody><tr>
+<th>Activity</th>
+<th>GHG</th>
+<th>IPCC Tier</th>
+<th>Method used to estimate emissions
+</th></tr>
+<tr>
+<td>Public electricity and heat production</td>
+<td align="center">CO<sub>2</sub></td>
+<td align="center">2</td>
+<td>An emissions factor is applied to fuel consumption data from DUKES. Some data are also collected from individual point sources at generation facilities. The emissions factors are UK specific factors obtained by sampling average UK carbon content of fuels.
+</td></tr>
+<tr>
+<td>Road transportation</td>
+<td align="center">CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O</td>
+<td align="center">3</td>
+<td>Emissions from road transport are estimated from a combination of total fuel consumption data taken from the Digest of UK Energy Statistics and fuel properties, and from a combination of drive related emission factors and road traffic data on fuel use, car type, miles driven, road types, and fuel type from the <a href="/wiki/Department_for_Transport" title="Department for Transport">Department for Transport</a>.
+</td></tr>
+<tr>
+<td>Domestic aviation</td>
+<td align="center">CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O</td>
+<td align="center">3</td>
+<td>Data from the Department for Transport and <a href="/wiki/National_aviation_authority" title="National aviation authority">CAA</a> on aircraft movements is broken down by aircraft type at each UK airport. The model takes into account the lengths of time spent on different parts of an aircraft’s take off and landing cycle and different types of aircraft used in the UK.
+</td></tr>
+<tr>
+<td>Refrigeration and air conditioning equipment</td>
+<td align="center">HFC</td>
+<td align="center">2</td>
+<td>Data on the numbers of UK domestic and commercial refrigerators is obtained from the UK Market Transformation Programme and activity data supplied by industry. Data on mobile air conditioning systems is obtained from the UK <a href="/wiki/Society_of_Motor_Manufacturers_and_Traders" title="Society of Motor Manufacturers and Traders">Society of Motor Manufacturers and Traders</a>. Once the numbers and size of refrigerators is known, an emissions factor which was derived to reflect UK refrigeration fluids applied to estimate emissions
+</td></tr>
+<tr>
+<td><a href="/wiki/Enteric_fermentation" title="Enteric fermentation">Enteric Fermentation</a></td>
+<td align="center">CH<sub>4</sub></td>
+<td align="center">2</td>
+<td>Enteric fermentation is a digestive process in ruminant animals which produces <a href="/wiki/Methane" title="Methane">methane</a>. Emissions are estimated from animal production data from the June agricultural census. Emissions factors for milk producing cattle, lambs and deer are calculated using a tier 2 approach which takes into account the sizes, ages and types of UK animals.
+</td></tr>
+<tr>
+<td>Agricultural soils</td>
+<td align="center">N<sub>2</sub>0</td>
+<td align="center">1 and 2</td>
+<td>The method involves estimating the contributions from the use of inorganic fertilizer, biological fixation of nitrogen by crops, ploughing in crop residues, cultivation of organic soils, spreading animal manure on land, and manures dropped by animals grazing in the field using data from <a class="mw-redirect" href="/wiki/DEFRA" title="DEFRA">DEFRA</a> and the British Survey of Fertiliser Practice. For some of these areas IPCC default methods are used and for others UK specific methods are used.
+</td></tr>
+<tr>
+<td>Wastewater handling</td>
+<td align="center">CH<sub>4</sub>, N<sub>2</sub>O</td>
+<td align="center">2</td>
+<td>The estimate is based on the work of Hobson et al. (1996) who estimated emissions of methane for the years 1990-95. Subsequent years are extrapolated on the basis of population. Sewage disposed to landfill is included in landfill emissions
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Consumption-based_accounting">Consumption-based accounting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit&amp;section=4" title="Edit section: Consumption-based accounting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Consumption-based emissions accounting has an equally established methodology using Input-Output Tables. These “display the interconnection between different sectors of production and allow for a tracing of the production and consumption in an economy”<sup class="reference" id="cite_ref-Hertwich_2010_3_13-0"><a href="#cite_note-Hertwich_2010_3-13">[13]</a></sup> and were originally created for national economies. However, as production has become increasingly international and the import/export market between nations has flourished, Multi-Regional Input-Output (MRIO) models have been developed. The unique feature of MRIO is allowing a product to be traced across its production cycle, “quantifying the contributions to the value of the product from different economic sectors in various countries represented in the model. It hence offers a description of the global supply chains of products consumed”.<sup class="reference" id="cite_ref-Hertwich_2010_3_13-1"><a href="#cite_note-Hertwich_2010_3-13">[13]</a></sup> From this, assuming regional- and industry-specific data for CO<sub>2</sub> emissions per unit of output are available, the total amount of emissions for the product can be calculated, and therefore the amount of emissions the final consumer is allocated responsibility for.<sup class="reference" id="cite_ref-Davis_and_Caldeira_2010_9-2"><a href="#cite_note-Davis_and_Caldeira_2010-9">[9]</a></sup>
+</p><p>The two methodologies of emissions accounting begin to expose their key differences. Production-based accounting is transparently consistent with GDP, whereas consumption-based accounting (more complex and uncertain) is consistent with national consumption and trade. However, the most important difference is that the later covers global emissions - including those ‘embodied’ emissions that are omitted in production-based accounting - and offers globally based mitigation options.<sup class="reference" id="cite_ref-Peters_and_Hertwich_2008a._3-2"><a href="#cite_note-Peters_and_Hertwich_2008a.-3">[3]</a></sup> Thus the attribution of emissions embodied in international trade is the crux of the matter.<sup class="reference" id="cite_ref-Davis_and_Caldeira_2010_9-3"><a href="#cite_note-Davis_and_Caldeira_2010-9">[9]</a></sup>
+</p><p><br/>
+</p>
+<h2><span class="mw-headline" id="Emissions_embodied_in_international_trade">Emissions embodied in international trade</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit&amp;section=5" title="Edit section: Emissions embodied in international trade">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Figure 1 and Table 3 show extent of emissions embodied in international trade and thus their importance when attempting emissions reductions. Figure 1 shows the international trade flows of the top 10 countries with largest trade fluxes in 2004 and illustrates the dominance of trade from developing countries (principally China, Russia and India) to developed countries (principally USA, EU and Japan). Table 3 supports this showing that the traded emissions in 2008 total 7.8 gigatonnes (Gt) with a net CO<sub>2</sub> emissions trade from developing to developed countries of 1.6 Gt.
+</p><p>Table 3 also shows how these processes of production, consumption and trade have changed from 1990 (commonly chosen for baseline levels) to 2008. Global emissions have risen 39%, but in the same period developed countries seem to have stabilized their domestic emissions, whereas developing countries’ domestic emissions have doubled. This ‘stabilization’ is arguably misleading, however, if the increased trade from developing to developed countries is considered. This has increased from 0.4 Gt CO<sub>2</sub> to 1.6 Gt CO<sub>2</sub> - a 17%/year average growth meaning 16 Gt CO<sub>2</sub> have been traded from developing to developed countries between 1990-2008. Assuming a proportion of the increased production in developing countries is to fulfil the consumption demands of developed countries, the process known as carbon leakage becomes evident. Thus, including international trade (i.e. the methodology of consumption-based accounting) reverses the apparent decreasing trend in emissions in developed countries, changing a 2% decrease (as calculated by production-based accounting) into a 7% increase across the time period.<sup class="reference" id="cite_ref-Caldeira_and_Davis_2011_14-0"><a href="#cite_note-Caldeira_and_Davis_2011-14">[14]</a></sup> This point is only further emphasized when these trends are studied at a less aggregated scale.
+</p>
+<table class="wikitable" style="margin: 1em auto 1em auto;font-size:90%">
+<caption align="bottom">Table 3. Allocation of global emissions to Annex B and non-Annex B countries separated into domestic and internationally traded components.<sup class="reference" id="cite_ref-Peters_et_al_2011_1-1"><a href="#cite_note-Peters_et_al_2011-1">[1]</a></sup>
+</caption>
+<tbody><tr>
+<th></th>
+<th>Component</th>
+<th>1990 (Gt CO<sub>2</sub>)</th>
+<th>2008 (Gt CO<sub>2</sub>)</th>
+<th>Growth (%/y)
+</th></tr>
+<tr>
+<td align="center"><b>Annex B</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>Domestic</td>
+<td>Annex B Domestic (Bdom)</td>
+<td align="center">11.3</td>
+<td align="center">10.8</td>
+<td align="center">-0.3
+</td></tr>
+<tr>
+<td>Trade component</td>
+<td>Annex B to Annex B (B2B)</td>
+<td align="center">2.1</td>
+<td align="center">2.2</td>
+<td align="center">0.2
+</td></tr>
+<tr>
+<td></td>
+<td>Annex B to non-Annex B (B2nB)</td>
+<td align="center">0.7</td>
+<td align="center">0.9</td>
+<td align="center">1.8
+</td></tr>
+<tr>
+<td>Production</td>
+<td>Annex B production (Bprod = Bdom + B2B + B2nB)</td>
+<td align="center">14.2</td>
+<td align="center">13.9</td>
+<td align="center">-0.1
+</td></tr>
+<tr>
+<td>Consumption</td>
+<td>Annex B consumption (Bcons = Bdom + B2B + nB2B)</td>
+<td align="center">14.5</td>
+<td align="center">15.5</td>
+<td align="center">0.3
+</td></tr>
+<tr>
+<td align="center"><b>Non-Annex B</b></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>Domestic</td>
+<td>Non-Annex B domestic (nBdom)</td>
+<td align="center">6.2</td>
+<td align="center">11.7</td>
+<td align="center">4.6
+</td></tr>
+<tr>
+<td>Trade component</td>
+<td>Non-Annex B to Annex B (nB2B)</td>
+<td align="center">1.1</td>
+<td align="center">2.6</td>
+<td align="center">7.0
+</td></tr>
+<tr>
+<td></td>
+<td>Non-Annex B to non-Annex B (nB2nB)</td>
+<td align="center">0.4</td>
+<td align="center">2.2</td>
+<td align="center">21.5
+</td></tr>
+<tr>
+<td>Production</td>
+<td>Non-Annex B production (nBprod = nBdom + nB2B + nB2nB)</td>
+<td align="center">7.7</td>
+<td align="center">16.4</td>
+<td align="center">5.9
+</td></tr>
+<tr>
+<td>Consumption</td>
+<td>Non-Annex B consumption (nBcons = nBdom + B2nB + nB2nB)</td>
+<td align="center">7.4</td>
+<td align="center">14.8</td>
+<td align="center">5.3
+</td></tr>
+<tr>
+<td align="center"><b>Trade totals</b></td>
+<td>Traded emissions (B2B + B2nB + nB2B + nB2nB)</td>
+<td align="center">4.3</td>
+<td align="center">7.8</td>
+<td align="center">4.3
+</td></tr>
+<tr>
+<td></td>
+<td>Trade balance (B2nB − nB2B)</td>
+<td align="center">-0.4</td>
+<td align="center">-1.6</td>
+<td align="center">16.9
+</td></tr>
+<tr>
+<td></td>
+<td>Global emissions (Bprod + nBprod = Bcons + nBcon)</td>
+<td align="center">21.9</td>
+<td align="center">30.3</td>
+<td align="center">2.0
+</td></tr></tbody></table>
+<p>Figure 2 shows the percentage surplus of emissions as calculated by production-based accounting over consumption-based accounting. In general, production-based accounting proposes lower emissions for the <a href="/wiki/European_Union" title="European Union">EU</a> and <a href="/wiki/OECD" title="OECD">OECD</a> countries (developed countries) and higher emissions for <a href="/wiki/BRIC" title="BRIC">BRIC</a> and <a class="mw-redirect" href="/wiki/Rest_of_the_world" title="Rest of the world">RoW</a> (developing countries). However, consumption-based accounting proposes the reverse with lower emissions in BRIC and RoW, and higher emissions in EU and OECD countries.<sup class="reference" id="cite_ref-Boitier_2012_4-2"><a href="#cite_note-Boitier_2012-4">[4]</a></sup> This led Boitier<sup class="reference" id="cite_ref-Boitier_2012_p8_15-0"><a href="#cite_note-Boitier_2012_p8-15">[15]</a></sup> to term EU and OECD ‘CO<sub>2</sub> consumers’ and BRIC and RoW ‘CO<sub>2</sub> producers’.
+</p><p>The large difference in these results is corroborated by further analysis. The <a href="/wiki/European_Union" title="European Union">EU-27</a> in 1994 counted emissions using the consumption-based approach at 11% higher than those counted using the production-based approach, this difference rising to 24% in 2008. Similarly OECD countries reached a peak variance of 16% in 2006 whilst dropping to 14% in 2008. In contrast, although RoW starts and ends relatively equal, in the intervening years it is a clear CO<sub>2</sub> producer, as are BRIC with an average consumption-based emissions deficit of 18.5% compared to production-based emissions.
+</p><p>Peters and Hertwich<sup class="reference" id="cite_ref-Peters_and_Hertwich_2008b_10-1"><a href="#cite_note-Peters_and_Hertwich_2008b-10">[10]</a></sup> completed a MRIO study to calculate emissions embodied in international trade using data from the 2001 Global Trade Analysis Program (GTAP). After manipulation, although their numbers are slightly more conservative (EU 14%; OECD 3%; BRIC 16%; RoW 6%) than Boitier<sup class="reference" id="cite_ref-Boitier_2012_4-3"><a href="#cite_note-Boitier_2012-4">[4]</a></sup> the same trend is evident - developed countries are CO<sub>2</sub> consumers and developing countries are CO<sub>2</sub> producers. This trend is seen across the literature and supporting the use of consumption-based emissions accounting in policy-making decisions.
+</p>
+<h2><span class="mw-headline" id="Consumption-based_accounting_2">Consumption-based accounting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit&amp;section=6" title="Edit section: Consumption-based accounting">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Advantages">Advantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit&amp;section=7" title="Edit section: Advantages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Consumption-based emissions accounting may be deemed superior as it incorporates embodied emissions currently ignored by the UNFCCC preferred production-based accounting. Other key advantages include: extending mitigation options, covering more global emissions through increased participation, and inherently encompassing policies such as the <a href="/wiki/Clean_Development_Mechanism" title="Clean Development Mechanism">Clean Development Mechanism</a> (CDM).<sup class="reference" id="cite_ref-Peters_2008_5-2"><a href="#cite_note-Peters_2008-5">[5]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Extending_mitigation_options">Extending mitigation options</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit&amp;section=8" title="Edit section: Extending mitigation options">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Under the production-based system a country is punished for having a pollution intensive resource base. If this country has pollution intensive exports, such as Norway where 69% of its CO<sub>2</sub> emissions are the result of production for export,<sup class="reference" id="cite_ref-Peters_and_Hertwich_2006a_16-0"><a href="#cite_note-Peters_and_Hertwich_2006a-16">[16]</a></sup> a simple way to meet its emissions reductions set out under Kyoto would be to reduce its exports. Although this would be environmentally advantageous, it would be economically and politically harmful as exports are an important part of a country’s GDP.<sup class="reference" id="cite_ref-Peters_2008_5-3"><a href="#cite_note-Peters_2008-5">[5]</a></sup> However, by having appropriate mechanisms in place, such as a <a href="/wiki/Carbon_tax#Harmonized_carbon_taxes" title="Carbon tax">harmonized global tax</a>, <a href="/wiki/Carbon_tax#Border_adjustments,_tariffs_and_bans" title="Carbon tax">border-tax adjustment or quotas</a>, a consumption-based accounting system could shift the <a href="/wiki/Comparative_advantage" title="Comparative advantage">comparative advantage</a> towards a decision that includes environmental factors.<sup class="reference" id="cite_ref-Peters_and_Hertwich_2006b_17-0"><a href="#cite_note-Peters_and_Hertwich_2006b-17">[17]</a></sup> The tax most discussed is based on the carbon content of the fossil fuels used to produce and transport the product, the greater the level of carbon used the more tax being charged. If a country did not voluntarily participate then a border tax could be imposed on them.<sup class="reference" id="cite_ref-Peters_and_Hertwich_2008a._3-3"><a href="#cite_note-Peters_and_Hertwich_2008a.-3">[3]</a></sup> This system would have the effect of embedding the cost of environmental load in the price of the product and therefore market forces would shift production to where it is economically and environmentally preferable, thus reducing GHG emissions.
+</p>
+<h4><span class="mw-headline" id="Increasing_participation">Increasing participation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit&amp;section=9" title="Edit section: Increasing participation">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In addition to reducing emissions directly this system may also alleviate <a class="mw-redirect" href="/wiki/Competitiveness#National_competitiveness" title="Competitiveness">competitiveness</a> concerns in twofold ways: firstly, domestic and foreign producers are exposed to the same carbon tax; and secondly, if multiple countries are competing for the same export market they can promote environmental performance as a marketing tool.<sup class="reference" id="cite_ref-Peters_and_Hertwich_2008a._3-4"><a href="#cite_note-Peters_and_Hertwich_2008a.-3">[3]</a></sup> A loss of competitiveness resulting from the absence of legally binding commitments for non-Annex B countries was the principal reason the USA and Australia, two heavily emitting countries,  did not originally ratify the <a class="mw-redirect" href="/wiki/Kyoto_protocol" title="Kyoto protocol">Kyoto protocol</a> (Australia later ratified in 2007).<sup class="reference" id="cite_ref-Tjernshaugen_2005_18-0"><a href="#cite_note-Tjernshaugen_2005-18">[18]</a></sup> By alleviating such concerns more countries may participate in future climate policies resulting in a greater percentage of global emissions being covered by legally binding reduction policies. Furthermore, as developed countries are currently expected to reduce their emissions more than developing countries, the more emissions are (fairly) attributed to developed countries the more they become covered by legally bound reduction policies. Peters<sup class="reference" id="cite_ref-Peters_2008_5-4"><a href="#cite_note-Peters_2008-5">[5]</a></sup> argues that this last prediction means that consumption-based accounting would advantageously result in greater emissions reductions irrespective of increased participation.
+</p>
+<h4><span class="mw-headline" id="Encompassing_policies_such_as_the_CDM">Encompassing policies such as the CDM</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit&amp;section=10" title="Edit section: Encompassing policies such as the CDM">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The <a href="/wiki/Clean_Development_Mechanism" title="Clean Development Mechanism">CDM</a> is a flexible mechanism set up under the Kyoto Protocol with the aim of creating ‘<a class="mw-redirect" href="/wiki/Carbon_Credits" title="Carbon Credits">Carbon Credits</a>’ for trade in trading schemes such as the <a class="mw-redirect" href="/wiki/EU_ETS" title="EU ETS">EU ETS</a>. Despite coming under heavy criticism (see Evans,<sup class="reference" id="cite_ref-Evans_2012_19-0"><a href="#cite_note-Evans_2012-19">[19]</a></sup> p134-135; and Burniaux et al.,<sup class="reference" id="cite_ref-Burniaux_et_al_2009_20-0"><a href="#cite_note-Burniaux_et_al_2009-20">[20]</a></sup> p58-65), the theory is that as the marginal cost of environmental abatement is lower in non-Annex B countries a scheme like this will promote <a href="/wiki/Technology_transfer" title="Technology transfer">technology transfer</a> from Annex B to non-Annex B countries resulting in cheaper emissions reductions. Because under consumption-based emissions accounting a country is responsible for the emissions caused by its imports, it is important for the importing country to encourage good environmental behaviour and promote the cleanest production technologies available in the exporting country.<sup class="reference" id="cite_ref-Peters_and_Hertwich_2008a._3-5"><a href="#cite_note-Peters_and_Hertwich_2008a.-3">[3]</a></sup> Therefore, unlike the Kyoto Protocol where the CDM was added later, consumption-based emissions accounting inherently promotes clean development in the foreign country because of the way it allocates emissions. One loophole that remains relevant is ‘<a href="/wiki/Carbon_emission_trading#Criticisms" title="Carbon emission trading">carbon colonialism</a>’ whereby developed countries do not mitigate the underlying problem but simply continue to increase consumption offsetting this by exploiting the abatement potential of developing countries.<sup class="reference" id="cite_ref-Harvey_2007_21-0"><a href="#cite_note-Harvey_2007-21">[21]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Disadvantages_and_implementation">Disadvantages and implementation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit&amp;section=11" title="Edit section: Disadvantages and implementation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Despite its advantages consumption-based emissions accounting is not without its drawbacks. These were highlighted above and in Table 1 and are principally: greater uncertainty, greater complexity requiring more data not always available, and requiring greater international collaboration.
+</p>
+<h4><span class="mw-headline" id="Greater_uncertainty_and_complexity">Greater uncertainty and complexity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit&amp;section=12" title="Edit section: Greater uncertainty and complexity">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Uncertainty derives from three main reasons: production-based accounting is much closer to statistical sources and GDP which are more assured; the methodology behind consumption-based accounting requires an extra step over production-based accounting, this step inherently incurring further doubt; and consumption-based accounting includes data from all trading partners of a particular country which will contain different levels of accuracy.<sup class="reference" id="cite_ref-Peters_and_Hertwich_2008a._3-6"><a href="#cite_note-Peters_and_Hertwich_2008a.-3">[3]</a></sup><sup class="reference" id="cite_ref-Peters_2008_5-5"><a href="#cite_note-Peters_2008-5">[5]</a></sup> The bulk of data required is its second pitfall as in some countries the lack of data means consumption-based accounting is not possible. However, it must be noted levels and accuracy of data will improve as more and better techniques are developed and the scientific community produce more data sets - examples including the recently launched global databases: EORA from the University of Sydney, EXIOPOL and WIOD databases from European consortia, and the Asian IDE-JETRO.<sup class="reference" id="cite_ref-Marques_et_al_2012_22-0"><a href="#cite_note-Marques_et_al_2012-22">[22]</a></sup> In the short term it will be important to attempt to quantify the level of uncertainty more accurately.<sup class="reference" id="cite_ref-Peters_and_Hertwich_2008a._3-7"><a href="#cite_note-Peters_and_Hertwich_2008a.-3">[3]</a></sup>
+</p>
+<h4><span class="mw-headline" id="Greater_international_co-operation">Greater international co-operation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit&amp;section=13" title="Edit section: Greater international co-operation">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The third problem is that consumption-based accounting requires greater international collaboration to deliver effective results. A Government has the authority to implement policies only over emissions it directly generates. In consumption-based accounting emissions from different geo-political territories are allocated to the importing country. Although the importing country can indirectly oppose this by changing its importing habits or by applying a border tax as discussed, only by greater international collaboration, through an international dialogue such as the UNFCCC, can direct and meaningful emissions reductions be enforced.<sup class="reference" id="cite_ref-Peters_and_Hertwich_2008a._3-8"><a href="#cite_note-Peters_and_Hertwich_2008a.-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Sharing_emissions_responsibility">Sharing emissions responsibility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit&amp;section=14" title="Edit section: Sharing emissions responsibility">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Thus far it has been implied that one must implement either production-based accounting or consumption-based accounting.<sup class="reference" id="cite_ref-Andrew_and_Forgie_2008_23-0"><a href="#cite_note-Andrew_and_Forgie_2008-23">[23]</a></sup> However, there are arguments that the answer lies somewhere in the middle i.e. emissions should be shared between the importing and exporting countries. This approach asserts that although it is the final consumer that ultimately initiates the production, the activities that create the product and associated pollution also contribute to the producing country’s GDP. This topic is still developing in the literature principally through works by Rodrigues et al.,<sup class="reference" id="cite_ref-Rodrigues_et_al_2006_24-0"><a href="#cite_note-Rodrigues_et_al_2006-24">[24]</a></sup> Lenzen et al.,<sup class="reference" id="cite_ref-Lenzen_et_al_2007_25-0"><a href="#cite_note-Lenzen_et_al_2007-25">[25]</a></sup> Marques et al.<sup class="reference" id="cite_ref-Marques_et_al_2012_22-1"><a href="#cite_note-Marques_et_al_2012-22">[22]</a></sup> as well as through empirical studies by such as Andrew and Forgie.<sup class="reference" id="cite_ref-Andrew_and_Forgie_2008_23-1"><a href="#cite_note-Andrew_and_Forgie_2008-23">[23]</a></sup> Crucially it proposes that at each stage of the supply chain the emissions are shared by some pre-defined criteria between the different actors involved.<sup class="reference" id="cite_ref-Marques_et_al_2012_22-2"><a href="#cite_note-Marques_et_al_2012-22">[22]</a></sup>
+</p><p>Whilst this approach of sharing emissions responsibility seems advantageous, the controversy arises over what these pre-defined criteria should be. Two of the current front runners are Lenzen et al.<sup class="reference" id="cite_ref-Lenzen_et_al_2007_25-1"><a href="#cite_note-Lenzen_et_al_2007-25">[25]</a></sup> who say “the share of responsibility allocated to each agent should be proportional to its value added” and Rodrigues et al.<sup class="reference" id="cite_ref-Rodrigues_et_al_2006_24-1"><a href="#cite_note-Rodrigues_et_al_2006-24">[24]</a></sup> who say it should be based on “the average between an agent's consumption-based responsibility and income-based responsibility” (quoted in Marques et al.<sup class="reference" id="cite_ref-Marques_et_al_2012_p60_26-0"><a href="#cite_note-Marques_et_al_2012_p60-26">[26]</a></sup>). As no criteria set has been adequately developed and further work is needed to produce a finished methodology for a potentially valuable concept.
+</p>
+<h2><span class="mw-headline" id="The_future">The future</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit&amp;section=15" title="Edit section: The future">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Measuring a country’s GHG emissions is critical to combat climate change. It is clear that production-based emissions accounting, the currently favoured method for policy-making, significantly underestimates the level of GHG emitted by excluding emissions embodied in international trade. Implementing consumption-based accounting which includes such emissions, developed countries take a greater share of GHG emissions and consequently the low level of emissions commitments for developing countries are not as important.<sup class="reference" id="cite_ref-Peters_and_Hertwich_2008a._3-9"><a href="#cite_note-Peters_and_Hertwich_2008a.-3">[3]</a></sup> Not only does consumption-based accounting encompass global emissions, it promotes good environmental behaviour and increases participation by reducing competitiveness.
+</p><p>Despite these advantages the shift from production-based to consumption-based accounting arguably represents a shift from one extreme to another.<sup class="reference" id="cite_ref-Peters_2008_5-6"><a href="#cite_note-Peters_2008-5">[5]</a></sup> The third option of sharing responsibility between importing and exporting countries represents a compromise between the two systems. However,  as yet no adequately developed methodology exists for this third way, so further study is required before it can be implemented for policy-making decisions.
+</p><p>Today, given its lower uncertainty, established methodology and reporting, consistency between political and environmental boundaries, and widespread implementation, it is hard to see any movement away from the favoured production-based accounting.<sup class="reference" id="cite_ref-Peters_2008_5-7"><a href="#cite_note-Peters_2008-5">[5]</a></sup> However, because of its key disadvantage of omitting emissions embodied in international trade, it is clear that consumption-based accounting provides invaluable information and should at least be used as a ‘shadow’ to production-based accounting. With further work into the methodologies of consumption-based accounting and sharing emissions responsibility, both can play greater roles in the future of climate policy.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+<li><a href="/wiki/Environmental_economics" title="Environmental economics">Environmental economics</a></li>
+<li><a href="/wiki/Global_warming" title="Global warming">Global warming</a></li>
+<li><a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a></li>
+<li><a href="/wiki/Paris_Agreement" title="Paris Agreement">Paris Agreement</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Peters_et_al_2011-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Peters_et_al_2011_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Peters_et_al_2011_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Peters, G.P.; Minx, J.C.; Weber, C.L.; Edenhofer, O (2011). <a class="external text" href="http://www.pnas.org/content/early/2011/04/19/1006388108.abstract" rel="nofollow">"Growth in emission transfers via international trade from 1990 to 2008"</a>. <i>PNAS</i>. <b>108</b> (21): 8903–8908. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1073%2Fpnas.1006388108" rel="nofollow">10.1073/pnas.1006388108</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3102371" rel="nofollow">3102371</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21518879" rel="nofollow">21518879</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PNAS&amp;rft.atitle=Growth+in+emission+transfers+via+international+trade+from+1990+to+2008&amp;rft.volume=108&amp;rft.issue=21&amp;rft.pages=8903-8908&amp;rft.date=2011&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3102371&amp;rft_id=info%3Apmid%2F21518879&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.1006388108&amp;rft.aulast=Peters&amp;rft.aufirst=G.P.&amp;rft.au=Minx%2C+J.C.&amp;rft.au=Weber%2C+C.L.&amp;rft.au=Edenhofer%2C+O&amp;rft_id=http%3A%2F%2Fwww.pnas.org%2Fcontent%2Fearly%2F2011%2F04%2F19%2F1006388108.abstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-IPCC_2006-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-IPCC_2006_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IPCC_2006_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-IPCC_2006_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Intergovernmental Panel on Climate Change (2006). <a class="external text" href="http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol1.html" rel="nofollow"><i>) IPCC Guidelines for National Greenhouse Gas Inventories</i></a>. Japan: Institute for Global Environmental Strategies. p. 7.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%29+IPCC+Guidelines+for+National+Greenhouse+Gas+Inventories&amp;rft.place=Japan&amp;rft.pages=7&amp;rft.pub=Institute+for+Global+Environmental+Strategies&amp;rft.date=2006&amp;rft.au=Intergovernmental+Panel+on+Climate+Change&amp;rft_id=http%3A%2F%2Fwww.ipcc-nggip.iges.or.jp%2Fpublic%2F2006gl%2Fvol1.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Peters_and_Hertwich_2008a.-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Peters_and_Hertwich_2008a._3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Peters_and_Hertwich_2008a._3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Peters_and_Hertwich_2008a._3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Peters_and_Hertwich_2008a._3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Peters_and_Hertwich_2008a._3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Peters_and_Hertwich_2008a._3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Peters_and_Hertwich_2008a._3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Peters_and_Hertwich_2008a._3-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Peters_and_Hertwich_2008a._3-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Peters_and_Hertwich_2008a._3-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Peters, G.P.; Hertwich, Edgar G. (2008). "Post-Kyoto greenhouse gas inventories: production versus consumption". <i>Climatic Change</i>. <b>86</b>: 51–66. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2Fs10584-007-9280-1" rel="nofollow">10.1007/s10584-007-9280-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Climatic+Change&amp;rft.atitle=Post-Kyoto+greenhouse+gas+inventories%3A+production+versus+consumption&amp;rft.volume=86&amp;rft.pages=51-66&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1007%2Fs10584-007-9280-1&amp;rft.aulast=Peters&amp;rft.aufirst=G.P.&amp;rft.au=Hertwich%2C+Edgar+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Boitier_2012-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Boitier_2012_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Boitier_2012_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Boitier_2012_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Boitier_2012_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Boitier, B. (2012). <a class="external text" href="http://www.wiod.org/conferences/groningen/paper_Boitier.pdf" rel="nofollow">"CO<sub>2</sub> emissions production-based accounting vs consumption: Insights from the WIOD databases"</a> <span class="cs1-format">(PDF)</span>. WIOD Conference Paper, April.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=CO%3Csub%3E2%3C%2Fsub%3E+emissions+production-based+accounting+vs+consumption%3A+Insights+from+the+WIOD+databases&amp;rft.date=2012&amp;rft.aulast=Boitier&amp;rft.aufirst=B.&amp;rft_id=http%3A%2F%2Fwww.wiod.org%2Fconferences%2Fgroningen%2Fpaper_Boitier.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Peters_2008-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Peters_2008_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Peters_2008_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Peters_2008_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Peters_2008_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Peters_2008_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Peters_2008_5-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Peters_2008_5-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Peters_2008_5-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Peters, G.P. (2008). "From Production-based to consumption-based national emission inventories". <i>Ecological Economics</i>. <b>65</b> (1): 13–23. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.ecolecon.2007.10.014" rel="nofollow">10.1016/j.ecolecon.2007.10.014</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ecological+Economics&amp;rft.atitle=From+Production-based+to+consumption-based+national+emission+inventories&amp;rft.volume=65&amp;rft.issue=1&amp;rft.pages=13-23&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ecolecon.2007.10.014&amp;rft.aulast=Peters&amp;rft.aufirst=G.P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Canadell_et_al_2007-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Canadell_et_al_2007_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Canadell, J.G.; Le Quéré, C.; Raupacha, M.R.; Fielde, C.B.; Buitenhuisc, E.T.; Ciaisf, P.;  et al. (2007). <a class="external text" href="http://www.pnas.org/content/104/47/18866.full.pdf+html" rel="nofollow">"Contributions to accelerating atmospheric CO<sub>2</sub> growth from economic activity, carbon intensity, and efficiency of natural sinks"</a>. <i>Proceedings of the National Academy of Sciences</i>. <b>104</b> (47): 18866–18870. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1073%2Fpnas.0702737104" rel="nofollow">10.1073/pnas.0702737104</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2141868" rel="nofollow">2141868</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17962418" rel="nofollow">17962418</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences&amp;rft.atitle=Contributions+to+accelerating+atmospheric+CO%3Csub%3E2%3C%2Fsub%3E+growth+from+economic+activity%2C+carbon+intensity%2C+and+efficiency+of+natural+sinks&amp;rft.volume=104&amp;rft.issue=47&amp;rft.pages=18866-18870&amp;rft.date=2007&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2141868&amp;rft_id=info%3Apmid%2F17962418&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.0702737104&amp;rft.aulast=Canadell&amp;rft.aufirst=J.G.&amp;rft.au=Le+Qu%C3%A9r%C3%A9%2C+C.&amp;rft.au=Raupacha%2C+M.R.&amp;rft.au=Fielde%2C+C.B.&amp;rft.au=Buitenhuisc%2C+E.T.&amp;rft.au=Ciaisf%2C+P.&amp;rft_id=http%3A%2F%2Fwww.pnas.org%2Fcontent%2F104%2F47%2F18866.full.pdf%2Bhtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Le_Quere_et_al_2012-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Le_Quere_et_al_2012_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Le_Quere_et_al_2012_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Le Quéré, C.; Raupach, M.R.; Canadell, J.G.; Marland, G.; Bopp, L.;  et al. (2012). <a class="external text" href="http://www.nature.com/ngeo/journal/v2/n12/abs/ngeo689.html" rel="nofollow">"Trends in the sources and sinks of carbon dioxide"</a>. <i>Nature Geoscience</i>. <b>2</b> (12): 831–836. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fngeo689" rel="nofollow">10.1038/ngeo689</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature+Geoscience&amp;rft.atitle=Trends+in+the+sources+and+sinks+of+carbon+dioxide&amp;rft.volume=2&amp;rft.issue=12&amp;rft.pages=831-836&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1038%2Fngeo689&amp;rft.aulast=Le+Qu%C3%A9r%C3%A9&amp;rft.aufirst=C.&amp;rft.au=Raupach%2C+M.R.&amp;rft.au=Canadell%2C+J.G.&amp;rft.au=Marland%2C+G.&amp;rft.au=Bopp%2C+L.&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fngeo%2Fjournal%2Fv2%2Fn12%2Fabs%2Fngeo689.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Raupach_et_al_2007-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Raupach_et_al_2007_8-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Raupach, M. R.; Marland, G.; Ciais, P.; Le Quere, C.; Canadell, J. G.;  et al. (2007). <a class="external text" href="http://www.pnas.org/content/104/24/10288.full.pdf+html" rel="nofollow">"Global and regional drivers of accelerating CO<sub>2</sub> emissions"</a>. <i>Proceedings of the National Academy of Sciences</i>. <b>104</b> (24): 10288–10293. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1073%2Fpnas.0700609104" rel="nofollow">10.1073/pnas.0700609104</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1876160" rel="nofollow">1876160</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17519334" rel="nofollow">17519334</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences&amp;rft.atitle=Global+and+regional+drivers+of+accelerating+CO%3Csub%3E2%3C%2Fsub%3E+emissions&amp;rft.volume=104&amp;rft.issue=24&amp;rft.pages=10288-10293&amp;rft.date=2007&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1876160&amp;rft_id=info%3Apmid%2F17519334&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.0700609104&amp;rft.aulast=Raupach&amp;rft.aufirst=M.+R.&amp;rft.au=Marland%2C+G.&amp;rft.au=Ciais%2C+P.&amp;rft.au=Le+Quere%2C+C.&amp;rft.au=Canadell%2C+J.+G.&amp;rft_id=http%3A%2F%2Fwww.pnas.org%2Fcontent%2F104%2F24%2F10288.full.pdf%2Bhtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Davis_and_Caldeira_2010-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Davis_and_Caldeira_2010_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Davis_and_Caldeira_2010_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Davis_and_Caldeira_2010_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Davis_and_Caldeira_2010_9-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Davis, S.J.; Caldeira, K. (2010). <a class="external text" href="http://www.pnas.org/content/early/2010/02/23/0906974107.abstract" rel="nofollow">"Consumption-based accounting of CO<sub>2</sub> emissions"</a>. <i>Proceedings of the National Academy of Sciences</i>. <b>107</b> (12): 5687–5692. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2010PNAS..107.5687D" rel="nofollow">2010PNAS..107.5687D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1073%2Fpnas.0906974107" rel="nofollow">10.1073/pnas.0906974107</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2851800" rel="nofollow">2851800</a></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences&amp;rft.atitle=Consumption-based+accounting+of+CO%3Csub%3E2%3C%2Fsub%3E+emissions&amp;rft.volume=107&amp;rft.issue=12&amp;rft.pages=5687-5692&amp;rft.date=2010&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2851800&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.0906974107&amp;rft_id=info%3Abibcode%2F2010PNAS..107.5687D&amp;rft.aulast=Davis&amp;rft.aufirst=S.J.&amp;rft.au=Caldeira%2C+K.&amp;rft_id=http%3A%2F%2Fwww.pnas.org%2Fcontent%2Fearly%2F2010%2F02%2F23%2F0906974107.abstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Peters_and_Hertwich_2008b-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Peters_and_Hertwich_2008b_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Peters_and_Hertwich_2008b_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Peters, G.P.; Hertwich, E.G. (2008). <a class="external text" href="http://pubs.acs.org/doi/abs/10.1021/es072023k" rel="nofollow">"CO<sub>2</sub> Embodied in International Trade with Implications for Global Climate Policy"</a>. <i>Environmental Science &amp; Technology</i>. <b>42</b> (5): 1401–1407. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fes072023k" rel="nofollow">10.1021/es072023k</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Environmental+Science+%26+Technology&amp;rft.atitle=CO%3Csub%3E2%3C%2Fsub%3E+Embodied+in+International+Trade+with+Implications+for+Global+Climate+Policy&amp;rft.volume=42&amp;rft.issue=5&amp;rft.pages=1401-1407&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1021%2Fes072023k&amp;rft.aulast=Peters&amp;rft.aufirst=G.P.&amp;rft.au=Hertwich%2C+E.G.&amp;rft_id=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fes072023k&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-National_Audit_Office-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-National_Audit_Office_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-National_Audit_Office_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">National Audit Office (2008). <a class="external text" href="http://www.nao.org.uk/wp-content/uploads/2012/10/0708_greenhouse_gas_emissions.pdf" rel="nofollow">"UK greenhouse gas emissions: measurement and reporting"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">3 July</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UK+greenhouse+gas+emissions%3A+measurement+and+reporting&amp;rft.au=National+Audit+Office+%282008%29&amp;rft_id=http%3A%2F%2Fwww.nao.org.uk%2Fwp-content%2Fuploads%2F2012%2F10%2F0708_greenhouse_gas_emissions.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Eurostat_2010-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Eurostat_2010_12-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Wieland, ed.-in-chief: Ulrich (2010). <a class="external text" href="http://epp.eurostat.ec.europa.eu/cache/ITY_OFFPUB/KS-31-09-272/EN/KS-31-09-272-EN.PDF" rel="nofollow"><i>Using official statistics to calculate greenhouse gas emissions : a statistical guide</i></a> <span class="cs1-format">(PDF)</span> (2010 ed.). Luxembourg: Publications Office of the European Union: Publications Office of the European Union. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-92-79-14487-5" title="Special:BookSources/978-92-79-14487-5">978-92-79-14487-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Using+official+statistics+to+calculate+greenhouse+gas+emissions+%3A+a+statistical+guide&amp;rft.place=Luxembourg%3A+Publications+Office+of+the+European+Union&amp;rft.edition=2010&amp;rft.pub=Publications+Office+of+the+European+Union&amp;rft.date=2010&amp;rft.isbn=978-92-79-14487-5&amp;rft.aulast=Wieland&amp;rft.aufirst=ed.-in-chief%3A+Ulrich&amp;rft_id=http%3A%2F%2Fepp.eurostat.ec.europa.eu%2Fcache%2FITY_OFFPUB%2FKS-31-09-272%2FEN%2FKS-31-09-272-EN.PDF&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Extra text: authors list (<a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">link</a>) </span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Hertwich_2010_3-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hertwich_2010_3_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hertwich_2010_3_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Hertwich, E.G.; Peters, G.P. (2010). <a class="external text" href="http://www.oneplaneteconomynetwork.org/resources/programme-documents/WP1_MRIO_Technical_Document.pdf" rel="nofollow">"Mutiregional Input-Output Database. OPEN: EU Technical Document"</a> <span class="cs1-format">(PDF)</span>. Godalming: One planet economy network.: 3.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Mutiregional+Input-Output+Database.+OPEN%3A+EU+Technical+Document.&amp;rft.pages=3&amp;rft.date=2010&amp;rft.aulast=Hertwich&amp;rft.aufirst=E.G.&amp;rft.au=Peters%2C+G.P.&amp;rft_id=http%3A%2F%2Fwww.oneplaneteconomynetwork.org%2Fresources%2Fprogramme-documents%2FWP1_MRIO_Technical_Document.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Caldeira_and_Davis_2011-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Caldeira_and_Davis_2011_14-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Caldeira, K.; Davis, S.J. (2011). <a class="external text" href="http://www.pnas.org/content/108/21/8533.full" rel="nofollow">"Accounting for carbon dioxide emissions: A matter of time"</a>. <i>Proceedings of the National Academy of Sciences</i>. <b>108</b> (21): 8533–8534. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1073%2Fpnas.1106517108" rel="nofollow">10.1073/pnas.1106517108</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3102393" rel="nofollow">3102393</a></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences&amp;rft.atitle=Accounting+for+carbon+dioxide+emissions%3A+A+matter+of+time&amp;rft.volume=108&amp;rft.issue=21&amp;rft.pages=8533-8534&amp;rft.date=2011&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3102393&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.1106517108&amp;rft.aulast=Caldeira&amp;rft.aufirst=K.&amp;rft.au=Davis%2C+S.J.&amp;rft_id=http%3A%2F%2Fwww.pnas.org%2Fcontent%2F108%2F21%2F8533.full&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Boitier_2012_p8-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Boitier_2012_p8_15-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Boitier, B. (2012). <a class="external text" href="http://www.wiod.org/conferences/groningen/paper_Boitier.pdf" rel="nofollow">"CO<sub>2</sub> emissions production-based accounting vs consumption: Insights from the WIOD databases"</a> <span class="cs1-format">(PDF)</span>. WIOD Conference Paper, April: 8.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=CO%3Csub%3E2%3C%2Fsub%3E+emissions+production-based+accounting+vs+consumption%3A+Insights+from+the+WIOD+databases&amp;rft.pages=8&amp;rft.date=2012&amp;rft.aulast=Boitier&amp;rft.aufirst=B.&amp;rft_id=http%3A%2F%2Fwww.wiod.org%2Fconferences%2Fgroningen%2Fpaper_Boitier.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Peters_and_Hertwich_2006a-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Peters_and_Hertwich_2006a_16-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Peters, G.P.; Hertwich, E.G. (2006). <a class="external text" href="http://www.tandfonline.com/doi/abs/10.1080/09535310600653008#.UfbQM43WTX4" rel="nofollow">"Structural analysis of international trade: environmental impacts of Norway"</a>. <i>Economic Systems Research</i>. <b>18</b> (2): 155–181. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1080%2F09535310600653008" rel="nofollow">10.1080/09535310600653008</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Economic+Systems+Research&amp;rft.atitle=Structural+analysis+of+international+trade%3A+environmental+impacts+of+Norway&amp;rft.volume=18&amp;rft.issue=2&amp;rft.pages=155-181&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1080%2F09535310600653008&amp;rft.aulast=Peters&amp;rft.aufirst=G.P.&amp;rft.au=Hertwich%2C+E.G.&amp;rft_id=http%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Fabs%2F10.1080%2F09535310600653008%23.UfbQM43WTX4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Peters_and_Hertwich_2006b-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Peters_and_Hertwich_2006b_17-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Peters, G.P.; Hertwich, E.G. (2006). "Pollution embodied in trade: The Norwegian case". <i>Global Environmental Change</i>. <b>16</b> (4): 379–387. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.gloenvcha.2006.03.001" rel="nofollow">10.1016/j.gloenvcha.2006.03.001</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Global+Environmental+Change&amp;rft.atitle=Pollution+embodied+in+trade%3A+The+Norwegian+case&amp;rft.volume=16&amp;rft.issue=4&amp;rft.pages=379-387&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1016%2Fj.gloenvcha.2006.03.001&amp;rft.aulast=Peters&amp;rft.aufirst=G.P.&amp;rft.au=Hertwich%2C+E.G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Tjernshaugen_2005-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tjernshaugen_2005_18-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tjernshaugen, A. (2005). <a class="external text" href="https://www.duo.uio.no/handle/10852/32742" rel="nofollow">"United States participation in future climate agreements: an assessment"</a>. <i>CICERO Policy Note 2005:01, CICERO</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CICERO+Policy+Note+2005%3A01%2C+CICERO&amp;rft.atitle=United+States+participation+in+future+climate+agreements%3A+an+assessment&amp;rft.date=2005&amp;rft.aulast=Tjernshaugen&amp;rft.aufirst=A.&amp;rft_id=https%3A%2F%2Fwww.duo.uio.no%2Fhandle%2F10852%2F32742&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Evans_2012-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Evans_2012_19-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Evans, J. (2012). <a class="external text" href="https://books.google.com/books/about/Environmental_Governance.html?id=KEU8YgEACAAJ&amp;redir_esc=y" rel="nofollow"><i>Environmental governance</i></a> (1st ed.). London: Routledge. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0415589827" title="Special:BookSources/0415589827">0415589827</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Environmental+governance&amp;rft.place=London&amp;rft.edition=1st&amp;rft.pub=Routledge&amp;rft.date=2012&amp;rft.isbn=0415589827&amp;rft.aulast=Evans&amp;rft.aufirst=J.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%2Fabout%2FEnvironmental_Governance.html%3Fid%3DKEU8YgEACAAJ%26redir_esc%3Dy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Burniaux_et_al_2009-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Burniaux_et_al_2009_20-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Burniaux, J.M.; Chateau, J.; Dellink, R.; Duval, R.; Jamet, S. (2009). <a class="external text" href="http://search.oecd.org/officialdocuments/displaydocumentpdf/?doclanguage=en&amp;cote=eco/wkp(2009)42" rel="nofollow">"The economics of climate change mitigation: how to build the necessary global action in a cost-effective manner"</a>. <i>Economics Department Working Papers</i>. <b>701</b>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Economics+Department+Working+Papers&amp;rft.atitle=The+economics+of+climate+change+mitigation%3A+how+to+build+the+necessary+global+action+in+a+cost-effective+manner&amp;rft.volume=701&amp;rft.date=2009&amp;rft.aulast=Burniaux&amp;rft.aufirst=J.M.&amp;rft.au=Chateau%2C+J.&amp;rft.au=Dellink%2C+R.&amp;rft.au=Duval%2C+R.&amp;rft.au=Jamet%2C+S.&amp;rft_id=http%3A%2F%2Fsearch.oecd.org%2Fofficialdocuments%2Fdisplaydocumentpdf%2F%3Fdoclanguage%3Den%26cote%3Deco%2Fwkp%282009%2942&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Harvey_2007-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Harvey_2007_21-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Harvey, F. (2007). <a class="external text" href="http://www.ft.com/cms/s/0/dcdefef6-f350-11db-9845-000b5df10621.html#axzz2YewBjlDl" rel="nofollow">"Beware the carbon offsetting cowboys"</a>. <i>Financial Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 July</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Financial+Times&amp;rft.atitle=Beware+the+carbon+offsetting+cowboys&amp;rft.date=2007&amp;rft.aulast=Harvey&amp;rft.aufirst=F.&amp;rft_id=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2Fdcdefef6-f350-11db-9845-000b5df10621.html%23axzz2YewBjlDl&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Marques_et_al_2012-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-Marques_et_al_2012_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Marques_et_al_2012_22-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Marques_et_al_2012_22-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Marques, A.; Rodrigues, J.; Lenzen, M.; Domingos, T. (2012). "Income-based environmental responsibility". <i>Ecological Economics</i>. <b>84</b>: 57–65. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.ecolecon.2012.09.010" rel="nofollow">10.1016/j.ecolecon.2012.09.010</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ecological+Economics&amp;rft.atitle=Income-based+environmental+responsibility&amp;rft.volume=84&amp;rft.pages=57-65&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ecolecon.2012.09.010&amp;rft.aulast=Marques&amp;rft.aufirst=A.&amp;rft.au=Rodrigues%2C+J.&amp;rft.au=Lenzen%2C+M.&amp;rft.au=Domingos%2C+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Andrew_and_Forgie_2008-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-Andrew_and_Forgie_2008_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Andrew_and_Forgie_2008_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Andrew, A.R.; Forgie, V. (2008). "A three-perspective view of greenhouse gas emission responsibilities in New Zealand". <i>Ecological Economics</i>. <b>68</b>: 194–204. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.ecolecon.2008.02.016" rel="nofollow">10.1016/j.ecolecon.2008.02.016</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ecological+Economics&amp;rft.atitle=A+three-perspective+view+of+greenhouse+gas+emission+responsibilities+in+New+Zealand&amp;rft.volume=68&amp;rft.pages=194-204&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ecolecon.2008.02.016&amp;rft.aulast=Andrew&amp;rft.aufirst=A.R.&amp;rft.au=Forgie%2C+V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Rodrigues_et_al_2006-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-Rodrigues_et_al_2006_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Rodrigues_et_al_2006_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Rodrigues, J.; Domingos, T.; Giljum, S.; Schneider, F. (2006). "Designing an indicator of environmental responsibility". <i>Ecological Economics</i>. <b>59</b> (3): 256–266. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.ecolecon.2005.10.002" rel="nofollow">10.1016/j.ecolecon.2005.10.002</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ecological+Economics&amp;rft.atitle=Designing+an+indicator+of+environmental+responsibility&amp;rft.volume=59&amp;rft.issue=3&amp;rft.pages=256-266&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ecolecon.2005.10.002&amp;rft.aulast=Rodrigues&amp;rft.aufirst=J.&amp;rft.au=Domingos%2C+T.&amp;rft.au=Giljum%2C+S.&amp;rft.au=Schneider%2C+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Lenzen_et_al_2007-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lenzen_et_al_2007_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lenzen_et_al_2007_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Lenzen, M.; Murray, J.; Sack, F.; Wiedmann, T. (2007). "Shared producer and consumer responsibility — Theory and practice". <i>Ecological Economics</i>. <b>61</b> (1): 27–42. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.ecolecon.2006.05.018" rel="nofollow">10.1016/j.ecolecon.2006.05.018</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ecological+Economics&amp;rft.atitle=Shared+producer+and+consumer+responsibility+%E2%80%94+Theory+and+practice&amp;rft.volume=61&amp;rft.issue=1&amp;rft.pages=27-42&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ecolecon.2006.05.018&amp;rft.aulast=Lenzen&amp;rft.aufirst=M.&amp;rft.au=Murray%2C+J.&amp;rft.au=Sack%2C+F.&amp;rft.au=Wiedmann%2C+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Marques_et_al_2012_p60-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Marques_et_al_2012_p60_26-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Marques, A.; Rodrigues, J.; Lenzen, M.; Domingos, T. (2012). "Income-based environmental responsibility". <i>Ecological Economics</i>. <b>84</b>: 60. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.ecolecon.2012.09.010" rel="nofollow">10.1016/j.ecolecon.2012.09.010</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ecological+Economics&amp;rft.atitle=Income-based+environmental+responsibility&amp;rft.volume=84&amp;rft.pages=60&amp;rft.date=2012&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ecolecon.2012.09.010&amp;rft.aulast=Marques&amp;rft.aufirst=A.&amp;rft.au=Rodrigues%2C+J.&amp;rft.au=Lenzen%2C+M.&amp;rft.au=Domingos%2C+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+gas+emissions+accounting"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<div aria-labelledby="Global_warming_and_climate_change" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Global_warming" title="Template:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Global_warming" title="Template talk:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Global_warming&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Global_warming_and_climate_change" style="font-size:114%;margin:0 4em"><a href="/wiki/Global_warming" title="Global warming">Global warming</a> and <a href="/wiki/Climate_change" title="Climate change">climate change</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="Temperatures" style="font-size:114%;margin:0 4em">Temperatures</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brightness_temperature" title="Brightness temperature">Brightness temperature</a></li>
+<li><a href="/wiki/Effective_temperature" title="Effective temperature">Effective temperature</a></li>
+<li><a href="/wiki/Geologic_temperature_record" title="Geologic temperature record">Geologic record</a></li>
+<li><a href="/wiki/Global_warming_hiatus" title="Global warming hiatus">Hiatus</a></li>
+<li><a href="/wiki/Historical_climatology" title="Historical climatology">Historical climatology</a></li>
+<li><a href="/wiki/Instrumental_temperature_record" title="Instrumental temperature record">Instrumental record</a></li>
+<li><a href="/wiki/Paleoclimatology" title="Paleoclimatology">Paleoclimatology</a></li>
+<li><a href="/wiki/Paleotempestology" title="Paleotempestology">Paleotempestology</a></li>
+<li><a href="/wiki/Proxy_(climate)" title="Proxy (climate)">Proxy data</a></li>
+<li><a href="/wiki/Temperature_record_of_the_past_1000_years" title="Temperature record of the past 1000 years">Record of the past 1,000 years</a></li>
+<li><a href="/wiki/Satellite_temperature_measurements" title="Satellite temperature measurements">Satellite measurements</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="Causes" style="font-size:114%;margin:0 4em">Causes</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em"><a class="mw-redirect" href="/wiki/Anthropogenic_climate_change" title="Anthropogenic climate change">Anthropogenic</a><div style="clear:both;"></div>(caused by human activity)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Attribution_of_recent_climate_change" title="Attribution of recent climate change">Attribution of recent climate change</a></li>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">Aviation</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Black_carbon" title="Black carbon">Black carbon</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></li>
+<li><a href="/wiki/Deforestation_and_climate_change" title="Deforestation and climate change">Deforestation</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's radiation balance</a></li>
+<li><a href="/wiki/Ecocide" title="Ecocide">Ecocide</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuel</a></li>
+<li><a href="/wiki/Global_dimming" title="Global dimming">Global dimming</a></li>
+<li><a href="/wiki/Global_warming_potential" title="Global warming potential">Global warming potential</a></li>
+<li><a href="/wiki/Greenhouse_effect" title="Greenhouse effect">Greenhouse effect</a></li>
+<li>(<a href="/wiki/Infrared_window" title="Infrared window">Infrared window</a>)</li>
+<li><a href="/wiki/Greenhouse_gas" title="Greenhouse gas">Greenhouse gases</a></li>
+<li>(<a href="/wiki/Halocarbon" title="Halocarbon">Halocarbons</a>)</li>
+<li><a href="/wiki/Land_use,_land-use_change,_and_forestry" title="Land use, land-use change, and forestry">Land use, land-use change, and forestry</a></li>
+<li><a href="/wiki/Radiative_forcing" title="Radiative forcing">Radiative forcing</a></li>
+<li><a href="/wiki/Tropospheric_ozone" title="Tropospheric ozone">Tropospheric ozone</a></li>
+<li><a href="/wiki/Urban_heat_island" title="Urban heat island">Urban heat island</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Natural_environment" title="Natural environment">Natural</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albedo" title="Albedo">Albedo</a></li>
+<li><a href="/wiki/Bond_event" title="Bond event">Bond events</a></li>
+<li><a href="/wiki/Climate_oscillation" title="Climate oscillation">Climate oscillations</a></li>
+<li><a href="/wiki/Climate_sensitivity" title="Climate sensitivity">Climate sensitivity</a></li>
+<li><a href="/wiki/Cloud_forcing" title="Cloud forcing">Cloud forcing</a></li>
+<li><a href="/wiki/Cosmic_ray" title="Cosmic ray">Cosmic rays</a></li>
+<li><a href="/wiki/Climate_change_feedback" title="Climate change feedback">Feedbacks</a></li>
+<li><a href="/wiki/Glacial_period" title="Glacial period">Glaciation</a></li>
+<li><a href="/wiki/Global_cooling" title="Global cooling">Global cooling</a></li>
+<li><a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">Milankovitch cycles</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Ocean variability</a>
+<ul><li><a href="/wiki/Atlantic_multidecadal_oscillation" title="Atlantic multidecadal oscillation">AMO</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">ENSO</a></li>
+<li><a href="/wiki/Indian_Ocean_Dipole" title="Indian Ocean Dipole">IOD</a></li>
+<li><a href="/wiki/Pacific_decadal_oscillation" title="Pacific decadal oscillation">PDO</a></li></ul></li>
+<li><a href="/wiki/Orbital_forcing" title="Orbital forcing">Orbital forcing</a></li>
+<li><a href="/wiki/Solar_cycle" title="Solar cycle">Solar variation</a></li>
+<li><a href="/wiki/Volcanism" title="Volcanism">Volcanism</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_model" title="Climate model">Models</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/General_circulation_model" title="General circulation model">Global climate model</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="History" style="font-size:114%;margin:0 4em">History</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_climate_change_science" title="History of climate change science">History of climate change science</a></li>
+<li><a href="/wiki/Atmospheric_thermodynamics" title="Atmospheric thermodynamics">Atmospheric thermodynamics</a></li>
+<li><a href="/wiki/Svante_Arrhenius" title="Svante Arrhenius">Svante Arrhenius</a></li>
+<li><a href="/wiki/James_Hansen" title="James Hansen">James Hansen</a></li>
+<li><a href="/wiki/Charles_David_Keeling" title="Charles David Keeling">Charles David Keeling</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="Opinion_and_climate_change" style="font-size:114%;margin:0 4em">Opinion and climate change</div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Environmental_ethics" title="Environmental ethics">Environmental ethics</a></li>
+<li><a href="/wiki/Media_coverage_of_global_warming" title="Media coverage of global warming">Media coverage of climate change</a></li>
+<li><a href="/wiki/Public_opinion_on_global_warming" title="Public opinion on global warming">Public opinion on climate change</a></li>
+<li>(<a href="/wiki/Global_warming_in_popular_culture" title="Global warming in popular culture">Popular culture</a>)</li>
+<li><a href="/wiki/Scientific_opinion_on_climate_change" title="Scientific opinion on climate change">Scientific opinion on climate change</a></li>
+<li><a href="/wiki/List_of_scientists_who_disagree_with_the_scientific_consensus_on_global_warming" title="List of scientists who disagree with the scientific consensus on global warming">Scientists who disagree with the mainstream assessment</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li><a href="/wiki/Global_warming_conspiracy_theory" title="Global warming conspiracy theory">Global warming conspiracy theory</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_change_opinion_by_country" title="Climate change opinion by country">By country &amp; region</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Climate_change_in_Africa" title="Climate change in Africa">Africa</a></li>
+<li><a href="/wiki/Climate_change_in_the_Arctic" title="Climate change in the Arctic">Arctic</a></li>
+<li><a href="/wiki/Climate_change_in_Argentina" title="Climate change in Argentina">Argentina</a></li>
+<li><a href="/wiki/Climate_change_in_Australia" title="Climate change in Australia">Australia</a></li>
+<li><a href="/wiki/Climate_change_in_Bangladesh" title="Climate change in Bangladesh">Bangladesh</a></li>
+<li><a href="/wiki/Global_warming_in_Belgium" title="Global warming in Belgium">Belgium</a></li>
+<li><a href="/wiki/Climate_change_in_Canada" title="Climate change in Canada">Canada</a></li>
+<li><a href="/wiki/Climate_change_in_China" title="Climate change in China">China</a></li>
+<li><a href="/wiki/Climate_change_in_Europe" title="Climate change in Europe">Europe</a></li>
+<li><a href="/wiki/Climate_change_in_the_European_Union" title="Climate change in the European Union">European Union</a></li>
+<li><a href="/wiki/Climate_change_in_Finland" title="Climate change in Finland">Finland</a></li>
+<li><a href="/wiki/Climate_change_in_Grenada" title="Climate change in Grenada">Grenada</a></li>
+<li><a href="/wiki/Climate_change_in_Japan" title="Climate change in Japan">Japan</a></li>
+<li><a href="/wiki/Global_warming_in_Luxembourg" title="Global warming in Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/Climate_change_in_New_Zealand" title="Climate change in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Global_warming_in_Norway" title="Global warming in Norway">Norway</a></li>
+<li><a href="/wiki/Climate_change_in_Russia" title="Climate change in Russia">Russia</a></li>
+<li><a href="/wiki/Climate_change_in_Scotland" title="Climate change in Scotland">Scotland</a></li>
+<li><a href="/wiki/Climate_change_in_South_Korea" title="Climate change in South Korea">South Korea</a></li>
+<li><a href="/wiki/Climate_change_in_Sweden" title="Climate change in Sweden">Sweden</a></li>
+<li><a href="/wiki/Climate_change_in_Tuvalu" title="Climate change in Tuvalu">Tuvalu</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_Kingdom" title="Climate change in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_States" title="Climate change in the United States">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="Politics" style="font-size:114%;margin:0 4em"><a href="/wiki/Politics_of_global_warming" title="Politics of global warming">Politics</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Power_Plan" title="Clean Power Plan">Clean Power Plan</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li>(<a href="/wiki/Manufactured_controversy" title="Manufactured controversy">Manufactured controversy</a>)</li>
+<li><a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change (IPCC)</a></li>
+<li><a href="/wiki/March_for_Science" title="March for Science">March for Science</a></li>
+<li><a href="/wiki/People%27s_Climate_March" title="People's Climate March">People's Climate March</a></li>
+<li><a href="/wiki/United_Nations_Framework_Convention_on_Climate_Change" title="United Nations Framework Convention on Climate Change">United Nations Framework Convention on Climate Change (UNFCCC / FCCC)</a></li>
+<li><a href="/wiki/Global_climate_regime" title="Global climate regime">Global climate regime</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="Potential_effects_and_issues" style="font-size:114%;margin:0 4em"><a href="/wiki/Effects_of_global_warming" title="Effects of global warming">Potential effects and issues</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abrupt_climate_change" title="Abrupt climate change">Abrupt climate change</a></li>
+<li><a href="/wiki/Anoxic_event" title="Anoxic event">Anoxic event</a></li>
+<li><a href="/wiki/Arctic_dipole_anomaly" title="Arctic dipole anomaly">Arctic dipole anomaly</a></li>
+<li><a href="/wiki/Arctic_haze" title="Arctic haze">Arctic haze</a></li>
+<li><a href="/wiki/Arctic_methane_emissions" title="Arctic methane emissions">Arctic methane emissions</a></li>
+<li><a href="/wiki/Climate_change_and_agriculture" title="Climate change and agriculture">Climate change and agriculture</a></li>
+<li><a href="/wiki/Climate_change_and_ecosystems" title="Climate change and ecosystems">Climate change and ecosystems</a></li>
+<li><a href="/wiki/Climate_change_and_gender" title="Climate change and gender">Climate change and gender</a></li>
+<li><a href="/wiki/Climate_change_and_poverty" title="Climate change and poverty">Climate change and poverty</a></li>
+<li><a href="/wiki/Drought" title="Drought">Drought</a></li>
+<li><a href="/wiki/Economics_of_global_warming" title="Economics of global warming">Economics of global warming</a></li>
+<li><a href="/wiki/Effects_of_climate_change_on_plant_biodiversity" title="Effects of climate change on plant biodiversity">Effects on plant biodiversity</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_human_health" title="Effects of global warming on human health">Effects on health</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_humans" title="Effects of global warming on humans">Effects on humans</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_marine_mammals" title="Effects of global warming on marine mammals">Effects on marine mammals</a></li>
+<li><a href="/wiki/Environmental_migrant" title="Environmental migrant">Environmental migrant</a></li>
+<li><a href="/wiki/Extinction_risk_from_global_warming" title="Extinction risk from global warming">Extinction risk from global warming</a></li>
+<li><a href="/wiki/Fisheries_and_climate_change" title="Fisheries and climate change">Fisheries and climate change</a></li>
+<li><a href="/wiki/Forest_dieback" title="Forest dieback">Forest dieback</a></li>
+<li><a href="/wiki/Climate_change,_industry_and_society" title="Climate change, industry and society">Industry and society</a></li>
+<li><a href="/wiki/Iris_hypothesis" title="Iris hypothesis">Iris hypothesis</a></li>
+<li><a href="/wiki/Megadrought" title="Megadrought">Megadrought</a></li>
+<li><a href="/wiki/Ocean_acidification" title="Ocean acidification">Ocean acidification</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Physical_impacts_of_climate_change" title="Physical impacts of climate change">Physical impacts</a></li>
+<li><a href="/wiki/Polar_stratospheric_cloud" title="Polar stratospheric cloud">Polar stratospheric cloud</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><a href="/wiki/Retreat_of_glaciers_since_1850" title="Retreat of glaciers since 1850">Retreat of glaciers since 1850</a></li>
+<li><a href="/wiki/Runaway_climate_change" title="Runaway climate change">Runaway climate change</a></li>
+<li><a href="/wiki/Sea_level_rise" title="Sea level rise">Sea level rise</a></li>
+<li><a href="/wiki/Season_creep" title="Season creep">Season creep</a></li>
+<li><a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">Shutdown of thermohaline circulation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">By country</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Effects_of_global_warming_on_Australia" title="Effects of global warming on Australia">Australia</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_South_Asia" title="Effects of global warming on South Asia">South Asia</a>
+<ul><li><a class="mw-redirect" href="/wiki/Effects_of_global_warming_on_India" title="Effects of global warming on India">India</a></li>
+<li><a href="/wiki/Climate_change_adaptation_in_Nepal" title="Climate change adaptation in Nepal">Nepal</a></li></ul></li>
+<li><a href="/wiki/National_Climate_Assessment" title="National Climate Assessment">United States</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="Mitigation" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Mitigation</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clean_Development_Mechanism" title="Clean Development Mechanism">Clean Development Mechanism</a></li>
+<li><a href="/wiki/Joint_Implementation" title="Joint Implementation">Joint Implementation</a></li>
+<li><a href="/wiki/Bali_Road_Map" title="Bali Road Map">Bali Road Map</a></li>
+<li><a href="/wiki/2009_United_Nations_Climate_Change_Conference" title="2009 United Nations Climate Change Conference">2009 United Nations Climate Change Conference</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Governmental</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Climate_Change_Programme" title="European Climate Change Programme">European Climate Change Programme</a></li>
+<li><a href="/wiki/G8_Climate_Change_Roundtable" title="G8 Climate Change Roundtable">G8 Climate Change Roundtable</a></li>
+<li><a href="/wiki/United_Kingdom_Climate_Change_Programme" title="United Kingdom Climate Change Programme">United Kingdom Climate Change Programme</a></li>
+<li><a href="/wiki/Paris_Agreement" title="Paris Agreement">Paris Agreement</a>
+<ul><li><a href="/wiki/United_States_withdrawal_from_the_Paris_Agreement" title="United States withdrawal from the Paris Agreement">United States withdrawal</a></li></ul></li>
+<li><a href="/wiki/Regional_climate_change_initiatives_in_the_United_States" title="Regional climate change initiatives in the United States">Regional climate change initiatives in the United States</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">List of climate change initiatives</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Emissions reduction</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_credit" title="Carbon credit">Carbon credit</a></li>
+<li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil_fuel_phase-out" title="Fossil fuel phase-out">Fossil fuel phase-out</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Carbon_neutrality" title="Carbon neutrality">Carbon-free</a> energy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">Carbon capture and storage</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear power</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Personal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Individual_action_on_climate_change" title="Individual action on climate change">Individual action on climate change</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carbon_dioxide_removal" title="Carbon dioxide removal">Carbon dioxide removal</a></li>
+<li><a href="/wiki/Carbon_sink" title="Carbon sink">Carbon sink</a></li>
+<li><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Climate action</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">Climate Action Plan</a></li>
+<li><a href="/wiki/Climate_change_mitigation_scenarios" title="Climate change mitigation scenarios">Climate change mitigation scenarios</a></li>
+<li><a href="/wiki/Climate_engineering" title="Climate engineering">Climate engineering</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Individual and political action on climate change</a></li>
+<li><a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">Reducing emissions from deforestation and forest degradation</a></li>
+<li><a href="/wiki/Reforestation" title="Reforestation">Reforestation</a></li>
+<li><a href="/wiki/Urban_reforestation" title="Urban reforestation">Urban reforestation</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-title" colspan="2" scope="col" style=";"><div id="Proposed_adaptations" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_adaptation" title="Climate change adaptation">Proposed adaptations</a></div></th></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="width:10.25em">Strategies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dam" title="Dam">Damming</a> <a href="/wiki/Glacial_lake" title="Glacial lake">glacial lakes</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Drought_tolerance" title="Drought tolerance">Drought tolerance</a></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation investment</a></li>
+<li><a href="/wiki/Rainwater_tank" title="Rainwater tank">Rainwater storage</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Weather_modification" title="Weather modification">Weather modification</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:10.25em">Programmes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avoiding_Dangerous_Climate_Change_(2005_conference)" title="Avoiding Dangerous Climate Change (2005 conference)">Avoiding dangerous climate change</a></li>
+<li><a href="/wiki/Land_allocation_decision_support_system" title="Land allocation decision support system">Land allocation decision support system</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/Glossary_of_climate_change" title="Glossary of climate change">Glossary</a></li>
+<li><img alt="List-Class article" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" title="List-Class article" width="16"/> <a href="/wiki/Index_of_climate_change_articles" title="Index of climate change articles">Index</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Climate_change" title="Category:Climate change">Climate change</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Global_warming" title="Category:Global warming">Global warming</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Global_warming" title="Portal:Global warming">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1305
+Cached time: 20181013081704
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.496 seconds
+Real time usage: 0.548 seconds
+Preprocessor visited node count: 2435/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 155379/2097152 bytes
+Template argument size: 12569/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 83904/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.238/10.000 seconds
+Lua memory usage: 3.88 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  402.562      1 -total
+ 68.67%  276.428      1 Template:Reflist
+ 51.54%  207.483     21 Template:Cite_journal
+ 17.67%   71.124      1 Template:Global_warming
+ 16.96%   68.283      1 Template:Navbox_with_collapsible_groups
+  5.94%   23.926      1 Template:See_also
+  3.69%   14.839      6 Template:Navbox
+  3.52%   14.188      3 Template:Cite_book
+  2.89%   11.642      5 Template:Icon
+  2.72%   10.936      2 Template:Cite_web
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:40455753-0!canonical and timestamp 20181013081704 and revision id 842506899
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;oldid=842506899">https://en.wikipedia.org/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;oldid=842506899</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Greenhouse_gas_inventories" title="Category:Greenhouse gas inventories">Greenhouse gas inventories</a></li><li><a href="/wiki/Category:Climate_change" title="Category:Climate change">Climate change</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">CS1 maint: Extra text: authors list</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Greenhouse+gas+emissions+accounting" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Greenhouse+gas+emissions+accounting" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Greenhouse_gas_emissions_accounting" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Greenhouse_gas_emissions_accounting" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Greenhouse_gas_emissions_accounting">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Greenhouse_gas_emissions_accounting" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Greenhouse_gas_emissions_accounting" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;oldid=842506899" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q17019251" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Greenhouse_gas_emissions_accounting&amp;id=842506899" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Greenhouse+gas+emissions+accounting">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Greenhouse+gas+emissions+accounting&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q17019251#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 22 May 2018, at 22:14<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Greenhouse_gas_emissions_accounting&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.496","walltime":"0.548","ppvisitednodes":{"value":2435,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":155379,"limit":2097152},"templateargumentsize":{"value":12569,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":83904,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  402.562      1 -total"," 68.67%  276.428      1 Template:Reflist"," 51.54%  207.483     21 Template:Cite_journal"," 17.67%   71.124      1 Template:Global_warming"," 16.96%   68.283      1 Template:Navbox_with_collapsible_groups","  5.94%   23.926      1 Template:See_also","  3.69%   14.839      6 Template:Navbox","  3.52%   14.188      3 Template:Cite_book","  2.89%   11.642      5 Template:Icon","  2.72%   10.936      2 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.238","limit":"10.000"},"limitreport-memusage":{"value":4068307,"limit":52428800}},"cachereport":{"origin":"mw1305","timestamp":"20181013081704","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1321"});});</script>
+</body>
+</html>

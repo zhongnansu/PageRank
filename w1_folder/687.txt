@@ -1,0 +1,2202 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Beer–Lambert law - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Beer–Lambert_law","wgTitle":"Beer–Lambert law","wgCurRevisionId":862708269,"wgRevisionId":862708269,"wgArticleId":4476,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from February 2008","All articles needing additional references","Scattering, absorption and radiative transfer (optics)","Spectroscopy","Electromagnetic radiation","Visibility"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Beer–Lambert_law","wgRelevantArticleId":4476,"wgRequestId":"W7iFGwrAADYAABlLDPkAAAAJ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q217351","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/3/32/Beer%E2%80%93Lambert_law_in_solution.JPG" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Beer%E2%80%93Lambert_law" rel="alternate"/>
+<link href="/w/index.php?title=Beer%E2%80%93Lambert_law&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Beer%E2%80%93Lambert_law&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Beer%E2%80%93Lambert_law" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Beer–Lambert_law rootpage-Beer–Lambert_law skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Beer–Lambert law</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Beer%E2%80%93Lambert_law&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(February 2008)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Beer%E2%80%93Lambert_law_in_solution.JPG"><img alt="" class="thumbimage" data-file-height="1844" data-file-width="1035" height="392" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Beer%E2%80%93Lambert_law_in_solution.JPG/220px-Beer%E2%80%93Lambert_law_in_solution.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Beer%E2%80%93Lambert_law_in_solution.JPG/330px-Beer%E2%80%93Lambert_law_in_solution.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Beer%E2%80%93Lambert_law_in_solution.JPG/440px-Beer%E2%80%93Lambert_law_in_solution.JPG 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Beer%E2%80%93Lambert_law_in_solution.JPG" title="Enlarge"></a></div>A demonstration of the Beer–Lambert law: green laser light in a solution of <a href="/wiki/Rhodamine_B" title="Rhodamine B">Rhodamine 6B</a>. The beam radiant power becomes weaker as it passes through solution</div></div></div>
+<p>The <b>Beer–Lambert law</b>, also known as <b>Beer's law</b>, the <b>Lambert–Beer law</b>, or the <b>Beer–Lambert–Bouguer law</b> relates the <a href="/wiki/Absorption_(electromagnetic_radiation)" title="Absorption (electromagnetic radiation)">attenuation</a> of <a href="/wiki/Light" title="Light">light</a> to the properties of the material through which the light is travelling. The law is commonly applied to <a class="mw-redirect" href="/wiki/Chemical_analysis" title="Chemical analysis">chemical analysis</a> measurements and used in understanding attenuation in <a href="/wiki/Physical_optics" title="Physical optics">physical optics</a>, for <a class="mw-redirect" href="/wiki/Photons" title="Photons">photons</a>, <a class="mw-redirect" href="/wiki/Neutrons" title="Neutrons">neutrons</a> or rarefied gases. In <a href="/wiki/Mathematical_physics" title="Mathematical physics">mathematical physics</a>, this law arises as a solution of the <a class="mw-redirect" href="/wiki/Bhatnagar-Gross-Krook" title="Bhatnagar-Gross-Krook">BGK equation</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Beer–Lambert_law"><span class="tocnumber">2</span> <span class="toctext">Beer–Lambert law</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Expression_with_attenuation_coefficient"><span class="tocnumber">2.1</span> <span class="toctext">Expression with attenuation coefficient</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Derivation"><span class="tocnumber">3</span> <span class="toctext">Derivation</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Validity"><span class="tocnumber">4</span> <span class="toctext">Validity</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Chemical_analysis_by_spectrophotometry"><span class="tocnumber">5</span> <span class="toctext">Chemical analysis by spectrophotometry</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Beer–Lambert_law_in_the_atmosphere"><span class="tocnumber">6</span> <span class="toctext">Beer–Lambert law in the atmosphere</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beer%E2%80%93Lambert_law&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The law was discovered by <a href="/wiki/Pierre_Bouguer" title="Pierre Bouguer">Pierre Bouguer</a> before 1729.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> It is often attributed to <a href="/wiki/Johann_Heinrich_Lambert" title="Johann Heinrich Lambert">Johann Heinrich Lambert</a>, who cited Bouguer's <i>Essai d'optique sur la gradation de la lumière</i> (Claude Jombert, Paris, 1729)—and even quoted from it—in his <i><a href="/wiki/Photometria" title="Photometria">Photometria</a></i> in 1760.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> Lambert's law stated that absorbance of a material sample is directly proportional to its thickness (path length). Much later, <a href="/wiki/August_Beer" title="August Beer">August Beer</a> discovered another attenuation relation in 1852. Beer's law stated that absorbance is proportional to the concentrations of the attenuating species in the material sample.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> The modern derivation of the Beer–Lambert law combines the two laws and correlates the absorbance to both the concentrations of the attenuating species and the thickness of the material sample.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<h2><span id="Beer.E2.80.93Lambert_law"></span><span class="mw-headline" id="Beer–Lambert_law">Beer–Lambert law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beer%E2%80%93Lambert_law&amp;action=edit&amp;section=2" title="Edit section: Beer–Lambert law">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>By definition, the <a href="/wiki/Transmittance" title="Transmittance">transmittance</a> of material sample is related to its <a href="/wiki/Optical_depth" title="Optical depth">optical depth</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\tau }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi>τ<!-- τ --></mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\tau }}</annotation>
+</semantics>
+</math></span><img alt="{\tau }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8d2cbbb2bd6bed8835c6a57e58a152568e6f7fa8" style="vertical-align: -0.338ex; width:1.202ex; height:1.676ex;"/></span> and to its <a href="/wiki/Absorbance" title="Absorbance">absorbance</a> <i>A</i> as
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T={\frac {\Phi _{\mathrm {e} }^{\mathrm {t} }}{\Phi _{\mathrm {e} }^{\mathrm {i} }}}=e^{-\tau }=10^{-A},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msubsup>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">t</mi>
+</mrow>
+</mrow>
+</msubsup>
+<msubsup>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">i</mi>
+</mrow>
+</mrow>
+</msubsup>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mi>τ<!-- τ --></mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mi>A</mi>
+</mrow>
+</msup>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T={\frac {\Phi _{\mathrm {e} }^{\mathrm {t} }}{\Phi _{\mathrm {e} }^{\mathrm {i} }}}=e^{-\tau }=10^{-A},}</annotation>
+</semantics>
+</math></span><img alt="T={\frac  {\Phi _{{\mathrm  {e}}}^{{\mathrm  {t}}}}{\Phi _{{\mathrm  {e}}}^{{\mathrm  {i}}}}}=e^{{-\tau }}=10^{{-A}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b93a42656956eb8531d39a7ca9c28262778fdbe3" style="vertical-align: -2.505ex; width:23.567ex; height:6.176ex;"/></span></dd></dl>
+<p>where
+</p>
+<ul><li>Φ<sub>e</sub><sup>t</sup> is the <a href="/wiki/Radiant_flux" title="Radiant flux">radiant flux</a> <i>transmitted</i> by that material sample;</li>
+<li>Φ<sub>e</sub><sup>i</sup> is the radiant flux received by that material sample.</li></ul>
+<p>The <b>Beer–Lambert law</b> states that, for <i>N</i> attenuating species in the material sample,
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T=e^{-\sum _{i=1}^{N}\sigma _{i}\int _{0}^{\ell }n_{i}(z)\mathrm {d} z}=10^{-\sum _{i=1}^{N}\varepsilon _{i}\int _{0}^{\ell }c_{i}(z)\mathrm {d} z},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mo>=</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msubsup>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msubsup>
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+</mrow>
+</msup>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T=e^{-\sum _{i=1}^{N}\sigma _{i}\int _{0}^{\ell }n_{i}(z)\mathrm {d} z}=10^{-\sum _{i=1}^{N}\varepsilon _{i}\int _{0}^{\ell }c_{i}(z)\mathrm {d} z},}</annotation>
+</semantics>
+</math></span><img alt="T=e^{-\sum _{i=1}^{N}\sigma _{i}\int _{0}^{\ell }n_{i}(z)\mathrm {d} z}=10^{-\sum _{i=1}^{N}\varepsilon _{i}\int _{0}^{\ell }c_{i}(z)\mathrm {d} z}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bacbcdd1abe366be51673a0b6331ba0813bb7ba8" style="vertical-align: -0.671ex; width:43.088ex; height:3.676ex;"/></span></dd></dl>
+<p>or equivalently that
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau =\sum _{i=1}^{N}\tau _{i}=\sum _{i=1}^{N}\sigma _{i}\int _{0}^{\ell }n_{i}(z)\,\mathrm {d} z,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>τ<!-- τ --></mi>
+<mo>=</mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msubsup>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau =\sum _{i=1}^{N}\tau _{i}=\sum _{i=1}^{N}\sigma _{i}\int _{0}^{\ell }n_{i}(z)\,\mathrm {d} z,}</annotation>
+</semantics>
+</math></span><img alt="\tau =\sum _{i=1}^{N}\tau _{i}=\sum _{i=1}^{N}\sigma _{i}\int _{0}^{\ell }n_{i}(z)\,\mathrm {d} z," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/370d05a6544776c492895d91ab1d2c0fb3203bff" style="vertical-align: -3.005ex; width:31.489ex; height:7.343ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A=\sum _{i=1}^{N}A_{i}=\sum _{i=1}^{N}\varepsilon _{i}\int _{0}^{\ell }c_{i}(z)\,\mathrm {d} z,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo>=</mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msubsup>
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A=\sum _{i=1}^{N}A_{i}=\sum _{i=1}^{N}\varepsilon _{i}\int _{0}^{\ell }c_{i}(z)\,\mathrm {d} z,}</annotation>
+</semantics>
+</math></span><img alt="A=\sum _{i=1}^{N}A_{i}=\sum _{i=1}^{N}\varepsilon _{i}\int _{0}^{\ell }c_{i}(z)\,\mathrm {d} z," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d2d09c64046391e6726eaf65e517f08d811577b1" style="vertical-align: -3.005ex; width:32.125ex; height:7.343ex;"/></span></dd></dl>
+<p>where
+</p>
+<ul><li><i>σ</i><sub><i>i</i></sub> is the <a href="/wiki/Cross_section_(physics)" title="Cross section (physics)">attenuation cross section</a> of the attenuating species <i>i</i> in the material sample;</li>
+<li><i>n</i><sub><i>i</i></sub> is the <a href="/wiki/Number_density" title="Number density">number density</a> of the attenuating species <i>i</i> in the material sample;</li>
+<li><i>ε</i><sub><i>i</i></sub> is the <a href="/wiki/Molar_attenuation_coefficient" title="Molar attenuation coefficient">molar attenuation coefficient</a> or <a class="mw-redirect" href="/wiki/Molar_absorptivity" title="Molar absorptivity">absorptivity</a> of the attenuating species <i>i</i> in the material sample;</li>
+<li><i>c</i><sub><i>i</i></sub> is the <a class="mw-redirect" href="/wiki/Amount_concentration" title="Amount concentration">amount concentration</a> of the attenuating species <i>i</i> in the material sample;</li>
+<li><i>ℓ</i> is the path length of the beam of light through the material sample.</li></ul>
+<p>Attenuation cross section and molar attenuation coefficient are related by
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \varepsilon _{i}={\frac {\mathrm {N_{A}} }{\ln {10}}}\,\sigma _{i},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi mathvariant="normal">N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">A</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varepsilon _{i}={\frac {\mathrm {N_{A}} }{\ln {10}}}\,\sigma _{i},}</annotation>
+</semantics>
+</math></span><img alt="\varepsilon _{i}={\frac {\mathrm {N_{A}} }{\ln {10}}}\,\sigma _{i}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e6bf320198bd1e49dc703122ba8ba1b7dd5a6704" style="vertical-align: -2.005ex; width:13.63ex; height:5.509ex;"/></span></dd></dl>
+<p>and number density and amount concentration by
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c_{i}={\frac {n_{i}}{\mathrm {N_{A}} }},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi mathvariant="normal">N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">A</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{i}={\frac {n_{i}}{\mathrm {N_{A}} }},}</annotation>
+</semantics>
+</math></span><img alt="c_{i}={\frac {n_{i}}{\mathrm {N_{A}} }}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a0ca6aeb2f89cde905d25c8e63bda71eaa58b505" style="vertical-align: -2.338ex; width:9.596ex; height:5.176ex;"/></span></dd></dl>
+<p>where N<sub>A</sub> is the <a href="/wiki/Avogadro_constant" title="Avogadro constant">Avogadro constant</a>.
+</p><p>In case of <i>uniform</i> attenuation, these relations become<sup class="reference" id="cite_ref-GoldBook_5-0"><a href="#cite_note-GoldBook-5">[5]</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T=e^{-\ell \sum _{i=1}^{N}\sigma _{i}n_{i}}=10^{-\ell \sum _{i=1}^{N}\varepsilon _{i}c_{i}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mo>=</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mi>ℓ<!-- ℓ --></mi>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mi>ℓ<!-- ℓ --></mi>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mrow>
+</msup>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T=e^{-\ell \sum _{i=1}^{N}\sigma _{i}n_{i}}=10^{-\ell \sum _{i=1}^{N}\varepsilon _{i}c_{i}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle T=e^{-\ell \sum _{i=1}^{N}\sigma _{i}n_{i}}=10^{-\ell \sum _{i=1}^{N}\varepsilon _{i}c_{i}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b12ee91a8aa4483df26ac214d2aacccd8358f92e" style="vertical-align: -0.671ex; width:31.863ex; height:3.509ex;"/></span></dd></dl>
+<p>or equivalently
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau =\ell \sum _{i=1}^{N}\sigma _{i}n_{i},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>τ<!-- τ --></mi>
+<mo>=</mo>
+<mi>ℓ<!-- ℓ --></mi>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau =\ell \sum _{i=1}^{N}\sigma _{i}n_{i},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \tau =\ell \sum _{i=1}^{N}\sigma _{i}n_{i},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/10bbac3ecec6c1940e92a7b079b89f4c06b6cb2d" style="vertical-align: -3.005ex; width:14.368ex; height:7.343ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A=\ell \sum _{i=1}^{N}\varepsilon _{i}c_{i}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo>=</mo>
+<mi>ℓ<!-- ℓ --></mi>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A=\ell \sum _{i=1}^{N}\varepsilon _{i}c_{i}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle A=\ell \sum _{i=1}^{N}\varepsilon _{i}c_{i}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a98a865d6563b81c41f7cad8a3211ecd0e751b8d" style="vertical-align: -3.005ex; width:14.277ex; height:7.343ex;"/></span></dd></dl>
+<p>Cases of <i>non-uniform</i> attenuation occur in <a class="mw-redirect" href="/wiki/Atmospheric_science" title="Atmospheric science">atmospheric science</a> applications and <a class="mw-redirect" href="/wiki/Radiation_shielding" title="Radiation shielding">radiation shielding</a> theory for instance.
+</p><p>The law tends to break down at very high concentrations, especially if the material is highly <a href="/wiki/Scattering" title="Scattering">scattering</a>. If the radiation is especially intense, <a href="/wiki/Nonlinear_optics" title="Nonlinear optics">nonlinear optical</a> processes can also cause variances. The main reason, however, is the following. At high concentrations, the <a href="/wiki/Molecule" title="Molecule">molecules</a> are closer to each other and begin to interact with each other. This interaction will change several properties of the molecule, and thus will change the attenuation.
+</p>
+<h3><span class="mw-headline" id="Expression_with_attenuation_coefficient">Expression with attenuation coefficient</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beer%E2%80%93Lambert_law&amp;action=edit&amp;section=3" title="Edit section: Expression with attenuation coefficient">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Beer–Lambert law can be expressed in terms of <a href="/wiki/Attenuation_coefficient" title="Attenuation coefficient">attenuation coefficient</a>, but in this case is better called Lambert's law since amount concentration, from Beer's law, is hidden inside the attenuation coefficient. The (Napierian) attenuation coefficient <i>μ</i> and the decadic attenuation coefficient <span class="nowrap"><i>μ</i><sub>10</sub> = <i>μ</i>/ln 10</span> of a material sample are related to its number densities and amount concentrations as
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mu (z)=\sum _{i=1}^{N}\mu _{i}(z)=\sum _{i=1}^{N}\sigma _{i}n_{i}(z),}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>μ<!-- μ --></mi>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mu (z)=\sum _{i=1}^{N}\mu _{i}(z)=\sum _{i=1}^{N}\sigma _{i}n_{i}(z),}</annotation>
+</semantics>
+</math></span><img alt="\mu (z)=\sum _{{i=1}}^{N}\mu _{i}(z)=\sum _{{i=1}}^{N}\sigma _{i}n_{i}(z)," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ce2deed676d900166e21c5bdf035e1015228c7ca" style="vertical-align: -3.005ex; width:30.945ex; height:7.343ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mu _{10}(z)=\sum _{i=1}^{N}\mu _{10,i}(z)=\sum _{i=1}^{N}\varepsilon _{i}c_{i}(z)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+<mo>,</mo>
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mu _{10}(z)=\sum _{i=1}^{N}\mu _{10,i}(z)=\sum _{i=1}^{N}\varepsilon _{i}c_{i}(z)}</annotation>
+</semantics>
+</math></span><img alt="\mu _{{10}}(z)=\sum _{{i=1}}^{N}\mu _{{10,i}}(z)=\sum _{{i=1}}^{N}\varepsilon _{i}c_{i}(z)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/168da951cf89de2fa85b2d0d21277e8e3a6f0ea8" style="vertical-align: -3.005ex; width:33.644ex; height:7.343ex;"/></span></dd></dl>
+<p>respectively, by definition of attenuation cross section and molar attenuation coefficient. Then the Beer–Lambert law becomes
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T=e^{-\int _{0}^{\ell }\mu (z)\mathrm {d} z}=10^{-\int _{0}^{\ell }\mu _{10}(z)\mathrm {d} z},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mo>=</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msubsup>
+<mi>μ<!-- μ --></mi>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msubsup>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+</mrow>
+</msup>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T=e^{-\int _{0}^{\ell }\mu (z)\mathrm {d} z}=10^{-\int _{0}^{\ell }\mu _{10}(z)\mathrm {d} z},}</annotation>
+</semantics>
+</math></span><img alt="T=e^{{-\int _{0}^{\ell }\mu (z){\mathrm  {d}}z}}=10^{{-\int _{0}^{\ell }\mu _{{10}}(z){\mathrm  {d}}z}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ceb34100d94d4d7a5cc94c0d6342b0caa5d6db60" style="vertical-align: -0.671ex; width:30.987ex; height:3.676ex;"/></span></dd></dl>
+<p>and
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau =\int _{0}^{\ell }\mu (z)\,\mathrm {d} z,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>τ<!-- τ --></mi>
+<mo>=</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msubsup>
+<mi>μ<!-- μ --></mi>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau =\int _{0}^{\ell }\mu (z)\,\mathrm {d} z,}</annotation>
+</semantics>
+</math></span><img alt="\tau =\int _{0}^{\ell }\mu (z)\,{\mathrm  {d}}z," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/700541c158eec54d954c8e85a5934dc14f35214e" style="vertical-align: -2.338ex; width:15.783ex; height:6.343ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A=\int _{0}^{\ell }\mu _{10}(z)\,\mathrm {d} z.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo>=</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msubsup>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A=\int _{0}^{\ell }\mu _{10}(z)\,\mathrm {d} z.}</annotation>
+</semantics>
+</math></span><img alt="A=\int _{0}^{\ell }\mu _{{10}}(z)\,{\mathrm  {d}}z." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/650780616916a56764391e1b15239f52962c693f" style="vertical-align: -2.338ex; width:18.201ex; height:6.343ex;"/></span></dd></dl>
+<p>In case of <i>uniform</i> attenuation, these relations become
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T=e^{-\mu \ell }=10^{-\mu _{10}\ell },}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mo>=</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mi>μ<!-- μ --></mi>
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msup>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T=e^{-\mu \ell }=10^{-\mu _{10}\ell },}</annotation>
+</semantics>
+</math></span><img alt="T=e^{{-\mu \ell }}=10^{{-\mu _{{10}}\ell }}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0436e776f7f3ba8037d083779fd690822e165d92" style="vertical-align: -0.671ex; width:19.763ex; height:3.009ex;"/></span></dd></dl>
+<p>or equivalently
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau =\mu \ell ,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>τ<!-- τ --></mi>
+<mo>=</mo>
+<mi>μ<!-- μ --></mi>
+<mi>ℓ<!-- ℓ --></mi>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau =\mu \ell ,}</annotation>
+</semantics>
+</math></span><img alt="\tau =\mu \ell ," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b6224309d5a1440948b005608a4c72a2479c88c" style="vertical-align: -0.838ex; width:7.319ex; height:2.676ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A=\mu _{10}\ell .}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo>=</mo>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mi>ℓ<!-- ℓ --></mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A=\mu _{10}\ell .}</annotation>
+</semantics>
+</math></span><img alt="A=\mu _{{10}}\ell ." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/323ac6968d3d484e200f762b35f919420455bc49" style="vertical-align: -0.838ex; width:9.736ex; height:2.676ex;"/></span></dd></dl>
+<h2><span class="mw-headline" id="Derivation">Derivation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beer%E2%80%93Lambert_law&amp;action=edit&amp;section=4" title="Edit section: Derivation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Assume that a beam of light enters a material sample. Define <i>z</i> as an axis parallel to the direction of the beam. Divide the material sample into thin slices, perpendicular to the beam of light, with thickness d<i>z</i> sufficiently small that one particle in a slice cannot obscure another particle in the same slice when viewed along the <i>z</i> direction. The radiant flux of the light that emerges from a slice is reduced, compared to that of the light that entered, by <span class="nowrap">dΦ<sub>e</sub>(<i>z</i>) = −<i>μ</i>(<i>z</i>)Φ<sub>e</sub>(<i>z</i>) d<i>z</i></span>, where <i>μ</i> is the (Napierian) <a href="/wiki/Attenuation_coefficient" title="Attenuation coefficient">attenuation coefficient</a>, which yields the following first-order <a href="/wiki/Linear_differential_equation" title="Linear differential equation">linear ODE</a>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {\mathrm {d} \Phi _{\mathrm {e} }}{\mathrm {d} z}}(z)=-\mu (z)\Phi _{\mathrm {e} }(z).}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msub>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>μ<!-- μ --></mi>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<msub>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+</mrow>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {\mathrm {d} \Phi _{\mathrm {e} }}{\mathrm {d} z}}(z)=-\mu (z)\Phi _{\mathrm {e} }(z).}</annotation>
+</semantics>
+</math></span><img alt="{\frac  {{\mathrm  {d}}\Phi _{{\mathrm  {e}}}}{{\mathrm  {d}}z}}(z)=-\mu (z)\Phi _{{\mathrm  {e}}}(z)." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/df21b9f17bf3ba3c818c8f0c4af91f415d0f75b5" style="vertical-align: -2.005ex; width:23.057ex; height:5.509ex;"/></span></dd></dl>
+<p>The attenuation is caused by the photons that did not make it to the other side of the slice because of <a href="/wiki/Scattering" title="Scattering">scattering</a> or <a href="/wiki/Absorption_(electromagnetic_radiation)" title="Absorption (electromagnetic radiation)">absorption</a>. The solution to this differential equation is obtained by multiplying the <a href="/wiki/Integrating_factor" title="Integrating factor">integrating factor</a>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle e^{\int _{0}^{z}\mu (z')\mathrm {d} z'}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msubsup>
+<mi>μ<!-- μ --></mi>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>z</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msup>
+<mi>z</mi>
+<mo>′</mo>
+</msup>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle e^{\int _{0}^{z}\mu (z')\mathrm {d} z'}}</annotation>
+</semantics>
+</math></span><img alt="e^{{\int _{0}^{z}\mu (z'){\mathrm  {d}}z'}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4a21e8c18c064148f631f8080f9354f65b1a12dd" style="vertical-align: -0.338ex; width:9.352ex; height:3.009ex;"/></span></dd></dl>
+<p>throughout to obtain
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {\mathrm {d} \Phi _{\mathrm {e} }}{\mathrm {d} z}}(z)\,e^{\int _{0}^{z}\mu (z')\mathrm {d} z'}+\mu (z)\Phi _{\mathrm {e} }(z)\,e^{\int _{0}^{z}\mu (z')\mathrm {d} z'}=0,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msub>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msubsup>
+<mi>μ<!-- μ --></mi>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>z</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msup>
+<mi>z</mi>
+<mo>′</mo>
+</msup>
+</mrow>
+</msup>
+<mo>+</mo>
+<mi>μ<!-- μ --></mi>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<msub>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+</mrow>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msubsup>
+<mi>μ<!-- μ --></mi>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>z</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msup>
+<mi>z</mi>
+<mo>′</mo>
+</msup>
+</mrow>
+</msup>
+<mo>=</mo>
+<mn>0</mn>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {\mathrm {d} \Phi _{\mathrm {e} }}{\mathrm {d} z}}(z)\,e^{\int _{0}^{z}\mu (z')\mathrm {d} z'}+\mu (z)\Phi _{\mathrm {e} }(z)\,e^{\int _{0}^{z}\mu (z')\mathrm {d} z'}=0,}</annotation>
+</semantics>
+</math></span><img alt="{\frac  {{\mathrm  {d}}\Phi _{{\mathrm  {e}}}}{{\mathrm  {d}}z}}(z)\,e^{{\int _{0}^{z}\mu (z'){\mathrm  {d}}z'}}+\mu (z)\Phi _{{\mathrm  {e}}}(z)\,e^{{\int _{0}^{z}\mu (z'){\mathrm  {d}}z'}}=0," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dc30d75dc49591502f988c1a456e339a011a5bbe" style="vertical-align: -2.005ex; width:44.73ex; height:5.509ex;"/></span></dd></dl>
+<p>which simplifies due to the <a href="/wiki/Product_rule" title="Product rule">product rule</a> (applied backwards) to
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {\mathrm {d} }{\mathrm {d} z}}{\bigl (}\Phi _{\mathrm {e} }(z)\,e^{\int _{0}^{z}\mu (z')\mathrm {d} z'}{\bigr )}=0.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-OPEN">
+<mo maxsize="1.2em" minsize="1.2em">(</mo>
+</mrow>
+</mrow>
+<msub>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+</mrow>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msubsup>
+<mi>μ<!-- μ --></mi>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>z</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<msup>
+<mi>z</mi>
+<mo>′</mo>
+</msup>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-CLOSE">
+<mo maxsize="1.2em" minsize="1.2em">)</mo>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mn>0.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {\mathrm {d} }{\mathrm {d} z}}{\bigl (}\Phi _{\mathrm {e} }(z)\,e^{\int _{0}^{z}\mu (z')\mathrm {d} z'}{\bigr )}=0.}</annotation>
+</semantics>
+</math></span><img alt="{\frac  {{\mathrm  {d}}}{{\mathrm  {d}}z}}{\bigl (}\Phi _{{\mathrm  {e}}}(z)\,e^{{\int _{0}^{z}\mu (z'){\mathrm  {d}}z'}}{\bigr )}=0." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3d6650b10cf2f402c13bb3f791f8e64be2fdca2c" style="vertical-align: -2.005ex; width:25.531ex; height:5.509ex;"/></span></dd></dl>
+<p>Integrating both sides and solving for Φ<sub>e</sub> for a material of real thickness <i>ℓ</i>, with the incident radiant flux upon the slice <span class="nowrap">Φ<sub>e</sub><sup>i</sup> = Φ<sub>e</sub>(0)</span> and the transmitted radiant flux <span class="nowrap">Φ<sub>e</sub><sup>t</sup> = Φ<sub>e</sub>(<i>ℓ</i> )</span> gives
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Phi _{\mathrm {e} }^{\mathrm {t} }=\Phi _{\mathrm {e} }^{\mathrm {i} }\,e^{-\int _{0}^{\ell }\mu (z)\mathrm {d} z},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">t</mi>
+</mrow>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<msubsup>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">i</mi>
+</mrow>
+</mrow>
+</msubsup>
+<mspace width="thinmathspace"></mspace>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msubsup>
+<mi>μ<!-- μ --></mi>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+</mrow>
+</msup>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Phi _{\mathrm {e} }^{\mathrm {t} }=\Phi _{\mathrm {e} }^{\mathrm {i} }\,e^{-\int _{0}^{\ell }\mu (z)\mathrm {d} z},}</annotation>
+</semantics>
+</math></span><img alt="\Phi _{{\mathrm  {e}}}^{{\mathrm  {t}}}=\Phi _{{\mathrm  {e}}}^{{\mathrm  {i}}}\,e^{{-\int _{0}^{\ell }\mu (z){\mathrm  {d}}z}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/348c9716ca29e0c90a6fb64a7ba191b5465c7e40" style="vertical-align: -0.671ex; width:19.297ex; height:3.676ex;"/></span></dd></dl>
+<p>and finally
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T={\frac {\Phi _{\mathrm {e} }^{\mathrm {t} }}{\Phi _{\mathrm {e} }^{\mathrm {i} }}}=e^{-\int _{0}^{\ell }\mu (z)\mathrm {d} z}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msubsup>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">t</mi>
+</mrow>
+</mrow>
+</msubsup>
+<msubsup>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">e</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">i</mi>
+</mrow>
+</mrow>
+</msubsup>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msubsup>
+<mi>μ<!-- μ --></mi>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+</mrow>
+</msup>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T={\frac {\Phi _{\mathrm {e} }^{\mathrm {t} }}{\Phi _{\mathrm {e} }^{\mathrm {i} }}}=e^{-\int _{0}^{\ell }\mu (z)\mathrm {d} z}.}</annotation>
+</semantics>
+</math></span><img alt="T={\frac  {\Phi _{{\mathrm  {e}}}^{{\mathrm  {t}}}}{\Phi _{{\mathrm  {e}}}^{{\mathrm  {i}}}}}=e^{{-\int _{0}^{\ell }\mu (z){\mathrm  {d}}z}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e41a327c411d2ee2b56ec6b579dcb55a490baf68" style="vertical-align: -2.505ex; width:21.84ex; height:6.176ex;"/></span></dd></dl>
+<p>Since the decadic attenuation coefficient <i>μ</i><sub>10</sub> is related to the (Napierian) attenuation coefficient by <span class="nowrap"><i>μ</i><sub>10</sub> = <i>μ</i>/ln 10</span>, one also have
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T=e^{-\int _{0}^{\ell }\ln {10}\,\mu _{10}(z)\mathrm {d} z}={\bigl (}e^{-\int _{0}^{\ell }\mu _{10}(z)\mathrm {d} z}{\bigr )}^{\ln {10}}=10^{-\int _{0}^{\ell }\mu _{10}(z)\mathrm {d} z}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mo>=</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msubsup>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-OPEN">
+<mo maxsize="1.2em" minsize="1.2em">(</mo>
+</mrow>
+</mrow>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msubsup>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+</mrow>
+</msup>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-CLOSE">
+<mo maxsize="1.2em" minsize="1.2em">)</mo>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msubsup>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+</mrow>
+</msup>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T=e^{-\int _{0}^{\ell }\ln {10}\,\mu _{10}(z)\mathrm {d} z}={\bigl (}e^{-\int _{0}^{\ell }\mu _{10}(z)\mathrm {d} z}{\bigr )}^{\ln {10}}=10^{-\int _{0}^{\ell }\mu _{10}(z)\mathrm {d} z}.}</annotation>
+</semantics>
+</math></span><img alt="T=e^{{-\int _{0}^{\ell }\ln {10}\,\mu _{{10}}(z){\mathrm  {d}}z}}={\bigl (}e^{{-\int _{0}^{\ell }\mu _{{10}}(z){\mathrm  {d}}z}}{\bigr )}^{{\ln {10}}}=10^{{-\int _{0}^{\ell }\mu _{{10}}(z){\mathrm  {d}}z}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c655f48af70d0522beba032fb13200ccfae92d66" style="vertical-align: -1.005ex; width:56.521ex; height:4.009ex;"/></span></dd></dl>
+<p>To describe the attenuation coefficient in a way independent of the <a href="/wiki/Number_density" title="Number density">number densities</a> <i>n</i><sub><i>i</i></sub> of the <i>N</i> attenuating species of the material sample, one introduces the <a href="/wiki/Cross_section_(physics)" title="Cross section (physics)">attenuation cross section</a> <span class="nowrap"><i>σ</i><sub><i>i</i></sub> = <i>μ</i><sub><i>i</i></sub>(<i>z</i>)/<i>n</i><sub><i>i</i></sub>(<i>z</i>)</span>. <i>σ</i><sub><i>i</i></sub> has the dimension of an area; it expresses the likelihood of interaction between the particles of the beam and the particles of the specie <i>i</i> in the material sample:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T=e^{-\sum _{i=1}^{N}\sigma _{i}\int _{0}^{\ell }n_{i}(z)\mathrm {d} z}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mo>=</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msubsup>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+</mrow>
+</msup>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T=e^{-\sum _{i=1}^{N}\sigma _{i}\int _{0}^{\ell }n_{i}(z)\mathrm {d} z}.}</annotation>
+</semantics>
+</math></span><img alt="T=e^{{-\sum _{{i=1}}^{N}\sigma _{i}\int _{0}^{\ell }n_{i}(z){\mathrm  {d}}z}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cd6322c5254c5a4e36f2ea37d64a96e210697bc3" style="vertical-align: -0.338ex; width:22.288ex; height:3.343ex;"/></span></dd></dl>
+<p>One can also use the <a href="/wiki/Molar_attenuation_coefficient" title="Molar attenuation coefficient">molar attenuation coefficients</a> <span class="nowrap"><i>ε</i><sub><i>i</i></sub> = (N<sub>A</sub>/ln 10)<i>σ</i><sub><i>i</i></sub></span>, where N<sub>A</sub> is the <a href="/wiki/Avogadro_constant" title="Avogadro constant">Avogadro constant</a>, to describe the attenuation coefficient in a way independent of the <a class="mw-redirect" href="/wiki/Amount_concentration" title="Amount concentration">amount concentrations</a> <span class="nowrap"><i>c</i><sub><i>i</i></sub>(<i>z</i>) = <i>n</i><sub><i>i</i></sub>(<i>z</i>)/N<sub>A</sub></span> of the attenuating species of the material sample:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}T=e^{-\sum _{i=1}^{N}{\frac {\ln {10}}{\mathrm {N_{A}} }}\varepsilon _{i}\int _{0}^{\ell }n_{i}(z)\mathrm {d} z}=\\{\Bigl (}e^{-\sum _{i=1}^{N}\varepsilon _{i}\int _{0}^{\ell }{\frac {n_{i}(z)}{\mathrm {N_{A}} }}\mathrm {d} z}{\Bigr )}^{\ln {10}}=10^{-\sum _{i=1}^{N}\varepsilon _{i}\int _{0}^{\ell }c_{i}(z)\mathrm {d} z}.\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<mi>T</mi>
+<mo>=</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi mathvariant="normal">N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">A</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msubsup>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+</mrow>
+</msup>
+<mo>=</mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-OPEN">
+<mo maxsize="1.623em" minsize="1.623em">(</mo>
+</mrow>
+</mrow>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi mathvariant="normal">N</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">A</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+</mrow>
+</msup>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-CLOSE">
+<mo maxsize="1.623em" minsize="1.623em">)</mo>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<munderover>
+<mo>∑<!-- ∑ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mo>=</mo>
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</munderover>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ℓ<!-- ℓ --></mi>
+</mrow>
+</msubsup>
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>z</mi>
+</mrow>
+</msup>
+<mo>.</mo>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}T=e^{-\sum _{i=1}^{N}{\frac {\ln {10}}{\mathrm {N_{A}} }}\varepsilon _{i}\int _{0}^{\ell }n_{i}(z)\mathrm {d} z}=\\{\Bigl (}e^{-\sum _{i=1}^{N}\varepsilon _{i}\int _{0}^{\ell }{\frac {n_{i}(z)}{\mathrm {N_{A}} }}\mathrm {d} z}{\Bigr )}^{\ln {10}}=10^{-\sum _{i=1}^{N}\varepsilon _{i}\int _{0}^{\ell }c_{i}(z)\mathrm {d} z}.\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{aligned}T=e^{-\sum _{i=1}^{N}{\frac {\ln {10}}{\mathrm {N_{A}} }}\varepsilon _{i}\int _{0}^{\ell }n_{i}(z)\mathrm {d} z}=\\{\Bigl (}e^{-\sum _{i=1}^{N}\varepsilon _{i}\int _{0}^{\ell }{\frac {n_{i}(z)}{\mathrm {N_{A}} }}\mathrm {d} z}{\Bigr )}^{\ln {10}}=10^{-\sum _{i=1}^{N}\varepsilon _{i}\int _{0}^{\ell }c_{i}(z)\mathrm {d} z}.\end{aligned}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/90397507545d2ff0dc29d18889615137df807c8b" style="vertical-align: -4.838ex; width:45.576ex; height:10.843ex;"/></span></dd></dl>
+<h2><span class="mw-headline" id="Validity">Validity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beer%E2%80%93Lambert_law&amp;action=edit&amp;section=5" title="Edit section: Validity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Under certain conditions Beer–Lambert law fails to maintain a linear relationship between attenuation and concentration of <a href="/wiki/Analyte" title="Analyte">analyte</a>.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> These deviations are classified into three categories:
+</p>
+<ol><li>Real—fundamental deviations due to the limitations of the law itself.</li>
+<li>Chemical—deviations observed due to specific chemical species of the sample which is being analyzed.</li>
+<li>Instrument—deviations which occur due to how the attenuation measurements are made.</li></ol>
+<p>There are at least six conditions that need to be fulfilled in order for Beer–Lambert law to be valid. These are:
+</p>
+<ol><li>The attenuators must act independently of each other.</li>
+<li>The attenuating medium must be homogeneous in the interaction volume.</li>
+<li>The attenuating medium must not scatter the radiation—no <a href="/wiki/Turbidity" title="Turbidity">turbidity</a>—unless this is accounted for as in <a href="/wiki/Differential_optical_absorption_spectroscopy" title="Differential optical absorption spectroscopy">DOAS</a>.</li>
+<li>The incident radiation must consist of parallel rays, each traversing the same length in the absorbing medium.</li>
+<li>The incident radiation should preferably be <a class="mw-redirect" href="/wiki/Monochromatic" title="Monochromatic">monochromatic</a>, or have at least a width that is narrower than that of the attenuating transition. Otherwise a spectrometer as detector for the power is needed instead of a photodiode which has not a selective wavelength dependence.</li>
+<li>The incident flux must not influence the atoms or molecules; it should only act as a non-invasive probe of the species under study. In particular, this implies that the light should not cause optical saturation or optical pumping, since such effects will deplete the lower level and possibly give rise to stimulated emission.</li></ol>
+<p>If any of these conditions are not fulfilled, there will be deviations from Beer–Lambert law.
+</p><p>The Beer–Lambert law is not compatible with <a href="/wiki/Maxwell%27s_equations" title="Maxwell's equations">Maxwell's equations</a>.<sup class="reference" id="cite_ref-:0_7-0"><a href="#cite_note-:0-7">[7]</a></sup> Being strict, the law does not describe the transmittance through a medium, but the propagation within that medium. It can be made compatible with Maxwell's equations if the transmittance of a sample with solute is ratioed against the transmittance of the pure solvent which explains why it works so well in <a class="mw-redirect" href="/wiki/Spectrophotometry,_ultraviolet" title="Spectrophotometry, ultraviolet">spectrophotometry</a>. As this is not possible for pure media, the uncritical employment of the Beer–Lambert law can easily generate errors of the order of 100% or more.<sup class="reference" id="cite_ref-:0_7-1"><a href="#cite_note-:0-7">[7]</a></sup> In such cases it is necessary to apply the <a href="/wiki/Transfer-matrix_method_(optics)" title="Transfer-matrix method (optics)">Transfer-matrix method</a>.
+</p>
+<h2><span class="mw-headline" id="Chemical_analysis_by_spectrophotometry">Chemical analysis by spectrophotometry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beer%E2%80%93Lambert_law&amp;action=edit&amp;section=6" title="Edit section: Chemical analysis by spectrophotometry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Beer–Lambert law can be applied to the analysis of a mixture by <a href="/wiki/Spectrophotometry" title="Spectrophotometry">spectrophotometry</a>, without the need for extensive pre-processing of the sample. An example is the determination of <a href="/wiki/Bilirubin" title="Bilirubin">bilirubin</a> in blood plasma samples. The spectrum of pure bilirubin is known, so the molar attenuation coefficient <i>ε</i> is known. Measurements of decadic attenuation coefficient <i>μ</i><sub>10</sub> are made at one wavelength <i>λ</i> that is nearly unique for bilirubin and at a second wavelength in order to correct for possible interferences. The amount concentration <i>c</i> is then given by
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c={\frac {\mu _{10}(\lambda )}{\varepsilon (\lambda )}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>λ<!-- λ --></mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>ε<!-- ε --></mi>
+<mo stretchy="false">(</mo>
+<mi>λ<!-- λ --></mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c={\frac {\mu _{10}(\lambda )}{\varepsilon (\lambda )}}.}</annotation>
+</semantics>
+</math></span><img alt="c={\frac  {\mu _{{10}}(\lambda )}{\varepsilon (\lambda )}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/db2e3a1c7c1d80889325b003631573c01f91cbe8" style="vertical-align: -2.671ex; width:12.031ex; height:6.509ex;"/></span></dd></dl>
+<p>For a more complicated example, consider a mixture in solution containing two species at amount concentrations <i>c</i><sub>1</sub> and <i>c</i><sub>2</sub>. The decadic attenuation coefficient at any wavelength <i>λ</i> is, given by
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mu _{10}(\lambda )=\varepsilon _{1}(\lambda )c_{1}+\varepsilon _{2}(\lambda )c_{2}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>10</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>λ<!-- λ --></mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>λ<!-- λ --></mi>
+<mo stretchy="false">)</mo>
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>λ<!-- λ --></mi>
+<mo stretchy="false">)</mo>
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mu _{10}(\lambda )=\varepsilon _{1}(\lambda )c_{1}+\varepsilon _{2}(\lambda )c_{2}.}</annotation>
+</semantics>
+</math></span><img alt="\mu _{{10}}(\lambda )=\varepsilon _{1}(\lambda )c_{1}+\varepsilon _{2}(\lambda )c_{2}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7a57bffdc87886d2e611211aaae5d248b9c6ee2b" style="vertical-align: -0.838ex; width:27.755ex; height:2.843ex;"/></span></dd></dl>
+<p>Therefore, measurements at two wavelengths yields two equations in two unknowns and will suffice to determine the amount concentrations <i>c</i><sub>1</sub> and <i>c</i><sub>2</sub> as long as the molar attenuation coefficient of the two components, <i>ε</i><sub>1</sub> and <i>ε</i><sub>2</sub> are known at both wavelengths. This two system equation can be solved using <a href="/wiki/Cramer%27s_rule" title="Cramer's rule">Cramer's rule</a>. In practice it is better to use <a class="mw-redirect" href="/wiki/Linear_least_squares_(mathematics)" title="Linear least squares (mathematics)">linear least squares</a> to determine the two amount concentrations from measurements made at more than two wavelengths. Mixtures containing more than two components can be analyzed in the same way, using a minimum of <i>N</i> wavelengths for a mixture containing <i>N</i> components.
+</p><p>The law is used widely in <a class="mw-redirect" href="/wiki/Infra-red_spectroscopy" title="Infra-red spectroscopy">infra-red spectroscopy</a> and <a href="/wiki/Near-infrared_spectroscopy" title="Near-infrared spectroscopy">near-infrared spectroscopy</a> for analysis of <a href="/wiki/Polymer_degradation" title="Polymer degradation">polymer degradation</a> and <a class="mw-redirect" href="/wiki/Oxidation" title="Oxidation">oxidation</a> (also in biological tissue) as well as to measure the <a href="/wiki/Concentration" title="Concentration">concentration</a> of various compounds in different <a href="/wiki/Food" title="Food">food</a> samples. The <a href="/wiki/Carbonyl_group" title="Carbonyl group">carbonyl group</a> attenuation at about 6 micrometres can be detected quite easily, and degree of oxidation of the <a href="/wiki/Polymer" title="Polymer">polymer</a> calculated.
+</p>
+<h2><span id="Beer.E2.80.93Lambert_law_in_the_atmosphere"></span><span class="mw-headline" id="Beer–Lambert_law_in_the_atmosphere">Beer–Lambert law in the atmosphere</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beer%E2%80%93Lambert_law&amp;action=edit&amp;section=7" title="Edit section: Beer–Lambert law in the atmosphere">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This law is also applied to describe the attenuation of solar or stellar radiation as it travels through the atmosphere. In this case, there is scattering of radiation as well as absorption. The optical depth for a slant path is <span class="nowrap"><i>τ</i>′ = <i>mτ</i></span>, where <i>τ</i> refers to a vertical path, <i>m</i> is called the <a class="mw-redirect" href="/wiki/Airmass" title="Airmass">relative airmass</a>, and for a plane-parallel atmosphere it is determined as <span class="nowrap"><i>m</i> = sec <i>θ</i></span> where <i>θ</i> is the <a class="mw-redirect" href="/wiki/Zenith_angle" title="Zenith angle">zenith angle</a> corresponding to the given path. The Beer–Lambert law for the atmosphere is usually written
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T=e^{-m(\tau _{\mathrm {a} }+\tau _{\mathrm {g} }+\tau _{\mathrm {RS} }+\tau _{\mathrm {NO_{2}} }+\tau _{\mathrm {w} }+\tau _{\mathrm {O_{3}} }+\tau _{\mathrm {r} }+\ldots )},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mo>=</mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mi>m</mi>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">a</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">g</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">R</mi>
+<mi mathvariant="normal">S</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">N</mi>
+<msub>
+<mi mathvariant="normal">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">w</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi mathvariant="normal">O</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+</mrow>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">r</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>+</mo>
+<mo>…<!-- … --></mo>
+<mo stretchy="false">)</mo>
+</mrow>
+</msup>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T=e^{-m(\tau _{\mathrm {a} }+\tau _{\mathrm {g} }+\tau _{\mathrm {RS} }+\tau _{\mathrm {NO_{2}} }+\tau _{\mathrm {w} }+\tau _{\mathrm {O_{3}} }+\tau _{\mathrm {r} }+\ldots )},}</annotation>
+</semantics>
+</math></span><img alt="T=e^{{-m(\tau _{{\mathrm  {a}}}+\tau _{{\mathrm  {g}}}+\tau _{{\mathrm  {RS}}}+\tau _{{\mathrm  {NO_{2}}}}+\tau _{{\mathrm  {w}}}+\tau _{{\mathrm  {O_{3}}}}+\tau _{{\mathrm  {r}}}+\ldots )}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ae26941dc01c93ade7fc10a5d2d153c9f8b65410" style="vertical-align: -0.671ex; width:36.976ex; height:3.176ex;"/></span></dd></dl>
+<p>where each <i>τ</i><sub><i>x</i></sub> is the optical depth whose subscript identifies the source of the absorption or scattering it describes:
+</p>
+<ul><li>a refers to <a class="mw-redirect" href="/wiki/Aerosols" title="Aerosols">aerosols</a> (that absorb and scatter);</li>
+<li>g are uniformly mixed gases (mainly <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> (CO<sub>2</sub>)  and molecular <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> (O<sub>2</sub>) which only absorb);</li>
+<li>NO<sub>2</sub> is <a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">nitrogen dioxide</a>, mainly due to urban pollution (absorption only);</li>
+<li>RS are effects due to <a href="/wiki/Raman_scattering" title="Raman scattering">Raman scattering</a> in the atmosphere;</li>
+<li>w is <a class="mw-redirect" href="/wiki/Water_vapour" title="Water vapour">water vapour</a> <a class="mw-redirect" href="/wiki/Water_absorption" title="Water absorption">absorption</a>;</li>
+<li>O<sub>3</sub> is <a href="/wiki/Ozone" title="Ozone">ozone</a> (absorption only);</li>
+<li>r is <a href="/wiki/Rayleigh_scattering" title="Rayleigh scattering">Rayleigh scattering</a> from molecular <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> (O<sub>2</sub>) and <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a> (N<sub>2</sub>) (responsible for the blue color of the sky);</li>
+<li>the selection of the attenuators which have to be considered depends on the wavelength range and can include various other compounds. This can include <a href="/wiki/Tetraoxygen" title="Tetraoxygen">tetraoxygen</a>, <a class="mw-redirect" href="/wiki/HONO" title="HONO">HONO</a>, <a href="/wiki/Formaldehyde" title="Formaldehyde">formaldehyde</a>, <a href="/wiki/Glyoxal" title="Glyoxal">glyoxal</a>, a series of halogen radicals and others.</li></ul>
+<p><i>m</i> is the <i>optical mass</i> or <i><a class="mw-redirect" href="/wiki/Airmass" title="Airmass">airmass</a> factor</i>, a term approximately equal (for small and moderate values of <i>θ</i>) to 1/cos <i>θ</i>, where <i>θ</i> is the observed object's <a href="/wiki/Celestial_coordinate_system" title="Celestial coordinate system">zenith angle</a> (the angle measured from the direction perpendicular to the Earth's surface at the observation site). This equation can be used to retrieve <i>τ</i><sub>a</sub>, the aerosol <a href="/wiki/Optical_depth" title="Optical depth">optical thickness</a>, which is necessary for the correction of satellite images and also important in accounting for the role of aerosols in climate.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beer%E2%80%93Lambert_law&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Applied_spectroscopy" title="Applied spectroscopy">Applied spectroscopy</a></li>
+<li><a href="/wiki/Atomic_absorption_spectroscopy" title="Atomic absorption spectroscopy">Atomic absorption spectroscopy</a></li>
+<li><a href="/wiki/Absorption_spectroscopy" title="Absorption spectroscopy">Absorption spectroscopy</a></li>
+<li><a href="/wiki/Cavity_ring-down_spectroscopy" title="Cavity ring-down spectroscopy">Cavity ring-down spectroscopy</a></li>
+<li><a class="mw-redirect" href="/wiki/Infra-red_spectroscopy" title="Infra-red spectroscopy">Infra-red spectroscopy</a></li>
+<li><a href="/wiki/Job_plot" title="Job plot">Job plot</a></li>
+<li><a href="/wiki/Laser_absorption_spectrometry" title="Laser absorption spectrometry">Laser absorption spectrometry</a></li>
+<li><a href="/wiki/Logarithm" title="Logarithm">Logarithm</a></li>
+<li><a href="/wiki/Polymer_degradation" title="Polymer degradation">Polymer degradation</a></li>
+<li><a class="mw-redirect" href="/wiki/Scientific_laws_named_after_people" title="Scientific laws named after people">Scientific laws named after people</a></li>
+<li><a class="mw-redirect" href="/wiki/Quantification_of_nucleic_acids" title="Quantification of nucleic acids">Quantification of nucleic acids</a></li>
+<li><a href="/wiki/Tunable_diode_laser_absorption_spectroscopy" title="Tunable diode laser absorption spectroscopy">Tunable diode laser absorption spectroscopy</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beer%E2%80%93Lambert_law&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Pierre Bouguer, <a class="external text" href="https://books.google.com/books?id=JNkTAAAAQAAJ&amp;pg=PA1" rel="nofollow"><i>Essai d'optique sur la gradation de la lumière</i></a> (Paris, France: Claude Jombert, 1729) pp. 16–22.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">J. H. Lambert, <a class="external text" href="https://archive.org/details/bub_gb_zmpJAAAAYAAJ" rel="nofollow"><i>Photometria sive de mensura et gradibus luminis, colorum et umbrae</i></a> [Photometry, or, On the measure and gradations of light, colors, and shade] (Augsburg ("Augusta Vindelicorum"), Germany: Eberhardt Klett, 1760).</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Beer (1852). <a class="external text" href="https://books.google.com/books?id=PNmXAAAAIAAJ&amp;pg=PA78" rel="nofollow">"<span class="cs1-kern-left">"</span>Bestimmung der Absorption des rothen Lichts in farbigen Flüssigkeiten" (Determination of the absorption of red light in colored liquids)"</a>. <i>Annalen der Physik und Chemie</i>. <b>86</b>: 78–88.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annalen+der+Physik+und+Chemie&amp;rft.atitle=%22Bestimmung+der+Absorption+des+rothen+Lichts+in+farbigen+Fl%C3%BCssigkeiten%22+%28Determination+of+the+absorption+of+red+light+in+colored+liquids%29&amp;rft.volume=86&amp;rft.pages=78-88&amp;rft.date=1852&amp;rft.au=Beer&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DPNmXAAAAIAAJ%26pg%3DPA78&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeer%E2%80%93Lambert+law"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Ingle, J. D. J.; Crouch, S. R. (1988). <i>Spectrochemical Analysis</i>. New Jersey: <a href="/wiki/Prentice_Hall" title="Prentice Hall">Prentice Hall</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Spectrochemical+Analysis&amp;rft.place=New+Jersey&amp;rft.pub=Prentice+Hall&amp;rft.date=1988&amp;rft.aulast=Ingle&amp;rft.aufirst=J.+D.+J.&amp;rft.au=Crouch%2C+S.+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeer%E2%80%93Lambert+law"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-GoldBook-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-GoldBook_5-0">^</a></b></span> <span class="reference-text"><a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">IUPAC</a>, <i><a class="mw-redirect" href="/wiki/Compendium_of_Chemical_Terminology" title="Compendium of Chemical Terminology">Compendium of Chemical Terminology</a></i>, 2nd ed. (the "Gold Book") (1997). Online corrected version:  (2006–) "<a class="external text" href="http://goldbook.iupac.org/B00626.html" rel="nofollow">Beer–Lambert law</a>".</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Mehta A.<a class="external text" href="http://pharmaxchange.info/press/2012/05/ultraviolet-visible-uv-vis-spectroscopy-%E2%80%93-limitations-and-deviations-of-beer-lambert-law/" rel="nofollow">Limitations and Deviations of Beer–Lambert Law</a></span>
+</li>
+<li id="cite_note-:0-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Mayerhöfer, Thomas G.; Mutschke, Harald; Popp, Jürgen (2016-04-01). <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/cphc.201600114/abstract" rel="nofollow">"Employing Theories Far beyond Their Limits—The Case of the (Boguer-) Beer–Lambert Law"</a>. <i>ChemPhysChem</i>. <b>17</b>: 1948–1955. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fcphc.201600114" rel="nofollow">10.1002/cphc.201600114</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1439-7641" rel="nofollow">1439-7641</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ChemPhysChem&amp;rft.atitle=Employing+Theories+Far+beyond+Their+Limits%E2%80%94The+Case+of+the+%28Boguer-%29+Beer%E2%80%93Lambert+Law&amp;rft.volume=17&amp;rft.pages=1948-1955&amp;rft.date=2016-04-01&amp;rft_id=info%3Adoi%2F10.1002%2Fcphc.201600114&amp;rft.issn=1439-7641&amp;rft.aulast=Mayerh%C3%B6fer&amp;rft.aufirst=Thomas+G.&amp;rft.au=Mutschke%2C+Harald&amp;rft.au=Popp%2C+J%C3%BCrgen&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2Fcphc.201600114%2Fabstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeer%E2%80%93Lambert+law"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beer%E2%80%93Lambert_law&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.changbioscience.com/calculator/BeerLambert.html" rel="nofollow">Beer–Lambert Law Calculator</a></li>
+<li><a class="external text" href="http://www.chemguide.co.uk/analysis/uvvisible/beerlambert.html" rel="nofollow">Beer–Lambert Law Simpler Explanation</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw2262
+Cached time: 20181006051121
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.288 seconds
+Real time usage: 0.556 seconds
+Preprocessor visited node count: 729/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 10918/2097152 bytes
+Template argument size: 714/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 11508/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.121/10.000 seconds
+Lua memory usage: 2.67 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  219.694      1 -total
+ 59.47%  130.649      1 Template:Reflist
+ 49.58%  108.920      2 Template:Cite_journal
+ 27.15%   59.650      1 Template:Refimprove
+ 16.42%   36.072      1 Template:Ambox
+  4.80%   10.547      1 Template:Div_col
+  3.08%    6.769      1 Template:Cite_book
+  1.85%    4.075     10 Template:Nobreak
+  1.16%    2.556      2 Template:Main_other
+  0.93%    2.034      1 Template:GoldBookRef
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4476-0!canonical!math=5 and timestamp 20181006051121 and revision id 862708269
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Beer–Lambert_law&amp;oldid=862708269">https://en.wikipedia.org/w/index.php?title=Beer–Lambert_law&amp;oldid=862708269</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Scattering,_absorption_and_radiative_transfer_(optics)" title="Category:Scattering, absorption and radiative transfer (optics)">Scattering, absorption and radiative transfer (optics)</a></li><li><a href="/wiki/Category:Spectroscopy" title="Category:Spectroscopy">Spectroscopy</a></li><li><a href="/wiki/Category:Electromagnetic_radiation" title="Category:Electromagnetic radiation">Electromagnetic radiation</a></li><li><a href="/wiki/Category:Visibility" title="Category:Visibility">Visibility</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2008" title="Category:Articles needing additional references from February 2008">Articles needing additional references from February 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Beer%E2%80%93Lambert+law" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Beer%E2%80%93Lambert+law" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Beer%E2%80%93Lambert_law" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Beer%E2%80%93Lambert_law" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Beer%E2%80%93Lambert_law">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Beer%E2%80%93Lambert_law&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Beer%E2%80%93Lambert_law&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Beer%E2%80%93Lambert_law" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Beer%E2%80%93Lambert_law" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Beer%E2%80%93Lambert_law&amp;oldid=862708269" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Beer%E2%80%93Lambert_law&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q217351" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Beer%E2%80%93Lambert_law&amp;id=862708269" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Beer%E2%80%93Lambert+law">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Beer%E2%80%93Lambert+law&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Beer%E2%80%93Lambert_law&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Lambert-Beer_law" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D9%86%D9%88%D9%86_%D8%A8%D9%8A%D8%B1-%D9%84%D8%A7%D9%85%D8%A8%D8%B1%D8%AA" hreflang="ar" lang="ar" title="قانون بير-لامبرت – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Buger-Lambert-Ber_qanunu" hreflang="az" lang="az" title="Buger-Lambert-Ber qanunu – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Llei_de_Lambert-Beer" hreflang="ca" lang="ca" title="Llei de Lambert-Beer – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Lambert%C5%AFv%E2%80%93Beer%C5%AFv_z%C3%A1kon" hreflang="cs" lang="cs" title="Lambertův–Beerův zákon – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Lambert-Beer%E2%80%99sches_Gesetz" hreflang="de" lang="de" title="Lambert-Beer’sches Gesetz – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Beeri_seadus" hreflang="et" lang="et" title="Beeri seadus – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Ley_de_Beer-Lambert" hreflang="es" lang="es" title="Ley de Beer-Lambert – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D9%86%D9%88%D9%86_%D8%A8%DB%8C%D8%B1-%D9%84%D8%A7%D9%85%D8%A8%D8%B1%D8%AA" hreflang="fa" lang="fa" title="قانون بیر-لامبرت – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Loi_de_Beer-Lambert" hreflang="fr" lang="fr" title="Loi de Beer-Lambert – French">Français</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Lambert-Beerov_zakon" hreflang="hr" lang="hr" title="Lambert-Beerov zakon – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Hukum_Beer%E2%80%93Lambert" hreflang="id" lang="id" title="Hukum Beer–Lambert – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Legge_di_Lambert-Beer" hreflang="it" lang="it" title="Legge di Lambert-Beer – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A7_%D7%91%D7%A8-%D7%9C%D7%9E%D7%91%D7%A8%D7%98" hreflang="he" lang="he" title="חוק בר-למברט – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%91%D1%83%D0%B3%D0%B5%D1%80-%D0%9B%D0%B0%D0%BC%D0%B1%D0%B5%D1%80%D1%82-%D0%91%D0%B5%D1%80_%D0%B7%D0%B0%D2%A3%D1%8B" hreflang="kk" lang="kk" title="Бугер-Ламберт-Бер заңы – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Lambert%E2%80%93Beer-t%C3%B6rv%C3%A9ny" hreflang="hu" lang="hu" title="Lambert–Beer-törvény – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Wet_van_Lambert-Beer" hreflang="nl" lang="nl" title="Wet van Lambert-Beer – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%99%E3%83%AB%E3%83%88%E3%83%BB%E3%83%99%E3%83%BC%E3%83%AB%E3%81%AE%E6%B3%95%E5%89%87" hreflang="ja" lang="ja" title="ランベルト・ベールの法則 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Beer-Lamberts_lov" hreflang="no" lang="no" title="Beer-Lamberts lov – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Beer-Lambert-lova" hreflang="nn" lang="nn" title="Beer-Lambert-lova – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Buger_(qonun)" hreflang="uz" lang="uz" title="Buger (qonun) – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Prawo_Lamberta-Beera" hreflang="pl" lang="pl" title="Prawo Lamberta-Beera – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Lei_de_Beer-Lambert" hreflang="pt" lang="pt" title="Lei de Beer-Lambert – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%91%D1%83%D0%B3%D0%B5%D1%80%D0%B0_%E2%80%94_%D0%9B%D0%B0%D0%BC%D0%B1%D0%B5%D1%80%D1%82%D0%B0_%E2%80%94_%D0%91%D0%B5%D1%80%D0%B0" hreflang="ru" lang="ru" title="Закон Бугера — Ламберта — Бера – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Beer-Lambert_law" hreflang="simple" lang="simple" title="Beer-Lambert law – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Lambertov-Beerov_z%C3%A1kon" hreflang="sk" lang="sk" title="Lambertov-Beerov zákon – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Absorpcijski_zakon" hreflang="sl" lang="sl" title="Absorpcijski zakon – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Beerin_ja_Lambertin_laki" hreflang="fi" lang="fi" title="Beerin ja Lambertin laki – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Beers_lag" hreflang="sv" lang="sv" title="Beers lag – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Beer-Lambert_yasas%C4%B1" hreflang="tr" lang="tr" title="Beer-Lambert yasası – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%91%D1%83%D0%B3%D0%B5%D1%80%D0%B0_%E2%80%94_%D0%9B%D0%B0%D0%BC%D0%B1%D0%B5%D1%80%D1%82%D0%B0_%E2%80%94_%D0%91%D0%B5%D1%80%D0%B0" hreflang="uk" lang="uk" title="Закон Бугера — Ламберта — Бера – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Bnh_lu%E1%BA%ADt_Beer-Lambert" hreflang="vi" lang="vi" title="Định luật Beer-Lambert – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%AF%94%E5%B0%94-%E6%9C%97%E4%BC%AF%E5%AE%9A%E5%BE%8B" hreflang="zh" lang="zh" title="比尔-朗伯定律 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q217351#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 6 October 2018, at 05:11<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Beer%E2%80%93Lambert_law&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.288","walltime":"0.556","ppvisitednodes":{"value":729,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":10918,"limit":2097152},"templateargumentsize":{"value":714,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":11508,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  219.694      1 -total"," 59.47%  130.649      1 Template:Reflist"," 49.58%  108.920      2 Template:Cite_journal"," 27.15%   59.650      1 Template:Refimprove"," 16.42%   36.072      1 Template:Ambox","  4.80%   10.547      1 Template:Div_col","  3.08%    6.769      1 Template:Cite_book","  1.85%    4.075     10 Template:Nobreak","  1.16%    2.556      2 Template:Main_other","  0.93%    2.034      1 Template:GoldBookRef"]},"scribunto":{"limitreport-timeusage":{"value":"0.121","limit":"10.000"},"limitreport-memusage":{"value":2795842,"limit":52428800}},"cachereport":{"origin":"mw2262","timestamp":"20181006051121","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw2229"});});</script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+source page sum: 1
+sink page sum: 0
+Max in degree: 4
+Max out degree: 4

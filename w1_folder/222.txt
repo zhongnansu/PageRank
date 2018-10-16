@@ -1,0 +1,1067 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Grignard reaction - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Grignard_reaction","wgTitle":"Grignard reaction","wgCurRevisionId":861159037,"wgRevisionId":861159037,"wgArticleId":454896,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","All articles with unsourced statements","Articles with unsourced statements from January 2012","CS1 maint: Extra text: authors list","Wikipedia articles with GND identifiers","Coupling reactions","Organometallic chemistry","Carbon-carbon bond forming reactions","Carbon-heteroatom bond forming reactions","Reagents for organic chemistry","Magnesium","Chemical tests","Organomagnesium compounds","Name reactions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Grignard_reaction","wgRelevantArticleId":454896,"wgRequestId":"W76FQApAIC4AABPFvG4AAADP","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q337748","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/4/46/Grignard_reaction_experiment_07.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Grignard_reaction" rel="alternate"/>
+<link href="/w/index.php?title=Grignard_reaction&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Grignard_reaction&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Grignard_reaction" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Grignard_reaction rootpage-Grignard_reaction skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Grignard reaction</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table border="1" class="infobox bordered" style="float: right; clear: right; margin: 0 0 1em 1em; border-collapse: collapse;" width="250px">
+<tbody><tr>
+<th colspan="2" style="width: 30%; background: #ACE1AF; text-align: center;">Grignard reaction
+</th></tr>
+<tr>
+<td>Named after
+</td>
+<td><a href="/wiki/Victor_Grignard" title="Victor Grignard">Victor Grignard</a>
+</td></tr>
+<tr>
+<td>Reaction type
+</td>
+<td><a href="/wiki/Coupling_reaction" title="Coupling reaction">Coupling reaction</a>
+</td></tr>
+<tr>
+<th colspan="2" style="width: 30%; background: #ACE1AF; text-align: center;">Identifiers
+</th></tr>
+<tr>
+<td>Organic Chemistry Portal
+</td>
+<td><span class="reflink plainlinks nourlexpansion"><a class="external text" href="https://www.organic-chemistry.org/namedreactions/grignard-reaction.shtm" rel="nofollow">grignard-reaction</a></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/Royal_Society_of_Chemistry" title="Royal Society of Chemistry">RSC</a> ontology ID
+</td>
+<td><span class="reflink plainlinks nourlexpansion"><a class="external text" href="http://www.rsc.org/publishing/journals/prospect/ontology.asp?id=RXNO:0000014" rel="nofollow">RXNO:0000014</a></span>
+</td></tr>
+<tr>
+<td colspan="2" style="width: 30%; background: #ACE1AF; text-align: center;">
+</td></tr>
+</tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Grignard_reaction_experiment_07.jpg"><img alt="" class="thumbimage" data-file-height="800" data-file-width="960" height="183" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Grignard_reaction_experiment_07.jpg/220px-Grignard_reaction_experiment_07.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Grignard_reaction_experiment_07.jpg/330px-Grignard_reaction_experiment_07.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Grignard_reaction_experiment_07.jpg/440px-Grignard_reaction_experiment_07.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Grignard_reaction_experiment_07.jpg" title="Enlarge"></a></div>A solution of a carbonyl compound is added to a Grignard reagent. (See <a href="#Gallery">gallery below</a>)</div></div></div>
+<p>The <b>Grignard reaction</b> (pronounced <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">/ɡriɲar/</span>) is an <a href="/wiki/Organometallic_chemistry" title="Organometallic chemistry">organometallic</a> <a href="/wiki/Chemical_reaction" title="Chemical reaction">chemical reaction</a> in which <a href="/wiki/Alkyl" title="Alkyl">alkyl</a>, <a href="/wiki/Vinyl_group" title="Vinyl group">vinyl</a>, or <a href="/wiki/Aryl" title="Aryl">aryl</a>-<a href="/wiki/Magnesium" title="Magnesium">magnesium</a> <a href="/wiki/Halide" title="Halide">halides</a> (<b>Grignard reagents</b>) add to  a <a class="mw-redirect" href="/wiki/Carbonyl" title="Carbonyl">carbonyl</a> group in an <a href="/wiki/Aldehyde" title="Aldehyde">aldehyde</a> or <a href="/wiki/Ketone" title="Ketone">ketone</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>  This reaction is an important tool for the formation of <a href="/wiki/Carbon%E2%80%93carbon_bond" title="Carbon–carbon bond">carbon–carbon bonds</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> The reaction of an organic halide with magnesium is <i>not</i> a Grignard reaction, but provides a Grignard reagent.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>
+</p>
+<dl><dd><a class="image" href="/wiki/File:Grignard_Reaction_Scheme.png" title="An example of a Grignard reaction"><img alt="An example of a Grignard reaction" data-file-height="559" data-file-width="3250" height="86" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Grignard_Reaction_Scheme.png/500px-Grignard_Reaction_Scheme.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Grignard_Reaction_Scheme.png/750px-Grignard_Reaction_Scheme.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Grignard_Reaction_Scheme.png/1000px-Grignard_Reaction_Scheme.png 2x" width="500"/></a></dd></dl>
+<p>Grignard reactions and reagents were discovered by and are named after the French chemist <a class="mw-redirect" href="/wiki/Fran%C3%A7ois_Auguste_Victor_Grignard" title="François Auguste Victor Grignard">François Auguste Victor Grignard</a> (<a class="mw-redirect" href="/wiki/University_of_Nancy" title="University of Nancy">University of Nancy</a>, France), who published it in 1900 and was awarded the 1912 <a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Nobel Prize in Chemistry</a> for this work.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>  Grignard reagents are similar to <a href="/wiki/Organolithium_reagent" title="Organolithium reagent">organolithium reagents</a> because both are strong nucleophiles that can form new carbon–carbon bonds. The nucleophilicity increases if the alkyl substituent is replaced by an <a href="/wiki/Metal_amides" title="Metal amides">amido</a> group. These amido magnesium halides are called <a href="/wiki/Hauser_base" title="Hauser base">Hauser bases</a>.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Reaction_mechanism"><span class="tocnumber">1</span> <span class="toctext">Reaction mechanism</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Preparation_of_Grignard_reagent"><span class="tocnumber">2</span> <span class="toctext">Preparation of Grignard reagent</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Reaction_conditions"><span class="tocnumber">2.1</span> <span class="toctext">Reaction conditions</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#The_organic_halide"><span class="tocnumber">2.2</span> <span class="toctext">The organic halide</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Magnesium"><span class="tocnumber">2.3</span> <span class="toctext">Magnesium</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Solvent"><span class="tocnumber">2.4</span> <span class="toctext">Solvent</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Testing_Grignard_reagents"><span class="tocnumber">2.5</span> <span class="toctext">Testing Grignard reagents</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Initiation"><span class="tocnumber">2.6</span> <span class="toctext">Initiation</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Industrial_production"><span class="tocnumber">2.7</span> <span class="toctext">Industrial production</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Mg_transfer_reaction_(halogen–Mg_exchange)"><span class="tocnumber">2.8</span> <span class="toctext">Mg transfer reaction (halogen–Mg exchange)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Reactions_of_Grignard_reagents"><span class="tocnumber">3</span> <span class="toctext">Reactions of Grignard reagents</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#With_carbonyl_compounds"><span class="tocnumber">3.1</span> <span class="toctext">With carbonyl compounds</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Reactions_as_a_base"><span class="tocnumber">3.2</span> <span class="toctext">Reactions as a base</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Formation_of_bonds_to_B,_Si,_P,_Sn"><span class="tocnumber">3.2.1</span> <span class="toctext">Formation of bonds to B, Si, P, Sn</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Reaction_with_transition_metal_halides"><span class="tocnumber">3.2.2</span> <span class="toctext">Reaction with transition metal halides</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-16"><a href="#With_organic_halides"><span class="tocnumber">3.3</span> <span class="toctext">With organic halides</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Oxidation"><span class="tocnumber">3.4</span> <span class="toctext">Oxidation</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Elimination"><span class="tocnumber">3.5</span> <span class="toctext">Elimination</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Degradation_of_Grignard_reagents"><span class="tocnumber">4</span> <span class="toctext">Degradation of Grignard reagents</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Industrial_use"><span class="tocnumber">5</span> <span class="toctext">Industrial use</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Gallery"><span class="tocnumber">6</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Reaction_mechanism">Reaction mechanism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=1" title="Edit section: Reaction mechanism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Grignard reagent functions as a <a href="/wiki/Nucleophile" title="Nucleophile">nucleophile</a>, attacking the <a class="mw-redirect" href="/wiki/Electrophilic" title="Electrophilic">electrophilic</a> carbon atom that is present within the <a class="mw-redirect" href="/wiki/Polar_bond" title="Polar bond">polar bond</a> of a carbonyl group. 
+The addition of the Grignard reagent to the carbonyl typically proceeds through a six-membered ring transition state.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p>
+<div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Grignard-Reaction_Mechanism.png" title="The mechanism of the Grignard reaction."><img alt="The mechanism of the Grignard reaction." data-file-height="382" data-file-width="1909" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Grignard-Reaction_Mechanism.png/600px-Grignard-Reaction_Mechanism.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Grignard-Reaction_Mechanism.png/900px-Grignard-Reaction_Mechanism.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Grignard-Reaction_Mechanism.png/1200px-Grignard-Reaction_Mechanism.png 2x" width="600"/></a></div></div>
+<p>However, with hindered Grignard reagents, the reaction may proceed by single-electron transfer.  Similar pathways are assumed for other reactions of Grignard reagents, e.g., in the formation of carbon–<a href="/wiki/Phosphorus" title="Phosphorus">phosphorus</a>, carbon–<a href="/wiki/Tin" title="Tin">tin</a>, carbon–<a href="/wiki/Silicon" title="Silicon">silicon</a>, carbon–<a href="/wiki/Boron" title="Boron">boron</a> and other carbon–<a href="/wiki/Heteroatom" title="Heteroatom">heteroatom</a> bonds.
+</p>
+<h2><span class="mw-headline" id="Preparation_of_Grignard_reagent">Preparation of Grignard reagent</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=2" title="Edit section: Preparation of Grignard reagent">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Grignard reagents form via the reaction of an alkyl or aryl halide with <a href="/wiki/Magnesium" title="Magnesium">magnesium</a> <a href="/wiki/Metal" title="Metal">metal</a>. The reaction is conducted by adding the organic halide to a suspension of magnesium in an <a href="/wiki/Ether" title="Ether">etherial</a> solvent, which provides <a class="mw-redirect" href="/wiki/Ligands" title="Ligands">ligands</a> required to stabilize the <a class="mw-redirect" href="/wiki/Organomagnesium_compound" title="Organomagnesium compound">organomagnesium compound</a>.   Empirical evidence suggests that the reaction takes place on the surface of the metal.  The reaction proceeds through <a class="mw-redirect" href="/wiki/Single_electron_transfer" title="Single electron transfer">single electron transfer</a>:<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> In the Grignard formation reaction, radicals may be converted into carbanions through a second electron transfer.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup><sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</p>
+<dl><dd>R−X + Mg → R−X<sup>•−</sup> + Mg<sup>•+</sup></dd>
+<dd>R−X<sup>•−</sup> → R<sup>•</sup> + X<sup>−</sup></dd>
+<dd>R<sup>•</sup> + Mg<sup>•+</sup> → RMg<sup>+</sup></dd>
+<dd>RMg<sup>+</sup> + X<sup>−</sup> → RMgX</dd></dl>
+<p>A limitation of Grignard reagents is that they do not readily react with alkyl halides via an S<sub>N</sub>2 mechanism.  On the other hand, they readily participate in <a href="/wiki/Transmetalation" title="Transmetalation">transmetalation</a> reactions:
+</p>
+<dl><dd>RMgX  +  AlX  →   AlR  +  MgX<sub>2</sub></dd></dl>
+<p>For this purpose, commercially available Grignard reagents are especially useful because this route avoids the problem with initiation.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Reaction_conditions">Reaction conditions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=3" title="Edit section: Reaction conditions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In reactions involving Grignard reagents, it is important to exclude water and air, which rapidly destroy the reagent by <a href="/wiki/Protonolysis" title="Protonolysis">protonolysis</a> or oxidation.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup>  Since most Grignard reactions are conducted in anhydrous <a href="/wiki/Diethyl_ether" title="Diethyl ether">diethyl ether</a> or <a href="/wiki/Tetrahydrofuran" title="Tetrahydrofuran">tetrahydrofuran</a>, side-reactions with air are limited by the protective blanket provided by solvent vapors.  Small-scale or quantitative preparations should be conducted under <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a> or <a href="/wiki/Argon" title="Argon">argon</a> atmospheres, using <a href="/wiki/Air-free_technique" title="Air-free technique">air-free techniques</a>.  Although the reagents still need to be dry, ultrasound can allow Grignard reagents to form in wet solvents by activating the magnesium such that it consumes the water.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>
+</p>
+<h3><span class="mw-headline" id="The_organic_halide">The organic halide</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=4" title="Edit section: The organic halide">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Grignard reactions often start slowly.  As is common for reactions involving solids and solution, initiation follows an <a href="/wiki/Induction_period" title="Induction period">induction period</a> during which reactive magnesium becomes exposed to the organic reagents.  After this induction period, the reactions can be highly <a class="mw-redirect" href="/wiki/Exothermic" title="Exothermic">exothermic</a>.  Alkyl and aryl <a href="/wiki/Bromide" title="Bromide">bromides</a> and <a href="/wiki/Iodide" title="Iodide">iodides</a> are common, with <a href="/wiki/Chloride" title="Chloride">chlorides</a> being seen as well. However, <a href="/wiki/Fluoride" title="Fluoride">fluorides</a> are generally unreactive, except with specially activated magnesium (through <a class="mw-redirect" href="/wiki/Rieke_metal" title="Rieke metal">Rieke metals</a>).
+</p>
+<h3><span class="mw-headline" id="Magnesium">Magnesium</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=5" title="Edit section: Magnesium">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Typical Grignard reactions involve the use of magnesium ribbon.  All magnesium is coated with a  <a href="/wiki/Passivation_(chemistry)" title="Passivation (chemistry)">passivating</a>  layer of <a href="/wiki/Magnesium_oxide" title="Magnesium oxide">magnesium oxide</a>, which inhibits reactions with the organic halide.  Specially activated magnesium, such as <a href="/wiki/Rieke_metals" title="Rieke metals">Rieke magnesium</a>, circumvents this problem.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> The oxide layer can also be broken up using ultrasound,  using a stirring rod to scratch the oxidized layer off,<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> or by adding a few drops of iodine or <a href="/wiki/1,2-Diiodoethane" title="1,2-Diiodoethane">1,2-Diiodoethane</a>.
+</p>
+<h3><span class="mw-headline" id="Solvent">Solvent</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=6" title="Edit section: Solvent">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Methylmagnesium-chloride-THF-3D-balls.png"><img alt="" class="thumbimage" data-file-height="846" data-file-width="1100" height="169" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Methylmagnesium-chloride-THF-3D-balls.png/220px-Methylmagnesium-chloride-THF-3D-balls.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Methylmagnesium-chloride-THF-3D-balls.png/330px-Methylmagnesium-chloride-THF-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Methylmagnesium-chloride-THF-3D-balls.png/440px-Methylmagnesium-chloride-THF-3D-balls.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Methylmagnesium-chloride-THF-3D-balls.png" title="Enlarge"></a></div>Usually Grignard reagents are written as RMgX, but in fact the magnesium(II) centre is tetrahedral when dissolved in <a class="mw-redirect" href="/wiki/Lewis_basic" title="Lewis basic">Lewis basic</a> solvents, as shown here for the bis-adduct of methylmagnesium chloride and THF.</div></div></div>
+<p>Most Grignard reactions are conducted in ethereal solvents, especially <a href="/wiki/Diethyl_ether" title="Diethyl ether">diethyl ether</a> and <a href="/wiki/Tetrahydrofuran" title="Tetrahydrofuran">THF</a>. With the chelating diether <a class="mw-redirect" href="/wiki/Dioxane" title="Dioxane">dioxane</a>, some Grignard reagents undergo a <a class="mw-redirect" href="/wiki/Redistribution_reaction" title="Redistribution reaction">redistribution reaction</a> to give diorganomagnesium compounds (R = organic group, X = halide):
+</p>
+<dl><dd>2 RMgX  +  dioxane  ⇌  R<sub>2</sub>Mg  +  MgX<sub>2</sub>(dioxane)</dd></dl>
+<p>This reaction is known as the <a href="/wiki/Schlenk_equilibrium" title="Schlenk equilibrium">Schlenk equilibrium</a>.
+</p>
+<h3><span class="mw-headline" id="Testing_Grignard_reagents">Testing Grignard reagents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=7" title="Edit section: Testing Grignard reagents">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Because Grignard reagents are so sensitive to moisture and oxygen, many methods have been developed to test the quality of a batch.  Typical tests involve titrations with weighable, anhydrous protic reagents, e.g. <a href="/wiki/Menthol" title="Menthol">menthol</a> in the presence of a color-indicator.  The interaction of the Grignard reagent with <a href="/wiki/Phenanthroline" title="Phenanthroline">phenanthroline</a><sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> or <a class="mw-redirect" href="/wiki/2,2%27-bipyridine" title="2,2'-bipyridine">2,2'-bipyridine</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2012)">citation needed</span></a></i>]</sup> causes a color change.
+</p>
+<h3><span class="mw-headline" id="Initiation">Initiation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=8" title="Edit section: Initiation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Many methods have been developed to initiate sluggish Grignard reactions.  These methods weaken the <a href="/wiki/Passivation_(chemistry)" title="Passivation (chemistry)">passivating</a> layer of <a href="/wiki/Magnesium_oxide" title="Magnesium oxide">MgO</a>, thereby exposing highly reactive magnesium to the organic halide.  Mechanical methods include crushing of the Mg pieces in situ, rapid stirring, and <a href="/wiki/Sonication" title="Sonication">sonication</a><sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> of the suspension.  <a href="/wiki/Iodine" title="Iodine">Iodine</a>, <a href="/wiki/Methyl_iodide" title="Methyl iodide">methyl iodide</a>, and <a href="/wiki/1,2-Dibromoethane" title="1,2-Dibromoethane">1,2-Dibromoethane</a> are common activating agents.  The use of 1,2-dibromoethane is particularly advantageous as its action can be monitored by the observation of bubbles of <a href="/wiki/Ethylene" title="Ethylene">ethylene</a>.  Furthermore, the side-products are innocuous:
+</p>
+<dl><dd>Mg  +  BrC<sub>2</sub>H<sub>4</sub>Br →  C<sub>2</sub>H<sub>4</sub>  +  MgBr<sub>2</sub></dd></dl>
+<p>The amount of Mg consumed by these activating agents is usually insignificant. A small amount of <a class="mw-redirect" href="/wiki/Mercuric_chloride" title="Mercuric chloride">mercuric chloride</a> will <a href="/wiki/Amalgam_(chemistry)" title="Amalgam (chemistry)">amalgamate</a> the surface of the metal, allowing it to react.
+</p>
+<h3><span class="mw-headline" id="Industrial_production">Industrial production</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=9" title="Edit section: Industrial production">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Grignard reagents are produced in industry for use <i>in situ</i>, or for sale. As with a bench-scale, the main problem is that of initiation; a portion of a previous batch of Grignard reagent is often used as the initiator. Grignard reactions are exothermic, and this exothermicity must be considered when a reaction is scaled-up from laboratory to production plant.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>
+</p><p>Many Grignard reagents such as <a class="mw-redirect" href="/wiki/Methylmagnesium_bromide" title="Methylmagnesium bromide">methylmagnesium bromide</a>, <a href="/wiki/Methylmagnesium_chloride" title="Methylmagnesium chloride">methylmagnesium chloride</a>, <a href="/wiki/Phenylmagnesium_bromide" title="Phenylmagnesium bromide">phenylmagnesium bromide</a>, and <a href="/wiki/Allylmagnesium_bromide" title="Allylmagnesium bromide">allylmagnesium bromide</a> are available commercially as <a href="/wiki/Tetrahydrofuran" title="Tetrahydrofuran">tetrahydrofuran</a> or <a href="/wiki/Diethyl_ether" title="Diethyl ether">diethyl ether</a> solutions.
+</p>
+<h3><span id="Mg_transfer_reaction_.28halogen.E2.80.93Mg_exchange.29"></span><span class="mw-headline" id="Mg_transfer_reaction_(halogen–Mg_exchange)">Mg transfer reaction (halogen–Mg exchange)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=10" title="Edit section: Mg transfer reaction (halogen–Mg exchange)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An alternative preparation of Grignard reagents involves transfer of Mg from a preformed Grignard reagent to an organic halide.  This method offers the advantage that the Mg transfer tolerates many functional groups.  A typical reaction involves isopropylmagnesium chloride and aryl bromide or iodides.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Reactions_of_Grignard_reagents">Reactions of Grignard reagents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=11" title="Edit section: Reactions of Grignard reagents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="With_carbonyl_compounds">With carbonyl compounds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=12" title="Edit section: With carbonyl compounds">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Grignard reagents react with a variety of <a class="mw-redirect" href="/wiki/Carbonyl" title="Carbonyl">carbonyl</a> derivatives.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup>
+</p>
+<div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Grignard_with_carbonyl.png" title="Reactions of Grignard reagents with carbonyls"><img alt="Reactions of Grignard reagents with carbonyls" data-file-height="1163" data-file-width="1730" height="403" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Grignard_with_carbonyl.png/600px-Grignard_with_carbonyl.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Grignard_with_carbonyl.png/900px-Grignard_with_carbonyl.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Grignard_with_carbonyl.png/1200px-Grignard_with_carbonyl.png 2x" width="600"/></a></div></div>
+<p>The most common application of Grignard reagents is the alkylation of aldehydes and ketones, i.e. the Grignard reaction:<sup class="reference" id="cite_ref-Haugan1997_23-0"><a href="#cite_note-Haugan1997-23">[23]</a></sup>
+</p>
+<div class="center"><div class="floatnone"><a class="image" href="/wiki/File:GrignardReactionVinylation.png" title="Reaction of CH3C(=O)CH(OCH3)2 with H2C=CHMgBr"><img alt="Reaction of CH3C(=O)CH(OCH3)2 with H2C=CHMgBr" data-file-height="426" data-file-width="1614" height="106" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/GrignardReactionVinylation.png/400px-GrignardReactionVinylation.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/GrignardReactionVinylation.png/600px-GrignardReactionVinylation.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/GrignardReactionVinylation.png/800px-GrignardReactionVinylation.png 2x" width="400"/></a></div></div>
+<p>Note that the <a href="/wiki/Acetal" title="Acetal">acetal</a> function (a protected carbonyl) does not react.
+</p><p>Such reactions usually involve an aqueous acidic workup, though this step is rarely shown in reaction schemes.  In cases where the Grignard reagent is adding to an aldehyde or a <a class="mw-redirect" href="/wiki/Prochiral" title="Prochiral">prochiral</a> ketone, the <a href="/wiki/Asymmetric_induction" title="Asymmetric induction">Felkin-Anh model or Cram's Rule</a> can usually predict which stereoisomer will be formed.  With easily deprotonated 1,3-<a href="/wiki/Diketone" title="Diketone">diketones</a> and related acidic substrates, the Grignard reagent RMgX functions merely as a base, giving the <a class="mw-redirect" href="/wiki/Enolate" title="Enolate">enolate</a> anion and liberating the alkane RH.
+</p><p>Grignard reagents are <a href="/wiki/Nucleophile" title="Nucleophile">nucleophiles</a> in <a class="mw-redirect" href="/wiki/Nucleophilic_aliphatic_substitution" title="Nucleophilic aliphatic substitution">nucleophilic aliphatic substitutions</a> for instance with <a class="mw-redirect" href="/wiki/Alkyl_halide" title="Alkyl halide">alkyl halides</a> in a key step in industrial <a href="/wiki/Naproxen" title="Naproxen">Naproxen</a> production:
+</p>
+<div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Naproxen_synthesis.png" title="Naproxen synthesis"><img alt="Naproxen synthesis" data-file-height="118" data-file-width="800" height="81" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Naproxen_synthesis.png/550px-Naproxen_synthesis.png" srcset="//upload.wikimedia.org/wikipedia/commons/9/95/Naproxen_synthesis.png 1.5x" width="550"/></a></div></div>
+<div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Grignard_with_others.png" title="Reactions of Grignard reagents with various electrophiles"><img alt="Reactions of Grignard reagents with various electrophiles" data-file-height="1166" data-file-width="1470" height="397" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Grignard_with_others.png/500px-Grignard_with_others.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Grignard_with_others.png/750px-Grignard_with_others.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Grignard_with_others.png/1000px-Grignard_with_others.png 2x" width="500"/></a></div></div>
+<h3><span class="mw-headline" id="Reactions_as_a_base">Reactions as a base</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=13" title="Edit section: Reactions as a base">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Grignard reagents serve as a base for protic substrates (this scheme does not show workup conditions, which typically includes water).  Grignard reagents are basic and react with alcohols, phenols, etc. to give <a href="/wiki/Alkoxide" title="Alkoxide">alkoxides</a> (ROMgBr). The phenoxide derivative is susceptible to formylation paraformaldehyde to give <a href="/wiki/Salicylaldehyde" title="Salicylaldehyde">salicylaldehyde</a>.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup>
+</p>
+<h4><span id="Formation_of_bonds_to_B.2C_Si.2C_P.2C_Sn"></span><span class="mw-headline" id="Formation_of_bonds_to_B,_Si,_P,_Sn">Formation of bonds to B, Si, P, Sn</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=14" title="Edit section: Formation of bonds to B, Si, P, Sn">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Like <a class="mw-redirect" href="/wiki/Organolithium_compound" title="Organolithium compound">organolithium compounds</a>, Grignard reagents are useful for forming carbon–heteroatom bonds.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{matrix}{\ce {R4B-}}\\{\color {White}\scriptstyle {\ce {Et2O.BF3\ or\ NaBF4}}}{\Bigg \uparrow }\scriptstyle {\ce {Et2O.BF3\ or\ NaBF4}}\\{\ce {Ph2PR&lt;-[{\ce {Ph2PCl}}]RMgX-&gt;[{\ce {Bu3SnCl}}]Bu3SnR}}\\{\color {White}\scriptstyle {\ce {B(OMe)3}}}{\Bigg \downarrow }\scriptstyle {\ce {B(OMe)3}}\\{\ce {RB(OMe)2}}\end{matrix}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>R</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<msup>
+<mtext>B</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</msup>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle mathcolor="#FFFFFF">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>Et</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>O</mtext>
+<mo>⋅<!-- ⋅ --></mo>
+<msubsup>
+<mtext>BF</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext> </mtext>
+<mtext>or</mtext>
+<mtext> </mtext>
+<msubsup>
+<mtext>NaBF</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+</mrow>
+</mstyle>
+</mstyle>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo fence="true" maxsize="2.470em" minsize="2.470em" symmetric="true">↑</mo>
+</mrow>
+</mrow>
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>Et</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>O</mtext>
+<mo>⋅<!-- ⋅ --></mo>
+<msubsup>
+<mtext>BF</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext> </mtext>
+<mtext>or</mtext>
+<mtext> </mtext>
+<msubsup>
+<mtext>NaBF</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+</mrow>
+</mstyle>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>Ph</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>PR</mtext>
+<mrow class="MJX-TeXAtom-REL">
+<mover>
+<mo>←</mo>
+<mpadded lspace="0.389em" voffset=".15em" width="+0.556em">
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>Ph</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>PCl</mtext>
+</mrow>
+</mpadded>
+</mover>
+</mrow>
+<mtext>RMgX</mtext>
+<mrow class="MJX-TeXAtom-REL">
+<mover>
+<mo>→</mo>
+<mpadded lspace="0.278em" voffset=".15em" width="+0.611em">
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>Bu</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>SnCl</mtext>
+</mrow>
+</mpadded>
+</mover>
+</mrow>
+<msubsup>
+<mtext>Bu</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mtext>SnR</mtext>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle mathcolor="#FFFFFF">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mtext>OMe</mtext>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+</mrow>
+</mstyle>
+</mstyle>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo fence="true" maxsize="2.470em" minsize="2.470em" symmetric="true">↓</mo>
+</mrow>
+</mrow>
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mtext>OMe</mtext>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+</mrow>
+</mstyle>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>RB</mtext>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mtext>OMe</mtext>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{matrix}{\ce {R4B-}}\\{\color {White}\scriptstyle {\ce {Et2O.BF3\ or\ NaBF4}}}{\Bigg \uparrow }\scriptstyle {\ce {Et2O.BF3\ or\ NaBF4}}\\{\ce {Ph2PR&lt;-[{\ce {Ph2PCl}}]RMgX-&gt;[{\ce {Bu3SnCl}}]Bu3SnR}}\\{\color {White}\scriptstyle {\ce {B(OMe)3}}}{\Bigg \downarrow }\scriptstyle {\ce {B(OMe)3}}\\{\ce {RB(OMe)2}}\end{matrix}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{matrix}{\ce {R4B-}}\\{\color {White}\scriptstyle {\ce {Et2O.BF3\ or\ NaBF4}}}{\Bigg \uparrow }\scriptstyle {\ce {Et2O.BF3\ or\ NaBF4}}\\{\ce {Ph2PR&lt;-[{\ce {Ph2PCl}}]RMgX-&gt;[{\ce {Bu3SnCl}}]Bu3SnR}}\\{\color {White}\scriptstyle {\ce {B(OMe)3}}}{\Bigg \downarrow }\scriptstyle {\ce {B(OMe)3}}\\{\ce {RB(OMe)2}}\end{matrix}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e437b60e37160b69a20e287dba0820ae949a6a4d" style="vertical-align: -12.005ex; width:40.203ex; height:25.176ex;" title="Reactions of Grignard reagents with non carbon electrophiles"/></span></dd></dl>
+<h4><span class="mw-headline" id="Reaction_with_transition_metal_halides">Reaction with transition metal halides</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=15" title="Edit section: Reaction with transition metal halides">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Grignard reagents react with many metal-based electrophiles.  For example, they undergo <a class="mw-redirect" href="/wiki/Transmetallation" title="Transmetallation">transmetallation</a> with <a href="/wiki/Cadmium_chloride" title="Cadmium chloride">cadmium chloride</a> (CdCl<sub>2</sub>) to give <a href="/wiki/Organocadmium_compound" title="Organocadmium compound">dialkylcadmium</a>:<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>
+</p>
+<dl><dd>2 RMgX + CdCl<sub>2</sub> → R<sub>2</sub>Cd + 2 Mg(X)Cl</dd></dl>
+<p>Dialkylcadmium reagents are used for preparation of ketones from <a class="mw-redirect" href="/wiki/Acyl_halides" title="Acyl halides">acyl halides</a>:
+</p>
+<dl><dd>2 R'C(O)Cl + R<sub>2</sub>Cd  →   2 R'C(O)R  +  CdCl<sub>2</sub></dd></dl>
+<h3><span class="mw-headline" id="With_organic_halides">With organic halides</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=16" title="Edit section: With organic halides">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Grignard reagents do <i>not</i> typically react with organic halides, in contrast with their high reactivity with other main group halides.  In the presence of metal catalysts, however, Grignard reagents participate in C-C <a href="/wiki/Coupling_reaction" title="Coupling reaction">coupling reactions</a>. For example, nonylmagnesium bromide reacts with methyl <i>p</i>-chlorobenzoate to give <i>p</i>-nonylbenzoic acid, in the presence of <a href="/wiki/Tris(acetylacetonato)iron(III)" title="Tris(acetylacetonato)iron(III)">Tris(acetylacetonato)iron(III)</a> (Fe(acac)<sub>3</sub>), after workup with <a href="/wiki/Sodium_hydroxide" title="Sodium hydroxide">NaOH</a> to <a href="/wiki/Hydrolysis" title="Hydrolysis">hydrolyze</a> the <a href="/wiki/Ester" title="Ester">ester</a>, shown as follows. Without the Fe(acac)<sub>3</sub>, the Grignard reagent would attack the <a href="/wiki/Ester" title="Ester">ester</a> <a href="/wiki/Functional_group" title="Functional group">group</a> over the <a href="/wiki/Aryl_halide" title="Aryl halide">aryl halide</a>.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup>
+</p>
+<div class="center"><div class="floatnone"><a class="image" href="/wiki/File:4nonylbenzoicacidSynthesis.svg" title="4-nonylbenzoicacid synthesis using a grignard reagent"><img alt="4-nonylbenzoicacid synthesis using a grignard reagent" data-file-height="154" data-file-width="521" height="154" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/4nonylbenzoicacidSynthesis.svg/521px-4nonylbenzoicacidSynthesis.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/4nonylbenzoicacidSynthesis.svg/782px-4nonylbenzoicacidSynthesis.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/4nonylbenzoicacidSynthesis.svg/1042px-4nonylbenzoicacidSynthesis.svg.png 2x" width="521"/></a></div></div>
+<p>For the coupling of aryl halides with aryl Grignard reagents, <a class="mw-redirect" href="/wiki/Nickel_chloride" title="Nickel chloride">nickel chloride</a> in <a href="/wiki/Tetrahydrofuran" title="Tetrahydrofuran">tetrahydrofuran</a> (THF) is also a good catalyst. Additionally, an effective catalyst for the couplings of alkyl halides is <a class="new" href="/w/index.php?title=Dilithium_tetrachlorocuprate&amp;action=edit&amp;redlink=1" title="Dilithium tetrachlorocuprate (page does not exist)">dilithium tetrachlorocuprate</a> (Li<sub>2</sub>CuCl<sub>4</sub>), prepared by mixing <a href="/wiki/Lithium_chloride" title="Lithium chloride">lithium chloride</a> (LiCl) and <a href="/wiki/Copper(II)_chloride" title="Copper(II) chloride">copper(II) chloride</a> (CuCl<sub>2</sub>) in THF. The <a class="mw-redirect" href="/wiki/Kumada-Corriu_coupling" title="Kumada-Corriu coupling">Kumada-Corriu coupling</a> gives access to [substituted] <a href="/wiki/Styrene" title="Styrene">styrenes</a>.
+</p>
+<h3><span class="mw-headline" id="Oxidation">Oxidation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=17" title="Edit section: Oxidation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Treatment of a Grignard reagent with oxygen gives the magnesium organoperoxide. Hydrolysis of this material yields <a class="mw-redirect" href="/wiki/Hydroperoxide" title="Hydroperoxide">hydroperoxides</a> or alcohol.  These reactions involve <a href="/wiki/Radical_(chemistry)" title="Radical (chemistry)">radical</a> intermediates.
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{array}{lcrll}{\ce {{R-MgX}+ O2 -&gt;}}\ {\color {Red}{\ce {{R.}+ O2^{.-}}}}+{\ce {MgX+ -&gt;}}&amp;{\ce {R-O-O-MgX}}&amp;{\color {Gray}+\ {\ce {H3O+}}}&amp;{\ce {-&gt; {R-O-O-H}}}&amp;{\color {Gray}+\ {\ce {{HO-MgX}+ H+}}}\\&amp;{\Bigg \downarrow }{\ce {R-MgX}}\\&amp;{\ce {R-O-MgX}}&amp;{\color {Gray}+\ {\ce {H3O+}}}&amp;{\ce {-&gt; {R-O-H}}}&amp;{\color {Gray}+\ {\ce {{HO-MgX}+ H+}}}\\\end{array}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="left center right left left" columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>R</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>MgX</mtext>
+</mrow>
+<mo>+</mo>
+<msubsup>
+<mtext>O</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+</mrow>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle mathcolor="#ED1B23">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>R</mtext>
+<mo>⋅<!-- ⋅ --></mo>
+</mrow>
+<mo>+</mo>
+<msubsup>
+<mtext>O</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+</mrow>
+</msubsup>
+</mrow>
+</mstyle>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mtext>MgX</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+</mrow>
+</mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>R</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>O</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>O</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>MgX</mtext>
+</mrow>
+</mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle mathcolor="#949698">
+<mo>+</mo>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<msup>
+<mtext>O</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+</mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>R</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>O</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>O</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>H</mtext>
+</mrow>
+</mrow>
+</mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle mathcolor="#949698">
+<mo>+</mo>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>MgX</mtext>
+</mrow>
+<mo>+</mo>
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mo fence="true" maxsize="2.470em" minsize="2.470em" symmetric="true">↓</mo>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>R</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>MgX</mtext>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>R</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>O</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>MgX</mtext>
+</mrow>
+</mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle mathcolor="#949698">
+<mo>+</mo>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace depth=".2em" height="0pt" width="0pt"></mspace>
+</mrow>
+</msubsup>
+<msup>
+<mtext>O</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+</mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>R</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>O</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>H</mtext>
+</mrow>
+</mrow>
+</mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle mathcolor="#949698">
+<mo>+</mo>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>HO</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+</mrow>
+<mtext>MgX</mtext>
+</mrow>
+<mo>+</mo>
+<msup>
+<mtext>H</mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+</mstyle>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{array}{lcrll}{\ce {{R-MgX}+ O2 -&gt;}}\ {\color {Red}{\ce {{R.}+ O2^{.-}}}}+{\ce {MgX+ -&gt;}}&amp;{\ce {R-O-O-MgX}}&amp;{\color {Gray}+\ {\ce {H3O+}}}&amp;{\ce {-&gt; {R-O-O-H}}}&amp;{\color {Gray}+\ {\ce {{HO-MgX}+ H+}}}\\&amp;{\Bigg \downarrow }{\ce {R-MgX}}\\&amp;{\ce {R-O-MgX}}&amp;{\color {Gray}+\ {\ce {H3O+}}}&amp;{\ce {-&gt; {R-O-H}}}&amp;{\color {Gray}+\ {\ce {{HO-MgX}+ H+}}}\\\end{array}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{array}{lcrll}{\ce {{R-MgX}+ O2 -&gt;}}\ {\color {Red}{\ce {{R.}+ O2^{.-}}}}+{\ce {MgX+ -&gt;}}&amp;{\ce {R-O-O-MgX}}&amp;{\color {Gray}+\ {\ce {H3O+}}}&amp;{\ce {-&gt; {R-O-O-H}}}&amp;{\color {Gray}+\ {\ce {{HO-MgX}+ H+}}}\\&amp;{\Bigg \downarrow }{\ce {R-MgX}}\\&amp;{\ce {R-O-MgX}}&amp;{\color {Gray}+\ {\ce {H3O+}}}&amp;{\ce {-&gt; {R-O-H}}}&amp;{\color {Gray}+\ {\ce {{HO-MgX}+ H+}}}\\\end{array}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a8c7cb12ae93ae7b8a03f17637aa8269ae193b86" style="vertical-align: -5.931ex; margin-bottom: -0.24ex; width:112.261ex; height:13.509ex;" title="Grignard oxygen oxidation pathways"/></span></dd></dl>
+<p>The simple oxidation of Grignard reagents to give alcohols is of little practical import as yields are generally poor. In contrast, two-step sequence via a borane (<i>vide supra</i>) that is subsequently oxidized to the alcohol with hydrogen peroxide is of synthetic utility.
+</p><p>The synthetic utility of Grignard oxidations can be increased by a reaction of Grignard reagents with oxygen in presence of an <a href="/wiki/Alkene" title="Alkene">alkene</a> to an ethylene extended <a href="/wiki/Alcohol" title="Alcohol">alcohol</a>.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup>  This modification requires <a href="/wiki/Aryl" title="Aryl">aryl</a> or <a href="/wiki/Vinyl_group" title="Vinyl group">vinyl</a> Grignards. Adding just the Grignard and the alkene does not result in a reaction demonstrating that the presence of oxygen is essential. The only drawback is the requirement of at least two equivalents of Grignard although this can partly be circumvented by the use of a dual Grignard system with a cheap reducing Grignard such as n-butylmagnesium bromide.
+</p>
+<div class="center"><div class="floatnone"><a class="image" href="/wiki/File:Grignard_oxidation_example.png" title="Grignard oxygen oxidation example"><img alt="Grignard oxygen oxidation example" data-file-height="206" data-file-width="615" height="134" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Grignard_oxidation_example.png/400px-Grignard_oxidation_example.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Grignard_oxidation_example.png/600px-Grignard_oxidation_example.png 1.5x, //upload.wikimedia.org/wikipedia/commons/6/67/Grignard_oxidation_example.png 2x" width="400"/></a></div></div>
+<h3><span class="mw-headline" id="Elimination">Elimination</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=18" title="Edit section: Elimination">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the <a href="/wiki/Boord_olefin_synthesis" title="Boord olefin synthesis">Boord olefin synthesis</a>, the addition of magnesium to certain β-haloethers results in an <a href="/wiki/Elimination_reaction" title="Elimination reaction">elimination reaction</a> to the alkene. This reaction can limit the utility of Grignard reactions.
+</p>
+<div class="center"><div class="floatnone"><a class="image" href="/wiki/File:BoordReactionOverview.png" title="Boord olefin synthesis, X = Br, I, M = Mg, Zn"><img alt="Boord olefin synthesis, X = Br, I, M = Mg, Zn" data-file-height="142" data-file-width="683" height="62" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/BoordReactionOverview.png/300px-BoordReactionOverview.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/BoordReactionOverview.png/450px-BoordReactionOverview.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/BoordReactionOverview.png/600px-BoordReactionOverview.png 2x" width="300"/></a></div></div>
+<h2><span class="mw-headline" id="Degradation_of_Grignard_reagents">Degradation of Grignard reagents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=19" title="Edit section: Degradation of Grignard reagents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At one time, the formation and hydrolysis of Grignard reagents was used in the determination of the number of halogen atoms in an <a href="/wiki/Organic_compound" title="Organic compound">organic compound</a>.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup> In modern usage Grignard degradation is used in the chemical analysis of certain triacylglycerols.<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Industrial_use">Industrial use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=20" title="Edit section: Industrial use">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An example of the Grignard reaction is a key step in the (non-stereoselective) industrial production of <a href="/wiki/Tamoxifen" title="Tamoxifen">Tamoxifen</a><sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup> (currently used for the treatment of estrogen receptor positive breast cancer in women):<sup class="reference" id="cite_ref-Jordan_1993_31-0"><a href="#cite_note-Jordan_1993-31">[31]</a></sup>
+</p>
+<div class="center"><div class="floatnone"><a class="image" href="/wiki/File:TamoxifenSynthesisGrignard.svg" title="Tamoxifen production"><img alt="Tamoxifen production" data-file-height="250" data-file-width="425" height="235" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/TamoxifenSynthesisGrignard.svg/400px-TamoxifenSynthesisGrignard.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/TamoxifenSynthesisGrignard.svg/600px-TamoxifenSynthesisGrignard.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/TamoxifenSynthesisGrignard.svg/800px-TamoxifenSynthesisGrignard.svg.png 2x" width="400"/></a></div></div>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=21" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+<div class="thumb" style="width: 150px;"><div style="margin:25px auto;"><a class="image" href="/wiki/File:Grignard_reaction_experiment_01.jpg"><img alt="" data-file-height="800" data-file-width="960" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Grignard_reaction_experiment_01.jpg/120px-Grignard_reaction_experiment_01.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Grignard_reaction_experiment_01.jpg/180px-Grignard_reaction_experiment_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Grignard_reaction_experiment_01.jpg/240px-Grignard_reaction_experiment_01.jpg 2x" width="120"/></a></div></div>
+<div class="gallerytext">
+<p>Magnesium turnings are placed in a flask.
+</p>
+</div>
+</div></li>
+<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+<div class="thumb" style="width: 150px;"><div style="margin:25px auto;"><a class="image" href="/wiki/File:Grignard_reaction_experiment_02.jpg"><img alt="" data-file-height="800" data-file-width="960" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Grignard_reaction_experiment_02.jpg/120px-Grignard_reaction_experiment_02.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Grignard_reaction_experiment_02.jpg/180px-Grignard_reaction_experiment_02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Grignard_reaction_experiment_02.jpg/240px-Grignard_reaction_experiment_02.jpg 2x" width="120"/></a></div></div>
+<div class="gallerytext">
+<p>Tetrahydrofuran and a small piece of iodine are added.
+</p>
+</div>
+</div></li>
+<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+<div class="thumb" style="width: 150px;"><div style="margin:25px auto;"><a class="image" href="/wiki/File:Grignard_reaction_experiment_03.jpg"><img alt="" data-file-height="800" data-file-width="960" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Grignard_reaction_experiment_03.jpg/120px-Grignard_reaction_experiment_03.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Grignard_reaction_experiment_03.jpg/180px-Grignard_reaction_experiment_03.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Grignard_reaction_experiment_03.jpg/240px-Grignard_reaction_experiment_03.jpg 2x" width="120"/></a></div></div>
+<div class="gallerytext">
+<p>A solution of alkyl bromide is added while heating.
+</p>
+</div>
+</div></li>
+<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+<div class="thumb" style="width: 150px;"><div style="margin:25px auto;"><a class="image" href="/wiki/File:Grignard_reaction_experiment_04.jpg"><img alt="" data-file-height="800" data-file-width="960" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grignard_reaction_experiment_04.jpg/120px-Grignard_reaction_experiment_04.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grignard_reaction_experiment_04.jpg/180px-Grignard_reaction_experiment_04.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Grignard_reaction_experiment_04.jpg/240px-Grignard_reaction_experiment_04.jpg 2x" width="120"/></a></div></div>
+<div class="gallerytext">
+<p>After completion of the addition, the mixture is heated for a while.
+</p>
+</div>
+</div></li>
+<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+<div class="thumb" style="width: 150px;"><div style="margin:25px auto;"><a class="image" href="/wiki/File:Grignard_reaction_experiment_05.jpg"><img alt="" data-file-height="800" data-file-width="960" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Grignard_reaction_experiment_05.jpg/120px-Grignard_reaction_experiment_05.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Grignard_reaction_experiment_05.jpg/180px-Grignard_reaction_experiment_05.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Grignard_reaction_experiment_05.jpg/240px-Grignard_reaction_experiment_05.jpg 2x" width="120"/></a></div></div>
+<div class="gallerytext">
+<p>Formation of the Grignard reagent is complete. A small amount of magnesium still remains in the flask.
+</p>
+</div>
+</div></li>
+<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+<div class="thumb" style="width: 150px;"><div style="margin:25px auto;"><a class="image" href="/wiki/File:Grignard_reaction_experiment_06.jpg"><img alt="" data-file-height="800" data-file-width="960" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Grignard_reaction_experiment_06.jpg/120px-Grignard_reaction_experiment_06.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Grignard_reaction_experiment_06.jpg/180px-Grignard_reaction_experiment_06.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Grignard_reaction_experiment_06.jpg/240px-Grignard_reaction_experiment_06.jpg 2x" width="120"/></a></div></div>
+<div class="gallerytext">
+<p>The Grignard reagent thus prepared is cooled to <span class="nowrap">0°C</span> before the addition of the carbonyl compound. The solution becomes cloudy as the Grignard reagent precipitates out.
+</p>
+</div>
+</div></li>
+<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+<div class="thumb" style="width: 150px;"><div style="margin:25px auto;"><a class="image" href="/wiki/File:Grignard_reaction_experiment_07.jpg"><img alt="" data-file-height="800" data-file-width="960" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Grignard_reaction_experiment_07.jpg/120px-Grignard_reaction_experiment_07.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Grignard_reaction_experiment_07.jpg/180px-Grignard_reaction_experiment_07.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Grignard_reaction_experiment_07.jpg/240px-Grignard_reaction_experiment_07.jpg 2x" width="120"/></a></div></div>
+<div class="gallerytext">
+<p>A solution of carbonyl compound is added to the Grignard reagent.
+</p>
+</div>
+</div></li>
+<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+<div class="thumb" style="width: 150px;"><div style="margin:25px auto;"><a class="image" href="/wiki/File:Grignard_reaction_experiment_08.jpg"><img alt="" data-file-height="800" data-file-width="960" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Grignard_reaction_experiment_08.jpg/120px-Grignard_reaction_experiment_08.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Grignard_reaction_experiment_08.jpg/180px-Grignard_reaction_experiment_08.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Grignard_reaction_experiment_08.jpg/240px-Grignard_reaction_experiment_08.jpg 2x" width="120"/></a></div></div>
+<div class="gallerytext">
+<p>The solution is warmed to room temperature. At this point the reaction is complete.
+</p>
+</div>
+</div></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=22" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Grignard_reactions" title="commons:Category:Grignard reactions">Grignard reactions</a></b></i>.</td></tr></tbody></table>
+<ul><li><a href="/wiki/Wittig_reaction" title="Wittig reaction">Wittig reaction</a></li>
+<li><a href="/wiki/Barbier_reaction" title="Barbier reaction">Barbier reaction</a></li>
+<li><a class="mw-redirect" href="/wiki/Bodroux-Chichibabin_aldehyde_synthesis" title="Bodroux-Chichibabin aldehyde synthesis">Bodroux-Chichibabin aldehyde synthesis</a></li>
+<li><a class="mw-redirect" href="/wiki/Fujimoto-Belleau_reaction" title="Fujimoto-Belleau reaction">Fujimoto-Belleau reaction</a></li>
+<li><a href="/wiki/Organolithium_reagent" title="Organolithium reagent">Organolithium reagents</a></li>
+<li><a href="/wiki/Sakurai_reaction" title="Sakurai reaction">Sakurai reaction</a></li>
+<li><a class="mw-redirect" href="/wiki/Indium_mediated_allylation" title="Indium mediated allylation">Indium mediated allylation</a></li>
+<li><a href="/wiki/Alkynylation" title="Alkynylation">Alkynylation</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=23" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFSmith,_Michael_B.March,_Jerry2007">Smith, Michael B.; <a href="/wiki/Jerry_March" title="Jerry March">March, Jerry</a> (2007), <a class="external text" href="https://books.google.com/books?id=JDR-nZpojeEC&amp;printsec=frontcover" rel="nofollow"><i>Advanced Organic Chemistry: Reactions, Mechanisms, and Structure</i></a> (6th ed.), New York: Wiley-Interscience, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-471-72091-7" title="Special:BookSources/0-471-72091-7">0-471-72091-7</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Advanced+Organic+Chemistry%3A+Reactions%2C+Mechanisms%2C+and+Structure&amp;rft.place=New+York&amp;rft.edition=6th&amp;rft.pub=Wiley-Interscience&amp;rft.date=2007&amp;rft.isbn=0-471-72091-7&amp;rft.au=Smith%2C+Michael+B.&amp;rft.au=March%2C+Jerry&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DJDR-nZpojeEC%26printsec%3Dfrontcover&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.mhhe.com/physsci/chemistry/carey/student/olc/ch19reactioncarboxylicacids.html" rel="nofollow">Chapter 19: Carboxylic Acids</a>. Organic Chemistry 4e Carey. mhhe.com</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Shirley, D. A. (1954). "The Synthesis of Ketones from Acid Halides and Organometallic Compounds of Magnesium, Zinc, and Cadmium". <i><a class="mw-redirect" href="/wiki/Org._React." title="Org. React.">Org. React.</a></i> <b>8</b>: 28–58.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Org.+React.&amp;rft.atitle=The+Synthesis+of+Ketones+from+Acid+Halides+and+Organometallic+Compounds+of+Magnesium%2C+Zinc%2C+and+Cadmium&amp;rft.volume=8&amp;rft.pages=28-58&amp;rft.date=1954&amp;rft.aulast=Shirley&amp;rft.aufirst=D.+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Huryn, D. M. (1991). "Carbanions of Alkali and Alkaline Earth Cations: (ii) Selectivity of Carbonyl Addition Reactions".  In <a href="/wiki/Barry_Trost" title="Barry Trost">Trost, B. M.</a>; <a href="/wiki/Ian_Fleming_(chemist)" title="Ian Fleming (chemist)">Fleming, I.</a> <i>Comprehensive Organic Synthesis, Volume 1: Additions to C—X π-Bonds, Part 1</i>. <a class="mw-redirect" href="/wiki/Elsevier_Science" title="Elsevier Science">Elsevier Science</a>. pp. 49–75. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2FB978-0-08-052349-1.00002-0" rel="nofollow">10.1016/B978-0-08-052349-1.00002-0</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-08-052349-1" title="Special:BookSources/978-0-08-052349-1">978-0-08-052349-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Carbanions+of+Alkali+and+Alkaline+Earth+Cations%3A+%28ii%29+Selectivity+of+Carbonyl+Addition+Reactions&amp;rft.btitle=Comprehensive+Organic+Synthesis%2C+Volume+1%3A+Additions+to+C%26mdash%3BX+%26pi%3B-Bonds%2C+Part+1&amp;rft.pages=49-75&amp;rft.pub=Elsevier+Science&amp;rft.date=1991&amp;rft_id=info%3Adoi%2F10.1016%2FB978-0-08-052349-1.00002-0&amp;rft.isbn=978-0-08-052349-1&amp;rft.aulast=Huryn&amp;rft.aufirst=D.+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">IUPAC. Compendium of Chemical Terminology, 2nd ed. (the "Gold Book"). Compiled by A. D. McNaught and A. Wilkinson. Blackwell Scientific Publications, Oxford (1997). <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-9678550-9-8" title="Special:BookSources/0-9678550-9-8">0-9678550-9-8</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="https://doi.org/10.1351%2Fgoldbook" rel="nofollow">10.1351/goldbook</a>.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Victor_Grignard" title="Victor Grignard">Grignard, V.</a> (1900). <a class="external text" href="http://gallica.bnf.fr/ark:/12148/bpt6k3086n/f1322.table" rel="nofollow">"Sur quelques nouvelles combinaisons organométaliques du magnésium et leur application à des synthèses d'alcools et d'hydrocabures"</a>. <i>Compt. Rend</i>. <b>130</b>: 1322–25.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Compt.+Rend.&amp;rft.atitle=Sur+quelques+nouvelles+combinaisons+organom%C3%A9taliques+du+magn%C3%A9sium+et+leur+application+%C3%A0+des+synth%C3%A8ses+d%27alcools+et+d%27hydrocabures&amp;rft.volume=130&amp;rft.pages=1322-25&amp;rft.date=1900&amp;rft.au=Grignard%2C+V.&amp;rft_id=http%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k3086n%2Ff1322.table&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Maruyama, K.; Katagiri, T. (1989). "Mechanism of the Grignard reaction". <i>J. Phys. Org. Chem</i>. <b>2</b> (3): 205–213. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fpoc.610020303" rel="nofollow">10.1002/poc.610020303</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Phys.+Org.+Chem.&amp;rft.atitle=Mechanism+of+the+Grignard+reaction&amp;rft.volume=2&amp;rft.issue=3&amp;rft.pages=205-213&amp;rft.date=1989&amp;rft_id=info%3Adoi%2F10.1002%2Fpoc.610020303&amp;rft.aulast=Maruyama&amp;rft.aufirst=K.&amp;rft.au=Katagiri%2C+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Garst, J. F.; Ungvary, F. "Mechanism of Grignard reagent formation". In <i>Grignard Reagents</i>; Richey, R. S., Ed.; John Wiley &amp; Sons: New York, 2000; pp 185–275. <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-471-99908-3" title="Special:BookSources/0-471-99908-3">0-471-99908-3</a>.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><i>Advanced Organic chemistry Part B: Reactions and Synthesis</i> F.A. Carey, R.J. Sundberg 2nd Ed. 1983</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rogers, H. R.; Hill, C. L.; Fujiwara, Y.; Rogers, R. J.; Mitchell, H. L.; Whitesides, G. M. (1980). "Mechanism of formation of Grignard reagents. Kinetics of reaction of alkyl halides in diethyl ether with magnesium". <i>Journal of the American Chemical Society</i>. <b>102</b> (1): 217. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fja00521a034" rel="nofollow">10.1021/ja00521a034</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=Mechanism+of+formation+of+Grignard+reagents.+Kinetics+of+reaction+of+alkyl+halides+in+diethyl+ether+with+magnesium&amp;rft.volume=102&amp;rft.issue=1&amp;rft.pages=217&amp;rft.date=1980&amp;rft_id=info%3Adoi%2F10.1021%2Fja00521a034&amp;rft.aulast=Rogers&amp;rft.aufirst=H.+R.&amp;rft.au=Hill%2C+C.+L.&amp;rft.au=Fujiwara%2C+Y.&amp;rft.au=Rogers%2C+R.+J.&amp;rft.au=Mitchell%2C+H.+L.&amp;rft.au=Whitesides%2C+G.+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">De Boer, H.J.R.; Akkerman, O.S; Bickelhaupt, F. (1988). "Carbanions as intermediates in the synthesis of Grignard Reagents". <i>Angew. Chem. Int. Ed</i>. <b>27</b> (5): 687–89. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fanie.198806871" rel="nofollow">10.1002/anie.198806871</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Angew.+Chem.+Int.+Ed.&amp;rft.atitle=Carbanions+as+intermediates+in+the+synthesis+of+Grignard+Reagents&amp;rft.volume=27&amp;rft.issue=5&amp;rft.pages=687-89&amp;rft.date=1988&amp;rft_id=info%3Adoi%2F10.1002%2Fanie.198806871&amp;rft.aulast=De+Boer&amp;rft.aufirst=H.J.R.&amp;rft.au=Akkerman%2C+O.S&amp;rft.au=Bickelhaupt%2C+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Van Klink, G.P.M.; de Boer, H.J.R; Schat, G.; Akkerman, O.S.; Bickelhaupt, F.; Spek, A. (2002). "Carbanions as Intermediates in the Formation of Grignard Reagents". <i>Organometallics</i>. <b>21</b> (10): 2119–35. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fom011083a" rel="nofollow">10.1021/om011083a</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Organometallics&amp;rft.atitle=Carbanions+as+Intermediates+in+the+Formation+of+Grignard+Reagents&amp;rft.volume=21&amp;rft.issue=10&amp;rft.pages=2119-35&amp;rft.date=2002&amp;rft_id=info%3Adoi%2F10.1021%2Fom011083a&amp;rft.aulast=Van+Klink&amp;rft.aufirst=G.P.M.&amp;rft.au=de+Boer%2C+H.J.R&amp;rft.au=Schat%2C+G.&amp;rft.au=Akkerman%2C+O.S.&amp;rft.au=Bickelhaupt%2C+F.&amp;rft.au=Spek%2C+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Silverman, G. S., Rakita, P. E. (eds.) (1996) <i>Handbook of Grignard Reagents</i>. CRC Press. <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0824795458" title="Special:BookSources/0824795458">0824795458</a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Goebel, M. T.; Marvel, C. S. (1933). "The Oxidation of Grignard Reagents". <i>Journal of the American Chemical Society</i>. <b>55</b> (4): 1693–1696. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fja01331a065" rel="nofollow">10.1021/ja01331a065</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=The+Oxidation+of+Grignard+Reagents&amp;rft.volume=55&amp;rft.issue=4&amp;rft.pages=1693-1696&amp;rft.date=1933&amp;rft_id=info%3Adoi%2F10.1021%2Fja01331a065&amp;rft.aulast=Goebel&amp;rft.aufirst=M.+T.&amp;rft.au=Marvel%2C+C.+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Smith, David H. (1999). "Grignard Reactions in "Wet" Ether". <i>Journal of Chemical Education</i>. <b>76</b> (10): 1427. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1999JChEd..76.1427S" rel="nofollow">1999JChEd..76.1427S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fed076p1427" rel="nofollow">10.1021/ed076p1427</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Chemical+Education&amp;rft.atitle=Grignard+Reactions+in+%22Wet%22+Ether&amp;rft.volume=76&amp;rft.issue=10&amp;rft.pages=1427&amp;rft.date=1999&amp;rft_id=info%3Adoi%2F10.1021%2Fed076p1427&amp;rft_id=info%3Abibcode%2F1999JChEd..76.1427S&amp;rft.aulast=Smith&amp;rft.aufirst=David+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Lai_Yee_Hing" title="Lai Yee Hing">Lai Yee Hing</a> (1981). "Grignard Reagents from Chemically Activated Magnesium". <i><a href="/wiki/Synthesis_(journal)" title="Synthesis (journal)">Synthesis</a></i>. <b>1981</b> (9): 585–604. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1055%2Fs-1981-29537" rel="nofollow">10.1055/s-1981-29537</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Synthesis&amp;rft.atitle=Grignard+Reagents+from+Chemically+Activated+Magnesium&amp;rft.volume=1981&amp;rft.issue=9&amp;rft.pages=585-604&amp;rft.date=1981&amp;rft_id=info%3Adoi%2F10.1055%2Fs-1981-29537&amp;rft.au=Lai+Yee+Hing&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation book">Clayden, Jonathan; Greeves, Nick (2005). <i>Organic chemistry</i>. Oxford: Oxford Univ. Press. p. 212. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-19-850346-0" title="Special:BookSources/978-0-19-850346-0">978-0-19-850346-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Organic+chemistry&amp;rft.place=Oxford&amp;rft.pages=212&amp;rft.pub=Oxford+Univ.+Press&amp;rft.date=2005&amp;rft.isbn=978-0-19-850346-0&amp;rft.au=Clayden%2C+Jonathan&amp;rft.au=Greeves%2C+Nick&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Krasovskiy, Arkady; Knochel, Paul. "Convenient Titration Method for Organometallic Zinc, Magnesium, and Lanthanide Reagents". <i>Synthesis</i>. <b>2006</b>: 890–891. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1055%2Fs-2006-926345" rel="nofollow">10.1055/s-2006-926345</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Synthesis&amp;rft.atitle=Convenient+Titration+Method+for+Organometallic+Zinc%2C+Magnesium%2C+and+Lanthanide+Reagents&amp;rft.volume=2006&amp;rft.pages=890-891&amp;rft_id=info%3Adoi%2F10.1055%2Fs-2006-926345&amp;rft.aulast=Krasovskiy&amp;rft.aufirst=Arkady&amp;rft.au=Knochel%2C+Paul&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">Smith, David H. (1999). "Grignard Reactions in "Wet" Ether". <i>Journal of Chemical Education</i>. <b>76</b> (10): 1427. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1999JChEd..76.1427S" rel="nofollow">1999JChEd..76.1427S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fed076p1427" rel="nofollow">10.1021/ed076p1427</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Chemical+Education&amp;rft.atitle=Grignard+Reactions+in+%22Wet%22+Ether&amp;rft.volume=76&amp;rft.issue=10&amp;rft.pages=1427&amp;rft.date=1999&amp;rft_id=info%3Adoi%2F10.1021%2Fed076p1427&amp;rft_id=info%3Abibcode%2F1999JChEd..76.1427S&amp;rft.aulast=Smith&amp;rft.aufirst=David+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation book">Philip E. Rakita (1996). "5. Safe Handling Practices of Industrial Scale Grignard Ragents".  In Gary S. Silverman; Philip E. Rakita. <a class="external text" href="https://books.google.com/books?id=82CaxfY-uNkC&amp;pg=PA80" rel="nofollow"><i>Handbook of Grignard reagents</i></a> <span class="cs1-format">(<a href="/wiki/Google_Books" title="Google Books">Google Books</a> excerpt)</span>. <a href="/wiki/CRC_Press" title="CRC Press">CRC Press</a>. pp. 79–88. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8247-9545-8" title="Special:BookSources/0-8247-9545-8">0-8247-9545-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=5.+Safe+Handling+Practices+of+Industrial+Scale+Grignard+Ragents&amp;rft.btitle=Handbook+of+Grignard+reagents&amp;rft.pages=79-88&amp;rft.pub=CRC+Press&amp;rft.date=1996&amp;rft.isbn=0-8247-9545-8&amp;rft.au=Philip+E.+Rakita&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D82CaxfY-uNkC%26pg%3DPA80&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation journal">Knochel, P.; Dohle, W.; Gommermann, N.; Kneisel, F. F.; Kopp, F.; Korn, T.; Sapountzis, I.; Vu, V. A. (2003). "Highly Functionalized Organomagnesium Reagents Prepared through Halogen–Metal Exchange". <i>Angewandte Chemie International Edition</i>. <b>42</b>: 4302–4320. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fanie.200300579" rel="nofollow">10.1002/anie.200300579</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14502700" rel="nofollow">14502700</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Angewandte+Chemie+International+Edition&amp;rft.atitle=Highly+Functionalized+Organomagnesium+Reagents+Prepared+through+Halogen%E2%80%93Metal+Exchange&amp;rft.volume=42&amp;rft.pages=4302-4320&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1002%2Fanie.200300579&amp;rft_id=info%3Apmid%2F14502700&amp;rft.aulast=Knochel&amp;rft.aufirst=P.&amp;rft.au=Dohle%2C+W.&amp;rft.au=Gommermann%2C+N.&amp;rft.au=Kneisel%2C+F.+F.&amp;rft.au=Kopp%2C+F.&amp;rft.au=Korn%2C+T.&amp;rft.au=Sapountzis%2C+I.&amp;rft.au=Vu%2C+V.+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation journal">Henry Gilman and R. H. Kirby (1941). <a class="external text" href="http://www.orgsyn.org/demo.aspx?prep=cv1p0361" rel="nofollow">"Butyric acid, α-methyl-"</a>. <i><a href="/wiki/Organic_Syntheses" title="Organic Syntheses">Organic Syntheses</a></i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Organic+Syntheses&amp;rft.atitle=Butyric+acid%2C+%CE%B1-methyl-&amp;rft.date=1941&amp;rft.au=Henry+Gilman+and+R.+H.+Kirby&amp;rft_id=http%3A%2F%2Fwww.orgsyn.org%2Fdemo.aspx%3Fprep%3Dcv1p0361&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/>; <cite class="citation"><i>Collective Volume</i>, <b>1</b>, p. 361</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Collective+Volume&amp;rft.pages=361&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Haugan1997-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Haugan1997_23-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Haugan, Jarle André; Songe, Pål; Rømming, Christian; Rise, Frode; Hartshorn, Michael P.; Merchán, Manuela; Robinson, Ward T.; Roos, Björn O.; Vallance, Claire; Wood, Bryan R. (1997). <a class="external text" href="http://actachemscand.dk/pdf/acta_vol_51_p1096-1103.pdf" rel="nofollow">"Total Synthesis of C31-Methyl Ketone Apocarotenoids 2: The First Total Synthesis of (3R)-Triophaxanthin"</a> <span class="cs1-format">(PDF)</span>. <i>Acta Chemica Scandinavica</i>. <b>51</b>: 1096–1103. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.3891%2Facta.chem.scand.51-1096" rel="nofollow">10.3891/acta.chem.scand.51-1096</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-26</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Acta+Chemica+Scandinavica&amp;rft.atitle=Total+Synthesis+of+C31-Methyl+Ketone+Apocarotenoids+2%3A+The+First+Total+Synthesis+of+%283R%29-Triophaxanthin&amp;rft.volume=51&amp;rft.pages=1096-1103&amp;rft.date=1997&amp;rft_id=info%3Adoi%2F10.3891%2Facta.chem.scand.51-1096&amp;rft.aulast=Haugan&amp;rft.aufirst=Jarle+Andr%C3%A9&amp;rft.au=Songe%2C+P%C3%A5l&amp;rft.au=R%C3%B8mming%2C+Christian&amp;rft.au=Rise%2C+Frode&amp;rft.au=Hartshorn%2C+Michael+P.&amp;rft.au=Merch%C3%A1n%2C+Manuela&amp;rft.au=Robinson%2C+Ward+T.&amp;rft.au=Roos%2C+Bj%C3%B6rn+O.&amp;rft.au=Vallance%2C+Claire&amp;rft.au=Wood%2C+Bryan+R.&amp;rft_id=http%3A%2F%2Factachemscand.dk%2Fpdf%2Facta_vol_51_p1096-1103.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation journal">Peters, D. G.; Ji, C. (2006). "A Multistep Synthesis for an Advanced Undergraduate Organic Chemistry Laboratory". <i>Journal of Chemical Education</i>. <b>83</b> (2): 290. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fed083p290" rel="nofollow">10.1021/ed083p290</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Chemical+Education&amp;rft.atitle=A+Multistep+Synthesis+for+an+Advanced+Undergraduate+Organic+Chemistry+Laboratory&amp;rft.volume=83&amp;rft.issue=2&amp;rft.pages=290&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1021%2Fed083p290&amp;rft.aulast=Peters&amp;rft.aufirst=D.+G.&amp;rft.au=Ji%2C+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation book">"Unit 12 Aldehydes, Ketones and Carboxylic Acids". <a class="external text" href="http://ncertbooks.prashanthellina.com/class_12.Chemistry.ChemistryII/Unit%2012.pdf" rel="nofollow"><i>Chemistry Part II Textbook for class XII</i></a> <span class="cs1-format">(PDF)</span>. <b>2</b>. India: National Council of Educational Research and Training. 2010. p. 355. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/81-7450-716-7" title="Special:BookSources/81-7450-716-7">81-7450-716-7</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Unit+12+Aldehydes%2C+Ketones+and+Carboxylic+Acids&amp;rft.btitle=Chemistry+Part+II+Textbook+for+class+XII&amp;rft.place=India&amp;rft.pages=355&amp;rft.pub=National+Council+of+Educational+Research+and+Training&amp;rft.date=2010&amp;rft.isbn=81-7450-716-7&amp;rft_id=http%3A%2F%2Fncertbooks.prashanthellina.com%2Fclass_12.Chemistry.ChemistryII%2FUnit%252012.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation journal">A. Fürstner, A. Leitner, G. Seidel (2004). <a class="external text" href="http://www.orgsyn.org/demo.aspx?prep=v81p0033" rel="nofollow">"4-Nonylbenzoic Acid"</a>. <i><a href="/wiki/Organic_Syntheses" title="Organic Syntheses">Organic Syntheses</a></i>. <b>81</b>: 33–42.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Organic+Syntheses&amp;rft.atitle=4-Nonylbenzoic+Acid&amp;rft.volume=81&amp;rft.pages=33-42&amp;rft.date=2004&amp;rft.au=A.+F%C3%BCrstner%2C+A.+Leitner%2C+G.+Seidel&amp;rft_id=http%3A%2F%2Fwww.orgsyn.org%2Fdemo.aspx%3Fprep%3Dv81p0033&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>) </span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation journal">Youhei Nobe; Kyohei Arayama; Hirokazu Urabe (2005). "Air-Assisted Addition of Grignard Reagents to Olefins. A Simple Protocol for a Three-Component Coupling Process Yielding Alcohols". <i><a class="mw-redirect" href="/wiki/J._Am._Chem._Soc." title="J. Am. Chem. Soc.">J. Am. Chem. Soc.</a></i> <b>127</b> (51): 18006–18007. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fja055732b" rel="nofollow">10.1021/ja055732b</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16366543" rel="nofollow">16366543</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.atitle=Air-Assisted+Addition+of+Grignard+Reagents+to+Olefins.+A+Simple+Protocol+for+a+Three-Component+Coupling+Process+Yielding+Alcohols&amp;rft.volume=127&amp;rft.issue=51&amp;rft.pages=18006-18007&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1021%2Fja055732b&amp;rft_id=info%3Apmid%2F16366543&amp;rft.au=Youhei+Nobe&amp;rft.au=Kyohei+Arayama&amp;rft.au=Hirokazu+Urabe&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation journal">Steinkopf, Wilhelm; V. Petersdorff, Hans-JüRgen (1940). "Studien in der Thiophenreihe. LI. Atophanartige Derivate des Dithienyls und Diphenyls". <i><a class="mw-redirect" href="/wiki/Justus_Liebigs_Ann._Chem." title="Justus Liebigs Ann. Chem.">Justus Liebigs Ann. Chem.</a></i> <b>543</b>: 119–128. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fjlac.19405430110" rel="nofollow">10.1002/jlac.19405430110</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Justus+Liebigs+Ann.+Chem.&amp;rft.atitle=Studien+in+der+Thiophenreihe.+LI.+Atophanartige+Derivate+des+Dithienyls+und+Diphenyls&amp;rft.volume=543&amp;rft.pages=119-128&amp;rft.date=1940&amp;rft_id=info%3Adoi%2F10.1002%2Fjlac.19405430110&amp;rft.au=Steinkopf%2C+Wilhelm&amp;rft.au=V.+Petersdorff%2C+Hans-J%C3%BCRgen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation journal">Myher JJ; Kuksis A (February 1979). "Stereospecific analysis of triacylglycerols via racemic phosphatidylcholines and phospholipase C". <i>Can. J. Biochem</i>. <b>57</b> (2): 117–24. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1139%2Fo79-015" rel="nofollow">10.1139/o79-015</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/455112" rel="nofollow">455112</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Can.+J.+Biochem.&amp;rft.atitle=Stereospecific+analysis+of+triacylglycerols+via+racemic+phosphatidylcholines+and+phospholipase+C&amp;rft.volume=57&amp;rft.issue=2&amp;rft.pages=117-24&amp;rft.date=1979-02&amp;rft_id=info%3Adoi%2F10.1139%2Fo79-015&amp;rft_id=info%3Apmid%2F455112&amp;rft.au=Myher+JJ&amp;rft.au=Kuksis+A&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation book">Richey, Herman Glenn (2000). <i>Grignard Reagents: New Developments</i>. Wiley. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0471999083" title="Special:BookSources/0471999083">0471999083</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Grignard+Reagents%3A+New+Developments&amp;rft.pub=Wiley&amp;rft.date=2000&amp;rft.isbn=0471999083&amp;rft.au=Richey%2C+Herman+Glenn&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Jordan_1993-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jordan_1993_31-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jordan VC (1993). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2175926" rel="nofollow">"Fourteenth Gaddum Memorial Lecture. A current view of tamoxifen for the treatment and prevention of breast cancer"</a>. <i>Br J Pharmacol</i>. <b>110</b> (2): 507–17. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1111%2Fj.1476-5381.1993.tb13840.x" rel="nofollow">10.1111/j.1476-5381.1993.tb13840.x</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="cs1-lock-free" title="Freely accessible"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2175926" rel="nofollow">2175926</a></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/8242225" rel="nofollow">8242225</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Br+J+Pharmacol&amp;rft.atitle=Fourteenth+Gaddum+Memorial+Lecture.+A+current+view+of+tamoxifen+for+the+treatment+and+prevention+of+breast+cancer&amp;rft.volume=110&amp;rft.issue=2&amp;rft.pages=507-17&amp;rft.date=1993&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2175926&amp;rft_id=info%3Apmid%2F8242225&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1476-5381.1993.tb13840.x&amp;rft.au=Jordan+VC&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2175926&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Grignard_reaction&amp;action=edit&amp;section=24" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book">ed. by Gary S. Silverman .... (1996).  Rakita, Philip E.; Silverman, Gary, eds. <i>Handbook of Grignard reagents</i>. New York, N.Y: Marcel Dekker. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8247-9545-8" title="Special:BookSources/0-8247-9545-8">0-8247-9545-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Handbook+of+Grignard+reagents&amp;rft.place=New+York%2C+N.Y&amp;rft.pub=Marcel+Dekker&amp;rft.date=1996&amp;rft.isbn=0-8247-9545-8&amp;rft.au=ed.+by+Gary+S.+Silverman+....&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGrignard+reaction"></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Extra text: authors list (<a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">link</a>) </span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li>Mary McHale, "Grignard Reaction," Connexions, <a class="external free" href="http://cnx.org/content/m15245/1.2/" rel="nofollow">http://cnx.org/content/m15245/1.2/</a>. 2007.</li>
+<li><i>Grignard knowledge: Alkyl coupling chemistry with inexpensive transition metals</i> by Larry J. Westrum, Fine Chemistry  November/December 2002, pp. 10–13 <a class="external autonumber" href="http://www.bouldersci.com/wp-content/uploads/2011/02/Grignard_Knowledge.pdf" rel="nofollow">[1]</a></li></ul>
+<div aria-labelledby="Organometallic_chemistry" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Organometallics" title="Template:Organometallics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a class="new" href="/w/index.php?title=Template_talk:Organometallics&amp;action=edit&amp;redlink=1" title="Template talk:Organometallics (page does not exist)"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Organometallics&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Organometallic_chemistry" style="font-size:114%;margin:0 4em"><a href="/wiki/Organometallic_chemistry" title="Organometallic chemistry">Organometallic chemistry</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Principles</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Electron_counting" title="Electron counting">Electron counting</a></li>
+<li><a href="/wiki/18-electron_rule" title="18-electron rule">18-electron rule</a></li>
+<li><a href="/wiki/Polyhedral_skeletal_electron_pair_theory" title="Polyhedral skeletal electron pair theory">polyhedral skeletal electron pair theory</a></li>
+<li><a href="/wiki/Isolobal_principle" title="Isolobal principle">isolobal principle</a></li>
+<li><a href="/wiki/Pi_backbonding" title="Pi backbonding">π backbonding</a></li>
+<li><a href="/wiki/Hapticity" title="Hapticity">hapticity</a></li>
+<li><a href="/wiki/D_electron_count" title="D electron count">d electron count</a></li>
+<li><a href="/wiki/Spin_states_(d_electrons)" title="Spin states (d electrons)">Spin states</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Reactions</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Oxidative_addition" title="Oxidative addition">Oxidative addition / reductive elimination</a></li>
+<li><a href="/wiki/Migratory_insertion" title="Migratory insertion">migratory insertion</a></li>
+<li><a href="/wiki/Beta-Hydride_elimination" title="Beta-Hydride elimination">β-hydride elimination</a></li>
+<li><a href="/wiki/Transmetalation" title="Transmetalation">transmetalation</a></li>
+<li><a href="/wiki/Carbometalation" title="Carbometalation">carbometalation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Types of compounds</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gilman_reagent" title="Gilman reagent">Gilman reagents</a></li>
+<li><a class="mw-selflink selflink">Grignard reagents</a></li>
+<li><a href="/wiki/Cyclopentadienyl_complex" title="Cyclopentadienyl complex">cyclopentadienyl complexes</a></li>
+<li><a href="/wiki/Metallocene" title="Metallocene">metallocenes</a></li>
+<li><a href="/wiki/Sandwich_compound" title="Sandwich compound">sandwich compounds</a></li>
+<li><a href="/wiki/Half_sandwich_compound" title="Half sandwich compound">half sandwich compounds</a></li>
+<li><a href="/wiki/Transition_metal_carbene_complex" title="Transition metal carbene complex">transition metal carbene complexes</a></li>
+<li><a href="/wiki/Transition_metal_carbyne_complex" title="Transition metal carbyne complex">transition metal carbyne complexes</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Applications</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Monsanto_process" title="Monsanto process">Monsanto process</a></li>
+<li><a href="/wiki/Ziegler%E2%80%93Natta_catalyst" title="Ziegler–Natta catalyst">Ziegler–Natta process</a></li>
+<li><a href="/wiki/Shell_higher_olefin_process" title="Shell higher olefin process">Shell higher olefin process</a></li>
+<li><a href="/wiki/Olefin_metathesis" title="Olefin metathesis">olefin metathesis</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related branches of <a href="/wiki/Chemistry" title="Chemistry">chemistry</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Organic_chemistry" title="Organic chemistry">Organic chemistry</a></li>
+<li><a href="/wiki/Inorganic_chemistry" title="Inorganic chemistry">inorganic chemistry</a></li>
+<li><a href="/wiki/Bioinorganic_chemistry" title="Bioinorganic chemistry">bioinorganic chemistry</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q337748&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q337748&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q337748" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="https://d-nb.info/gnd/4158200-7" rel="nofollow">4158200-7</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1248
+Cached time: 20181010223107
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.516 seconds
+Real time usage: 0.844 seconds
+Preprocessor visited node count: 3035/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 77990/2097152 bytes
+Template argument size: 2710/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 89980/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.243/10.000 seconds
+Lua memory usage: 4.92 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  499.498      1 -total
+ 62.44%  311.879      1 Template:Reflist
+ 27.25%  136.118     20 Template:Cite_journal
+ 12.17%   60.807      2 Template:Citation
+ 11.61%   57.975      1 Template:March6th
+ 11.37%   56.799      1 Template:Citation_needed
+  8.38%   41.873      1 Template:Fix
+  6.88%   34.356      6 Template:Cite_book
+  6.66%   33.276      3 Template:ISBN
+  5.56%   27.755      1 Template:Commons_category
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:454896-0!canonical!math=5 and timestamp 20181010223106 and revision id 861159037
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Grignard_reaction&amp;oldid=861159037">https://en.wikipedia.org/w/index.php?title=Grignard_reaction&amp;oldid=861159037</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Coupling_reactions" title="Category:Coupling reactions">Coupling reactions</a></li><li><a href="/wiki/Category:Organometallic_chemistry" title="Category:Organometallic chemistry">Organometallic chemistry</a></li><li><a href="/wiki/Category:Carbon-carbon_bond_forming_reactions" title="Category:Carbon-carbon bond forming reactions">Carbon-carbon bond forming reactions</a></li><li><a href="/wiki/Category:Carbon-heteroatom_bond_forming_reactions" title="Category:Carbon-heteroatom bond forming reactions">Carbon-heteroatom bond forming reactions</a></li><li><a href="/wiki/Category:Reagents_for_organic_chemistry" title="Category:Reagents for organic chemistry">Reagents for organic chemistry</a></li><li><a href="/wiki/Category:Magnesium" title="Category:Magnesium">Magnesium</a></li><li><a href="/wiki/Category:Chemical_tests" title="Category:Chemical tests">Chemical tests</a></li><li><a href="/wiki/Category:Organomagnesium_compounds" title="Category:Organomagnesium compounds">Organomagnesium compounds</a></li><li><a href="/wiki/Category:Name_reactions" title="Category:Name reactions">Name reactions</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2012" title="Category:Articles with unsourced statements from January 2012">Articles with unsourced statements from January 2012</a></li><li><a href="/wiki/Category:CS1_maint:_Extra_text:_authors_list" title="Category:CS1 maint: Extra text: authors list">CS1 maint: Extra text: authors list</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Grignard+reaction" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Grignard+reaction" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Grignard_reaction" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Grignard_reaction" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Grignard_reaction">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Grignard_reaction&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Grignard_reaction&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Grignard_reaction" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Grignard_reaction" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Grignard_reaction&amp;oldid=861159037" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Grignard_reaction&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q337748" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Grignard_reaction&amp;id=861159037" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Grignard+reaction">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Grignard+reaction&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Grignard_reaction&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Grignard_reactions" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D9%81%D8%A7%D8%B9%D9%84_%D8%BA%D8%B1%D9%8A%D9%86%D9%8A%D8%A7%D8%B1" hreflang="ar" lang="ar" title="تفاعل غرينيار – Arabic">العربية</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Grignardova_reakce" hreflang="cs" lang="cs" title="Grignardova reakce – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Grignardreaktion" hreflang="da" lang="da" title="Grignardreaktion – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Grignard-Reaktion" hreflang="de" lang="de" title="Grignard-Reaktion – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Grignardi_reaktsioon" hreflang="et" lang="et" title="Grignardi reaktsioon – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%88%D8%A7%DA%A9%D9%86%D8%B4%DA%AF%D8%B1_%DA%AF%D8%B1%DB%8C%D9%86%DB%8C%D8%A7%D8%B1%D8%AF" hreflang="fa" lang="fa" title="واکنشگر گرینیارد – Persian">فارسی</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B3%D6%80%D5%AB%D5%B6%D5%B5%D5%A1%D6%80%D5%AB_%D5%BC%D5%A5%D5%A1%D5%AF%D6%81%D5%AB%D5%A1" hreflang="hy" lang="hy" title="Գրինյարի ռեակցիա – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Reaksi_Grignard" hreflang="id" lang="id" title="Reaksi Grignard – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D1%9A%D0%B0%D1%80%D0%BE%D0%B2%D0%B0_%D1%80%D0%B5%D0%B0%D0%BA%D1%86%D0%B8%D1%98%D0%B0" hreflang="mk" lang="mk" title="Грињарова реакција – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Grignard-reactie" hreflang="nl" lang="nl" title="Grignard-reactie – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Grignardreaksjon" hreflang="nn" lang="nn" title="Grignardreaksjon – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Reakcja_Grignarda" hreflang="pl" lang="pl" title="Reakcja Grignarda – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Rea%C3%A7%C3%A3o_de_Grignard" hreflang="pt" lang="pt" title="Reação de Grignard – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B0%D0%BA%D1%86%D0%B8%D1%8F_%D0%93%D1%80%D0%B8%D0%BD%D1%8C%D1%8F%D1%80%D0%B0" hreflang="ru" lang="ru" title="Реакция Гриньяра – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Grignard_reaction" hreflang="simple" lang="simple" title="Grignard reaction – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Grignardova_reakcija" hreflang="sl" lang="sl" title="Grignardova reakcija – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Grinjarova_reakcija" hreflang="sr" lang="sr" title="Grinjarova reakcija – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Grignardreaktion" hreflang="sv" lang="sv" title="Grignardreaktion – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%A9%E0%AF%8D%E0%AE%AF%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AE%BF%E0%AE%A9%E0%AF%88" hreflang="ta" lang="ta" title="கிரின்யார்டு வினை – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Grignard_reaksiyonu" hreflang="tr" lang="tr" title="Grignard reaksiyonu – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B0%D0%BA%D1%86%D1%96%D1%8F_%D0%93%D1%80%D1%96%D0%BD%D1%8C%D1%8F%D1%80%D0%B0" hreflang="uk" lang="uk" title="Реакція Гріньяра – Ukrainian">Українська</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q337748#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 25 September 2018, at 14:30<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Grignard_reaction&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.516","walltime":"0.844","ppvisitednodes":{"value":3035,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":77990,"limit":2097152},"templateargumentsize":{"value":2710,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":89980,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  499.498      1 -total"," 62.44%  311.879      1 Template:Reflist"," 27.25%  136.118     20 Template:Cite_journal"," 12.17%   60.807      2 Template:Citation"," 11.61%   57.975      1 Template:March6th"," 11.37%   56.799      1 Template:Citation_needed","  8.38%   41.873      1 Template:Fix","  6.88%   34.356      6 Template:Cite_book","  6.66%   33.276      3 Template:ISBN","  5.56%   27.755      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.243","limit":"10.000"},"limitreport-memusage":{"value":5154698,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20181010223107","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1325"});});</script>
+</body>
+</html>

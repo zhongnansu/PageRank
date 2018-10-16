@@ -1,0 +1,1368 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Physisorption - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Physisorption","wgTitle":"Physisorption","wgCurRevisionId":859111145,"wgRevisionId":859111145,"wgArticleId":68520,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Surface science"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Physisorption","wgRelevantArticleId":68520,"wgRequestId":"W8JiXQpAICsAALFn6nYAAADG","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q354417","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Physisorption" rel="alternate"/>
+<link href="/w/index.php?title=Physisorption&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Physisorption&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Physisorption" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Physisorption rootpage-Physisorption skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Physisorption</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Physisorption</b>, also called <b>physical adsorption</b>, is a process in which the electronic structure of the atom or molecule is barely perturbed upon <a href="/wiki/Adsorption" title="Adsorption">adsorption</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-ConceptsinSurfacePhysics_2-0"><a href="#cite_note-ConceptsinSurfacePhysics-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Introduction"><span class="tocnumber">1</span> <span class="toctext">Introduction</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Modeling_by_image_charge"><span class="tocnumber">2</span> <span class="toctext">Modeling by image charge</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Modeling_by_quantum-mechanical_oscillator"><span class="tocnumber">3</span> <span class="toctext">Modeling by quantum-mechanical oscillator</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Physisorption_potential"><span class="tocnumber">4</span> <span class="toctext">Physisorption potential</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Comparison_with_chemisorption"><span class="tocnumber">5</span> <span class="toctext">Comparison with chemisorption</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Introduction">Introduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Physisorption&amp;action=edit&amp;section=1" title="Edit section: Introduction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The fundamental interacting force of physisorption is caused by <a href="/wiki/Van_der_Waals_force" title="Van der Waals force">van der Waals force</a>. Even though the interaction energy is very weak (~10–100 meV), physisorption plays an important role in nature.  For instance, the van der Waals attraction between surfaces and foot-hairs of <a href="/wiki/Gecko" title="Gecko">geckos</a> provides the remarkable ability to climb up vertical walls.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>  Van der Waals forces originate from the interactions between induced, permanent or transient electric dipoles.
+</p><p>In comparison with <a href="/wiki/Chemisorption" title="Chemisorption">chemisorption</a>, in which the electronic structure of bonding atoms or molecules is changed and covalent or ionic bonds form, physisorption, generally speaking, can only be observed in the environment of low temperature (thermal energy at room temperature ~26 meV) and the absence of the relatively strong chemisorptions.  In practice, the categorisation of a particular adsorption as physisorption or chemisorption depends principally on the <a href="/wiki/Binding_energy" title="Binding energy">binding energy</a> of the adsorbate to the substrate.
+</p>
+<h2><span class="mw-headline" id="Modeling_by_image_charge">Modeling by image charge</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Physisorption&amp;action=edit&amp;section=2" title="Edit section: Modeling by image charge">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Physisorption_1.jpg"><img alt="" class="thumbimage" data-file-height="411" data-file-width="733" height="112" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Physisorption_1.jpg/200px-Physisorption_1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Physisorption_1.jpg/300px-Physisorption_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Physisorption_1.jpg/400px-Physisorption_1.jpg 2x" width="200"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Physisorption_1.jpg" title="Enlarge"></a></div>Fig. 1. Schematic illustration of an adsorbed hydrogen atom near a perfect <a href="/wiki/Electrical_conductor" title="Electrical conductor">conductor</a> interacting with its <a class="mw-redirect" href="/wiki/Image_charge" title="Image charge">image charges</a>.</div></div></div>
+<p>To give a simple illustration of physisorption, we can first consider an adsorbed hydrogen atom in front of a perfect conductor, as shown in Fig. 1.  A nucleus with positive charge is located at <b>R</b> = (0, 0, <i>Z</i>), and the position coordinate of its electron, <b>r</b> = (<i>x</i>, <i>y</i>, <i>z</i>) is given with respect to the nucleus.  The adsorption process can be viewed as the interaction between this hydrogen atom and its image charges of both the nucleus and electron in the conductor.  As a result, the total electrostatic energy is the sum of attraction and repulsion terms:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V={e^{2} \over 4\pi \varepsilon _{0}}\left({\frac {-1}{|2\mathbf {R} |}}+{\frac {-1}{|2\mathbf {R} +\mathbf {r} -\mathbf {r} '|}}+{\frac {1}{|2\mathbf {R} -\mathbf {r} '|}}+{\frac {1}{|2\mathbf {R} +\mathbf {r} |}}\right).}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">R</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">R</mi>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>−<!-- − --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">R</mi>
+</mrow>
+<mo>−<!-- − --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">R</mi>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V={e^{2} \over 4\pi \varepsilon _{0}}\left({\frac {-1}{|2\mathbf {R} |}}+{\frac {-1}{|2\mathbf {R} +\mathbf {r} -\mathbf {r} '|}}+{\frac {1}{|2\mathbf {R} -\mathbf {r} '|}}+{\frac {1}{|2\mathbf {R} +\mathbf {r} |}}\right).}</annotation>
+</semantics>
+</math></span><img alt="V={e^{2} \over 4\pi \varepsilon _{0}}\left({\frac  {-1}{|2{\mathbf  R}|}}+{\frac  {-1}{|2{\mathbf  R}+{\mathbf  r}-{\mathbf  r}'|}}+{\frac  {1}{|2{\mathbf  R}-{\mathbf  r}'|}}+{\frac  {1}{|2{\mathbf  R}+{\mathbf  r}|}}\right)." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/40eb49a0abee70c56eb5eca2fe19cf51d06b99a4" style="vertical-align: -2.671ex; width:62.039ex; height:6.509ex;"/></span></dd></dl>
+<p>The first term is the attractive interaction of nucleus and its image charge, and the second term is due to the interaction of the electron and its image charge.  The repulsive interaction is shown in the third and fourth terms arising from the interaction of nucleus-image electron and electron-image nucleus, respectively.
+</p><p>By <a class="mw-redirect" href="/wiki/Taylor_expansion" title="Taylor expansion">Taylor expansion</a> in powers of |<b>r</b>| / |<b>R</b>|, this interaction energy can be further expressed as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V={-e^{2} \over 16\pi \varepsilon _{0}Z^{3}}\left({\frac {x^{2}+y^{2}}{2}}+z^{2}\right)+{3e^{2} \over 32\pi \varepsilon _{0}Z^{4}}\left({\frac {x^{2}+y^{2}}{2}}{z}+z^{3}\right)+O\left({\frac {1}{Z^{5}}}\right).}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mn>16</mn>
+<mi>π<!-- π --></mi>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<msup>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>3</mn>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mn>32</mn>
+<mi>π<!-- π --></mi>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+<mo>+</mo>
+<msup>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mi>O</mi>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msup>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>5</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V={-e^{2} \over 16\pi \varepsilon _{0}Z^{3}}\left({\frac {x^{2}+y^{2}}{2}}+z^{2}\right)+{3e^{2} \over 32\pi \varepsilon _{0}Z^{4}}\left({\frac {x^{2}+y^{2}}{2}}{z}+z^{3}\right)+O\left({\frac {1}{Z^{5}}}\right).}</annotation>
+</semantics>
+</math></span><img alt="V={-e^{2} \over 16\pi \varepsilon _{0}Z^{3}}\left({\frac  {x^{2}+y^{2}}{2}}+z^{2}\right)+{3e^{2} \over 32\pi \varepsilon _{0}Z^{4}}\left({\frac  {x^{2}+y^{2}}{2}}{z}+z^{3}\right)+O\left({\frac  {1}{Z^{5}}}\right)." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3adbacf5815ed7bb22226f4bcb529b80ca3538f6" style="vertical-align: -2.505ex; width:74.793ex; height:6.343ex;"/></span></dd></dl>
+<p>One can find from the first non-vanishing term that the physisorption potential depends on the distance <i>Z</i> between adsorbed atom and surface as <i>Z</i><sup>−3</sup>, in contrast with the <i>r</i><sup>−6</sup> dependence of the molecular <a href="/wiki/Van_der_Waals_force" title="Van der Waals force">van der Waals</a> potential, where <i>r</i> is the distance between two <a class="mw-redirect" href="/wiki/Dipoles" title="Dipoles">dipoles</a>.
+</p>
+<h2><span class="mw-headline" id="Modeling_by_quantum-mechanical_oscillator">Modeling by quantum-mechanical oscillator</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Physisorption&amp;action=edit&amp;section=3" title="Edit section: Modeling by quantum-mechanical oscillator">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Van_der_Waals_force" title="Van der Waals force">van der Waals</a> binding energy can be analyzed by another simple physical picture: modeling the motion of an electron around its nucleus by a three-dimensional simple <a href="/wiki/Harmonic_oscillator" title="Harmonic oscillator">harmonic oscillator</a> with a potential energy <i>V<sub>a</sub></i>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V_{a}={\frac {m_{e}}{2}}{\omega ^{2}}(x^{2}+y^{2}+z^{2}),}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V_{a}={\frac {m_{e}}{2}}{\omega ^{2}}(x^{2}+y^{2}+z^{2}),}</annotation>
+</semantics>
+</math></span><img alt="V_{a}={\frac  {m_{e}}{2}}{\omega ^{2}}(x^{2}+y^{2}+z^{2})," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87b6e60148af7e1d1e6a496dab519bc5de4acd77" style="vertical-align: -1.838ex; width:26.811ex; height:4.676ex;"/></span></dd></dl>
+<p>where <i>m<sub>e</sub></i> and <i>ω</i> are the mass and vibrational frequency of the electron, respectively.
+</p><p>As this atom approaches the surface of a metal and forms adsorption, this potential energy <i>V<sub>a</sub></i> will be modified due to the image charges by additional potential terms which are quadratic in the displacements:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V_{a}={\frac {m_{e}}{2}}{\omega ^{2}}(x^{2}+y^{2}+z^{2})-{e^{2} \over 16\pi \varepsilon _{0}Z^{3}}\left({\frac {x^{2}+y^{2}}{2}}+z^{2}\right)+\ldots }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<mn>16</mn>
+<mi>π<!-- π --></mi>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<msup>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mo>…<!-- … --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V_{a}={\frac {m_{e}}{2}}{\omega ^{2}}(x^{2}+y^{2}+z^{2})-{e^{2} \over 16\pi \varepsilon _{0}Z^{3}}\left({\frac {x^{2}+y^{2}}{2}}+z^{2}\right)+\ldots }</annotation>
+</semantics>
+</math></span><img alt="V_{a}={\frac  {m_{e}}{2}}{\omega ^{2}}(x^{2}+y^{2}+z^{2})-{e^{2} \over 16\pi \varepsilon _{0}Z^{3}}\left({\frac  {x^{2}+y^{2}}{2}}+z^{2}\right)+\ldots " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/74c8eda7024c3c7d0460ba2aa5cefb7310594bad" style="vertical-align: -2.505ex; width:61.03ex; height:6.343ex;"/></span>  (from the Taylor expansion above.)</dd></dl>
+<p>Assuming
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle m_{e}\omega ^{2}&gt;&gt;{e^{2} \over 16\pi \varepsilon _{0}Z^{3}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<msup>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>&gt;&gt;</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<mn>16</mn>
+<mi>π<!-- π --></mi>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m_{e}\omega ^{2}&gt;&gt;{e^{2} \over 16\pi \varepsilon _{0}Z^{3}},}</annotation>
+</semantics>
+</math></span><img alt="m_{e}\omega ^{2}&gt;&gt;{e^{2} \over 16\pi \varepsilon _{0}Z^{3}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9599af3c22257386b76b0510b317923087e24b29" style="vertical-align: -2.505ex; width:20.486ex; height:6.343ex;"/></span></dd></dl>
+<p>the potential is well approximated as
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V_{a}\sim {\frac {m_{e}}{2}}{\omega _{1}^{2}}(x^{2}+y^{2})+{\frac {m_{e}}{2}}{\omega _{2}^{2}}z^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mo>∼<!-- ∼ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</mrow>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msubsup>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</mrow>
+<msup>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V_{a}\sim {\frac {m_{e}}{2}}{\omega _{1}^{2}}(x^{2}+y^{2})+{\frac {m_{e}}{2}}{\omega _{2}^{2}}z^{2}}</annotation>
+</semantics>
+</math></span><img alt="V_{a}\sim {\frac  {m_{e}}{2}}{\omega _{1}^{2}}(x^{2}+y^{2})+{\frac  {m_{e}}{2}}{\omega _{2}^{2}}z^{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cb34befc3e6c2472424906ce12ce825893bd5f90" style="vertical-align: -1.838ex; width:32.539ex; height:4.676ex;"/></span>,</dd></dl>
+<p>where
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{aligned}\omega _{1}&amp;=\omega -{e^{2} \over 32\pi \varepsilon _{0}m_{e}\omega Z^{3}},\\\omega _{2}&amp;=\omega -{e^{2} \over 16\pi \varepsilon _{0}m_{e}\omega Z^{3}}.\end{aligned}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mi>ω<!-- ω --></mi>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<mn>32</mn>
+<mi>π<!-- π --></mi>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<mi>ω<!-- ω --></mi>
+<msup>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mi>ω<!-- ω --></mi>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<mn>16</mn>
+<mi>π<!-- π --></mi>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<mi>ω<!-- ω --></mi>
+<msup>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}\omega _{1}&amp;=\omega -{e^{2} \over 32\pi \varepsilon _{0}m_{e}\omega Z^{3}},\\\omega _{2}&amp;=\omega -{e^{2} \over 16\pi \varepsilon _{0}m_{e}\omega Z^{3}}.\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\begin{aligned}\omega _{1}&amp;=\omega -{e^{2} \over 32\pi \varepsilon _{0}m_{e}\omega Z^{3}},\\\omega _{2}&amp;=\omega -{e^{2} \over 16\pi \varepsilon _{0}m_{e}\omega Z^{3}}.\end{aligned}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/835dcd698678c84d0aebe145b6a9158e5aef6e74" style="vertical-align: -5.671ex; width:25.161ex; height:12.509ex;"/></span></dd></dl>
+<p>If one assumes that the electron is in the ground state, then the van der Waals binding energy is essentially the change of the zero-point energy:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V_{v}={\frac {\hbar }{2}}(2\omega _{1}+\omega _{2}-3\omega )=-{\hbar e^{2} \over 16\pi \varepsilon _{0}m_{e}\omega Z^{3}}.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi class="MJX-variant">ℏ<!-- ℏ --></mi>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo stretchy="false">(</mo>
+<mn>2</mn>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mn>3</mn>
+<mi>ω<!-- ω --></mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi class="MJX-variant">ℏ<!-- ℏ --></mi>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mn>16</mn>
+<mi>π<!-- π --></mi>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<mi>ω<!-- ω --></mi>
+<msup>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V_{v}={\frac {\hbar }{2}}(2\omega _{1}+\omega _{2}-3\omega )=-{\hbar e^{2} \over 16\pi \varepsilon _{0}m_{e}\omega Z^{3}}.}</annotation>
+</semantics>
+</math></span><img alt="V_{v}={\frac  {\hbar }{2}}(2\omega _{1}+\omega _{2}-3\omega )=-{\hbar e^{2} \over 16\pi \varepsilon _{0}m_{e}\omega Z^{3}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b372f6b2dbc5a8156a5c7fdf71a253b204806689" style="vertical-align: -2.505ex; width:43.318ex; height:6.343ex;"/></span></dd></dl>
+<p>This expression also shows the nature of the <i>Z</i><sup>−3</sup> dependence of the van der Waals interaction.
+</p><p>Furthermore, by introducing the atomic <a href="/wiki/Polarizability" title="Polarizability">polarizability</a>,
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha ={\frac {e^{2}}{m_{e}\omega ^{2}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<msup>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha ={\frac {e^{2}}{m_{e}\omega ^{2}}},}</annotation>
+</semantics>
+</math></span><img alt="\alpha ={\frac  {e^{2}}{m_{e}\omega ^{2}}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/298268b41a4fda9d8901aabd189554b6c85fddd6" style="vertical-align: -2.505ex; width:11.608ex; height:6.343ex;"/></span></dd></dl>
+<p>the van der Waals potential can be further simplified:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V_{v}=-{\hbar \alpha \omega  \over 16\pi \varepsilon _{0}Z^{3}}=-{\frac {C_{v}}{Z^{3}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi class="MJX-variant">ℏ<!-- ℏ --></mi>
+<mi>α<!-- α --></mi>
+<mi>ω<!-- ω --></mi>
+</mrow>
+<mrow>
+<mn>16</mn>
+<mi>π<!-- π --></mi>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<msup>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V_{v}=-{\hbar \alpha \omega  \over 16\pi \varepsilon _{0}Z^{3}}=-{\frac {C_{v}}{Z^{3}}},}</annotation>
+</semantics>
+</math></span><img alt="V_{v}=-{\hbar \alpha \omega  \over 16\pi \varepsilon _{0}Z^{3}}=-{\frac  {C_{v}}{Z^{3}}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f20a8cb8d4a72589dab43bc9f978241638c15198" style="vertical-align: -2.505ex; width:25.837ex; height:6.009ex;"/></span></dd></dl>
+<p>where
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle C_{v}={\hbar \alpha \omega  \over 16\pi \varepsilon _{0}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi class="MJX-variant">ℏ<!-- ℏ --></mi>
+<mi>α<!-- α --></mi>
+<mi>ω<!-- ω --></mi>
+</mrow>
+<mrow>
+<mn>16</mn>
+<mi>π<!-- π --></mi>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle C_{v}={\hbar \alpha \omega  \over 16\pi \varepsilon _{0}},}</annotation>
+</semantics>
+</math></span><img alt="C_{v}={\hbar \alpha \omega  \over 16\pi \varepsilon _{0}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5bf99deca5ae92941344c605c3e8164b7b6aaf1c" style="vertical-align: -2.171ex; width:13.067ex; height:5.676ex;"/></span></dd></dl>
+<p>is the van der Waals constant which is related to the atomic polarizability.
+</p><p>Also, by expressing the fourth-order correction in the Taylor expansion above as (<i>aC<sub>v</sub>Z</i><sub>0</sub>) / (Z<sup>4</sup>), where <i>a</i> is some constant, we can define <i>Z</i><sub>0</sub> as the position of the <i>dynamical image plane</i> and obtain
+</p>
+<table class="wikitable floatright">
+<caption>Table 1. The van der Waals constant <i>C<sub>v</sub></i> and the position of the dynamical image plane <i>Z</i><sub>0</sub> for various rare gases atoms adsorbed on noble metal surfaces obtained by the jellium model. Note that <i>C<sub>v</sub></i> is in eV/Å<sup>3</sup> and <i>Z</i><sub>0</sub> in Å.
+</caption>
+<tbody><tr>
+<th rowspan="2">
+</th>
+<th colspan="2">He
+</th>
+<th colspan="2">Ne
+</th>
+<th colspan="2">Ar
+</th>
+<th colspan="2">Kr
+</th>
+<th colspan="2">Xe
+</th></tr>
+<tr>
+<th><i>C<sub>v</sub></i>
+</th>
+<th><i>Z</i><sub>0</sub>
+</th>
+<th><i>C<sub>v</sub></i>
+</th>
+<th><i>Z</i><sub>0</sub>
+</th>
+<th><i>C<sub>v</sub></i>
+</th>
+<th><i>Z</i><sub>0</sub>
+</th>
+<th><i>C<sub>v</sub></i>
+</th>
+<th><i>Z</i><sub>0</sub>
+</th>
+<th><i>C<sub>v</sub></i>
+</th>
+<th><i>Z</i><sub>0</sub>
+</th></tr>
+<tr>
+<th>Cu
+</th>
+<td>0.225
+</td>
+<td>0.22
+</td>
+<td>0.452
+</td>
+<td>0.21
+</td>
+<td>1.501
+</td>
+<td>0.26
+</td>
+<td>2.11
+</td>
+<td>0.27
+</td>
+<td>3.085
+</td>
+<td>0.29
+</td></tr>
+<tr>
+<th>Ag
+</th>
+<td>0.249
+</td>
+<td>0.2
+</td>
+<td>0.502
+</td>
+<td>0.19
+</td>
+<td>1.623
+</td>
+<td>0.24
+</td>
+<td>2.263
+</td>
+<td>0.25
+</td>
+<td>3.277
+</td>
+<td>0.27
+</td></tr>
+<tr>
+<th>Au
+</th>
+<td>0.274
+</td>
+<td>0.16
+</td>
+<td>0.554
+</td>
+<td>0.15
+</td>
+<td>1.768
+</td>
+<td>0.19
+</td>
+<td>2.455
+</td>
+<td>0.2
+</td>
+<td>3.533
+</td>
+<td>0.22
+</td></tr></tbody></table>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V_{v}=-{\frac {C_{v}}{(Z-Z_{0})^{3}}}+O\left({\frac {1}{Z^{5}}}\right).}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<mrow>
+<mo stretchy="false">(</mo>
+<mi>Z</mi>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mi>O</mi>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msup>
+<mi>Z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>5</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V_{v}=-{\frac {C_{v}}{(Z-Z_{0})^{3}}}+O\left({\frac {1}{Z^{5}}}\right).}</annotation>
+</semantics>
+</math></span><img alt="V_{v}=-{\frac  {C_{v}}{(Z-Z_{0})^{3}}}+O\left({\frac  {1}{Z^{5}}}\right)." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a3364af574c66d66ad6876ca9c764002856bc081" style="vertical-align: -2.671ex; width:31.208ex; height:6.343ex;"/></span></dd></dl>
+<p>The origin of <i>Z</i><sub>0</sub> comes from the spilling of the electron wavefunction out of the surface.  As a result, the position of image plane representing the reference for the space coordinate is different from the substrate surface itself and modified by <i>Z</i><sub>0</sub>.
+</p><p>Table 1 shows the <a href="/wiki/Jellium" title="Jellium">jellium</a> model calculation for van der Waals constant <i>C<sub>v</sub></i> and dynamical image plane <i>Z</i><sub>0</sub> of rare gas atoms on various metal surfaces.  The increasing of <i>C<sub>v</sub></i> from He to Xe for all metal substrates is caused by the larger atomic <a href="/wiki/Polarizability" title="Polarizability">polarizability</a> of the heavier rare gas atoms.  For the position of the dynamical image plane, it decreases with increasing dielectric function and is typically on the order of 0.2 Å.
+</p>
+<h2><span class="mw-headline" id="Physisorption_potential">Physisorption potential</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Physisorption&amp;action=edit&amp;section=4" title="Edit section: Physisorption potential">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:Physisorption_2.jpg"><img alt="" class="thumbimage" data-file-height="720" data-file-width="960" height="300" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Physisorption_2.jpg/400px-Physisorption_2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Physisorption_2.jpg/600px-Physisorption_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Physisorption_2.jpg/800px-Physisorption_2.jpg 2x" width="400"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Physisorption_2.jpg" title="Enlarge"></a></div>Fig. 2. Calculated physisorption potential energy for He adsorbed on various <a href="/wiki/Jellium" title="Jellium">jellium</a> metal surfaces. Note that the weak van der Waals attraction forms shallow wells with energy about few meV.<sup class="reference" id="cite_ref-Kohn_5-0"><a href="#cite_note-Kohn-5">[5]</a></sup></div></div></div>
+<p>Even though the <a class="mw-redirect" href="/wiki/Van_der_Waals_interaction" title="Van der Waals interaction">van der Waals interaction</a> is attractive, as the adsorbed atom moves closer to the surface the wavefunction of electron starts to overlap with that of the surface atoms.  Further the energy of the system will increase due to the orthogonality of wavefunctions of the approaching atom and surface atoms.
+</p><p>This <a class="mw-redirect" href="/wiki/Pauli_exclusion" title="Pauli exclusion">Pauli exclusion</a> and repulsion are particularly strong for atoms with closed valence shells that dominate the surface interaction.  As a result, the minimum energy of physisorption must be found by the balance between the long-range van der Waals attraction and short-range <a class="mw-redirect" href="/wiki/Pauli_repulsion" title="Pauli repulsion">Pauli repulsion</a>.  For instance, by separating the total interaction of physisorption into two contributions- a short-range term depicted by <a class="mw-redirect" href="/wiki/Hartree%E2%80%93Fock" title="Hartree–Fock">Hartree–Fock</a> theory and a long-range van der Waals attraction, the equilibrium position of physisorption for rare gases adsorbed on <a href="/wiki/Jellium" title="Jellium">jellium</a> substrate can be determined.<sup class="reference" id="cite_ref-Kohn_5-1"><a href="#cite_note-Kohn-5">[5]</a></sup>  Fig. 2 shows the physisorption potential energy of He adsorbed on Ag, Cu, and Au substrates which are described by the <a href="/wiki/Jellium" title="Jellium">jellium</a> model with different densities of smear-out background positive charges.  It can be found that the weak van der Waals interaction leads to shallow attractive energy wells (&lt;10 meV).  One of the experimental methods for exploring physisorption potential energy is the scattering process, for instance, inert gas atoms scattered from metal surfaces.  Certain specific features of the interaction potential between scattered atoms and surface can be extracted by analyzing the experimentally determined angular distribution and cross sections of the scattered particles.
+</p>
+<h2><span class="mw-headline" id="Comparison_with_chemisorption">Comparison with chemisorption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Physisorption&amp;action=edit&amp;section=5" title="Edit section: Comparison with chemisorption">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Physisorption is a general phenomenon and occurs in any solid/fluid or solid/gas system. <a href="/wiki/Chemisorption" title="Chemisorption">Chemisorption</a> is characterized by chemical specificity.</li>
+<li>In physisorption, perturbation of the electronic states of adsorbent and adsorbate is minimal.  For chemisorption, changes in the electronic states may be detectable by suitable physical means.</li>
+<li>Typical binding energy of physisorption is about 10–100 meV.  Chemisorption usually forms bonding with energy of 1–10 eV.</li>
+<li>The elementary step in physisorption from a gas phase does not involve an activation energy.  Chemisorption often involves an activation energy.</li>
+<li>For physisorption, under appropriate conditions, gas phase molecules can form multilayer adsorption.  In chemisorption, molecules are adsorbed on the surface by valence bonds and only form monolayer adsorption.</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Physisorption&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Adsorption" title="Adsorption">Adsorption</a></li>
+<li><a href="/wiki/Chemisorption" title="Chemisorption">Chemisorption</a></li>
+<li><a href="/wiki/Van_der_Waals_force" title="Van der Waals force">van der Waals force</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Physisorption&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFK._Oura2003">K. Oura;  et al. (2003), <i>Surface Science, An Introduction</i>, Berlin: Springer, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-3-540-00545-2" title="Special:BookSources/978-3-540-00545-2">978-3-540-00545-2</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Surface+Science%2C+An+Introduction&amp;rft.place=Berlin&amp;rft.pub=Springer&amp;rft.date=2003&amp;rft.isbn=978-3-540-00545-2&amp;rft.au=K.+Oura&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhysisorption"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-ConceptsinSurfacePhysics-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-ConceptsinSurfacePhysics_2-0">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFM._C._Desjonqueres1996">M. C. Desjonqueres;  et al. (1996), <a class="external text" href="https://books.google.com/books?id=XW_Wvjwt5nIC&amp;printsec=frontcover&amp;dq=Concepts+in+surface+physics" rel="nofollow"><i>Concepts in surface physics</i></a> (2nd ed.), New York: Springer-Verlag, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-3-540-58622-7" title="Special:BookSources/978-3-540-58622-7">978-3-540-58622-7</a><span class="reference-accessdate">, retrieved <span class="nowrap">29 August</span> 2012</span></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Concepts+in+surface+physics&amp;rft.place=New+York&amp;rft.edition=2nd&amp;rft.pub=Springer-Verlag&amp;rft.date=1996&amp;rft.isbn=978-3-540-58622-7&amp;rft.au=M.+C.+Desjonqueres&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DXW_Wvjwt5nIC%26printsec%3Dfrontcover%26dq%3DConcepts%2Bin%2Bsurface%2Bphysics&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhysisorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFHans_Luth1993">Hans Luth;  et al. (1993), <i>Surfaces and interfaces of solids</i>, Springer-Verlag, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-3-540-56840-7" title="Special:BookSources/978-3-540-56840-7">978-3-540-56840-7</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Surfaces+and+interfaces+of+solids&amp;rft.pub=Springer-Verlag&amp;rft.date=1993&amp;rft.isbn=978-3-540-56840-7&amp;rft.au=Hans+Luth&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhysisorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFK._Autumn2000">K. Autumn;  et al. (2000), "Adhesive force of a single gecko foot-hair", <i>Nature</i>, <b>405</b> (6787): 681–5, <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2000Natur.405..681A" rel="nofollow">2000Natur.405..681A</a>, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2F35015073" rel="nofollow">10.1038/35015073</a>, <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10864324" rel="nofollow">10864324</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Adhesive+force+of+a+single+gecko+foot-hair&amp;rft.volume=405&amp;rft.issue=6787&amp;rft.pages=681-5&amp;rft.date=2000&amp;rft_id=info%3Apmid%2F10864324&amp;rft_id=info%3Adoi%2F10.1038%2F35015073&amp;rft_id=info%3Abibcode%2F2000Natur.405..681A&amp;rft.au=K.+Autumn&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhysisorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Kohn-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Kohn_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kohn_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation" id="CITEREFE._Zaremba_and_W._Kohn1977">E. Zaremba and W. Kohn (1977), "Theory of helium adsorption on simple and noble-metal surfaces", <i>Phys. Rev. B</i>, <b>15</b> (4): 1769–1781, <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1977PhRvB..15.1769Z" rel="nofollow">1977PhRvB..15.1769Z</a>, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1103%2FPhysRevB.15.1769" rel="nofollow">10.1103/PhysRevB.15.1769</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Phys.+Rev.+B&amp;rft.atitle=Theory+of+helium+adsorption+on+simple+and+noble-metal+surfaces&amp;rft.volume=15&amp;rft.issue=4&amp;rft.pages=1769-1781&amp;rft.date=1977&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevB.15.1769&amp;rft_id=info%3Abibcode%2F1977PhRvB..15.1769Z&amp;rft.au=E.+Zaremba+and+W.+Kohn&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhysisorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1229
+Cached time: 20181010151428
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.216 seconds
+Real time usage: 0.535 seconds
+Preprocessor visited node count: 422/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12281/2097152 bytes
+Template argument size: 77/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14209/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.121/10.000 seconds
+Lua memory usage: 2.43 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  229.238      1 Template:Reflist
+100.00%  229.238      1 -total
+ 91.92%  210.717      5 Template:Citation
+  0.99%    2.261      1 Template:Main_other
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:68520-0!canonical!math=5 and timestamp 20181010151427 and revision id 859111145
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Physisorption&amp;oldid=859111145">https://en.wikipedia.org/w/index.php?title=Physisorption&amp;oldid=859111145</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surface_science" title="Category:Surface science">Surface science</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Physisorption" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Physisorption" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Physisorption" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Physisorption" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Physisorption">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Physisorption&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Physisorption&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Physisorption" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Physisorption" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Physisorption&amp;oldid=859111145" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Physisorption&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q354417" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Physisorption&amp;id=859111145" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Physisorption">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Physisorption&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Physisorption&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Physisorption" hreflang="de" lang="de" title="Physisorption – German">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AC%D8%B0%D8%A8_%D9%81%DB%8C%D8%B2%DB%8C%DA%A9%DB%8C" hreflang="fa" lang="fa" title="جذب فیزیکی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%89%A9%E7%90%86%E5%90%B8%E7%9D%80" hreflang="ja" lang="ja" title="物理吸着 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Adsorpcja_fizyczna" hreflang="pl" lang="pl" title="Adsorpcja fizyczna – Polish">Polski</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%B4%D1%81%D0%BE%D1%80%D0%B1%D1%86%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Физическая адсорбция – Russian">Русский</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A4%D1%96%D0%B7%D0%B8%D1%87%D0%BD%D0%B0_%D0%B0%D0%B4%D1%81%D0%BE%D1%80%D0%B1%D1%86%D1%96%D1%8F" hreflang="uk" lang="uk" title="Фізична адсорбція – Ukrainian">Українська</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q354417#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 11 September 2018, at 19:56<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Physisorption&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.535","ppvisitednodes":{"value":422,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12281,"limit":2097152},"templateargumentsize":{"value":77,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14209,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  229.238      1 Template:Reflist","100.00%  229.238      1 -total"," 91.92%  210.717      5 Template:Citation","  0.99%    2.261      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.121","limit":"10.000"},"limitreport-memusage":{"value":2545646,"limit":52428800}},"cachereport":{"origin":"mw1229","timestamp":"20181010151428","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1322"});});</script>
+</body>
+</html>

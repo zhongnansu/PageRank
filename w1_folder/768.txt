@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Calculation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Calculation","wgTitle":"Calculation","wgCurRevisionId":857300251,"wgRevisionId":857300251,"wgArticleId":239121,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from December 2009","All articles needing additional references","Wikipedia articles with NDL identifiers","Elementary arithmetic"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Calculation","wgRelevantArticleId":239121,"wgRequestId":"W730GwrAIDMAAD3ERMIAAADI","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q622821","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Calculation" rel="alternate"/>
+<link href="/w/index.php?title=Calculation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Calculation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Calculation" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Calculation rootpage-Calculation skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Calculation</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For the card game, see <a class="mw-redirect" href="/wiki/Calculation_(game)" title="Calculation (game)">Calculation (game)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Calculation&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(December 2009)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="toccolours" style="float:right; margin-left:1em;">
+<tbody><tr>
+<th colspan="2" style="background:#efefef;">Calculation results<div class="plainlinks hlist navbar mini" style="float:right"><ul><li class="nv-view"><a href="/wiki/Template:Calculation_results" title="Template:Calculation results"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Calculation_results" title="Template talk:Calculation results"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Calculation_results&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div>
+</th></tr>
+<tr>
+<th colspan="2"><a href="/wiki/Addition" title="Addition">Addition</a> (+)
+</th></tr>
+<tr>
+<td style="text-align:right"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{summand}}\,+\,{\text{summand}}\\\scriptstyle {\text{addend (broad sense)}}\,+\,{\text{addend (broad sense)}}\\\scriptstyle {\text{augend}}\,+\,{\text{addend (strict sense)}}\end{matrix}}\right\}\,=\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow>
+<mo fence="true" stretchy="true" symmetric="true"></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>summand</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>+</mo>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>summand</mtext>
+</mrow>
+</mstyle>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>addend (broad sense)</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>+</mo>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>addend (broad sense)</mtext>
+</mrow>
+</mstyle>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>augend</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>+</mo>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>addend (strict sense)</mtext>
+</mrow>
+</mstyle>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>}</mo>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{summand}}\,+\,{\text{summand}}\\\scriptstyle {\text{addend (broad sense)}}\,+\,{\text{addend (broad sense)}}\\\scriptstyle {\text{augend}}\,+\,{\text{addend (strict sense)}}\end{matrix}}\right\}\,=\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{summand}}\,+\,{\text{summand}}\\\scriptstyle {\text{addend (broad sense)}}\,+\,{\text{addend (broad sense)}}\\\scriptstyle {\text{augend}}\,+\,{\text{addend (strict sense)}}\end{matrix}}\right\}\,=\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9854f722d124c7682ff7a61fde8f8c74c793791d" style="vertical-align: -3.338ex; width:37.187ex; height:7.509ex;"/></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\text{sum}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>sum</mtext>
+</mrow>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\text{sum}}}</annotation>
+</semantics>
+</math></span><img alt="\scriptstyle {\text{sum}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b8609baca9fdbc4c529f5894884a08122d695dad" style="vertical-align: -0.338ex; width:2.931ex; height:1.343ex;"/></span>
+</td></tr>
+<tr>
+<th colspan="2"><a href="/wiki/Subtraction" title="Subtraction">Subtraction</a> (−)
+</th></tr>
+<tr>
+<td style="text-align:right"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\text{minuend}}\,-\,{\text{subtrahend}}\,=\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>minuend</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>−<!-- − --></mo>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>subtrahend</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\text{minuend}}\,-\,{\text{subtrahend}}\,=\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle {\text{minuend}}\,-\,{\text{subtrahend}}\,=\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/46c002253dc467fb0c66b4f4c3664713b23d7299" style="vertical-align: -0.338ex; width:18.371ex; height:1.676ex;"/></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\text{difference}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>difference</mtext>
+</mrow>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\text{difference}}}</annotation>
+</semantics>
+</math></span><img alt="\scriptstyle {\text{difference}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1ac22c4e24eef2036cff5bfea924cc0dbb30c5d8" style="vertical-align: -0.338ex; width:6.857ex; height:1.676ex;"/></span>
+</td></tr>
+<tr>
+<th colspan="2"><a href="/wiki/Multiplication" title="Multiplication">Multiplication</a> (×)
+</th></tr>
+<tr>
+<td style="text-align:right"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{factor}}\,\times \,{\text{factor}}\\\scriptstyle {\text{multiplier}}\,\times \,{\text{multiplicand}}\end{matrix}}\right\}\,=\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow>
+<mo fence="true" stretchy="true" symmetric="true"></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>factor</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>×<!-- × --></mo>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>factor</mtext>
+</mrow>
+</mstyle>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>multiplier</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>×<!-- × --></mo>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>multiplicand</mtext>
+</mrow>
+</mstyle>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>}</mo>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{factor}}\,\times \,{\text{factor}}\\\scriptstyle {\text{multiplier}}\,\times \,{\text{multiplicand}}\end{matrix}}\right\}\,=\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{factor}}\,\times \,{\text{factor}}\\\scriptstyle {\text{multiplier}}\,\times \,{\text{multiplicand}}\end{matrix}}\right\}\,=\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/93f7b476e32221c7b05d356289c8085aef54059b" style="vertical-align: -2.005ex; width:22.176ex; height:4.843ex;"/></span>
+</td>
+<td><a href="/wiki/Product_(mathematics)" title="Product (mathematics)"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\text{product}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>product</mtext>
+</mrow>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\text{product}}}</annotation>
+</semantics>
+</math></span><img alt="\scriptstyle {\text{product}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a5c8b7509b8be1043622cb7b1b9a36ca8bfc2616" style="vertical-align: -0.505ex; width:5.578ex; height:1.843ex;"/></span></a>
+</td></tr>
+<tr>
+<th colspan="2"><a href="/wiki/Division_(mathematics)" title="Division (mathematics)">Division</a> (÷)
+</th></tr>
+<tr>
+<td style="text-align:right"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\frac {\scriptstyle {\text{dividend}}}{\scriptstyle {\text{divisor}}}}\\\scriptstyle {\text{ }}\\\scriptstyle {\frac {\scriptstyle {\text{numerator}}}{\scriptstyle {\text{denominator}}}}\end{matrix}}\right\}\,=\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow>
+<mo fence="true" stretchy="true" symmetric="true"></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>dividend</mtext>
+</mrow>
+</mstyle>
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>divisor</mtext>
+</mrow>
+</mstyle>
+</mfrac>
+</mrow>
+</mstyle>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext> </mtext>
+</mrow>
+</mstyle>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>numerator</mtext>
+</mrow>
+</mstyle>
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>denominator</mtext>
+</mrow>
+</mstyle>
+</mfrac>
+</mrow>
+</mstyle>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+<mo>}</mo>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\frac {\scriptstyle {\text{dividend}}}{\scriptstyle {\text{divisor}}}}\\\scriptstyle {\text{ }}\\\scriptstyle {\frac {\scriptstyle {\text{numerator}}}{\scriptstyle {\text{denominator}}}}\end{matrix}}\right\}\,=\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\frac {\scriptstyle {\text{dividend}}}{\scriptstyle {\text{divisor}}}}\\\scriptstyle {\text{ }}\\\scriptstyle {\frac {\scriptstyle {\text{numerator}}}{\scriptstyle {\text{denominator}}}}\end{matrix}}\right\}\,=\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6d920dd1c0b257a17902ee5c232671d872d6c27d" style="vertical-align: -4.503ex; margin-bottom: -0.335ex; width:14.15ex; height:10.343ex;"/></span>
+</td>
+<td><a href="/wiki/Quotient" title="Quotient"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\begin{matrix}\scriptstyle {\text{fraction}}\\\scriptstyle {\text{quotient}}\\\scriptstyle {\text{ratio}}\end{matrix}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>fraction</mtext>
+</mrow>
+</mstyle>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>quotient</mtext>
+</mrow>
+</mstyle>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>ratio</mtext>
+</mrow>
+</mstyle>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{matrix}\scriptstyle {\text{fraction}}\\\scriptstyle {\text{quotient}}\\\scriptstyle {\text{ratio}}\end{matrix}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\begin{matrix}\scriptstyle {\text{fraction}}\\\scriptstyle {\text{quotient}}\\\scriptstyle {\text{ratio}}\end{matrix}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4ecf54ec7951242b6ad2211379c9f518f7c8a8cb" style="vertical-align: -4.005ex; width:6.736ex; height:9.176ex;"/></span></a>
+</td></tr>
+<tr>
+<th colspan="2"><a href="/wiki/Exponentiation" title="Exponentiation">Exponentiation</a>
+</th></tr>
+<tr>
+<td style="text-align:right"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\text{base}}^{\text{exponent}}\,=\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>base</mtext>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>exponent</mtext>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\text{base}}^{\text{exponent}}\,=\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle {\text{base}}^{\text{exponent}}\,=\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7614b27f61a9e09906b7682425b9e7a1ce7e24a0" style="vertical-align: -0.338ex; width:10.633ex; height:2.009ex;"/></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\text{power}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>power</mtext>
+</mrow>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\text{power}}}</annotation>
+</semantics>
+</math></span><img alt="\scriptstyle {\text{power}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b0d0a9fbffb659c0055d5ee6fde3f7f28e96f45c" style="vertical-align: -0.505ex; width:4.297ex; height:1.509ex;"/></span>
+</td></tr>
+<tr>
+<th colspan="2"><a href="/wiki/Nth_root" title="Nth root"><i>n</i>th root</a> (√)
+</th></tr>
+<tr>
+<td style="text-align:right"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\sqrt[{\text{degree}}]{\scriptstyle {\text{radicand}}}}\,=\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mroot>
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>radicand</mtext>
+</mrow>
+</mstyle>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>degree</mtext>
+</mrow>
+</mroot>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\sqrt[{\text{degree}}]{\scriptstyle {\text{radicand}}}}\,=\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle {\sqrt[{\text{degree}}]{\scriptstyle {\text{radicand}}}}\,=\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5582d567e7e7fbcdb728291770905e09beb0ea18" style="vertical-align: -0.505ex; width:12.422ex; height:2.676ex;"/></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\text{root}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>root</mtext>
+</mrow>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\text{root}}}</annotation>
+</semantics>
+</math></span><img alt="\scriptstyle {\text{root}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2a015c1122190da3f1f1732d88b8bb03a8d7eb91" style="vertical-align: -0.338ex; width:2.928ex; height:1.676ex;"/></span>
+</td></tr>
+<tr>
+<th colspan="2"><a href="/wiki/Logarithm" title="Logarithm">Logarithm</a> (log)
+</th></tr>
+<tr>
+<td style="text-align:right"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle \log _{\text{base}}({\text{antilogarithm}})\,=\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<msub>
+<mi>log</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>base</mtext>
+</mrow>
+</msub>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>antilogarithm</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle \log _{\text{base}}({\text{antilogarithm}})\,=\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \scriptstyle \log _{\text{base}}({\text{antilogarithm}})\,=\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/960363c98c9edb1ae9e8018993b882d2c7afab01" style="vertical-align: -0.671ex; width:17.907ex; height:2.176ex;"/></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \scriptstyle {\text{logarithm}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>logarithm</mtext>
+</mrow>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\text{logarithm}}}</annotation>
+</semantics>
+</math></span><img alt="\scriptstyle {\text{logarithm}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fe5d50baa86b950ff6d15760b7a38df1f8d8c868" style="vertical-align: -0.671ex; width:6.948ex; height:2.009ex;"/></span>
+</td></tr></tbody></table>
+<p>A <b>calculation</b> is a deliberate process that transforms one or more inputs into one or more results, with variable change. The term is used in a variety of senses, from the very definite <a href="/wiki/Arithmetic" title="Arithmetic">arithmetical</a> calculation of using an <a href="/wiki/Algorithm" title="Algorithm">algorithm</a>, to the vague <a href="/wiki/Heuristic" title="Heuristic">heuristics</a> of calculating a strategy in a competition, or calculating the chance of a successful relationship between two people.
+</p><p>For example, <a href="/wiki/Multiplication" title="Multiplication">multiplying</a> 7 by 6 is a simple algorithmic calculation. Estimating the fair price for <a href="/wiki/Financial_instrument" title="Financial instrument">financial instruments</a> using the <a class="mw-redirect" href="/wiki/Black%E2%80%93Scholes" title="Black–Scholes">Black–Scholes</a> model is a more complex algorithmic calculation.
+</p><p><a class="mw-redirect" href="/wiki/Statistical_estimation" title="Statistical estimation">Statistical estimations</a> of the likely election results from opinion polls also involve algorithmic calculations, but produces ranges of possibilities rather than exact answers.
+</p><p>To <i>calculate</i> means to determine mathematically in the case of a number or amount, or in the case of an abstract problem to deduce the answer using logic, reason or common sense.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> The English word derives from the <a href="/wiki/Latin" title="Latin">Latin</a> <i>calculus</i>, which originally meant a small stone in the gall-bladder (from Latin <i>calx</i>). It also meant a pebble used for calculating, or a small stone used as a counter in an <a href="/wiki/Abacus" title="Abacus">abacus</a> (Latin <i>abacus</i>, <a href="/wiki/Greek_language" title="Greek language">Greek</a> <i>abax</i>). The abacus was an instrument used by Greeks and Romans for arithmetic calculations, preceding the slide-rule and the electronic calculator, and consisted of perforated pebbles sliding on iron bars.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Comparison_to_computation"><span class="tocnumber">1</span> <span class="toctext">Comparison to computation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Comparison_to_computation">Comparison to computation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calculation&amp;action=edit&amp;section=1" title="Edit section: Comparison to computation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Calculation is a prerequisite for computation.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> The difference in the meaning of <i>calculation</i> and <i>computation</i> appears to originate from the late medieval period.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calculation&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/calculation" title="wiktionary:calculation">calculation</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png"><img alt="icon" class="noviewer" data-file-height="600" data-file-width="800" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png/32px-Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png/48px-Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png/64px-Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png 2x" width="32"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Thinking" title="Portal:Thinking">Thinking portal</a></span></li></ul></div>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Abacus" title="Abacus">Abacus</a></li>
+<li><a href="/wiki/Calculator" title="Calculator">Calculator</a></li>
+<li><a class="mw-disambig" href="/wiki/Calculus_(disambiguation)" title="Calculus (disambiguation)">Calculus (disambiguation)</a></li>
+<li><a href="/wiki/Complexity_class" title="Complexity class">Calculability</a></li>
+<li><a href="/wiki/Computation" title="Computation">Computation</a></li>
+<li><a href="/wiki/Cost_accounting" title="Cost accounting">Cost accounting</a></li>
+<li><a href="/wiki/List_of_algorithms" title="List of algorithms">List of algorithms</a></li>
+<li><a href="/wiki/Mathematics" title="Mathematics">Mathematics</a></li>
+<li><a href="/wiki/Mental_calculation" title="Mental calculation">Mental calculation</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calculation&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://en.oxforddictionaries.com/definition/calculate" rel="nofollow">"calculate | Definition of calculate in English by Oxford Dictionaries"</a>. <i>Oxford Dictionaries | English</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-08-30</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Oxford+Dictionaries+%7C+English&amp;rft.atitle=calculate+%7C+Definition+of+calculate+in+English+by+Oxford+Dictionaries&amp;rft_id=https%3A%2F%2Fen.oxforddictionaries.com%2Fdefinition%2Fcalculate&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalculation"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external free" href="http://science.jrank.org/pages/7536/Calculation-Computation.html" rel="nofollow">http://science.jrank.org/pages/7536/Calculation-Computation.html</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external free" href="http://science.jrank.org/pages/8509/Calculation-Computation-Premodern-Early-Modern-Non-Western.html" rel="nofollow">http://science.jrank.org/pages/8509/Calculation-Computation-Premodern-Early-Modern-Non-Western.html</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calculation&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.wdl.org/en/item/4255" rel="nofollow">"The Lifting of the Veil in the Operations of Calculation"</a> is a manuscript, from the 18th-century, in Arabic, by <a href="/wiki/Ibn_al-Banna%27_al-Marrakushi" title="Ibn al-Banna' al-Marrakushi">Ibn al-Banna' al-Marrakushi</a>, about calculation processes</li></ul>
+<div aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q622821&amp;#124;Edit_this_at_Wikidata" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-group" id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q622821&amp;#124;Edit_this_at_Wikidata" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q622821" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" data-file-height="600" data-file-width="600" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" style="vertical-align: text-top" width="10"/></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00565378" rel="nofollow">00565378</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2225
+Cached time: 20181010113346
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.176 seconds
+Real time usage: 0.271 seconds
+Preprocessor visited node count: 476/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 14117/2097152 bytes
+Template argument size: 303/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3991/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.088/10.000 seconds
+Lua memory usage: 2.73 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  192.496      1 -total
+ 31.63%   60.880      1 Template:Reflist
+ 28.49%   54.839      1 Template:Cite_web
+ 18.70%   36.005      1 Template:Authority_control
+ 16.82%   32.382      1 Template:Refimprove
+ 12.66%   24.364      1 Template:Ambox
+ 11.66%   22.443      1 Template:For
+  6.48%   12.471      1 Template:Wiktionary
+  5.52%   10.634      1 Template:Sister_project
+  4.59%    8.834      1 Template:Calculation_results
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:239121-0!canonical!math=5 and timestamp 20181010113346 and revision id 857300251
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Calculation&amp;oldid=857300251">https://en.wikipedia.org/w/index.php?title=Calculation&amp;oldid=857300251</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Elementary_arithmetic" title="Category:Elementary arithmetic">Elementary arithmetic</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2009" title="Category:Articles needing additional references from December 2009">Articles needing additional references from December 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Calculation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Calculation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Calculation" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Calculation" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Calculation">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Calculation&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Calculation&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Calculation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Calculation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Calculation&amp;oldid=857300251" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Calculation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q622821" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Calculation&amp;id=857300251" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Calculation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Calculation&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Calculation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D8%B3%D8%A7%D8%A8" hreflang="ar" lang="ar" title="حساب – Arabic">العربية</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/K%C3%A8-s%C7%B9g" hreflang="zh-min-nan" lang="zh-min-nan" title="Kè-sǹg – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%92%D1%8B%D0%BB%D1%96%D1%87%D1%8D%D0%BD%D0%BD%D0%B5" hreflang="be" lang="be" title="Вылічэнне – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Compte_(c%C3%A0lcul)" hreflang="ca" lang="ca" title="Compte (càlcul) – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/V%C3%BDpo%C4%8Det" hreflang="cs" lang="cs" title="Výpočet – Czech">Čeština</a></li><li class="interlanguage-link interwiki-sn"><a class="interlanguage-link-target" href="https://sn.wikipedia.org/wiki/Kusamhura" hreflang="sn" lang="sn" title="Kusamhura – Shona">ChiShona</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Rechnen" hreflang="de" lang="de" title="Rechnen – German">Deutsch</a></li><li class="interlanguage-link interwiki-eml"><a class="interlanguage-link-target" href="https://eml.wikipedia.org/wiki/C%C3%B3nt" hreflang="eml" lang="eml" title="Cónt – Emiliano-Romagnolo">Emiliàn e rumagnòl</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Cuenta_(matem%C3%A1ticas)" hreflang="es" lang="es" title="Cuenta (matemáticas) – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87" hreflang="fa" lang="fa" title="محاسبه – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Calcul_(math%C3%A9matiques)" hreflang="fr" lang="fr" title="Calcul (mathématiques) – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/C%C3%A1lculo" hreflang="gl" lang="gl" title="Cálculo – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B3%84%EC%82%B0" hreflang="ko" lang="ko" title="계산 – Korean">한국어</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Penghitungan" hreflang="id" lang="id" title="Penghitungan – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Calculo_(mathematica)" hreflang="ia" lang="ia" title="Calculo (mathematica) – Interlingua">Interlingua</a></li><li class="interlanguage-link interwiki-xh"><a class="interlanguage-link-target" href="https://xh.wikipedia.org/wiki/Ukubala" hreflang="xh" lang="xh" title="Ukubala – Xhosa">IsiXhosa</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Calcolo_(matematica)" hreflang="it" lang="it" title="Calcolo (matematica) – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%97%D7%99%D7%A9%D7%95%D7%91" hreflang="he" lang="he" title="חישוב – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kl"><a class="interlanguage-link-target" href="https://kl.wikipedia.org/wiki/Kisitsisinik_ilinniarneq" hreflang="kl" lang="kl" title="Kisitsisinik ilinniarneq – Kalaallisut">Kalaallisut</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%95%D1%81%D0%B5%D0%BF%D1%82%D0%B5%D1%83" hreflang="kk" lang="kk" title="Есептеу – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Kalkilasyon" hreflang="ht" lang="ht" title="Kalkilasyon – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%AD%D1%81%D0%B5%D0%BF%D1%82%D3%A9%D3%A9" hreflang="ky" lang="ky" title="Эсептөө – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Kalkuliacija" hreflang="lt" lang="lt" title="Kalkuliacija – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-jbo"><a class="interlanguage-link-target" href="https://jbo.wikipedia.org/wiki/kanji" hreflang="jbo" lang="jbo" title="kanji – Lojban">La .lojban.</a></li><li class="interlanguage-link interwiki-mg"><a class="interlanguage-link-target" href="https://mg.wikipedia.org/wiki/Kajy" hreflang="mg" lang="mg" title="Kajy – Malagasy">Malagasy</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97" hreflang="ja" lang="ja" title="計算 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Kalkulasjon" hreflang="no" lang="no" title="Kalkulasjon – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Obliczenia" hreflang="pl" lang="pl" title="Obliczenia – Polish">Polski</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" hreflang="ru" lang="ru" title="Вычисление – Russian">Русский</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/V%C3%BDpo%C4%8Det" hreflang="sk" lang="sk" title="Výpočet – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Kalkulacija" hreflang="sr" lang="sr" title="Kalkulacija – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Laskutoimitus" hreflang="fi" lang="fi" title="Laskutoimitus – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Ber%C3%A4kning" hreflang="sv" lang="sv" title="Beräkning – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9E%D0%B1%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F" hreflang="uk" lang="uk" title="Обчислення – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vo"><a class="interlanguage-link-target" href="https://vo.wikipedia.org/wiki/Kalkulam" hreflang="vo" lang="vo" title="Kalkulam – Volapük">Volapük</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E8%A8%88%E7%AE%97" hreflang="zh-yue" lang="zh-yue" title="計算 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97" hreflang="zh" lang="zh" title="计算 – Chinese">中文</a></li><li class="interlanguage-link interwiki-lfn"><a class="interlanguage-link-target" href="https://lfn.wikipedia.org/wiki/Calcula" hreflang="lfn" lang="lfn" title="Calcula – Lingua Franca Nova">Lingua Franca Nova</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q622821#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 30 August 2018, at 20:56<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Calculation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.176","walltime":"0.271","ppvisitednodes":{"value":476,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":14117,"limit":2097152},"templateargumentsize":{"value":303,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3991,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  192.496      1 -total"," 31.63%   60.880      1 Template:Reflist"," 28.49%   54.839      1 Template:Cite_web"," 18.70%   36.005      1 Template:Authority_control"," 16.82%   32.382      1 Template:Refimprove"," 12.66%   24.364      1 Template:Ambox"," 11.66%   22.443      1 Template:For","  6.48%   12.471      1 Template:Wiktionary","  5.52%   10.634      1 Template:Sister_project","  4.59%    8.834      1 Template:Calculation_results"]},"scribunto":{"limitreport-timeusage":{"value":"0.088","limit":"10.000"},"limitreport-memusage":{"value":2867520,"limit":52428800}},"cachereport":{"origin":"mw2225","timestamp":"20181010113346","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw2163"});});</script>
+</body>
+</html>

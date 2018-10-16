@@ -1,0 +1,1032 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Idealized greenhouse model - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Idealized_greenhouse_model","wgTitle":"Idealized greenhouse model","wgCurRevisionId":811096847,"wgRevisionId":811096847,"wgArticleId":20680975,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Atmospheric radiation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Idealized_greenhouse_model","wgRelevantArticleId":20680975,"wgRequestId":"W7@RGgpAADkAAHpUPEgAAAAP","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1656688","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Idealized_greenhouse_model" rel="alternate"/>
+<link href="/w/index.php?title=Idealized_greenhouse_model&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Idealized_greenhouse_model&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Idealized_greenhouse_model" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Idealized_greenhouse_model rootpage-Idealized_greenhouse_model skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Idealized greenhouse model</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>The surface of the <a href="/wiki/Sun" title="Sun">Sun</a> radiates <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">light and heat</a> at approximately 5,500 °C. The <a href="/wiki/Earth" title="Earth">Earth</a> is much cooler and so radiates heat back away from itself at much longer wavelengths, mostly in the <a href="/wiki/Infrared" title="Infrared">infrared</a> range. The <b>idealized greenhouse model</b> is based on the fact that certain gases in the Earth's atmosphere, including <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> and <a class="mw-redirect" href="/wiki/Water_vapour" title="Water vapour">water vapour</a>, are transparent to the high-frequency, high-energy solar radiation, but are much more opaque to the lower frequency infrared radiation leaving the surface of the earth. Thus heat is easily let <i>in</i>, but is partially trapped by these gases as it tries to <i>leave</i>. Rather than get hotter and hotter, <a href="/wiki/Kirchhoff%27s_law_of_thermal_radiation" title="Kirchhoff's law of thermal radiation">Kirchhoff's law of thermal radiation</a> says that the gases of the atmosphere also have to re-emit the infrared energy that they absorb, and they do so, also at long infrared wavelengths, both upwards into space as well as downwards back towards the Earth's surface. In the long-term, thermal equilibrium is reached when all the heat energy arriving on the planet is leaving again at the same rate. In this idealized model, the greenhouse gases cause the surface of the planet to be warmer than it would be without them, in order for the required amount of heat energy finally to be radiated out into space from the top of the atmosphere.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p><p>The <a href="/wiki/Greenhouse_effect" title="Greenhouse effect">greenhouse effect</a> can be illustrated with an idealized planet. This is a common "textbook model":<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> the planet will have a constant surface temperature T<sub>s</sub> and an atmosphere with constant temperature T<sub>a</sub>.  For diagrammatic clarity, a gap can be depicted between the atmosphere and the surface. Alternatively, T<sub>s</sub> could be interpreted as a temperature representative of the surface and the lower atmosphere, and T<sub>a</sub> could be interpreted as the temperature of the upper atmosphere.  In order to justify that T<sub>a</sub> and T<sub>s</sub> remain constant over the planet, strong ocean and atmospheric currents can be imagined to provide plentiful lateral mixing.  Furthermore, any daily or seasonal cycles in temperature are assumed to be insignificant.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#The_model"><span class="tocnumber">1</span> <span class="toctext">The model</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Extensions"><span class="tocnumber">2</span> <span class="toctext">Extensions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Footnotes"><span class="tocnumber">4</span> <span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="The_model">The model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Idealized_greenhouse_model&amp;action=edit&amp;section=1" title="Edit section: The model">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Radiative_forcing" title="Radiative forcing">Radiative forcing</a></div>
+<p>The model will find the values of T<sub>s</sub> and T<sub>a</sub> that will allow the outgoing radiative power, escaping the top of the atmosphere, to be equal to the absorbed radiative power of <a href="/wiki/Sunlight" title="Sunlight">sunlight</a>. When applied to a planet like Earth, the outgoing radiation will be longwave and the sunlight will be shortwave. These two streams of radiation will have distinct emission and absorption characteristics.  In the idealized model, we assume the atmosphere is completely transparent to sunlight.  The planetary <a href="/wiki/Albedo" title="Albedo">albedo</a> α<sub>P</sub> is the fraction of the incoming solar flux that is reflected back to space (since the atmosphere is assumed totally transparent to solar radiation, it does not matter whether this albedo is imagined to be caused by reflection at the surface of the planet or at the top of the atmosphere or a mixture).  The flux density of the incoming solar radiation is specified by the <a href="/wiki/Solar_constant" title="Solar constant">solar constant</a> S<sub>0</sub>. For application to planet Earth, appropriate values are S<sub>0</sub>=1366 W m<sup>−2</sup> and α<sub>P</sub>=0.30. Accounting for the fact that the surface area of a sphere is 4 times the area of its intercept (its shadow), the average incoming radiation is 
+S<sub>0</sub>/4.
+</p><p>For longwave radiation, the surface of the Earth is assumed to have an emissivity of 1 (i.e., the earth is a black body in the infrared, which is realistic). The surface emits a radiative flux density F according to the <a class="mw-redirect" href="/wiki/Stefan-Boltzmann_law" title="Stefan-Boltzmann law">Stefan-Boltzmann law</a>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle F=\sigma T^{4}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>F</mi>
+<mo>=</mo>
+<mi>σ<!-- σ --></mi>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle F=\sigma T^{4}}</annotation>
+</semantics>
+</math></span><img alt="
+F=\sigma T^4
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e7c27076da61cdcba07610a191d8ef4a51e20d48" style="vertical-align: -0.338ex; width:8.943ex; height:2.676ex;"/></span></dd></dl>
+<p>where σ is the <a class="mw-redirect" href="/wiki/Stefan-Boltzmann_constant" title="Stefan-Boltzmann constant">Stefan-Boltzmann constant</a>. A key to understanding the greenhouse effect is <a href="/wiki/Kirchhoff%27s_law_of_thermal_radiation" title="Kirchhoff's law of thermal radiation">Kirchhoff's law of thermal radiation</a>. At any given wavelength the absorptivity of the atmosphere will be equal to the emissivity. Radiation from the surface could be in a slightly different portion of the infrared spectrum than the radiation emitted by the atmosphere.  The model assumes that the average emissivity (absorptivity) is identical for either of these streams of infrared radiation, as they interact with the atmosphere.  Thus, for longwave radiation, one symbol ε denotes both the emissivity and absorptivity of the atmosphere, for any stream of infrared radiation.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:IdealizedGreenhouseEmissivity78.png"><img alt="" class="thumbimage" data-file-height="607" data-file-width="940" height="258" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/IdealizedGreenhouseEmissivity78.png/400px-IdealizedGreenhouseEmissivity78.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/IdealizedGreenhouseEmissivity78.png/600px-IdealizedGreenhouseEmissivity78.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/IdealizedGreenhouseEmissivity78.png/800px-IdealizedGreenhouseEmissivity78.png 2x" width="400"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:IdealizedGreenhouseEmissivity78.png" title="Enlarge"></a></div>Idealized greenhouse model with an isothermal atmosphere. The blue arrows denote shortwave (solar) radiative flux density and the red arrow denotes longwave (terrestrial) radiative flux density. The radiation streams are shown with lateral displacement for clarity; they are collocated in the model. The atmosphere, which interacts only with the longwave radiation, is indicated by the layer within the dashed lines. A specific solution is depicted for ε=0.78 and α<sub>p</sub>=0.3, representing Planet Earth. The numbers in the parentheses indicate the flux densities as a percent of S<sub>0</sub>/4.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:IdealizedGreenhouseEmissivity82.png"><img alt="" class="thumbimage" data-file-height="607" data-file-width="940" height="258" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/IdealizedGreenhouseEmissivity82.png/400px-IdealizedGreenhouseEmissivity82.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/IdealizedGreenhouseEmissivity82.png/600px-IdealizedGreenhouseEmissivity82.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/IdealizedGreenhouseEmissivity82.png/800px-IdealizedGreenhouseEmissivity82.png 2x" width="400"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:IdealizedGreenhouseEmissivity82.png" title="Enlarge"></a></div>The equilibrium solution with ε=0.82. The increase by Δε=0.04 corresponds to doubling carbon dioxide and the associated positive feedback on water vapor.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:IdealizedGreenhouseEmissivity00.png"><img alt="" class="thumbimage" data-file-height="607" data-file-width="940" height="258" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/IdealizedGreenhouseEmissivity00.png/400px-IdealizedGreenhouseEmissivity00.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/IdealizedGreenhouseEmissivity00.png/600px-IdealizedGreenhouseEmissivity00.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/IdealizedGreenhouseEmissivity00.png/800px-IdealizedGreenhouseEmissivity00.png 2x" width="400"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:IdealizedGreenhouseEmissivity00.png" title="Enlarge"></a></div>The equilibrium solution with no greenhouse effect: ε=0</div></div></div>
+<p>The infrared flux density out of the top of the atmosphere:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle F\uparrow =\epsilon \sigma T_{a}^{4}+(1-\epsilon )\sigma T_{s}^{4}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>F</mi>
+<mo stretchy="false">↑<!-- ↑ -->=</mo>
+<mi>ϵ<!-- ϵ --></mi>
+<mi>σ<!-- σ --></mi>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mi>ϵ<!-- ϵ --></mi>
+<mo stretchy="false">)</mo>
+<mi>σ<!-- σ --></mi>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle F\uparrow =\epsilon \sigma T_{a}^{4}+(1-\epsilon )\sigma T_{s}^{4}}</annotation>
+</semantics>
+</math></span><img alt="
+F\uparrow =\epsilon \sigma T_a^4 + (1-\epsilon) \sigma T_s^4
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/53aff53167769e51a699b4b08be338e5f9c56dbe" style="vertical-align: -0.838ex; width:24.75ex; height:3.009ex;"/></span></dd></dl>
+<p>In the last term, ε represents the fraction of upward longwave radiation from the surface that is absorbed, the absorptivity of the atmosphere. In the first term on the right, ε is the emissivity of the atmosphere, the adjustment of the Stefan-Boltzmann law to account for the fact that the atmosphere is not optically thick.  Thus ε plays the role of neatly blending, or averaging, the two streams of radiation in the calculation of the outward flux density.
+</p><p>Zero net radiation leaving the top of the atmosphere requires:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle -{\frac {1}{4}}S_{0}(1-\alpha _{p})+\epsilon \sigma T_{a}^{4}+(1-\epsilon )\sigma T_{s}^{4}=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</mrow>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mi>ϵ<!-- ϵ --></mi>
+<mi>σ<!-- σ --></mi>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mi>ϵ<!-- ϵ --></mi>
+<mo stretchy="false">)</mo>
+<mi>σ<!-- σ --></mi>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle -{\frac {1}{4}}S_{0}(1-\alpha _{p})+\epsilon \sigma T_{a}^{4}+(1-\epsilon )\sigma T_{s}^{4}=0}</annotation>
+</semantics>
+</math></span><img alt="
+-\frac{1}{4}S_0(1-\alpha_p)+\epsilon \sigma T_a^4 + (1-\epsilon) \sigma T_s^4= 0 
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2fd34513c7abf63b413019a1e859fa4e7011db70" style="vertical-align: -1.838ex; width:40.495ex; height:5.176ex;"/></span></dd></dl>
+<p>Zero net radiation entering the surface requires: 
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {1}{4}}S_{0}(1-\alpha _{p})+\epsilon \sigma T_{a}^{4}-\sigma T_{s}^{4}=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</mrow>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mi>ϵ<!-- ϵ --></mi>
+<mi>σ<!-- σ --></mi>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+<mo>−<!-- − --></mo>
+<mi>σ<!-- σ --></mi>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {1}{4}}S_{0}(1-\alpha _{p})+\epsilon \sigma T_{a}^{4}-\sigma T_{s}^{4}=0}</annotation>
+</semantics>
+</math></span><img alt="
+\frac{1}{4}S_0(1-\alpha_p)+\epsilon \sigma T_a^4 - \sigma T_s^4 = 0 
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/be08a9a0ef3e7acf81abd393d607fc46a23c3660" style="vertical-align: -1.838ex; width:31.93ex; height:5.176ex;"/></span></dd></dl>
+<p>Energy equilibrium of the atmosphere can be either derived from the two above equilibrium conditions, or independently deduced: 
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 2\epsilon \sigma T_{a}^{4}-\epsilon \sigma T_{s}^{4}=0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>2</mn>
+<mi>ϵ<!-- ϵ --></mi>
+<mi>σ<!-- σ --></mi>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+<mo>−<!-- − --></mo>
+<mi>ϵ<!-- ϵ --></mi>
+<mi>σ<!-- σ --></mi>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 2\epsilon \sigma T_{a}^{4}-\epsilon \sigma T_{s}^{4}=0}</annotation>
+</semantics>
+</math></span><img alt="
+2 \epsilon \sigma T_a^4 - \epsilon \sigma T_s^4 = 0 
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2fef6e1275429fedcadc4683229aa71b4677eb5d" style="vertical-align: -0.671ex; width:18.36ex; height:2.843ex;"/></span></dd></dl>
+<p>Note the important factor of 2, resulting from the fact that the atmosphere radiates both upward and downward.
+Thus the ratio of T<sub>a</sub> to T<sub>s</sub> is independent of ε:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{a}={T_{s} \over 2^{1/4}}={T_{s} \over 1.189}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<msup>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>4</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mn>1.189</mn>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{a}={T_{s} \over 2^{1/4}}={T_{s} \over 1.189}}</annotation>
+</semantics>
+</math></span><img alt=" T_a =  { T_s \over 2^{1/4} }  
+ =  { T_s \over 1.189 }  
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0634ea2571c2417f206a79ba39ed1cd10c87d056" style="vertical-align: -2.505ex; width:19.486ex; height:5.843ex;"/></span></dd></dl>
+<p>Thus T<sub>a</sub> can be expressed in terms of T<sub>s</sub>, and a solution is obtained for
+T<sub>s</sub> in terms of the model input parameters:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {1}{4}}S_{0}(1-\alpha _{p})=\left(1-{\frac {\epsilon }{2}}\right)\sigma T_{s}^{4}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</mrow>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>ϵ<!-- ϵ --></mi>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mi>σ<!-- σ --></mi>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {1}{4}}S_{0}(1-\alpha _{p})=\left(1-{\frac {\epsilon }{2}}\right)\sigma T_{s}^{4}}</annotation>
+</semantics>
+</math></span><img alt="
+\frac{1}{4}S_0(1-\alpha_p)=\left( 1-\frac{\epsilon}{2} \right) \sigma T_s^4
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d73671b37203e633c9ac384d87e8e0e2aef17a03" style="vertical-align: -1.838ex; width:29.203ex; height:5.176ex;"/></span></dd></dl>
+<p>or
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{s}=\left[{\frac {S_{0}(1-\alpha _{p})}{4\sigma }}{\frac {1}{1-{\epsilon  \over 2}}}\right]^{1/4}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msup>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mn>4</mn>
+<mi>σ<!-- σ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>ϵ<!-- ϵ --></mi>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>4</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{s}=\left[{\frac {S_{0}(1-\alpha _{p})}{4\sigma }}{\frac {1}{1-{\epsilon  \over 2}}}\right]^{1/4}}</annotation>
+</semantics>
+</math></span><img alt="
+T_s=\left[ \frac{S_0(1-\alpha_p)}{4\sigma} \frac{1}{1-{\epsilon \over 2}} \right]^{1/4}
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9a9c7681a3bcdb037bf5376f62f3db7894efeadf" style="vertical-align: -3.171ex; width:29.039ex; height:8.009ex;"/></span></dd></dl>
+<p>The solution can also be expressed in terms of the <a href="/wiki/Effective_temperature" title="Effective temperature"><i>effective emission temperature</i></a> T<sub>e</sub>, which is the temperature that characterizes the outgoing infrared flux density F, as if the radiator were a perfect radiator obeying F=σT<sub>e</sub><sup>4</sup>. This is easy to conceptualize in the context of the
+model. T<sub>e</sub> is also the solution for T<sub>s</sub>, for the case of ε=0, or no atmosphere: 
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{e}\equiv \left[{\frac {S_{0}(1-\alpha _{p})}{4\sigma }}\right]^{1/4}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<mo>≡<!-- ≡ --></mo>
+<msup>
+<mrow>
+<mo>[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>α<!-- α --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mn>4</mn>
+<mi>σ<!-- σ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>4</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{e}\equiv \left[{\frac {S_{0}(1-\alpha _{p})}{4\sigma }}\right]^{1/4}}</annotation>
+</semantics>
+</math></span><img alt="
+T_e \equiv \left[ \frac{S_0(1-\alpha_p)}{4\sigma}  \right]^{1/4}
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5ac5b2d4114bea4f2395831484eae791c6b8061a" style="vertical-align: -2.505ex; width:22.282ex; height:7.009ex;"/></span></dd></dl>
+<p>With the definition of  T<sub>e</sub>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{s}=T_{e}\left[{\frac {1}{1-{\epsilon  \over 2}}}\right]^{1/4}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<msup>
+<mrow>
+<mo>[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>ϵ<!-- ϵ --></mi>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>4</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{s}=T_{e}\left[{\frac {1}{1-{\epsilon  \over 2}}}\right]^{1/4}}</annotation>
+</semantics>
+</math></span><img alt="
+T_s= T_e \left[ \frac{1}{1-{\epsilon \over 2}} \right]^{1/4}
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2a5998279e0bd2608965c688302065bfabf57f61" style="vertical-align: -3.171ex; width:19.721ex; height:8.009ex;"/></span></dd></dl>
+<p>For a perfect greenhouse, with no radiation escaping from the surface, or ε=1:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{s}=T_{e}2^{1/4}=1.189T_{e}\qquad T_{a}=T_{e}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<msup>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>4</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<mn>1.189</mn>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<mspace width="2em"></mspace>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{s}=T_{e}2^{1/4}=1.189T_{e}\qquad T_{a}=T_{e}}</annotation>
+</semantics>
+</math></span><img alt="
+T_s= T_e 2^{1/4} = 1.189 T_e \qquad T_a=T_e
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d3523c2648581ce9ff469b7bc7e92dce6e7582b3" style="vertical-align: -0.671ex; width:34.986ex; height:3.176ex;"/></span></dd></dl>
+<p>Using the parameters defined above to be appropriate for Earth,
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{e}=255~\mathrm {K} =-18~\mathrm {C} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>255</mn>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">K</mi>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mn>18</mn>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">C</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{e}=255~\mathrm {K} =-18~\mathrm {C} }</annotation>
+</semantics>
+</math></span><img alt=" T_e = 255 ~\mathrm{K} = -18 ~\mathrm{C} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/68ab43fe9622af30c1a050afc5690d6bf686d4cd" style="vertical-align: -0.671ex; width:20.821ex; height:2.509ex;"/></span></dd></dl>
+<p>For ε=1: 
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{s}=303~\mathrm {K} =30~\mathrm {C} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>303</mn>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">K</mi>
+</mrow>
+<mo>=</mo>
+<mn>30</mn>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">C</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{s}=303~\mathrm {K} =30~\mathrm {C} }</annotation>
+</semantics>
+</math></span><img alt=" T_s = 303 ~\mathrm{K} = 30 ~\mathrm{C} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/29945bd272349720c0675a0db3330efe7a290a5e" style="vertical-align: -0.671ex; width:19.018ex; height:2.509ex;"/></span></dd></dl>
+<p>For ε=0.78,
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{s}=288.3~\mathrm {K} \qquad T_{a}=242.5~\mathrm {K} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>288.3</mn>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">K</mi>
+</mrow>
+<mspace width="2em"></mspace>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>242.5</mn>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">K</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{s}=288.3~\mathrm {K} \qquad T_{a}=242.5~\mathrm {K} }</annotation>
+</semantics>
+</math></span><img alt=" T_s = 288.3 ~\mathrm{K} \qquad T_a = 242.5 ~\mathrm{K} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9bd848b616d5b5588d42177fbaf7001286afafff" style="vertical-align: -0.671ex; width:31.033ex; height:2.509ex;"/></span>.</dd></dl>
+<p>This value of T<sub>s</sub> happens to be close to the published 287.2 K of the average global "surface temperature" based on measurements.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> ε=0.78 implies 22% of the surface radiation escapes directly to space, consistent with the statement of 15% to 30% escaping in the <a href="/wiki/Greenhouse_effect" title="Greenhouse effect">greenhouse effect</a>.
+</p><p>The <a href="/wiki/Radiative_forcing" title="Radiative forcing">radiative forcing</a> for doubling carbon dioxide is 3.71 W m<sup>−2</sup>, in a simple parameterization. This is also the value endorsed by the <a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">IPCC</a>.
+From the equation for <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle F\uparrow }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>F</mi>
+<mo stretchy="false">↑<!-- ↑ --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle F\uparrow }</annotation>
+</semantics>
+</math></span><img alt="F\uparrow" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0026bd0742baccfd370fff470fe54dadb8efd35a" style="vertical-align: -0.671ex; width:3.548ex; height:2.509ex;"/></span>,
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta F\uparrow =\Delta \epsilon \left(\sigma T_{a}^{4}-\sigma T_{s}^{4}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>F</mi>
+<mo stretchy="false">↑<!-- ↑ -->=</mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>ϵ<!-- ϵ --></mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mi>σ<!-- σ --></mi>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+<mo>−<!-- − --></mo>
+<mi>σ<!-- σ --></mi>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta F\uparrow =\Delta \epsilon \left(\sigma T_{a}^{4}-\sigma T_{s}^{4}\right)}</annotation>
+</semantics>
+</math></span><img alt=" \Delta F\uparrow = \Delta\epsilon \left( \sigma T_a^4 -\sigma T_s^4 \right) " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e6a61daaa9f0603922901ba26cc189d14a1e4d5d" style="vertical-align: -1.005ex; width:24.383ex; height:3.176ex;"/></span></dd></dl>
+<p>Using the values of T<sub>s</sub> and T<sub>a</sub> for ε=0.78 allows for  <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta F\uparrow }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>F</mi>
+<mo stretchy="false">↑<!-- ↑ --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta F\uparrow }</annotation>
+</semantics>
+</math></span><img alt=" \Delta F\uparrow " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7a1651a8dad57521b25c4ffd54eca588909194b4" style="vertical-align: -0.671ex; width:5.484ex; height:2.509ex;"/></span>= -3.71 W m<sup>−2</sup> with Δε=.019. Thus a change of ε from 0.78 to 0.80 is consistent with the radiative forcing from 
+a doubling of carbon dioxide. For ε=0.80,
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T_{s}=289.5~\mathrm {K} }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>289.5</mn>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">K</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{s}=289.5~\mathrm {K} }</annotation>
+</semantics>
+</math></span><img alt=" T_s = 289.5  ~\mathrm{K} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7e971b7ee76bf07f4b0cbb2892b5c4f504e8b4f5" style="vertical-align: -0.671ex; width:13.145ex; height:2.509ex;"/></span></dd></dl>
+<p>Thus this model predicts a global warming of ΔT<sub>s</sub> = 1.2  K for a doubling of carbon dioxide. A typical prediction from a <a class="mw-redirect" href="/wiki/Global_climate_model" title="Global climate model">GCM</a> is  3 K surface warming, primarily because the GCM allows for positive feedback, notably from increased water vapor. A simple surrogate for including this feedback process is to posit an additional increase of Δε=.02, for a total Δε=.04, to approximate the effect of the increase in water vapor that would be associated with an increase in temperature. This idealized model then predicts a global warming of ΔT<sub>s</sub> = 2.4 K for a doubling of carbon dioxide, roughly consistent with the IPCC.
+</p>
+<h2><span class="mw-headline" id="Extensions">Extensions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Idealized_greenhouse_model&amp;action=edit&amp;section=2" title="Edit section: Extensions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The simple one-level atmospheric model can be readily extended to a multiple-layer atmosphere. In this case the equations for the temperatures become a series of coupled equations. This simple model always predicts a decreasing temperature away from the surface, and all levels <i>increase</i> in temperature as "greenhouse gases are added". Neither of these effects are fully realistic: in the real atmosphere temperatures increase above the tropopause, and temperatures in that layer are predicted (and observed) to <i>decrease</i> as GHG's are added. This is directly related to the non-greyness of the real atmosphere.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Idealized_greenhouse_model&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Greenhouse_effect" title="Greenhouse effect">Greenhouse effect</a></li>
+<li><a href="/wiki/Anti-greenhouse_effect" title="Anti-greenhouse effect">Anti-greenhouse effect</a></li>
+<li><a href="/wiki/Climate_change" title="Climate change">Climate change</a></li>
+<li><a class="mw-redirect" href="/wiki/Climate_forcing" title="Climate forcing">Climate forcing</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li>
+<li><a class="mw-redirect" href="/wiki/Earth%27s_radiation_balance" title="Earth's radiation balance">Earth's radiation balance</a></li>
+<li><a href="/wiki/Global_dimming" title="Global dimming">Global dimming</a></li>
+<li><a href="/wiki/Global_warming" title="Global warming">Global warming</a></li></ul>
+<h2><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Idealized_greenhouse_model&amp;action=edit&amp;section=4" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://oceanservice.noaa.gov/education/pd/climate/factsheets/whatgreenhouse.pdf" rel="nofollow">"What is the Greenhouse Effect?"</a> <span class="cs1-format">(PDF)</span>. Intergovernmental Panel on Climate Change. 2007.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What+is+the+Greenhouse+Effect%3F&amp;rft.pub=Intergovernmental+Panel+on+Climate+Change&amp;rft.date=2007&amp;rft_id=http%3A%2F%2Foceanservice.noaa.gov%2Feducation%2Fpd%2Fclimate%2Ffactsheets%2Fwhatgreenhouse.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIdealized+greenhouse+model"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.geo.utexas.edu/courses/387H/Lectures/chap2.pdf" rel="nofollow">Chapter 2, The global energy balance</a>, UT course <i>Physical Climatology</i></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1029/1999RG900002/abstract" rel="nofollow">"Surface air temperature and its changes over the past 150 years"</a>. Reviews of Geophysics. 1999.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Surface+air+temperature+and+its+changes+over+the+past+150+years&amp;rft.pub=Reviews+of+Geophysics&amp;rft.date=1999&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1029%2F1999RG900002%2Fabstract&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIdealized+greenhouse+model"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Idealized_greenhouse_model&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book">Bohren, Craig F.; Clothiaux, Eugene E. (2006). "1.6 Emissivity and Global Warming". <i>Fundamentals of Atmospheric Radiation</i>. Chichester: <a href="/wiki/John_Wiley_%26_Sons" title="John Wiley &amp; Sons">John Wiley &amp; Sons</a>. pp. 31–41. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/3-527-40503-8" title="Special:BookSources/3-527-40503-8">3-527-40503-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=1.6+Emissivity+and+Global+Warming&amp;rft.btitle=Fundamentals+of+Atmospheric+Radiation&amp;rft.place=Chichester&amp;rft.pages=31-41&amp;rft.pub=John+Wiley+%26+Sons&amp;rft.date=2006&amp;rft.isbn=3-527-40503-8&amp;rft.au=Bohren%2C+Craig+F.&amp;rft.au=Clothiaux%2C+Eugene+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIdealized+greenhouse+model"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li>
+<li><cite class="citation book">Petty, Grant W. (2006). "6.4.3 Simple Radiative Models of the Atmosphere". <i>A First Course in Atmospheric Radiation</i> (2nd ed.). Madison, Wisconsin: Sundog Pub. pp. 139–143. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-9729033-1-3" title="Special:BookSources/0-9729033-1-3">0-9729033-1-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=6.4.3+Simple+Radiative+Models+of+the+Atmosphere&amp;rft.btitle=A+First+Course+in+Atmospheric+Radiation&amp;rft.place=Madison%2C+Wisconsin&amp;rft.pages=139-143&amp;rft.edition=2nd&amp;rft.pub=Sundog+Pub&amp;rft.date=2006&amp;rft.isbn=0-9729033-1-3&amp;rft.au=Petty%2C+Grant+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIdealized+greenhouse+model"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Idealized_greenhouse_model&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="800" data-file-width="1000" height="32" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/40px-Wikiversity-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/80px-Wikiversity-logo.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Wikiversity has learning resources about <i><b><a class="extiw" href="https://en.wikiversity.org/wiki/Topic:Climate_change" title="v:Topic:Climate change">Topic:Climate change</a></b></i></td></tr></tbody></table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="400" data-file-width="400" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Wikibooks has a book on the topic of: <i><b><a class="extiw" href="https://en.wikibooks.org/wiki/Climate_Change" title="wikibooks:Climate Change">Climate Change</a></b></i></td></tr></tbody></table>
+<ul><li><a class="external text" href="https://climateblab.github.io/ideal-greenhouse/" rel="nofollow">Computing wikipedia's idealized greenhouse model</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1252
+Cached time: 20181011020620
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.152 seconds
+Real time usage: 0.425 seconds
+Preprocessor visited node count: 524/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 9917/2097152 bytes
+Template argument size: 428/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 9215/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.066/10.000 seconds
+Lua memory usage: 2.29 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  132.011      1 -total
+ 57.74%   76.227      1 Template:Reflist
+ 49.92%   65.895      2 Template:Cite_web
+ 19.57%   25.840      1 Template:See_also
+  9.22%   12.172      2 Template:Sister_project
+  8.62%   11.373      2 Template:Cite_book
+  7.49%    9.888      2 Template:Side_box
+  7.48%    9.879      1 Template:Wikiversity
+  4.47%    5.902      1 Template:Wikibooks
+  1.71%    2.261      3 Template:Trim
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:20680975-0!canonical!math=5 and timestamp 20181011020620 and revision id 811096847
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Idealized_greenhouse_model&amp;oldid=811096847">https://en.wikipedia.org/w/index.php?title=Idealized_greenhouse_model&amp;oldid=811096847</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Atmospheric_radiation" title="Category:Atmospheric radiation">Atmospheric radiation</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Idealized+greenhouse+model" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Idealized+greenhouse+model" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Idealized_greenhouse_model" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Idealized_greenhouse_model" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Idealized_greenhouse_model">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Idealized_greenhouse_model&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Idealized_greenhouse_model&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Idealized_greenhouse_model" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Idealized_greenhouse_model" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Idealized_greenhouse_model&amp;oldid=811096847" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Idealized_greenhouse_model&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1656688" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Idealized_greenhouse_model&amp;id=811096847" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Idealized+greenhouse+model">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Idealized+greenhouse+model&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Idealized_greenhouse_model&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Idealisiertes_Treibhausmodell" hreflang="de" lang="de" title="Idealisiertes Treibhausmodell – German">Deutsch</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1656688#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 19 November 2017, at 14:19<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Idealized_greenhouse_model&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.152","walltime":"0.425","ppvisitednodes":{"value":524,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":9917,"limit":2097152},"templateargumentsize":{"value":428,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9215,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  132.011      1 -total"," 57.74%   76.227      1 Template:Reflist"," 49.92%   65.895      2 Template:Cite_web"," 19.57%   25.840      1 Template:See_also","  9.22%   12.172      2 Template:Sister_project","  8.62%   11.373      2 Template:Cite_book","  7.49%    9.888      2 Template:Side_box","  7.48%    9.879      1 Template:Wikiversity","  4.47%    5.902      1 Template:Wikibooks","  1.71%    2.261      3 Template:Trim"]},"scribunto":{"limitreport-timeusage":{"value":"0.066","limit":"10.000"},"limitreport-memusage":{"value":2396216,"limit":52428800}},"cachereport":{"origin":"mw1252","timestamp":"20181011020620","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw1262"});});</script>
+</body>
+</html>

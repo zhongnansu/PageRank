@@ -1,0 +1,2469 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Ideal gas - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ideal_gas","wgTitle":"Ideal gas","wgCurRevisionId":863439173,"wgRevisionId":863439173,"wgArticleId":65905,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from June 2017","Ideal gas"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ideal_gas","wgRelevantArticleId":65905,"wgRequestId":"W75UJQpAICwAAFflPE0AAACW","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q172280","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/1200px-Carnot_heat_engine_2.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ideal_gas" rel="alternate"/>
+<link href="/w/index.php?title=Ideal_gas&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Ideal_gas&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Ideal_gas" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Ideal_gas rootpage-Ideal_gas skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Ideal gas</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.3em;border-bottom:1px solid #aaa;"><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a></th></tr><tr><td style="padding:0.2em 0 0.4em;display:block;margin:0.3em 0 0.4em;"><a href="/wiki/Carnot_heat_engine" title="Carnot heat engine"><img alt="Carnot heat engine 2.svg" data-file-height="370" data-file-width="840" height="97" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/220px-Carnot_heat_engine_2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/330px-Carnot_heat_engine_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/440px-Carnot_heat_engine_2.svg.png 2x" width="220"/></a><div style="padding-top:0.2em;line-height:1.2em">The classical <a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">Carnot heat engine</a></div></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Branches</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="hlist">
+<ul><li><a href="/wiki/Thermodynamics" title="Thermodynamics">Classical</a></li>
+<li><a href="/wiki/Statistical_mechanics" title="Statistical mechanics">Statistical</a></li>
+<li><a href="/wiki/Chemical_thermodynamics" title="Chemical thermodynamics">Chemical</a></li>
+<li><a href="/wiki/Quantum_thermodynamics" title="Quantum thermodynamics">Quantum thermodynamics</a></li></ul>
+</div>
+<ul><li><a href="/wiki/Equilibrium_thermodynamics" title="Equilibrium thermodynamics">Equilibrium</a> / <a href="/wiki/Non-equilibrium_thermodynamics" title="Non-equilibrium thermodynamics">Non-equilibrium</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Laws_of_thermodynamics" title="Laws of thermodynamics">Laws</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="hlist">
+<ul><li><a href="/wiki/Zeroth_law_of_thermodynamics" title="Zeroth law of thermodynamics">Zeroth</a></li>
+<li><a href="/wiki/First_law_of_thermodynamics" title="First law of thermodynamics">First</a></li>
+<li><a href="/wiki/Second_law_of_thermodynamics" title="Second law of thermodynamics">Second</a></li>
+<li><a href="/wiki/Third_law_of_thermodynamics" title="Third law of thermodynamics">Third</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_system" title="Thermodynamic system">Systems</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+<a href="/wiki/Thermodynamic_state" title="Thermodynamic state">State</a></th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Equation_of_state" title="Equation of state">Equation of state</a></li>
+<li><a class="mw-selflink selflink">Ideal gas</a></li>
+<li><a href="/wiki/Real_gas" title="Real gas">Real gas</a></li>
+<li><a href="/wiki/State_of_matter" title="State of matter">State of matter</a></li>
+<li><a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">Equilibrium</a></li>
+<li><a href="/wiki/Control_volume" title="Control volume">Control volume</a></li>
+<li><a href="/wiki/Thermodynamic_instruments" title="Thermodynamic instruments">Instruments</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+<a href="/wiki/Thermodynamic_process" title="Thermodynamic process">Processes</a></th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Isobaric_process" title="Isobaric process">Isobaric</a></li>
+<li><a href="/wiki/Isochoric_process" title="Isochoric process">Isochoric</a></li>
+<li><a href="/wiki/Isothermal_process" title="Isothermal process">Isothermal</a></li>
+<li><a href="/wiki/Adiabatic_process" title="Adiabatic process">Adiabatic</a></li>
+<li><a href="/wiki/Isentropic_process" title="Isentropic process">Isentropic</a></li>
+<li><a href="/wiki/Isenthalpic_process" title="Isenthalpic process">Isenthalpic</a></li>
+<li><a href="/wiki/Quasistatic_process" title="Quasistatic process">Quasistatic</a></li>
+<li><a href="/wiki/Polytropic_process" title="Polytropic process">Polytropic</a></li>
+<li><a class="mw-redirect" href="/wiki/Free_expansion" title="Free expansion">Free expansion</a></li>
+<li><a href="/wiki/Reversible_process_(thermodynamics)" title="Reversible process (thermodynamics)">Reversibility</a></li>
+<li><a href="/wiki/Irreversible_process" title="Irreversible process">Irreversibility</a></li>
+<li><a href="/wiki/Endoreversible_thermodynamics" title="Endoreversible thermodynamics">Endoreversibility</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+<a href="/wiki/Thermodynamic_cycle" title="Thermodynamic cycle">Cycles</a></th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Heat_engine" title="Heat engine">Heat engines</a></li>
+<li><a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">Heat pumps</a></li>
+<li><a href="/wiki/Thermal_efficiency" title="Thermal efficiency">Thermal efficiency</a></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/List_of_thermodynamic_properties" title="List of thermodynamic properties">System properties</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div style="font-size:90%;padding-bottom:0.2em;border-bottom:1px solid #aaa;">Note: <a href="/wiki/Conjugate_variables_(thermodynamics)" title="Conjugate variables (thermodynamics)">Conjugate variables</a> in <i>italics</i></div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none;margin-top:0.4em;"><tbody><tr><td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;">
+<ul><li><a href="/wiki/Thermodynamic_diagrams" title="Thermodynamic diagrams">Property diagrams</a></li>
+<li><a href="/wiki/Intensive_and_extensive_properties" title="Intensive and extensive properties">Intensive and extensive properties</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+<a href="/wiki/Process_function" title="Process function">Process functions</a></th></tr><tr><td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;;padding-bottom:0.4em;">
+<div class="hlist">
+<ul><li><a href="/wiki/Work_(thermodynamics)" title="Work (thermodynamics)">Work</a></li>
+<li><a href="/wiki/Heat" title="Heat">Heat</a></li></ul>
+</div></td>
+</tr><tr><th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+<a href="/wiki/State_function" title="State function">Functions of state</a></th></tr><tr><td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;">
+<ul><li><a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">Temperature</a> / <i><a href="/wiki/Entropy" title="Entropy">Entropy</a></i> (<a href="/wiki/Introduction_to_entropy" title="Introduction to entropy">introduction</a>)</li>
+<li><a href="/wiki/Pressure" title="Pressure">Pressure</a> / <i><a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">Volume</a></i></li>
+<li><a href="/wiki/Chemical_potential" title="Chemical potential">Chemical potential</a> / <i><a href="/wiki/Particle_number" title="Particle number">Particle number</a></i></li>
+<li><a href="/wiki/Vapor_quality" title="Vapor quality">Vapor quality</a></li>
+<li><a href="/wiki/Reduced_properties" title="Reduced properties">Reduced properties</a></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Material_properties_(thermodynamics)" title="Material properties (thermodynamics)">Material properties</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Thermodynamic_databases_for_pure_substances" title="Thermodynamic databases for pure substances">Property databases</a></li></ul>
+<div style="font-size:90%;margin-top:0.4em;border-top:1px solid #aaa;text-align:center;">
+<table>
+<tbody><tr><td style="vertical-align:middle; text-align:right"><a href="/wiki/Heat_capacity" title="Heat capacity">Specific heat capacity</a> </td>
+<td style="vertical-align:middle; text-align:left"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c=}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<mo>=</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c=}</annotation>
+</semantics>
+</math></span><img alt="c=" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/891d40a9b18752b04065caee655d008b3ec11428" style="vertical-align: -0.338ex; width:3.46ex; height:1.676ex;"/></span></td>
+<td><table><tbody><tr><td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle T}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+</semantics>
+</math></span><img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.636ex; height:2.176ex;"/></span></td><td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \partial S}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial S}</annotation>
+</semantics>
+</math></span><img alt="\partial S" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c609f4d3c5692ea4495479ef47594dc67f9fa464" style="vertical-align: -0.338ex; width:2.817ex; height:2.176ex;"/></span></td></tr><tr><td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="N" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span></td><td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \partial T}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial T}</annotation>
+</semantics>
+</math></span><img alt="\partial T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/504aa558fff3d00d10b03cadb1085cb0b7bdc631" style="vertical-align: -0.338ex; width:2.954ex; height:2.176ex;"/></span></td></tr></tbody></table></td></tr>
+<tr><td style="vertical-align:middle; text-align:right"><a href="/wiki/Compressibility" title="Compressibility">Compressibility</a> </td>
+<td style="vertical-align:middle; text-align:left"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \beta =-}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>β<!-- β --></mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \beta =-}</annotation>
+</semantics>
+</math></span><img alt="\beta =-" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b01c042bf1456bd4d2a8caed1f4912820a7ecbb3" style="vertical-align: -0.671ex; width:6.239ex; height:2.509ex;"/></span></td>
+<td><table><tbody><tr><td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
+</semantics>
+</math></span><img alt="1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92d98b82a3778f043108d4e20960a9193df57cbf" style="vertical-align: -0.338ex; width:1.162ex; height:2.176ex;"/></span></td><td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \partial V}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial V}</annotation>
+</semantics>
+</math></span><img alt="\partial V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cecdd9d069fa84159940068fc11a91b6b3b9ee4" style="vertical-align: -0.338ex; width:3.105ex; height:2.176ex;"/></span></td></tr><tr><td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+</semantics>
+</math></span><img alt="V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" style="vertical-align: -0.338ex; width:1.787ex; height:2.176ex;"/></span></td><td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \partial p}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>p</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial p}</annotation>
+</semantics>
+</math></span><img alt="\partial p" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ebc4a48eb2412f08b54fe438b5139c88f9cfa372" style="vertical-align: -0.671ex; width:2.487ex; height:2.509ex;"/></span></td></tr></tbody></table></td></tr>
+<tr><td style="vertical-align:middle; text-align:right"><a href="/wiki/Thermal_expansion" title="Thermal expansion">Thermal expansion</a> </td>
+<td style="vertical-align:middle; text-align:left"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \alpha =}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha =}</annotation>
+</semantics>
+</math></span><img alt="\alpha =" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a92d4583d351f08c1c70985f0c843b2fff1b01e7" style="vertical-align: -0.338ex; width:3.941ex; height:1.676ex;"/></span></td>
+<td><table><tbody><tr><td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
+</semantics>
+</math></span><img alt="1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92d98b82a3778f043108d4e20960a9193df57cbf" style="vertical-align: -0.338ex; width:1.162ex; height:2.176ex;"/></span></td><td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \partial V}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial V}</annotation>
+</semantics>
+</math></span><img alt="\partial V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cecdd9d069fa84159940068fc11a91b6b3b9ee4" style="vertical-align: -0.338ex; width:3.105ex; height:2.176ex;"/></span></td></tr><tr><td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+</semantics>
+</math></span><img alt="V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" style="vertical-align: -0.338ex; width:1.787ex; height:2.176ex;"/></span></td><td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \partial T}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial T}</annotation>
+</semantics>
+</math></span><img alt="\partial T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/504aa558fff3d00d10b03cadb1085cb0b7bdc631" style="vertical-align: -0.338ex; width:2.954ex; height:2.176ex;"/></span></td></tr></tbody></table></td></tr>
+</tbody></table></div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_equations" title="Thermodynamic equations">Equations</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="hlist">
+<ul><li><a href="/wiki/Carnot%27s_theorem_(thermodynamics)" title="Carnot's theorem (thermodynamics)">Carnot's theorem</a></li>
+<li><a href="/wiki/Clausius_theorem" title="Clausius theorem">Clausius theorem</a></li>
+<li><a href="/wiki/Fundamental_thermodynamic_relation" title="Fundamental thermodynamic relation">Fundamental relation</a></li>
+<li><a href="/wiki/Ideal_gas_law" title="Ideal gas law">Ideal gas law</a></li></ul>
+</div>
+<ul><li><a href="/wiki/Maxwell_relations" title="Maxwell relations">Maxwell relations</a></li>
+<li><a href="/wiki/Onsager_reciprocal_relations" title="Onsager reciprocal relations">Onsager reciprocal relations</a></li>
+<li><a href="/wiki/Bridgman%27s_thermodynamic_equations" title="Bridgman's thermodynamic equations">Bridgman's equations</a></li>
+<li><i><a href="/wiki/Table_of_thermodynamic_equations" title="Table of thermodynamic equations">Table of thermodynamic equations</a></i></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_potential" title="Thermodynamic potential">Potentials</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="hlist">
+<ul><li><a href="/wiki/Thermodynamic_free_energy" title="Thermodynamic free energy">Free energy</a></li>
+<li><a href="/wiki/Free_entropy" title="Free entropy">Free entropy</a></li></ul>
+</div>
+<div class="plainlist"><ul><li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Internal_energy" title="Internal energy">Internal energy</a><br/><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle U(S,V)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mo stretchy="false">(</mo>
+<mi>S</mi>
+<mo>,</mo>
+<mi>V</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U(S,V)}</annotation>
+</semantics>
+</math></span><img alt="U(S,V)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/921f33f9c6551562ec836007b035c2de6323d2d6" style="vertical-align: -0.838ex; width:7.912ex; height:2.843ex;"/></span></li><li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Enthalpy" title="Enthalpy">Enthalpy</a><br/><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle H(S,p)=U+pV}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>H</mi>
+<mo stretchy="false">(</mo>
+<mi>S</mi>
+<mo>,</mo>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>U</mi>
+<mo>+</mo>
+<mi>p</mi>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle H(S,p)=U+pV}</annotation>
+</semantics>
+</math></span><img alt="H(S,p)=U+pV" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6407d78e5f39d07f70e2414a92e08e2e068519f3" style="vertical-align: -0.838ex; width:18.254ex; height:2.843ex;"/></span></li><li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Helmholtz_free_energy" title="Helmholtz free energy">Helmholtz free energy</a><br/><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A(T,V)=U-TS}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>,</mo>
+<mi>V</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>U</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A(T,V)=U-TS}</annotation>
+</semantics>
+</math></span><img alt="A(T,V)=U-TS" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5e93692f031ba6484d82731c54db83a69daed3f0" style="vertical-align: -0.838ex; width:18.867ex; height:2.843ex;"/></span></li><li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Gibbs_free_energy" title="Gibbs free energy">Gibbs free energy</a><br/><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle G(T,p)=H-TS}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>,</mo>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>H</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G(T,p)=H-TS}</annotation>
+</semantics>
+</math></span><img alt="G(T,p)=H-TS" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8dd7a8f0b8ae04963da133e3b202432e1b6caed4" style="vertical-align: -0.838ex; width:18.614ex; height:2.843ex;"/></span></li></ul></div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><div class="hlist hlist-separated"><ul><li>History</li><li>Culture</li></ul></div></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+History</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul><li><a href="/wiki/History_of_thermodynamics" title="History of thermodynamics">General</a></li>
+<li><a href="/wiki/History_of_heat" title="History of heat">Heat</a></li>
+<li><a href="/wiki/History_of_entropy" title="History of entropy">Entropy</a></li>
+<li><a href="/wiki/Gas_laws" title="Gas laws">Gas laws</a></li></ul>
+</div>
+<ul><li><a href="/wiki/History_of_perpetual_motion_machines" title="History of perpetual motion machines">"Perpetual motion" machines</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+<a href="/wiki/Philosophy_of_thermal_and_statistical_physics" title="Philosophy of thermal and statistical physics">Philosophy</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul><li><a href="/wiki/Entropy_(arrow_of_time)" title="Entropy (arrow of time)">Entropy and time</a></li>
+<li><a href="/wiki/Entropy_and_life" title="Entropy and life">Entropy and life</a></li>
+<li><a href="/wiki/Brownian_ratchet" title="Brownian ratchet">Brownian ratchet</a></li>
+<li><a href="/wiki/Maxwell%27s_demon" title="Maxwell's demon">Maxwell's demon</a></li>
+<li><a href="/wiki/Heat_death_paradox" title="Heat death paradox">Heat death paradox</a></li>
+<li><a href="/wiki/Loschmidt%27s_paradox" title="Loschmidt's paradox">Loschmidt's paradox</a></li>
+<li><a href="/wiki/Synergetics_(Haken)" title="Synergetics (Haken)">Synergetics</a></li></ul>
+</div></td>
+</tr><tr><th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+Theories</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul><li><a href="/wiki/Caloric_theory" title="Caloric theory">Caloric theory</a></li>
+<li><a href="/wiki/Theory_of_heat" title="Theory of heat">Theory of heat</a></li></ul>
+</div>
+<ul><li><a href="/wiki/Vis_viva" title="Vis viva"><i>Vis viva</i> <span style="font-size:90%;">("living force")</span></a></li>
+<li><a href="/wiki/Mechanical_equivalent_of_heat" title="Mechanical equivalent of heat">Mechanical equivalent of heat</a></li>
+<li><a href="/wiki/Motive_power" title="Motive power">Motive power</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+<a href="/wiki/List_of_important_publications_in_physics" title="List of important publications in physics">Key publications</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/An_Experimental_Enquiry_Concerning_the_Source_of_the_Heat_which_is_Excited_by_Friction" title="An Experimental Enquiry Concerning the Source of the Heat which is Excited by Friction">An Experimental Enquiry<br/>Concerning ... Heat</a>"</div></li>
+<li><div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/On_the_Equilibrium_of_Heterogeneous_Substances" title="On the Equilibrium of Heterogeneous Substances">On the Equilibrium of<br/>Heterogeneous Substances</a>"</div></li>
+<li><div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/Reflections_on_the_Motive_Power_of_Fire" title="Reflections on the Motive Power of Fire">Reflections on the<br/>Motive Power of Fire</a>"</div></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+Timelines</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul><li><a href="/wiki/Timeline_of_thermodynamics" title="Timeline of thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/Timeline_of_heat_engine_technology" title="Timeline of heat engine technology">Heat engines</a></li></ul>
+</div></td>
+</tr><tr><th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+<div class="hlist hlist-separated"><ul><li>Art</li><li>Education</li></ul></div></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Maxwell%27s_thermodynamic_surface" title="Maxwell's thermodynamic surface">Maxwell's thermodynamic surface</a></li>
+<li><a href="/wiki/Entropy_(energy_dispersal)" title="Entropy (energy dispersal)">Entropy as energy dispersal</a></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Scientists</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="hlist">
+<ul><li><a href="/wiki/Daniel_Bernoulli" title="Daniel Bernoulli">Bernoulli</a></li>
+<li><a href="/wiki/Ludwig_Boltzmann" title="Ludwig Boltzmann">Boltzmann</a></li>
+<li><a href="/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot" title="Nicolas Léonard Sadi Carnot">Carnot</a></li>
+<li><a href="/wiki/Beno%C3%AEt_Paul_%C3%89mile_Clapeyron" title="Benoît Paul Émile Clapeyron">Clapeyron</a></li>
+<li><a href="/wiki/Rudolf_Clausius" title="Rudolf Clausius">Clausius</a></li>
+<li><a href="/wiki/Constantin_Carath%C3%A9odory" title="Constantin Carathéodory">Carathéodory</a></li>
+<li><a href="/wiki/Pierre_Duhem" title="Pierre Duhem">Duhem</a></li>
+<li><a href="/wiki/Josiah_Willard_Gibbs" title="Josiah Willard Gibbs">Gibbs</a></li>
+<li><a href="/wiki/Hermann_von_Helmholtz" title="Hermann von Helmholtz">von Helmholtz</a></li>
+<li><a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">Joule</a></li>
+<li><a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">Maxwell</a></li>
+<li><a href="/wiki/Julius_von_Mayer" title="Julius von Mayer">von Mayer</a></li>
+<li><a href="/wiki/Lars_Onsager" title="Lars Onsager">Onsager</a></li>
+<li><a href="/wiki/William_John_Macquorn_Rankine" title="William John Macquorn Rankine">Rankine</a></li>
+<li><a href="/wiki/John_Smeaton" title="John Smeaton">Smeaton</a></li>
+<li><a href="/wiki/Georg_Ernst_Stahl" title="Georg Ernst Stahl">Stahl</a></li>
+<li><a href="/wiki/Benjamin_Thompson" title="Benjamin Thompson">Thompson</a></li>
+<li><a href="/wiki/William_Thomson,_1st_Baron_Kelvin" title="William Thomson, 1st Baron Kelvin">Thomson</a></li>
+<li><a href="/wiki/Johannes_Diderik_van_der_Waals" title="Johannes Diderik van der Waals">van der Waals</a></li>
+<li><a href="/wiki/John_James_Waterston" title="John James Waterston">Waterston</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;">
+<a href="/wiki/Book:Thermodynamics" title="Book:Thermodynamics">Book:Thermodynamics</a></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Thermodynamics_sidebar" title="Template:Thermodynamics sidebar"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Thermodynamics_sidebar" title="Template talk:Thermodynamics sidebar"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Thermodynamics_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>An <b>ideal gas</b> is a <a href="/wiki/Scientific_theory" title="Scientific theory">theoretical</a> <a href="/wiki/Gas" title="Gas">gas</a> composed of many randomly moving <a href="/wiki/Point_particle" title="Point particle">point particles</a> whose only interactions are perfectly <a href="/wiki/Elastic_collision" title="Elastic collision">elastic collisions</a>. The ideal gas concept is useful because it obeys the <a href="/wiki/Ideal_gas_law" title="Ideal gas law">ideal gas law</a>, a simplified <a href="/wiki/Equation_of_state" title="Equation of state">equation of state</a>, and is amenable to analysis under <a href="/wiki/Statistical_mechanics" title="Statistical mechanics">statistical mechanics</a>.
+</p><p>In most usual conditions (for instance at standard temperature and pressure), most <a href="/wiki/Real_gas" title="Real gas">real gases</a> behave qualitatively like an ideal gas. Many gases such as <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a>, <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>, <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a>, <a href="/wiki/Noble_gas" title="Noble gas">noble gases</a>, and some heavier gases like <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> can be treated like ideal gases within reasonable tolerances.<sup class="reference" id="cite_ref-boles_1-0"><a href="#cite_note-boles-1">[1]</a></sup> Generally, a gas behaves more like an ideal gas at higher <a href="/wiki/Temperature" title="Temperature">temperature</a> and lower <a href="/wiki/Pressure" title="Pressure">pressure</a>,<sup class="reference" id="cite_ref-boles_1-1"><a href="#cite_note-boles-1">[1]</a></sup> as the <a href="/wiki/Potential_energy" title="Potential energy">potential energy</a> due to intermolecular forces becomes less significant compared with the particles' <a href="/wiki/Kinetic_energy" title="Kinetic energy">kinetic energy</a>, and the size of the molecules becomes less significant compared to the empty space between them. One <a href="/wiki/Mole_(unit)" title="Mole (unit)">mole</a> of an ideal gas has a volume of 22.710947(13) litres<sup class="reference" id="cite_ref-mvol_2-0"><a href="#cite_note-mvol-2">[2]</a></sup> at <a class="mw-redirect" href="/wiki/Standard_temperature_and_pressure" title="Standard temperature and pressure">standard temperature and pressure</a> (a <a href="/wiki/Temperature" title="Temperature">temperature</a> of 273.15 <a href="/wiki/Kelvin" title="Kelvin">K</a> and an <a class="mw-redirect" href="/wiki/Absolute_pressure" title="Absolute pressure">absolute pressure</a> of exactly 10<sup>5</sup> <a href="/wiki/Pascal_(unit)" title="Pascal (unit)">Pa</a>) as defined by <a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">IUPAC</a> since 1982.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[note 1]</a></sup>
+</p><p>The ideal gas model tends to fail at lower temperatures or higher pressures, when intermolecular forces and molecular size becomes important.  It also fails for most heavy gases, such as many <a href="/wiki/Refrigerant" title="Refrigerant">refrigerants</a>,<sup class="reference" id="cite_ref-boles_1-2"><a href="#cite_note-boles-1">[1]</a></sup> and for gases with strong intermolecular forces, notably <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a>. At high pressures, the volume of a real gas is often considerably larger than that of an ideal gas. At low temperatures, the pressure of a real gas is often considerably less than that of an ideal gas. At some point of low temperature and high pressure, real gases undergo a <a href="/wiki/Phase_transition" title="Phase transition">phase transition</a>, such as to a <a href="/wiki/Liquid" title="Liquid">liquid</a> or a <a href="/wiki/Solid" title="Solid">solid</a>. The model of an ideal gas, however, does not describe or allow phase transitions.  These must be modeled by more complex equations of state. The deviation from the ideal gas behaviour can be described by a <a href="/wiki/Dimensionless_quantity" title="Dimensionless quantity">dimensionless quantity</a>, the <a href="/wiki/Compressibility_factor" title="Compressibility factor">compressibility factor</a>, <span class="texhtml mvar" style="font-style:italic;">Z</span>.
+</p><p>The ideal gas model has been explored in both the <a href="/wiki/Newtonian_dynamics" title="Newtonian dynamics">Newtonian dynamics</a> (as in "<a href="/wiki/Kinetic_theory_of_gases" title="Kinetic theory of gases">kinetic theory</a>") and in <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum mechanics</a> (as a "<a href="/wiki/Gas_in_a_box" title="Gas in a box">gas in a box</a>"). The ideal gas model has also been used to model the behavior of electrons in a metal (in the <a href="/wiki/Drude_model" title="Drude model">Drude model</a> and the <a href="/wiki/Free_electron_model" title="Free electron model">free electron model</a>), and it is one of the most important models in statistical mechanics.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Types_of_ideal_gas"><span class="tocnumber">1</span> <span class="toctext">Types of ideal gas</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Classical_thermodynamic_ideal_gas"><span class="tocnumber">2</span> <span class="toctext">Classical thermodynamic ideal gas</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Ideal_gas_law"><span class="tocnumber">2.1</span> <span class="toctext">Ideal gas law</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Internal_energy"><span class="tocnumber">2.2</span> <span class="toctext">Internal energy</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Microscopic_model"><span class="tocnumber">2.3</span> <span class="toctext">Microscopic model</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Heat_capacity"><span class="tocnumber">3</span> <span class="toctext">Heat capacity</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Entropy"><span class="tocnumber">4</span> <span class="toctext">Entropy</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Thermodynamic_potentials"><span class="tocnumber">5</span> <span class="toctext">Thermodynamic potentials</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Speed_of_sound"><span class="tocnumber">6</span> <span class="toctext">Speed of sound</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Table_of_ideal_gas_equations"><span class="tocnumber">7</span> <span class="toctext">Table of ideal gas equations</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Ideal_quantum_gases"><span class="tocnumber">8</span> <span class="toctext">Ideal quantum gases</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Ideal_Boltzmann_gas"><span class="tocnumber">8.1</span> <span class="toctext">Ideal Boltzmann gas</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Ideal_Bose_and_Fermi_gases"><span class="tocnumber">8.2</span> <span class="toctext">Ideal Bose and Fermi gases</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Types_of_ideal_gas">Types of ideal gas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ideal_gas&amp;action=edit&amp;section=1" title="Edit section: Types of ideal gas">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are three basic classes of ideal gas:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="to verify this whole section (June 2017)">citation needed</span></a></i>]</sup>
+</p>
+<ul><li>the classical or <a href="/wiki/Maxwell%E2%80%93Boltzmann_statistics" title="Maxwell–Boltzmann statistics">Maxwell–Boltzmann</a> ideal gas,</li>
+<li>the ideal quantum <a href="/wiki/Bose_gas" title="Bose gas">Bose gas</a>, composed of <a href="/wiki/Boson" title="Boson">bosons</a>, and</li>
+<li>the ideal quantum <a href="/wiki/Fermi_gas" title="Fermi gas">Fermi gas</a>, composed of <a href="/wiki/Fermion" title="Fermion">fermions</a>.</li></ul>
+<p>The classical ideal gas can be separated into two types: The classical thermodynamic ideal gas and the ideal quantum Boltzmann gas. Both are essentially the same, except that the classical thermodynamic ideal gas is based on classical <a href="/wiki/Statistical_mechanics" title="Statistical mechanics">statistical mechanics</a>, and certain thermodynamic parameters such as the <a href="/wiki/Entropy" title="Entropy">entropy</a> are only specified to within an undetermined additive constant. The ideal quantum Boltzmann gas overcomes this limitation by taking the limit of the quantum Bose gas and quantum Fermi gas in the limit of high temperature to specify these additive constants. The behavior of a quantum Boltzmann gas is the same as that of a classical ideal gas except for the specification of these constants. The results of the quantum Boltzmann gas are used in a number of cases including the <a href="/wiki/Sackur%E2%80%93Tetrode_equation" title="Sackur–Tetrode equation">Sackur–Tetrode equation</a> for the entropy of an ideal gas and the <a href="/wiki/Saha_ionization_equation" title="Saha ionization equation">Saha ionization equation</a> for a weakly ionized <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">plasma</a>.
+</p>
+<h2><span class="mw-headline" id="Classical_thermodynamic_ideal_gas">Classical thermodynamic ideal gas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ideal_gas&amp;action=edit&amp;section=2" title="Edit section: Classical thermodynamic ideal gas">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The classical thermodynamic properties of an ideal gas can be described by two <a href="/wiki/Equation_of_state" title="Equation of state">equations of state</a>:<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[5]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[6]</a></sup>
+</p>
+<h3><span class="mw-headline" id="Ideal_gas_law">Ideal gas law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ideal_gas&amp;action=edit&amp;section=3" title="Edit section: Ideal gas law">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Ideal_gas_law" title="Ideal gas law">Ideal gas law</a></div>
+<p>The <a href="/wiki/Ideal_gas_law" title="Ideal gas law">ideal gas law</a> is the equation of state for an ideal gas, given by:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle PV=nRT\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+<mi>V</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mi>R</mi>
+<mi>T</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle PV=nRT\,}</annotation>
+</semantics>
+</math></span><img alt="PV=nRT\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e3f5aa46a645e0fa301a9906df345f2d9707715d" style="vertical-align: -0.338ex; width:11.813ex; height:2.176ex;"/></span></dd></dl>
+<p>where
+</p>
+<ul><li><span class="texhtml mvar" style="font-style:italic;">P</span> is the <a href="/wiki/Pressure" title="Pressure">pressure</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">V</span> is the <a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">volume</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">n</span> is the <a href="/wiki/Amount_of_substance" title="Amount of substance">amount of substance</a> of the gas (in <a href="/wiki/Mole_(unit)" title="Mole (unit)">moles</a>)</li>
+<li><span class="texhtml mvar" style="font-style:italic;">R</span> is the <a href="/wiki/Gas_constant" title="Gas constant">gas constant</a> (0.08206 <a href="/wiki/Atmosphere" title="Atmosphere">atm</a>·<a href="/wiki/Kelvin" title="Kelvin">K</a><sup>−1</sup>·<a href="/wiki/Mole_(unit)" title="Mole (unit)">mol</a><sup>−1</sup>)</li>
+<li><span class="texhtml mvar" style="font-style:italic;">T</span> is the <a class="mw-redirect" href="/wiki/Absolute_temperature" title="Absolute temperature">absolute temperature</a>.</li></ul>
+<p>The ideal gas law is an extension of experimentally discovered <a href="/wiki/Gas_laws" title="Gas laws">gas laws</a>. It can also be derived from microscopic considerations.
+</p><p>Real <a href="/wiki/Fluid" title="Fluid">fluids</a> at low <a href="/wiki/Density" title="Density">density</a> and high <a href="/wiki/Temperature" title="Temperature">temperature</a> approximate the behavior of a classical ideal gas. However, at lower temperatures or a higher density, a real fluid deviates strongly from the behavior of an ideal gas, particularly as it <a href="/wiki/Condensation" title="Condensation">condenses</a> from a gas into a liquid or as it <a href="/wiki/Deposition_(phase_transition)" title="Deposition (phase transition)">deposits</a> from a gas into a solid.  This deviation is expressed as a <a href="/wiki/Compressibility_factor" title="Compressibility factor">compressibility factor</a>.
+</p><p>This equation is derived from
+</p>
+<ul><li><a href="/wiki/Boyle%27s_law" title="Boyle's law">Boyle's law</a>: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V\propto {\frac {1}{P}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mo>∝<!-- ∝ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>P</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V\propto {\frac {1}{P}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle V\propto {\frac {1}{P}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af5d27fb746798dd4fcbd49c72bd41c496b7a32b" style="vertical-align: -1.838ex; width:7.467ex; height:5.176ex;"/></span>;</li>
+<li><a href="/wiki/Charles%27s_law" title="Charles's law">Charles's law</a>: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V\propto T}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mo>∝<!-- ∝ --></mo>
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V\propto T}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle V\propto T}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fdd10ef227c1e2f9bb313f1c9eeaefc6886c6376" style="vertical-align: -0.338ex; width:6.522ex; height:2.176ex;"/></span>;</li>
+<li><a href="/wiki/Avogadro%27s_law" title="Avogadro's law">Avogadro's law</a>: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V\propto n}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mo>∝<!-- ∝ --></mo>
+<mi>n</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V\propto n}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle V\propto n}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0af26e9124bcaa5c95326a66187ace220c93545a" style="vertical-align: -0.338ex; width:6.28ex; height:2.176ex;"/></span>.</li></ul>
+<p>After combining three laws we get
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V\propto {\frac {nT}{P}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mo>∝<!-- ∝ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>n</mi>
+<mi>T</mi>
+</mrow>
+<mi>P</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V\propto {\frac {nT}{P}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle V\propto {\frac {nT}{P}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/99c5e3218cbef6aac72ae0d98ef683515c3e7c3f" style="vertical-align: -1.838ex; width:8.753ex; height:5.176ex;"/></span></dd></dl>
+<p>That is:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V=R\left({\frac {nT}{P}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mo>=</mo>
+<mi>R</mi>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>n</mi>
+<mi>T</mi>
+</mrow>
+<mi>P</mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V=R\left({\frac {nT}{P}}\right)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle V=R\left({\frac {nT}{P}}\right)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b297e7b6ede9d8e68add90d0d2f36e878a5462bb" style="vertical-align: -2.505ex; width:14.325ex; height:6.176ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle PV=nRT}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+<mi>V</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mi>R</mi>
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle PV=nRT}</annotation>
+</semantics>
+</math></span><img alt="PV=nRT" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/934032db2ac1f12624f85a90eeba651dcf4af377" style="vertical-align: -0.338ex; width:11.426ex; height:2.176ex;"/></span>.</dd></dl>
+<h3><span class="mw-headline" id="Internal_energy">Internal energy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ideal_gas&amp;action=edit&amp;section=4" title="Edit section: Internal energy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The other equation of state of an ideal gas must express <a href="/wiki/Joule%E2%80%93Thomson_effect#Joule's_second_law" title="Joule–Thomson effect">Joule's law</a>, that the internal energy of a fixed mass of ideal gas is a function only of its temperature. For the present purposes it is convenient to postulate an exemplary version of this law by writing:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle U={\hat {c}}_{V}nRT}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mo>=</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+<mi>n</mi>
+<mi>R</mi>
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U={\hat {c}}_{V}nRT}</annotation>
+</semantics>
+</math></span><img alt="U={\hat {c}}_{V}nRT" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8694bd77c197dcf14e9b4a3ece8decde872b9797" style="vertical-align: -0.671ex; width:12.464ex; height:2.509ex;"/></span></dd></dl>
+<p>where
+</p>
+<ul><li><span class="texhtml mvar" style="font-style:italic;">U</span> is the <a href="/wiki/Internal_energy" title="Internal energy">internal energy</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">ĉ<sub>V</sub></span> is the dimensionless specific <a href="/wiki/Heat_capacity" title="Heat capacity">heat capacity</a> at constant volume, approximately <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">3</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">2</span></span> for a <a href="/wiki/Monatomic_gas" title="Monatomic gas">monatomic gas</a>, <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">5</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">2</span></span> for <a class="mw-redirect" href="/wiki/Diatomic" title="Diatomic">diatomic</a> gas, and 3 for non-linear molecules if we ignore quantum vibrational contribution.</li></ul>
+<h3><span class="mw-headline" id="Microscopic_model">Microscopic model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ideal_gas&amp;action=edit&amp;section=5" title="Edit section: Microscopic model">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In order to switch from macroscopic quantities (left hand side of the following equation) to microscopic ones (right hand side), we use
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle nR=Nk_{\mathrm {B} }\ }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>n</mi>
+<mi>R</mi>
+<mo>=</mo>
+<mi>N</mi>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">B</mi>
+</mrow>
+</mrow>
+</msub>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle nR=Nk_{\mathrm {B} }\ }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle nR=Nk_{\mathrm {B} }\ }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b3f7f2da0537f16a3faad7fa62a6eaf136acdf55" style="vertical-align: -0.671ex; width:11.509ex; height:2.509ex;"/></span></dd></dl>
+<p>where
+</p>
+<ul><li><span class="texhtml mvar" style="font-style:italic;">N</span> is the number of gas particles</li>
+<li><span class="texhtml mvar" style="font-style:italic;">k<sub>B</sub></span> is the <a href="/wiki/Boltzmann_constant" title="Boltzmann constant">Boltzmann constant</a> (<span class="nowrap"><span class="sortkey" style="display:none">6977138099999999999♠</span>1.381<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>−23</sup> J·K<sup>−1</sup></span>).</li></ul>
+<p>The probability distribution of particles by velocity or energy is given by the <a class="mw-redirect" href="/wiki/Maxwell_speed_distribution" title="Maxwell speed distribution">Maxwell speed distribution</a>.
+</p><p>The ideal gas model depends on the following assumptions:
+</p>
+<ul><li>The molecules of the gas are indistinguishable, small, hard spheres</li>
+<li>All collisions are elastic and all motion is frictionless (no energy loss in motion or collision)</li>
+<li>Newton's laws apply</li>
+<li>The average distance between molecules is much larger than the size of the molecules</li>
+<li>The molecules are constantly moving in random directions with a distribution of speeds</li>
+<li>There are no attractive or repulsive forces between the molecules apart from those that determine their point-like collisions</li>
+<li>The only forces between the gas molecules and the surroundings are those that determine the point-like collisions of the molecules with the walls</li>
+<li>In the simplest case, there are no long-range forces between the molecules of the gas and the surroundings.</li></ul>
+<p>The assumption of spherical particles is necessary so that there are no rotational modes allowed, unlike in a diatomic gas. The following three assumptions are very related: molecules are hard, collisions are elastic, and there are no inter-molecular forces. The assumption that the space between particles is much larger than the particles themselves is of paramount importance, and explains why the ideal gas approximation fails at high pressures.
+</p>
+<h2><span class="mw-headline" id="Heat_capacity">Heat capacity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ideal_gas&amp;action=edit&amp;section=6" title="Edit section: Heat capacity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Heat_capacity#Heat_capacity_of_compressible_bodies" title="Heat capacity">heat capacity</a> at constant volume is defined by
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\hat {c}}_{V}={\frac {1}{nR}}T\left({\frac {\partial S}{\partial T}}\right)_{V}={\frac {1}{nR}}\left({\frac {\partial U}{\partial T}}\right)_{V}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mi>n</mi>
+<mi>R</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mi>T</mi>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>S</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mi>n</mi>
+<mi>R</mi>
+</mrow>
+</mfrac>
+</mrow>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>U</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\hat {c}}_{V}={\frac {1}{nR}}T\left({\frac {\partial S}{\partial T}}\right)_{V}={\frac {1}{nR}}\left({\frac {\partial U}{\partial T}}\right)_{V}}</annotation>
+</semantics>
+</math></span><img alt="{\hat {c}}_{V}={\frac {1}{nR}}T\left({\frac {\partial S}{\partial T}}\right)_{V}={\frac {1}{nR}}\left({\frac {\partial U}{\partial T}}\right)_{V}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/89907bd1edbf4b7ff017443ad8f406ca7e93dcb1" style="vertical-align: -2.505ex; width:36.172ex; height:6.176ex;"/></span></dd></dl>
+<p>where <span class="texhtml mvar" style="font-style:italic;">S</span> is the <a href="/wiki/Entropy" title="Entropy">entropy</a>. This is also true for an ideal gas. This is the dimensionless heat capacity at constant volume, which is generally a function of temperature due to intermolecular forces. For moderate temperatures, the constant for a monatomic gas is <span class="texhtml mvar" style="font-style:italic;"><i>ĉ<sub>V</sub></i></span> = <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">3</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">2</span></span> while for a diatomic gas it is <span class="texhtml mvar" style="font-style:italic;"><i>ĉ<sub>V</sub></i></span> = <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">5</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">2</span></span>. It is seen that macroscopic measurements on heat capacity provide information on the microscopic structure of the molecules.
+</p><p>The heat capacity at constant pressure of <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;"><span class="texhtml mvar" style="font-style:italic;">R</span></span></span> mole of ideal gas is:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\hat {c}}_{P}={\frac {1}{nR}}T\left({\frac {\partial S}{\partial T}}\right)_{P}={\frac {1}{nR}}\left({\frac {\partial H}{\partial T}}\right)_{P}={\hat {c}}_{V}+1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>P</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mi>n</mi>
+<mi>R</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mi>T</mi>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>S</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>P</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mi>n</mi>
+<mi>R</mi>
+</mrow>
+</mfrac>
+</mrow>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>H</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>P</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\hat {c}}_{P}={\frac {1}{nR}}T\left({\frac {\partial S}{\partial T}}\right)_{P}={\frac {1}{nR}}\left({\frac {\partial H}{\partial T}}\right)_{P}={\hat {c}}_{V}+1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\hat {c}}_{P}={\frac {1}{nR}}T\left({\frac {\partial S}{\partial T}}\right)_{P}={\frac {1}{nR}}\left({\frac {\partial H}{\partial T}}\right)_{P}={\hat {c}}_{V}+1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/90f8213291ab3b5dabff40adc020acbf823c0fae" style="vertical-align: -2.505ex; width:46.253ex; height:6.176ex;"/></span></dd></dl>
+<p>where <span class="texhtml"><i>H</i> = <i>U</i> + <i>PV</i></span> is the <a href="/wiki/Enthalpy" title="Enthalpy">enthalpy</a> of the gas.
+</p><p>Sometimes, a distinction is made between an ideal gas, where <span class="texhtml mvar" style="font-style:italic;"><i>ĉ<sub>V</sub></i></span> and <span class="texhtml mvar" style="font-style:italic;"><i>ĉ<sub>P</sub></i></span> could vary with temperature, and a <a href="/wiki/Perfect_gas" title="Perfect gas">perfect gas</a>, for which this is not the case.
+</p><p>The ratio of the constant volume and constant pressure heat capacity is 
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \gamma ={\frac {c_{P}}{c_{V}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>γ<!-- γ --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>P</mi>
+</mrow>
+</msub>
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \gamma ={\frac {c_{P}}{c_{V}}}}</annotation>
+</semantics>
+</math></span><img alt="\gamma ={\frac {c_{P}}{c_{V}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b1cc143f85a25580e3eb9a5aec1840d4226c7362" style="vertical-align: -2.171ex; width:7.7ex; height:5.009ex;"/></span></dd></dl>
+<p>For air, which is a mixture of gases, this ratio is 1.4.
+</p>
+<h2><span class="mw-headline" id="Entropy">Entropy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ideal_gas&amp;action=edit&amp;section=7" title="Edit section: Entropy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Using the results of <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a> only, we can go a long way in determining the expression for the <a href="/wiki/Entropy" title="Entropy">entropy</a> of an ideal gas. This is an important step since, according to the theory of <a href="/wiki/Thermodynamic_potential" title="Thermodynamic potential">thermodynamic potentials</a>, if we can express the entropy as a function of <span class="texhtml mvar" style="font-style:italic;">U</span> (<span class="texhtml mvar" style="font-style:italic;">U</span> is a thermodynamic potential), volume <span class="texhtml mvar" style="font-style:italic;">V</span> and the number of particles <span class="texhtml mvar" style="font-style:italic;">N</span>, then we will have a complete statement of the thermodynamic behavior of the ideal gas. We will be able to derive both the ideal gas law and the expression for internal energy from it.
+</p><p>Since the entropy is an <a href="/wiki/Exact_differential" title="Exact differential">exact differential</a>, using the <a href="/wiki/Chain_rule" title="Chain rule">chain rule</a>, the change in entropy when going from a reference state 0 to some other state with entropy <span class="texhtml mvar" style="font-style:italic;">S</span> may be written as <span class="texhtml">Δ<i>S</i></span> where:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta S=\int _{S_{0}}^{S}dS=\int _{T_{0}}^{T}\left({\frac {\partial S}{\partial T}}\right)_{V}\!dT+\int _{V_{0}}^{V}\left({\frac {\partial S}{\partial V}}\right)_{T}\!dV}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>S</mi>
+<mo>=</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>S</mi>
+</mrow>
+</msubsup>
+<mi>d</mi>
+<mi>S</mi>
+<mo>=</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msubsup>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>S</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+<mspace width="negativethinmathspace"></mspace>
+<mi>d</mi>
+<mi>T</mi>
+<mo>+</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msubsup>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>S</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>V</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msub>
+<mspace width="negativethinmathspace"></mspace>
+<mi>d</mi>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta S=\int _{S_{0}}^{S}dS=\int _{T_{0}}^{T}\left({\frac {\partial S}{\partial T}}\right)_{V}\!dT+\int _{V_{0}}^{V}\left({\frac {\partial S}{\partial V}}\right)_{T}\!dV}</annotation>
+</semantics>
+</math></span><img alt="\Delta S=\int _{S_{0}}^{S}dS=\int _{T_{0}}^{T}\left({\frac {\partial S}{\partial T}}\right)_{V}\!dT+\int _{V_{0}}^{V}\left({\frac {\partial S}{\partial V}}\right)_{T}\!dV" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/00335177c45a3d22c98fac58f9d05d83a614f903" style="vertical-align: -2.671ex; width:50.46ex; height:6.676ex;"/></span></dd></dl>
+<p>where the reference variables may be functions of the <a class="mw-redirect" href="/wiki/Number_of_particles" title="Number of particles">number of particles</a> <span class="texhtml mvar" style="font-style:italic;">N</span>. Using the definition of the <a href="/wiki/Heat_capacity" title="Heat capacity">heat capacity</a> at constant volume for the first differential and the appropriate <a class="mw-redirect" href="/wiki/Maxwell_relation" title="Maxwell relation">Maxwell relation</a> for the second we have:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta S=\int _{T_{0}}^{T}{\frac {C_{V}}{T}}\,dT+\int _{V_{0}}^{V}\left({\frac {\partial P}{\partial T}}\right)_{V}dV.}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>S</mi>
+<mo>=</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+<mi>T</mi>
+</mfrac>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>T</mi>
+<mo>+</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msubsup>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+<mi>d</mi>
+<mi>V</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta S=\int _{T_{0}}^{T}{\frac {C_{V}}{T}}\,dT+\int _{V_{0}}^{V}\left({\frac {\partial P}{\partial T}}\right)_{V}dV.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta S=\int _{T_{0}}^{T}{\frac {C_{V}}{T}}\,dT+\int _{V_{0}}^{V}\left({\frac {\partial P}{\partial T}}\right)_{V}dV.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5d15988e736c670f51c0c74437d501d10395dbd2" style="vertical-align: -2.671ex; width:37.662ex; height:6.509ex;"/></span></dd></dl>
+<p>Expressing <span class="texhtml mvar" style="font-style:italic;">C<sub>V</sub></span> in terms of <span class="texhtml mvar" style="font-style:italic;"><i>ĉ<sub>V</sub></i></span> as developed in the above section, differentiating the ideal gas equation of state, and integrating yields:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta S={\hat {c}}_{V}Nk\ln \left({\frac {T}{T_{0}}}\right)+Nk\ln \left({\frac {V}{V_{0}}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>S</mi>
+<mo>=</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+<mi>N</mi>
+<mi>k</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>T</mi>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mi>N</mi>
+<mi>k</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>V</mi>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta S={\hat {c}}_{V}Nk\ln \left({\frac {T}{T_{0}}}\right)+Nk\ln \left({\frac {V}{V_{0}}}\right)}</annotation>
+</semantics>
+</math></span><img alt="\Delta S={\hat {c}}_{V}Nk\ln \left({\frac {T}{T_{0}}}\right)+Nk\ln \left({\frac {V}{V_{0}}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/04124fadd982998c9f7dd5ee16aa5eedf024b2fe" style="vertical-align: -2.505ex; width:36.7ex; height:6.176ex;"/></span></dd></dl>
+<p>which implies that the entropy may be expressed as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle S=Nk\ln \left({\frac {VT^{{\hat {c}}_{V}}}{f(N)}}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>S</mi>
+<mo>=</mo>
+<mi>N</mi>
+<mi>k</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>V</mi>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mi>N</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle S=Nk\ln \left({\frac {VT^{{\hat {c}}_{V}}}{f(N)}}\right)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle S=Nk\ln \left({\frac {VT^{{\hat {c}}_{V}}}{f(N)}}\right)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1f0211ffae76a92ad3e7c5c597c9fd98584745b7" style="vertical-align: -3.171ex; width:20.597ex; height:7.509ex;"/></span></dd></dl>
+<p>where all constants have been incorporated into the logarithm as <span class="texhtml"><i>f</i>(<i>N</i>)</span> which is some function of the particle number <span class="texhtml mvar" style="font-style:italic;">N</span> having the same dimensions as <span class="texhtml mvar" style="font-style:italic;">VT<sup>ĉ<sub>V</sub></sup></span> in order that the argument of the logarithm be dimensionless. We now impose the constraint that the entropy be extensive. This will mean that when the extensive parameters (<span class="texhtml mvar" style="font-style:italic;">V</span> and <span class="texhtml mvar" style="font-style:italic;">N</span>) are multiplied by a constant, the entropy will be multiplied by the same constant. Mathematically:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle S(T,aV,aN)=aS(T,V,N).\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>S</mi>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>,</mo>
+<mi>a</mi>
+<mi>V</mi>
+<mo>,</mo>
+<mi>a</mi>
+<mi>N</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>a</mi>
+<mi>S</mi>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>,</mo>
+<mi>V</mi>
+<mo>,</mo>
+<mi>N</mi>
+<mo stretchy="false">)</mo>
+<mo>.</mo>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle S(T,aV,aN)=aS(T,V,N).\,}</annotation>
+</semantics>
+</math></span><img alt="S(T,aV,aN)=aS(T,V,N).\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81ab04e4563344ab1174b2d0d62fe4df35b988bc" style="vertical-align: -0.838ex; width:29.549ex; height:2.843ex;"/></span></dd></dl>
+<p>From this we find an equation for the function <span class="texhtml"><i>f</i>(<i>N</i>)</span>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle af(N)=f(aN).\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mi>N</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mi>a</mi>
+<mi>N</mi>
+<mo stretchy="false">)</mo>
+<mo>.</mo>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle af(N)=f(aN).\,}</annotation>
+</semantics>
+</math></span><img alt="af(N)=f(aN).\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a6543cc14cd155ca55cc6eb5aafd837258396d3f" style="vertical-align: -0.838ex; width:16.895ex; height:2.843ex;"/></span></dd></dl>
+<p>Differentiating this with respect to <span class="texhtml mvar" style="font-style:italic;">a</span>, setting <span class="texhtml mvar" style="font-style:italic;">a</span> equal to 1, and then solving the differential equation yields <span class="texhtml"><i>f</i>(<i>N</i>)</span>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle f(N)=\Phi N\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mi>N</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mi>N</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f(N)=\Phi N\,}</annotation>
+</semantics>
+</math></span><img alt="f(N)=\Phi N\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/843bb2db0c14a4931a6452b3240abf913cc82a2c" style="vertical-align: -0.838ex; width:12.379ex; height:2.843ex;"/></span></dd></dl>
+<p>where <span class="texhtml mvar" style="font-style:italic;">Φ</span> may vary for different gases, but will be independent of the thermodynamic state of the gas. It will have the dimensions of <span class="texhtml"><i>VT<sup>ĉ<sub>V</sub></sup></i>/<i>N</i></span>. Substituting into the equation for the entropy:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {S}{Nk}}=\ln \left({\frac {VT^{{\hat {c}}_{V}}}{N\Phi }}\right).\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>S</mi>
+<mrow>
+<mi>N</mi>
+<mi>k</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>V</mi>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mi>N</mi>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>.</mo>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {S}{Nk}}=\ln \left({\frac {VT^{{\hat {c}}_{V}}}{N\Phi }}\right).\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {S}{Nk}}=\ln \left({\frac {VT^{{\hat {c}}_{V}}}{N\Phi }}\right).\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/959f981f0a9e8b670755603e025a84daea9f905d" style="vertical-align: -3.171ex; width:20.581ex; height:7.509ex;"/></span></dd></dl>
+<p>and using the expression for the internal energy of an ideal gas, the entropy may be written:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {S}{Nk}}=\ln \left[{\frac {V}{N}}\,\left({\frac {U}{{\hat {c}}_{V}kN}}\right)^{{\hat {c}}_{V}}\,{\frac {1}{\Phi }}\right]}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>S</mi>
+<mrow>
+<mi>N</mi>
+<mi>k</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>V</mi>
+<mi>N</mi>
+</mfrac>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>U</mi>
+<mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+<mi>k</mi>
+<mi>N</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+</mfrac>
+</mrow>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {S}{Nk}}=\ln \left[{\frac {V}{N}}\,\left({\frac {U}{{\hat {c}}_{V}kN}}\right)^{{\hat {c}}_{V}}\,{\frac {1}{\Phi }}\right]}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {S}{Nk}}=\ln \left[{\frac {V}{N}}\,\left({\frac {U}{{\hat {c}}_{V}kN}}\right)^{{\hat {c}}_{V}}\,{\frac {1}{\Phi }}\right]}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/65d5055ff166a2ab540fb032ec1d0ace534b5966" style="vertical-align: -3.171ex; width:30.741ex; height:7.676ex;"/></span></dd></dl>
+<p>Since this is an expression for entropy in terms of <span class="texhtml mvar" style="font-style:italic;">U</span>, <span class="texhtml mvar" style="font-style:italic;">V</span>, and <span class="texhtml mvar" style="font-style:italic;">N</span>, it is a fundamental equation from which all other properties of the ideal gas may be derived.
+</p><p>This is about as far as we can go using thermodynamics alone. Note that the above equation is flawed — as the temperature approaches zero, the entropy approaches negative infinity, in contradiction to the <a href="/wiki/Third_law_of_thermodynamics" title="Third law of thermodynamics">third law of thermodynamics</a>. In the above "ideal" development, there is a critical point, not at absolute zero, at which the argument of the logarithm becomes unity, and the entropy becomes zero. This is unphysical.  The above equation is a good approximation only when the argument of the logarithm is much larger than unity — the concept of an ideal gas breaks down at low values of <span class="texhtml mvar" style="font-style:italic;"><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">V</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">N</span></span></span>. Nevertheless, there will be a "best" value of the constant in the sense that the predicted entropy is as close as possible to the actual entropy, given the flawed assumption of ideality.  A quantum-mechanical derivation of this constant is developed in the derivation of the <a href="/wiki/Sackur%E2%80%93Tetrode_equation" title="Sackur–Tetrode equation">Sackur–Tetrode equation</a> which expresses the entropy of a monatomic (<span class="texhtml mvar" style="font-style:italic;"><i>ĉ<sub>V</sub></i></span> = <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">3</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">2</span></span>) ideal gas. In the Sackur–Tetrode theory the constant depends only upon the mass of the gas particle. The Sackur–Tetrode equation also suffers from a divergent entropy at absolute zero, but is a good approximation for the entropy of a monatomic ideal gas for high enough temperatures.
+</p>
+<h2><span class="mw-headline" id="Thermodynamic_potentials">Thermodynamic potentials</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ideal_gas&amp;action=edit&amp;section=8" title="Edit section: Thermodynamic potentials">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Thermodynamic_potential" title="Thermodynamic potential">Thermodynamic potential</a></div>
+<p>Expressing the entropy as a function of <span class="texhtml mvar" style="font-style:italic;">T</span>, <span class="texhtml mvar" style="font-style:italic;">V</span>, and <span class="texhtml mvar" style="font-style:italic;">N</span>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\frac {S}{kN}}=\ln \left({\frac {VT^{{\hat {c}}_{V}}}{N\Phi }}\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>S</mi>
+<mrow>
+<mi>k</mi>
+<mi>N</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>V</mi>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mi>N</mi>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {S}{kN}}=\ln \left({\frac {VT^{{\hat {c}}_{V}}}{N\Phi }}\right)}</annotation>
+</semantics>
+</math></span><img alt="{\frac {S}{kN}}=\ln \left({\frac {VT^{{\hat {c}}_{V}}}{N\Phi }}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4bde8bc2c00188179aa28c080d185906fb4635fd" style="vertical-align: -3.171ex; width:19.547ex; height:7.509ex;"/></span></dd></dl>
+<p>The <a href="/wiki/Chemical_potential" title="Chemical potential">chemical potential</a> of the ideal gas is calculated from the corresponding equation of state (see <a href="/wiki/Thermodynamic_potential" title="Thermodynamic potential">thermodynamic potential</a>):
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mu =\left({\frac {\partial G}{\partial N}}\right)_{T,P}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>μ<!-- μ --></mi>
+<mo>=</mo>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>G</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>N</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+<mo>,</mo>
+<mi>P</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mu =\left({\frac {\partial G}{\partial N}}\right)_{T,P}}</annotation>
+</semantics>
+</math></span><img alt="\mu =\left({\frac {\partial G}{\partial N}}\right)_{T,P}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ebfc9e00203eee9816d9e4834cb3dff4d7492b8f" style="vertical-align: -2.838ex; width:15.22ex; height:6.509ex;"/></span></dd></dl>
+<p>where <span class="texhtml mvar" style="font-style:italic;">G</span> is the <a href="/wiki/Gibbs_free_energy" title="Gibbs free energy">Gibbs free energy</a> and is equal to <span class="texhtml"><i>U</i> + <i>PV</i> − <i>TS</i></span> so that:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \mu (T,V,N)=kT\left({\hat {c}}_{P}-\ln \left({\frac {VT^{{\hat {c}}_{V}}}{N\Phi }}\right)\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>μ<!-- μ --></mi>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>,</mo>
+<mi>V</mi>
+<mo>,</mo>
+<mi>N</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>k</mi>
+<mi>T</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>P</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>V</mi>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mi>N</mi>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mu (T,V,N)=kT\left({\hat {c}}_{P}-\ln \left({\frac {VT^{{\hat {c}}_{V}}}{N\Phi }}\right)\right)}</annotation>
+</semantics>
+</math></span><img alt="\mu (T,V,N)=kT\left({\hat {c}}_{P}-\ln \left({\frac {VT^{{\hat {c}}_{V}}}{N\Phi }}\right)\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4ebfd7a927b51dda27a94180ba6d5249a8d7a163" style="vertical-align: -3.171ex; width:38.716ex; height:7.509ex;"/></span></dd></dl>
+<p>The thermodynamic potentials for an ideal gas can now be written as functions of <span class="texhtml mvar" style="font-style:italic;">T</span>, <span class="texhtml mvar" style="font-style:italic;">V</span>, and <span class="texhtml mvar" style="font-style:italic;">N</span> as:
+</p>
+<dl><dd><table>
+<tbody><tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle U\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U\,}</annotation>
+</semantics>
+</math></span><img alt="U\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/435be01e77ffd4af9dd1ea8152a657958eecdf1c" style="vertical-align: -0.338ex; width:2.17ex; height:2.176ex;"/></span>
+</td>
+<td>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ={\hat {c}}_{V}NkT\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+<mi>N</mi>
+<mi>k</mi>
+<mi>T</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ={\hat {c}}_{V}NkT\,}</annotation>
+</semantics>
+</math></span><img alt="={\hat {c}}_{V}NkT\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/301746543211030b3f49f33ee708641463870744" style="vertical-align: -0.671ex; width:10.539ex; height:2.509ex;"/></span>
+</td></tr>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A\,}</annotation>
+</semantics>
+</math></span><img alt="A\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c6aaf5ce10d6add44b973e28fb3d95f37abf3721" style="vertical-align: -0.338ex; width:2.13ex; height:2.176ex;"/></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle =U-TS\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mi>U</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi>S</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =U-TS\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle =U-TS\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/461f1fdb844602487f4968510ba44b3968117a06" style="vertical-align: -0.505ex; width:10.599ex; height:2.343ex;"/></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle =\mu N-NkT\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mi>μ<!-- μ --></mi>
+<mi>N</mi>
+<mo>−<!-- − --></mo>
+<mi>N</mi>
+<mi>k</mi>
+<mi>T</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =\mu N-NkT\,}</annotation>
+</semantics>
+</math></span><img alt="=\mu N-NkT\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b55d53dcf124c540ac6afcd8175359e568931d3" style="vertical-align: -0.838ex; width:14.057ex; height:2.676ex;"/></span>
+</td></tr>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle H\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>H</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle H\,}</annotation>
+</semantics>
+</math></span><img alt="H\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/33810a0db43048d22f06d52f257b8e49e4e977a2" style="vertical-align: -0.338ex; width:2.451ex; height:2.176ex;"/></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle =U+PV\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mi>U</mi>
+<mo>+</mo>
+<mi>P</mi>
+<mi>V</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =U+PV\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle =U+PV\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a007d40f065c354ed58cb5c41534336cb67c29f2" style="vertical-align: -0.505ex; width:10.996ex; height:2.343ex;"/></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle ={\hat {c}}_{P}NkT\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>P</mi>
+</mrow>
+</msub>
+<mi>N</mi>
+<mi>k</mi>
+<mi>T</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle ={\hat {c}}_{P}NkT\,}</annotation>
+</semantics>
+</math></span><img alt="={\hat {c}}_{P}NkT\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b646a944001cb52e9849f7524f34572df963cc02" style="vertical-align: -0.671ex; width:10.51ex; height:2.509ex;"/></span>
+</td></tr>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle G\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G\,}</annotation>
+</semantics>
+</math></span><img alt="G\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a1f6c4d01b8be460cde4156d1fde6af720f8ff12" style="vertical-align: -0.338ex; width:2.214ex; height:2.176ex;"/></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle =U+PV-TS\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mi>U</mi>
+<mo>+</mo>
+<mi>P</mi>
+<mi>V</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi>S</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =U+PV-TS\,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle =U+PV-TS\,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d498465460a1c6b1bec678777b23c76e94a3ccb7" style="vertical-align: -0.505ex; width:16.972ex; height:2.343ex;"/></span>
+</td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle =\mu N\,}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mi>μ<!-- μ --></mi>
+<mi>N</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =\mu N\,}</annotation>
+</semantics>
+</math></span><img alt="=\mu N\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/391af324f730c383f86a26fcd47047d36864bfd7" style="vertical-align: -0.838ex; width:6.306ex; height:2.676ex;"/></span>
+</td></tr></tbody></table></dd></dl>
+<p>where, as before,
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\hat {c}}_{P}={\hat {c}}_{V}+1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>P</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\hat {c}}_{P}={\hat {c}}_{V}+1}</annotation>
+</semantics>
+</math></span><img alt="{\hat {c}}_{P}={\hat {c}}_{V}+1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/93bf596c3992088da69ae8044f5a33f9bb1ed600" style="vertical-align: -0.671ex; width:12.647ex; height:2.509ex;"/></span>.</dd></dl>
+<p>The most informative way of writing the potentials is in terms of their natural variables, since each of these equations can be used to derive all of the other thermodynamic variables of the system. In terms of their natural variables, the thermodynamic potentials of a single-species ideal gas are:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle U(S,V,N)={\hat {c}}_{V}Nk\left({\frac {N\Phi }{V}}\,e^{S/Nk}\right)^{1/{\hat {c}}_{V}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mo stretchy="false">(</mo>
+<mi>S</mi>
+<mo>,</mo>
+<mi>V</mi>
+<mo>,</mo>
+<mi>N</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+<mi>N</mi>
+<mi>k</mi>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>N</mi>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+</mrow>
+<mi>V</mi>
+</mfrac>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>N</mi>
+<mi>k</mi>
+</mrow>
+</msup>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U(S,V,N)={\hat {c}}_{V}Nk\left({\frac {N\Phi }{V}}\,e^{S/Nk}\right)^{1/{\hat {c}}_{V}}}</annotation>
+</semantics>
+</math></span><img alt="U(S,V,N)={\hat {c}}_{V}Nk\left({\frac {N\Phi }{V}}\,e^{S/Nk}\right)^{1/{\hat {c}}_{V}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/76c8e90cb797e80ad649074e8de16275bae9d365" style="vertical-align: -2.505ex; width:38.088ex; height:7.009ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle A(T,V,N)=NkT\left({\hat {c}}_{V}-\ln \left({\frac {VT^{{\hat {c}}_{V}}}{N\Phi }}\right)\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>,</mo>
+<mi>V</mi>
+<mo>,</mo>
+<mi>N</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>N</mi>
+<mi>k</mi>
+<mi>T</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>V</mi>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mi>N</mi>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A(T,V,N)=NkT\left({\hat {c}}_{V}-\ln \left({\frac {VT^{{\hat {c}}_{V}}}{N\Phi }}\right)\right)}</annotation>
+</semantics>
+</math></span><img alt="A(T,V,N)=NkT\left({\hat {c}}_{V}-\ln \left({\frac {VT^{{\hat {c}}_{V}}}{N\Phi }}\right)\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6972801195182be597dc3502e57b54005659de5a" style="vertical-align: -3.171ex; width:41.151ex; height:7.509ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle H(S,P,N)={\hat {c}}_{P}Nk\left({\frac {P\Phi }{k}}\,e^{S/Nk}\right)^{1/{\hat {c}}_{P}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>H</mi>
+<mo stretchy="false">(</mo>
+<mi>S</mi>
+<mo>,</mo>
+<mi>P</mi>
+<mo>,</mo>
+<mi>N</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>P</mi>
+</mrow>
+</msub>
+<mi>N</mi>
+<mi>k</mi>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>P</mi>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+</mrow>
+<mi>k</mi>
+</mfrac>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>N</mi>
+<mi>k</mi>
+</mrow>
+</msup>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>P</mi>
+</mrow>
+</msub>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle H(S,P,N)={\hat {c}}_{P}Nk\left({\frac {P\Phi }{k}}\,e^{S/Nk}\right)^{1/{\hat {c}}_{P}}}</annotation>
+</semantics>
+</math></span><img alt="H(S,P,N)={\hat {c}}_{P}Nk\left({\frac {P\Phi }{k}}\,e^{S/Nk}\right)^{1/{\hat {c}}_{P}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6b2d5bca49c53299fc169b38ceb7d5e9019fd62f" style="vertical-align: -2.505ex; width:37.955ex; height:7.009ex;"/></span></dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle G(T,P,N)=NkT\left({\hat {c}}_{P}-\ln \left({\frac {kT^{{\hat {c}}_{P}}}{P\Phi }}\right)\right)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>,</mo>
+<mi>P</mi>
+<mo>,</mo>
+<mi>N</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>N</mi>
+<mi>k</mi>
+<mi>T</mi>
+<mrow>
+<mo>(</mo>
+<mrow>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>P</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>k</mi>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>c</mi>
+<mo stretchy="false">^<!-- ^ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>P</mi>
+</mrow>
+</msub>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mi>P</mi>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G(T,P,N)=NkT\left({\hat {c}}_{P}-\ln \left({\frac {kT^{{\hat {c}}_{P}}}{P\Phi }}\right)\right)}</annotation>
+</semantics>
+</math></span><img alt="G(T,P,N)=NkT\left({\hat {c}}_{P}-\ln \left({\frac {kT^{{\hat {c}}_{P}}}{P\Phi }}\right)\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fce6e7b700c760b1ef826dd13df2a7fc1ef0f7fc" style="vertical-align: -3.171ex; width:40.563ex; height:7.509ex;"/></span></dd></dl>
+<p>In <a href="/wiki/Statistical_mechanics" title="Statistical mechanics">statistical mechanics</a>, the relationship between the <a href="/wiki/Helmholtz_free_energy" title="Helmholtz free energy">Helmholtz free energy</a> and the <a href="/wiki/Partition_function_(statistical_mechanics)" title="Partition function (statistical mechanics)">partition function</a> is fundamental, and is used to calculate the <a class="mw-redirect" href="/wiki/Thermodynamic_properties" title="Thermodynamic properties">thermodynamic properties</a> of matter; see <a class="external text" href="https://web.archive.org/web/20120428193950/http://clesm.mae.ufl.edu/wiki.pub/index.php/Configuration_integral_%28statistical_mechanics%29" rel="nofollow">configuration integral</a> for more details.
+</p>
+<h2><span class="mw-headline" id="Speed_of_sound">Speed of sound</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ideal_gas&amp;action=edit&amp;section=9" title="Edit section: Speed of sound">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Speed_of_sound" title="Speed of sound">Speed of sound</a></div>
+<p>The speed of sound in an ideal gas is given by
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle c_{\text{sound}}={\sqrt {\left({\frac {\partial P}{\partial \rho }}\right)_{s}}}={\sqrt {\frac {\gamma P}{\rho }}}={\sqrt {\frac {\gamma RT}{M}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>sound</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>ρ<!-- ρ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+</msqrt>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mrow>
+<mi>γ<!-- γ --></mi>
+<mi>P</mi>
+</mrow>
+<mi>ρ<!-- ρ --></mi>
+</mfrac>
+</msqrt>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mrow>
+<mi>γ<!-- γ --></mi>
+<mi>R</mi>
+<mi>T</mi>
+</mrow>
+<mi>M</mi>
+</mfrac>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c_{\text{sound}}={\sqrt {\left({\frac {\partial P}{\partial \rho }}\right)_{s}}}={\sqrt {\frac {\gamma P}{\rho }}}={\sqrt {\frac {\gamma RT}{M}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle c_{\text{sound}}={\sqrt {\left({\frac {\partial P}{\partial \rho }}\right)_{s}}}={\sqrt {\frac {\gamma P}{\rho }}}={\sqrt {\frac {\gamma RT}{M}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3b564246e7d81e82aba6accbd8a930f440be8bd7" style="vertical-align: -3.338ex; width:39.384ex; height:7.843ex;"/></span></dd></dl>
+<p>where
+</p>
+<dl><dd><span class="texhtml mvar" style="font-style:italic;">γ</span> is the <a class="mw-redirect" href="/wiki/Adiabatic_index" title="Adiabatic index">adiabatic index</a> (<span class="texhtml mvar" style="font-style:italic;"><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">ĉ<sub>P</sub></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">ĉ<sub>V</sub></span></span></span>)</dd>
+<dd><span class="texhtml mvar" style="font-style:italic;">s</span> is the <a href="/wiki/Entropy" title="Entropy">entropy</a> per particle of the gas.</dd>
+<dd><span class="texhtml mvar" style="font-style:italic;">ρ</span> is the <a class="mw-redirect" href="/wiki/Mass_density" title="Mass density">mass density</a> of the gas.</dd>
+<dd><span class="texhtml mvar" style="font-style:italic;">P</span> is the <a href="/wiki/Pressure" title="Pressure">pressure</a> of the gas.</dd>
+<dd><span class="texhtml mvar" style="font-style:italic;">R</span> is the <a class="mw-redirect" href="/wiki/Universal_gas_constant" title="Universal gas constant">universal gas constant</a></dd>
+<dd><span class="texhtml mvar" style="font-style:italic;">T</span> is the <a href="/wiki/Temperature" title="Temperature">temperature</a></dd>
+<dd><span class="texhtml mvar" style="font-style:italic;">M</span> is the <a href="/wiki/Molar_mass" title="Molar mass">molar mass</a> of the gas.</dd></dl>
+<h2><span class="mw-headline" id="Table_of_ideal_gas_equations">Table of ideal gas equations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ideal_gas&amp;action=edit&amp;section=10" title="Edit section: Table of ideal gas equations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Table_of_thermodynamic_equations#Ideal_gas" title="Table of thermodynamic equations">Table of thermodynamic equations § Ideal gas</a></div>
+<h2><span class="mw-headline" id="Ideal_quantum_gases">Ideal quantum gases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ideal_gas&amp;action=edit&amp;section=11" title="Edit section: Ideal quantum gases">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the above-mentioned <a href="/wiki/Sackur%E2%80%93Tetrode_equation" title="Sackur–Tetrode equation">Sackur–Tetrode equation</a>, the best choice of the entropy constant was found to be proportional to the quantum <a class="mw-redirect" href="/wiki/Thermal_wavelength" title="Thermal wavelength">thermal wavelength</a> of a particle, and the point at which the argument of the logarithm becomes zero is roughly equal to the  point at which the average distance between particles becomes equal to the thermal wavelength. In fact, <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum</a> theory itself predicts the same thing. Any gas behaves as an ideal gas at high enough temperature and low enough density, but at the point where the Sackur–Tetrode equation begins to break down, the gas will begin to behave as a quantum gas, composed of either <a href="/wiki/Boson" title="Boson">bosons</a> or <a href="/wiki/Fermion" title="Fermion">fermions</a>. (See the <a href="/wiki/Gas_in_a_box" title="Gas in a box">gas in a box</a> article for a derivation of the ideal quantum gases, including the ideal Boltzmann gas.)
+</p><p>Gases tend to behave as an ideal gas over a wider range of pressures when the temperature reaches the <a href="/wiki/Boyle_temperature" title="Boyle temperature">Boyle temperature</a>.
+</p>
+<h3><span class="mw-headline" id="Ideal_Boltzmann_gas">Ideal Boltzmann gas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ideal_gas&amp;action=edit&amp;section=12" title="Edit section: Ideal Boltzmann gas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The ideal Boltzmann gas yields the same results as the classical thermodynamic gas, but makes the following identification for the undetermined constant <span class="texhtml mvar" style="font-style:italic;">Φ</span>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Phi ={\frac {T^{\frac {3}{2}}\Lambda ^{3}}{g}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>3</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+</msup>
+<msup>
+<mi mathvariant="normal">Λ<!-- Λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+<mi>g</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Phi ={\frac {T^{\frac {3}{2}}\Lambda ^{3}}{g}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Phi ={\frac {T^{\frac {3}{2}}\Lambda ^{3}}{g}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/763e961f985b9b54c3682ca854ef240db9deecc9" style="vertical-align: -2.338ex; width:11.736ex; height:7.176ex;"/></span></dd></dl>
+<p>where <span class="texhtml mvar" style="font-style:italic;">Λ</span> is the <a href="/wiki/Thermal_de_Broglie_wavelength" title="Thermal de Broglie wavelength">thermal de Broglie wavelength</a> of the gas and <span class="texhtml mvar" style="font-style:italic;">g</span> is the <a class="mw-redirect" href="/wiki/Degenerate_energy_level" title="Degenerate energy level">degeneracy</a> of states.
+</p>
+<h3><span class="mw-headline" id="Ideal_Bose_and_Fermi_gases">Ideal Bose and Fermi gases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ideal_gas&amp;action=edit&amp;section=13" title="Edit section: Ideal Bose and Fermi gases">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An ideal <a href="/wiki/Bose_gas" title="Bose gas">gas of bosons</a> (e.g. a <a href="/wiki/Photon_gas" title="Photon gas">photon gas</a>) will be governed by <a href="/wiki/Bose%E2%80%93Einstein_statistics" title="Bose–Einstein statistics">Bose–Einstein statistics</a> and the distribution of energy will be in the form of a <a class="mw-redirect" href="/wiki/Bose%E2%80%93Einstein_distribution" title="Bose–Einstein distribution">Bose–Einstein distribution</a>. An ideal <a href="/wiki/Fermi_gas" title="Fermi gas">gas of fermions</a> will be governed by <a href="/wiki/Fermi%E2%80%93Dirac_statistics" title="Fermi–Dirac statistics">Fermi–Dirac statistics</a> and the distribution of energy will be in the form of a <a class="mw-redirect" href="/wiki/Fermi%E2%80%93Dirac_distribution" title="Fermi–Dirac distribution">Fermi–Dirac distribution</a>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ideal_gas&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Compressibility_factor" title="Compressibility factor">Compressibility factor</a></li>
+<li><a href="/wiki/Dynamical_billiards" title="Dynamical billiards">Dynamical billiards</a> – billiard balls as a model of an ideal gas</li>
+<li><a href="/wiki/Table_of_thermodynamic_equations" title="Table of thermodynamic equations">Table of thermodynamic equations</a></li>
+<li><a href="/wiki/Scale-free_ideal_gas" title="Scale-free ideal gas">Scale-free ideal gas</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ideal_gas&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt>Notes</dt></dl>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Until 1982, STP was defined as a temperature of 273.15 <a href="/wiki/Kelvin" title="Kelvin">K</a> and an <a class="mw-redirect" href="/wiki/Absolute_pressure" title="Absolute pressure">absolute pressure</a> of exactly 1 <a href="/wiki/Atmosphere_(unit)" title="Atmosphere (unit)">atm</a>. The volume of one mole of an ideal gas at this temperature and pressure is 22.413962(13) litres.<sup class="reference" id="cite_ref-mvolstd_3-0"><a href="#cite_note-mvolstd-3">[3]</a></sup> IUPAC recommends that the former use of this definition should be discontinued;<sup class="reference" id="cite_ref-IUPAC_4-0"><a href="#cite_note-IUPAC-4">[4]</a></sup> however, some textbooks still use these old values.</span>
+</li>
+</ol></div></div>
+<dl><dt>References</dt></dl>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-boles-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-boles_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-boles_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-boles_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Cengel, Yunus A.; Boles, Michael A. <i>Thermodynamics: An Engineering Approach</i> (4th ed.). p. 89. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-07-238332-1" title="Special:BookSources/0-07-238332-1">0-07-238332-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Thermodynamics%3A+An+Engineering+Approach&amp;rft.pages=89&amp;rft.edition=4th&amp;rft.isbn=0-07-238332-1&amp;rft.aulast=Cengel&amp;rft.aufirst=Yunus+A.&amp;rft.au=Boles%2C+Michael+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIdeal+gas"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-mvol-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-mvol_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://physics.nist.gov/cgi-bin/cuu/Value?mvol" rel="nofollow">"CODATA Value: molar volume of ideal gas (273.15 K, 100 kPa)"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-02-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CODATA+Value%3A+molar+volume+of+ideal+gas+%28273.15+K%2C+100+kPa%29&amp;rft_id=http%3A%2F%2Fphysics.nist.gov%2Fcgi-bin%2Fcuu%2FValue%3Fmvol&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIdeal+gas"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-mvolstd-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-mvolstd_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://physics.nist.gov/cgi-bin/cuu/Value?mvolstd" rel="nofollow">"CODATA Value: molar volume of ideal gas (273.15 K, 101.325 kPa)"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-02-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CODATA+Value%3A+molar+volume+of+ideal+gas+%28273.15+K%2C+101.325+kPa%29&amp;rft_id=http%3A%2F%2Fphysics.nist.gov%2Fcgi-bin%2Fcuu%2FValue%3Fmvolstd&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIdeal+gas"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-IUPAC-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-IUPAC_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Calvert, J. G. (1990). "Glossary of atmospheric chemistry terms (Recommendations 1990)". <i>Pure and Applied Chemistry</i>. <b>62</b> (11): 2167–2219. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1351%2Fpac199062112167" rel="nofollow">10.1351/pac199062112167</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pure+and+Applied+Chemistry&amp;rft.atitle=Glossary+of+atmospheric+chemistry+terms+%28Recommendations+1990%29&amp;rft.volume=62&amp;rft.issue=11&amp;rft.pages=2167-2219&amp;rft.date=1990&amp;rft_id=info%3Adoi%2F10.1351%2Fpac199062112167&amp;rft.aulast=Calvert&amp;rft.aufirst=J.+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIdeal+gas"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Adkins, C. J. (1983). <i>Equilibrium Thermodynamics</i> (3rd ed.). Cambridge, UK: Cambridge University Press. pp. 116–120. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-521-25445-0" title="Special:BookSources/0-521-25445-0">0-521-25445-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Equilibrium+Thermodynamics&amp;rft.place=Cambridge%2C+UK&amp;rft.pages=116-120&amp;rft.edition=3rd&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1983&amp;rft.isbn=0-521-25445-0&amp;rft.aulast=Adkins&amp;rft.aufirst=C.+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIdeal+gas"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Tschoegl, N. W. (2000). <i>Fundamentals of Equilibrium and Steady-State Thermodynamics</i>. Amsterdam: Elsevier. p. 88. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-444-50426-5" title="Special:BookSources/0-444-50426-5">0-444-50426-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fundamentals+of+Equilibrium+and+Steady-State+Thermodynamics&amp;rft.place=Amsterdam&amp;rft.pages=88&amp;rft.pub=Elsevier&amp;rft.date=2000&amp;rft.isbn=0-444-50426-5&amp;rft.aulast=Tschoegl&amp;rft.aufirst=N.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIdeal+gas"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20181010193213
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.456 seconds
+Real time usage: 0.970 seconds
+Preprocessor visited node count: 2034/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 66105/2097152 bytes
+Template argument size: 2263/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 18397/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.154/10.000 seconds
+Lua memory usage: 5.16 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  323.359      1 -total
+ 33.64%  108.785      2 Template:Reflist
+ 22.98%   74.304      1 Template:Thermodynamics
+ 17.69%   57.193      3 Template:Cite_book
+ 14.10%   45.592      1 Template:Val
+ 12.85%   41.552      1 Template:Citation_needed
+ 11.54%   37.331      1 Template:Fix
+  7.55%   24.398      2 Template:Category_handler
+  6.99%   22.597      1 Template:Cite_journal
+  5.06%   16.362      3 Template:Sidebar
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:65905-0!canonical!math=5 and timestamp 20181010193212 and revision id 863439173
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ideal_gas&amp;oldid=863439173">https://en.wikipedia.org/w/index.php?title=Ideal_gas&amp;oldid=863439173</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ideal_gas" title="Category:Ideal gas">Ideal gas</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2017" title="Category:Articles with unsourced statements from June 2017">Articles with unsourced statements from June 2017</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ideal+gas" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Ideal+gas" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Ideal_gas" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Ideal_gas" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Ideal_gas">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Ideal_gas&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Ideal_gas&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Ideal_gas" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Ideal_gas" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ideal_gas&amp;oldid=863439173" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ideal_gas&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q172280" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ideal_gas&amp;id=863439173" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ideal+gas">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ideal+gas&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Ideal_gas&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B2_%D9%85%D8%AB%D8%A7%D9%84%D9%8A" hreflang="ar" lang="ar" title="غاز مثالي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Gas_ideal" hreflang="ast" lang="ast" title="Gas ideal – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%A6%E0%A6%B0%E0%A7%8D%E0%A6%B6_%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8" hreflang="bn" lang="bn" title="আদর্শ গ্যাস – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/L%C3%AD-si%C3%B3ng_kh%C3%AC-th%C3%A9" hreflang="zh-min-nan" lang="zh-min-nan" title="Lí-sióng khì-thé – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%86%D0%B4%D1%8D%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B_%D0%B3%D0%B0%D0%B7" hreflang="be" lang="be" title="Ідэальны газ – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%86%D0%B4%D1%8D%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B_%D0%B3%D0%B0%D0%B7" hreflang="be-x-old" lang="be-x-old" title="Ідэальны газ – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%98%D0%B4%D0%B5%D0%B0%D0%BB%D0%B5%D0%BD_%D0%B3%D0%B0%D0%B7" hreflang="bg" lang="bg" title="Идеален газ – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Gas_ideal" hreflang="ca" lang="ca" title="Gas ideal – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Ide%C3%A1ln%C3%AD_plyn" hreflang="cs" lang="cs" title="Ideální plyn – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Ideales_Gas" hreflang="de" lang="de" title="Ideales Gas – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Ideaalne_gaas" hreflang="et" lang="et" title="Ideaalne gaas – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%99%CE%B4%CE%B1%CE%BD%CE%B9%CE%BA%CF%8C_%CE%B1%CE%AD%CF%81%CE%B9%CE%BF" hreflang="el" lang="el" title="Ιδανικό αέριο – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Gas_ideal" hreflang="es" lang="es" title="Gas ideal – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Ideala_gaso" hreflang="eo" lang="eo" title="Ideala gaso – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%AF%D8%A7%D8%B2_%D8%A7%DB%8C%D8%AF%D9%87%E2%80%8C%D8%A2%D9%84" hreflang="fa" lang="fa" title="گاز ایده‌آل – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Gaz_parfait" hreflang="fr" lang="fr" title="Gaz parfait – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/G%C3%A1s_id%C3%A9alach" hreflang="ga" lang="ga" title="Gás idéalach – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gu"><a class="interlanguage-link-target" href="https://gu.wikipedia.org/wiki/%E0%AA%86%E0%AA%A6%E0%AA%B0%E0%AB%8D%E0%AA%B6_%E0%AA%B5%E0%AA%BE%E0%AA%AF%E0%AB%81" hreflang="gu" lang="gu" title="આદર્શ વાયુ – Gujarati">ગુજરાતી</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%83%81%EA%B8%B0%EC%B2%B4" hreflang="ko" lang="ko" title="이상기체 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%BB%D5%A4%D5%A5%D5%A1%D5%AC%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A3%D5%A1%D5%A6" hreflang="hy" lang="hy" title="Իդեալական գազ – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6_%E0%A4%97%E0%A5%88%E0%A4%B8" hreflang="hi" lang="hi" title="आदर्श गैस – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Idealni_plin" hreflang="hr" lang="hr" title="Idealni plin – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Gas_ideal" hreflang="id" lang="id" title="Gas ideal – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Kj%C3%B6rgas" hreflang="is" lang="is" title="Kjörgas – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Gas_ideale" hreflang="it" lang="it" title="Gas ideale – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%92%D7%96_%D7%90%D7%99%D7%93%D7%99%D7%90%D7%9C%D7%99" hreflang="he" lang="he" title="גז אידיאלי – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%98%D0%B4%D0%B5%D0%B0%D0%BB_%D0%B3%D0%B0%D0%B7" hreflang="kk" lang="kk" title="Идеал газ – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Ide%C4%81la_g%C4%81ze" hreflang="lv" lang="lv" title="Ideāla gāze – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Idealiosios_dujos" hreflang="lt" lang="lt" title="Idealiosios dujos – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Ide%C3%A1lis_g%C3%A1z" hreflang="hu" lang="hu" title="Ideális gáz – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%98%D0%B4%D0%B5%D0%B0%D0%BB%D0%B5%D0%BD_%D0%B3%D0%B0%D1%81" hreflang="mk" lang="mk" title="Идеален гас – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%86%E0%B4%A6%E0%B5%BC%E0%B4%B6%E0%B4%B5%E0%B4%BE%E0%B4%A4%E0%B4%95%E0%B4%82" hreflang="ml" lang="ml" title="ആദർശവാതകം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Gas_unggul" hreflang="ms" lang="ms" title="Gas unggul – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Ideaal_gas" hreflang="nl" lang="nl" title="Ideaal gas – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%90%86%E6%83%B3%E6%B0%97%E4%BD%93" hreflang="ja" lang="ja" title="理想気体 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Ideell_gass" hreflang="no" lang="no" title="Ideell gass – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Ideell_gass" hreflang="nn" lang="nn" title="Ideell gass – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Ideal_gaz" hreflang="uz" lang="uz" title="Ideal gaz – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pms"><a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Gas_ideal" hreflang="pms" lang="pms" title="Gas ideal – Piedmontese">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Gaz_doskona%C5%82y" hreflang="pl" lang="pl" title="Gaz doskonały – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/G%C3%A1s_ideal" hreflang="pt" lang="pt" title="Gás ideal – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Gaz_ideal" hreflang="ro" lang="ro" title="Gaz ideal – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru badge-Q17559452 badge-recommendedarticle" title="recommended article"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%98%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B0%D0%B7" hreflang="ru" lang="ru" title="Идеальный газ – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Ideal_gas" hreflang="sco" lang="sco" title="Ideal gas – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Ideal_gas" hreflang="simple" lang="simple" title="Ideal gas – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Ide%C3%A1lny_plyn" hreflang="sk" lang="sk" title="Ideálny plyn – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Idealni_plin" hreflang="sl" lang="sl" title="Idealni plin – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%98%D0%B4%D0%B5%D0%B0%D0%BB%D0%BD%D0%B8_%D0%B3%D0%B0%D1%81" hreflang="sr" lang="sr" title="Идеални гас – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Idealni_gas" hreflang="sh" lang="sh" title="Idealni gas – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Ideaalikaasu" hreflang="fi" lang="fi" title="Ideaalikaasu – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Ideal_gas" hreflang="sv" lang="sv" title="Ideal gas – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D_%E0%AE%B5%E0%AE%B3%E0%AE%BF%E0%AE%AE%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="கருத்தியல் வளிமம் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/%C4%B0deal_gaz" hreflang="tr" lang="tr" title="İdeal gaz – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%86%D0%B4%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%B3%D0%B0%D0%B7" hreflang="uk" lang="uk" title="Ідеальний газ – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Kh%C3%AD_l%C3%BD_t%C6%B0%E1%BB%9Fng" hreflang="vi" lang="vi" title="Khí lý tưởng – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E7%90%86%E6%83%B3%E6%B0%A3%E9%AB%94" hreflang="zh-yue" lang="zh-yue" title="理想氣體 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%90%86%E6%83%B3%E6%B0%A3%E9%AB%94" hreflang="zh" lang="zh" title="理想氣體 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q172280#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 10 October 2018, at 19:32<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Ideal_gas&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.456","walltime":"0.970","ppvisitednodes":{"value":2034,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":66105,"limit":2097152},"templateargumentsize":{"value":2263,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18397,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  323.359      1 -total"," 33.64%  108.785      2 Template:Reflist"," 22.98%   74.304      1 Template:Thermodynamics"," 17.69%   57.193      3 Template:Cite_book"," 14.10%   45.592      1 Template:Val"," 12.85%   41.552      1 Template:Citation_needed"," 11.54%   37.331      1 Template:Fix","  7.55%   24.398      2 Template:Category_handler","  6.99%   22.597      1 Template:Cite_journal","  5.06%   16.362      3 Template:Sidebar"]},"scribunto":{"limitreport-timeusage":{"value":"0.154","limit":"10.000"},"limitreport-memusage":{"value":5405675,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20181010193213","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw1323"});});</script>
+</body>
+</html>

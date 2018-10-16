@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Parts-per notation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Parts-per_notation","wgTitle":"Parts-per notation","wgCurRevisionId":861003729,"wgRevisionId":861003729,"wgArticleId":145865,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from April 2010","Analytical chemistry","Chemical nomenclature","Dimensionless numbers","Environmental chemistry","Mathematical terminology","Measurement","Metrics","Physical constants","Units of measurement"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Parts-per_notation","wgRelevantArticleId":145865,"wgRequestId":"W7-ZhgpAADkAAFjpDMMAAAAW","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q27084","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fluorescein_%282%29.jpg/1200px-Fluorescein_%282%29.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Parts-per_notation" rel="alternate"/>
+<link href="/w/index.php?title=Parts-per_notation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Parts-per_notation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Parts-per_notation" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Parts-per_notation rootpage-Parts-per_notation skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Parts-per notation</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">"Parts per billion" redirects here. For the film, see <a href="/wiki/Parts_per_Billion" title="Parts per Billion">Parts per Billion</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Fluorescein_(2).jpg"><img alt="" class="thumbimage" data-file-height="2830" data-file-width="2264" height="275" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fluorescein_%282%29.jpg/220px-Fluorescein_%282%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fluorescein_%282%29.jpg/330px-Fluorescein_%282%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fluorescein_%282%29.jpg/440px-Fluorescein_%282%29.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Fluorescein_(2).jpg" title="Enlarge"></a></div><a href="/wiki/Fluorescein" title="Fluorescein">Fluorescein</a> aqueous solutions, diluted from 1–10,000 parts-per-million</div></div></div>
+<p>In <a href="/wiki/Science" title="Science">science</a> and <a href="/wiki/Engineering" title="Engineering">engineering</a>, the <b>parts-per notation</b> is a set of pseudo-units to describe small values of miscellaneous <a href="/wiki/Dimensionless_quantity" title="Dimensionless quantity">dimensionless quantities</a>, e.g. <a href="/wiki/Mole_fraction" title="Mole fraction">mole fraction</a> or <a href="/wiki/Mass_fraction_(chemistry)" title="Mass fraction (chemistry)">mass fraction</a>. Since these <a href="/wiki/Fraction_(mathematics)" title="Fraction (mathematics)">fractions</a> are quantity-per-quantity measures, they are pure numbers with no associated <a class="mw-redirect" href="/wiki/Units_of_measurement" title="Units of measurement">units of measurement</a>. Commonly used are <b>ppm</b> (parts-per-million, <span class="nowrap">10<sup>−6</sup></span>), <b>ppb</b> (parts-per-billion, <span class="nowrap">10<sup>−9</sup></span>), <b>ppt</b> (parts-per-<a class="mw-redirect" href="/wiki/Trillion_(short_scale)" title="Trillion (short scale)">trillion</a>, <span class="nowrap">10<sup>−12</sup></span>) and <b>ppq</b> (parts-per-quadrillion, <span class="nowrap">10<sup>−15</sup></span>). This notation is not part of the SI system and its meaning is ambiguous.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#In_nuclear_magnetic_resonance_(NMR)_spectroscopy"><span class="tocnumber">1.1</span> <span class="toctext">In nuclear magnetic resonance (NMR) spectroscopy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Parts-per_expressions"><span class="tocnumber">2</span> <span class="toctext">Parts-per expressions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Criticism"><span class="tocnumber">3</span> <span class="toctext">Criticism</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Long_and_short_scales"><span class="tocnumber">3.1</span> <span class="toctext">Long and short scales</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Thousand_vs._trillion"><span class="tocnumber">3.2</span> <span class="toctext">Thousand vs. trillion</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Mass_fraction_vs._mole_fraction_vs._volume_fraction"><span class="tocnumber">3.3</span> <span class="toctext">Mass fraction vs. mole fraction vs. volume fraction</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#SI-compliant_expressions"><span class="tocnumber">4</span> <span class="toctext">SI-compliant expressions</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Uno"><span class="tocnumber">5</span> <span class="toctext">Uno</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Improper_applications"><span class="tocnumber">6</span> <span class="toctext">Improper applications</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parts-per_notation&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Parts-per notation is often used describing dilute solutions in <a href="/wiki/Chemistry" title="Chemistry">chemistry</a>, for instance, the relative abundance of dissolved minerals or pollutants in water. The unit “1 ppm” can be used for a mass fraction if a water-borne pollutant is present at one-millionth of a <a href="/wiki/Gram" title="Gram">gram</a> per gram of sample solution. When working with aqueous solutions, it is common to assume that the density of water is 1.00 g/mL. Therefore, it is common to equate 1 kilogram of water with 1 L of water. Consequently, 1 ppm corresponds to 1 mg/L and 1 ppb corresponds to 1 μg/L.
+</p><p>Similarly, parts-per notation is used also in <a href="/wiki/Physics" title="Physics">physics</a> and <a href="/wiki/Engineering" title="Engineering">engineering</a> to express the value of various proportional phenomena. For instance, a special metal alloy might expand 1.2 <a href="/wiki/Micrometre" title="Micrometre">micrometers</a> per <a href="/wiki/Metre" title="Metre">meter</a> of length for every <a href="/wiki/Celsius" title="Celsius">degree Celsius</a> and this would be expressed as “<i><a class="mw-redirect" href="/wiki/Coefficient_of_thermal_expansion" title="Coefficient of thermal expansion">α</a></i> = 1.2 ppm/°C.” Parts-per notation is also employed to denote the change, stability, or <a href="/wiki/Standard_deviation" title="Standard deviation">uncertainty</a> in measurements. For instance, the accuracy of land-survey distance measurements when using a <a href="/wiki/Laser_rangefinder" title="Laser rangefinder">laser rangefinder</a> might be 1 millimeter per kilometer of distance; this could be expressed as “<a href="/wiki/Accuracy_and_precision" title="Accuracy and precision">Accuracy</a> = 1 ppm.”<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>
+</p><p>Parts-per notations are all <a href="/wiki/Dimensionless_quantity" title="Dimensionless quantity">dimensionless quantities</a>: in mathematical expressions, the units of measurement always cancel. In fractions like “2 nanometers per meter” (2 n<s>m</s>/<s>m</s> = 2 nano = 2 × 10<sup>−9</sup> = 2 ppb = 2 × 0.000<span style="margin-left:0.2em">000<span style="margin-left:0.2em">001)</span></span> so the <a href="/wiki/Quotient" title="Quotient">quotients</a> are pure-number <a href="/wiki/Coefficient" title="Coefficient">coefficients</a> with positive values less than 1. When parts-per notations, including the <a class="mw-redirect" href="/wiki/Percent" title="Percent">percent</a> symbol (%), are used in regular prose (as opposed to mathematical expressions), they are still pure-number dimensionless quantities. However, they generally take the literal “parts per” meaning of a comparative ratio (e.g., “2 ppb” would generally be interpreted as “two parts in a billion parts”).<sup class="reference" id="cite_ref-BIPM_2-0"><a href="#cite_note-BIPM-2">[2]</a></sup>
+</p><p>Parts-per notations may be expressed in terms of any unit of the same measure. For instance, the <a class="mw-redirect" href="/wiki/Coefficient_of_thermal_expansion" title="Coefficient of thermal expansion">coefficient of thermal expansion</a> of a certain <a href="/wiki/Brass" title="Brass">brass</a> alloy, <i>α</i> = 18.7 ppm/°C, may be expressed as 18.7 (<a href="/wiki/Micrometre" title="Micrometre">µm</a>/m)/°C, or as 18.7 (µ<a href="/wiki/Inch" title="Inch">in</a>/in)/°C; the numeric value representing a relative proportion does not change with the adoption of a different unit of measure.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Similarly, a <a href="/wiki/Metering_pump" title="Metering pump">metering pump</a> that injects a trace chemical into the main process line at the proportional flow rate <i><a href="/wiki/Volumetric_flow_rate" title="Volumetric flow rate">Q</a><sub>p</sub></i> = 125 ppm, is doing so at a rate that may be expressed in a variety of volumetric units, including 125 µL/L, 125 µ<a href="/wiki/Gallon" title="Gallon">gal</a>/gal, 125 cm<sup>3</sup>/<a href="/wiki/Cubic_metre" title="Cubic metre">m<sup>3</sup></a>, etc.
+</p>
+<h3><span id="In_nuclear_magnetic_resonance_.28NMR.29_spectroscopy"></span><span class="mw-headline" id="In_nuclear_magnetic_resonance_(NMR)_spectroscopy">In nuclear magnetic resonance (NMR) spectroscopy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parts-per_notation&amp;action=edit&amp;section=2" title="Edit section: In nuclear magnetic resonance (NMR) spectroscopy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Nuclear_magnetic_resonance_spectroscopy" title="Nuclear magnetic resonance spectroscopy">nuclear magnetic resonance spectroscopy</a> (NMR), <a href="/wiki/Chemical_shift" title="Chemical shift">chemical shift</a> is usually expressed in ppm. It represents the difference of a measured frequency in parts per million from the reference frequency. The reference frequency depends on the instrument's magnetic field and the element being measured. It is usually expressed in MHz. Typical chemical shifts are rarely more than a few hundred Hz from the reference frequency, so chemical shifts are conveniently expressed in ppm (Hz/MHz). Parts-per notation gives a dimensionless quantity that does not depend on the instrument's field strength.
+</p>
+<h2><span class="mw-headline" id="Parts-per_expressions">Parts-per expressions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parts-per_notation&amp;action=edit&amp;section=3" title="Edit section: Parts-per expressions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Visualisation_parts_per.svg"><img alt="" class="thumbimage" data-file-height="683" data-file-width="512" height="267" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Visualisation_parts_per.svg/200px-Visualisation_parts_per.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Visualisation_parts_per.svg/300px-Visualisation_parts_per.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Visualisation_parts_per.svg/400px-Visualisation_parts_per.svg.png 2x" width="200"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Visualisation_parts_per.svg" title="Enlarge"></a></div>Visualisation of 1%, 1‰, 1‱ and 1 ppm as the fraction of the red cube to its respective block <span class="nowrap"><span class="plainlinks"><a class="external text" href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Visualisation_parts_per.svg/3072px-Visualisation_parts_per.svg.png">(larger version)</a></span></span></div></div></div>
+<ul><li><i>One part per <a href="/wiki/100_(number)" title="100 (number)">hundred</a></i> is generally represented by the <a href="/wiki/Percent_sign" title="Percent sign">percent sign</a> (%) and denotes one part <a href="/wiki/Percentage" title="Percentage">per 100 parts</a>, one part in 10<sup>2</sup>, and a value of 1 × 10<sup>−2</sup>. This is equivalent to about fifteen minutes out of one day.</li></ul>
+<p><span id="Thousand"></span>
+</p>
+<ul><li><i>One part per <a class="mw-redirect" href="/wiki/Thousand" title="Thousand">thousand</a></i> should generally be spelled out in full and <b>not</b> as "ppt" (which is usually understood to represent "parts per trillion"). It may also be denoted by the <a href="/wiki/Per_mille" title="Per mille">permille</a> sign (‰). Note however, that specific disciplines such as oceanography, as well as educational exercises, do use the "ppt" abbreviation. "One part per thousand" denotes one part per 1000 parts, one part in 10<sup>3</sup>, and a value of 1 × 10<sup>−3</sup>. This is equivalent to about one and a half minutes out of one day.</li>
+<li><i>One part per <a class="mw-redirect" href="/wiki/Ten_thousand" title="Ten thousand">ten thousand</a></i> is denoted by the <a href="/wiki/Basis_point" title="Basis point">permyriad</a> sign (‱). In contrast, in <a href="/wiki/Finance" title="Finance">finance</a>, the <a href="/wiki/Basis_point" title="Basis point">basis point</a> is a quantity with dimensions of (time<sup>−1</sup>) and is typically used to denote changes in or differences between percentage interest rates. For instance, a change in an interest rate from 5.15% per annum to 5.35% per annum could be denoted as a change of 20 basis points. Although rarely used in science (ppm is typically used instead), one permyriad has an unambiguous value of one part per <span class="nowrap"><span class="sortkey" style="display:none">7004100000000000000♠</span>10<span style="margin-left:.25em;">000</span></span> parts, one part in 10<sup>4</sup>, and a value of 1 × 10<sup>−4</sup>. This is equivalent to about nine seconds out of one day.</li></ul>
+<p><span id="ppm"></span>
+</p>
+<ul><li><i>One part per <a class="mw-redirect" href="/wiki/Million" title="Million">million</a></i> (<b>ppm</b>) denotes one part per <span class="nowrap"><span class="sortkey" style="display:none">7006100000000000000♠</span>1<span style="margin-left:.25em;">000</span><span style="margin-left:.25em;">000</span></span> parts, one part in 10<sup>6</sup>, <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;"><span class="nowrap"><span class="sortkey" style="display:none">7006100000000000000♠</span>1<span style="margin-left:.25em;">000</span><span style="margin-left:.25em;">000</span></span></span></span> × 100% = 0.0001% (or 1% = <span class="nowrap"><span class="sortkey" style="display:none">7004100000000000000♠</span>10<span style="margin-left:.25em;">000</span></span> ppm), and a value of 1 × 10<sup>−6</sup>. This is equivalent to about 32 seconds out of a year; in <a class="mw-redirect" href="/wiki/Distance_measurement" title="Distance measurement">distance measurement</a>, it is equivalent to 1 mm of error per km of distance traversed.</li></ul>
+<p><span id="ppb"></span>
+</p>
+<ul><li><i>One part per <a class="mw-redirect" href="/wiki/1000000000_(number)" title="1000000000 (number)">billion</a></i> (<b>ppb</b>) denotes one part per <span class="nowrap"><span class="sortkey" style="display:none">7009100000000000000♠</span>1<span style="margin-left:.25em;">000</span><span style="margin-left:.25em;">000</span><span style="margin-left:.25em;">000</span></span> parts, one part in 10<sup>9</sup>, <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;"><span class="nowrap"><span class="sortkey" style="display:none">7009100000000000000♠</span>1<span style="margin-left:.25em;">000</span><span style="margin-left:.25em;">000</span><span style="margin-left:.25em;">000</span></span></span></span> × 100% = <span class="nowrap"><span class="sortkey" style="display:none">6993100000000000000♠</span>0.000<span style="margin-left:.25em;">0001</span></span>% (or 1% = <span class="nowrap"><span class="sortkey" style="display:none">7007100000000000000♠</span>10<span style="margin-left:.25em;">000</span><span style="margin-left:.25em;">000</span></span> ppb) and a value of 1 × 10<sup>−9</sup>. This is equivalent to about three seconds out of a <a href="/wiki/Century" title="Century">century</a>.</li></ul>
+<p><span id="ppt"></span>
+</p>
+<ul><li><i>One part per <a href="/wiki/Orders_of_magnitude_(numbers)#1012" title="Orders of magnitude (numbers)">trillion</a></i> (<b>ppt</b>) denotes one part per <span class="nowrap"><span class="sortkey" style="display:none">7012100000000000000♠</span>1<span style="margin-left:.25em;">000</span><span style="margin-left:.25em;">000</span><span style="margin-left:.25em;">000</span><span style="margin-left:.25em;">000</span></span> parts, one part in 10<sup>12</sup>, and a value of 1 × 10<sup>−12</sup>. This is equivalent to about three seconds out of every hundred thousand years.</li></ul>
+<p><span id="ppq"></span>
+</p>
+<ul><li><i>One part per <a href="/wiki/Orders_of_magnitude_(numbers)#1015" title="Orders of magnitude (numbers)">quadrillion</a></i> (<b>ppq</b>) denotes one part per <span class="nowrap"><span class="sortkey" style="display:none">7015100000000000000♠</span>1<span style="margin-left:.25em;">000</span><span style="margin-left:.25em;">000</span><span style="margin-left:.25em;">000</span><span style="margin-left:.25em;">000</span><span style="margin-left:.25em;">000</span></span> parts, one part in 10<sup>15</sup>, and a value of 1 × 10<sup>−15</sup>. This is equivalent to about two and a half minutes out of the <a href="/wiki/Age_of_the_Earth" title="Age of the Earth">age of the Earth</a> (4.5 billion years). Although relatively uncommon in analytical chemistry, measurements at the ppq level are sometimes performed.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></li></ul>
+<h2><span class="mw-headline" id="Criticism">Criticism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parts-per_notation&amp;action=edit&amp;section=4" title="Edit section: Criticism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although the <a href="/wiki/International_Bureau_of_Weights_and_Measures" title="International Bureau of Weights and Measures">International Bureau of Weights and Measures</a> (an international standards organization known also by its <a href="/wiki/France" title="France">French</a>-language initials BIPM) recognizes the use of parts-per notation, it is not formally part of the <a href="/wiki/International_System_of_Units" title="International System of Units">International System of Units</a> (SI).<sup class="reference" id="cite_ref-BIPM_2-1"><a href="#cite_note-BIPM-2">[2]</a></sup> Note that although “<a href="/wiki/Percentage" title="Percentage">percent</a>” (%) is not formally part of the SI, both the BIPM and the <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a> take the position that <i>“in mathematical expressions, the internationally recognized symbol % (percent) may be used with the SI to represent the number 0.01”</i> for dimensionless quantities.<sup class="reference" id="cite_ref-BIPM_2-2"><a href="#cite_note-BIPM-2">[2]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> According to <a href="/wiki/International_Union_of_Pure_and_Applied_Physics" title="International Union of Pure and Applied Physics">IUPAP</a>, <i>“a continued source of annoyance to unit purists has been the continued use of percent, ppm, ppb, and ppt.”</i><sup class="reference" id="cite_ref-IUPAP_6-0"><a href="#cite_note-IUPAP-6">[6]</a></sup> Although <a href="#SI-compliant_expressions">SI-compliant expressions</a> should be used as an alternative, the parts-per notation remains nevertheless widely used in technical disciplines. The main problems with the parts-per notation are the following:
+</p>
+<h3><span class="mw-headline" id="Long_and_short_scales">Long and short scales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parts-per_notation&amp;action=edit&amp;section=5" title="Edit section: Long and short scales">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Because the <a href="/wiki/Names_of_large_numbers" title="Names of large numbers">named numbers</a> starting with a “<a href="/wiki/Long_and_short_scales" title="Long and short scales">billion</a>” have different values in different countries, the BIPM suggests avoiding the use of “ppb” and “ppt” to prevent misunderstanding. The U.S. <a href="/wiki/National_Institute_of_Standards_and_Technology" title="National Institute of Standards and Technology">National Institute of Standards and Technology</a> (NIST) takes the stringent position, stating that <i>“the language-dependent terms [ . . . ] are not acceptable for use with the SI to express the values of quantities.”</i><span style="margin-left:0.3em"><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></span>
+</p>
+<h3><span class="mw-headline" id="Thousand_vs._trillion">Thousand vs. trillion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parts-per_notation&amp;action=edit&amp;section=6" title="Edit section: Thousand vs. trillion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Although "ppt" usually means "parts per trillion", it occasionally means "parts per thousand". Unless the meaning of "ppt" is defined explicitly, it has to be determined from the context.
+</p>
+<h3><span class="mw-headline" id="Mass_fraction_vs._mole_fraction_vs._volume_fraction">Mass fraction vs. mole fraction vs. volume fraction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parts-per_notation&amp;action=edit&amp;section=7" title="Edit section: Mass fraction vs. mole fraction vs. volume fraction">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Another problem of the parts-per notation is that it may refer to <a href="/wiki/Mass_fraction_(chemistry)" title="Mass fraction (chemistry)">mass fraction</a>, <a href="/wiki/Mole_fraction" title="Mole fraction">mole fraction</a> or <a href="/wiki/Volume_fraction" title="Volume fraction">volume fraction</a>. Since it is usually not stated which quantity is used, it is better to write the unit as kg/kg, mol/mol or m<sup>3</sup>/m<sup>3</sup> (even though they are all dimensionless).<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> The difference is quite significant when dealing with gases and it is very important to specify which quantity is being used. For example, the conversion factor between a mass fraction of 1 ppb and a mole fraction of 1 ppb is about 4.7 for the greenhouse gas <a class="mw-redirect" href="/wiki/CFC-11" title="CFC-11">CFC-11</a> in air. For volume fraction, the suffix "V" or "v" is sometimes appended to the parts-per notation (e.g., ppmV, ppbv, pptv).<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> Unfortunately, ppbv and pptv are also often used for mole fractions (which is identical to volume fraction only for ideal gases).
+</p><p>To distinguish the mass fraction from volume fraction or mole fraction, the letter w (standing for weight) is sometimes added to the abbreviation (e.g., ppmw, ppbw).<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup>
+</p><p>The usage of the parts-per notation is generally quite fixed inside most specific branches of science, leading some researchers to draw the conclusion that their own usage (mass/mass, mol/mol, volume/volume, or others) is the only correct one. This, in turn, leads them to not specify their usage in their publications, and others may therefore misinterpret their results. For example, <a href="/wiki/Electrochemistry" title="Electrochemistry">electrochemists</a> often use volume/volume, while <a href="/wiki/Chemical_engineering" title="Chemical engineering">chemical engineers</a> may use mass/mass as well as volume/volume. Many academic papers of otherwise excellent level fail to specify their usage of the parts-per notation.
+</p>
+<h2><span class="mw-headline" id="SI-compliant_expressions">SI-compliant expressions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parts-per_notation&amp;action=edit&amp;section=8" title="Edit section: SI-compliant expressions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>SI-compliant units that can be used as alternatives are shown in the chart below. Expressions that the BIPM explicitly does not recognize as being suitable for denoting dimensionless quantities with the SI are shown in <span style="color:darkred;">red text</span>.
+</p>
+<table class="wikitable" style="font-size: 95%;">
+<caption>Notations for dimensionless quantities
+</caption>
+<tbody><tr>
+<th>Measure
+</th>
+<th>SI<br/>units
+</th>
+<th>Named<br/>parts-per ratio<br/>(short scale)
+</th>
+<th>Parts-per<br/>abbreviation<br/>or symbol
+</th>
+<th>Value in<br/>scientific<br/>notation
+</th></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A <a class="mw-redirect" href="/wiki/Strain_(materials_science)" title="Strain (materials science)">strain</a> of…
+</td>
+<td align="center">2 <a href="/wiki/Centimetre" title="Centimetre">cm</a>/<a href="/wiki/Metre" title="Metre">m</a>
+</td>
+<td align="center">2 parts per hundred
+</td>
+<td align="center">    2%<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</td>
+<td align="center">2 × 10<sup>−2</sup>
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A sensitivity of…
+</td>
+<td align="center">2 <a href="/wiki/Milli-" title="Milli-">m</a>V/V
+</td>
+<td align="center">2 parts per thousand
+</td>
+<td align="center"><span style="color:darkred;">2 ‰</span>
+</td>
+<td align="center">2 × 10<sup>−3</sup>
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A sensitivity of…
+</td>
+<td align="center">0.2 mV/V
+</td>
+<td align="center">2 parts per ten thousand
+</td>
+<td align="center"><span style="color:darkred;">2 ‱</span>
+</td>
+<td align="center">2 × 10<sup>−4</sup>
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A sensitivity of…
+</td>
+<td align="center">2 <a href="/wiki/Micro-" title="Micro-">µ</a>V/V
+</td>
+<td align="center">2 parts per million
+</td>
+<td align="center">2 ppm
+</td>
+<td align="center">2 × 10<sup>−6</sup>
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A sensitivity of…
+</td>
+<td align="center">2 <a href="/wiki/Nano-" title="Nano-">n</a>V/V
+</td>
+<td align="center"><span style="color:darkred;">2 parts per billion</span>
+</td>
+<td align="center"><span style="color:darkred;">2 ppb</span>
+</td>
+<td align="center">2 × 10<sup>−9</sup>
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A sensitivity of…
+</td>
+<td align="center">2 <a href="/wiki/Pico-" title="Pico-">p</a>V/V
+</td>
+<td align="center"><span style="color:darkred;">2 parts per trillion</span>
+</td>
+<td align="center"><span style="color:darkred;">2 ppt</span>
+</td>
+<td align="center">2 × 10<sup>−12</sup>
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A mass fraction of…
+</td>
+<td align="center">2 mg/kg
+</td>
+<td align="center">2 parts per million
+</td>
+<td align="center">2 ppm
+</td>
+<td align="center">2 × 10<sup>−6</sup>
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A mass fraction of…
+</td>
+<td align="center">2 µg/kg
+</td>
+<td align="center"><span style="color:darkred;">2 parts per billion</span>
+</td>
+<td align="center"><span style="color:darkred;">2 ppb</span>
+</td>
+<td align="center">2 × 10<sup>−9</sup>
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A mass fraction of…
+</td>
+<td align="center">2 ng/kg
+</td>
+<td align="center"><span style="color:darkred;">2 parts per trillion</span>
+</td>
+<td align="center"><span style="color:darkred;">2 ppt</span>
+</td>
+<td align="center">2 × 10<sup>−12</sup>
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A mass fraction of…
+</td>
+<td align="center">2 pg/kg
+</td>
+<td align="center"><span style="color:darkred;">2 parts per quadrillion</span>
+</td>
+<td align="center"><span style="color:darkred;">2 ppq</span>
+</td>
+<td align="center">2 × 10<sup>−15</sup>
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A volume fraction of…
+</td>
+<td align="center">5.2 µL/L
+</td>
+<td align="center">5.2 parts per million
+</td>
+<td align="center">5.2 ppm
+</td>
+<td align="center">5.2 × 10<sup>−6</sup>
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A mole fraction of…
+</td>
+<td align="center">5.24 µmol/mol
+</td>
+<td align="center">5.24 parts per million
+</td>
+<td align="center">5.24 ppm
+</td>
+<td align="center">5.24 × 10<sup>−6</sup>
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A mole fraction of…
+</td>
+<td align="center">5.24 nmol/mol
+</td>
+<td align="center"><span style="color:darkred;">5.24 parts per billion</span>
+</td>
+<td align="center"><span style="color:darkred;">5.24 ppb</span>
+</td>
+<td align="center">5.24 × 10<sup>−9</sup>
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A mole fraction of…
+</td>
+<td align="center">5.24 pmol/mol
+</td>
+<td align="center"><span style="color:darkred;">5.24 parts per trillion</span>
+</td>
+<td align="center"><span style="color:darkred;">5.24 ppt</span>
+</td>
+<td align="center">5.24 × 10<sup>−12</sup>
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A stability of…
+</td>
+<td align="center">1 (µA/A)/min.
+</td>
+<td align="center">1 part per million per min.
+</td>
+<td align="center">1 ppm/min.
+</td>
+<td align="center">1 × 10<sup>−6</sup>/min.
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A change of…
+</td>
+<td align="center">5 nΩ/Ω
+</td>
+<td align="center"><span style="color:darkred;">5 parts per billion</span>
+</td>
+<td align="center"><span style="color:darkred;">5 ppb</span>
+</td>
+<td align="center">5 × 10<sup>−9</sup>
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">An uncertainty of…
+</td>
+<td align="center">9 µg/kg
+</td>
+<td align="center"><span style="color:darkred;">9 parts per billion</span>
+</td>
+<td align="center"><span style="color:darkred;">9 ppb</span>
+</td>
+<td align="center">9 × 10<sup>−9</sup>
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A shift of…
+</td>
+<td align="center">1 nm/m
+</td>
+<td align="center"><span style="color:darkred;">1 part per billion</span>
+</td>
+<td align="center"><span style="color:darkred;">1 ppb</span>
+</td>
+<td align="center">1 × 10<sup>−9</sup>
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A strain of…
+</td>
+<td align="center">1 µm/m
+</td>
+<td align="center">1 part per million
+</td>
+<td align="center">1 ppm
+</td>
+<td align="center">1 × 10<sup>−6</sup>
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A <a href="/wiki/Temperature_coefficient" title="Temperature coefficient">temperature coefficient</a> of…
+</td>
+<td align="center">0.3 (µHz/Hz)/°C
+</td>
+<td align="center">0.3 part per million per °C
+</td>
+<td align="center">0.3 ppm/°C
+</td>
+<td align="center">0.3 × 10<sup>−6</sup>/°C
+</td></tr>
+<tr>
+<td align="right" style="background:#f2f2f2">A frequency change of…
+</td>
+<td align="center">0.35 × 10<sup>−9</sup> ƒ
+</td>
+<td align="center"><span style="color:darkred;">0.35 part per billion</span>
+</td>
+<td align="center"><span style="color:darkred;">0.35 ppb</span>
+</td>
+<td align="center">0.35 × 10<sup>−9</sup>
+</td></tr></tbody></table>
+<p>Note that the notations in the “SI units” column above are all <a href="/wiki/Dimensionless_quantity" title="Dimensionless quantity">dimensionless quantities</a>; that is, the units of measurement factor out in expressions like “1 nm/m” (1 n<s>m</s>/<s>m</s> = 1 nano = 1 × 10<sup>−9</sup>) so the <a href="/wiki/Quotient" title="Quotient">quotients</a> are pure-number <a href="/wiki/Coefficient" title="Coefficient">coefficients</a> with values less than 1.
+</p>
+<h2><span class="mw-headline" id="Uno">Uno</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parts-per_notation&amp;action=edit&amp;section=9" title="Edit section: Uno">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Because of the cumbersome nature of expressing certain dimensionless quantities per SI guidelines, the <a href="/wiki/International_Union_of_Pure_and_Applied_Physics" title="International Union of Pure and Applied Physics">International Union of Pure and Applied Physics</a> (IUPAP) in 1999 proposed the adoption of the special name "uno" (symbol: U) to represent the number 1 in dimensionless quantities.<sup class="reference" id="cite_ref-IUPAP_6-1"><a href="#cite_note-IUPAP-6">[6]</a></sup> This symbol is not to be confused with the always-italicized symbol for the variable "uncertainty" (symbol: <i>U</i>). This unit name "uno" and its symbol could be used in combination with the <a class="mw-redirect" href="/wiki/SI_prefix" title="SI prefix">SI prefixes</a> to express the values of dimensionless quantities that are much less—or even <i>greater</i>—than one.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>
+</p><p>Common parts-per notations in terms of the uno are given in the table below.
+</p>
+<table class="wikitable">
+<caption>IUPAP's "uno" proposal
+</caption>
+<tbody><tr>
+<th>Coefficient
+</th>
+<th>Parts-per example
+</th>
+<th>Uno equiv.
+</th>
+<th>Symbol form
+</th>
+<th>Value of quantity
+</th></tr>
+<tr>
+<td>10<sup>−2</sup>
+</td>
+<td>2%
+</td>
+<td>2 centiuno
+</td>
+<td>2 cU
+</td>
+<td>2 × 10<sup>−2</sup>
+</td></tr>
+<tr>
+<td>10<sup>−3</sup>
+</td>
+<td>2 ‰
+</td>
+<td>2 milliuno
+</td>
+<td>2 mU
+</td>
+<td>2 × 10<sup>−3</sup>
+</td></tr>
+<tr>
+<td>10<sup>−4</sup>
+</td>
+<td>2 ‱
+</td>
+<td>0.2 milliuno
+</td>
+<td>0.2 mU
+</td>
+<td>2 × 10<sup>−4</sup>
+</td></tr>
+<tr>
+<td>10<sup>−6</sup>
+</td>
+<td>2 ppm
+</td>
+<td>2 microuno
+</td>
+<td>2 µU
+</td>
+<td>2 × 10<sup>−6</sup>
+</td></tr>
+<tr>
+<td>10<sup>−9</sup>
+</td>
+<td>2 ppb
+</td>
+<td>2 nanouno
+</td>
+<td>2 nU
+</td>
+<td>2 × 10<sup>−9</sup>
+</td></tr>
+<tr>
+<td>10<sup>−12</sup>
+</td>
+<td>2 ppt
+</td>
+<td>2 picouno
+</td>
+<td>2 pU
+</td>
+<td>2 × 10<sup>−12</sup>
+</td></tr></tbody></table>
+<p>In 2004, a report to the <a href="/wiki/International_Committee_for_Weights_and_Measures" title="International Committee for Weights and Measures">International Committee for Weights and Measures</a> (known also by its French-language initials CIPM) stated that response to the proposal of the uno "had been almost entirely negative" and the principal proponent "recommended dropping the idea".<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> To date, the uno has not been adopted by any <a href="/wiki/Standards_organization" title="Standards organization">standards organization</a> and it appears unlikely it will ever become an officially sanctioned way to express low-value (high-ratio) dimensionless quantities. The proposal was instructive, however, as to the perceived shortcomings of the current options for denoting dimensionless quantities.
+</p>
+<h2><span class="mw-headline" id="Improper_applications">Improper applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parts-per_notation&amp;action=edit&amp;section=10" title="Edit section: Improper applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Parts-per notation may properly be used only to express true dimensionless quantities; that is, the units of measurement <i>must</i> cancel in expressions like "1 mg/kg" so that the quotients are pure numbers with values less than 1. Mixed-unit quantities such as "a <a href="/wiki/Radon" title="Radon">radon</a> concentration of 15 p<a href="/wiki/Curie" title="Curie">Ci</a>/<a href="/wiki/Litre" title="Litre">L</a>" are not dimensionless quantities and may not be expressed using any form of parts-per notation, such as "15 ppt". Other examples of measures that are not dimensionless quantities are as follows:
+</p>
+<ul><li><a class="mw-redirect" href="/wiki/Particulate" title="Particulate">Particulate matter</a> in the air: 50 µg/m<sup>3</sup>; not 50 ppb.</li>
+<li>A <a href="/wiki/Stepper_motor" title="Stepper motor">stepper motor</a>/gear system that produces a motion of 1 µm/pulse; not 1 ppm</li>
+<li>Mercury vapor concentration in air: 0.6 ng/<a href="/wiki/Litre" title="Litre">L</a>; not 0.6 ppt</li></ul>
+<p>Note however, that it is not uncommon to express aqueous concentrations—particularly in drinking-water reports intended for the general public—using parts-per notation (2.1 ppm, 0.8 ppb, etc.) and further, for those reports to state that the notations denote milligrams per <a href="/wiki/Litre" title="Litre">liter</a> or micrograms per liter. Although "2.1 mg/L" is not a dimensionless quantity, it is assumed in scientific circles that "2.1 mg/kg" (2.1 ppm) is the true measure because one liter of water has a mass of about one kilogram. The goal in all <a href="/wiki/Technical_writing" title="Technical writing">technical writing</a> (including drinking-water reports for the general public) is to clearly communicate to the intended audience with minimal confusion. Drinking water is intuitively a volumetric quantity in the public’s mind so measures of contamination expressed on a per-liter basis are considered to be easier to grasp. Still, it is technically possible, for example, to "dissolve" more than one liter of a very hydrophilic chemical in 1 liter of water; parts-per notation would be confusing when describing its solubility in water (greater than a million parts per million), so one would simply state the volume (or mass) that will dissolve into a liter, instead.
+</p><p>When reporting air-borne rather than water-borne densities, a slightly different convention is used since air is approximately 1000 times less dense than water. In water, 1 µg/m<sup>3</sup> is roughly equivalent to parts-per-trillion whereas in air, it is roughly equivalent to parts-per-billion. Note also, that in the case of air, this convention is much less accurate. Whereas one liter of water is almost exactly 1 kg, one cubic meter of air is often taken as 1.143 kg—much less accurate, but still close enough for many practical uses.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2010)">citation needed</span></a></i>]</sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parts-per_notation&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="text-align: left; vertical-align: top;">
+<ul><li><a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">International Electrotechnical Commission</a> (IEC)</li>
+<li><a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">International Organization for Standardization</a> (ISO)</li>
+<li><a href="/wiki/International_System_of_Units" title="International System of Units">International System of Units</a> (SI)</li>
+<li><a href="/wiki/Long_and_short_scales" title="Long and short scales">Long and short scales</a></li>
+<li><a href="/wiki/Mass_fraction_(chemistry)" title="Mass fraction (chemistry)">Mass fraction (chemistry)</a></li>
+<li>cf. <a href="/wiki/Milligram_per_cent" title="Milligram per cent">Milligram per cent</a></li></ul>
+<p>
+</p>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul><li><a href="/wiki/Mole_fraction" title="Mole fraction">Mole fraction</a></li>
+<li><a href="/wiki/Names_of_large_numbers" title="Names of large numbers">Names of large numbers</a></li>
+<li><a href="/wiki/National_Institute_of_Standards_and_Technology" title="National Institute of Standards and Technology">National Institute of Standards and Technology</a> (NIST)</li>
+<li><a href="/wiki/Percentage" title="Percentage">Percentage</a> (%)</li>
+<li><a class="mw-redirect" href="/wiki/Permille" title="Permille">Permille</a> (‰)</li>
+<li><a class="mw-redirect" href="/wiki/Permyriad" title="Permyriad">Permyriad</a> (‱) (Basis point)</li></ul>
+<p>
+</p>
+</td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parts-per_notation&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">This is a simplified explanation. Laser rangefinders typically have a measurement <a href="/wiki/Granularity" title="Granularity">granularity</a> of one to ten millimeters; thus, the complete specification for distance measurement accuracy might read as follows:  Accuracy: ±(1 mm + 1 ppm). Consequently, a distance measurement of only a few meters would still have an accuracy of ±1 mm in this example.<sub> </sub></span>
+</li>
+<li id="cite_note-BIPM-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-BIPM_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BIPM_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BIPM_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">BIPM: <a class="external text" href="http://www.bipm.org/en/publications/si-brochure/section5-3-7.html" rel="nofollow">5.3.7 <i>Stating values of dimensionless quantities, or quantities of dimension one</i></a><sub> </sub></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">In the particular case of coefficient of thermal expansion, the change to inches (one of the <a href="/wiki/United_States_customary_units" title="United States customary units">U.S. customary units</a>) is typically also accompanied by a change to <a href="/wiki/Fahrenheit" title="Fahrenheit">degrees Fahrenheit</a>. Since a Fahrenheit-sized interval of temperature is only ​<span class="frac nowrap"><sup>5</sup>⁄<sub>9</sub></span> that of a Celsius-sized interval, the value is typically expressed as 10.4 (µin/in)/°F rather than 18.7 (µin/in)/°C.<sub> </sub></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+Measurements of <a href="/wiki/Polychlorinated_dibenzodioxins" title="Polychlorinated dibenzodioxins">dioxin</a> are routinely made at the <i>sub</i>-ppq level. The <a href="/wiki/United_States_Environmental_Protection_Agency" title="United States Environmental Protection Agency">U.S. Environmental Protection Agency</a> (EPA) currently sets a hard limit of 30 ppq for dioxin in drinking water but once recommended a voluntary limit of 0.013 ppq. Also, radioactive contaminants in drinking water, which are quantified by measuring their radiation, are often reported in terms of ppq; 0.013 ppq is equivalent to the thickness of a sheet of paper versus a journey of <span class="nowrap"><span class="sortkey" style="display:none">7005146000000000000♠</span>146<span style="margin-left:.25em;">000</span></span> trips around the world.<sub> </sub></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><i>Quantities and units</i> - Part 0: <i>General principles</i>, ISO 31-0:1992.<sub> </sub></span>
+</li>
+<li id="cite_note-IUPAP-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUPAP_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUPAP_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Petley, Brian W. (September 1998). <a class="external text" href="http://archive.iupap.org/commissions/interunion/iu14/ga-99.html" rel="nofollow">"Report on recent Committee activities on behalf of IUPAP to the 1999 IUPAP General Assembly"</a>. <a class="external text" href="https://web.archive.org/web/20170815113700/http://archive.iupap.org/commissions/interunion/iu14/ga-99.html" rel="nofollow">Archived</a> from the original on 2017-08-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-15</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Report+on+recent+Committee+activities+on+behalf+of+IUPAP+to+the+1999+IUPAP+General+Assembly&amp;rft.date=1998-09&amp;rft.aulast=Petley&amp;rft.aufirst=Brian+W.&amp;rft_id=http%3A%2F%2Farchive.iupap.org%2Fcommissions%2Finterunion%2Fiu14%2Fga-99.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParts-per+notation"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">NIST: <i><a class="external text" href="http://physics.nist.gov/Pubs/SP811/sec07.html#7.10.3" rel="nofollow">Rules and Style Conventions for Expressing Values of Quantities: 7.10.3 ppm, ppb, and ppt</a></i><sub> </sub></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+<cite class="citation journal"><a class="external text" href="http://www.ecd.bnl.gov/steve/schwartz.html" rel="nofollow">Schwartz</a> and Warneck (1995). <a class="external text" href="http://www.iupac.org/publications/pac/1995/pdf/6708x1377.pdf" rel="nofollow">"Units for use in atmospheric chemistry"</a> <span class="cs1-format">(PDF)</span>. <i>Pure Appl. Chem</i>. <b>67</b>: 1377–1406. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1351%2Fpac199567081377" rel="nofollow">10.1351/pac199567081377</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 9,</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pure+Appl.+Chem.&amp;rft.atitle=Units+for+use+in+atmospheric+chemistry&amp;rft.volume=67&amp;rft.pages=1377-1406&amp;rft.date=1995&amp;rft_id=info%3Adoi%2F10.1351%2Fpac199567081377&amp;rft.au=%5Bhttp%3A%2F%2Fwww.ecd.bnl.gov%2Fsteve%2Fschwartz.html+Schwartz%5D+and+Warneck&amp;rft_id=http%3A%2F%2Fwww.iupac.org%2Fpublications%2Fpac%2F1995%2Fpdf%2F6708x1377.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParts-per+notation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.epa.gov/athens/learn2model/part-two/onsite/ia_unit_conversion.html" rel="nofollow">"EPA On-line Tools for Site Assessment Calculation: Indoor Air Unit Conversion"</a>. <a class="mw-redirect" href="/wiki/Environmental_Protection_Agency" title="Environmental Protection Agency">Environmental Protection Agency</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=EPA+On-line+Tools+for+Site+Assessment+Calculation%3A+Indoor+Air+Unit+Conversion&amp;rft.pub=Environmental+Protection+Agency&amp;rft_id=http%3A%2F%2Fwww.epa.gov%2Fathens%2Flearn2model%2Fpart-two%2Fonsite%2Fia_unit_conversion.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParts-per+notation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Milton R. Beychok (2005). "Air Dispersion Modeling Conversions and Formulas". <a class="external text" href="http://www.air-dispersion.com/formulas.html" rel="nofollow"><i>Fundamentals of Stack Gas Dispersion</i></a> (4th ed.). Milton R. Beychok. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0964458802" title="Special:BookSources/0964458802">0964458802</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Air+Dispersion+Modeling+Conversions+and+Formulas&amp;rft.btitle=Fundamentals+of+Stack+Gas+Dispersion&amp;rft.edition=4th&amp;rft.pub=Milton+R.+Beychok&amp;rft.date=2005&amp;rft.isbn=0964458802&amp;rft.au=Milton+R.+Beychok&amp;rft_id=http%3A%2F%2Fwww.air-dispersion.com%2Fformulas.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParts-per+notation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://pages.shanti.virginia.edu/CE_2050_F12/2012/08/23/units/" rel="nofollow">"Introduction to Green Engineering"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Introduction+to+Green+Engineering&amp;rft_id=https%3A%2F%2Fpages.shanti.virginia.edu%2FCE_2050_F12%2F2012%2F08%2F23%2Funits%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParts-per+notation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Compliance with the SI regarding the percent symbol (%) is limited in this chart. According to the BIPM’s <a class="external text" href="http://www.bipm.org/en/publications/si-brochure/section5-3-3.html" rel="nofollow">SI brochure: Subsection 5.3.3, <i>Formatting the value of a quantity</i></a>, a space is always used to separate the unit symbol from the numeric value. Notable exceptions are the unit symbols for degree, minute, and second for plane angle, °, ′, and ″ (e.g., a latitude of <span class="nowrap">47° 38′ 8.8″).</span> However, according to <a class="external text" href="http://www.bipm.org/en/publications/si-brochure/section5-3-7.html" rel="nofollow">5.3.7 <i>Stating values of dimensionless quantities, or quantities of dimension one</i></a>, the exception does not apply to the “%” symbol; it states as follows: <i>“When it [the percent symbol] is used, a space separates the number and the symbol %.”</i> This practice has not been well adopted with regard to the % symbol, is <a class="mw-redirect" href="/wiki/Wikipedia:%25" title="Wikipedia:%">contrary to Wikipedia’s <i>Manual of Style</i></a>, and is not observed here.<sub> </sub></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Certain mathematical functions can produce proportional quantities with values greater than 1.<sub> </sub></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Consultative Committee for Units (13–14 May 2004). <a class="external text" href="https://web.archive.org/web/20140310054340/http://www.bipm.org/utils/common/pdf/CCU16.pdf" rel="nofollow">"Report of the 16th meeting (13–14 May 2004) to the International Committee for Weights and Measures, of the International Bureau of Weights and Measures"</a> <span class="cs1-format">(PDF)</span>. Archived from <a class="external text" href="http://www.bipm.org/utils/common/pdf/CCU16.pdf" rel="nofollow">the original</a> <span class="cs1-format">(PDF)</span> on 2014-03-10.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Report+of+the+16th+meeting+%2813%E2%80%9314+May+2004%29+to+the+International+Committee+for+Weights+and+Measures%2C+of+the+International+Bureau+of+Weights+and+Measures&amp;rft.date=2004-05-13%2F2004-05-14&amp;rft.au=Consultative+Committee+for+Units&amp;rft_id=http%3A%2F%2Fwww.bipm.org%2Futils%2Fcommon%2Fpdf%2FCCU16.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParts-per+notation"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parts-per_notation&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="512" data-file-width="512" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/ppm" title="wiktionary:ppm">ppm</a></b></i>, <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/ppb" title="wiktionary:ppb">ppb</a></b></i>, <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/ppt" title="wiktionary:ppt">ppt</a></b></i>, or <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/ppq" title="wiktionary:ppq">ppq</a></b></i> in Wiktionary, the free dictionary.</td></tr></tbody></table>
+<ul><li>National Institute of Standards and Technology (NIST): <a class="external text" href="https://www.nist.gov/" rel="nofollow">Home page</a></li>
+<li>International Bureau of Weights and Measures (BIPM): <a class="external text" href="http://www.bipm.org/en/home/" rel="nofollow">Home page</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1241
+Cached time: 20181011230922
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.360 seconds
+Real time usage: 0.450 seconds
+Preprocessor visited node count: 1139/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23323/2097152 bytes
+Template argument size: 1638/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 21962/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.160/10.000 seconds
+Lua memory usage: 4.89 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  330.565      1 -total
+ 48.59%  160.606      1 Template:Reflist
+ 24.43%   80.743      4 Template:Cite_web
+ 14.09%   46.593     11 Template:Val
+ 12.19%   40.280      1 Template:Citation_needed
+ 11.35%   37.507      1 Template:Fix
+ 10.20%   33.713      1 Template:Cite_journal
+  9.27%   30.655      1 Template:Redirect
+  6.92%   22.877      2 Template:Category_handler
+  4.29%   14.180      1 Template:Wiktionary
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:145865-0!canonical and timestamp 20181011230921 and revision id 861003729
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Parts-per_notation&amp;oldid=861003729">https://en.wikipedia.org/w/index.php?title=Parts-per_notation&amp;oldid=861003729</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Analytical_chemistry" title="Category:Analytical chemistry">Analytical chemistry</a></li><li><a href="/wiki/Category:Chemical_nomenclature" title="Category:Chemical nomenclature">Chemical nomenclature</a></li><li><a href="/wiki/Category:Dimensionless_numbers" title="Category:Dimensionless numbers">Dimensionless numbers</a></li><li><a href="/wiki/Category:Environmental_chemistry" title="Category:Environmental chemistry">Environmental chemistry</a></li><li><a href="/wiki/Category:Mathematical_terminology" title="Category:Mathematical terminology">Mathematical terminology</a></li><li><a href="/wiki/Category:Measurement" title="Category:Measurement">Measurement</a></li><li><a href="/wiki/Category:Metrics" title="Category:Metrics">Metrics</a></li><li><a href="/wiki/Category:Physical_constants" title="Category:Physical constants">Physical constants</a></li><li><a href="/wiki/Category:Units_of_measurement" title="Category:Units of measurement">Units of measurement</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2010" title="Category:Articles with unsourced statements from April 2010">Articles with unsourced statements from April 2010</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Parts-per+notation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Parts-per+notation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Parts-per_notation" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Parts-per_notation" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Parts-per_notation">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Parts-per_notation&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Parts-per_notation&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Parts-per_notation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Parts-per_notation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Parts-per_notation&amp;oldid=861003729" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Parts-per_notation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q27084" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Parts-per_notation&amp;id=861003729" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Parts-per+notation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Parts-per+notation&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Parts-per_notation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Partes_por_notaci%C3%B3n" hreflang="ast" lang="ast" title="Partes por notación – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF-%E0%A6%85%E0%A6%82%E0%A6%B6_%E0%A6%85%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%A8%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%A4" hreflang="bn" lang="bn" title="প্রতি-অংশ অঙ্কানুপাত – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%91%D0%B5%D0%B7%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%B8_%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D0%B8_%D0%B7%D0%B0_%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B8_%D0%B8_%D1%83%D0%BB%D1%82%D1%80%D0%B0-%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B8_%D1%81%D1%8A%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Безразмерни единици за следови и ултра-следови съдържания – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Partes_por_notaci%C3%B3n" hreflang="es" lang="es" title="Partes por notación – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A8%D8%AE%D8%B4_%D8%AF%D8%B1_%DB%8C%DA%A9%D8%A7%DB%8C_%D8%B3%D9%86%D8%AC%D8%B4" hreflang="fa" lang="fa" title="بخش در یکای سنجش – Persian">فارسی</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%97%D7%9C%D7%A7%D7%99%D7%9D_%D7%9C..." hreflang="he" lang="he" title="חלקים ל... – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Notatio_partium-per" hreflang="la" lang="la" title="Notatio partium-per – Latin">Latina</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Ezrel%C3%A9kn%C3%A9l_kisebb_r%C3%A9szek" hreflang="hu" lang="hu" title="Ezreléknél kisebb részek – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Notasi_bahagian_per" hreflang="ms" lang="ms" title="Notasi bahagian per – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/Parts-per%E8%A1%A8%E8%A8%98" hreflang="ja" lang="ja" title="Parts-per表記 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Sposoby_zapisu_bezwymiarowego_stosunku_dw%C3%B3ch_wielko%C5%9Bci" hreflang="pl" lang="pl" title="Sposoby zapisu bezwymiarowego stosunku dwóch wielkości – Polish">Polski</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99" hreflang="th" lang="th" title="สัญกรณ์ส่วนในหลายส่วน – Thai">ไทย</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%88%86%E7%8E%87" hreflang="zh" lang="zh" title="分率 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q27084#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 24 September 2018, at 14:48<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Parts-per_notation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.360","walltime":"0.450","ppvisitednodes":{"value":1139,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":23323,"limit":2097152},"templateargumentsize":{"value":1638,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":21962,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  330.565      1 -total"," 48.59%  160.606      1 Template:Reflist"," 24.43%   80.743      4 Template:Cite_web"," 14.09%   46.593     11 Template:Val"," 12.19%   40.280      1 Template:Citation_needed"," 11.35%   37.507      1 Template:Fix"," 10.20%   33.713      1 Template:Cite_journal","  9.27%   30.655      1 Template:Redirect","  6.92%   22.877      2 Template:Category_handler","  4.29%   14.180      1 Template:Wiktionary"]},"scribunto":{"limitreport-timeusage":{"value":"0.160","limit":"10.000"},"limitreport-memusage":{"value":5132163,"limit":52428800}},"cachereport":{"origin":"mw1241","timestamp":"20181011230922","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1262"});});</script>
+</body>
+</html>

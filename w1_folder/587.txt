@@ -1,0 +1,2051 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Energy density - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Energy_density","wgTitle":"Energy density","wgCurRevisionId":863102373,"wgRevisionId":863102373,"wgArticleId":1610231,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles needing additional references from December 2017","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from September 2012","Wikipedia articles needing clarification from February 2009","Articles with unsourced statements from October 2014","Articles with unsourced statements from April 2018","Wikipedia articles needing clarification from October 2008","Articles with unsourced statements from February 2009","Articles with unsourced statements from November 2008","Wikipedia articles needing clarification from November 2008","Articles with unsourced statements from February 2010","Articles with unsourced statements from June 2009","Energy","Density"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Energy_density","wgRelevantArticleId":1610231,"wgRequestId":"W8HSgwpAAEYAAFDEL50AAABB","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q828402","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Energy_density" rel="alternate"/>
+<link href="/w/index.php?title=Energy_density&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Energy_density&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Energy_density" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Energy_density rootpage-Energy_density skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Energy density</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-style:italic;">Energy density</th></tr><tr><th scope="row"><a class="mw-redirect" href="/wiki/SI_unit" title="SI unit">SI unit</a></th><td>
+<a href="/wiki/Joule" title="Joule">J</a>/<a class="mw-redirect" href="/wiki/Meter" title="Meter">m</a><sup>3</sup></td></tr><tr><th scope="row">In <a href="/wiki/SI_base_unit" title="SI base unit"><span class="wrap">SI base units</span></a></th><td>
+kg·m<sup>−1</sup>s<sup>−2</sup></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Derivations from<br/>other quantities</div></th><td>
+U = <a href="/wiki/Energy" title="Energy">E</a>/<a href="/wiki/Volume" title="Volume">V</a></td></tr></tbody></table>
+<p><b>Energy density</b> is the amount of <a href="/wiki/Energy" title="Energy">energy</a> stored in a given system or region of space per unit <a href="/wiki/Volume" title="Volume">volume</a>. Colloquially it may also be used for energy per unit <a href="/wiki/Mass" title="Mass">mass</a>, though the accurate term for this is <a href="/wiki/Specific_energy" title="Specific energy">specific energy</a>.  Often only the <i>useful</i> or extractable energy is measured, which is to say that inaccessible energy (such as <a class="mw-redirect" href="/wiki/Rest_mass" title="Rest mass">rest mass</a> energy) is ignored.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> In <a href="/wiki/Physical_cosmology" title="Physical cosmology">cosmological</a> and other <a href="/wiki/General_relativity" title="General relativity">general relativistic</a> contexts, however, the energy densities considered are those that correspond to the elements of the <a href="/wiki/Stress%E2%80%93energy_tensor" title="Stress–energy tensor">stress–energy tensor</a> and therefore do include mass energy as well as energy densities associated with the pressures described in the next paragraph.
+</p><p>Energy per unit volume has the same physical units as <a href="/wiki/Pressure" title="Pressure">pressure</a>, and in many circumstances is a <a href="/wiki/Synonym" title="Synonym">synonym</a>: for example, the energy density of a magnetic field may be expressed as (and behaves as) a physical pressure, and the energy required to compress a compressed gas a little more may be determined by multiplying the difference between the gas pressure and the external pressure by the change in volume. In short, pressure is a measure of the <a href="/wiki/Enthalpy" title="Enthalpy">enthalpy</a> per unit volume of a system. A pressure gradient has the potential to perform work on the surroundings by converting enthalpy to work until equilibrium is reached.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Introduction_to_energy_density"><span class="tocnumber">1</span> <span class="toctext">Introduction to energy density</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Energy_densities_of_common_energy_storage_materials"><span class="tocnumber">1.1</span> <span class="toctext">Energy densities of common energy storage materials</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Energy_density_in_energy_storage_and_in_fuel"><span class="tocnumber">2</span> <span class="toctext">Energy density in energy storage and in fuel</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Nuclear_energy_sources"><span class="tocnumber">2.1</span> <span class="toctext">Nuclear energy sources</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Broad_implications"><span class="tocnumber">2.2</span> <span class="toctext">Broad implications</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Energy_densities_ignoring_external_components"><span class="tocnumber">2.3</span> <span class="toctext">Energy densities ignoring external components</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Energy_density_of_electric_and_magnetic_fields"><span class="tocnumber">3</span> <span class="toctext">Energy density of electric and magnetic fields</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Footnotes"><span class="tocnumber">5</span> <span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Density_data"><span class="tocnumber">6.1</span> <span class="toctext">Density data</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Energy_storage"><span class="tocnumber">6.2</span> <span class="toctext">Energy storage</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Books"><span class="tocnumber">6.3</span> <span class="toctext">Books</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Introduction_to_energy_density">Introduction to energy density</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_density&amp;action=edit&amp;section=1" title="Edit section: Introduction to energy density">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are many different types of energy stored in materials, and it takes a particular type of reaction to release each type of energy. In order of the typical magnitude of the energy released, these types of reactions are: nuclear, chemical, electrochemical, and electrical.
+</p><p><a href="/wiki/Nuclear_reaction" title="Nuclear reaction">Nuclear reactions</a> are used by stars and nuclear power plants, both of which derive energy from the binding energy of nuclei. <a href="/wiki/Chemical_reaction" title="Chemical reaction">Chemical reactions</a> are used by animals to derive energy from food, and by automobiles to derive energy from gasoline. <a class="mw-redirect" href="/wiki/Electrochemical_reaction" title="Electrochemical reaction">Electrochemical reactions</a> are used by most mobile devices such as laptop computers and mobile phones to release the energy from batteries.
+</p>
+<h3><span class="mw-headline" id="Energy_densities_of_common_energy_storage_materials">Energy densities of common energy storage materials</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_density&amp;action=edit&amp;section=2" title="Edit section: Energy densities of common energy storage materials">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Energy_density&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(December 2017)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><br/>
+The following is a list of the thermal energy densities (that is to say: the amount of heat energy that can be extracted) of commonly used or well-known energy storage materials; it doesn't include uncommon or experimental materials. Note that this list does not consider the mass of reactants commonly available such as the oxygen required for combustion or the energy efficiency in use. An extended version of this table is found at <a href="/wiki/Energy_density#Extended_Reference_Table" title="Energy density">Energy density#Extended Reference Table</a>. Major reference = <sup class="reference" id="cite_ref-engineeringtoolbox_2-0"><a href="#cite_note-engineeringtoolbox-2">[2]</a></sup>.
+</p><p>The following unit conversions may be helpful when considering the data in the table: 3.6 <a href="/wiki/Joule" title="Joule">MJ</a> = 1 <a href="/wiki/Kilowatt_hour" title="Kilowatt hour">kWh</a> ≈ 1.34 <a href="/wiki/Horsepower-hour" title="Horsepower-hour">HPh</a>.
+</p>
+<table class="wikitable sortable" style="text-align: center;">
+<tbody><tr>
+<th>Storage material
+</th>
+<th>Energy type
+</th>
+<th data-sort-type="number">Specific energy<br/>(MJ/kg)
+</th>
+<th data-sort-type="number">Energy density<br/>(MJ/L)
+</th>
+<th>Uses
+</th></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Deuterium" title="Deuterium">Deuterium</a> (in <a class="mw-redirect" href="/wiki/Fusion_reactor" title="Fusion reactor">Fusion reactor</a>)
+</td>
+<td><a href="/wiki/Fusion_power" title="Fusion power">Nuclear fusion</a>
+</td>
+<td data-sort-value="87,900,000">87,900,000<sup class="reference" id="cite_ref-nrl2016_3-0"><a href="#cite_note-nrl2016-3">[3]</a></sup>
+</td>
+<td>15,822<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</td>
+<td>Experimental
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Uranium" title="Uranium">Uranium</a> (in <a href="/wiki/Breeder_reactor" title="Breeder reactor">breeder</a>)
+</td>
+<td><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a> fission
+</td>
+<td data-sort-value="80,620,000">80,620,000<sup class="reference" id="cite_ref-whatisnuclear_5-0"><a href="#cite_note-whatisnuclear-5">[5]</a></sup>
+</td>
+<td>1,539,842,000
+</td>
+<td>Electric power plants
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Thorium-based_nuclear_power" title="Thorium-based nuclear power">Thorium</a> (in <a href="/wiki/Breeder_reactor" title="Breeder reactor">breeder</a>)
+</td>
+<td><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a> fission
+</td>
+<td data-sort-value="79,420,000">79,420,000<sup class="reference" id="cite_ref-whatisnuclear_5-1"><a href="#cite_note-whatisnuclear-5">[5]</a></sup>
+</td>
+<td>929,214,000
+</td>
+<td>Experimental
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Plutonium-238#Decay" title="Plutonium-238">Plutonium 238</a>
+</td>
+<td><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a> decay
+</td>
+<td>2,239,000
+</td>
+<td>43,277,631
+</td>
+<td><a href="/wiki/Radioisotope_thermoelectric_generator" title="Radioisotope thermoelectric generator">RTGs</a>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Tritium#Decay" title="Tritium">Tritium</a>
+</td>
+<td><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear</a> decay
+</td>
+<td>583,529
+</td>
+<td>158<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>
+</td>
+<td>Experimental
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Compressed_hydrogen" title="Compressed hydrogen">Hydrogen (compressed at 700 bar)</a>
+</td>
+<td><a href="/wiki/Chemical_energy#Chemical_energy" title="Chemical energy">Chemical</a>
+</td>
+<td>142
+</td>
+<td>9.17
+</td>
+<td>Rocket engines
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Methane" title="Methane">Methane</a> or <a href="/wiki/Liquefied_natural_gas" title="Liquefied natural gas">Liquefied natural gas</a>(compressed)
+</td>
+<td><a href="/wiki/Chemical_energy#Chemical_energy" title="Chemical energy">Chemical</a>
+</td>
+<td>55.5
+</td>
+<td>22.2
+</td>
+<td>Cooking, home heating, electric power plants
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Diesel_fuel" title="Diesel fuel">Diesel</a>
+</td>
+<td>Chemical
+</td>
+<td>48
+</td>
+<td>35.8
+</td>
+<td>Automotive engines, electric power plants
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Liquefied_petroleum_gas" title="Liquefied petroleum gas">LPG</a> (including <a href="/wiki/Propane" title="Propane">Propane</a> / <a href="/wiki/Butane" title="Butane">Butane</a>)
+</td>
+<td>Chemical
+</td>
+<td>46.4
+</td>
+<td>26
+</td>
+<td>Cooking, home heating, automotive engines, lighter fluid
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Gasoline" title="Gasoline">Gasoline</a> (petrol)
+</td>
+<td>Chemical
+</td>
+<td>46.4<sup class="reference" id="cite_ref-engineeringtoolbox_2-1"><a href="#cite_note-engineeringtoolbox-2">[2]</a></sup>
+</td>
+<td>34.2
+</td>
+<td>Automotive engines, electric power plants
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Jet_fuel" title="Jet fuel">Jet fuel</a> (<a href="/wiki/Kerosene" title="Kerosene">Kerosene</a>)
+</td>
+<td>Chemical
+</td>
+<td data-sort-value="42.8">42.8<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</td>
+<td>37.4
+</td>
+<td>Aircraft engines
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Fat" title="Fat">Fat</a> (animal/vegetable)
+</td>
+<td>Chemical
+</td>
+<td>37
+</td>
+<td>34
+</td>
+<td>Human and animal nutrition
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Coal" title="Coal">Coal</a> (<a href="/wiki/Anthracite" title="Anthracite">anthracite</a> or <a href="/wiki/Bituminous_coal" title="Bituminous coal">bituminous</a>)
+</td>
+<td>Chemical
+</td>
+<td data-sort-value="30">~30
+</td>
+<td data-sort-value="38">~38
+</td>
+<td>Electric power plants, home heating
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Methanol" title="Methanol">Methanol</a>
+</td>
+<td>Chemical
+</td>
+<td data-sort-value="19.7">19.7
+</td>
+<td>15.6
+</td>
+<td>Fuel engines
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Carbohydrate" title="Carbohydrate">Carbohydrates</a> (including sugars)
+</td>
+<td>Chemical
+</td>
+<td>17
+</td>
+<td>43
+</td>
+<td>Human and animal nutrition
+</td></tr>
+<tr>
+<td style="text-align:left;"><a class="mw-redirect" href="/wiki/Protein_in_nutrition" title="Protein in nutrition">Protein</a>
+</td>
+<td>Chemical
+</td>
+<td>16.8
+</td>
+<td>105.1
+</td>
+<td>Human and animal nutrition
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Wood_fuel" title="Wood fuel">Wood</a>
+</td>
+<td>Chemical
+</td>
+<td data-sort-value="16.2">16.2<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>
+</td>
+<td>13
+</td>
+<td>Home heating, cooking
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Gunpowder" title="Gunpowder">Gunpowder</a>
+</td>
+<td>Chemical
+</td>
+<td data-sort-value="4.7">4.7–11.3<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>
+</td>
+<td>5.9-12.9
+</td>
+<td>Explosives, Ammunition
+</td></tr>
+<tr>
+<td style="text-align:left;"><a class="mw-redirect" href="/wiki/Trinitrotoluene" title="Trinitrotoluene">TNT</a>
+</td>
+<td>Chemical
+</td>
+<td>4.610
+</td>
+<td>6.92
+</td>
+<td>Explosives
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Lithium_battery" title="Lithium battery">Lithium metal battery</a> (Li-Po, Li-Hv)
+</td>
+<td><a href="/wiki/Electrochemical_cell" title="Electrochemical cell">Electrochemical</a>
+</td>
+<td>1.8
+</td>
+<td>4.32
+</td>
+<td>Portable electronic devices, flashlights, RC vehicles
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Lithium-ion_battery" title="Lithium-ion battery">Lithium-ion battery</a>
+</td>
+<td>Electrochemical
+</td>
+<td data-sort-value="0.36">0.36–0.875<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>
+</td>
+<td data-sort-value="0.9">0.9–2.63
+</td>
+<td>Automotive motors, portable electronic devices, flashlights
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Flywheel_energy_storage" title="Flywheel energy storage">Flywheel</a>
+</td>
+<td>Mechanical
+</td>
+<td data-sort-value="0.36">0.36–0.5
+</td>
+<td>5.3
+</td>
+<td>Power plants, Gyrobusses
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Alkaline_battery" title="Alkaline battery">Alkaline battery</a>
+</td>
+<td>Electrochemical
+</td>
+<td data-sort-value="0.5">0.5<sup class="reference" id="cite_ref-:8_13-0"><a href="#cite_note-:8-13">[13]</a></sup>
+</td>
+<td data-sort-value="1.3">1.3<sup class="reference" id="cite_ref-:8_13-1"><a href="#cite_note-:8-13">[13]</a></sup>
+</td>
+<td>Portable electronic devices, flashlights
+</td></tr>
+<tr>
+<td style="text-align:left;"><a class="mw-redirect" href="/wiki/Nickel-metal_hydride_battery" title="Nickel-metal hydride battery">Nickel-metal hydride battery</a>
+</td>
+<td>Electrochemical
+</td>
+<td>0.288
+</td>
+<td data-sort-value="0.504">0.504–1.08
+</td>
+<td>Portable electronic devices, flashlights
+</td></tr>
+<tr>
+<td style="text-align:left;"><a class="mw-redirect" href="/wiki/Lead-acid_battery" title="Lead-acid battery">Lead-acid battery</a>
+</td>
+<td>Electrochemical
+</td>
+<td>0.17
+</td>
+<td>0.56
+</td>
+<td>Automotive engine ignition
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Supercapacitor" title="Supercapacitor">Supercapacitor</a> (<a class="mw-redirect" href="/wiki/Electric_double-layer_capacitor" title="Electric double-layer capacitor">EDLC</a>)
+</td>
+<td>Electrical (<a href="/wiki/Electrostatics" title="Electrostatics">electrostatic</a>)
+</td>
+<td data-sort-value="0.01">0.01–0.036<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>
+</td>
+<td data-sort-value="0.05">0.05–0.06<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup>
+</td>
+<td>Electronic circuits
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Electrolytic_capacitor" title="Electrolytic capacitor">Electrolytic capacitor</a>
+</td>
+<td>Electrical (electrostatic)
+</td>
+<td data-sort-value="0.00001">0.00001–0.0002<sup class="reference" id="cite_ref-:7_22-0"><a href="#cite_note-:7-22">[22]</a></sup>
+</td>
+<td data-sort-value="0.00001">0.00001–0.001<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup>
+</td>
+<td>Electronic circuits
+</td></tr></tbody></table>
+<p><br/>
+</p>
+<table class="wikitable sortable" style="text-align: center;">
+<caption>Energy capacities of common storage forms
+</caption>
+<tbody><tr>
+<th>Storage device
+</th>
+<th data-sort-type="number">Energy content<br/>(<a href="/wiki/Joule" title="Joule">Joule</a>)
+</th>
+<th>Energy type
+</th>
+<th data-sort-type="number">Typical mass<br/>(g)
+</th>
+<th>Typical volume<br/>(width × height × depth in mm)
+</th></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Alkaline_battery" title="Alkaline battery">Alkaline</a> <a href="/wiki/AA_battery" title="AA battery">AA battery</a><sup class="reference" id="cite_ref-:9_26-0"><a href="#cite_note-:9-26">[26]</a></sup>
+</td>
+<td>9360
+</td>
+<td>Electrochemical
+</td>
+<td>24
+</td>
+<td>14.2 × 50
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Alkaline_battery" title="Alkaline battery">Alkaline</a> <a href="/wiki/C_battery" title="C battery">C battery</a><sup class="reference" id="cite_ref-:9_26-1"><a href="#cite_note-:9-26">[26]</a></sup>
+</td>
+<td>34,416
+</td>
+<td>Electrochemical
+</td>
+<td>65
+</td>
+<td>26 × 46
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Nickel%E2%80%93metal_hydride_battery" title="Nickel–metal hydride battery">NiMH</a> AA battery
+</td>
+<td>9072
+</td>
+<td>Electrochemical
+</td>
+<td>26
+</td>
+<td>14.2 × 50
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Nickel%E2%80%93metal_hydride_battery" title="Nickel–metal hydride battery">NiMH</a> C battery
+</td>
+<td>19,440
+</td>
+<td>Electrochemical
+</td>
+<td>82
+</td>
+<td>26 × 46
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Lithium-ion_battery" title="Lithium-ion battery">Lithium-ion</a> <a href="/wiki/List_of_battery_sizes" title="List of battery sizes">18650 battery</a>
+</td>
+<td data-sort-value="28,800">28,800–46,800
+</td>
+<td>Electrochemical
+</td>
+<td data-sort-value="44">44–49<sup class="reference" id="cite_ref-:10_27-0"><a href="#cite_note-:10-27">[27]</a></sup>
+</td>
+<td>18 × 65
+</td></tr>
+<tr>
+<td style="text-align:left;">Potato Chip
+</td>
+<td data-sort-value="41,900">41,900<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup>
+</td>
+<td>Chemical
+</td>
+<td>1.89
+</td>
+<td>60 × 40 × 1
+</td></tr>
+<tr>
+<td style="text-align:left;">Ham and Cheese Sandwich<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup>
+</td>
+<td>1,470,000
+</td>
+<td>Chemical
+</td>
+<td>145
+</td>
+<td>100 × 100 × 28
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Energy_density_in_energy_storage_and_in_fuel">Energy density in energy storage and in fuel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_density&amp;action=edit&amp;section=3" title="Edit section: Energy density in energy storage and in fuel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:Energy_density.svg"><img alt="" class="thumbimage" data-file-height="675" data-file-width="1080" height="250" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Energy_density.svg/400px-Energy_density.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Energy_density.svg/600px-Energy_density.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Energy_density.svg/800px-Energy_density.svg.png 2x" width="400"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Energy_density.svg" title="Enlarge"></a></div>Selected energy densities plot<sup class="reference" id="cite_ref-tzar1_30-0"><a href="#cite_note-tzar1-30">[30]</a></sup><sup class="reference" id="cite_ref-tzar2_31-0"><a href="#cite_note-tzar2-31">[31]</a></sup><sup class="reference" id="cite_ref-tzar3_32-0"><a href="#cite_note-tzar3-32">[32]</a></sup><sup class="reference" id="cite_ref-tzar4_33-0"><a href="#cite_note-tzar4-33">[33]</a></sup><sup class="reference" id="cite_ref-tzar5_34-0"><a href="#cite_note-tzar5-34">[34]</a></sup><sup class="reference" id="cite_ref-tzar6_35-0"><a href="#cite_note-tzar6-35">[35]</a></sup><sup class="reference" id="cite_ref-tzar7_36-0"><a href="#cite_note-tzar7-36">[36]</a></sup><sup class="reference" id="cite_ref-tzar8_37-0"><a href="#cite_note-tzar8-37">[37]</a></sup></div></div></div>
+<p>In <a href="/wiki/Energy_storage" title="Energy storage">energy storage</a> applications the energy density relates the <a href="/wiki/Mass" title="Mass">mass</a> of an energy store to the volume of the storage facility, e.g. the <a href="/wiki/Fuel" title="Fuel">fuel</a> tank. The higher the energy density of the fuel, the more energy may be stored or transported for the same amount of volume. The energy density of a fuel per unit mass is called the <a href="/wiki/Specific_energy" title="Specific energy">specific energy</a> of that fuel. In general an <a href="/wiki/Engine" title="Engine">engine</a> using that fuel will generate less <a href="/wiki/Kinetic_energy" title="Kinetic energy">kinetic energy</a> due to <a href="/wiki/Inefficiency" title="Inefficiency">inefficiencies</a> and <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamic</a> considerations—hence the <a class="mw-redirect" href="/wiki/Thrust_specific_fuel_consumption" title="Thrust specific fuel consumption">specific fuel consumption</a> of an engine will always be greater than its rate of production of the kinetic energy of motion.
+</p>
+<h3><span class="mw-headline" id="Nuclear_energy_sources">Nuclear energy sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_density&amp;action=edit&amp;section=4" title="Edit section: Nuclear energy sources">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The greatest energy source by far is mass itself.  This energy, <i>E = mc<sup>2</sup></i>, where <i>m = ρV</i>, <i>ρ</i> is the mass per unit volume, <i>V</i> is the volume of the mass itself and <i>c</i> is the speed of light.  This energy, however, can be released only by the processes of <a href="/wiki/Nuclear_fission" title="Nuclear fission">nuclear fission</a> (0.1%), <a href="/wiki/Nuclear_fusion" title="Nuclear fusion">nuclear fusion</a> (1%),<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2012)">citation needed</span></a></i>]</sup> or the annihilation of some or all of the matter in the volume <i>V</i> by matter-<a href="/wiki/Antimatter" title="Antimatter">antimatter</a> collisions (100%).  Nuclear reactions cannot be realized by chemical reactions such as combustion.  Although greater matter densities can be achieved, the density of a <a href="/wiki/Neutron_star" title="Neutron star">neutron star</a> would approximate the most dense system capable of matter-antimatter annihilation possible.  A <a href="/wiki/Black_hole" title="Black hole">black hole</a>, although denser than a neutron star, does not have an equivalent anti-particle form, but would offer the same 100% conversion rate of mass to energy in the form of Hawking radiation. In the case of relatively small black holes (smaller than astronomical objects) the power output would be tremendous.
+</p><p>The highest density sources of energy aside from antimatter are <a href="/wiki/Nuclear_fusion" title="Nuclear fusion">fusion</a> and <a href="/wiki/Nuclear_fission" title="Nuclear fission">fission</a>. Fusion includes energy from the sun which will be available for billions of years (in the form of sunlight) but so far (2016), sustained <a href="/wiki/Fusion_power" title="Fusion power">fusion power</a> production continues to be elusive. Power from fission of uranium and thorium in <a href="/wiki/Nuclear_power" title="Nuclear power">nuclear power</a> plants will be available for many decades or even centuries because of the plentiful supply of the elements on earth,<sup class="reference" id="cite_ref-38"><a href="#cite_note-38">[38]</a></sup> though the full potential of this source can only be realised through <a href="/wiki/Breeder_reactor" title="Breeder reactor">breeder reactors</a>, which are, apart from the <a href="/wiki/BN-600_reactor" title="BN-600 reactor">BN-600 reactor</a>, not yet used commercially.<sup class="reference" id="cite_ref-cohen_39-0"><a href="#cite_note-cohen-39">[39]</a></sup> <a href="/wiki/Coal" title="Coal">Coal</a>, <a href="/wiki/Gas" title="Gas">gas</a>, and <a href="/wiki/Petroleum" title="Petroleum">petroleum</a> are the current primary energy sources in the U.S.<sup class="reference" id="cite_ref-40"><a href="#cite_note-40">[40]</a></sup> but have a much lower energy density. Burning local <a href="/wiki/Biomass" title="Biomass">biomass</a> fuels supplies household energy needs (<a class="mw-redirect" href="/wiki/Biomass_Cook_Stoves" title="Biomass Cook Stoves">cooking fires</a>, <a href="/wiki/Oil_lamp" title="Oil lamp">oil lamps</a>, etc.) worldwide.
+</p>
+<h3><span class="mw-headline" id="Broad_implications">Broad implications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_density&amp;action=edit&amp;section=5" title="Edit section: Broad implications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Energy density differs from <a href="/wiki/Energy_conversion_efficiency" title="Energy conversion efficiency">energy conversion efficiency</a> (net output per input) or <a href="/wiki/Embodied_energy" title="Embodied energy">embodied energy</a> (the energy output costs to provide, as <a href="/wiki/Energy_industry" title="Energy industry">harvesting</a>, <a href="/wiki/Oil_refinery" title="Oil refinery">refining</a>, distributing, and dealing with <a href="/wiki/Pollution" title="Pollution">pollution</a> all use energy). Large scale, intensive energy use impacts and is impacted by <a href="/wiki/Climate" title="Climate">climate</a>, <a class="mw-redirect" href="/wiki/Nuclear_waste" title="Nuclear waste">waste storage</a>, and <a href="/wiki/Deforestation" title="Deforestation">environmental consequences</a>.
+</p><p>No single energy storage method boasts the best in <a href="/wiki/Power-to-weight_ratio" title="Power-to-weight ratio">specific power</a>, <a href="/wiki/Specific_energy" title="Specific energy">specific energy</a>, and energy density. <a class="mw-redirect" href="/wiki/Peukert%27s_Law" title="Peukert's Law">Peukert's Law</a> describes how the amount of useful energy that can be obtained (for a lead-acid cell) depends on how quickly we pull it out.  To maximize both specific energy and energy density, one can compute the <a href="/wiki/Specific_energy" title="Specific energy">specific energy density</a> of a substance by multiplying the two values together, where the higher the number, the better the substance is at storing energy efficiently.
+</p><p>Alternative options are discussed for energy storage to increase energy density and decrease charging time.<sup class="reference" id="cite_ref-41"><a href="#cite_note-41">[41]</a></sup><sup class="reference" id="cite_ref-42"><a href="#cite_note-42">[42]</a></sup><sup class="reference" id="cite_ref-43"><a href="#cite_note-43">[43]</a></sup><sup class="reference" id="cite_ref-44"><a href="#cite_note-44">[44]</a></sup>
+</p><p><a class="mw-redirect" href="/wiki/Gravimetric" title="Gravimetric">Gravimetric</a> and <a class="mw-redirect" href="/wiki/Volumetric" title="Volumetric">volumetric</a> energy density of some fuels and storage technologies (modified from the <a href="/wiki/Gasoline" title="Gasoline">Gasoline</a> article):
+</p>
+<dl><dd>Note: Some values may not be precise because of <a class="mw-redirect" href="/wiki/Isomers" title="Isomers">isomers</a> or other irregularities.  See <a class="mw-redirect" href="/wiki/Heating_value" title="Heating value">Heating value</a> for a comprehensive table of specific energies of important fuels.</dd>
+<dd>Note: Also it is important to realise that generally the density values for chemical fuels do not include the weight of oxygen required for combustion. This is typically two oxygen atoms per carbon atom, and one per two hydrogen atoms. The <a class="mw-redirect" href="/wiki/Atomic_weight" title="Atomic weight">atomic weight</a> of carbon and oxygen are similar, while hydrogen is much lighter than oxygen. Figures are presented this way for those fuels where in practice air would only be drawn in locally to the burner. This explains the apparently lower energy density of materials that already include their own oxidiser (such as gunpowder and TNT), where the mass of the oxidiser in effect adds dead weight, and absorbs some of the energy of combustion to dissociate and liberate oxygen to continue the reaction. This also explains some apparent anomalies, such as the energy density of a sandwich appearing to be higher than that of a stick of dynamite.</dd></dl>
+<h3><span class="mw-headline" id="Energy_densities_ignoring_external_components">Energy densities ignoring external components</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_density&amp;action=edit&amp;section=6" title="Edit section: Energy densities ignoring external components">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This table lists energy densities of systems that require external components, such as oxidisers or a heat sink or source. These figures do not take into account the mass and volume of the required components as they are assumed to be freely available and present in the atmosphere. Such systems cannot be compared with self-contained systems. These values may not be computed at the same reference conditions.
+</p>
+<table class="wikitable sortable" style="text-align: right;">
+<caption>Energy densities of energy medium
+</caption>
+<tbody><tr>
+<th>Storage type
+</th>
+<th data-sort-type="number">Specific energy<br/>(MJ/kg)
+</th>
+<th data-sort-type="number">Energy density<br/>(MJ/L)
+</th>
+<th data-sort-type="number">Specific energy<br/>(<a class="mw-redirect" href="/wiki/Wh/kg" title="Wh/kg">Wh/kg</a>)
+</th>
+<th data-sort-type="number">Energy density<br/>(Wh/L)
+</th>
+<th data-sort-type="number">Peak recovery efficiency %
+</th>
+<th data-sort-type="number">Practical recovery efficiency %
+</th></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Antimatter" title="Antimatter">Antimatter</a>
+</td>
+<td>89,875,517,874
+</td>
+<td>Depends on the density of the antimatter's form
+</td>
+<td>24,965,421,631,578
+<p>3
+</p>
+</td>
+<td>Depends on the density of the antimatter's form
+</td>
+<td>100
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Plutonium-239" title="Plutonium-239">Plutonium-239</a>
+</td>
+<td>31,000,000
+</td>
+<td>Depends on crystallographic phase
+</td>
+<td>8,700,000,000
+</td>
+<td>Depends on crystallographic phase
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Liquid_hydrogen" title="Liquid hydrogen">Hydrogen, liquid</a><sup class="reference" id="cite_ref-H2_45-0"><a href="#cite_note-H2-45">[45]</a></sup>
+</td>
+<td data-sort-value="141.86">141.86 (HHV)<br/>119.93 (LHV)
+</td>
+<td data-sort-value="10.044">10.044 (HHV)<br/>8.491 (LHV)
+</td>
+<td><span style="display:none">39,405.6</span>39,405.6 (HHV)<br/>33,313.9 (LHV)
+</td>
+<td data-sort-value="2790.0">2,790.0 (HHV)<br/>2,358.6 (LHV)
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Compressed_hydrogen" title="Compressed hydrogen">Hydrogen, at 690 bar and 15°C</a><sup class="reference" id="cite_ref-H2_45-1"><a href="#cite_note-H2-45">[45]</a></sup>
+</td>
+<td data-sort-value="141.86">141.86 (HHV)<br/>119.93 (LHV)
+</td>
+<td data-sort-value="5.323">5.323 (HHV)<br/>4.500 (LHV)
+</td>
+<td><span style="display:none">39,405.6</span>39,405.6 (HHV)<br/>33,313.9 (LHV)
+</td>
+<td data-sort-value="1478.6">1,478.6 (HHV)<br/>1,250.0 (LHV)
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a class="mw-redirect" href="/wiki/Gaseous_hydrogen" title="Gaseous hydrogen">Hydrogen, gas</a><sup class="reference" id="cite_ref-H2_45-2"><a href="#cite_note-H2-45">[45]</a></sup>
+</td>
+<td data-sort-value="141.86">141.86 (HHV)<br/>119.93 (LHV)
+</td>
+<td data-sort-value="0.01188">0.01188 (HHV)<br/>0.01005 (LHV)
+</td>
+<td><span style="display:none">39,405.6</span>39,405.6 (HHV)<br/>33,313.9 (LHV)
+</td>
+<td data-sort-value="3.3">3.3 (HHV)<br/>2.8 (LHV)
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Diborane" title="Diborane">Diborane</a><sup class="reference" id="cite_ref-46"><a href="#cite_note-46">[46]</a></sup>
+</td>
+<td>78.2
+</td>
+<td>
+</td>
+<td>21,722.2
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Beryllium" title="Beryllium">Beryllium</a>
+</td>
+<td>67.6
+</td>
+<td>125.1
+</td>
+<td>18,777.8
+</td>
+<td>34,750.0
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Lithium_borohydride" title="Lithium borohydride">Lithium borohydride</a>
+</td>
+<td>65.2
+</td>
+<td>43.4
+</td>
+<td>18,111.1
+</td>
+<td>12,055.6
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Boron" title="Boron">Boron</a><sup class="reference" id="cite_ref-47"><a href="#cite_note-47">[47]</a></sup>
+</td>
+<td>58.9
+</td>
+<td>137.8
+</td>
+<td>16,361.1
+</td>
+<td>38,277.8
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Methane" title="Methane">Methane</a> (1.013 bar, 15 °C)
+</td>
+<td>55.6
+</td>
+<td data-sort-value="0.0378">0.0378<sup class="reference" id="cite_ref-star_48-0"><a href="#cite_note-star-48">[a]</a></sup>
+</td>
+<td>15,444.5
+</td>
+<td>10.5
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a>
+</td>
+<td data-sort-value="53.6">53.6<sup class="reference" id="cite_ref-ngau_49-0"><a href="#cite_note-ngau-49">[48]</a></sup>
+</td>
+<td data-sort-value="0.0364">0.0364<sup class="reference" id="cite_ref-star_48-1"><a href="#cite_note-star-48">[a]</a></sup>
+</td>
+<td>14,888.9
+</td>
+<td>10.1
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Liquefied_natural_gas" title="Liquefied natural gas">LNG</a> (NG at −160 °C)
+</td>
+<td data-sort-value="53.6">53.6<sup class="reference" id="cite_ref-ngau_49-1"><a href="#cite_note-ngau-49">[48]</a></sup>
+</td>
+<td data-sort-value="22.2">22.2<sup class="reference" id="cite_ref-star_48-2"><a href="#cite_note-star-48">[a]</a></sup>
+</td>
+<td>14,888.9
+</td>
+<td>6,166.7
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Compressed_natural_gas" title="Compressed natural gas">CNG</a> (NG compressed to 250 bar/~3,600 psi)
+</td>
+<td data-sort-value="53.6">53.6<sup class="reference" id="cite_ref-ngau_49-2"><a href="#cite_note-ngau-49">[48]</a></sup>
+</td>
+<td data-sort-value="9">9<sup class="reference" id="cite_ref-star_48-3"><a href="#cite_note-star-48">[a]</a></sup>
+</td>
+<td>14,888.9
+</td>
+<td>2,500.0
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Liquefied_petroleum_gas" title="Liquefied petroleum gas">LPG</a> <a href="/wiki/Propane" title="Propane">propane</a><sup class="reference" id="cite_ref-IOR_50-0"><a href="#cite_note-IOR-50">[49]</a></sup>
+</td>
+<td>49.6
+</td>
+<td data-sort-value="25.3">25.3<sup class="reference" id="cite_ref-star_48-4"><a href="#cite_note-star-48">[a]</a></sup>
+</td>
+<td>13,777.8
+</td>
+<td>7,027.8
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Liquefied_petroleum_gas" title="Liquefied petroleum gas">LPG</a> <a href="/wiki/Butane" title="Butane">butane</a><sup class="reference" id="cite_ref-IOR_50-1"><a href="#cite_note-IOR-50">[49]</a></sup>
+</td>
+<td>49.1
+</td>
+<td data-sort-value="27.7">27.7<sup class="reference" id="cite_ref-star_48-5"><a href="#cite_note-star-48">[a]</a></sup>
+</td>
+<td>13,638.9
+</td>
+<td>7,694.5
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Gasoline" title="Gasoline">Gasoline (petrol)</a><sup class="reference" id="cite_ref-IOR_50-2"><a href="#cite_note-IOR-50">[49]</a></sup>
+</td>
+<td>46.4
+</td>
+<td data-sort-value="34.2">34.2<sup class="reference" id="cite_ref-star_48-6"><a href="#cite_note-star-48">[a]</a></sup>
+</td>
+<td>12,888.9
+</td>
+<td>9,500.0
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Polypropylene" title="Polypropylene">Polypropylene</a> plastic
+</td>
+<td data-sort-value="46.4">46.4<sup class="reference" id="cite_ref-aquafoam_51-0"><a href="#cite_note-aquafoam-51">[50]</a></sup>
+</td>
+<td>41.7
+</td>
+<td>12,888.9
+</td>
+<td>11,583.3
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Polyethylene" title="Polyethylene">Polyethylene</a> plastic
+</td>
+<td data-sort-value="46.3">46.3<sup class="reference" id="cite_ref-aquafoam_51-1"><a href="#cite_note-aquafoam-51">[50]</a></sup>
+</td>
+<td>42.6
+</td>
+<td>12,861.1
+</td>
+<td>11,833.3
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a class="mw-redirect" href="/wiki/Crude_oil" title="Crude oil">Crude oil</a> (according to the definition of <a class="mw-redirect" href="/wiki/Ton_of_oil_equivalent" title="Ton of oil equivalent">ton of oil equivalent</a>)
+</td>
+<td>46.3
+</td>
+<td data-sort-value="37">37<sup class="reference" id="cite_ref-star_48-7"><a href="#cite_note-star-48">[a]</a></sup><sup class="reference" id="cite_ref-ngau_49-3"><a href="#cite_note-ngau-49">[48]</a></sup>
+</td>
+<td>12,861.1
+</td>
+<td>10,277.8
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;">Residential <a href="/wiki/Heating_oil" title="Heating oil">heating oil</a><sup class="reference" id="cite_ref-IOR_50-3"><a href="#cite_note-IOR-50">[49]</a></sup>
+</td>
+<td>46.2
+</td>
+<td data-sort-value="37.3">37.3<sup class="reference" id="cite_ref-star_48-8"><a href="#cite_note-star-48">[a]</a></sup>
+</td>
+<td>12,833.3
+</td>
+<td>10,361.1
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Diesel_fuel" title="Diesel fuel">Diesel fuel</a><sup class="reference" id="cite_ref-IOR_50-4"><a href="#cite_note-IOR-50">[49]</a></sup>
+</td>
+<td>45.6
+</td>
+<td data-sort-value="38.6">38.6<sup class="reference" id="cite_ref-star_48-9"><a href="#cite_note-star-48">[a]</a></sup>
+</td>
+<td>12,666.7
+</td>
+<td>10,722.2
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a class="mw-redirect" href="/wiki/100LL" title="100LL">100LL</a> <a href="/wiki/Avgas" title="Avgas">Avgas</a>
+</td>
+<td data-sort-value="44.0">44.0<sup class="reference" id="cite_ref-52"><a href="#cite_note-52">[51]</a></sup>
+</td>
+<td>31.59
+</td>
+<td>12,222.2
+</td>
+<td>8,775.0
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a class="mw-redirect" href="/wiki/Gasohol" title="Gasohol">Gasohol</a> E10 (10% ethanol 90% gasoline by volume)
+</td>
+<td>43.54
+</td>
+<td data-sort-value="33.18">33.18<sup class="reference" id="cite_ref-star_48-10"><a href="#cite_note-star-48">[a]</a></sup>
+</td>
+<td>12,094.5
+</td>
+<td>9,216.7
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Lithium" title="Lithium">Lithium</a>
+</td>
+<td>43.1
+</td>
+<td>23.0
+</td>
+<td>11,972.2
+</td>
+<td>6,388.9
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Jet_fuel" title="Jet fuel">Jet A</a> <a href="/wiki/Aviation_fuel" title="Aviation fuel">aviation fuel</a><sup class="reference" id="cite_ref-53"><a href="#cite_note-53">[52]</a></sup>/<a href="/wiki/Kerosene" title="Kerosene">kerosene</a>
+</td>
+<td>42.8
+</td>
+<td data-sort-value="33">33<sup class="reference" id="cite_ref-star_48-11"><a href="#cite_note-star-48">[a]</a></sup>
+</td>
+<td>11,888.9
+</td>
+<td>9,166.7
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Biodiesel" title="Biodiesel">Biodiesel</a> oil (vegetable oil)
+</td>
+<td>42.20
+</td>
+<td data-sort-value="33">33<sup class="reference" id="cite_ref-star_48-12"><a href="#cite_note-star-48">[a]</a></sup>
+</td>
+<td>11,722.2
+</td>
+<td>9,166.7
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/2,5-Dimethylfuran" title="2,5-Dimethylfuran">DMF</a> (2,5-dimethylfuran)<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (February 2009)">clarification needed</span></a></i>]</sup>
+</td>
+<td data-sort-value="42">42<sup class="reference" id="cite_ref-54"><a href="#cite_note-54">[53]</a></sup>
+</td>
+<td>37.8
+</td>
+<td>11,666.7
+</td>
+<td>10,500.0
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Polystyrene" title="Polystyrene">Polystyrene</a> plastic
+</td>
+<td data-sort-value="41.4">41.4<sup class="reference" id="cite_ref-aquafoam_51-2"><a href="#cite_note-aquafoam-51">[50]</a></sup>
+</td>
+<td>43.5
+</td>
+<td>11,500.0
+</td>
+<td>12,083.3
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Fatty_acid_metabolism" title="Fatty acid metabolism">Body fat metabolism</a>
+</td>
+<td>38
+</td>
+<td data-sort-value="35">35<sup class="reference" id="cite_ref-star_48-13"><a href="#cite_note-star-48">[a]</a></sup>
+</td>
+<td>10,555.6
+</td>
+<td>9,722.2
+</td>
+<td data-sort-value="22">22<sup class="reference" id="cite_ref-JLE5_55-0"><a href="#cite_note-JLE5-55">[54]</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Butanol_fuel" title="Butanol fuel">Butanol</a>
+</td>
+<td>36.6
+</td>
+<td>29.2
+</td>
+<td>10,166.7
+</td>
+<td>8,111.1
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;">Gasohol <a href="/wiki/E85" title="E85">E85</a> (85% ethanol 15% gasoline by volume)
+</td>
+<td>33.1
+</td>
+<td data-sort-value="25.65">25.65<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2014)">citation needed</span></a></i>]</sup>
+</td>
+<td>9,194.5
+</td>
+<td>7,125.0
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Graphite" title="Graphite">Graphite</a>
+</td>
+<td>32.7
+</td>
+<td>72.9
+</td>
+<td>9,083.3
+</td>
+<td>20,250.0
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Coal" title="Coal">Coal</a>, <a href="/wiki/Anthracite" title="Anthracite">anthracite</a><sup class="reference" id="cite_ref-fisher_56-0"><a href="#cite_note-fisher-56">[55]</a></sup>
+</td>
+<td data-sort-value="26">26–33
+</td>
+<td data-sort-value="34">34–43
+</td>
+<td data-sort-value="7222.2">7,222.2–9,166.7
+</td>
+<td data-sort-value="9444.5">9,444.5–11,944.5
+</td>
+<td data-sort-value="36">36
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Silicon" title="Silicon">Silicon</a><sup class="reference" id="cite_ref-57"><a href="#cite_note-57">[56]</a></sup><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="None of the numbers match up with the ones in the ref cited... (April 2018)">citation needed</span></a></i>]</sup>
+</td>
+<td data-sort-value="32.2">32.2
+</td>
+<td data-sort-value="75.1">75.1
+</td>
+<td data-sort-value="8944.5">8,944.5
+</td>
+<td><span style="display:none">20,861.1</span>20,861.1
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a class="mw-redirect" href="/wiki/Aluminum" title="Aluminum">Aluminum</a>
+</td>
+<td>31.0
+</td>
+<td>83.8
+</td>
+<td>8,611.1
+</td>
+<td>23,277.8
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Ethanol" title="Ethanol">Ethanol</a>
+</td>
+<td>30
+</td>
+<td>24
+</td>
+<td>8,333.3
+</td>
+<td>6,666.7
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Polyester" title="Polyester">Polyester</a> plastic
+</td>
+<td data-sort-value="26.0">26.0<sup class="reference" id="cite_ref-aquafoam_51-3"><a href="#cite_note-aquafoam-51">[50]</a></sup>
+</td>
+<td>35.6
+</td>
+<td>7,222.2
+</td>
+<td>9,888.9
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Magnesium" title="Magnesium">Magnesium</a>
+</td>
+<td>24.7
+</td>
+<td>43.0
+</td>
+<td>6,861.1
+</td>
+<td>11,944.5
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Coal" title="Coal">Coal</a>, <a class="mw-redirect" href="/wiki/Bitumen" title="Bitumen">bituminous</a><sup class="reference" id="cite_ref-fisher_56-1"><a href="#cite_note-fisher-56">[55]</a></sup>
+</td>
+<td data-sort-value="24">24–35
+</td>
+<td data-sort-value="26">26–49
+</td>
+<td data-sort-value="6666.7">6,666.7–9,722.2
+</td>
+<td data-sort-value="7222.2">7,222.2–13,611.1
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Polyethylene_terephthalate" title="Polyethylene terephthalate">PET</a> plastic
+</td>
+<td data-sort-value="23.5">23.5 (impure)<sup class="reference" id="cite_ref-58"><a href="#cite_note-58">[57]</a></sup>
+</td>
+<td>
+</td>
+<td>6,527.8
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Methanol" title="Methanol">Methanol</a>
+</td>
+<td>19.7
+</td>
+<td>15.6
+</td>
+<td>5,472.2
+</td>
+<td>4,333.3
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Hydrazine" title="Hydrazine">Hydrazine</a> (combusted to N<sub>2</sub>+H<sub>2</sub>O)
+</td>
+<td>19.5
+</td>
+<td>19.3
+</td>
+<td>5,416.7
+</td>
+<td>5,361.1
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;">Liquid <a href="/wiki/Ammonia" title="Ammonia">ammonia</a> (combusted to N<sub>2</sub>+H<sub>2</sub>O)
+</td>
+<td>18.6
+</td>
+<td>11.5
+</td>
+<td>5,166.7
+</td>
+<td>3,194.5
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a class="mw-redirect" href="/wiki/PVC" title="PVC">PVC</a> plastic (<a href="/wiki/Polyvinyl_chloride#Dioxins" title="Polyvinyl chloride">improper combustion toxic</a>)<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (October 2008)">clarification needed</span></a></i>]</sup>
+</td>
+<td data-sort-value="18.0">18.0<sup class="reference" id="cite_ref-aquafoam_51-4"><a href="#cite_note-aquafoam-51">[50]</a></sup>
+</td>
+<td>25.2
+</td>
+<td>5,000.0
+</td>
+<td>7,000.0
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Wood" title="Wood">Wood</a><sup class="reference" id="cite_ref-59"><a href="#cite_note-59">[58]</a></sup>
+</td>
+<td>18.0
+</td>
+<td>
+</td>
+<td>5,000.0
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Peat" title="Peat">Peat</a> <a href="/wiki/Briquette" title="Briquette">briquette</a><sup class="reference" id="cite_ref-60"><a href="#cite_note-60">[59]</a></sup>
+</td>
+<td>17.7
+</td>
+<td>
+</td>
+<td>4,916.7
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Fatty_acid_metabolism" title="Fatty acid metabolism">Sugars, carbohydrates, and protein metabolism</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="Justin Lemire-Elmore PDF does not specify type of food nor fatty acids nor dextrose, so specific cite needed with page number and precise quotes (February 2009)">citation needed</span></a></i>]</sup>
+</td>
+<td>17
+</td>
+<td data-sort-value="26.2">26.2 (<a class="mw-redirect" href="/wiki/Dextrose" title="Dextrose">dextrose</a>)
+</td>
+<td>4,722.2
+</td>
+<td>7,277.8
+</td>
+<td data-sort-value="22">22<sup class="reference" id="cite_ref-61"><a href="#cite_note-61">[60]</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Calcium" title="Calcium">Calcium</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2008)">citation needed</span></a></i>]</sup>
+</td>
+<td>15.9
+</td>
+<td>24.6
+</td>
+<td>4,416.7
+</td>
+<td>6,833.3
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Glucose" title="Glucose">Glucose</a>
+</td>
+<td>15.55
+</td>
+<td>23.9
+</td>
+<td>4,319.5
+</td>
+<td>6,638.9
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;">Dry <a href="/wiki/Cow_dung" title="Cow dung">cow dung</a> and <a href="/wiki/Manure#Uses_of_manure" title="Manure">camel dung</a>
+</td>
+<td data-sort-value="15.5">15.5<sup class="reference" id="cite_ref-62"><a href="#cite_note-62">[61]</a></sup>
+</td>
+<td>
+</td>
+<td>4,305.6
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Coal" title="Coal">Coal</a>, <a href="/wiki/Lignite" title="Lignite">lignite</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2008)">citation needed</span></a></i>]</sup>
+</td>
+<td data-sort-value="10">10–20
+</td>
+<td>
+</td>
+<td>2,777.8–5,555.6
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Sodium" title="Sodium">Sodium</a> (burned to wet <a href="/wiki/Sodium_hydroxide" title="Sodium hydroxide">sodium hydroxide</a>)
+</td>
+<td>13.3
+</td>
+<td>12.8
+</td>
+<td>3,694.5
+</td>
+<td>3,555.6
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;">Sod <a href="/wiki/Peat" title="Peat">peat</a>
+</td>
+<td>12.8
+</td>
+<td>
+</td>
+<td>3,555.6
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Nitromethane" title="Nitromethane">Nitromethane</a>
+</td>
+<td>11.3
+</td>
+<td>
+</td>
+<td>3,138.9
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Sulfur" title="Sulfur">Sulfur</a> (burned to <a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">sulfur dioxide</a>)<sup class="reference" id="cite_ref-Wignall_63-0"><a href="#cite_note-Wignall-63">[62]</a></sup>
+</td>
+<td>9.23
+</td>
+<td>19.11
+</td>
+<td>2,563.9
+</td>
+<td>5,308.3
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Sodium" title="Sodium">Sodium</a> (burned to dry <a href="/wiki/Sodium_oxide" title="Sodium oxide">sodium oxide</a>)
+</td>
+<td>9.1
+</td>
+<td>8.8
+</td>
+<td>2,527.8
+</td>
+<td>2,444.5
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a class="mw-redirect" href="/wiki/Lithium_air_battery" title="Lithium air battery">Battery, lithium-air rechargeable</a>
+</td>
+<td>9.0<sup class="reference" id="cite_ref-64"><a href="#cite_note-64">[63]</a></sup>
+</td>
+<td>
+</td>
+<td>2,500.0
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a class="mw-redirect" href="/wiki/Household_waste" title="Household waste">Household waste</a>
+</td>
+<td data-sort-value="8.0">8.0<sup class="reference" id="cite_ref-65"><a href="#cite_note-65">[64]</a></sup>
+</td>
+<td>
+</td>
+<td>2,222.2
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Zinc" title="Zinc">Zinc</a>
+</td>
+<td>5.3
+</td>
+<td>38.0
+</td>
+<td>1,472.2
+</td>
+<td>10,555.6
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Iron" title="Iron">Iron</a> (burned to <a href="/wiki/Iron(III)_oxide" title="Iron(III) oxide">iron(III) oxide</a>)
+</td>
+<td>5.2
+</td>
+<td>40.68
+</td>
+<td>1,444.5
+</td>
+<td>11,300.0
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a class="mw-redirect" href="/wiki/PTFE" title="PTFE">Teflon</a> plastic (combustion toxic, but flame retardant)
+</td>
+<td>5.1
+</td>
+<td>11.2
+</td>
+<td>1,416.7
+</td>
+<td>3,111.1
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Iron" title="Iron">Iron</a> (burned to <a href="/wiki/Iron(II)_oxide" title="Iron(II) oxide">iron(II) oxide</a>)
+</td>
+<td>4.9
+</td>
+<td>38.2
+</td>
+<td>1,361.1
+</td>
+<td>10,611.1
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/ANFO" title="ANFO">ANFO</a>
+</td>
+<td>3.7
+</td>
+<td>
+</td>
+<td>1,027.8
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a class="mw-redirect" href="/wiki/Zinc-air_battery" title="Zinc-air battery">Battery, zinc-air</a><sup class="reference" id="cite_ref-duracell-za-tech_66-0"><a href="#cite_note-duracell-za-tech-66">[65]</a></sup>
+</td>
+<td>1.59
+</td>
+<td>6.02
+</td>
+<td>441.7
+</td>
+<td>1,672.2
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a class="mw-redirect" href="/wiki/Liquid_nitrogen_economy" title="Liquid nitrogen economy">Liquid nitrogen</a><sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (November 2008)">clarification needed</span></a></i>]</sup>
+</td>
+<td data-sort-value="0.77">0.77<sup class="reference" id="cite_ref-Knowlen_67-0"><a href="#cite_note-Knowlen-67">[66]</a></sup>
+</td>
+<td>0.62
+</td>
+<td>213.9
+</td>
+<td>172.2
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Compressed_air" title="Compressed air">Compressed air</a> at 300 bar (potential energy)
+</td>
+<td>0.5
+</td>
+<td>0.2
+</td>
+<td>138.9
+</td>
+<td>55.6
+</td>
+<td>
+</td>
+<td data-sort-value="50">&gt;50<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2010)">citation needed</span></a></i>]</sup>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Enthalpy_of_fusion" title="Enthalpy of fusion">Latent heat of fusion</a> of ice<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2009)">citation needed</span></a></i>]</sup> (thermal)
+</td>
+<td>0.335
+</td>
+<td>0.335
+</td>
+<td>93.1
+</td>
+<td>93.1
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Water at 100 m dam height</a> (potential energy)
+</td>
+<td>0.001
+</td>
+<td>0.001
+</td>
+<td>0.278
+</td>
+<td>0.278
+</td>
+<td data-sort-value="95">95
+</td>
+<td data-sort-value="90">85–90<sup class="reference" id="cite_ref-68"><a href="#cite_note-68">[67]</a></sup><sup class="reference" id="cite_ref-69"><a href="#cite_note-69">[68]</a></sup>
+</td></tr>
+<tr class="sortbottom">
+<th>Storage type
+</th>
+<th>Energy density by mass (MJ/kg)
+</th>
+<th>Energy density by volume (MJ/L)
+</th>
+<th>Specific energy (Wh/kg)
+</th>
+<th>Energy density (Wh/L)
+</th>
+<th>Peak recovery efficiency %
+</th>
+<th>Practical recovery efficiency %
+</th></tr></tbody></table>
+<div class="reflist" style="list-style-type: lower-alpha;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-star-48"><span class="mw-cite-backlink">^ <a href="#cite_ref-star_48-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-star_48-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-star_48-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-star_48-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-star_48-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-star_48-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-star_48-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-star_48-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-star_48-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-star_48-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-star_48-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-star_48-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-star_48-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-star_48-13"><sup><i><b>n</b></i></sup></a></span> <span class="reference-text">Technically the actual value of the fuel alone is half the number indicated, because in order to burn the fuel must be mixed with 2 parts oxygen to 1 part fuel. In an oxygen-free environment the actual value is 0 as the fuel will not burn at all.</span>
+</li>
+</ol></div></div>
+<p>Divide <a href="/wiki/Joule" title="Joule">joule</a> <a href="/wiki/Metre" title="Metre">metre</a><sup>−3</sup> by 10<sup>9</sup> to get <a href="/wiki/Joule" title="Joule">MJ</a>/<a class="mw-redirect" href="/wiki/Liter" title="Liter">L</a>. Divide MJ/L by 3.6 to get <a class="mw-redirect" href="/wiki/KWh" title="KWh">kWh</a>/L.
+</p>
+<h2><span class="mw-headline" id="Energy_density_of_electric_and_magnetic_fields">Energy density of electric and magnetic fields</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_density&amp;action=edit&amp;section=7" title="Edit section: Energy density of electric and magnetic fields">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Electric_field" title="Electric field">Electric</a> and <a href="/wiki/Magnetic_field" title="Magnetic field">magnetic fields</a> store energy.  In a vacuum, the (volumetric) energy density is given by
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle U={\frac {\varepsilon _{0}}{2}}\mathbf {E} ^{2}+{\frac {1}{2\mu _{0}}}\mathbf {B} ^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>ε<!-- ε --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mn>2</mn>
+<msub>
+<mi>μ<!-- μ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U={\frac {\varepsilon _{0}}{2}}\mathbf {E} ^{2}+{\frac {1}{2\mu _{0}}}\mathbf {B} ^{2}}</annotation>
+</semantics>
+</math></span><img alt="U={\frac {\varepsilon _{0}}{2}}\mathbf {E} ^{2}+{\frac {1}{2\mu _{0}}}\mathbf {B} ^{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1ec94c009b8e466a43b6540b2ee21d17306a6773" style="vertical-align: -2.338ex; width:20.916ex; height:5.676ex;"/></span></dd></dl>
+<p>where <b>E</b> is the <a href="/wiki/Electric_field" title="Electric field">electric field</a> and <b>B</b> is the <a href="/wiki/Magnetic_field" title="Magnetic field">magnetic field</a>. The solution will be (in SI units) in Joules per cubic metre. In the context of <a href="/wiki/Magnetohydrodynamics" title="Magnetohydrodynamics">magnetohydrodynamics</a>, the physics of conductive fluids, the magnetic energy density behaves like an additional <a href="/wiki/Pressure" title="Pressure">pressure</a> that adds to the <a class="mw-redirect" href="/wiki/Kinetic_theory_of_gas" title="Kinetic theory of gas">gas pressure</a> of a <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">plasma</a>.
+</p><p>In normal (linear and nondispersive) substances, the energy density (in SI units) is
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle U={\frac {1}{2}}(\mathbf {E} \cdot \mathbf {D} +\mathbf {H} \cdot \mathbf {B} )}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">E</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">D</mi>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">H</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U={\frac {1}{2}}(\mathbf {E} \cdot \mathbf {D} +\mathbf {H} \cdot \mathbf {B} )}</annotation>
+</semantics>
+</math></span><img alt="U={\frac {1}{2}}(\mathbf {E} \cdot \mathbf {D} +\mathbf {H} \cdot \mathbf {B} )" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b7d12b4717abcb6a38e49bee2a49859545639da" style="vertical-align: -1.838ex; width:22.687ex; height:5.176ex;"/></span></dd></dl>
+<p>where <b>D</b> is the <a href="/wiki/Electric_displacement_field" title="Electric displacement field">electric displacement field</a> and <b>H</b> is the <a class="mw-redirect" href="/wiki/Effective_magnetic_field" title="Effective magnetic field">magnetizing field</a>.
+</p><p>In the case of absence of magnetic fields, by exploting <a href="/wiki/Herbert_Fr%C3%B6hlich" title="Herbert Fröhlich">Fröhlich's relationships</a> it is also possible to extend these equations to <a class="mw-redirect" href="/wiki/Anisotropic" title="Anisotropic">anisotropy</a> and <a class="mw-redirect" href="/wiki/Nonlinear" title="Nonlinear">nonlinearity</a> dielectrics, as well as to calculate the correlated <a href="/wiki/Helmholtz_free_energy" title="Helmholtz free energy">Helmholtz free energy</a> and <a href="/wiki/Entropy" title="Entropy">entropy</a> densities.<sup class="reference" id="cite_ref-70"><a href="#cite_note-70">[69]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_density&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Energy_density_Extended_Reference_Table" title="Energy density Extended Reference Table">Energy density Extended Reference Table</a></li>
+<li><a href="/wiki/High_Energy_Density_Matter" title="High Energy Density Matter">High Energy Density Matter</a></li>
+<li><a href="/wiki/Power_density" title="Power density">Power density</a> and specifically
+<ul><li><a href="/wiki/Power-to-weight_ratio" title="Power-to-weight ratio">Power-to-weight ratio</a></li></ul></li>
+<li><a href="/wiki/Orders_of_magnitude_(specific_energy)" title="Orders of magnitude (specific energy)">Orders of magnitude (specific energy)</a></li>
+<li><a href="/wiki/Figure_of_merit" title="Figure of merit">Figure of merit</a></li>
+<li><a href="/wiki/Energy_content_of_biofuel" title="Energy content of biofuel">Energy content of biofuel</a></li>
+<li><a href="/wiki/Heat_of_combustion" title="Heat of combustion">Heat of combustion</a></li>
+<li><a class="mw-redirect" href="/wiki/Heating_value" title="Heating value">Heating value</a></li>
+<li><a href="/wiki/Rechargeable_battery" title="Rechargeable battery">Rechargeable battery</a></li>
+<li><a href="/wiki/Specific_impulse" title="Specific impulse">Specific impulse</a></li>
+<li><a href="/wiki/Food_energy" title="Food energy">Food energy</a></li></ul>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Crystal_energy.svg"><img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li></ul></div>
+</div>
+<h2><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_density&amp;action=edit&amp;section=9" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://physics.nist.gov/Pubs/SP811/sec04.html" rel="nofollow">"The Two Classes of SI Units and the SI Prefixes"</a>. <i>NIST Guide to the SI</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-01-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NIST+Guide+to+the+SI&amp;rft.atitle=The+Two+Classes+of+SI+Units+and+the+SI+Prefixes&amp;rft_id=http%3A%2F%2Fphysics.nist.gov%2FPubs%2FSP811%2Fsec04.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-engineeringtoolbox-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-engineeringtoolbox_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-engineeringtoolbox_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.engineeringtoolbox.com/fossil-fuels-energy-content-d_1298.html" rel="nofollow">"Fossil and Alternative Fuels - Energy Content (2008)"</a>. Engineering ToolBox<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-10-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fossil+and+Alternative+Fuels+-+Energy+Content+%282008%29.&amp;rft.pub=Engineering+ToolBox&amp;rft_id=https%3A%2F%2Fwww.engineeringtoolbox.com%2Ffossil-fuels-energy-content-d_1298.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-nrl2016-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-nrl2016_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">J. D. Huba. <a class="external text" href="https://www.nrl.navy.mil/ppd/sites/www.nrl.navy.mil.ppd/files/pdfs/NRL_FORMULARY_16.pdf" rel="nofollow">"NRL Plasma Formulary (revised 2016)"</a> <span class="cs1-format">(PDF)</span>. Naval Research Laboratory. p. 44<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-05-16</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NRL+Plasma+Formulary+%28revised+2016%29&amp;rft.pages=44&amp;rft.pub=Naval+Research+Laboratory&amp;rft.au=J.+D.+Huba&amp;rft_id=https%3A%2F%2Fwww.nrl.navy.mil%2Fppd%2Fsites%2Fwww.nrl.navy.mil.ppd%2Ffiles%2Fpdfs%2FNRL_FORMULARY_16.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.springer.com/cda/content/document/cda_downloaddocument/9784431564584-c2.pdf?SGWID=0-0-45-1597181-p180215876" rel="nofollow">"Characteristics of Tritium"</a> <span class="cs1-format">(PDF)</span>. springer.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-09-17</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Characteristics+of+Tritium&amp;rft.pub=springer.com&amp;rft_id=https%3A%2F%2Fwww.springer.com%2Fcda%2Fcontent%2Fdocument%2Fcda_downloaddocument%2F9784431564584-c2.pdf%3FSGWID%3D0-0-45-1597181-p180215876&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-whatisnuclear-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-whatisnuclear_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-whatisnuclear_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.whatisnuclear.com/physics/energy_density_of_nuclear.html" rel="nofollow">"Computing the energy density of nuclear fuel"</a>. whatisnuclear.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-17</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Computing+the+energy+density+of+nuclear+fuel&amp;rft.pub=whatisnuclear.com&amp;rft_id=http%3A%2F%2Fwww.whatisnuclear.com%2Fphysics%2Fenergy_density_of_nuclear.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.springer.com/cda/content/document/cda_downloaddocument/9784431564584-c2.pdf?SGWID=0-0-45-1597181-p180215876" rel="nofollow">"Characteristics of Tritium"</a> <span class="cs1-format">(PDF)</span>. springer.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-09-17</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Characteristics+of+Tritium&amp;rft.pub=springer.com&amp;rft_id=https%3A%2F%2Fwww.springer.com%2Fcda%2Fcontent%2Fdocument%2Fcda_downloaddocument%2F9784431564584-c2.pdf%3FSGWID%3D0-0-45-1597181-p180215876&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.exxonmobilaviation.com/AviationGlobal/Files/WorldJetFuelSpec2008.pdf" rel="nofollow">http://www.exxonmobilaviation.com/AviationGlobal/Files/WorldJetFuelSpec2008.pdf</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Wilfred Weihe <a class="external text" href="http://electricfireplaceheater.org/how-to-with-electric-fireplace-heaters/79-electric-fireplace-costs-secrets.html" rel="nofollow">"Electric Fireplace Costs Secrets"</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lu, Gui-e; Chang, Wen-ping; Jiang, Jin-yong; Du, Shi-guo (May 2011). <a class="external text" href="https://ieeexplore.ieee.org/document/5930549/" rel="nofollow">"Study on the Energy Density of Gunpowder Heat Source"</a>. <i>2011 International Conference on Materials for Renewable Energy &amp; Environment</i>. <a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">IEEE</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1109%2FICMREE.2011.5930549" rel="nofollow">10.1109/ICMREE.2011.5930549</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 April</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=2011+International+Conference+on+Materials+for+Renewable+Energy+%26+Environment&amp;rft.atitle=Study+on+the+Energy+Density+of+Gunpowder+Heat+Source&amp;rft.date=2011-05&amp;rft_id=info%3Adoi%2F10.1109%2FICMREE.2011.5930549&amp;rft.aulast=Lu&amp;rft.aufirst=Gui-e&amp;rft.au=Chang%2C+Wen-ping&amp;rft.au=Jiang%2C+Jin-yong&amp;rft.au=Du%2C+Shi-guo&amp;rft_id=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F5930549%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.panasonic.com/industrial/includes/pdf/Panasonic_LiIon_Overview.pdf" rel="nofollow">"Overview of lithium ion batteries"</a> <span class="cs1-format">(PDF)</span>. Panasonic. Jan 2007. <a class="external text" href="https://web.archive.org/web/20111107060525/http://www.panasonic.com/industrial/includes/pdf/Panasonic_LiIon_Overview.pdf" rel="nofollow">Archived</a> <span class="cs1-format">(PDF)</span> from the original on November 7, 2011.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Overview+of+lithium+ion+batteries&amp;rft.pub=Panasonic&amp;rft.date=2007-01&amp;rft_id=http%3A%2F%2Fwww.panasonic.com%2Findustrial%2Fincludes%2Fpdf%2FPanasonic_LiIon_Overview.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20150722042425/http://industrial.panasonic.com/lecs/www-data/pdf2/ACA4000/ACA4000CE417.pdf" rel="nofollow">"Panasonic NCR18650B"</a> <span class="cs1-format">(PDF)</span>. Archived from <a class="external text" href="http://industrial.panasonic.com/lecs/www-data/pdf2/ACA4000/ACA4000CE417.pdf" rel="nofollow">the original</a> <span class="cs1-format">(PDF)</span> on 2015-07-22.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Panasonic+NCR18650B&amp;rft_id=http%3A%2F%2Findustrial.panasonic.com%2Flecs%2Fwww-data%2Fpdf2%2FACA4000%2FACA4000CE417.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></span>
+</li>
+<li id="cite_note-:8-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-:8_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:8_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://data.energizer.com/PDFs/EN91.pdf" rel="nofollow">"Energizer EN91 AA alkaline battery datasheet"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-10</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Energizer+EN91+AA+alkaline+battery+datasheet&amp;rft_id=http%3A%2F%2Fdata.energizer.com%2FPDFs%2FEN91.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-:0-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.maxwell.com/images/documents/Product_Comparison_Matrix_3000489_2.pdf" rel="nofollow">"Maxwell supercapacitor comparison"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-10</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Maxwell+supercapacitor+comparison&amp;rft_id=http%3A%2F%2Fwww.maxwell.com%2Fimages%2Fdocuments%2FProduct_Comparison_Matrix_3000489_2.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-:1-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nesscap.com/common/download.jsp?dir=product&amp;sfn=MSCWSMXHBBOMXOZ.pdf" rel="nofollow">"Nesscap ESHSP series supercapacitor datasheet"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-10</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nesscap+ESHSP+series+supercapacitor+datasheet&amp;rft_id=http%3A%2F%2Fwww.nesscap.com%2Fcommon%2Fdownload.jsp%3Fdir%3Dproduct%26sfn%3DMSCWSMXHBBOMXOZ.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-:2-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Resources/product-datasheets/bus-elx-ds-10339-xl.pdf" rel="nofollow">"Cooper PowerStor XL60 series supercapacitor datasheet"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-10</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cooper+PowerStor+XL60+series+supercapacitor+datasheet&amp;rft_id=http%3A%2F%2Fwww.cooperindustries.com%2Fcontent%2Fdam%2Fpublic%2Fbussmann%2FElectronics%2FResources%2Fproduct-datasheets%2Fbus-elx-ds-10339-xl.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-:3-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-:3_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:3_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20160304092326/http://www.kemet.com/Lists/ProductCatalog/Attachments/504/KEM_S6001_S301.pdf" rel="nofollow">"Kemet S301 series supercapacitor datasheet"</a> <span class="cs1-format">(PDF)</span>. Archived from <a class="external text" href="http://www.kemet.com/Lists/ProductCatalog/Attachments/504/KEM_S6001_S301.pdf" rel="nofollow">the original</a> <span class="cs1-format">(PDF)</span> on 2016-03-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-10</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Kemet+S301+series+supercapacitor+datasheet&amp;rft_id=http%3A%2F%2Fwww.kemet.com%2FLists%2FProductCatalog%2FAttachments%2F504%2FKEM_S6001_S301.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-:4-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-:4_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:4_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nichicon-us.com/english/products/pdfs/e-jjd.pdf" rel="nofollow">"Nichicon JJD series supercapatcitor datasheet"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-10</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nichicon+JJD+series+supercapatcitor+datasheet&amp;rft_id=http%3A%2F%2Fwww.nichicon-us.com%2Fenglish%2Fproducts%2Fpdfs%2Fe-jjd.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-:5-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-:5_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:5_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://skeletontech.com/datasheets/skelcap-energy-en.pdf" rel="nofollow">"skelcap High Energy Ultracapacitor"</a> <span class="cs1-format">(PDF)</span>. <i>Skeleton Technologies</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 October</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Skeleton+Technologies&amp;rft.atitle=skelcap+High+Energy+Ultracapacitor&amp;rft_id=http%3A%2F%2Fskeletontech.com%2Fdatasheets%2Fskelcap-energy-en.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><sup class="reference" id="cite_ref-:0_14-0"><a href="#cite_note-:0-14">[14]</a></sup><sup class="reference" id="cite_ref-:1_15-0"><a href="#cite_note-:1-15">[15]</a></sup><sup class="reference" id="cite_ref-:2_16-0"><a href="#cite_note-:2-16">[16]</a></sup><sup class="reference" id="cite_ref-:3_17-0"><a href="#cite_note-:3-17">[17]</a></sup><sup class="reference" id="cite_ref-:4_18-0"><a href="#cite_note-:4-18">[18]</a></sup><sup class="reference" id="cite_ref-:5_19-0"><a href="#cite_note-:5-19">[19]</a></sup></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><sup class="reference" id="cite_ref-:0_14-1"><a href="#cite_note-:0-14">[14]</a></sup><sup class="reference" id="cite_ref-:1_15-1"><a href="#cite_note-:1-15">[15]</a></sup><sup class="reference" id="cite_ref-:2_16-1"><a href="#cite_note-:2-16">[16]</a></sup><sup class="reference" id="cite_ref-:3_17-1"><a href="#cite_note-:3-17">[17]</a></sup><sup class="reference" id="cite_ref-:4_18-1"><a href="#cite_note-:4-18">[18]</a></sup><sup class="reference" id="cite_ref-:5_19-1"><a href="#cite_note-:5-19">[19]</a></sup></span>
+</li>
+<li id="cite_note-:7-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-:7_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:7_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.vishay.com/docs/43009/ste.pdf" rel="nofollow">"Vishay STE series tantalum capacitors datasheet"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-10</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Vishay+STE+series+tantalum+capacitors+datasheet&amp;rft_id=http%3A%2F%2Fwww.vishay.com%2Fdocs%2F43009%2Fste.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nichicon-us.com/english/products/pdfs/e-tvx.pdf" rel="nofollow">"nichicon TVX aluminum electrolytic capacitors datasheet"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-10</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=nichicon+TVX+aluminum+electrolytic+capacitors+datasheet&amp;rft_id=http%3A%2F%2Fwww.nichicon-us.com%2Fenglish%2Fproducts%2Fpdfs%2Fe-tvx.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nichicon-us.com/english/products/pdfs/e-lgu.pdf" rel="nofollow">"nichicon LGU aluminum electrolytic capacitors datasheet"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-10</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=nichicon+LGU+aluminum+electrolytic+capacitors+datasheet&amp;rft_id=http%3A%2F%2Fwww.nichicon-us.com%2Fenglish%2Fproducts%2Fpdfs%2Fe-lgu.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><sup class="reference" id="cite_ref-:7_22-1"><a href="#cite_note-:7-22">[22]</a></sup><sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup><sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup></span>
+</li>
+<li id="cite_note-:9-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-:9_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:9_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.allaboutbatteries.com/Energy-tables.html" rel="nofollow">"Battery Energy Tables"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Battery+Energy+Tables&amp;rft_id=http%3A%2F%2Fwww.allaboutbatteries.com%2FEnergy-tables.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-:10-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-:10_27-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.best18650battery.com/" rel="nofollow">"18650 Battery capacities"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=18650+Battery+capacities&amp;rft_id=http%3A%2F%2Fwww.best18650battery.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.calorieking.com/foods/calories-in-potato-chips-classic-potato-chips_f-ZmlkPTc5MDUz.html" rel="nofollow">"Calories in Lay's Classic Potato Chips"</a>. CalorieKing<span class="reference-accessdate">. Retrieved <span class="nowrap">4 March</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Calories+in+Lay%27s+Classic+Potato+Chips&amp;rft.pub=CalorieKing&amp;rft_id=http%3A%2F%2Fwww.calorieking.com%2Ffoods%2Fcalories-in-potato-chips-classic-potato-chips_f-ZmlkPTc5MDUz.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://caloriecount.about.com/calories-ham-cheese-sandwich-i21116" rel="nofollow">"Calories in Ham And Cheese Sandwich"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 May</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Calories+in+Ham+And+Cheese+Sandwich&amp;rft_id=http%3A%2F%2Fcaloriecount.about.com%2Fcalories-ham-cheese-sandwich-i21116&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-tzar1-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-tzar1_30-0">^</a></b></span> <span class="reference-text">"Green Power Lacks the Energy Density to Run Our Civilization, LENR Might Provide It." LENR &amp; Cold Fusion News. N.p., 24 July 2014. Web.</span>
+</li>
+<li id="cite_note-tzar2-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-tzar2_31-0">^</a></b></span> <span class="reference-text">Jeong, Goojin, et al. "Nanotechnology enabled rechargeable Li–SO 2 batteries: another approach towards post-lithium-ion battery systems." Energy &amp; Environmental Science 8.11 (2015): 3173-3180.</span>
+</li>
+<li id="cite_note-tzar3-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-tzar3_32-0">^</a></b></span> <span class="reference-text">"Panasonic Develops New Higher-Capacity 18650 Li-Ion Cells." Green Car Congress. N.p., 25 Dec. 2009. Web.</span>
+</li>
+<li id="cite_note-tzar4-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-tzar4_33-0">^</a></b></span> <span class="reference-text">Stura, Enrico, and Claudio Nicolini. "New nanomaterials for light weight lithium batteries." Analytica chimica acta 568.1 (2006): 57-64.</span>
+</li>
+<li id="cite_note-tzar5-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-tzar5_34-0">^</a></b></span> <span class="reference-text">"Energy Density of Coal - Hypertextbook." The Energy Density of Coal. N.p., 2003. Web.</span>
+</li>
+<li id="cite_note-tzar6-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-tzar6_35-0">^</a></b></span> <span class="reference-text">"Heat Values of Various Fuels - World Nuclear Association." World Nuclear Association. N.p., Sept. 2016. Web.</span>
+</li>
+<li id="cite_note-tzar7-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-tzar7_36-0">^</a></b></span> <span class="reference-text">"Overview of Storage Development DOE Hydrogen Program." Office of Energy Efficiency &amp; Renewable Energy. N.p., May 2000. Web.</span>
+</li>
+<li id="cite_note-tzar8-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-tzar8_37-0">^</a></b></span> <span class="reference-text">Wong, Kaufui Vincent and Dia, Sarah, “Nanotechnology in Batteries.” ASME J. Energy Resour. Technol. 2016.</span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.world-nuclear.org/info/Nuclear-Fuel-Cycle/Uranium-Resources/Supply-of-Uranium/" rel="nofollow">"Supply of Uranium"</a>. world-nuclear.org. 2014-10-08<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-06-13</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Supply+of+Uranium&amp;rft.pub=world-nuclear.org&amp;rft.date=2014-10-08&amp;rft_id=http%3A%2F%2Fwww.world-nuclear.org%2Finfo%2FNuclear-Fuel-Cycle%2FUranium-Resources%2FSupply-of-Uranium%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-cohen-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-cohen_39-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www-formal.stanford.edu/jmc/progress/cohen.html" rel="nofollow">"Facts from Cohen"</a>. Formal.stanford.edu. 2007-01-26<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Facts+from+Cohen&amp;rft.pub=Formal.stanford.edu&amp;rft.date=2007-01-26&amp;rft_id=http%3A%2F%2Fwww-formal.stanford.edu%2Fjmc%2Fprogress%2Fcohen.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20100506022627/http://www.eia.doe.gov/emeu/aer/pecss_diagram.html" rel="nofollow">"U.S. Energy Information Administration (EIA) - Annual Energy Review"</a>. Eia.doe.gov. 2009-06-26. Archived from <a class="external text" href="http://www.eia.doe.gov/emeu/aer/pecss_diagram.html" rel="nofollow">the original</a> on 2010-05-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=U.S.+Energy+Information+Administration+%28EIA%29+-+Annual+Energy+Review&amp;rft.pub=Eia.doe.gov&amp;rft.date=2009-06-26&amp;rft_id=http%3A%2F%2Fwww.eia.doe.gov%2Femeu%2Faer%2Fpecss_diagram.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ionescu-Zanetti, C.; et., al. (2005). "Nanogap capacitors: Sensitivity to sample permittivity changes". <b>99</b> (2). <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2006JAP....99b4305I" rel="nofollow">2006JAP....99b4305I</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1063%2F1.2161818" rel="nofollow">10.1063/1.2161818</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Nanogap+capacitors%3A+Sensitivity+to+sample+permittivity+changes&amp;rft.volume=99&amp;rft.issue=2&amp;rft.date=2005&amp;rft_id=info%3Adoi%2F10.1063%2F1.2161818&amp;rft_id=info%3Abibcode%2F2006JAP....99b4305I&amp;rft.aulast=Ionescu-Zanetti&amp;rft.aufirst=C.&amp;rft.au=et.%2C+al.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation journal">Naoi, K.; et., al. (2013). "New generation "nanohybrid supercapacitor<span class="cs1-kern-right">"</span>". <i>Accounts of Chemical Research</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Far200308h" rel="nofollow">10.1021/ar200308h</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Accounts+of+Chemical+Research&amp;rft.atitle=New+generation+%22nanohybrid+supercapacitor%22.&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1021%2Far200308h&amp;rft.aulast=Naoi&amp;rft.aufirst=K.&amp;rft.au=et.%2C+al.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hubler, A.; Osuagwu, O. (2010). "Digital quantum batteries: Energy and information storage in nanovacuum tube arrays". <i>Complexity</i>. <b>15</b> (5). <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fcplx.20306" rel="nofollow">10.1002/cplx.20306</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Complexity&amp;rft.atitle=Digital+quantum+batteries%3A+Energy+and+information+storage+in+nanovacuum+tube+arrays&amp;rft.volume=15&amp;rft.issue=5&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1002%2Fcplx.20306&amp;rft.aulast=Hubler&amp;rft.aufirst=A.&amp;rft.au=Osuagwu%2C+O.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lyon, D.; et., al. (2013). "Gap size dependence of the dielectric strength in nano vacuum gaps". <i>: IEEE Transactions on Dielectrics and Electrical Insulation</i>. <b>2</b> (4). <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1109%2FTDEI.2013.6571470" rel="nofollow">10.1109/TDEI.2013.6571470</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=%3A+IEEE+Transactions+on+Dielectrics+and+Electrical+Insulation&amp;rft.atitle=Gap+size+dependence+of+the+dielectric+strength+in+nano+vacuum+gaps&amp;rft.volume=2&amp;rft.issue=4&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1109%2FTDEI.2013.6571470&amp;rft.aulast=Lyon&amp;rft.aufirst=D.&amp;rft.au=et.%2C+al.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-H2-45"><span class="mw-cite-backlink">^ <a href="#cite_ref-H2_45-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-H2_45-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-H2_45-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">College of the Desert, “Module 1, Hydrogen Properties”, Revision 0, December 2001 <a class="external text" href="http://energy.gov/sites/prod/files/2014/03/f12/fcm01r0.pdf" rel="nofollow">Hydrogen Properties</a>. Retrieved 2014-06-08.</span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text">Greenwood, Norman N.; Earnshaw, Alan (1997), Chemistry of the Elements (2nd ed) (page 164)</span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.eagle.ca/~gcowan/boron_blast.html#TOC" rel="nofollow">"Boron: A Better Energy Carrier than Hydrogen? (28 February 2009)"</a>. Eagle.ca<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Boron%3A+A+Better+Energy+Carrier+than+Hydrogen%3F+%2828+February+2009%29&amp;rft.pub=Eagle.ca&amp;rft_id=http%3A%2F%2Fwww.eagle.ca%2F~gcowan%2Fboron_blast.html%23TOC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-ngau-49"><span class="mw-cite-backlink">^ <a href="#cite_ref-ngau_49-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ngau_49-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ngau_49-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ngau_49-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Envestra Limited. <a class="external text" href="http://www.natural-gas.com.au/about/references.html" rel="nofollow">Natural Gas</a> <a class="external text" href="https://web.archive.org/web/20081010202138/http://www.natural-gas.com.au/about/references.html" rel="nofollow">Archived</a> 2008-10-10 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.. Retrieved 2008-10-05.</span>
+</li>
+<li id="cite_note-IOR-50"><span class="mw-cite-backlink">^ <a href="#cite_ref-IOR_50-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IOR_50-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-IOR_50-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-IOR_50-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-IOR_50-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">IOR Energy. <a class="external text" href="https://web.archive.org/web/20100825042309/http://www.ior.com.au/ecflist.html" rel="nofollow">List of common conversion factors (Engineering conversion factors)</a>. Retrieved 2008-10-05.</span>
+</li>
+<li id="cite_note-aquafoam-51"><span class="mw-cite-backlink">^ <a href="#cite_ref-aquafoam_51-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-aquafoam_51-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-aquafoam_51-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-aquafoam_51-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-aquafoam_51-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Paul A. Kittle, Ph.D. <a class="external text" href="http://www.aquafoam.com/papers/selection.pdf" rel="nofollow">"ALTERNATE DAILY COVER MATERIALS AND SUBTITLE D - THE SELECTION TECHNIQUE"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-01-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=ALTERNATE+DAILY+COVER+MATERIALS+AND+SUBTITLE+D+-+THE+SELECTION+TECHNIQUE&amp;rft.au=Paul+A.+Kittle%2C+Ph.D.&amp;rft_id=http%3A%2F%2Fwww.aquafoam.com%2Fpapers%2Fselection.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www-static.shell.com/static/aus/downloads/aviation/avgas_100ll_pds.pdf" rel="nofollow">"537.PDF"</a> <span class="cs1-format">(PDF)</span>. June 1993<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-01-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=537.PDF&amp;rft.date=1993-06&amp;rft_id=http%3A%2F%2Fwww-static.shell.com%2Fstatic%2Faus%2Fdownloads%2Faviation%2Favgas_100ll_pds.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://hypertextbook.com/facts/2003/EvelynGofman.shtml" rel="nofollow">"Energy Density of Aviation Fuel"</a>. Hypertextbook.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Energy+Density+of+Aviation+Fuel&amp;rft.pub=Hypertextbook.com&amp;rft_id=http%3A%2F%2Fhypertextbook.com%2Ffacts%2F2003%2FEvelynGofman.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><cite class="citation journal">Román-Leshkov, Yuriy; Barrett, Christopher J.; Liu, Zhen Y.; Dumesic, James A. (21 June 2007). <a class="external text" href="https://www.nature.com/articles/nature05923" rel="nofollow">"Production of dimethylfuran for liquid fuels from biomass-derived carbohydrates"</a>. <i><a href="/wiki/Nature_(journal)" title="Nature (journal)">Nature</a></i>. <b>447</b> (7147): 982–985. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2007Natur.447..982R" rel="nofollow">2007Natur.447..982R</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fnature05923" rel="nofollow">10.1038/nature05923</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 April</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Production+of+dimethylfuran+for+liquid+fuels+from+biomass-derived+carbohydrates&amp;rft.volume=447&amp;rft.issue=7147&amp;rft.pages=982-985&amp;rft.date=2007-06-21&amp;rft_id=info%3Adoi%2F10.1038%2Fnature05923&amp;rft_id=info%3Abibcode%2F2007Natur.447..982R&amp;rft.aulast=Rom%C3%A1n-Leshkov&amp;rft.aufirst=Yuriy&amp;rft.au=Barrett%2C+Christopher+J.&amp;rft.au=Liu%2C+Zhen+Y.&amp;rft.au=Dumesic%2C+James+A.&amp;rft_id=https%3A%2F%2Fwww.nature.com%2Farticles%2Fnature05923&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-JLE5-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-JLE5_55-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Justin Lemire-Elmore (2004-04-13). <a class="external text" href="http://www.ebikes.ca/sustainability/Ebike_Energy.pdf" rel="nofollow">"The Energy Cost of Electric and Human-Powered Bicycles"</a> <span class="cs1-format">(PDF)</span>. p. 5<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-26</span></span>. <q>properly trained athlete will have efficiencies of 22 to 26%</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Energy+Cost+of+Electric+and+Human-Powered+Bicycles&amp;rft.pages=5&amp;rft.date=2004-04-13&amp;rft.au=Justin+Lemire-Elmore&amp;rft_id=http%3A%2F%2Fwww.ebikes.ca%2Fsustainability%2FEbike_Energy.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-fisher-56"><span class="mw-cite-backlink">^ <a href="#cite_ref-fisher_56-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fisher_56-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Fisher, Juliya (2003). <a class="external text" href="http://hypertextbook.com/facts/2003/JuliyaFisher.shtml" rel="nofollow">"Energy Density of Coal"</a>. <i>The Physics Factbook</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-08-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Physics+Factbook&amp;rft.atitle=Energy+Density+of+Coal&amp;rft.date=2003&amp;rft.aulast=Fisher&amp;rft.aufirst=Juliya&amp;rft_id=http%3A%2F%2Fhypertextbook.com%2Ffacts%2F2003%2FJuliyaFisher.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><a class="external text" href="https://web.archive.org/web/20090327030002/http://www.dbresearch.com/PROD/DBR_INTERNET_EN-PROD/PROD0000000000079095.pdf" rel="nofollow">Silicon as an intermediary between renewable energy and hydrogen</a></span>
+</li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20110715061924/http://www.payne-worldwide.com/documents/cms/Elite_bloc_msds.pdf" rel="nofollow">"Elite_bloc.indd"</a> <span class="cs1-format">(PDF)</span>. Archived from <a class="external text" href="http://www.payne-worldwide.com/documents/cms/Elite_bloc_msds.pdf" rel="nofollow">the original</a> <span class="cs1-format">(PDF)</span> on 2011-07-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Elite_bloc.indd&amp;rft_id=http%3A%2F%2Fwww.payne-worldwide.com%2Fdocuments%2Fcms%2FElite_bloc_msds.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-59">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20100110042311/http://www.woodgas.com/fuel_densities.htm" rel="nofollow">"Biomass Energy Foundation: Fuel Densities"</a>. Woodgas.com. Archived from <a class="external text" href="http://www.woodgas.com/fuel_densities.htm" rel="nofollow">the original</a> on 2010-01-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Biomass+Energy+Foundation%3A+Fuel+Densities&amp;rft.pub=Woodgas.com&amp;rft_id=http%3A%2F%2Fwww.woodgas.com%2Ffuel_densities.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20071119083231/http://www.bnm.ie/files/20061124040716_peat_for_energy.pdf" rel="nofollow">"Bord na Mona, Peat for Energy"</a> <span class="cs1-format">(PDF)</span>. Bnm.ie. Archived from <a class="external text" href="http://www.bnm.ie/files/20061124040716_peat_for_energy.pdf" rel="nofollow">the original</a> <span class="cs1-format">(PDF)</span> on 2007-11-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-01-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bord+na+Mona%2C+Peat+for+Energy&amp;rft.pub=Bnm.ie&amp;rft_id=http%3A%2F%2Fwww.bnm.ie%2Ffiles%2F20061124040716_peat_for_energy.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text"><cite class="citation web">Justin Lemire-Elmor (April 13, 2004). <a class="external text" href="http://www.ebikes.ca/sustainability/Ebike_Energy.pdf" rel="nofollow">"The Energy Cost of Electric and Human-Powered Bicycle"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-01-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Energy+Cost+of+Electric+and+Human-Powered+Bicycle&amp;rft.date=2004-04-13&amp;rft.au=Justin+Lemire-Elmor&amp;rft_id=http%3A%2F%2Fwww.ebikes.ca%2Fsustainability%2FEbike_Energy.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-62">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.davdata.nl/math/energy.html" rel="nofollow">"energy buffers"</a>. Home.hccnet.nl<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=energy+buffers&amp;rft.pub=Home.hccnet.nl&amp;rft_id=http%3A%2F%2Fwww.davdata.nl%2Fmath%2Fenergy.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Wignall-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wignall_63-0">^</a></b></span> <span class="reference-text">Anne Wignall and Terry Wales. <a class="external text" href="http://www.wignallandwales.co.nz/Chem-12-WB/Sample-chapter.pdf" rel="nofollow">Chemistry 12 Workbook, page 138</a> <a class="external text" href="https://web.archive.org/web/20110913164216/http://www.wignallandwales.co.nz/Chem-12-WB/Sample-chapter.pdf" rel="nofollow">Archived</a> 2011-09-13 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.. Pearson Education NZ <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-582-54974-6" title="Special:BookSources/978-0-582-54974-6">978-0-582-54974-6</a></span>
+</li>
+<li id="cite_note-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-64">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mitchell, Robert R.; Betar M. Gallant; Carl V. Thompson; Yang Shao-Horn (2011). <a class="external text" href="http://pubs.rsc.org/en/content/articlelanding/2011/ee/c1ee01496j" rel="nofollow">"All-carbon-nanofiber electrodes for high-energy rechargeable Li–O2 batteries"</a>. <i>Energy &amp; Environmental Science</i>. <b>4</b>: 2952–2958. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1039%2FC1EE01496J" rel="nofollow">10.1039/C1EE01496J</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Energy+%26+Environmental+Science&amp;rft.atitle=All-carbon-nanofiber+electrodes+for+high-energy+rechargeable+Li%E2%80%93O2+batteries&amp;rft.volume=4&amp;rft.pages=2952-2958&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.1039%2FC1EE01496J&amp;rft.aulast=Mitchell&amp;rft.aufirst=Robert+R.&amp;rft.au=Betar+M.+Gallant&amp;rft.au=Carl+V.+Thompson&amp;rft.au=Yang+Shao-Horn&amp;rft_id=http%3A%2F%2Fpubs.rsc.org%2Fen%2Fcontent%2Farticlelanding%2F2011%2Fee%2Fc1ee01496j&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-65"><span class="mw-cite-backlink"><b><a href="#cite_ref-65">^</a></b></span> <span class="reference-text">David E. Dirkse. <a class="external text" href="http://www.davdata.nl/math/energy.html" rel="nofollow">energy buffers</a>. "household waste 8..11 MJ/kg"</span>
+</li>
+<li id="cite_note-duracell-za-tech-66"><span class="mw-cite-backlink"><b><a href="#cite_ref-duracell-za-tech_66-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20090127030703/http://www.duracell.com/oem/primary/Zinc/zinc_air_tech.asp" rel="nofollow">"Technical bulletin on Zinc-air batteries"</a>. <a href="/wiki/Duracell" title="Duracell">Duracell</a>. Archived from <a class="external text" href="http://www.duracell.com/oem/primary/Zinc/zinc_air_tech.asp" rel="nofollow">the original</a> on 2009-01-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-04-21</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Technical+bulletin+on+Zinc-air+batteries&amp;rft.pub=Duracell&amp;rft_id=http%3A%2F%2Fwww.duracell.com%2Foem%2Fprimary%2FZinc%2Fzinc_air_tech.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-Knowlen-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-Knowlen_67-0">^</a></b></span> <span class="reference-text">C. Knowlen, A.T. Mattick, A.P. Bruckner and A. Hertzberg, <a class="external text" href="https://web.archive.org/web/20081217082655/http://www.aa.washington.edu/AERP/cryocar/Papers/sae98.pdf" rel="nofollow">"High Efficiency Conversion Systems for Liquid Nitrogen Automobiles"</a>, Society of Automotive Engineers Inc, 1988.</span>
+</li>
+<li id="cite_note-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-68">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.mpoweruk.com/hydro_power.htm" rel="nofollow">"Hydroelectric Power Generation"</a>. <i>www.mpoweruk.com</i>. Woodbank Communications Ltd<span class="reference-accessdate">. Retrieved <span class="nowrap">13 April</span> 2018</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.mpoweruk.com&amp;rft.atitle=Hydroelectric+Power+Generation&amp;rft_id=http%3A%2F%2Fwww.mpoweruk.com%2Fhydro_power.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-69">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://rivers.bee.oregonstate.edu/elevation-discharge-power-relationship" rel="nofollow">"2.1 Power, discharge, head relationship | River Engineering &amp; Restoration at OSU | Oregon State University"</a>. <i>rivers.bee.oregonstate.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 April</span> 2018</span>. <q>Let ε = 0.85, signifying an 85% efficiency rating, typical of an older powerplant.</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=rivers.bee.oregonstate.edu&amp;rft.atitle=2.1+Power%2C+discharge%2C+head+relationship+%7C+River+Engineering+%26+Restoration+at+OSU+%7C+Oregon+State+University&amp;rft_id=http%3A%2F%2Frivers.bee.oregonstate.edu%2Felevation-discharge-power-relationship&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-70"><span class="mw-cite-backlink"><b><a href="#cite_ref-70">^</a></b></span> <span class="reference-text"><cite class="citation journal">Parravicini, J. (2018). "Thermodynamic potentials in anisotropic and nonlinear dielectrics". <i>Physica B</i>. <b>541</b>: 54–60. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2018PhyB..541...54P" rel="nofollow">2018PhyB..541...54P</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.physb.2018.04.029" rel="nofollow">10.1016/j.physb.2018.04.029</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Physica+B&amp;rft.atitle=Thermodynamic+potentials+in+anisotropic+and+nonlinear+dielectrics&amp;rft.volume=541&amp;rft.pages=54-60&amp;rft.date=2018&amp;rft_id=info%3Adoi%2F10.1016%2Fj.physb.2018.04.029&amp;rft_id=info%3Abibcode%2F2018PhyB..541...54P&amp;rft.aulast=Parravicini&amp;rft.aufirst=J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnergy+density"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_density&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Density_data">Density data</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_density&amp;action=edit&amp;section=11" title="Edit section: Density data">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><span class="citation wikicite" id="endnote_att"><b><a href="#ref_att">^</a></b></span>   "Aircraft Fuels." <i>Energy, Technology and the Environment</i> Ed. Attilio Bisio. Vol. 1. New York: John Wiley and Sons, Inc., 1995. 257–259</li>
+<li>"<a class="external text" href="http://www1.eere.energy.gov/vehiclesandfuels/pdfs/deer_2002/session1/2002_deer_eberhardt.pdf" rel="nofollow">Fuels of the Future for Cars and Trucks</a>" - Dr. James J. Eberhardt - Energy Efficiency and Renewable Energy, U.S. Department of Energy - 2002 Diesel Engine Emissions Reduction (DEER) Workshop San Diego, California - August 25–29, 2002</li></ul>
+<h3><span class="mw-headline" id="Energy_storage">Energy storage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_density&amp;action=edit&amp;section=12" title="Edit section: Energy storage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a class="external text" href="http://www.tinaja.com/h2gas01.shtml" rel="nofollow">energy fundamentals</a></li></ul>
+<h3><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Energy_density&amp;action=edit&amp;section=13" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>The Inflationary Universe: The Quest for a New Theory of Cosmic Origins</i> by Alan H. Guth (1998) <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-201-32840-2" title="Special:BookSources/0-201-32840-2">0-201-32840-2</a></li>
+<li><i>Cosmological Inflation and Large-Scale Structure</i> by Andrew R. Liddle, David H. Lyth (2000) <link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-521-57598-2" title="Special:BookSources/0-521-57598-2">0-521-57598-2</a></li>
+<li>Richard Becker, "Electromagnetic Fields and Interactions", Dover Publications Inc., 1964</li></ul>
+<div aria-labelledby="Orders_of_magnitude" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Orders_of_magnitude" title="Template:Orders of magnitude"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Orders_of_magnitude" title="Template talk:Orders of magnitude"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Orders_of_magnitude&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Orders_of_magnitude" style="font-size:114%;margin:0 4em"><a href="/wiki/Order_of_magnitude" title="Order of magnitude">Orders of magnitude</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">Quantity</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Orders_of_magnitude_(acceleration)" title="Orders of magnitude (acceleration)">Acceleration</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(angular_momentum)" title="Orders of magnitude (angular momentum)">Angular momentum</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(angular_velocity)" title="Orders of magnitude (angular velocity)">Angular velocity</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(area)" title="Orders of magnitude (area)">Area</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(bit_rate)" title="Orders of magnitude (bit rate)">Bit rate</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(capacitance)" title="Orders of magnitude (capacitance)">Capacitance</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(charge)" title="Orders of magnitude (charge)">Charge</a></li>
+<li><a href="/wiki/Computer_performance_by_orders_of_magnitude" title="Computer performance by orders of magnitude">Computing</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(currency)" title="Orders of magnitude (currency)">Currency</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(current)" title="Orders of magnitude (current)">Current</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(data)" title="Orders of magnitude (data)">Data</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(density)" title="Orders of magnitude (density)">Density</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(energy)" title="Orders of magnitude (energy)">Energy</a> / <a href="/wiki/Energy_density#Energy_densities_of_common_energy_storage_materials" title="Energy density">Energy density</a> / <a href="/wiki/Orders_of_magnitude_(energy_flow_density)" title="Orders of magnitude (energy flow density)">Energy flow density</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(entropy)" title="Orders of magnitude (entropy)">Entropy</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(force)" title="Orders of magnitude (force)">Force</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(frequency)" title="Orders of magnitude (frequency)">Frequency</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(inductance)" title="Orders of magnitude (inductance)">Inductance</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(illuminance)" title="Orders of magnitude (illuminance)">Illuminance</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(length)" title="Orders of magnitude (length)">Length</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(luminance)" title="Orders of magnitude (luminance)">Luminance</a> / <a href="/wiki/Orders_of_magnitude_(luminous_flux)" title="Orders of magnitude (luminous flux)">Luminous flux</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(magnetic_field)" title="Orders of magnitude (magnetic field)">Magnetic field</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(mass)" title="Orders of magnitude (mass)">Mass</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(mass_flow_rate)" title="Orders of magnitude (mass flow rate)">Mass flow rate</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(molar_concentration)" title="Orders of magnitude (molar concentration)">Molarity</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(momentum)" title="Orders of magnitude (momentum)">Momentum</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(numbers)" title="Orders of magnitude (numbers)">Numbers</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(power)" title="Orders of magnitude (power)">Power</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(pressure)" title="Orders of magnitude (pressure)">Pressure</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(probability)" title="Orders of magnitude (probability)">Probability</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(radiation)" title="Orders of magnitude (radiation)">Radiation</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(resistance)" title="Orders of magnitude (resistance)">Resistance</a></li>
+<li><a href="/wiki/Sound_pressure#Examples_of_sound_pressure_and_sound_pressure_levels" title="Sound pressure">Sound pressure</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(specific_energy)" title="Orders of magnitude (specific energy)">Specific energy</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(specific_heat_capacity)" title="Orders of magnitude (specific heat capacity)">Specific heat capacity</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(speed)" title="Orders of magnitude (speed)">Speed</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(temperature)" title="Orders of magnitude (temperature)">Temperature</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(time)" title="Orders of magnitude (time)">Time</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(viscosity)" title="Orders of magnitude (viscosity)">Viscosity</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(voltage)" title="Orders of magnitude (voltage)">Voltage</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(volume)" title="Orders of magnitude (volume)">Volume</a></li>
+<li><a href="/wiki/Orders_of_magnitude_(volumetric_flow_rate)" title="Orders of magnitude (volumetric flow rate)">Volumetric flow rate</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">See also</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Back-of-the-envelope_calculation" title="Back-of-the-envelope calculation">Back-of-the-envelope calculation</a></li>
+<li><a href="/wiki/Fermi_problem" title="Fermi problem">Fermi problem</a></li>
+<li><a href="/wiki/Power_of_10" title="Power of 10">Powers of 10</a></li>
+<li><a href="/wiki/Metric_prefix" title="Metric prefix">Metric (SI) prefix</a></li>
+<li><a href="/wiki/Macroscopic_scale" title="Macroscopic scale">Macroscopic scale</a></li>
+<li><a href="/wiki/Microscopic_scale" title="Microscopic scale">Microscopic scale</a></li>
+<li><a href="/wiki/Quantum_realm" title="Quantum realm">Quantum realm</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">Related</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Earth%27s_location_in_the_Universe" title="Earth's location in the Universe">Earth's location in the Universe</a></li>
+<li><a href="/wiki/Cosmic_View" title="Cosmic View">"Cosmic View" (1957 essay)</a></li>
+<li><a href="/wiki/To_the_Moon_and_Beyond" title="To the Moon and Beyond"><i>To the Moon and Beyond</i> (1964 film)</a></li>
+<li><a href="/wiki/Cosmic_Zoom" title="Cosmic Zoom"><i>Cosmic Zoom</i> (1968 film)</a></li>
+<li><a href="/wiki/Powers_of_Ten_(film)" title="Powers of Ten (film)"><i>Powers of Ten</i> (1968 and 1977 films)</a></li>
+<li><a href="/wiki/Cosmic_Voyage" title="Cosmic Voyage"><i>Cosmic Voyage</i> (1996 documentary)</a></li>
+<li><a href="/wiki/Cosmic_Eye" title="Cosmic Eye"><i>Cosmic Eye</i> (2012)</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2" style="font-weight:bold;"><div>
+<ul><li><img alt="Wikipedia book" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" title="Wikipedia book" width="16"/> <a href="/wiki/Book:Orders_of_magnitude" title="Book:Orders of magnitude">Book</a></li>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Orders_of_magnitude" title="Category:Orders of magnitude">Category</a></li>
+<li><img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <a href="/wiki/Portal:Science" title="Portal:Science">Science portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1270
+Cached time: 20181013110748
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.888 seconds
+Real time usage: 1.081 seconds
+Preprocessor visited node count: 5460/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 121819/2097152 bytes
+Template argument size: 8104/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 13/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 143172/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.406/10.000 seconds
+Lua memory usage: 6.12 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  830.005      1 -total
+ 49.83%  413.558      2 Template:Reflist
+ 26.65%  221.215     39 Template:Cite_web
+ 14.80%  122.873      8 Template:Citation_needed
+ 13.25%  109.963      8 Template:Fix
+  9.48%   78.674     11 Template:Delink
+  8.27%   68.673      8 Template:Cite_journal
+  6.30%   52.251      1 Template:Infobox_physical_quantity
+  6.19%   51.336     22 Template:Category_handler
+  6.08%   50.433      1 Template:Refimprove_section
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1610231-0!canonical!math=5 and timestamp 20181013110747 and revision id 863102373
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Energy_density&amp;oldid=863102373">https://en.wikipedia.org/w/index.php?title=Energy_density&amp;oldid=863102373</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Energy" title="Category:Energy">Energy</a></li><li><a href="/wiki/Category:Density" title="Category:Density">Density</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2017" title="Category:Articles needing additional references from December 2017">Articles needing additional references from December 2017</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2012" title="Category:Articles with unsourced statements from September 2012">Articles with unsourced statements from September 2012</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_February_2009" title="Category:Wikipedia articles needing clarification from February 2009">Wikipedia articles needing clarification from February 2009</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2014" title="Category:Articles with unsourced statements from October 2014">Articles with unsourced statements from October 2014</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2018" title="Category:Articles with unsourced statements from April 2018">Articles with unsourced statements from April 2018</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_October_2008" title="Category:Wikipedia articles needing clarification from October 2008">Wikipedia articles needing clarification from October 2008</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2009" title="Category:Articles with unsourced statements from February 2009">Articles with unsourced statements from February 2009</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2008" title="Category:Articles with unsourced statements from November 2008">Articles with unsourced statements from November 2008</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_November_2008" title="Category:Wikipedia articles needing clarification from November 2008">Wikipedia articles needing clarification from November 2008</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2010" title="Category:Articles with unsourced statements from February 2010">Articles with unsourced statements from February 2010</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2009" title="Category:Articles with unsourced statements from June 2009">Articles with unsourced statements from June 2009</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Energy+density" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Energy+density" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Energy_density" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Energy_density" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Energy_density">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Energy_density&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Energy_density&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Energy_density" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Energy_density" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Energy_density&amp;oldid=863102373" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Energy_density&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q828402" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Energy_density&amp;id=863102373" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Energy+density">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Energy+density&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Energy_density&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%83%D8%AB%D8%A7%D9%81%D8%A9_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9" hreflang="ar" lang="ar" title="كثافة الطاقة – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%95%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B9%D0%BD%D0%B0_%D0%BF%D0%BB%D1%8A%D1%82%D0%BD%D0%BE%D1%81%D1%82" hreflang="bg" lang="bg" title="Енергийна плътност – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Energit%C3%A6thed" hreflang="da" lang="da" title="Energitæthed – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Energiedichte" hreflang="de" lang="de" title="Energiedichte – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Energiatihedus" hreflang="et" lang="et" title="Energiatihedus – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%98%CE%B5%CF%81%CE%BC%CE%B9%CE%BA%CE%AE_%CE%B1%CE%BE%CE%AF%CE%B1" hreflang="el" lang="el" title="Θερμική αξία – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Densidad_de_energ%C3%ADa" hreflang="es" lang="es" title="Densidad de energía – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Energia_denseco" hreflang="eo" lang="eo" title="Energia denseco – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%86%DA%AF%D8%A7%D9%84%DB%8C_%D8%A7%D9%86%D8%B1%DA%98%DB%8C" hreflang="fa" lang="fa" title="چگالی انرژی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Densit%C3%A9_d%27%C3%A9nergie" hreflang="fr" lang="fr" title="Densité d'énergie – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%97%90%EB%84%88%EC%A7%80_%EB%B0%80%EB%8F%84" hreflang="ko" lang="ko" title="에너지 밀도 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Gusto%C4%87a_energije" hreflang="hr" lang="hr" title="Gustoća energije – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Densit%C3%A0_energetica" hreflang="it" lang="it" title="Densità energetica – Italian">Italiano</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F%D0%BD%D1%8B%D2%A3_%D1%82%D1%8B%D2%93%D1%8B%D0%B7%D0%B4%D1%8B%D2%93%D1%8B" hreflang="kk" lang="kk" title="Энергияның тығыздығы – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Energiedichtheid" hreflang="nl" lang="nl" title="Energiedichtheid – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%AF%86%E5%BA%A6" hreflang="ja" lang="ja" title="エネルギー密度 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/G%C4%99sto%C5%9B%C4%87_energii" hreflang="pl" lang="pl" title="Gęstość energii – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Densidade_de_energia" hreflang="pt" lang="pt" title="Densidade de energia – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8" hreflang="ru" lang="ru" title="Плотность энергии – Russian">Русский</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Energijska_gostota" hreflang="sl" lang="sl" title="Energijska gostota – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Energiatiheys" hreflang="fi" lang="fi" title="Energiatiheys – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Energit%C3%A4thet" hreflang="sv" lang="sv" title="Energitäthet – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Enerji_yo%C4%9Funlu%C4%9Fu" hreflang="tr" lang="tr" title="Enerji yoğunluğu – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%93%D1%83%D1%81%D1%82%D0%B8%D0%BD%D0%B0_%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D1%96%D1%97" hreflang="uk" lang="uk" title="Густина енергії – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%83%BD%E9%87%8F%E5%AF%86%E5%BA%A6" hreflang="zh" lang="zh" title="能量密度 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q828402#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 8 October 2018, at 18:41<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Energy_density&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.888","walltime":"1.081","ppvisitednodes":{"value":5460,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":121819,"limit":2097152},"templateargumentsize":{"value":8104,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":143172,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  830.005      1 -total"," 49.83%  413.558      2 Template:Reflist"," 26.65%  221.215     39 Template:Cite_web"," 14.80%  122.873      8 Template:Citation_needed"," 13.25%  109.963      8 Template:Fix","  9.48%   78.674     11 Template:Delink","  8.27%   68.673      8 Template:Cite_journal","  6.30%   52.251      1 Template:Infobox_physical_quantity","  6.19%   51.336     22 Template:Category_handler","  6.08%   50.433      1 Template:Refimprove_section"]},"scribunto":{"limitreport-timeusage":{"value":"0.406","limit":"10.000"},"limitreport-memusage":{"value":6413199,"limit":52428800}},"cachereport":{"origin":"mw1270","timestamp":"20181013110748","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1275"});});</script>
+</body>
+</html>

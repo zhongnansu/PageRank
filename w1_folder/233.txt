@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Phototroph - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Phototroph","wgTitle":"Phototroph","wgCurRevisionId":862113699,"wgRevisionId":862113699,"wgArticleId":1418389,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Photosynthesis","Trophic ecology","Microbial growth and nutrition","Biology terminology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Phototroph","wgRelevantArticleId":1418389,"wgRequestId":"W7mGygrAMF0AADdKd9EAAABQ","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q335183","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dead_tree_river.jpg/1200px-Dead_tree_river.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Phototroph" rel="alternate"/>
+<link href="/w/index.php?title=Phototroph&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Phototroph&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Phototroph" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Phototroph rootpage-Phototroph skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Phototroph</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about phototrophism, obtaining energy from light. For the <a href="/wiki/Tropism" title="Tropism">tropism</a> that governs growth toward or away from a light source, see <a href="/wiki/Phototropism" title="Phototropism">Phototropism</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Dead_tree_river.jpg"><img alt="" class="thumbimage" data-file-height="1200" data-file-width="1600" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dead_tree_river.jpg/220px-Dead_tree_river.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dead_tree_river.jpg/330px-Dead_tree_river.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dead_tree_river.jpg/440px-Dead_tree_river.jpg 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Dead_tree_river.jpg" title="Enlarge"></a></div>Terrestrial and aquatic phototrophs: plants grow on a fallen log floating in algae-rich water</div></div></div>
+<p><b>Phototrophs</b> (<i><a class="mw-redirect" href="/wiki/Ancient_Greek_language" title="Ancient Greek language">Gr</a></i>: φῶς, φωτός = light, τροϕή = nourishment) are the <a href="/wiki/Organism" title="Organism">organisms</a> that carry out photon capture to acquire energy.  They use the <a href="/wiki/Energy" title="Energy">energy</a> from <a href="/wiki/Light" title="Light">light</a> to carry out various cellular metabolic processes.  It is a common misconception that phototrophs are obligatorily <a class="mw-redirect" href="/wiki/Photosynthetic" title="Photosynthetic">photosynthetic</a>.  Many, but not all, phototrophs often photosynthesize: they <a href="/wiki/Anabolism" title="Anabolism">anabolically</a> convert <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> into organic material to be utilized structurally, functionally, or as a source for later <a href="/wiki/Catabolism" title="Catabolism">catabolic</a> processes (e.g. in the form of starches, sugars and fats).  All phototrophs either use <a href="/wiki/Electron_transport_chain" title="Electron transport chain">electron transport chains</a> or direct <a href="/wiki/Proton_pump" title="Proton pump">proton pumping</a> to establish an electro-chemical gradient which is utilized by <a href="/wiki/ATP_synthase" title="ATP synthase">ATP synthase</a>, to provide the molecular energy currency for the cell. 
+Phototrophs can be either <a href="/wiki/Autotroph" title="Autotroph">autotrophs</a> or <a href="/wiki/Heterotroph" title="Heterotroph">heterotrophs</a>. As their electron and hydrogen donors are inorganic compounds [Na2S2O3 (PSB) and H2S (GSB)] they can be also called as lithotrophs, and so, some photoautotrophs are also called photolithoautotrophs. Examples of phototroph organisms:  <i><a href="/wiki/Rhodobacter_capsulatus" title="Rhodobacter capsulatus">Rhodobacter capsulatus</a></i>, <i><a href="/wiki/Chromatium" title="Chromatium">Chromatium</a></i>, <i><a href="/wiki/Chlorobium" title="Chlorobium">Chlorobium</a></i> etc.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Photoautotroph"><span class="tocnumber">2</span> <span class="toctext">Photoautotroph</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Ecology"><span class="tocnumber">2.1</span> <span class="toctext">Ecology</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Photoheterotroph"><span class="tocnumber">3</span> <span class="toctext">Photoheterotroph</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Flowchart"><span class="tocnumber">4</span> <span class="toctext">Flowchart</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phototroph&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Originally used with a different meaning, the term took its current definition after <a class="mw-redirect" href="/wiki/Andr%C3%A9_Lwoff" title="André Lwoff">Lwoff</a> and collaborators (1946).<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Photoautotroph">Photoautotroph</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phototroph&amp;action=edit&amp;section=2" title="Edit section: Photoautotroph">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most of the well-recognized phototrophs are <a class="mw-redirect" href="/wiki/Autotrophic" title="Autotrophic">autotrophic</a>, also known as <b>photoautotrophs</b>, and can <a href="/wiki/Carbon_fixation" title="Carbon fixation">fix carbon</a>. They can be contrasted with <a href="/wiki/Chemotroph" title="Chemotroph">chemotrophs</a> that obtain their energy by the <a class="mw-redirect" href="/wiki/Oxidation" title="Oxidation">oxidation</a> of <a href="/wiki/Electron_donor" title="Electron donor">electron donors</a> in their environments. Photoautotrophs are capable of synthesizing their own food from inorganic substances using light as an energy source. Green plants and photosynthetic bacteria are photoautotrophs. Photoautotrophic organisms are sometimes referred to as <b>holophytic</b>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Such organisms derive their energy for food synthesis from light and are capable of using carbon dioxide as their principal source of carbon.
+</p><p>Oxygenic photosynthetic organisms use <a href="/wiki/Chlorophyll" title="Chlorophyll">chlorophyll</a> for light-energy capture and oxidize water, <a href="/wiki/Oxygen-evolving_complex" title="Oxygen-evolving complex">"splitting"</a> it into molecular oxygen.  In contrast, anoxygenic photosynthetic bacteria have a substance called <a href="/wiki/Bacteriochlorophyll" title="Bacteriochlorophyll">bacteriochlorophyll</a> - which absorbs predominantly at non-optical wavelengths - for light-energy capture, live in aquatic environments, and will, using light, oxidize chemical substances such as <a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">hydrogen sulfide</a> rather than water.
+</p>
+<h3><span class="mw-headline" id="Ecology">Ecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phototroph&amp;action=edit&amp;section=3" title="Edit section: Ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In an <a href="/wiki/Ecology" title="Ecology">ecological</a> context, phototrophs are often the food source for neighboring heterotrophic life. In terrestrial environments, <a href="/wiki/Plant" title="Plant">plants</a> are the predominant variety, while aquatic environments include a range of phototrophic organisms such as <a href="/wiki/Algae" title="Algae">algae</a> (e.g., <a href="/wiki/Kelp" title="Kelp">kelp</a>), other <a href="/wiki/Protist" title="Protist">protists</a> (such as <a href="/wiki/Euglena" title="Euglena">euglena</a>), <a href="/wiki/Phytoplankton" title="Phytoplankton">phytoplankton</a>, and <a href="/wiki/Bacteria" title="Bacteria">bacteria</a> (such as <a href="/wiki/Cyanobacteria" title="Cyanobacteria">cyanobacteria</a>). The depth to which sunlight or artificial light can penetrate into water, so that photosynthesis may occur, is known as the <a href="/wiki/Photic_zone" title="Photic zone">photic zone</a>.
+</p><p>Cyanobacteria, which are prokaryotic organisms which carry out oxygenic photosynthesis, occupy many environmental conditions, including fresh water, seas, <a href="/wiki/Soil" title="Soil">soil</a>, and <a href="/wiki/Lichen" title="Lichen">lichen</a>. Cyanobacteria carry out plant-like photosynthesis because the <a href="/wiki/Chloroplast" title="Chloroplast">organelle</a> in plants that carries out photosynthesis is derived from an <sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> endosymbiotic cyanobacterium.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> This bacterium can use water as a source of <a href="/wiki/Electron_transport_chain" title="Electron transport chain">electrons</a> in order to perform CO<sub>2</sub> <a href="/wiki/Redox" title="Redox">reduction</a> reactions. Evolutionarily, cyanobacteria's ability to survive in <a class="mw-redirect" href="/wiki/Oxygenic_photosynthesis" title="Oxygenic photosynthesis">oxygenic</a> conditions, which are considered toxic to most <a href="/wiki/Anaerobic_organism" title="Anaerobic organism">anaerobic</a> bacteria, might have given the bacteria an adaptive advantage which could have allowed the cyanobacteria to populate more efficiently.
+</p><p>A <i>photolithoautotroph</i> is an <a class="mw-redirect" href="/wiki/Autotrophic" title="Autotrophic">autotrophic</a> organism that uses light energy, and an <a href="/wiki/Inorganic_compound" title="Inorganic compound">inorganic</a> <a href="/wiki/Electron_donor" title="Electron donor">electron donor</a> (e.g., H<sub>2</sub>O, H<sub>2</sub>, H<sub>2</sub>S), and <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a> as its <a href="/wiki/Carbon" title="Carbon">carbon</a> source. Examples include plants.
+</p>
+<h2><span class="mw-headline" id="Photoheterotroph">Photoheterotroph</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phototroph&amp;action=edit&amp;section=4" title="Edit section: Photoheterotroph">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Photoheterotroph" title="Photoheterotroph">Photoheterotroph</a></div>
+<p>In contrast to photoautotrophs, <b>photoheterotrophs</b> are organisms that depend solely on light for their energy and principally on organic compounds for their carbon. Photoheterotrophs produce <a href="/wiki/Adenosine_triphosphate" title="Adenosine triphosphate">ATP</a> through <a href="/wiki/Photophosphorylation" title="Photophosphorylation">photophosphorylation</a> but use environmentally obtained <a href="/wiki/Organic_compound" title="Organic compound">organic compounds</a> to build structures and other bio-molecules.<sup class="reference" id="cite_ref-campbell564_6-0"><a href="#cite_note-campbell564-6">[6]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Flowchart">Flowchart</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phototroph&amp;action=edit&amp;section=5" title="Edit section: Flowchart">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:502px;"><a class="image" href="/wiki/File:Troph_flowchart.png"><img alt="" class="thumbimage" data-file-height="780" data-file-width="1000" height="390" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Troph_flowchart.png/500px-Troph_flowchart.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Troph_flowchart.png/750px-Troph_flowchart.png 1.5x, //upload.wikimedia.org/wikipedia/commons/5/59/Troph_flowchart.png 2x" width="500"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Troph_flowchart.png" title="Enlarge"></a></div>Flowchart to determine if a species is autotroph, <a href="/wiki/Heterotroph" title="Heterotroph">heterotroph</a>, or a subtype</div></div></div>
+<ul><li><a href="/wiki/Autotroph" title="Autotroph">Autotroph</a>
+<ul><li><a class="mw-redirect" href="/wiki/Chemoautotroph" title="Chemoautotroph">Chemoautotroph</a></li>
+<li><b>Photoautotroph</b></li></ul></li>
+<li><a href="/wiki/Heterotroph" title="Heterotroph">Heterotroph</a>
+<ul><li><a class="mw-redirect" href="/wiki/Chemoheterotroph" title="Chemoheterotroph">Chemoheterotroph</a></li>
+<li><b><a href="/wiki/Photoheterotroph" title="Photoheterotroph">Photoheterotroph</a></b></li></ul></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phototroph&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Primary_nutritional_groups" title="Primary nutritional groups">Primary nutritional groups</a></li>
+<li><a class="mw-redirect" href="/wiki/Prototroph" title="Prototroph">Prototroph</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phototroph&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Lwoff, A., C.B. van Niel, P.J. Ryan, and E.L. Tatum (1946). Nomenclature of nutritional types of microorganisms. <i>Cold Spring Harbor Symposia on Quantitative Biology</i> (5th edn.), Vol. XI, The Biological Laboratory, Cold Spring Harbor, NY, pp. 302–303, <a class="external autonumber" href="http://symposium.cshlp.org/content/11/local/back-matter.pdf" rel="nofollow">[1]</a>.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Schneider, С. K. 1917. <i>Illustriertes Handwörterbuch der Botanik.</i> 2. Aufl., herausgeg. von K. Linsbauer. Leipzig: Engelmann, <a class="external autonumber" href="https://www.biodiversitylibrary.org/bibliography/32951#/summary" rel="nofollow">[2]</a>.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Hine, Robert (2005). <i>The Facts on File dictionary of biology</i>. Infobase Publishing. p. 175. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-8160-5648-4" title="Special:BookSources/978-0-8160-5648-4">978-0-8160-5648-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Facts+on+File+dictionary+of+biology&amp;rft.pages=175&amp;rft.pub=Infobase+Publishing&amp;rft.date=2005&amp;rft.isbn=978-0-8160-5648-4&amp;rft.aulast=Hine&amp;rft.aufirst=Robert&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhototroph"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Hill, Malcolm S. “Production Possibility Frontiers in Phototroph:heterotroph Symbioses: Trade-Offs in Allocating Fixed Carbon Pools and the Challenges These Alternatives Present for Understanding the Acquisition of Intracellular Habitats.” <i>Frontiers in Microbiology</i> 5 (2014): 357. <i>PMC</i>. Web. 11 March 2016.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">3. Johnson, Lewis, Morgan, Raff, Roberts, and Walter. "Energy Conversion: Mitochondria and Chloroplast." <i>Molecular Biology of the Cell, Sixth Edition</i>  By Alberts. 6th ed. New York: Garland Science, Taylor &amp; Francis Group, 2015. 774+. Print.</span>
+</li>
+<li id="cite_note-campbell564-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-campbell564_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Campbell, Neil A.; Reece, Jane B.; Urry, Lisa A.; Cain, Michael L.; Wasserman, Steven A.; Minorsky, Peter V.; Jackson, Robert B. (2008). <i>Biology</i> (8th ed.). p. 564. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-8053-6844-4" title="Special:BookSources/978-0-8053-6844-4">978-0-8053-6844-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Biology&amp;rft.pages=564&amp;rft.edition=8th&amp;rft.date=2008&amp;rft.isbn=978-0-8053-6844-4&amp;rft.aulast=Campbell&amp;rft.aufirst=Neil+A.&amp;rft.au=Reece%2C+Jane+B.&amp;rft.au=Urry%2C+Lisa+A.&amp;rft.au=Cain%2C+Michael+L.&amp;rft.au=Wasserman%2C+Steven+A.&amp;rft.au=Minorsky%2C+Peter+V.&amp;rft.au=Jackson%2C+Robert+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhototroph"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<div aria-labelledby="Ecology:_Modelling_ecosystems:_Trophic_components" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Modelling_ecosystems" title="Template:Modelling ecosystems"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Modelling_ecosystems" title="Template talk:Modelling ecosystems"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Modelling_ecosystems&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Ecology:_Modelling_ecosystems:_Trophic_components" style="font-size:114%;margin:0 4em"><a href="/wiki/Ecology" title="Ecology">Ecology</a>: <a href="/wiki/Ecosystem_model" title="Ecosystem model">Modelling ecosystems</a>: <a href="/wiki/Trophic_level" title="Trophic level">Trophic</a> components</div></th></tr><tr><th class="navbox-group" scope="row" style="width:7.5em">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abiotic_component" title="Abiotic component">Abiotic component</a></li>
+<li><a href="/wiki/Abiotic_stress" title="Abiotic stress">Abiotic stress</a></li>
+<li><a href="/wiki/Behavioral_ecology" title="Behavioral ecology">Behaviour</a></li>
+<li><a href="/wiki/Biogeochemical_cycle" title="Biogeochemical cycle">Biogeochemical cycle</a></li>
+<li><a href="/wiki/Biomass_(ecology)" title="Biomass (ecology)">Biomass</a></li>
+<li><a href="/wiki/Biotic_component" title="Biotic component">Biotic component</a></li>
+<li><a href="/wiki/Biotic_stress" title="Biotic stress">Biotic stress</a></li>
+<li><a href="/wiki/Carrying_capacity" title="Carrying capacity">Carrying capacity</a></li>
+<li><a href="/wiki/Competition_(biology)" title="Competition (biology)">Competition</a></li>
+<li><a href="/wiki/Ecosystem" title="Ecosystem">Ecosystem</a></li>
+<li><a href="/wiki/Ecosystem_ecology" title="Ecosystem ecology">Ecosystem ecology</a></li>
+<li><a href="/wiki/Ecosystem_model" title="Ecosystem model">Ecosystem model</a></li>
+<li><a href="/wiki/Keystone_species" title="Keystone species">Keystone species</a></li>
+<li><a href="/wiki/List_of_feeding_behaviours" title="List of feeding behaviours">List of feeding behaviours</a></li>
+<li><a href="/wiki/Metabolic_theory_of_ecology" title="Metabolic theory of ecology">Metabolic theory of ecology</a></li>
+<li><a href="/wiki/Productivity_(ecology)" title="Productivity (ecology)">Productivity</a></li>
+<li><a href="/wiki/Resource_(biology)" title="Resource (biology)">Resource</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em"><a href="/wiki/Primary_producers" title="Primary producers">Producers</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autotroph" title="Autotroph">Autotrophs</a></li>
+<li><a href="/wiki/Chemosynthesis" title="Chemosynthesis">Chemosynthesis</a></li>
+<li><a href="/wiki/Chemotroph" title="Chemotroph">Chemotrophs</a></li>
+<li><a href="/wiki/Foundation_species" title="Foundation species">Foundation species</a></li>
+<li><a href="/wiki/Mixotroph" title="Mixotroph">Mixotrophs</a></li>
+<li><a href="/wiki/Myco-heterotrophy" title="Myco-heterotrophy">Myco-heterotrophy</a></li>
+<li><a href="/wiki/Mycotroph" title="Mycotroph">Mycotroph</a></li>
+<li><a href="/wiki/Organotroph" title="Organotroph">Organotrophs</a></li>
+<li><a href="/wiki/Photoheterotroph" title="Photoheterotroph">Photoheterotrophs</a></li>
+<li><a href="/wiki/Photosynthesis" title="Photosynthesis">Photosynthesis</a></li>
+<li><a href="/wiki/Photosynthetic_efficiency" title="Photosynthetic efficiency">Photosynthetic efficiency</a></li>
+<li><a class="mw-selflink selflink">Phototrophs</a></li>
+<li><a href="/wiki/Primary_nutritional_groups" title="Primary nutritional groups">Primary nutritional groups</a></li>
+<li><a href="/wiki/Primary_production" title="Primary production">Primary production</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em"><a class="mw-redirect" href="/wiki/Consumers_(food_chain)" title="Consumers (food chain)">Consumers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Apex_predator" title="Apex predator">Apex predator</a></li>
+<li><a href="/wiki/Bacterivore" title="Bacterivore">Bacterivore</a></li>
+<li><a href="/wiki/Carnivore" title="Carnivore">Carnivores</a></li>
+<li><a class="mw-redirect" href="/wiki/Chemoorganotroph" title="Chemoorganotroph">Chemoorganotroph</a></li>
+<li><a href="/wiki/Foraging" title="Foraging">Foraging</a></li>
+<li><a href="/wiki/Generalist_and_specialist_species" title="Generalist and specialist species">Generalist and specialist species</a></li>
+<li><a href="/wiki/Intraguild_predation" title="Intraguild predation">Intraguild predation</a></li>
+<li><a href="/wiki/Herbivore" title="Herbivore">Herbivores</a></li>
+<li><a href="/wiki/Heterotroph" title="Heterotroph">Heterotroph</a></li>
+<li><a href="/wiki/Heterotrophic_nutrition" title="Heterotrophic nutrition">Heterotrophic nutrition</a></li>
+<li><a href="/wiki/Insectivore" title="Insectivore">Insectivore</a></li>
+<li><a href="/wiki/Mesopredator" title="Mesopredator">Mesopredators</a></li>
+<li><a href="/wiki/Mesopredator_release_hypothesis" title="Mesopredator release hypothesis">Mesopredator release hypothesis</a></li>
+<li><a href="/wiki/Omnivore" title="Omnivore">Omnivores</a></li>
+<li><a href="/wiki/Optimal_foraging_theory" title="Optimal foraging theory">Optimal foraging theory</a></li>
+<li><a href="/wiki/Planktivore" title="Planktivore">Planktivore</a></li>
+<li><a href="/wiki/Predation" title="Predation">Predation</a></li>
+<li><a href="/wiki/Prey_switching" title="Prey switching">Prey switching</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em"><a href="/wiki/Decomposer" title="Decomposer">Decomposers</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Chemoorganoheterotrophy" title="Chemoorganoheterotrophy">Chemoorganoheterotrophy</a></li>
+<li><a href="/wiki/Decomposition" title="Decomposition">Decomposition</a></li>
+<li><a href="/wiki/Detritivore" title="Detritivore">Detritivores</a></li>
+<li><a href="/wiki/Detritus" title="Detritus">Detritus</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em"><a href="/wiki/Microorganism#Habitats_and_ecology" title="Microorganism">Microorganisms</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Archaea" title="Archaea">Archaea</a></li>
+<li><a href="/wiki/Bacteriophage" title="Bacteriophage">Bacteriophage</a></li>
+<li><a class="mw-redirect" href="/wiki/Environmental_microbiology" title="Environmental microbiology">Environmental microbiology</a></li>
+<li><a href="/wiki/Lithoautotroph" title="Lithoautotroph">Lithoautotroph</a></li>
+<li><a href="/wiki/Lithotroph" title="Lithotroph">Lithotrophy</a></li>
+<li><a href="/wiki/Microbial_cooperation" title="Microbial cooperation">Microbial cooperation</a></li>
+<li><a href="/wiki/Microbial_ecology" title="Microbial ecology">Microbial ecology</a></li>
+<li><a href="/wiki/Microbial_food_web" title="Microbial food web">Microbial food web</a></li>
+<li><a href="/wiki/Microbial_intelligence" title="Microbial intelligence">Microbial intelligence</a></li>
+<li><a href="/wiki/Microbial_loop" title="Microbial loop">Microbial loop</a></li>
+<li><a href="/wiki/Microbial_mat" title="Microbial mat">Microbial mat</a></li>
+<li><a href="/wiki/Microbial_metabolism" title="Microbial metabolism">Microbial metabolism</a></li>
+<li><a href="/wiki/Phage_ecology" title="Phage ecology">Phage ecology</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em"><a href="/wiki/Food_web" title="Food web">Food webs</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biomagnification" title="Biomagnification">Biomagnification</a></li>
+<li><a href="/wiki/Ecological_efficiency" title="Ecological efficiency">Ecological efficiency</a></li>
+<li><a href="/wiki/Ecological_pyramid" title="Ecological pyramid">Ecological pyramid</a></li>
+<li><a href="/wiki/Energy_flow_(ecology)" title="Energy flow (ecology)">Energy flow</a></li>
+<li><a href="/wiki/Food_chain" title="Food chain">Food chain</a></li>
+<li><a href="/wiki/Trophic_level" title="Trophic level">Trophic level</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em">Example webs</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cold_seep" title="Cold seep">Cold seeps</a></li>
+<li><a href="/wiki/Hydrothermal_vent#Biological_communities" title="Hydrothermal vent">Hydrothermal vents</a></li>
+<li><a href="/wiki/Intertidal_ecology" title="Intertidal ecology">Intertidal</a></li>
+<li><a href="/wiki/Kelp_forest#Trophic_ecology" title="Kelp forest">Kelp forests</a></li>
+<li><a href="/wiki/Lake_ecosystem#Trophic_relationships" title="Lake ecosystem">Lakes</a></li>
+<li><a class="mw-redirect" href="/wiki/North_Pacific_Subtropical_Gyre" title="North Pacific Subtropical Gyre">North Pacific Subtropical Gyre</a></li>
+<li><a href="/wiki/River_ecosystem#Trophic_relationships" title="River ecosystem">Rivers</a></li>
+<li><a href="/wiki/Ecology_of_the_San_Francisco_Estuary#Food_web" title="Ecology of the San Francisco Estuary">San Francisco Estuary</a></li>
+<li><a href="/wiki/Soil_food_web" title="Soil food web">Soil</a></li>
+<li><a href="/wiki/Tide_pool" title="Tide pool">Tide pool</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em">Processes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ascendency" title="Ascendency">Ascendency</a></li>
+<li><a href="/wiki/Bioaccumulation" title="Bioaccumulation">Bioaccumulation</a></li>
+<li><a href="/wiki/Cascade_effect_(ecology)" title="Cascade effect (ecology)">Cascade effect</a></li>
+<li><a href="/wiki/Climax_community" title="Climax community">Climax community</a></li>
+<li><a href="/wiki/Competitive_exclusion_principle" title="Competitive exclusion principle">Competitive exclusion principle</a></li>
+<li><a class="mw-redirect" href="/wiki/Consumer-resource_systems" title="Consumer-resource systems">Consumer-resource systems</a></li>
+<li><a href="/wiki/Copiotroph" title="Copiotroph">Copiotrophs</a></li>
+<li><a href="/wiki/Dominance_(ecology)" title="Dominance (ecology)">Dominance</a></li>
+<li><a href="/wiki/Ecological_network" title="Ecological network">Ecological network</a></li>
+<li><a href="/wiki/Ecological_succession" title="Ecological succession">Ecological succession</a></li>
+<li><a href="/wiki/Energy_quality" title="Energy quality">Energy quality</a></li>
+<li><a href="/wiki/Energy_Systems_Language" title="Energy Systems Language">Energy Systems Language</a></li>
+<li><a href="/wiki/F-ratio" title="F-ratio">f-ratio</a></li>
+<li><a href="/wiki/Feed_conversion_ratio" title="Feed conversion ratio">Feed conversion ratio</a></li>
+<li><a href="/wiki/Feeding_frenzy" title="Feeding frenzy">Feeding frenzy</a></li>
+<li><a href="/wiki/Mesotrophic_soil" title="Mesotrophic soil">Mesotrophic soil</a></li>
+<li><a href="/wiki/Nutrient_cycle" title="Nutrient cycle">Nutrient cycle</a></li>
+<li><a href="/wiki/Oligotroph" title="Oligotroph">Oligotroph</a></li>
+<li><a href="/wiki/Paradox_of_the_plankton" title="Paradox of the plankton">Paradox of the plankton</a></li>
+<li><a href="/wiki/Trophic_cascade" title="Trophic cascade">Trophic cascade</a></li>
+<li><a href="/wiki/Trophic_mutualism" title="Trophic mutualism">Trophic mutualism</a></li>
+<li><a href="/wiki/Trophic_state_index" title="Trophic state index">Trophic state index</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em">Defense,<br/>counter</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Animal_coloration" title="Animal coloration">Animal coloration</a></li>
+<li><a class="mw-redirect" href="/wiki/Antipredator_adaptation" title="Antipredator adaptation">Antipredator adaptations</a></li>
+<li><a href="/wiki/Camouflage" title="Camouflage">Camouflage</a></li>
+<li><a href="/wiki/Deimatic_behaviour" title="Deimatic behaviour">Deimatic behaviour</a></li>
+<li><a href="/wiki/Herbivore_adaptations_to_plant_defense" title="Herbivore adaptations to plant defense">Herbivore adaptations to plant defense</a></li>
+<li><a href="/wiki/Mimicry" title="Mimicry">Mimicry</a></li>
+<li><a href="/wiki/Plant_defense_against_herbivory" title="Plant defense against herbivory">Plant defense against herbivory</a></li>
+<li><a href="/wiki/Shoaling_and_schooling#Predator_avoidance" title="Shoaling and schooling">Predator avoidance in schooling fish</a></li></ul>
+</div></td></tr></tbody></table></div><div aria-labelledby="Ecology:_Modelling_ecosystems:_Other_components" class="navbox" role="navigation" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Modelling_ecosystems" title="Template:Modelling ecosystems"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Modelling_ecosystems" title="Template talk:Modelling ecosystems"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Modelling_ecosystems&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;" title="Edit this template">e</abbr></a></li></ul></div><div id="Ecology:_Modelling_ecosystems:_Other_components" style="font-size:114%;margin:0 4em"><a href="/wiki/Ecology" title="Ecology">Ecology</a>: <a href="/wiki/Ecosystem_model" title="Ecosystem model">Modelling ecosystems</a>: Other components</div></th></tr><tr><th class="navbox-group" scope="row" style="width:7.5em"><a href="/wiki/Population_ecology" title="Population ecology">Population<br/>ecology</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abundance_(ecology)" title="Abundance (ecology)">Abundance</a></li>
+<li><a href="/wiki/Allee_effect" title="Allee effect">Allee effect</a></li>
+<li><a href="/wiki/Depensation" title="Depensation">Depensation</a></li>
+<li><a href="/wiki/Ecological_yield" title="Ecological yield">Ecological yield</a></li>
+<li><a href="/wiki/Effective_population_size" title="Effective population size">Effective population size</a></li>
+<li><a href="/wiki/Intraspecific_competition" title="Intraspecific competition">Intraspecific competition</a></li>
+<li><a href="/wiki/Logistic_function" title="Logistic function">Logistic function</a></li>
+<li><a href="/wiki/Malthusian_growth_model" title="Malthusian growth model">Malthusian growth model</a></li>
+<li><a href="/wiki/Maximum_sustainable_yield" title="Maximum sustainable yield">Maximum sustainable yield</a></li>
+<li><a class="mw-redirect" href="/wiki/Overpopulation_in_wild_animals" title="Overpopulation in wild animals">Overpopulation in wild animals</a></li>
+<li><a href="/wiki/Overexploitation" title="Overexploitation">Overexploitation</a></li>
+<li><a href="/wiki/Population_cycle" title="Population cycle">Population cycle</a></li>
+<li><a href="/wiki/Population_dynamics" title="Population dynamics">Population dynamics</a></li>
+<li><a class="mw-redirect" href="/wiki/Population_modeling" title="Population modeling">Population modeling</a></li>
+<li><a href="/wiki/Population_size" title="Population size">Population size</a></li>
+<li><a href="/wiki/Lotka%E2%80%93Volterra_equations" title="Lotka–Volterra equations">Predator–prey (Lotka–Volterra) equations</a></li>
+<li><a href="/wiki/Recruitment_(biology)" title="Recruitment (biology)">Recruitment</a></li>
+<li><a class="mw-redirect" href="/wiki/Resilience_(ecology)" title="Resilience (ecology)">Resilience</a></li>
+<li><a href="/wiki/Small_population_size" title="Small population size">Small population size</a></li>
+<li><a href="/wiki/Ecological_stability" title="Ecological stability">Stability</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em">Species</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></li>
+<li><a href="/wiki/Density_dependence" title="Density dependence">Density-dependent inhibition</a></li>
+<li><a href="/wiki/Ecological_effects_of_biodiversity" title="Ecological effects of biodiversity">Ecological effects of biodiversity</a></li>
+<li><a href="/wiki/Ecological_extinction" title="Ecological extinction">Ecological extinction</a></li>
+<li><a class="mw-redirect" href="/wiki/Endemic_species" title="Endemic species">Endemic species</a></li>
+<li><a href="/wiki/Flagship_species" title="Flagship species">Flagship species</a></li>
+<li><a class="mw-redirect" href="/wiki/Gradient_analysis" title="Gradient analysis">Gradient analysis</a></li>
+<li><a class="mw-redirect" href="/wiki/Indicator_species" title="Indicator species">Indicator species</a></li>
+<li><a href="/wiki/Introduced_species" title="Introduced species">Introduced species</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li>
+<li><a href="/wiki/Latitudinal_gradients_in_species_diversity" title="Latitudinal gradients in species diversity">Latitudinal gradients in species diversity</a></li>
+<li><a href="/wiki/Minimum_viable_population" title="Minimum viable population">Minimum viable population</a></li>
+<li><a href="/wiki/Unified_neutral_theory_of_biodiversity" title="Unified neutral theory of biodiversity">Neutral theory</a></li>
+<li><a href="/wiki/Occupancy%E2%80%93abundance_relationship" title="Occupancy–abundance relationship">Occupancy–abundance relationship</a></li>
+<li><a href="/wiki/Population_viability_analysis" title="Population viability analysis">Population viability analysis</a></li>
+<li><a href="/wiki/Priority_effect" title="Priority effect">Priority effect</a></li>
+<li><a href="/wiki/Rapoport%27s_rule" title="Rapoport's rule">Rapoport's rule</a></li>
+<li><a href="/wiki/Relative_abundance_distribution" title="Relative abundance distribution">Relative abundance distribution</a></li>
+<li><a href="/wiki/Relative_species_abundance" title="Relative species abundance">Relative species abundance</a></li>
+<li><a href="/wiki/Species_diversity" title="Species diversity">Species diversity</a></li>
+<li><a href="/wiki/Species_homogeneity" title="Species homogeneity">Species homogeneity</a></li>
+<li><a href="/wiki/Species_richness" title="Species richness">Species richness</a></li>
+<li><a href="/wiki/Species_distribution" title="Species distribution">Species distribution</a></li>
+<li><a class="mw-redirect" href="/wiki/Species-area_curve" title="Species-area curve">Species-area curve</a></li>
+<li><a href="/wiki/Umbrella_species" title="Umbrella species">Umbrella species</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em">Species<br/>interaction</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antibiosis" title="Antibiosis">Antibiosis</a></li>
+<li><a href="/wiki/Biological_interaction" title="Biological interaction">Biological interaction</a></li>
+<li><a href="/wiki/Commensalism" title="Commensalism">Commensalism</a></li>
+<li><a class="mw-redirect" href="/wiki/Community_ecology" title="Community ecology">Community ecology</a></li>
+<li><a href="/wiki/Ecological_facilitation" title="Ecological facilitation">Ecological facilitation</a></li>
+<li><a href="/wiki/Interspecific_competition" title="Interspecific competition">Interspecific competition</a></li>
+<li><a href="/wiki/Mutualism_(biology)" title="Mutualism (biology)">Mutualism</a></li>
+<li><a href="/wiki/Parasitism" title="Parasitism">Parasitism</a></li>
+<li><a href="/wiki/Storage_effect" title="Storage effect">Storage effect</a></li>
+<li><a href="/wiki/Symbiosis" title="Symbiosis">Symbiosis</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em"><a href="/wiki/Spatial_ecology" title="Spatial ecology">Spatial<br/>ecology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biogeography" title="Biogeography">Biogeography</a></li>
+<li><a href="/wiki/Cross-boundary_subsidy" title="Cross-boundary subsidy">Cross-boundary subsidy</a></li>
+<li><a class="mw-redirect" href="/wiki/Ecocline" title="Ecocline">Ecocline</a></li>
+<li><a href="/wiki/Ecotone" title="Ecotone">Ecotone</a></li>
+<li><a href="/wiki/Ecotype" title="Ecotype">Ecotype</a></li>
+<li><a href="/wiki/Disturbance_(ecology)" title="Disturbance (ecology)">Disturbance</a></li>
+<li><a href="/wiki/Edge_effects" title="Edge effects">Edge effects</a></li>
+<li><a href="/wiki/Foster%27s_rule" title="Foster's rule">Foster's rule</a></li>
+<li><a href="/wiki/Habitat_fragmentation" title="Habitat fragmentation">Habitat fragmentation</a></li>
+<li><a href="/wiki/Ideal_free_distribution" title="Ideal free distribution">Ideal free distribution</a></li>
+<li><a class="mw-redirect" href="/wiki/Intermediate_Disturbance_Hypothesis" title="Intermediate Disturbance Hypothesis">Intermediate Disturbance Hypothesis</a></li>
+<li><a class="mw-redirect" href="/wiki/Island_biogeography" title="Island biogeography">Island biogeography</a></li>
+<li><a href="/wiki/Landscape_ecology" title="Landscape ecology">Landscape ecology</a></li>
+<li><a href="/wiki/Landscape_epidemiology" title="Landscape epidemiology">Landscape epidemiology</a></li>
+<li><a href="/wiki/Landscape_limnology" title="Landscape limnology">Landscape limnology</a></li>
+<li><a href="/wiki/Metapopulation" title="Metapopulation">Metapopulation</a></li>
+<li><a href="/wiki/Patch_dynamics" title="Patch dynamics">Patch dynamics</a></li>
+<li><a href="/wiki/R/K_selection_theory" title="R/K selection theory">r/K selection theory</a></li>
+<li><a href="/wiki/Resource_selection_function" title="Resource selection function">Resource selection function</a></li>
+<li><a href="/wiki/Source%E2%80%93sink_dynamics" title="Source–sink dynamics">Source–sink dynamics</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em"><a href="/wiki/Ecological_niche" title="Ecological niche">Niche</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ecological_niche" title="Ecological niche">Ecological niche</a></li>
+<li><a href="/wiki/Ecological_trap" title="Ecological trap">Ecological trap</a></li>
+<li><a href="/wiki/Ecosystem_engineer" title="Ecosystem engineer">Ecosystem engineer</a></li>
+<li><a href="/wiki/Environmental_niche_modelling" title="Environmental niche modelling">Environmental niche modelling</a></li>
+<li><a href="/wiki/Guild_(ecology)" title="Guild (ecology)">Guild</a></li>
+<li><a href="/wiki/Habitat" title="Habitat">Habitat</a></li>
+<li><a href="/wiki/Marine_habitats" title="Marine habitats">Marine habitats</a></li>
+<li><a href="/wiki/Limiting_similarity" title="Limiting similarity">Limiting similarity</a></li>
+<li><a href="/wiki/Niche_apportionment_models" title="Niche apportionment models">Niche apportionment models</a></li>
+<li><a href="/wiki/Niche_construction" title="Niche construction">Niche construction</a></li>
+<li><a href="/wiki/Niche_differentiation" title="Niche differentiation">Niche differentiation</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em"><a href="/wiki/Non-trophic_networks" title="Non-trophic networks">Other<br/>networks</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Assembly_rules" title="Assembly rules">Assembly rules</a></li>
+<li><a href="/wiki/Bateman%27s_principle" title="Bateman's principle">Bateman's principle</a></li>
+<li><a href="/wiki/Bioluminescence" title="Bioluminescence">Bioluminescence</a></li>
+<li><a href="/wiki/Ecological_collapse" title="Ecological collapse">Ecological collapse</a></li>
+<li><a href="/wiki/Ecological_debt" title="Ecological debt">Ecological debt</a></li>
+<li><a class="mw-redirect" href="/wiki/Ecological_deficit" title="Ecological deficit">Ecological deficit</a></li>
+<li><a class="mw-redirect" href="/wiki/Ecological_energetics" title="Ecological energetics">Ecological energetics</a></li>
+<li><a href="/wiki/Ecological_indicator" title="Ecological indicator">Ecological indicator</a></li>
+<li><a href="/wiki/Ecological_threshold" title="Ecological threshold">Ecological threshold</a></li>
+<li><a href="/wiki/Ecosystem_diversity" title="Ecosystem diversity">Ecosystem diversity</a></li>
+<li><a href="/wiki/Emergence" title="Emergence">Emergence</a></li>
+<li><a href="/wiki/Extinction_debt" title="Extinction debt">Extinction debt</a></li>
+<li><a href="/wiki/Kleiber%27s_law" title="Kleiber's law">Kleiber's law</a></li>
+<li><a href="/wiki/Liebig%27s_law_of_the_minimum" title="Liebig's law of the minimum">Liebig's law of the minimum</a></li>
+<li><a href="/wiki/Marginal_value_theorem" title="Marginal value theorem">Marginal value theorem</a></li>
+<li><a href="/wiki/Thorson%27s_rule" title="Thorson's rule">Thorson's rule</a></li>
+<li><a href="/wiki/Xerosere" title="Xerosere">Xerosere</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:7.5em">Other</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Allometry" title="Allometry">Allometry</a></li>
+<li><a href="/wiki/Alternative_stable_state" title="Alternative stable state">Alternative stable state</a></li>
+<li><a href="/wiki/Balance_of_nature" title="Balance of nature">Balance of nature</a></li>
+<li><a href="/wiki/Biological_data_visualization" title="Biological data visualization">Biological data visualization</a></li>
+<li><a href="/wiki/Cline_(biology)" title="Cline (biology)">Ecocline</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ecological_forecasting" title="Ecological forecasting">Ecological forecasting</a></li>
+<li><a href="/wiki/Ecological_humanities" title="Ecological humanities">Ecological humanities</a></li>
+<li><a href="/wiki/Ecological_stoichiometry" title="Ecological stoichiometry">Ecological stoichiometry</a></li>
+<li><a href="/wiki/Ecopath" title="Ecopath">Ecopath</a></li>
+<li><a class="mw-redirect" href="/wiki/Ecosystem_based_fisheries" title="Ecosystem based fisheries">Ecosystem based fisheries</a></li>
+<li><a href="/wiki/Endolith" title="Endolith">Endolith</a></li>
+<li><a href="/wiki/Evolutionary_ecology" title="Evolutionary ecology">Evolutionary ecology</a></li>
+<li><a href="/wiki/Functional_ecology" title="Functional ecology">Functional ecology</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Macroecology" title="Macroecology">Macroecology</a></li>
+<li><a href="/wiki/Microecosystem" title="Microecosystem">Microecosystem</a></li>
+<li><a href="/wiki/Natural_environment" title="Natural environment">Natural environment</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Urban_ecology" title="Urban ecology">Urban ecology</a></li>
+<li><a href="/wiki/Theoretical_ecology" title="Theoretical ecology">Theoretical ecology</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a class="mw-redirect" href="/wiki/List_of_ecology_topics" title="List of ecology topics">List of ecology topics</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2284
+Cached time: 20181002080845
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.184 seconds
+Real time usage: 0.248 seconds
+Preprocessor visited node count: 474/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 43369/2097152 bytes
+Template argument size: 74/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7366/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.075/10.000 seconds
+Lua memory usage: 2.44 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  149.159      1 -total
+ 53.82%   80.274      1 Template:Reflist
+ 44.94%   67.034      2 Template:Cite_book
+ 28.73%   42.859      1 Template:About
+ 12.22%   18.223      1 Template:Modelling_ecosystems
+ 10.10%   15.066      2 Template:Navbox
+  2.38%    3.552      1 Template:Main
+  1.21%    1.811      1 Template:Main_other
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1418389-0!canonical and timestamp 20181002080845 and revision id 862113699
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Phototroph&amp;oldid=862113699">https://en.wikipedia.org/w/index.php?title=Phototroph&amp;oldid=862113699</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Photosynthesis" title="Category:Photosynthesis">Photosynthesis</a></li><li><a href="/wiki/Category:Trophic_ecology" title="Category:Trophic ecology">Trophic ecology</a></li><li><a href="/wiki/Category:Microbial_growth_and_nutrition" title="Category:Microbial growth and nutrition">Microbial growth and nutrition</a></li><li><a href="/wiki/Category:Biology_terminology" title="Category:Biology terminology">Biology terminology</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Phototroph" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Phototroph" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Phototroph" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Phototroph" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Phototroph">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Phototroph&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Phototroph&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Phototroph" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Phototroph" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Phototroph&amp;oldid=862113699" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Phototroph&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q335183" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Phototroph&amp;id=862113699" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Phototroph">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Phototroph&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Phototroph&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Fototroof" hreflang="af" lang="af" title="Fototroof – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B6%D9%88%D8%A6%D9%8A_%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9" hreflang="ar" lang="ar" title="ضوئي التغذية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-an"><a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Fototrofia" hreflang="an" lang="an" title="Fototrofia – Aragonese">Aragonés</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Kng-%C3%AAng-i%C3%B3ng_seng-bu%CC%8Dt" hreflang="zh-min-nan" lang="zh-min-nan" title="Kng-êng-ióng seng-bu̍t – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Fototr%C3%B2fia" hreflang="ca" lang="ca" title="Fototròfia – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Fototrofie" hreflang="cs" lang="cs" title="Fototrofie – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Fotoautotrofi" hreflang="da" lang="da" title="Fotoautotrofi – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Phototrophie" hreflang="de" lang="de" title="Phototrophie – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Fototroof" hreflang="et" lang="et" title="Fototroof – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A6%CF%89%CF%84%CF%8C%CF%84%CF%81%CE%BF%CF%86%CE%BF%CF%82" hreflang="el" lang="el" title="Φωτότροφος – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Fotoaut%C3%B3trofo" hreflang="es" lang="es" title="Fotoautótrofo – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Fototrofo" hreflang="eo" lang="eo" title="Fototrofo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Fototrofo" hreflang="eu" lang="eu" title="Fototrofo – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%86%D9%88%D8%B1%D9%BE%D8%B1%D9%88%D8%B1%D8%AF" hreflang="fa" lang="fa" title="نورپرورد – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Phototrophie" hreflang="fr" lang="fr" title="Phototrophie – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/F%C3%B3tatr%C3%B3fach" hreflang="ga" lang="ga" title="Fótatrófach – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Fot%C3%B3trofo" hreflang="gl" lang="gl" title="Fotótrofo – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B4%91%EC%98%81%EC%96%91%EC%83%9D%EB%AC%BC" hreflang="ko" lang="ko" title="광영양생물 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B6%E0%A4%BE%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A5%80" hreflang="hi" lang="hi" title="प्रकाशाहारी – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Fototrof" hreflang="id" lang="id" title="Fototrof – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Fototrofia" hreflang="it" lang="it" title="Fototrofia – Italian">Italiano</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Fototrof" hreflang="jv" lang="jv" title="Fototrof – Javanese">Basa Jawa</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Fototroof" hreflang="nl" lang="nl" title="Fototroof – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%85%89%E6%A0%84%E9%A4%8A%E7%94%9F%E7%89%A9" hreflang="ja" lang="ja" title="光栄養生物 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Fotoautotrofi" hreflang="no" lang="no" title="Fotoautotrofi – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Fotoautotrofy" hreflang="pl" lang="pl" title="Fotoautotrofy – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Fotoautotrofia" hreflang="pt" lang="pt" title="Fotoautotrofia – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%82%D0%BE%D1%82%D1%80%D0%BE%D1%84%D1%8B" hreflang="ru" lang="ru" title="Фототрофы – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Phototroph" hreflang="simple" lang="simple" title="Phototroph – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Fototrofni_organizem" hreflang="sl" lang="sl" title="Fototrofni organizem – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A4%D0%BE%D1%82%D0%BE%D1%82%D1%80%D0%BE%D1%84%D0%B8" hreflang="sr" lang="sr" title="Фототрофи – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Fototrofi" hreflang="sh" lang="sh" title="Fototrofi – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Fototrofi" hreflang="fi" lang="fi" title="Fototrofi – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Fotoautotrof" hreflang="sv" lang="sv" title="Fotoautotrof – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%92%E0%AE%B3%E0%AE%BF%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%A8%E0%AF%81%E0%AE%A3%E0%AF%8D%E0%AE%A3%E0%AF%81%E0%AE%AF%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8D" hreflang="ta" lang="ta" title="ஒளிச்சேர்க்கை நுண்ணுயிரிகள் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A4%D0%BE%D1%82%D0%BE%D1%82%D1%80%D0%BE%D1%84%D0%B8" hreflang="uk" lang="uk" title="Фототрофи – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Sinh_v%E1%BA%ADt_quang_d%C6%B0%E1%BB%A1ng" hreflang="vi" lang="vi" title="Sinh vật quang dưỡng – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%85%89%E5%85%BB%E7%94%9F%E7%89%A9" hreflang="zh" lang="zh" title="光养生物 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q335183#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 2 October 2018, at 08:08<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Phototroph&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.184","walltime":"0.248","ppvisitednodes":{"value":474,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":43369,"limit":2097152},"templateargumentsize":{"value":74,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7366,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  149.159      1 -total"," 53.82%   80.274      1 Template:Reflist"," 44.94%   67.034      2 Template:Cite_book"," 28.73%   42.859      1 Template:About"," 12.22%   18.223      1 Template:Modelling_ecosystems"," 10.10%   15.066      2 Template:Navbox","  2.38%    3.552      1 Template:Main","  1.21%    1.811      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.075","limit":"10.000"},"limitreport-memusage":{"value":2561013,"limit":52428800}},"cachereport":{"origin":"mw2284","timestamp":"20181002080845","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw2271"});});</script>
+</body>
+</html>

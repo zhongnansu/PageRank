@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Standard hydrogen electrode - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Standard_hydrogen_electrode","wgTitle":"Standard hydrogen electrode","wgCurRevisionId":860391473,"wgRevisionId":860391473,"wgArticleId":578150,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Electrodes","Hydrogen technologies"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Standard_hydrogen_electrode","wgRelevantArticleId":578150,"wgRequestId":"W7o4vwrAEDcAAEQQiuQAAAAN","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q898559","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Standard_hydrogen_electrode" rel="alternate"/>
+<link href="/w/index.php?title=Standard_hydrogen_electrode&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Standard_hydrogen_electrode&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Standard_hydrogen_electrode" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Standard_hydrogen_electrode rootpage-Standard_hydrogen_electrode skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Standard hydrogen electrode</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>The <b> Standard hydrogen electrode</b> (abbreviated <b>SHE</b>), is a <a class="mw-redirect" href="/wiki/Redox_electrode" title="Redox electrode">redox electrode</a> which forms the basis of the <a class="mw-redirect" href="/wiki/Table_of_standard_electrode_potentials" title="Table of standard electrode potentials">thermodynamic scale of oxidation-reduction potentials</a>. Its <a href="/wiki/Absolute_electrode_potential" title="Absolute electrode potential">absolute electrode potential</a> is estimated to be <span class="nowrap">4.44 ± 0.02 V</span> at 25 °C, but to form a basis for comparison with all other electrode reactions, hydrogen's <a href="/wiki/Standard_electrode_potential" title="Standard electrode potential">standard electrode potential</a> (<i>E</i><sup>0</sup>) is declared to be zero volts at all temperatures.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Potentials of any other electrodes are compared with that of the standard hydrogen electrode at the same temperature.
+</p><p>Hydrogen electrode is based on the redox <a class="mw-redirect" href="/wiki/Half_cell" title="Half cell">half cell</a>:
+</p>
+<dl><dd>2 H<sup>+</sup>(aq) + 2 e<sup>−</sup> → H<sub>2</sub>(g)</dd></dl>
+<p>This redox reaction occurs at a platinized <a href="/wiki/Platinum" title="Platinum">platinum</a> electrode.
+The electrode is dipped in an acidic solution and pure hydrogen gas is bubbled through it. The concentration of both the reduced form and oxidised form is maintained at unity. That implies that the pressure of hydrogen gas is 1 bar (100 kPa) and the activity of hydrogen ions in the solution is unity. The activity of hydrogen ions is their effective concentration, which is equal to the formal concentration times the <a href="/wiki/Activity_coefficient" title="Activity coefficient">activity coefficient</a>. These unit-less activity coefficients are close to 1.00 for very dilute water solutions, but usually lower for more concentrated solutions. 
+The <a href="/wiki/Nernst_equation" title="Nernst equation">Nernst equation</a> should be written as:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E={RT \over F}\ln {\frac {a_{\mathrm {H^{+}} }}{\sqrt {p_{\mathrm {H_{2}} }/p^{0}}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>R</mi>
+<mi>T</mi>
+</mrow>
+<mi>F</mi>
+</mfrac>
+</mrow>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<msup>
+<mi mathvariant="normal">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>+</mo>
+</mrow>
+</msup>
+</mrow>
+</mrow>
+</msub>
+<msqrt>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi mathvariant="normal">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msup>
+</msqrt>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E={RT \over F}\ln {\frac {a_{\mathrm {H^{+}} }}{\sqrt {p_{\mathrm {H_{2}} }/p^{0}}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E={RT \over F}\ln {\frac {a_{\mathrm {H^{+}} }}{\sqrt {p_{\mathrm {H_{2}} }/p^{0}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/591e8247d2aa1d88e88734343ee59f6e8063d98a" style="vertical-align: -4.671ex; width:21.836ex; height:8.009ex;"/></span></dd></dl>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E=-{2.303RT \over F}\mathrm {pH} -{RT \over 2F}\ln {\frac {p_{\mathrm {H_{2}} }}{p^{0}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2.303</mn>
+<mi>R</mi>
+<mi>T</mi>
+</mrow>
+<mi>F</mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">p</mi>
+<mi mathvariant="normal">H</mi>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>R</mi>
+<mi>T</mi>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mi>F</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi mathvariant="normal">H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mrow>
+</msub>
+<msup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E=-{2.303RT \over F}\mathrm {pH} -{RT \over 2F}\ln {\frac {p_{\mathrm {H_{2}} }}{p^{0}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E=-{2.303RT \over F}\mathrm {pH} -{RT \over 2F}\ln {\frac {p_{\mathrm {H_{2}} }}{p^{0}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ac091f1b1e645319a34866cd3e20b5dfaf27e2fc" style="vertical-align: -2.505ex; width:33.343ex; height:5.843ex;"/></span></dd></dl>
+<p>where:
+</p>
+<ul><li><i>a</i><sub>H<sup>+</sup></sub> is the <a class="mw-redirect" href="/wiki/Activity_(chemistry)" title="Activity (chemistry)">activity</a> of the hydrogen ions, <i>a</i><sub>H<sup>+</sup></sub> = <i>f</i><sub>H<sup>+</sup></sub><i>C</i><sub>H<sup>+</sup></sub> / <i>C</i><sup>0</sup></li>
+<li><i>p</i><sub>H<sub>2</sub></sub> is the partial pressure of the <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a> gas, in <a href="/wiki/Pascal_(unit)" title="Pascal (unit)">pascals</a>, Pa</li>
+<li><i>R</i> is the <a class="mw-redirect" href="/wiki/Universal_gas_constant" title="Universal gas constant">universal gas constant</a></li>
+<li><i>T</i> is the temperature, in <a href="/wiki/Kelvin" title="Kelvin">kelvins</a></li>
+<li><i>F</i> is the <a href="/wiki/Faraday_constant" title="Faraday constant">Faraday constant</a> (the charge per mole of electrons), equal to 9.6485309 × 10<sup>4</sup> C mol<sup>−1</sup></li>
+<li><i>p</i><sup>0</sup> is the standard pressure, 10<sup>5</sup> Pa</li></ul>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Relationship_between_the_normal_hydrogen_electrode_(NHE)_and_the_standard_hydrogen_electrode_(SHE)"><span class="tocnumber">1</span> <span class="toctext">Relationship between the normal hydrogen electrode (NHE) and the standard hydrogen electrode (SHE)</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Choice_of_platinum"><span class="tocnumber">2</span> <span class="toctext">Choice of platinum</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Interference"><span class="tocnumber">3</span> <span class="toctext">Interference</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Isotopic_effect"><span class="tocnumber">4</span> <span class="toctext">Isotopic effect</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Construction"><span class="tocnumber">5</span> <span class="toctext">Construction</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<h2><span id="Relationship_between_the_normal_hydrogen_electrode_.28NHE.29_and_the_standard_hydrogen_electrode_.28SHE.29"></span><span class="mw-headline" id="Relationship_between_the_normal_hydrogen_electrode_(NHE)_and_the_standard_hydrogen_electrode_(SHE)">Relationship between the normal hydrogen electrode (NHE) and the standard hydrogen electrode (SHE)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_hydrogen_electrode&amp;action=edit&amp;section=1" title="Edit section: Relationship between the normal hydrogen electrode (NHE) and the standard hydrogen electrode (SHE)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During the early development of electrochemistry, researchers used the normal hydrogen electrode as their standard for zero potential.  This was convenient because it could <i>actually be constructed</i> by "[immersing] a platinum electrode into a solution of 1 <a class="mw-redirect" href="/wiki/Normality_(chemistry)" title="Normality (chemistry)">N</a> strong acid and [bubbling] hydrogen gas through the solution at about 1 atm pressure".  However, this electrode/solution interface was later changed.  What replaced it was a theoretical electrode/solution interface, where the concentration of H<sup>+</sup> was 1 <a class="mw-redirect" href="/wiki/Molarity" title="Molarity">M</a>, but the H<sup>+</sup> ions were assumed to have no interaction with other ions (a condition not physically attainable at those concentrations).  To differentiate this new standard from the previous one it was given the name 'Standard Hydrogen Electrode'.
+<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup>
+</p><p>In summary,
+</p>
+<dl><dd>NHE:  potential of a platinum electrode in 1 N acid solution</dd></dl>
+<dl><dd>SHE:  potential of a platinum electrode in a theoretical <a href="/wiki/Ideal_solution" title="Ideal solution">ideal solution</a> (the current <b>standard</b> for zero potential for all temperatures)</dd></dl>
+<h2><span class="mw-headline" id="Choice_of_platinum">Choice of platinum</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_hydrogen_electrode&amp;action=edit&amp;section=2" title="Edit section: Choice of platinum">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The choice of platinum for the hydrogen electrode is due to several factors:
+</p>
+<ul><li>inertness of platinum (it does not corrode)</li>
+<li>the capability of platinum to catalyze the reaction of proton reduction</li>
+<li>a high intrinsic <a href="/wiki/Exchange_current_density" title="Exchange current density">exchange current density</a> for proton reduction on platinum</li>
+<li>excellent reproducibility of the potential (bias of less than 10 μV when two well-made hydrogen electrodes are compared with one another)<sup class="reference" id="cite_ref-Sawyer_3-0"><a href="#cite_note-Sawyer-3">[3]</a></sup></li></ul>
+<p>The surface of platinum is platinized (i.e., covered with <a href="/wiki/Platinum_black" title="Platinum black">platinum black</a>)  to:
+</p>
+<ul><li>Increase total surface area. This improves reaction kinetics and maximum possible current</li>
+<li>Use a surface material that <a href="/wiki/Adsorption" title="Adsorption">adsorbs</a> hydrogen well at its interface. This also improves reaction kinetics</li></ul>
+<p>Other metals can be used for building electrodes with a similar function such as the <a href="/wiki/Palladium-hydrogen_electrode" title="Palladium-hydrogen electrode">palladium-hydrogen electrode</a>.
+</p>
+<h2><span class="mw-headline" id="Interference">Interference</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_hydrogen_electrode&amp;action=edit&amp;section=3" title="Edit section: Interference">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Because of the high adsorption activity of the platinized platinum electrode, it's very important to protect electrode surface and solution from the presence of organic substances as well as from atmospheric oxygen. Inorganic ions that can reduce to a lower valency state at the electrode also have to be avoided (e.g., Fe<sup>3+</sup>, <span class="chemf nowrap">CrO<span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1em;font-size:80%;text-align:left"><sup style="font-size:inherit;line-height:inherit;vertical-align:baseline">2−</sup><br/><sub style="font-size:inherit;line-height:inherit;vertical-align:baseline">4</sub></span></span>). A number of organic substances are also reduced by hydrogen at a platinum surface, and these also have to be avoided.
+</p><p>Cations that can reduce and deposit on the platinum can be source of interference: silver, mercury, copper, lead, cadmium and thallium.
+</p><p>Substances that can inactivate ("poison") the catalytic sites include arsenic, sulfides and other sulfur compounds, colloidal substances, alkaloids, and material found in living systems.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Isotopic_effect">Isotopic effect</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_hydrogen_electrode&amp;action=edit&amp;section=4" title="Edit section: Isotopic effect">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The standard redox potential of the deuterium couple is slightly different from that of the proton couple (ca. −0.0044 V vs SHE). Various values in this range have been obtained: −0.0061 V,<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> −0.00431 V,<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> −0.0074 V.
+</p>
+<dl><dd>2 D<sup>+</sup>(aq) + 2 e<sup>−</sup> → D<sub>2</sub>(g)</dd></dl>
+<p>Also difference occur when <a href="/wiki/Hydrogen_deuteride" title="Hydrogen deuteride">hydrogen deuteride</a> is used instead of hydrogen in the electrode.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>
+</p>
+<h2><span class="mw-headline" id="Construction">Construction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_hydrogen_electrode&amp;action=edit&amp;section=5" title="Edit section: Construction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Standard_hydrogen_electrode_2009-02-06.svg"><img alt="Standard hydrogen electrode 2009-02-06.svg" class="thumbimage" data-file-height="627" data-file-width="424" height="325" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Standard_hydrogen_electrode_2009-02-06.svg/220px-Standard_hydrogen_electrode_2009-02-06.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Standard_hydrogen_electrode_2009-02-06.svg/330px-Standard_hydrogen_electrode_2009-02-06.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Standard_hydrogen_electrode_2009-02-06.svg/440px-Standard_hydrogen_electrode_2009-02-06.svg.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Standard_hydrogen_electrode_2009-02-06.svg" title="Enlarge"></a></div></div></div></div>
+<p>The scheme of the standard hydrogen electrode:
+</p>
+<ol><li><a href="/wiki/Platinum_black" title="Platinum black">platinized</a> platinum electrode</li>
+<li>hydrogen blow</li>
+<li>solution of the acid with activity of H<sup>+</sup> = 1 mol dm<sup>−3</sup></li>
+<li>hydroseal for prevention of the oxygen interference</li>
+<li>reservoir through which the second half-element of the galvanic cell should be attached. The connection can be direct, through a narrow tube to reduce mixing, or through a <a href="/wiki/Salt_bridge" title="Salt bridge">salt bridge</a>, depending on the other  electrode and solution. This creates an ionically conductive path to the working electrode of interest.</li></ol>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_hydrogen_electrode&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Standard_hydrogen_electrode" title="commons:Standard hydrogen electrode">Standard hydrogen electrode</a></b></i>.</td></tr></tbody></table>
+<ul><li><a class="mw-redirect" href="/wiki/Table_of_standard_electrode_potentials" title="Table of standard electrode potentials">Table of standard electrode potentials</a></li>
+<li><a href="/wiki/Reversible_hydrogen_electrode" title="Reversible hydrogen electrode">Reversible hydrogen electrode</a></li>
+<li><a href="/wiki/Palladium-hydrogen_electrode" title="Palladium-hydrogen electrode">Palladium-hydrogen electrode</a></li>
+<li><a href="/wiki/Reference_electrode" title="Reference electrode">Reference electrode</a></li>
+<li><a href="/wiki/Dynamic_hydrogen_electrode" title="Dynamic hydrogen electrode">Dynamic hydrogen electrode</a></li>
+<li><a href="/wiki/Quinhydrone_electrode" title="Quinhydrone electrode">Quinhydrone electrode</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_hydrogen_electrode&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">IUPAC</a>, <i><a class="mw-redirect" href="/wiki/Compendium_of_Chemical_Terminology" title="Compendium of Chemical Terminology">Compendium of Chemical Terminology</a></i>, 2nd ed. (the "Gold Book") (1997). Online corrected version:  (2006–) "<a class="external text" href="http://goldbook.iupac.org/S05917.html" rel="nofollow">standard hydrogen electrode</a>".</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ramette, R. W. (October 1987). "Outmoded terminology: The normal hydrogen electrode". <i>Journal of Chemical Education</i>. <b>64</b> (10): 885. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1987JChEd..64..885R" rel="nofollow">1987JChEd..64..885R</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fed064p885" rel="nofollow">10.1021/ed064p885</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Chemical+Education&amp;rft.atitle=Outmoded+terminology%3A+The+normal+hydrogen+electrode&amp;rft.volume=64&amp;rft.issue=10&amp;rft.pages=885&amp;rft.date=1987-10&amp;rft_id=info%3Adoi%2F10.1021%2Fed064p885&amp;rft_id=info%3Abibcode%2F1987JChEd..64..885R&amp;rft.aulast=Ramette&amp;rft.aufirst=R.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+hydrogen+electrode"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Sawyer-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sawyer_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Sawyer, D. T.; Sobkowiak, A.; Roberts, J. L., Jr. (1995). <i>Electrochemistry for Chemists</i> (2nd ed.). John Wiley and Sons.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Electrochemistry+for+Chemists&amp;rft.edition=2nd&amp;rft.pub=John+Wiley+and+Sons&amp;rft.date=1995&amp;rft.aulast=Sawyer&amp;rft.aufirst=D.+T.&amp;rft.au=Sobkowiak%2C+A.&amp;rft.au=Roberts%2C+J.+L.%2C+Jr.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+hydrogen+electrode"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Ives, D. J. G.; Janz, G. J. (1961). <i>Reference Electrodes: Theory and Practice</i>. Academic Press.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Reference+Electrodes%3A+Theory+and+Practice&amp;rft.pub=Academic+Press&amp;rft.date=1961&amp;rft.aulast=Ives&amp;rft.aufirst=D.+J.+G.&amp;rft.au=Janz%2C+G.+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+hydrogen+electrode"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Znamirovschi, V. (January 1970). "Isotopie Equilibrium at the Normal Hydrogen Electrode". <i>Isotopenpraxis Isotopes in Environmental and Health Studies</i>. <b>6</b> (1): 29–31. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1080%2F10256017008621700" rel="nofollow">10.1080/10256017008621700</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Isotopenpraxis+Isotopes+in+Environmental+and+Health+Studies&amp;rft.atitle=Isotopie+Equilibrium+at+the+Normal+Hydrogen+Electrode&amp;rft.volume=6&amp;rft.issue=1&amp;rft.pages=29-31&amp;rft.date=1970-01&amp;rft_id=info%3Adoi%2F10.1080%2F10256017008621700&amp;rft.aulast=Znamirovschi&amp;rft.aufirst=V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+hydrogen+electrode"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gary, Robert; Bates, Roger G.; Robinson, R. A. (May 1964). "Thermodynamics of Solutions of Deuterium Chloride in Heavy Water from 5 to 50°". <i>The Journal of Physical Chemistry</i>. <b>68</b> (5): 1186–1190. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fj100787a037" rel="nofollow">10.1021/j100787a037</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Physical+Chemistry&amp;rft.atitle=Thermodynamics+of+Solutions+of+Deuterium+Chloride+in+Heavy+Water+from+5+to+50%C2%B0&amp;rft.volume=68&amp;rft.issue=5&amp;rft.pages=1186-1190&amp;rft.date=1964-05&amp;rft_id=info%3Adoi%2F10.1021%2Fj100787a037&amp;rft.aulast=Gary&amp;rft.aufirst=Robert&amp;rft.au=Bates%2C+Roger+G.&amp;rft.au=Robinson%2C+R.+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+hydrogen+electrode"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wakao, S.; Yonemura, Y. (February 1983). "Anodic polarization behaviour of hydride-deuteride electrodes". <i>Journal of the Less Common Metals</i>. <b>89</b> (2): 481–488. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0022-5088%2883%2990359-4" rel="nofollow">10.1016/0022-5088(83)90359-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+Less+Common+Metals&amp;rft.atitle=Anodic+polarization+behaviour+of+hydride-deuteride+electrodes&amp;rft.volume=89&amp;rft.issue=2&amp;rft.pages=481-488&amp;rft.date=1983-02&amp;rft_id=info%3Adoi%2F10.1016%2F0022-5088%2883%2990359-4&amp;rft.aulast=Wakao&amp;rft.aufirst=S.&amp;rft.au=Yonemura%2C+Y.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+hydrogen+electrode"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Standard_hydrogen_electrode&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation journal">Palibroda, Evelina (January 1967). "Note sur l'activation anodique de la surface du métal support de l'électrode à hydrogène". <i>Journal of Electroanalytical Chemistry and Interfacial Electrochemistry</i>. <b>15</b>: 92–95. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0022-0728%2867%2985013-7" rel="nofollow">10.1016/0022-0728(67)85013-7</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Electroanalytical+Chemistry+and+Interfacial+Electrochemistry&amp;rft.atitle=Note+sur+l%27activation+anodique+de+la+surface+du+m%C3%A9tal+support+de+l%27%C3%A9lectrode+%C3%A0+hydrog%C3%A8ne&amp;rft.volume=15&amp;rft.pages=92-95&amp;rft.date=1967-01&amp;rft_id=info%3Adoi%2F10.1016%2F0022-0728%2867%2985013-7&amp;rft.aulast=Palibroda&amp;rft.aufirst=Evelina&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AStandard+hydrogen+electrode"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw2166
+Cached time: 20180929141918
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.260 seconds
+Real time usage: 0.348 seconds
+Preprocessor visited node count: 649/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17210/2097152 bytes
+Template argument size: 715/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 17810/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.146/10.000 seconds
+Lua memory usage: 2.59 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  263.618      1 -total
+ 68.81%  181.400      1 Template:Reflist
+ 57.72%  152.152      5 Template:Cite_journal
+ 19.90%   52.450      1 Template:Chem
+ 17.02%   44.858      1 Template:Chem/link
+ 14.31%   37.725      3 Template:Chem/atom
+  8.47%   22.325      1 Template:Su
+  6.60%   17.403      2 Template:Cite_book
+  4.35%   11.461      1 Template:Commons
+  3.69%    9.729      1 Template:Sister_project
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:578150-0!canonical!math=5 and timestamp 20180929141918 and revision id 860391473
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Standard_hydrogen_electrode&amp;oldid=860391473">https://en.wikipedia.org/w/index.php?title=Standard_hydrogen_electrode&amp;oldid=860391473</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electrodes" title="Category:Electrodes">Electrodes</a></li><li><a href="/wiki/Category:Hydrogen_technologies" title="Category:Hydrogen technologies">Hydrogen technologies</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Standard+hydrogen+electrode" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Standard+hydrogen+electrode" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Standard_hydrogen_electrode" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Standard_hydrogen_electrode" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Standard_hydrogen_electrode">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Standard_hydrogen_electrode&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Standard_hydrogen_electrode&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Standard_hydrogen_electrode" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Standard_hydrogen_electrode" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Standard_hydrogen_electrode&amp;oldid=860391473" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Standard_hydrogen_electrode&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q898559" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Standard_hydrogen_electrode&amp;id=860391473" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Standard+hydrogen+electrode">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Standard+hydrogen+electrode&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Standard_hydrogen_electrode&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Standard_hydrogen_electrode" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%82%D8%B7%D8%A8_%D8%A7%D9%84%D9%87%D9%8A%D8%AF%D8%B1%D9%88%D8%AC%D9%8A%D9%86_%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D8%A7%D8%B1%D9%8A" hreflang="ar" lang="ar" title="قطب الهيدروجين المعياري – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Standardna_vodikova_elektroda" hreflang="bs" lang="bs" title="Standardna vodikova elektroda – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/El%C3%A8ctrode_est%C3%A0ndard_d%27hidrogen" hreflang="ca" lang="ca" title="Elèctrode estàndard d'hidrogen – Catalan">Català</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Electrod_hydrogen_safonol" hreflang="cy" lang="cy" title="Electrod hydrogen safonol – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Wasserstoffelektrode" hreflang="de" lang="de" title="Wasserstoffelektrode – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Electrodo_est%C3%A1ndar_de_hidr%C3%B3geno" hreflang="es" lang="es" title="Electrodo estándar de hidrógeno – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%D9%88%D8%AF_%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF_%D9%87%DB%8C%D8%AF%D8%B1%D9%88%DA%98%D9%86" hreflang="fa" lang="fa" title="الکترود استاندارد هیدروژن – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89lectrode_standard_%C3%A0_hydrog%C3%A8ne" hreflang="fr" lang="fr" title="Électrode standard à hydrogène – French">Français</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Standardna_vodikova_elektroda" hreflang="hr" lang="hr" title="Standardna vodikova elektroda – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Elettrodo_standard_a_idrogeno" hreflang="it" lang="it" title="Elettrodo standard a idrogeno – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%A7%D7%98%D7%A8%D7%95%D7%93%D7%AA_%D7%9E%D7%99%D7%9E%D7%9F_%D7%AA%D7%A7%D7%A0%D7%99%D7%AA" hreflang="he" lang="he" title="אלקטרודת מימן תקנית – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%82%D1%8B_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B4" hreflang="kk" lang="kk" title="Стандартты электрод – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Standaard-waterstofelektrode" hreflang="nl" lang="nl" title="Standaard-waterstofelektrode – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%9F%BA%E6%BA%96%E9%9B%BB%E6%A5%B5#標準水素電極" hreflang="ja" lang="ja" title="基準電極 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Elektroda_wodorowa" hreflang="pl" lang="pl" title="Elektroda wodorowa – Polish">Polski</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B4" hreflang="ru" lang="ru" title="Водородный электрод – Russian">Русский</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Standardna_vodikova_elektroda" hreflang="sh" lang="sh" title="Standardna vodikova elektroda – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Standardivetyelektrodi" hreflang="fi" lang="fi" title="Standardivetyelektrodi – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/V%C3%A4te-elektrod" hreflang="sv" lang="sv" title="Väte-elektrod – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Standart_hidrojen_elektrodu" hreflang="tr" lang="tr" title="Standart hidrojen elektrodu – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BD%D0%B5%D0%B2%D0%B8%D0%B9_%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B4" hreflang="uk" lang="uk" title="Водневий електрод – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C4%90i%E1%BB%87n_c%E1%BB%B1c_hydro_ti%C3%AAu_chu%E1%BA%A9n" hreflang="vi" lang="vi" title="Điện cực hydro tiêu chuẩn – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%A0%87%E5%87%86%E6%B0%A2%E7%94%B5%E6%9E%81" hreflang="zh" lang="zh" title="标准氢电极 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q898559#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 20 September 2018, at 10:53<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Standard_hydrogen_electrode&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.260","walltime":"0.348","ppvisitednodes":{"value":649,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17210,"limit":2097152},"templateargumentsize":{"value":715,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":17810,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  263.618      1 -total"," 68.81%  181.400      1 Template:Reflist"," 57.72%  152.152      5 Template:Cite_journal"," 19.90%   52.450      1 Template:Chem"," 17.02%   44.858      1 Template:Chem/link"," 14.31%   37.725      3 Template:Chem/atom","  8.47%   22.325      1 Template:Su","  6.60%   17.403      2 Template:Cite_book","  4.35%   11.461      1 Template:Commons","  3.69%    9.729      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.146","limit":"10.000"},"limitreport-memusage":{"value":2718142,"limit":52428800}},"cachereport":{"origin":"mw2166","timestamp":"20180929141918","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw2256"});});</script>
+</body>
+</html>

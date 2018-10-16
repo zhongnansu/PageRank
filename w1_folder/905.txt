@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Chemisorption - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chemisorption","wgTitle":"Chemisorption","wgCurRevisionId":859632808,"wgRevisionId":859632808,"wgArticleId":68518,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Physical chemistry","Catalysis"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Chemisorption","wgRelevantArticleId":68518,"wgRequestId":"W7tfAQrAEDYAAJg14kcAAABV","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q899417","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.32.0-wmf.24" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Chemisorption" rel="alternate"/>
+<link href="/w/index.php?title=Chemisorption&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Chemisorption&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Chemisorption" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Chemisorption rootpage-Chemisorption skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Chemisorption</h1> <div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div> <div id="contentSub"></div>
+<div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Chemisorption</b> is a kind of <a href="/wiki/Adsorption" title="Adsorption">adsorption</a> which involves a chemical reaction between the surface and the adsorbate.  New chemical bonds are generated at the adsorbant surface.  Examples include macroscopic phenomena that can be very obvious, like <a href="/wiki/Corrosion" title="Corrosion">corrosion</a>, and subtler effects associated with <a href="/wiki/Heterogeneous_catalysis" title="Heterogeneous catalysis">heterogeneous catalysis</a>. The strong interaction between the <a class="mw-redirect" href="/wiki/Adsorbate" title="Adsorbate">adsorbate</a> and the <a href="/wiki/Substrate_(chemistry)" title="Substrate (chemistry)">substrate</a> <a href="/wiki/Interface_(matter)" title="Interface (matter)">surface</a> creates new types of electronic <a href="/wiki/Chemical_bond" title="Chemical bond">bonds</a>.<sup class="reference" id="cite_ref-oura_1-0"><a href="#cite_note-oura-1">[1]</a></sup>
+</p><p>In contrast with chemisorption is <a href="/wiki/Physisorption" title="Physisorption">physisorption</a>, which leaves the chemical species of the <a class="mw-redirect" href="/wiki/Adsorbate" title="Adsorbate">adsorbate</a> and surface intact. It is conventionally accepted that the energetic threshold separating the <a href="/wiki/Binding_energy" title="Binding energy">binding energy</a> of "physisorption" from that of "chemisorption" is about 0.5 eV per adsorbed <a href="/wiki/Chemical_species" title="Chemical species">species</a>.
+</p><p>Due to specificity, the nature of chemisorption can greatly differ, depending on the chemical identity and the surface structure.
+</p>
+<div class="toc" id="toc"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Uses"><span class="tocnumber">1</span> <span class="toctext">Uses</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Self-assembled_monolayers"><span class="tocnumber">2</span> <span class="toctext">Self-assembled monolayers</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Gas-surface_chemisorption"><span class="tocnumber">3</span> <span class="toctext">Gas-surface chemisorption</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Adsorption_kinetics"><span class="tocnumber">3.1</span> <span class="toctext">Adsorption kinetics</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Modeling"><span class="tocnumber">3.2</span> <span class="toctext">Modeling</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Dissociation_chemisorption"><span class="tocnumber">3.3</span> <span class="toctext">Dissociation chemisorption</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Bibliography"><span class="tocnumber">6</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Uses">Uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemisorption&amp;action=edit&amp;section=1" title="Edit section: Uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An important example of chemisorption is in <a href="/wiki/Heterogeneous_catalysis" title="Heterogeneous catalysis">heterogeneous catalysis</a> which involves molecules reacting with each other via the formation of chemisorbed intermediates.  After the chemisorbed species combine (by forming bonds with each other) the product desorbs from the surface.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Hydrogenation_on_catalyst.png"><img alt="" class="thumbimage" data-file-height="1017" data-file-width="451" height="496" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hydrogenation_on_catalyst.png/220px-Hydrogenation_on_catalyst.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hydrogenation_on_catalyst.png/330px-Hydrogenation_on_catalyst.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hydrogenation_on_catalyst.png/440px-Hydrogenation_on_catalyst.png 2x" width="220"/></a> <div class="thumbcaption"><div class="magnify"><a class="internal" href="/wiki/File:Hydrogenation_on_catalyst.png" title="Enlarge"></a></div><a href="/wiki/Hydrogenation" title="Hydrogenation">Hydrogenation</a> of an <a href="/wiki/Alkene" title="Alkene">alkene</a> on a solid catalyst entails chemisorption of the molecules of hydrogen and alkene, which form bonds to the surface atoms.</div></div></div>
+<h2><span class="mw-headline" id="Self-assembled_monolayers">Self-assembled monolayers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemisorption&amp;action=edit&amp;section=2" title="Edit section: Self-assembled monolayers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="new" href="/w/index.php?title=Self-Assembled_monolayer&amp;action=edit&amp;redlink=1" title="Self-Assembled monolayer (page does not exist)">Self-Assembled monolayers</a> (SAMs) are formed by chemisorbing reactive reagents with metal surfaces.  A famous example involves <a href="/wiki/Thiol" title="Thiol">thiols</a> (RS-H) adsorbing onto the surface of <a href="/wiki/Gold" title="Gold">gold</a>.  This process forms strong Au-SR bonds and releases H<sub>2</sub>.  The densely packed SR groups protect the surface.
+</p>
+<h2><span class="mw-headline" id="Gas-surface_chemisorption">Gas-surface chemisorption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemisorption&amp;action=edit&amp;section=3" title="Edit section: Gas-surface chemisorption">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Adsorption_kinetics">Adsorption kinetics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemisorption&amp;action=edit&amp;section=4" title="Edit section: Adsorption kinetics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As an instance of adsorption, chemisorption follows the adsorption process.  The first stage is for the adsorbate particle to come into contact with the surface.  The particle needs to be trapped onto the surface by not possessing enough energy to leave the gas-surface <a href="/wiki/Potential_well" title="Potential well">potential well</a>.  If it elastically collides with the surface, then it would return to the bulk gas.  If it loses enough <a href="/wiki/Momentum" title="Momentum">momentum</a> through an <a href="/wiki/Inelastic_collision" title="Inelastic collision">inelastic collision</a>, then it "sticks" onto the surface, forming a precursor state bonded to the surface by weak forces, similar to physisorption.  The particle diffuses on the surface until it finds a deep chemisorption potential well.  Then it reacts with the surface or simply desorbs after enough energy and time.<sup class="reference" id="cite_ref-rettner_2-0"><a href="#cite_note-rettner-2">[2]</a></sup>
+</p><p>The reaction with the surface is dependent on the chemical species involved.  Applying the <a class="mw-redirect" href="/wiki/Gibbs_energy" title="Gibbs energy">Gibbs energy</a> equation for reactions:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \Delta G=\Delta H-T\Delta S}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>G</mi>
+<mo>=</mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>H</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta G=\Delta H-T\Delta S}</annotation>
+</semantics>
+</math></span><img alt="\Delta G=\Delta H-T\Delta S" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/062377921bd620d44f679e76b7fc687d07ce2c79" style="vertical-align: -0.505ex; width:18.772ex; height:2.343ex;"/></span></dd></dl>
+<p>General <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a> states that for spontaneous reactions at constant temperature and pressure, the change in free energy should be negative.  Since a free particle is restrained to a surface, and unless the surface atom is highly mobile, entropy is lowered.  This means that the <a href="/wiki/Enthalpy" title="Enthalpy">enthalpy</a> term must be negative, implying an <a href="/wiki/Exothermic_reaction" title="Exothermic reaction">exothermic reaction</a>.<sup class="reference" id="cite_ref-gasser_3-0"><a href="#cite_note-gasser-3">[3]</a></sup>
+</p><p>Figure 1 is a graph of physisorption and chemisorption energy curves of <a href="/wiki/Tungsten" title="Tungsten">tungsten</a> and <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>.  Physisorption is given as a <a href="/wiki/Lennard-Jones_potential" title="Lennard-Jones potential">Lennard-Jones potential</a> and chemisorption is given as a <a href="/wiki/Morse_potential" title="Morse potential">Morse potential</a>.  There exists a point of crossover between the physisorption and chemisorption, meaning a point of transfer.  It can occur above or below the zero-energy line (with a difference in the Morse potential, a), representing an <a href="/wiki/Activation_energy" title="Activation energy">activation energy</a> requirement or lack of.  Most simple gases on clean metal surfaces lack the activation energy requirement.
+</p>
+<h3><span class="mw-headline" id="Modeling">Modeling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemisorption&amp;action=edit&amp;section=5" title="Edit section: Modeling">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For experimental setups of chemisorption, the amount of adsorption of a particular system is quantified by a sticking probability value.<sup class="reference" id="cite_ref-gasser_3-1"><a href="#cite_note-gasser-3">[3]</a></sup>
+</p><p>However, chemisorption is very difficult to theorize.  A multidimensional <a href="/wiki/Potential_energy_surface" title="Potential energy surface">potential energy surface</a> (PES) derived from <a href="/wiki/Effective_medium_approximations" title="Effective medium approximations">effective medium theory</a> is used to describe the effect of the surface on absorption, but only certain parts of it are used depending on what is to be studied.  A simple example of a PES, which takes the total of the energy as a function of location:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E(\{R_{i}\})=E_{el}(\{R_{i}\})+V_{\text{ion-ion}}(\{R_{i}\})}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo stretchy="false">(</mo>
+<mo fence="false" stretchy="false">{</mo>
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo fence="false" stretchy="false">}</mo>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>l</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mo fence="false" stretchy="false">{</mo>
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo fence="false" stretchy="false">}</mo>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>ion-ion</mtext>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mo fence="false" stretchy="false">{</mo>
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo fence="false" stretchy="false">}</mo>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E(\{R_{i}\})=E_{el}(\{R_{i}\})+V_{\text{ion-ion}}(\{R_{i}\})}</annotation>
+</semantics>
+</math></span><img alt="E(\{R_{i}\})=E_{{el}}(\{R_{i}\})+V_{{{\text{ion-ion}}}}(\{R_{i}\})" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d4e47545f577d0a678a2be2ebaf2f96c20f2c486" style="vertical-align: -0.838ex; width:37.534ex; height:2.843ex;"/></span></dd></dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle E_{el}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>e</mi>
+<mi>l</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{el}}</annotation>
+</semantics>
+</math></span><img alt="E_{{el}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e2b1a273aa1a67c1a40819f3e186eba2601487fc" style="vertical-align: -0.671ex; width:3.204ex; height:2.509ex;"/></span> is the <a class="mw-redirect" href="/wiki/Energy_eigenstates" title="Energy eigenstates">energy eigenvalue</a> of the <a href="/wiki/Schr%C3%B6dinger_equation" title="Schrödinger equation">Schrödinger equation</a> for the electronic degrees of freedom and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle V_{ion-ion}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+<mi>o</mi>
+<mi>n</mi>
+<mo>−<!-- − --></mo>
+<mi>i</mi>
+<mi>o</mi>
+<mi>n</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V_{ion-ion}}</annotation>
+</semantics>
+</math></span><img alt="V_{{ion-ion}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2da91cd49915c139233cace0df1dd8896ebf0ec5" style="vertical-align: -0.671ex; width:7.568ex; height:2.509ex;"/></span> is the ion interactions.  This expression is without translational energy, <a href="/wiki/Rotational_energy" title="Rotational energy">rotational energy</a>, vibrational excitations, and other such considerations.<sup class="reference" id="cite_ref-norskov_4-0"><a href="#cite_note-norskov-4">[4]</a></sup>
+</p><p>There exist several models to describe surface reactions: the <a href="/wiki/Langmuir_adsorption_model" title="Langmuir adsorption model">Langmuir-Hinschelwood mechanism</a> in which both reacting species are adsorbed, and the <a href="/wiki/Reactions_on_surfaces" title="Reactions on surfaces">Eley-Rideal mechanism</a> in which one is adsorbed and the other reacts with it.<sup class="reference" id="cite_ref-gasser_3-2"><a href="#cite_note-gasser-3">[3]</a></sup>
+</p><p>Real systems have many irregularities, making theoretical calculations more difficult:<sup class="reference" id="cite_ref-clark_5-0"><a href="#cite_note-clark-5">[5]</a></sup>
+</p>
+<ul><li>Solid surfaces are not necessarily at equilibrium.</li>
+<li>They may be perturbed and irregular, defects and such.</li>
+<li>Distribution of adsorption energies and odd adsorption sites.</li>
+<li>Bonds formed between the adsorbates.</li></ul>
+<p>Compared to physisorption where adsorbates are simply sitting on the surface, the adsorbates can change the surface, along with its structure.  The structure can go through relaxation, where the first few layers change interplanar distances without changing the surface structure, or reconstruction where the surface structure is changed.<sup class="reference" id="cite_ref-clark_5-1"><a href="#cite_note-clark-5">[5]</a></sup>
+</p><p>For example, oxygen can form very strong bonds (~4 eV) with metals, such as Cu(110).  This comes with the breaking apart of surface bonds in forming surface-adsorbate bonds.  A large restructuring occurs by missing row as seen in Figure 2.
+</p>
+<h3><span class="mw-headline" id="Dissociation_chemisorption">Dissociation chemisorption</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemisorption&amp;action=edit&amp;section=6" title="Edit section: Dissociation chemisorption">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A particular brand of gas-surface chemisorption is the <a href="/wiki/Dissociation_(chemistry)" title="Dissociation (chemistry)">dissociation</a> of <a href="/wiki/Diatomic_molecule" title="Diatomic molecule">diatomic</a> gas molecules, such as <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a>, <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>, and <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a>.  One model used to describe the process is precursor-mediation.  The absorbed molecule is adsorbed onto a surface into a precursor state.  The molecule then diffuses across the surface to the chemisorption sites.  They break the molecular bond in favor of new bonds to the surface.  The energy to overcome the activation potential of dissociation usually comes from the translational energy and vibrational energy.<sup class="reference" id="cite_ref-rettner_2-1"><a href="#cite_note-rettner-2">[2]</a></sup>
+</p><p>An example is the hydrogen and <a href="/wiki/Copper" title="Copper">copper</a> system, one that has been studied many times over.  It has a large activation energy of .35 – .85 eV.  The vibrational excitation of the hydrogen molecule promotes dissociation on low index surfaces of copper.<sup class="reference" id="cite_ref-rettner_2-2"><a href="#cite_note-rettner-2">[2]</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemisorption&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Adsorption" title="Adsorption">Adsorption</a></li>
+<li><a href="/wiki/Physisorption" title="Physisorption">Physisorption</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemisorption&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-oura-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-oura_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Oura, K.; V. G. Lifshits; A. A. Saranin; A. V. Zotov; M. Katayama (2003). <i>Surface Science, An Introduction</i>. Berlin: Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/3-540-00545-5" title="Special:BookSources/3-540-00545-5">3-540-00545-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Surface+Science%2C+An+Introduction&amp;rft.place=Berlin&amp;rft.pub=Springer&amp;rft.date=2003&amp;rft.isbn=3-540-00545-5&amp;rft.aulast=Oura&amp;rft.aufirst=K.&amp;rft.au=V.+G.+Lifshits&amp;rft.au=A.+A.+Saranin&amp;rft.au=A.+V.+Zotov&amp;rft.au=M.+Katayama&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChemisorption"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-rettner-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-rettner_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rettner_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-rettner_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Rettner, C.T; Auerbach, D.J. (1996). "Chemical Dynamics at the Gas-Surface Interface". <i>Journal of Physical Chemistry</i>. <b>100</b> (31): 13021–13033. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fjp9536007" rel="nofollow">10.1021/jp9536007</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Physical+Chemistry&amp;rft.atitle=Chemical+Dynamics+at+the+Gas-Surface+Interface&amp;rft.volume=100&amp;rft.issue=31&amp;rft.pages=13021-13033&amp;rft.date=1996&amp;rft_id=info%3Adoi%2F10.1021%2Fjp9536007&amp;rft.aulast=Rettner&amp;rft.aufirst=C.T&amp;rft.au=Auerbach%2C+D.J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChemisorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-gasser-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-gasser_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gasser_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-gasser_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Gasser, R.P.H.; (1985) <i>An introduction to chemisorption and catalysis by metals</i>, Clarendon Press, Oxford</span>
+</li>
+<li id="cite_note-norskov-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-norskov_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Norskov, J.K. (1990). "Chemisorption on metal surfaces". <i>Reports on Progress in Physics</i>. <b>53</b> (10): 1253–1295. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1990RPPh...53.1253N" rel="nofollow">1990RPPh...53.1253N</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1088%2F0034-4885%2F53%2F10%2F001" rel="nofollow">10.1088/0034-4885/53/10/001</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reports+on+Progress+in+Physics&amp;rft.atitle=Chemisorption+on+metal+surfaces&amp;rft.volume=53&amp;rft.issue=10&amp;rft.pages=1253-1295&amp;rft.date=1990&amp;rft_id=info%3Adoi%2F10.1088%2F0034-4885%2F53%2F10%2F001&amp;rft_id=info%3Abibcode%2F1990RPPh...53.1253N&amp;rft.aulast=Norskov&amp;rft.aufirst=J.K.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChemisorption"></span><link href="mw-data:TemplateStyles:r861714446" rel="mw-deduplicated-inline-style"/></span>
+</li>
+<li id="cite_note-clark-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-clark_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-clark_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Clark, A.; (1974); <i>The Chemisorptive Bond: Basic Concepts</i>, Academic Press, New York and London</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chemisorption&amp;action=edit&amp;section=9" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>F.C. Tompkins <i>Chemisorption of gases on metals</i>, Academic Press, (1978)</li>
+<li>L. Schlapbach, A. Zuttel, Nature 414, p 353-358 (2001)</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw2242
+Cached time: 20180929134958
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.160 seconds
+Real time usage: 0.222 seconds
+Preprocessor visited node count: 335/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 5005/2097152 bytes
+Template argument size: 77/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 9837/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.086/10.000 seconds
+Lua memory usage: 2.16 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  146.822      1 Template:Reflist
+100.00%  146.822      1 -total
+ 59.15%   86.843      1 Template:Cite_book
+ 27.93%   41.003      2 Template:Cite_journal
+  1.75%    2.570      1 Template:Main_other
+-->
+<!-- Saved in parser cache with key enwiki:pcache:idhash:68518-0!canonical!math=5 and timestamp 20180929134957 and revision id 859632808
+ -->
+</div><noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Chemisorption&amp;oldid=859632808">https://en.wikipedia.org/w/index.php?title=Chemisorption&amp;oldid=859632808</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Physical_chemistry" title="Category:Physical chemistry">Physical chemistry</a></li><li><a href="/wiki/Category:Catalysis" title="Category:Catalysis">Catalysis</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Chemisorption" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Chemisorption" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Chemisorption" title="View the content page [c]">Article</a></span></li><li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Chemisorption" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<input aria-labelledby="p-variants-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Chemisorption">Read</a></span></li><li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Chemisorption&amp;action=edit" title="Edit this page [e]">Edit</a></span></li><li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Chemisorption&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li> </ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<input aria-labelledby="p-cactions-label" class="vectorMenuCheckbox" type="checkbox"/>
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Chemisorption" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Chemisorption" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Chemisorption&amp;oldid=859632808" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Chemisorption&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q899417" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Chemisorption&amp;id=859632808" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Chemisorption">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Chemisorption&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Chemisorption&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Chemisorption" hreflang="de" lang="de" title="Chemisorption – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Kemosorptsioon" hreflang="et" lang="et" title="Kemosorptsioon – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%90%D0%B4%D1%81%D0%BE%D1%80%D0%B1%D1%86%D0%B8" hreflang="ky" lang="ky" title="Адсорбци – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%8C%96%E5%AD%A6%E5%90%B8%E7%9D%80" hreflang="ja" lang="ja" title="化学吸着 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Chemisorpcja" hreflang="pl" lang="pl" title="Chemisorpcja – Polish">Polski</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BC%D0%BE%D1%81%D0%BE%D1%80%D0%B1%D1%86%D1%96%D1%8F" hreflang="uk" lang="uk" title="Хемосорбція – Ukrainian">Українська</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q899417#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 15 September 2018, at 08:16<span class="anonymous-show"> (UTC)</span>.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://foundation.wikimedia.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Chemisorption&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.160","walltime":"0.222","ppvisitednodes":{"value":335,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":5005,"limit":2097152},"templateargumentsize":{"value":77,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9837,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  146.822      1 Template:Reflist","100.00%  146.822      1 -total"," 59.15%   86.843      1 Template:Cite_book"," 27.93%   41.003      2 Template:Cite_journal","  1.75%    2.570      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.086","limit":"10.000"},"limitreport-memusage":{"value":2267199,"limit":52428800}},"cachereport":{"origin":"mw2242","timestamp":"20180929134958","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw2255"});});</script>
+</body>
+</html>
